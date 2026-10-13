@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Facebook's parent company Meta will no longer pay for news content in Australia, in a major funding blow to news providers.
+Subscribe now for unlimited access.
+or signup to continue reading
+The move sets up a fight between the global tech company and the federal government, with Assistant Treasurer Stephen Jones indicating it is willing to use the media bargaining code to force Meta to negotiate in good faith with Australian media companies.
+Prime Minister Anthony Albanese has also decried Meta's announcement, saying it is "not the Australian way".
+The end of Facebook News
+Meta voluntarily entered into commercial agreements with a number Australian media organisations, including ACM, in 2021 to publish their news coverage via a dedicated feed called Facebook News.
+But from early April, Meta will shut down Facebook News in Australia and the United States, the company wrote in an online post on Friday, following a similar decision in Germany, France and the UK last year.
+While Meta will honour existing Facebook News agreements, it will not renew these contracts, many of which expire around the end of the 2024 financial year and are believed to be collectively worth around $70 million per annum.
+Communications Minister Michelle Rowland said Meta's decision is "an abrogation of responsibility to Australia's news media sector", and poses a threat to an industry already under strain.
+"Australian journalists provide one of the most important public goods in our democracy, and Australian news media publishers deserve to be fairly compensated for the investments that they make in that," Ms Rowland said.
+"... The government is very disappointed at this outcome. [Meta's] decision undermines the viability of a healthy, democratic open media. It removes a significant source of revenue to Australian news media publishers."
+Government vows to take 'all the steps we have available to us'
+Mr Jones said the government had sought advice from Treasury and the Australian Competition and Consumer Commission, and would "be taking all steps available to it" under the news media bargaining code.
+"From the Prime Minister to every minister in his government, we want to make it quite clear that we're backing Australian journalism," Mr Jones told reporters.
+"We're not talking about some plucky little start-up here; we're talking about one of the world's largest and most profitable companies. It has a responsibility to ensure that it pays for the content that... is being used on its platform. And frankly, that it's making millions and millions of dollars out of."
+The news media bargaining code allows the government to "designate" certain digital platforms, and force them to enter good faith negotiations with news media companies.
+The Treasurer has not had to designate a digital company so far, as Meta and Google both voluntarily came to the table in 2021.
+Greens, union call on Labor to force Meta to the table
+The Greens have called on the Albanese government to move to designate Meta under the code. Media and communications spokesperson Senator Sarah Hanson-Young said the company cannot be allowed to bully journalists.
+"A big tech company like Meta cannot be allowed to bully users, journalists and democratically elected governments by deciding which laws of the land they will choose to comply with," Senator Hanson-Young said.
+"Without professional, fact-based journalism Facebook will just be a collection of conspiracy theories, outrage and misinformation. 
+"At a time when globally fake news and propaganda are at an all time high, we need to ensure that major platforms like Facebook are able to be a source of public interest journalism."
+The Media, Entertainment and Arts Alliance - the union representing journalists and media professionals - slammed Meta's decision, and urged the government to up systemic, long-term funding for journalism via its News Media Assistance Program.
+"This is an arrogant act by a company with too much power that thinks it is beyond the reach of any government," MEAA media federal president Karen Percy said.
+"... Meta should compensate news organisations for making money from their journalism - if it won't do it voluntarily, the federal government must use the powers it has to force it to."

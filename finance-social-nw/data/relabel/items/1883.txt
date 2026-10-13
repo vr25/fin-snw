@@ -1,0 +1,18 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+We're a month into the new year, and major indexes on the stock market have been mostly steady so far.
+However, not every corner of the market has been quiet. One of the biggest stories of 2026 is the sudden implosion of software stocks.
+The sector that was famously "eating the world," according to venture capitalist Marc Andreessen, now appears to be turning to cannibalism. Marquee names in the sector like Microsoft (MSFT +3.66%), Palantir (PLTR -1.52%), and ServiceNow (NOW -1.57%) have all plunged, and the iShares Expanded Tech-Software Sector ETF (IGV -1.06%), which tracks major software stocks like those three, fell 16% in January, plunging 7% over the last two days of the month after Microsoft, ServiceNow, and SAP all reported earnings Wednesday.
+NYSEMKT: IGV
+Key Data Points
+What's happening in the software sector
+Fundamentally, there's no obvious reason for the sell-off as most of these companies continue to report solid growth numbers and guidance.
+However, according to chatter and commentary online, fears of AI disruption are raising doubts about the future of enterprise software. Investors believe that new AI tools could allow enterprise software customers to replace some of these products with in-house offerings, or that AI start-ups will take away market share from the established leaders.
+The other factor weighing on software stocks is their valuation. After a boom over the last three years, a historically expensive sector got even frothier, and it makes sense for some of that air to come out. For example, ServiceNow is now down 50% from its peak in late 2024, yet the stock still trades at a price-to-earnings ratio of 70.
+Some of the price corrections happening in the software sector seem healthy. Palantir, as another example, is down nearly 30% from its peak a few months ago, yet trades at a price-to-sales ratio of 99 and a price-to-earnings ratio of 353.
+The valuations in the software sector are also a notable contrast to semiconductor stocks, which are cheaper and growing faster, and are driving the AI boom. For example, Nvidia trades at a P/E of 47, but just reported 62% revenue growth in its most recent quarter.
+What's the right move for investors?
+It's impossible to predict short-term market movements, and sentiment can clearly change quickly in the AI era.
+Some of the fears of disruption may be valid, at least over the longer term, and the multiple compression seems reasonable. After all, ServiceNow still isn't cheap after falling by 50%. However, AI disruption won't happen overnight, and bigger companies should be more resilient and better able to defend their market share. There's also no indication in these companies' guidance that growth is suddenly decelerating. The sell-off would be much more justified if that were the case.
+The best opportunities right now in software are the highest-quality stocks, those with resilient business models and reliable GAAP earnings, like Microsoft. While there may be software stocks with more upside potential, Microsoft, especially with the strength of the Azure cloud computing business, looks like an easy buy, now down 23% from its peak last year.

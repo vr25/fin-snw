@@ -1,0 +1,20 @@
+{"id": "1620", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US President Donald Trump", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1621", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Donald Trump said a new", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1622", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Donald Trump said a new", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1623", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Donald Trump said a new", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1624", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "President Trump's latest executive", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1625", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "White House says $100K", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1626", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Chipmaker Nvidia will invest", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1627", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Datamatics, a global Digital", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1628", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft's New 'Microfluidic' Tech", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1629", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI and Oracle announced", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1630", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI CEO Admits 'People", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1631", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "NVIDIA's $100 Billion OpenAI", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1632", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Experts join forces to", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1633", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta will soon offer", "relation": "causal-driver", "sentiment_alignment": -0.5}
+{"id": "1634", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "When investors think about", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1635", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "When investors think about", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1636", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "When investors think about", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1637", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Venezuela's Maduro Slams YouTube", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1638", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Home>Lifestyle News>Google", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1639", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "YouTube will pay $24.5", "relation": "co-hype", "sentiment_alignment": -0.4}

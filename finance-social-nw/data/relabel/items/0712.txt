@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Indonesia issues regulation requiring digital platforms to pay media outlets for content
+JAKARTA - Indonesian President Joko Widodo said on Feb 20 that he had signed a regulation requiring digital platforms to pay media outlets that provide them with content, a move aimed at levelling the playing field between the media industry and big tech companies.
+Digital platforms in Indonesia include Meta Platforms’ Facebook, Alphabet’s Google and some local aggregators.
+“The spirit of the regulation is... to ensure fair cooperation between media and digital platforms, provide (a) clearer cooperation framework between them,” said Mr Widodo.
+Google said it will review the regulation. It has worked with news publishers and the government to build a sustainable news ecosystem in Indonesia, its spokesperson said.
+Facebook did not immediately respond to requests for comment on Feb 20.
+In a blog post in July 2023, Google’s Indonesia unit had warned the rule may hurt small publishers and creators, and “jeopardise the future of news media in Indonesia”.
+Mr Widodo said the drafting process of the regulation, proposed three years ago, had been very long due to different opinions among media and digital platforms.
+The regulation, posted on the government’s website, suggests cooperation between digital platforms and media companies could be in the form of paying licences or sharing data of news users.
+A committee would be formed to ensure digital platforms fulfil their responsibilities to the media companies, it said.
+The regulation, which takes effect in six months after being issued on Feb 20, would not harm content creators as it applies only to digital platforms, Mr Widodo said.
+Content creators had previously complained that it could restrict their operations.
+Communication and Information Minister Budi Arie Setiadi said in a statement that the regulation was part of government efforts to ensure media companies “are not eroded” by digital platforms.
+Indonesia joins Australia and Canada in pushing digital platforms to pay for news. Meta and Alphabet responded by restricting news availability on Instagram, Facebook and the Google search engine for users in Australia and Canada. REUTERS, BLOOMBERG

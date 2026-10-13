@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Nvidia's (NVDA +0.22%) stock soared 1,420% over the past five years. Its growth was largely driven by the expansion of the artificial intelligence (AI) market, which prompted more companies to install its high-end GPUs in their data centers.
+Nvidia generated 80% of its revenue from its data center chips in its latest quarter, while its gaming business -- its original growth engine prior to the AI boom -- only brought in 16% of its revenue. The bulls believe Nvidia's data center business will continue growing as companies develop more advanced generative AI platforms and large language models, and that its GPUs will remain the industry standard for processing those complicated tasks.
+Nvidia's current list of customers supports that bullish view. ChatGPT's creator OpenAI, Microsoft (MSFT +3.66%), Alphabet's (GOOG +0.61%)(GOOGL +0.46%) Google, Amazon, Meta Platforms (META -3.33%), and other tech giants all use its chips to power their AI services. But over the long term, other chipmakers could loosen Nvidia's iron grip on the AI market. Let's take a closer look at the three most likely challengers.
+NASDAQ: NVDA
+Key Data Points
+1. Intel
+Nvidia's GPUs usually work alongside Intel's (INTC -3.45%) high-end Xeon CPUs in data centers to accelerate machine learning and AI tasks. For Intel, which still controls about 94% of the server CPU market, Nvidia's expansion into the data center market is an unwelcome intrusion which implies its CPUs can't efficiently handle AI tasks on their own.
+CPUs still process one piece of data at a time, while GPUs process a large array of integers and floating point numbers simultaneously -- which makes them better suited for graphics and AI applications. To close that gap, Intel launched its own line of Xe GPUs in September 2020, and its Xe-HP (High Performance) and Xe-HPC (High Performance Compute) directly target Nvidia's data center GPUs. It followed that up with the rollout of its new "Max" data center GPUs last year.
+In an unusual departure from its first-party foundry model, Intel outsources the production of its GPUs to its rival Taiwan Semiconductor Manufacturing -- which also manufactures Nvidia's high-end GPUs. Those chips haven't gained much momentum yet, but Intel's ongoing expansion of that business -- and its ability to bundle its GPUs with its Xeon CPUs -- might eventually hurt Nvidia.
+NASDAQ: INTC
+Key Data Points
+2. Advanced Micro Devices
+Nvidia's expansion into the data center market gave it an edge against Advanced Micro Devices (AMD +0.22%), which controls a much smaller slice of the discrete GPU market. However, AMD has been fighting back with its new Instinct data center chips for AI tasks.
+It launched its first three Instinct GPUs (the MI6, MI8, and MI25) in 2017, which were followed by additional 7-nanometer and 6nm MI chips over the following four years. It launched its latest MI300 Instinct chips, which were built on TSMC's 5nm and 6nm nodes, last December. In the latest benchmarks, AMD's top-tier MI300X beats Nvidia's H100 in terms of processing power and memory bandwidth, but Nvidia claims the H100 still outperforms the MI300X when it's running on optimized software.
+AMD's AI ambitions could cause problems for Nvidia, especially if it continues its tradition of selling its chips at lower prices. Companies like Microsoft, Meta, Oracle, Dell, and Hewlett Packard Enterprise are already testing or running Instinct GPUs -- and that customer list could grow longer as cost-conscious data center operators shop around for the best deals.
+NASDAQ: AMD
+Key Data Points
+3. Internally developed chips
+Last but not least, Nvidia's dominance of the data center GPU market is driving many of its top customers -- including OpenAI, Microsoft, Google, Amazon, and Meta -- to develop their own AI accelerator chips. It could take years for those projects to bear fruit, but the development of those chips raises red flags for Nvidia's long-term growth.
+Last year, Google published a research paper that suggested its own fourth-generation TPUs (Tensor Processing Units) were faster and more efficient than Nvidia's A100 chips. Meta also recently poached an entire research team from Graphcore, the AI start-up that claims its "graph processing" method can process AI tasks more efficiently than Nvidia's GPUs.
+These tech giants are still buying a lot of Nvidia's A100 GPUs to process their AI tasks, but they could gradually replace those chips with their first-party silicon to cut costs. If that happens, Nvidia's biggest growth engine could sputter out.
+Investors shouldn't assume Nvidia is invincible
+Nvidia's future looks bright, but investors should expect it to face some unpredictable challenges over the next few years. Intel, AMD, and first-party chips won't throttle its growth anytime soon, but they could eventually evolve into major threats. Simply put, investors shouldn't assume Nvidia is an invincible leader of the AI market.

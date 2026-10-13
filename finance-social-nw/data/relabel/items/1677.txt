@@ -1,0 +1,99 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users.
+In 2025, OpenAI has battled the perception that it was ceding ground in the AI race to Chinese rivals like DeepSeek, all while the company has tried to shore up its relationship with Washington, pursued ambitious data center projects, and laid the groundwork for one of the largest funding rounds in history. Most recently though, headlines around OpenAI have focused on its competition gaining ground, with CEO Sam Altman’s “code red” internal memo shifting company focus toward its flagship chatbot.
+And going further into the archives for context, this year came after a packed 2024, from OpenAI’s partnership with Apple for its generative AI offering, Apple Intelligence, the release of GPT-4o with voice capabilities, and the highly-anticipated launch of its text-to-video model Sora.
+OpenAI also faced its share of internal drama, including the notable exits of high-level execs like co-founder and longtime chief scientist Ilya Sutskever and CTO Mira Murati. OpenAI has also been hit with lawsuits from Alden Global Capital-owned newspapers alleging copyright infringement, as well as an injunction from Elon Musk to halt OpenAI’s transition to a for-profit.
+Below, you’ll find a timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year. If you have any other questions, check out our ChatGPT FAQ here.
+To see a list of 2024-specific updates, go here.
+Timeline of the most recent ChatGPT updates
+December 2025
+OpenAI lets users tweak ChatGPT’s energy and tone
+OpenAI has added new controls in ChatGPT that let users adjust the chatbot’s warmth, enthusiasm, emoji use, and formatting style. This builds on existing tone options, addressing past complaints about the AI being too sycophantic or cold.
+OpenAI updates ChatGPT guidelines to protect teen users
+OpenAI has updated its guidelines for users under 18 and released new resources for parents to promote safer interactions with ChatGPT. Experts caution that while the rules are clearer on paper, it’s unclear how consistently the AI follows them in practice.
+ChatGPT hits $3B in mobile app revenue faster than TikTok
+ChatGPT has surpassed $3 billion in global consumer spending on mobile since its 2023 launch. This makes it one of the fastest-growing apps in terms of revenue, outpacing rivals like TikTok, Disney+, and HBO Max.
+OpenAI rolls out an updated image generation model
+OpenAI has released GPT Image 1.5, a new version of ChatGPT Images that’s faster and better at following instructions and making precise edits. The update comes as OpenAI races to keep up with Google’s Gemini and Nano Banana Pro in AI image generation.
+Disney gives OpenAI a one-year exclusive period before expanding AI licensing
+Disney is putting $1 billion into OpenAI as a way to dive into AI, letting users on Sora create videos using over 200 Disney characters, at least for the first year exclusively. Bob Iger says the deal gives Disney a chance to explore AI while protecting its characters and figuring out how to use this technology in the future.
+OpenAI highlights enterprise surge as Google pressure grows
+OpenAI says enterprise use of its AI tools has surged, with ChatGPT message volume up 8x since late 2024 and workers saving up to an hour a day. The data underscores OpenAI’s push to win enterprise customers as competition heats up from Google, Anthropic, and open-model rivals, a recurring theme you’ll see in recent updates.
+OpenAI unveils GPT-5.2 as Google rivalry heats up
+OpenAI rolled out its latest model, GPT-5.2, as competition with Google continued to heat up. The model will roll out to paid ChatGPT users and developers in three versions — Instant, Thinking, and Pro — tailored for everything from everyday tasks to complex reasoning and high-accuracy work.
+Disney partners with OpenAI to bring its characters to Sora AI videos
+Disney has signed a three-year deal with OpenAI, investing $1 billion and bringing characters from Disney, Marvel, Pixar, and Star Wars to OpenAI’s Sora video generator. The partnership will let users create AI videos using hundreds of Disney-owned characters, costumes, and props. On the same day, Disney notably launched a lawsuit against Google alleging “massive” copyright infringement occurring in its AI models.
+Altman calls ‘code red’ inside OpenAI as ChatGPT faces rising competition
+OpenAI CEO Sam Altman has put OpenAI on “code red,” telling staff the company will prioritize improving ChatGPT as pressure mounts from Google and other AI competitors, according to The Information. As part of the move, OpenAI plans to put some other initiatives, including advertising, on the back burner.
+November 2025
+OpenAI introduces AI assistant for online shopping
+OpenAI launched a new AI shopping feature in ChatGPT ahead of the peak holiday shopping window to help users research potential purchases. OpenAI’s new ChatGPT shopping feature lets users get product recommendations by describing features or sharing photos to find similar items at different prices. And they’re not alone, with both Perplexity and a slew of competitor startups playing in the commerce space.
+OpenAI refutes claims linking ChatGPT to teen’s death
+After Adam Raine’s family sued OpenAI in August, claiming their teen used ChatGPT as a “suicide coach,” OpenAI said in a new court filing that it isn’t liable, arguing the chatbot was misused. This marks OpenAI’s first response to a case that has raised wider concerns about chatbots and mental health risks.
+ChatGPT integrates voice mode into main interface
+OpenAI is bringing ChatGPT’s voice mode straight into the main chat, so you no longer have to jump to a separate screen. Now you can talk to ChatGPT and see everything it says and shows right in the same window.
+OpenAI blocked from ‘Cameo’ following trademark lawsuit
+OpenAI can’t use “cameo” for Sora features for now, following a trademark lawsuit from the video app Cameo, with the ban lasting until December 22.
+Group chat feature now available to all ChatGPT users
+ChatGPT is now getting group chats for everyone — Free, Go, Plus, and Pro users alike — after testing it in a few regions last week. You can now team up with friends, family, or co-workers in one chat with ChatGPT to plan, create, or make decisions together.
+OpenAI rolls out GPT‑5.1 with advanced reasoning and user-friendly tone
+OpenAI has released GPT‑5.1, upgrading the GPT‑5 series with two models: Instant, which it says will be warmer and more conversational with users, and Thinking, which offers faster, simple-task handling and more persistent complex reasoning. The update also introduces improved controls for customizing ChatGPT’s tone to better match user preferences.
+Munich court says ChatGPT violated music copyright laws
+A Munich court ruled that ChatGPT violated German copyright law by reproducing lyrics from nine protected songs, including Herbert Grönemeyer’s hits, rejecting OpenAI’s argument that the AI only reflected learned patterns. The decision could set a European precedent on AI use of copyrighted material, amid growing global legal challenges over AI and music rights.
+OpenAI eyes consumer health market with AI-powered tools
+OpenAI is exploring the consumer health sector, developing AI tools like personal health assistants and data aggregators, according to a report by Business Insider. With new healthcare-focused hires, it aims to simplify access to fragmented medical data — an area where Big Tech has struggled — through its conversational AI approach.
+Seven more families accuse OpenAI of negligence over ChatGPT-related suicides
+In November 2025, seven families sued OpenAI, alleging that GPT-4o was released prematurely without safeguards, contributing to suicides and severe psychiatric harm. One case involved 23-year-old Zane Shamblin, who told ChatGPT of his suicide plans, and the AI encouraged him. The lawsuits focus on GPT-4o’s tendency to be overly agreeable, despite users expressing dangerous intentions.
+OpenAI reaches 1 million business clients in record time
+On November 5, OpenAI announced that over 1 million businesses globally now use its products, making it the fastest-growing business platform in history. Companies across industries like finance, healthcare, and retail, including Amgen, Booking.com, Cisco, Morgan Stanley, T-Mobile, Target, and Thermo Fisher Scientific, are using ChatGPT and OpenAI’s developer tools to enhance operations and customer experiences.
+October 2025
+ChatGPT handles over a million suicide-related conversations weekly
+OpenAI revealed that a small but significant portion of ChatGPT users, more than a million weekly, discuss mental health struggles, including suicidal thoughts, psychosis, or mania, with the AI. The company says it has improved ChatGPT’s responses by consulting more than 170 mental health experts to handle such conversations more appropriately than earlier versions.
+OpenAI reportedly working on AI that create music from text and audio
+OpenAI is developing a new tool that generates music from text and audio prompts, potentially for enhancing videos or adding instrumentation, and is training it using annotated scores from Juilliard students, according to The Information. The launch date and whether it will be standalone or integrated with ChatGPT and Sora remain unclear.
+ChatGPT gets smarter at organizing your work and school info
+OpenAI’s new “company knowledge” update for ChatGPT lets Business, Enterprise, and Education users search workplace data across tools like Slack, Google Drive, and GitHub using GPT‑5, per a report by The Verge. The feature acts as a conversational search engine, providing more comprehensive and accurate answers by scouring multiple sources simultaneously.
+OpenAI launches Atlas to make ChatGPT your main search tool
+OpenAI has launched its AI browser, ChatGPT Atlas, starting on Mac, letting users get answers from ChatGPT instead of traditional search results. Unlike other AI browsers, Atlas is open to all users and will soon come to Windows, iOS, and Android, as OpenAI aims to make ChatGPT the go-to tool for browsing the web.
+ChatGPT app growth slows, but still draws millions of daily users
+A new Apptopia analysis suggests ChatGPT’s mobile app growth may be leveling off, with global download growth slowing since April. While daily installs remain in the millions, October is tracking an 8.1% month-over-month decline in new downloads.
+Walmart shopping comes to ChatGPT
+OpenAI is partnering with Walmart to allow users to browse products, plan meals, and make purchases through ChatGPT, with support for third-party sellers expected later this fall. The partnership is part of OpenAI’s broader effort to develop AI-driven e-commerce tools, including collaborations with Etsy and Shopify.
+OpenAI brings ChatGPT Go plan to 16 more Asian countries
+OpenAI is expanding its affordable ChatGPT Go plan, priced under $5, to 16 new countries across Asia, including Afghanistan, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Laos, Malaysia, Maldives, Thailand, Vietnam, and Pakistan. In some of these countries, users can pay in local currencies, while in others, payments are required in USD, with final costs varying due to local taxes.
+ChatGPT surpasses 800 million weekly active users
+ChatGPT now has 800 million weekly active users, reflecting rapid growth across consumers, developers, enterprises, and governments, Sam Altman said. This milestone comes as OpenAI accelerates efforts to expand its AI infrastructure and secure more chips to support rising demand.
+Developers can now build apps inside ChatGPT
+OpenAI now allows developers to build interactive apps directly inside ChatGPT, with early partners like Booking.com, Expedia, Spotify, Figma, Coursera, Zillow, and Canva already onboard. The ChatGPT maker is also rolling out a preview of its Apps SDK, a developer toolkit for creating these chat-based experiences.
+September 2025
+ChatGPT rolls out parental controls following teen suicide case
+OpenAI is reportedly adding parental controls to ChatGPT on web and mobile, letting parents and teens link accounts to enable safeguards like limiting sensitive content, setting quiet hours, and disabling features such as voice mode or image generation. The move comes amid growing regulatory scrutiny and a lawsuit over the chatbot’s alleged role in a teen’s suicide.
+OpenAI introduces ChatGPT Pulse for personalized morning briefs
+OpenAI unveiled Pulse, a new ChatGPT feature that delivers personalized morning briefings overnight, encouraging users to start their day with the app. The tool reflects a shift toward making ChatGPT more proactive and asynchronous, positioning it as a true assistant rather than just a chatbot. OpenAI’s new Applications CEO, Fidji Simo, called Pulse the first step toward bringing high-level personal support to everyone, starting with Pro users.
+OpenAI moves into AI-Powered shopping, challenging tech giants
+OpenAI launched Instant Checkout in ChatGPT, letting U.S. users purchase products directly from Etsy and, soon, over a million Shopify merchants without leaving the conversation. Shoppers can browse items, read reviews, and complete purchases with a single tap using Apple Pay, Google Pay, Stripe, or a credit card. The update marks a step toward reshaping online shopping by merging product discovery, recommendations, and payments in one place.
+OpenAI brings budget-friendly ChatGPT Go to Indonesian users
+OpenAI rolled out its budget-friendly ChatGPT Go plan in Indonesia for Rp 75,000 ($4.50) per month, following its initial launch in India. The mid-tier plan, which offers higher usage limits, image generation, file uploads, and better memory compared to the free version, enters the market in direct competition with Google’s new AI Plus plan in Indonesia.
+OpenAI tightens ChatGPT rules for teens amid safety concerns
+CEO Sam Altman announced new policies for under-18 users of ChatGPT, tightening safeguards around sensitive conversations. The company says it will block flirtatious exchanges with minors and add stronger protections around discussions of suicide, even escalating severe cases to parents or authorities. The move comes as OpenAI faces a wrongful death lawsuit tied to alleged chatbot interactions, underscoring rising concerns about the mental health risks of AI companions.
+OpenAI rolls out GPT-5-Codex to power smarter AI coding
+OpenAI rolled out GPT-5-Codex, a new version of its AI coding agent that can spend anywhere from a few seconds to seven hours tackling a task, depending on complexity. The company says this dynamic approach helps the model outperform GPT-5 on key coding benchmarks, including bug fixes and large-scale refactoring. The update comes as OpenAI looks to keep Codex competitive in a fast-growing market that now includes rivals like Claude Code, Cursor, and GitHub Copilot.
+OpenAI reshuffles team behind ChatGPT’s personality
+OpenAI is shaking up its Model Behavior team, the small but influential group that helps shape how its AI interacts with people. The roughly 14-person team is being folded into the larger Post Training group, now reporting to lead researcher Max Schwarzer. Meanwhile, founding leader Joanne Jang is spinning up a new unit called OAI Labs, focused on prototyping fresh ways for people to collaborate with AI.
+August 2025
+OpenAI to strengthen ChatGPT safeguards after teen suicide lawsuit
+OpenAI, facing a lawsuit from the parents of a 16-year-old who died by suicide, said in its blog that it has implemented new safeguards for ChatGPT, including stronger detection of mental health risks and parental control features. The AI company said the updates aim to provide tighter protections around suicide-related conversations and give parents more oversight of their children’s use.
+xAI claims Apple’s App Store practices give OpenAI an unfair advantage
+Elon Musk’s AI startup, xAI, filed a federal lawsuit in Texas against Apple and OpenAI, alleging that the two companies colluded to lock up key markets and shut out rivals.
+OpenAI targets India with cheaper monthly ChatGPT subscription
+OpenAI introduced its most affordable subscription plan, ChatGPT Go, in India, priced at 399 rupees per month (approximately $4.57). This move aims to expand OpenAI’s presence in its second-largest market, offering enhanced access to the latest GPT-5 model and additional features.
+ChatGPT mobile app hits $2B in revenue, $2.91 earned per install
+Since its May 2023 launch, ChatGPT’s mobile app has amassed $2 billion in global consumer spending, dwarfing competitors like Claude, Copilot, and Grok by roughly 30 times, according to Appfigures. This year alone, the app has generated $1.35 billion, a 673% increase from the same period in 2024, averaging nearly $193 million per month, or 53 times more than its nearest rival, Grok.
+OpenAI keeps multiple GPT models despite GPT-5 launch
+Despite unveiling GPT-5 as a “one-size-fits-all” AI, OpenAI is still offering several legacy AI options, including GPT-4o, GPT-4.1, and o3. Users can choose between new “Auto,” “Fast,” and “Thinking” modes for GPT-5, and paid subscribers regain access to legacy models like GPT-4o and GPT-4.1.
+Sam Altman addresses GPT-5 glitches and “chart crime” during Reddit AMA
+OpenAI CEO Sam Altman told Reddit users that GPT-5’s “dumber” behavior at launch was due to a router issue and promised fixes, double rate limits for Plus users, and transparency on which model is answering, while also shrugging off the infamous “chart crime” from the live presentation.
+OpenAI unveils GPT-5, a smarter, task-ready ChatGPT
+OpenAI released GPT-5, a next-gen AI that’s not just smarter but more useful — able to handle tasks like coding apps, m

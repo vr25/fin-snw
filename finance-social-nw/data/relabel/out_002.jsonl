@@ -1,0 +1,20 @@
+{"id": "0040", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "December 28 (SeeNews) - Romanian IT group", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0041", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In this article, we will take", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0042", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As Covid-19 continues to spread,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0043", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Elon Musk has arguably reached", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0044", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Elon Musk has arguably reached", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0045", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Elon Musk has arguably reached", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0046", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Google Pixel 7a could", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0047", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0048", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Date Las Vegas, Jan 9", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0049", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The Covid-19 pandemic triggered a", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0050", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Elon's (Good?) New DMCA", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0051", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "You Move, They Follow", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0052", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Microsoft announced it is laying", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0053", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft announced it is laying", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0054", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft announced it is laying", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0055", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "WhatsApp is to undergo a", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0056", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "I recently read an interesting", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0057", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "GAINESVILLE, Fla. – Is TikTok", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0058", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AI race heats up! Microsoft", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0059", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "AI race heats up! Microsoft", "relation": "substitute-comparison", "sentiment_alignment": -0.5}

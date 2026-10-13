@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+A federal judge on Tuesday rejected efforts by major social media companies to dismiss nationwide litigation accusing them of illegally enticing and then addicting millions of children to their platforms, damaging their mental health.
+US District Judge Yvonne Gonzalez Rogers in Oakland, California, ruled against Alphabet, which operates Google and YouTube; Meta Platforms, which operates Facebook and Instagram; ByteDance, which operates TikTok; and Snap, which operates Snapchat.
+The decision covers hundreds of lawsuits filed on behalf of individual children who allegedly suffered negative physical, mental and emotional health effects from social media use including anxiety, depression, and occasionally suicide.
+The litigation seeks, among other remedies, damages and a halt to the defendants' alleged wrongful practices.
+"Todayâs decision is a significant victory for the families that have been harmed by the dangers of social media," the plaintiffs' lead lawyers - Lexi Hazam, Previn Warren and Chris Seeger - said in a joint statement.
+More than 140 school districts have filed similar lawsuits against the industry that are also before Gonzalez, and 42 states plus the District of Columbia last month sued Meta for youth addiction to its social media platforms.
+Alphabet through a spokesperson called the allegations "simply not true," and said that protecting children "has always been core to our work." Other companies either did not immediately respond to requests for comment or have any comment.
+In her 52-page ruling, Rogers rejected arguments that the companies were immune from being sued under the US Constitution's First Amendment and a provision of the federal Communications Decency Act.
+The companies said that provision, Section 230, provides immunity from liability for anything users publish on their platforms, and required the dismissal of all claims.
+But Rogers said the plaintiffs' claims were broader than just focusing on third-party content and said the defendants did not address why they should not be liable for providing defective parental controls, not helping users limit screen time and creating barriers to deactivating accounts.
+She cited as an example allegations that companies could have used age-verification tools to warn parents when their children were online.
+"Accordingly, they pose a plausible theory under which failure to validly verify user age harms users that is distinct from harm caused by consumption of third-party content on defendants' platforms," Rogers wrote.
+Rogers said the companies legally owed a duty to their users arising from their status as product makers and could be sued for negligence over their duty to design reasonably safe products and to warn users of known defects.
+But the judge said the companies owed no legal obligation to protect users from harm from third-party users of their platforms, and she narrowed the litigation by dismissing some of the claims the plaintiffs were pursuing.

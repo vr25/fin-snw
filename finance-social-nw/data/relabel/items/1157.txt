@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Canadian news organizations are poised to receive their first slice of an annual $100-million payout from Google after the federal broadcasting regulator made a ruling on Monday that means the payments can now go ahead.
+Almost a year after Ottawa struck a deal with Google to pay news organizations for posting their journalism, the Canadian Radio-television and Telecommunications Commission (CRTC) gave the green light so the money can finally flow.
+The government welcomed the decision. “This is good news for the sustainability of the news ecosystem in Canada,” said Charles Thibault-Béland, spokesperson for Heritage Minister Pascale St-Onge.
+After a bitter standoff, a deal was struck last November between Google and Ottawa to support the news industry under the Online News Act, also known as Bill C-18.
+The act, which gained royal assent in June last year, required large online tech companies to pay Canadian media outlets for posting their journalism. It was designed to stem the closing of newsrooms after advertising migrated to tech platforms.
+Under the deal, negotiated by Ms. St-Onge, Google agreed to pay $100-million a year, indexed to inflation, to be distributed to eligible news businesses based on the number of full-time journalists they employ.
+But payments were contingent on the tech giant first getting an exemption from regulation under the Online News Act. The CRTC granted the tech giant a five-year exemption on Monday.
+Bill C-18 sparked a bitter battle between tech giants and the government. At one point, Google tested ways of blocking Canadians’ access to news websites, while Meta blocked all access to Canadian news on Facebook and Instagram, thereby exempting itself from the act.
+The act allowed Google to request an exemption from regulation if it reached an agreement with an organization that represents a broad range of Canadian news outlets.
+Google selected the Canadian Journalism Collective, a non-profit group of independent publishers and broadcasters, to distribute the money to eligible Canadian news organizations.
+Google, which applied for an exemption in June, must pay $100-million to the CJC within 60 days. The CJC will then distribute the funds to eligible news organizations.
+The decision means that news publishers and broadcasters, including the CBC, could receive their first cash injection early next year.
+Almost two-thirds of the $100-million Google funds will go to written media, including local papers serving francophone and Indigenous communities.
+Ottawa capped the CBC’s share of the funds at $7-million, with other broadcasters getting no more than $30-million.
+Paul Deegan, president and chief executive of News Media Canada, which represents print and digital media, including local papers and The Globe and Mail, says they stand to get around $63-million a year.
+He welcomed the CRTC ruling, saying: “We are very pleased with the CRTC’s decision to grant Google a five-year exemption, which will see a half billion dollars flow to news businesses under strict conditions that ensure the rules will be followed.”
+“We now call on Meta, whose platforms are more valuable with real news produced by real journalists, to follow Google’s socially responsible lead,” he added in a statement.
+The Canadian Journalism Collective said the decision, allowing it to distribute $500-million over five years to news media, sets a global precedent.
+“The CJC has worked hard to ensure that all news media, including big and small, benefit from the Online News Act fairly,” said Jean LaRose, a spokesperson. “Jurisdictions around the world are watching Canada. We can now offer a model that ensures Big Tech compensates news media for their content equitably.”
+The CRTC, which carried out a public consultation on whether Google had met the criteria for an exemption, said in its ruling that the five-year exemption can be renewed. It also said the act allows it to review an exemption order at any time, to make sure that the rules are followed.
+The act requires Google not to allow corporate influence to undermine freedom of expression or journalistic independence. The CRTC decided that Google has met the requirement to ensure that journalistic independence is protected.
+Some smaller news organizations argued that freelancers should be counted when calculating how much money news organizations get, based on the number of journalists they employ. But CBC/Radio Canada, Quebecor Media, Rogers, News Media Canada, and others said only journalists who are employed 35 hours a week should be factored into the calculation.
+The CRTC ruled that the distribution of the Google funds should be based not on freelance work but the number of permanent employees a news organization has.
+Mr. Deegan said “we think it is important to encourage permanent full-time employment in journalism. This rewards employers who invest in their newsroom and maintain and create jobs.”
+The CRTC said in its ruling that it will continue to have an oversight role ensuring that funding is distributed according to the requirements of the Online News Act and its regulations.

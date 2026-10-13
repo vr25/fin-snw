@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+With wide ranging stakeholders’ consultations having been completed, the MCA-appointed 10-member Committee on Digital Competition Law (CDCL) will April 13 commence deliberations on the contours of draft Digital Competition law.
+This will be the fifth meeting of this inter-ministerial panel since its constitution on February 6. There will be no special invitees from the start-up community or even Big Tech for the upcoming meet and the panel will internally begin deliberations on the draft of the proposed law, sources said.
+The 10-member panel is packed with lawyers from law firms representing the Big Tech in various ongoing matters before courts, raising eyebrows on the composition of the panel set up to help prevent the anti competitive conduct of large tech companies.
+It maybe recalled that CDCL, which also has representation from six other key ministries, has been given three months time to submit its report. CDCL has been tasked to examine the need for an ex-ante regulatory mechanism for digital markets through a separate legislation. It has also been tasked to prepare a draft Digital Competition Act.
+The panel will also have to review whether existing provisions in the Competition Act and the Rules and Regulations framed under it are sufficient to deal with the challenges that have emerged from the digital economy.
+India is contemplating the enactment of a Digital Competition Act at a time when there is growing concern among policymakers around the world about the power and dominance of tech giants in the digital economy, and the need to ensure a level playing field for all players in the market.
+Divided opinion
+Competition law experts are still divided on whether India needs a separate Digital competition law or not. Some still contend that it would be premature for India to go in for an ex ante framework through a separate law to prevent anti competitive conduct of Big Tech in digital markets.
+In the four meetings — held on February 22, March 4, March 11 and March 24 — the panel has heard the representatives from various Big Tech companies including Google, Apple, Amazon and Netflix; industry associations including Digital News Publishers and digital start-ups.
+Global examples
+India’s rapidly evolving digital economy is expected to touch $1 trillion by 2025-26. Even as India plans enactment of a Digital Competition law, the enactment of such laws in developed countries has been a mixed bag. Some countries have made significant progress in this area, while others have been slower to act.
+For example, the European Union has been at the forefront of digital competition law with its General Data Protection Regulation (GDPR) and its antitrust investigations and fines against tech giants like Google and Facebook. Additionally, the EU has proposed new regulations such as the Digital Markets Act and the Digital Services Act, which seek to create a more level playing field for businesses operating online.
+The United States has also taken some steps towards digital competition law with the ongoing antitrust investigations and lawsuits against companies like Google and Facebook. However, progress has been slower due to political and ideological divides.
+In contrast, countries like Japan and South Korea have been slower to enact digital competition laws, although they have started to take steps towards regulation in recent years.
+Overall, the enactment of digital competition laws in developed countries has been driven by a recognition of the increasing importance of the digital economy and the need to protect consumers and businesses from the negative effects of monopolistic practices in the digital space.
+.
+Published on April 7, 2023

@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Facebook's parent company Meta is laying off another 10,000 workers, or roughly 12% of its workforce, in order to cut costs and shore up efficiency, CEO Mark Zuckerberg announced Tuesday.
+"Last year was a humbling wake-up call. The world economy changed, competitive pressures grew, and our growth slowed considerably," Zuckerberg said in a statement shared with employees and posted to Facebook on Tuesday morning. "At this point, I think we should prepare ourselves for the possibility that this new economic reality will continue for many years."
+This round of layoffs at Meta, which is also the parent company for Instagram and WhatsApp, will start on Wednesday. Because of the company's latest hiring freeze, some recruiters will be immediately let go, Zuckerberg said.
+The company then plans to announce layoffs for technology groups in late April and business teams in May, Zuckerberg said.
+Over the next few months, leaders at the company will announce restructuring plans focused on "flattening" Meta's organizations, canceling "lower priority" projects, and reducing hiring rates," Zuckerberg said in the statement.
+Following the cuts, Meta is predicting the layoffs and restructuring efforts to save the company $3 billion, according to regulatory filings.
+The company also said it no longer plans to fill 5,000 currently open positions.
+Less is more, Zuckerberg says
+The latest wave of layoffs comes months after the company announced its largest reduction in staff since 2004, following a hiring spree fueled by rapid growth during the pandemic.
+In November, the company slashed 11,000 jobs, or about 13% of its workforce at the time, amid an industrywide slowdown to curb losses.
+That approach seems to have worked — at least according to Zuckerberg, even though he previously said he viewed "layoffs as a last resort."
+"Since we reduced our workforce last year, one surprising result is that many things have gone faster," he said in Tuesday's statement. "A leaner org will execute its highest priorities faster. People will be more productive, and their work will be more fun and fulfilling."
+The jobs cuts also come at a time when Meta is looking to put more into artificial intelligence, where competition is heating up.
+"Our single largest investment is in advancing AI and building it into every one of our products," Zuckerberg said.
+Meta is currently locked in a race for AI dominance against other Big Tech companies.
+Google unveiled its chatbot Bard earlier this year after Microsoft revealed it invested billions of dollars in the company behind ChatGPT, an AI chatbot that has taken the internet by storm.
+But those companies have not been spared the pain of what increasingly appears to be a major downturn in tech, either.
+In January, Google laid off 12,000 workers, or about 6% of its global workforce, days after Microsoft announced it was laying off 10,000 employees, or about 5% of its total staff — a cut that included all members of a team responsible for ensuring ethical AI practices. That revelation was first-reported by Platformer Monday.
+"This will be tough and there's no way around that. It will mean saying goodbye to talented and passionate colleagues who have been part of our success," said Zuckerberg. "They've dedicated themselves to our mission and I'm personally grateful for all their efforts."
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

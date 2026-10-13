@@ -1,0 +1,7 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft has fixed an issue where its Edge browser was again misbehaving, this time by automatically importing browsing data and tabs from Chrome without consent, Tom Warren at The Verge reported. He wrote: “I personally experienced the bug last month, after I rebooted my PC for a regular Windows update and Microsoft Edge automatically opened with the Chrome tabs I
+Jeffrey and Esbjorn hear what Doug Atkinson of enTourage has to say about the Pocket eDGe, a clamshell-style device with dual screens. It has a 7" TFT tablet screen on one side and a 6" e-Ink reader screen on the other. And to be clear, it's not two devices in one, it's one device with two screens. The eDGe will
+Help a geek get out of the Doghouse and win a big prize, listen and win. Thanks to all the contributors on todays shows. Hard to rate your own show but this one was about a 9! Sponsors: Sponsor: Save Money with all our GoDaddy Codes see our Promo Code Page [Try GoToMeeting free for 30 days at GoToMeeting.com/techpodcasts. No
+Some of the best show comments in a long time end of show voice mail and email is definitively worth hanging out for. Be sure to check out the Tech Podcast Round Table Video as well! Sponsors: Sponsor: Save Money with all our GoDaddy Codes see our Promo Code Page [Try GoToMeeting free for 30 days at GoToMeeting.com /techpodcasts. No

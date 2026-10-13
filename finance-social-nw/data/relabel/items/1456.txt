@@ -1,0 +1,74 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Wall Street wraps up volatile week as tariff fears resurface
+Last updated: 16:10 23 May 2025 EDT, First published: 08:00 23 May 2025 EDT
+4:08pm: Major indexes fall
+U.S. stocks wrapped up the week on a sour note Friday, May 23, with all the major indexes finishing lower as worries about tariffs and the ballooning federal deficit weighed on investor mood just ahead of the Memorial Day weekend.
+The major indexes closed lower across the board, with the Dow Jones falling 256 points, or 0.6%, to 41,603, and the S&P 500 dropping 39 points, or 0.7%, to 5,803. The Nasdaq slid 189 points, or 1%, to 18,737, while the Russell 2000 was the most resilient, easing just 4 points, or 0.2%, to 2,042.
+Tariffs, once again, took center stage. President Trump’s latest comments about slapping a 25% tariff on Apple iPhones made outside the U.S., coupled with a proposed 50% tariff on goods coming from the European Union, shook the market. Tech stocks, which are particularly sensitive to trade headlines, bore the brunt of the damage.
+Friday’s slide capped off a choppy week on Wall Street. All the major indexes are on track for weekly losses as investors grappled with the possible fallout from fresh tariffs and ongoing questions about the direction of U.S. fiscal policy. Adding to the quiet mood, trading volumes were lighter than usual as many looked ahead to the long holiday weekend.
+Markets are closed on Monday for Memorial Day, but when trading resumes, investors will be watching closely for any updates on trade talks and fiscal negotiations. Movement in Treasury yields will also be in focus as traders look for clues about what’s ahead for the economy and interest rates.
+3:23pm: Proactive news headlines
+Excellon Resources Inc (TSX:EXN, OTCQB:EXNRF) signed a non-binding agreement with Glencore subsidiaries for funding and offtake support to restart its Mallay Silver Mine in Peru.
+U.S. Global Investors (NASDAQ:GROW) CEO Frank Holmes highlighted President Trump’s recent Persian Gulf tour as a major catalyst for defense and tech sectors, citing massive economic deals in arms, aviation, and AI.
+Forte Minerals Corp (CSE:CUAU, OTCQB:FOMNF) announced plans to raise up to C$2.7 million via a private placement to fund drilling and exploration in Peru.
+Candel Therapeutics Inc (NASDAQ:CADL) will present positive Phase 3 data for CAN-2409 in prostate cancer at the 2025 ASCO Annual Meeting, reinforcing earlier trial success.
+Nostra Terra Oil and Gas Company PLC (AIM:NTOG, OTC:NTOGF) said its operations remain profitable even at low oil prices and the company is evaluating new growth opportunities.
+Empire Metals Ltd (AIM:EEE, OTCQB:EPMLF) raised £4.5 million through a share subscription, boosting its cash reserves to £7.1 million.
+Chill Brands Group PLC (LSE:CHLL, OTCQB:CHBRF) secured £1 million via convertible loan notes and restructured a prior funding deal in an effort to stabilize its finances and resume trading.
+2:55pm: Stocks on the move
+Deckers Outdoor Corp (NYSE:DECK) shares dropped 20% after the company scrapped its annual outlook and issued disappointing Q1 revenue guidance due to economic uncertainty and pre-tariff estimates falling short of expectations.
+Oklo (NYSE:OKLO) and other nuclear stocks surged after reports that President Trump plans to sign executive orders to boost the nuclear energy sector, including streamlining reactor approvals and invoking the Defense Production Act.
+Intuit Inc (NASDAQ:INTU) shares jumped over 9% after beating earnings expectations and raising full-year guidance, driven by strong performance in its tax and credit businesses.
+Apple Inc (NASDAQ:AAPL) fell nearly 4% premarket after President Trump threatened a 25% tariff on Apple products not made in the U.S., pressuring the company’s overseas manufacturing strategy.
+1:36pm: EU tariffs 'less disruptive'
+The latest U.S. tariff threats against the European Union are less disruptive than previous actions targeting Asian emerging markets, which play a more critical role in the global technology supply chain, according to Eric Teal, chief investment officer at Comerica Wealth Management.
+"Although policy uncertainty injects more investment uncertainty, we believe this is part of the negotiating thesis to cut individual or regional deals, and we still believe that most companies and the economy are well positioned to power through the temporary higher import prices," Teal said.
+Teal noted that U.S. tariff policies have changed at least a dozen times in the past four months, adding to market volatility but not significantly altering the economic outlook.
+1:10pm: Friday's headlines
+US President Donald Trump was reported to have threatened Apple Inc (NASDAQ:AAPL, ETR:APC) with a 25% tariff if production of its iPhones wasn't shifted to the US. He also threatened the European Union with a 50% tariff from 1 June, sending the Frankfurt's DAX 1.6% lower.
+The US Federal Trade Commission has dropped its legal challenge against Microsoft Corp's (NASDAQ:MSFT) $69 billion acquisition of video game publisher Activision Blizzard, acknowledging that continuing to pursue the now-completed deal was no longer in the public interest.
+Nuclear stocks, including Oklo (NYSE:OKLO), surged on Friday following reports that US President Donald Trump is set to sign executive orders aimed at revitalizing the nuclear energy industry.
+Tesla Inc (NASDAQ:TSLA) is poised to enter a “golden age of autonomous growth,” according to Wedbush’s Dan Ives, who raised his price target on the electric vehicle maker by more than 40% to $500, citing the upcoming rollout of key AI and full self-driving (FSD) initiatives.
+12:19pm: Apple drags Nasdaq lower
+All three major indexes were firmly in the red at midday.
+The Dow is down 0.8%, the S&P 500 is off 0.9%, and the tech-heavy Nasdaq is leading the drop with a 1.1% decline. Investors are grappling with a fresh wave of uncertainty after President Trump reignited trade tensions, threatening a 50% tariff on EU imports and taking aim at Apple with a potential 25% tariff unless the company shifts iPhone production to the U.S.
+Apple shares are taking a hit, dropping 2.73% — or $5.50 — to $195.86 on the day.
+That tough talk has shaken both stock and bond markets. “Stocks and bond yields reversed earlier gains and fell sharply,” said Axel Rudolph, senior technical analyst at IG.
+Meanwhile, 10-year Treasury yields have retreated from a three-month high, sliding to 4.45% as investors flee to safer ground. The backdrop isn’t helping either: concerns are growing over the U.S.’s rising debt levels after a narrowly passed tax and spending bill that could add $3.8 trillion to the deficit over the next decade.
+11:16am: April home sales surge
+April new home sales surged 10.9% month-over-month to a seasonally adjusted annual rate of 743,000 units, the sharpest rise since August 2022 and the highest level in six months.
+The jump blew past consensus expectations of 695,000 and marked a 3.3% increase from a year earlier.
+April's strong performance came despite mortgage rates hovering around 7% and builder sentiment hitting new lows, suggesting that builders had a better spring than anticipated.
+10:36am: Rally comes to a halt
+Trump's renewed tariff threats have caused the stock market rally to come to a screeching halt.
+"Is the President using tariffs as another negotiating tactic, to force the EU to cede to his demands? Or is this a sign that negotiations since mid-April have failed, and we should expect tit for tat threats from the EU later today? We expect it is a mixture of both," commented XTB's Kathleen Brooks.
+"The EU is one of Trump’s least favourite regions, and he does not seem to have good relations with its leaders, which increases the chance of a prolonged trade war between the two."
+9:52am: Tariff tweets shake markets—again
+Wall Street woke up to a rough start Friday morning, with major indexes tumbling as renewed trade tensions and inflation concerns rattled investor confidence.
+The Dow sank 380 points, or 0.9%, while the S&P 500 slid 1.1%. Tech stocks led the retreat, with the Nasdaq down 1.4% in early trading. Small caps held their ground better, with the Russell 2000 virtually flat.
+The selloff follows a dramatic escalation in rhetoric from President Trump, who proposed hefty tariffs on EU goods and floated the idea of forcing Apple to build iPhones domestically—or face a 25% import tax.
+The market's reaction was swift and sharp. “This isn’t a strategic bluff—this is a destabilizing threat,” warned deVere Group CEO Nigel Green, who said the risk of recession and long-term damage to US credibility is growing.
+Bond yields dropped sharply as investors fled to safety, with the 10-year Treasury yield falling 12 basis points to 4.10%. Gold spiked and the dollar gained, clear signs of a market bracing for turbulence. “You don’t need to guess what happens next—just listen to the yields,” Green added.
+Meanwhile, traders are also keeping one eye on April’s new home sales data, due out mid-morning, and prepping for an early bond market close ahead of the long Memorial Day weekend.
+8.15am: Futures extend losses
+US stock futures extended their losses after US President Donald Trump was reported to have threatened Apple Inc (NASDAQ:AAPL, ETR:APC) with a 25% tariff if production of its iPhones wasn't shifted to the US. He also threatened the European Union with a 50% tariff from 1 June, sending the Frankfurt's DAX 1.6% lower.
+Nasdaq futures are now down 1.9%, while Dow futures are 1.5% lower and those for the S&P 500 are 1.6% softer. Apple's shares traded 3.6% lower pre-market.
+"All the optimism over trade deals wiped out in minutes – seconds, even," commented City Index and FOREX.com analyst Fawad Razaqzada.
+This is what Trump posted on social media initially: "I have long ago informed Tim Cook of Apple that I expect their iPhone’s that will be sold in the United States of America will be manufactured and built in the United States, not India, or anyplace else. If that is not the case, a Tariff of at least 25% must be paid by Apple to the US. Thank your for your attention to this matter!"
+AND, according to Razaqzada, just now this is what he posted:
+“The European Union, which was formed for the primary purpose of taking advantage of the United States on TRADE, has been very difficult to deal with...”
+8am: US stocks set to start lower
+US stocks are expected to start open lower on Friday as investors continue to digest the House of Representatives' passing of President Donald Trump's 'One Big Beautiful Bill' by a single vote.
+Nasdaq futures were 0.4% down ahead of the open, with those for the Dow Jones and the S&P 500 both around 0.3% lower.
+Gold continued to hold firm, gaining 1% to $3,327.08.
+US stocks finished Thursday’s session little changed as investors weighed up the latest updates from the White House, including a new tax and spending package.
+The S&P 500 closed down 2 points, the Dow Jones shed a single point, while the Nasdaq added 0.3%.
+US Treasury yields fell slightly on Friday but stayed at relatively high levels as investors weighed the economic effects of President Trump’s tax plan.
+The yield on the 30-year Treasury dropped by 5 basis points to 5.01%, while the 10-year also declined by 5 basis points, settling at 4.50%. The 2-year yield slipped 3 basis points to 3.97%
+Swissquote Bank's Ipek Ozkardeskaya said "the news is far from reassuring" for a sustainable relief.
+"US politicians continue to turn a blind eye to the stress building in the sovereign bond space," she commented. "The House of Representatives passed Trump’s ‘beautiful’ tax bill yesterday—with just one vote. But one vote is all it takes to send the bill to the Senate, which is narrowly controlled by the same Republicans who proposed it."
+The bill proposes slashing spending on social programmes and green initiatives to pay for tax cuts. But even if it clears the Senate, it still has to win over bond markets. With US debt piling up, Treasury investors are growing uneasy and may demand higher yields to back Trump’s budget plans.
+Ahead of the US open, European markets reversed earlier gains. London's FTSE 100 was 0.1% lower, Frankfurt's DAX was just 0.1% higher and the Paris CAC 40 was down 0.52%.
+Asian markets were mixed overnight. The Nikkei 225 gained 0.47%, the BSE Sensex in India has added 1% and Hong Kong's Hang Seng has gained 0.24%. But the Shanghai Composite has dropped 0.94%.

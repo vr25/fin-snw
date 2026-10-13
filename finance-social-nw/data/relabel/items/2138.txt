@@ -1,0 +1,33 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+A customer sends a WhatsApp message to a local store asking about a product. Within seconds, they receive an answer.
+The product they’re after is in stock. Or, if it isn’t, they’re recommended an alternative.
+Welcome to the next generation of customer service bots – and the latest battleground among the world’s largest technology companies.
+Big tech firms are now pouring billions of dollars into artificial intelligence (AI) agents: systems capable of autonomous decision-making and task execution. The value of agentic AI’s global market is projected to climb from US$10.9billion in 2026 to a staggering $182.9 billion by 2033.
+At its annual Conversations conference in London this month, Meta unveiled Business Agent, an AI system that can answer customer questions, qualify sales leads, manage bookings and process transactions directly within platforms such as WhatsApp.
+For small businesses that lack the staff or resources to provide round-the-clock customer support, the appeal is obvious. Larger organisations can integrate the technology into existing sales, booking and customer management systems.
+Having spent two decades reshaping the advertising industry, Meta’s move may seem like a natural progression. But there is more at stake than another tech giant automating customer service.
+Converting attention to transaction
+Most of us know Meta as the conglomerate behind social media platforms Facebook, WhatsApp, Messenger and Instagram.
+But Mark Zuckerberg’s business, which last year hit US$200 billion in revenue, has long been built around advertising. It comes down to understanding audiences, capturing their attention and then selling businesses the chance to reach the right people with the right message at the right time.
+Meta’s Business Agent now shifts the company into that transactional moment which follows the advert, click or message.
+It’s the point where a customer is already asking themselves what to buy, whether to book or how to solve a problem.
+This means Meta has begun seeking a place within the customer relationship itself: whether that’s answering questions, presenting options, organising follow-up or making a shopper’s next step easier to take.
+It also explains why AI agents have become such a hotly contested space for tech companies. The likes of Google, Amazon, Microsoft, OpenAI and Meta have all started from vastly different corners of the market but, increasingly, their ambitions are all converging here.
+Microsoft and Amazon Web Services are leveraging their massive cloud infrastructure to embed autonomous agents directly into existing enterprise resource planning and customer relationship management software, such as Dynamics 365.
+OpenAI is aggressively pushing custom-built, multi-agent frameworks that allow businesses to deploy tailored “GPTs” to handle complex, cross-department operations.
+Meanwhile, Google is integrating agentic capabilities directly into its dominant search and workspace tools, aiming to capture intent before a user even leaves the browser search bar.
+Meta’s route seems especially logical because many of those interactions already happen in its messaging platforms.
+Just consider a restaurant that can take bookings through WhatsApp or a fashion label able to handle product queries through Instagram. For Meta, its agent can convert those exchanges into a more fully automated commercial pathway.
+Who really wins?
+For small businesses, the benefits are obvious. AI agents offer capabilities once reserved for banks, airlines and other large organisations able to build sophisticated customer service systems of their own.
+They can answer routine questions, remember product details, respond across multiple languages and free staff to focus on tasks that still require human judgement, such as handling complaints.
+But convenience comes with a trade-off.
+The more useful an AI agent becomes, the more influence it gains over the interaction itself. It is helping determine what information customers receive, which products are recommended and how they move from enquiry to purchase.
+At the same time, every interaction provides the platform owner with valuable insight into what customers want, where they hesitate and what ultimately drives a sale.
+For many businesses, that may seem a fair exchange. But over time, the balance of power may begin to shift.
+As more customer interactions are mediated by AI, businesses risk becoming increasingly dependent on platforms they do not control.
+Customers, meanwhile, may enjoy faster responses and a more seamless experience. Less visible is the role these platforms play in shaping those interactions – and the commercial value they derive from them.
+Just how profoundly AI agents shake up global commerce remains to be seen. But the early signs suggest they will do more than automate customer service.
+They could accelerate a shift in power away from the businesses that own products and services, and towards the platforms that increasingly mediate the relationships those businesses depend on.

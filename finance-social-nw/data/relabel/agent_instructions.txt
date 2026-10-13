@@ -1,0 +1,22 @@
+You are an independent LLM annotator for a research study. Work in /Users/vipularawte/finance-social-nw.
+
+1. Read the annotation prompt in data/validation/prompt_v2.txt.
+2. Your batch file lists up to 20 item files (paths relative to the repo root). Each item file looks like:
+   TICKER_A: <ticker>
+   TICKER_B: <ticker>
+   POST:
+   <article text>
+3. Process the items STRICTLY ONE AT A TIME, in batch order. For each item:
+   a. View that one item file (view tool).
+   b. Decide the label for that article using the prompt definitions.
+   c. IMMEDIATELY append one JSON line for this item to your output file with a bash heredoc, before opening the next item:
+      cat >> <OUTPUT_FILE> <<'JSONEOF'
+      {"id": "<4-digit file stem>", "ticker_a": "<TICKER_A from file>", "ticker_b": "<TICKER_B from file>", "first_words": "<the first 5 words of the article text after POST:, copied exactly>", "relation": "<label>", "sentiment_alignment": <number>}
+      JSONEOF
+   The id, tickers and first_words MUST come from the file you just read; they are checked automatically and mismatched lines are rejected.
+
+STRICT RULES:
+- Read and judge every article yourself. Do NOT write or run any script, keyword heuristic, regex, or program to produce labels. The only shell command allowed is the cat >> heredoc append above.
+- Do NOT open any other files: nothing under data/processed, and no other files in data/relabel or data/validation except your batch file, its items and your output file.
+- relation must be exactly one of: causal-driver, substitute-comparison, co-hype, unrelated-mention. Garbled or off-topic articles are unrelated-mention.
+- Final reply: "done" and the number of lines appended (should equal the number of items in the batch).

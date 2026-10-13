@@ -1,0 +1,20 @@
+{"id": "1120", "ticker_a": "GOOGL", "ticker_b": "PLTR", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1121", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1122", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1123", "ticker_a": "META", "ticker_b": "PLTR", "first_words": "September proved to be an unseasonably", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1124", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1125", "ticker_a": "MSFT", "ticker_b": "PLTR", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1126", "ticker_a": "NVDA", "ticker_b": "PLTR", "first_words": "September proved to be an unseasonably", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1127", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "This week on the TT Show,", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1128", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Live coverage has ended. The full", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "1129", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Home Join Premium Contributors Channels", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1130", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Lancaster estate agents make shortlist for", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1131", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "\"Nuclear nightmare\", screamed the headline", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1132", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- AMD launched a new artificial-intelligence", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1133", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By Hannah Miller, Julia Love and", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "1134", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Hannah Miller, Julia Love and", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1135", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "By Hannah Miller, Julia Love and", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "1136", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "We recently compiled a list of", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1137", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Gone are the days when intellectual", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1138", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Gone are the days when intellectual", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1139", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Gone are the days when intellectual", "relation": "substitute-comparison", "sentiment_alignment": -0.5}

@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta has a new plan to keep kids safe online, but it's a missed opportunity for tech giants to work together
+Meta, which owns social media platforms such as Instagram and Facebook, has revealed its plans for keeping kids safe online. It wants companies like Apple and Google, who run mobile phone app stores, to force parents to approve when their children attempt to install phone apps which are popular among young people.
+Meta's announcement comes just months after Australia's eSafety Commissioner, Julie Inman Grant, gave these major tech companies a six-month deadline to develop codes for protecting kids and teens from online harm.
+Following Meta's announcement, Apple responded by saying Meta is shirking its online safety responsibilities.
+This is a time when the major tech platforms should be working together to improve online safety. Instead, they seem to be engaged in a game of hot potato, with each insisting the other is in the best position to protect children online.
+The reality is that the eSafety Commissioner has presented the online platforms with an opportunity and a mandate to cooperate on online safety. Doing so could yield tangible benefits for children, teens and parents alike. But Meta's announcement—and Apple's response—suggests major tech companies might squander this crucial opportunity.
+What is Meta's proposal?
+The potential online harms to children and teenagers are well known to many parents.
+The eSafety Commissioner's own research says that, on average, children first encounter pornography online at the age of 13. The Australian government announced earlier this year it was trialing "age assurance" technology to prevent children accessing online porn.
+Both the government and the opposition have said that in principle, they are in favor of banning children under 16 from social media.
+Under Meta's proposal, children under 16 would be unable to install apps on their mobile phones without a parent first approving.
+Both Apple iPhones and Google Android phones already provide functionality for parents to be required to approve app installs by their children.
+One way Meta's proposal might work in practice is that when a phone is set up for someone under 16, these kinds of features would be mandatory rather than optional.
+Is it a good idea?
+Meta's proposal acknowledges the reality that it is much better to check somebody's age once, when a phone is first set up, rather than having to rely on fallible age verification technology each time a child or teenager attempts to install an app or visit a website.
+It also reflects the wisdom that kids would be safer online if the mobile phone platform providers like Apple and Google implemented comprehensive child safety features across their devices.
+However, it also places the primary responsibility for online safety onto Apple and Google.
+Apple is right to note that by doing so, Meta is abrogating its own responsibilities to its users. While companies like Meta already implement some child safety features in apps like Instagram, there is much more that could be done.
+A better alternative
+Instead of arguing with each other, Meta, and companies behind other popular apps like Snapchat and TikTok, should work together with Apple and Google to implement holistic child safety features.
+When a parent approves their child's request to install Instagram or Snapchat, the mobile phone platform should inform the app that the device is used by an underage person. The app should in turn make use of that information to prioritize the safety of the phone's user.
+That could include turning on safety features automatically (and requiring parental approval to turn them off). It could also include additional safety features, such as blurring or refusing to display images that appear to contain nudity, displaying a warning to the user when such images are received or sent, or even alerting the parent.
+The devil will of course be in the detail—which of these features to make mandatory, which to enable by default, and which to require parental approval to disable.
+There is also no reason these kinds of features should be limited to social media apps.
+Web browsers like Google Chrome and Apple Safari should also integrate with on-device child safety features and controls, which could include blocking access to porn sites.
+The best approach would be for Apple and Google to work together with the major app vendors, including Meta, to develop a standard for platform safety features, with a common programming interface for apps to use those features.
+Government policy could set minimum standards for which safety features should be provided by Google's and Apple's platforms, as well as how those features need to be used by app providers. Those standards could in turn be enforced on the app providers by the major app stores, which already vet apps for safety and security before they are allowed to be listed.
+Doing so will, of course, require a lot of cooperation. But instead of cooperating, the major tech companies seem more interested at the moment in passing the hot potato.
+This article is republished from The Conversation under a Creative Commons license. Read the original article.

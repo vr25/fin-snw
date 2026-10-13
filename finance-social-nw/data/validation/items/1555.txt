@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+AI experts warn that China is miles ahead of the US in electricity generation — lack of supply and infrastructure threatens the US’s long-term AI plans
+AI data centers demand gigawatts of power that the U.S. grid is struggling to supply.
+A U.S. analyst of Chinese technology said that the country has already solved its energy problem — at least in terms of power for its AI infrastructure. Rui Ma, founder of Tech Buzz China, posted on X that the country’s massive investments in advanced hydropower and nuclear technologies meant that its “electricity supply is secure and inexpensive.” This is in contrast to the U.S., where many AI data centers are disrupting its electricity grid and supply, resulting in a lack of supply and price increases for every user.
+Both Washington and Beijing are currently in an AI race, with the two powers vying for the lead in this technology. Because of this, the two rivals are diving into a massive build-out of AI data centers that require massive amounts of electricity to run. In the U.S., it has come to the point that tech giants are building their own power plants — with Elon Musk importing one to power his data centers and companies, like Microsoft, Google, Amazon, Oracle, Nvidia, and more investing in the research and development of nuclear reactors.
+However, it seems that this is not a problem for China. According to Fortune, the East Asian country has an 80% to 100% power reserve, allowing it to absorb the massive demand brought about by the hundreds of data centers it built in recent years. More than that, it’s also continually expanding its output, with one expert telling the publication that it “adds more electricity demand than the entire annual consumption of Germany, every single year.”
+Some argue that the power is delivered by heavily polluting coal plants, but China is also investing massively in renewable energy projects. Nevertheless, if the power demand outstrips supply, it can easily reactivate coal plants to cover the shortfall. In fact, the new data centers are welcomed, as they help stimulate demand in a market that has an excess of power production. Nevertheless, electricity oversupply doesn’t seem to be an immediate concern, as most of China’s power plants are state-owned. Beijing also plans its energy production well in advance, allowing it to prepare for prospective demand, like the AI data center boom.
+This still does not address the elephant in the room, though: the fact that many Chinese data centers sit idle or underutilized. Beijing is developing a network to create a marketplace that will sell surplus capacity, but it is still facing challenges, especially with latency and different ecosystems.
+On the other hand, the U.S. faces major hurdles with its electricity supply. Meta founder Mark Zuckerberg said that power constraints will limit AI growth, and that new power plants aren’t being built fast enough to satisfy AI’s insatiable demand. If the U.S. does not address this issue sooner, it risks lagging behind China even if it has more powerful and efficient hardware. That’s because the latter can just throw tons of power to gain the upper hand in the AI race through sheer brute force, similar to how Huawei’s CloudMatrix cluster beats the performance of Nvidia’s GB200.
+Follow Tom's Hardware on Google News to get our up-to-date news, analysis, and reviews in your feeds. Make sure to click the Follow button.
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+Jowi Morales is a tech enthusiast with years of experience working in the industry. He’s been writing with several tech publications since 2021, where he’s been interested in tech hardware and consumer electronics.
+- 
+Ktbpylon Reply
+Especially since every single piece of tech news coming out of China is at least a partial lie, based on false boasting.bolweval said:why must everything we do be compared with China? It’s exhausting…
+- 
+FunSurfer The US should use its advanced AI to design a working fusion reactor. They need to combine all AI data centers from all the companies instead of compete with each other for now, this is the primary goal. This will solve the insufficient energy problem forever.Reply
+- 
+nookoool ReplyKtbpylon said:I guess that's what 1,200 coal burning power plants get you.
+China's power output has gone up 600% in the past 25 years while the US has declined 10%. Wouldn't you thunk coal would be one of the energy source?
+- 
+thestryker This is a regulation and technology problem more than anything else. China doesn't have a ton of privately owned power companies fleecing the general customer. They also have been installing a ton of wind, solar and nuclear power while the US has dumb political arguments based on feelings. Another place the US is behind is energy storage, and given the advancements the US Army has been making this really shouldn't be an issue either.Reply
+ 
+Of course at the end of the day if the huge users of power were forced to pay proportionally and those generation costs couldn't be passed on to general customers I bet they'd be running more efficient operations rather than just stomping their feet calling for more.
+- 
+teeceekay Coal or renewable, that's irrelevant. Energy is energy!Reply
+Fact is, US is trailing far behind China and you are coping painfully
+- 
+teeceekay Couldn't agree more with you.Reply
+Looks like the US is falling into the same category as India.

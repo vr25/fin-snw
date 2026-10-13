@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Dazzling televisions that routinely star at the CES in Las Vegas are getting ever smarter with an eye toward being at the heart of AI-centered lifestyles.
+TV titans like LG, Samsung and TCL are packing ever more AI into stunning, huge screens that are inching toward being digital assistants capable of chatting with users and other devices in homes, some with the help of Google or Microsoft.
+South Korea-based LG touted the arrival of "Affectionate Intelligence" in which home appliances watch over people - from tracking how well they sleep to making sure they remember to take an umbrella when rain is in the forecast.
+"At LG, we're seamlessly integrating AI into physical living spaces around us," chief executive William Cho said at a media event at CES.
+"We see space not merely as a physical location but as an environment where holistic experiences come to life - across the Home, Mobility, Commercial and even Virtual spaces."
+LG is making advances with its digital assistant that employs generative AI and sensors in devices to understand what people are doing and coordinate devices in responses tailored to the context, according to the company.
+LG announced a strategic partnership with Microsoft to put Copilot AI to use in its consumer electronics.
+"We are joining forces to shape the future of AI powered spaces," Cho said of LG and Microsoft.
+"Our ultimate goal is simple yet profound - to leverage AI as a means of creating holistic customer value in each whatever space you are."
+LG and Microsoft are working on AI "agents" for homes, cars, hotels and other "spaces" and plan to develop some that not only understand and interact with customers but also predict their needs, according to the companies.
+"At Microsoft, we believe AI will fundamentally change the way we live and work," Microsoft chief commercial officer Judson Althoff said in a video appearance at an LG press event.
+"We could not be more excited to partner with LG Electronics - the pioneers of smart, connected spaces - to integrate AI into life's everyday experiences," he said.
+Cho stressed that LG's plan for connected homes governed by AI would be an open model, meaning devices from other manufacturers can be designed to synch with the network.
+TCL teams with Google
+Chinese TV titan TCL announced a new QM6K line of premium TVs starting at $800, along with a partnership with Google to build the internet giant's Gemini AI into some models.
+"TV is already well positioned as a hub for entertainment and information," Google vice president of TV platforms Shalini Govil-Pai said during a TCL media event.
+"With the Gemini model and new hardware capabilities like the proximity sensor and the far field microphones, we will be able to unlock whole new use cases that will evolve how you interact with your TV."
+Govil-Pai described Gemini-enhanced TVs as hubs for knowledge and managing connected devices in homes.
+"Your Google TV will always be ready to help when you need it," she said.
+"Our upgraded voice assistant with Gemini capabilities can understand natural language," she added.
+Gemini features will start rolling out later this year to Google TV devices and some TCL models, according to Govil-Pai.
+China-based consumer electronics colossus Hisense announced it is working Google "Home" software into its line-up of products to enable "true home automation."
+Samsung Electronics, meanwhile, is at CES with an "AI for All" roadmap aimed at making AI an "every day, everywhere" experience.
+Samsung executives said that its devices from sensor-packed wearables to televisions were increasing intuitive and collaborative interactions with the help of AI.
+"It's the age of Home AI," said Jonathan Gabrio, head of the Connected Experience Center at Samsung Electronics America.
+"We've brought intelligent, powerful and personalised experiences leveraging every breakthrough advancement we can dream up to make AI work for you," he stated.

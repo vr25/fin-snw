@@ -1,0 +1,14 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+(Reuters) – Shares of Arm Holdings fell 8% in premarket trading on Thursday as the chip designer’s downbeat annual revenue forecast cooled some of the enthusiasm around the stock following its AI-powered jump in recent months.
+Bets that Arm will benefit from a surge in AI computing have doubled the chipmaker’s share price since its initial public offer last September, giving it a market value of about $110 billion.
+“This is a typical case of ARM not being able to live up to heightened expectations,” said CFRA Research analyst Angelo Zino, adding that Arm’s business is overtly reliant on the smartphone market, which has recently shown slower growth.
+UK-based Arm, which earns by licensing its chip designs and through royalties, has been expanding into the data center market where operators are looking to build their own chips to power new AI models and reduce their reliance on dominant supplier Nvidia.
+“AI demand (for Arm’s technology) will take some time to grow into the revenue mix to absorb that weakness (from the smartphone market),” said Tejas Dessai, a research analyst at Global X ETFs.
+The UK chip designer said it was expecting full-year revenue between $3.8 billion and $4.1 billion, the midpoint for which fell slightly below the consensus estimate of $3.99 billion, according to LSEG data.
+Its revenue in the March quarter and the forecast for the current quarter, however, came in above expectations.
+At least two analysts cut their price target on Arm, whose chip designs power nearly every smartphone in the world.
+Arm shares trade at 64.68 times its 12-month forward earnings estimates, significantly higher than the industry median of 19.95, according to LSEG data.
+Shares of Nvidia and Advanced Micro Devices fell about 1% each in premarket trading on Thursday.
+(Reporting by Yuvraj Malik in Bengaluru; Editing by Anil D’Silva)

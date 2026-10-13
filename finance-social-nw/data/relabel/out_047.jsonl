@@ -1,0 +1,20 @@
+{"id": "0940", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) has taken the", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0941", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Audio By Carbonatix Nvidia has handed", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0942", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0943", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Four outstanding Galway researchers presented with", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0944", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Facebook parent Meta Platforms has discussed", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0945", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Facebook parent Meta Platforms has discussed", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0946", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Facebook parent Meta Platforms has discussed", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0947", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Apple's implementation of AI in iOS", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0948", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Arts+Culture / Cult VIPHow Erik Davis", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0949", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Stocks struggled to gain traction as", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "0950", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Subscribe now for full access to", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0951", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities Germany", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0952", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "WASHINGTON - Amazon's AWS, the world's", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0953", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta will not rule out banning", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "0954", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia (NVDA +0.22%) stock looks almost", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "0955", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "This was published 2 years ago", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0956", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0957", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Michigan's First Chicken Guy! Restaurant from", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0958", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "UNITED STATES California's proposed law against", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0959", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Photo: Nvidia CEO Jensen Huang in", "relation": "co-hype", "sentiment_alignment": -0.5}

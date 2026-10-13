@@ -1,0 +1,32 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+NVIDIA has reported a record-breaking profit of $58.3 billion as the artificial intelligence (AI) boom continues to fuel its demand for AI chips and data centre technology.
+The latest earnings results have blown past Wall Street expectations and further cemented Nvidia’s position as the world’s largest AI hardware company.
+NVIDIA Reports Record-Breaking Profit
+NVIDIA reported record quarterly revenue of $81.6 billion, driven by a massive demand for AI chips used in:
+- Generative AI
+- Data centres
+- Cloud computing
+- AI chatbots
+- Robotics
+- Enterprise AI systems
+Net income jumped to $58.3 billion in the latest quarter, a more than threefold increase compared to the same period a year ago. NVIDIA’s data centre business was the biggest growth engine for the technology behemoth, creating around $75.2 billion in revenue on its own. Major technology companies like Microsoft, Meta, Amazon, and Google continue investing heavily in AI infrastructure powered by Nvidia chips.
+“We are in the midst of the largest infrastructure expansion in human history,” said Jensen Huang, CEO of Nvidia.
+“Businesses around the world are building these AI infrastructures, and it’s growing extremely fast.”
+NVIDIA Executes $80 Billion Stock Buyback
+Alongside its blockbuster earnings report, Nvidia also announced:
+- $80 Billion Stock Buyback program
+- Big increase in quarterly dividends
+- Better-than-expected next quarter revenue guidance
+Expectations for Nvidia are looking bullish with another historic quarter on the horizon, with next quarter revenue expected to be close to $91 Billion.
+Increased Competition in the AI Space
+NVIDIA is looking to maintain its dominance over rivals, including:
+- AMD
+- Intel
+- Amazon
+There are many big tech companies now also creating their own custom AI chips, so they are not completely reliant on Nvidia for their hardware. However, Nvidia does still have a huge lead in the high-performance AI chip arena.
+China’s Business Would Face Challenges
+NVIDIA hoped to expand its presence in China, but US export restrictions on advanced AI chips have made this difficult. NVIDIA was reportedly granted approvals to sell chips to a select few Chinese companies only, though they are not currently presuming any major sales as part of any revenue forecasts. The company’s market value has now exceeded $5.5 Trillion, making Nvidia one of the most valuable companies in the world amid the war for AI supremacy.
+Disclaimer: This article is based on publicly available financial reports, market data, and media coverage available at the time of publication. Stock prices and market performance may change rapidly due to market conditions. Readers are advised to consult official financial filings and investment professionals before making financial or investment decisions.
+I am a content writer with more than 1 year of experience, currently working at ITV Digital. I cover a wide range of topics including entertainment, world news, India news, crime, and astrology, along with writing engaging lifestyle stories and reviews. With a flair for storytelling and a keen eye for trends, I aim to deliver fresh, reader-friendly content across diverse subjects.

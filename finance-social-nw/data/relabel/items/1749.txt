@@ -1,0 +1,17 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Valve’s upcoming Steam Machine is a cross between a mini PC and a game console. And while the nearly cube-shaped device has a pretty basic design, it’s also made to be customizable: Valve demonstrated a couple of swappable face plates when the company unveiled the Steam Machine and now third-party companies are starting to tease accessories.
+Meanwhile an independent developer has designed an ESP32-C3 dev board that’s so tiny it barely covers the USB-C connector attached to the bottom, GMK is the first company I’m aware of to start showing off a mini PC powered by an Intel Panther Lake processor with 12-core graphics, and XBMC is coming full circle – a new version of the software brings features from the open source Kodi project back to the original Xbox..
+Here’s a roundup of recent tech news from around the web.
+This tiny custom ESP32-C3 board is about the size of a USB-C connector (and is attached to one). Other features include a 32-bit RISC-V microcontrollers, WiFi 4, BT 5.0, and a single GPIO pin. It measures just 9.85 x 8.45mm. www.cnx-software.com/2025/11/21/r…
+— Liliputing (@liliputing.bsky.social) November 21, 2025 at 3:57 PM
+GMK’s upcoming EVO-T2 mini PC is powered by an Intel Core Ultra 300H series “Panther Lake” processor with 12-core Xe3 graphics, up to 128GB of LPDDR5X-10677 memory, and PCIe 5.0 and PCIe 4.0 slots for storage. www.gmktec.com/blog/gmktec-…
+— Liliputing (@liliputing.bsky.social) November 21, 2025 at 4:05 PM
+The upcoming Steam Machine is an (almost) cube-shaped mini PC or game console that runs the Linux-based SteamOS and features a custom AMD CPU and GPU. It also supports swappable face plates, and Jsaux is showing off some concept designs. www.reddit.com/r/JSAUX/comm…
+— Liliputing (@liliputing.bsky.social) November 21, 2025 at 3:00 PM
+XBMC 4.0 brings the first major update to the Xbox Media Center since 2016 to run on actual 1st-gen Xbox hardware. XBMC long ago became Kodi, a cross-platform media app. V4.0 brings many Kodi features & visuals back to the Xbox. www.xbox-scene.info/articles/ann…
+— Liliputing (@liliputing.bsky.social) November 21, 2025 at 2:35 PM
+As expected, Microsoft is rolling out the Xbox full screen experience for all PC form factors. After debuting on the Xbox ROG Ally, the console-like UI is now available for Windows Insiders using laptops, desktops, and tablets. blogs.windows.com/windows-insi…
+— Liliputing (@liliputing.bsky.social) November 21, 2025 at 2:32 PM
+Keep up on the latest headlines by following Liliputing on Bluesky or @[email protected] on Mastodon. You can also follow Liliputing on Threads and Facebook.

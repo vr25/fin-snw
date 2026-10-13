@@ -1,0 +1,20 @@
+{"id": "2020", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Kalamazoo Bids Farewell To Beloved", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2021", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "A 4-year-old startup just got", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2022", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Guest of the Day Podcast", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2023", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "By Frank Wall InsideSources.com", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2024", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "California found a convenient piggy", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2025", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "The median annual income for", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2026", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The median annual income for", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2027", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The median annual income for", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2028", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The hottest phone for kids", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "2029", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Overview The cyberwar has already", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "2030", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Overview The cyberwar has already", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "2031", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Overview The cyberwar has already", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "2032", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Crowley Home Sustains Fire and", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2033", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SAN FRANCISCO (AP) — Microsoft", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2034", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Garena Free Fire MAX is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2035", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nicolai Tangen, CEO of NBIM", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "2036", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Updated April 29, 2026 at", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2037", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Updated April 29, 2026 at", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2038", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Updated April 29, 2026 at", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2039", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "A Nevada data centre project", "relation": "co-hype", "sentiment_alignment": 0.5}

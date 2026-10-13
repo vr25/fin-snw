@@ -1,0 +1,11 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+ASUS's flagship GeForce RTX 4090 ROG MATRIX Platinum graphics card has made its debut in China for an insane price of over $8000 US.
+You Can Get Five NVIDIA GeForce RTX 4090 GPUs For The Price of One ASUS ROG MATRIX Platinum Variant
+The ASUS GeForce RTX 4090 ROG MATRIX Platinum is one of the most expensive graphics cards ever made. It has an MSRP of $3199 US which is twice as expensive as the reference card that costs $1599 US but wait till you hear about what the same card costs in China.
+In China, the graphics card launched today in the retail segment and while the official MSRP for the card was set to be 23,000 RMB ($3155 US), the actual retail prices are much different. At JD, the RTX 4090 ROG MATRIX Platinum is currently listed for up to 59,999 RMB or $8230 US. That's more than twice as expensive as the regional MSRP and 5 times more expensive than the RTX 4090's MSRP in the US.
+However, the problem with prices is something that cannot be controlled as retailers are taking full advantage of the current market situation. The NVIDIA GeForce RTX 4090 is on the list of GPUs that will face an import ban in China. Retailers have stockpiled large amounts of RTX 4090 GPUs and there are plenty of AD102 GPUs available to manufacturers to supplement the DIY market but none of that is going to help with the prices. Even as of right now, the majority of the RTX 4090 GPU models retail at starting prices close to 19,000 RMB which is around $2600 US so that's already a $1000 US price hike over the US MSRP.
+Do keep in mind that the NVIDIA GeForce RTX 4090 GPU had an official MSRP of 12,999 RMB or $1780 US in China. Although that doesn't matter now, there are reports by consumers & certain insiders that retailers are fully involved in scalping and there should technically be no shortage of RTX 4090 GPUs at this time. Almost all other cards besides the RTX 4090 are available at discounted rates in good quantities.
+News Source: ITHome
+Follow Wccftech on Google to get more of our news coverage in your feeds.

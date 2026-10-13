@@ -1,0 +1,20 @@
+{"id": "1440", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Trump prepares to lower tariffs", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1441", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Trump prepares to lower tariffs", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1442", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Decades after Intel Corporation", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1443", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Grab your popcorn, folks,", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1444", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "AI", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1445", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Power Mac Center (PMC)", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1446", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Devices 2 min read", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1447", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MIT spinout Commonwealth Fusion", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1448", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia, AMD, AWS, and", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1449", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "One of the emerging", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1450", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Every previous time that", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1451", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Every previous time that", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1452", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Every previous time that", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1453", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "In this week's curated", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1454", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "By STAN CHOE, AP", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1455", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "(Reuters) -The U.S. Justice", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1456", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Wall Street wraps up", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1457", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Forward-looking: Oracle has committed", "relation": "causal-driver", "sentiment_alignment": -0.7}
+{"id": "1458", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Technovate for India", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1459", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Negotiations are under way", "relation": "co-hype", "sentiment_alignment": 0.5}

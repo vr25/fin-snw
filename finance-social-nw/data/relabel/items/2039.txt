@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+A Nevada data centre project tied to Nvidia Corp. has raised $4.59 billion from a junk-bond sale, adding to a wave of deals to fund artificial intelligence infrastructure.
+An entity backed by asset manager Tract Capital Management LP and Fleet Data Centres I LP sold the five-year notes at 99 cents on the dollar to yield 6.74 per cent, according to a person with direct knowledge of the matter.
+That’s the second time the developers have raised funds for the project — a 200-megawatt data center and substation in Storey County, Nevada, expected to be leased to Nvidia. In February, it priced $3.8 billion in junk bonds at a 5.9 per cent yield.
+The transaction is the latest in a series of risky debt offerings to help finance computing capacity as the rapid expansion of AI has created an unprecedented shortage of data-center space, graphics-processing unit chips and quick access to electricity needed to power it all.
+Firms tied to the buildout have raised about $27 billion from riskier bonds so far this year, data compiled by Bloomberg show. That includes a record $5.7 billion deal to fund Alphabet Inc.’s Google-linked data centers earlier this month.
+Tuesday’s deal priced amid a selloff in stocks and bonds of firms linked to data centers. Fears that the AI borrowing boom won’t pay off were reignited by a Wall Street Journal report that said OpenAI missed internal user and sales targets.
+There were three junk-bond offerings set to price on Tuesday, collectively raising $5.9 billion.
+More stories like this are available on bloomberg.com
+Published on April 29, 2026

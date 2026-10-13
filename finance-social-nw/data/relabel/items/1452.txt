@@ -1,0 +1,26 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Every previous time that shares of Nvidia (NVDA +0.22%) fell 30% or more presented a tremendous buying opportunity for investors. History appears to be repeating itself.
+Nvidia has mounted a strong comeback after declining as much as 37% from its previous peak set early this year. Is it too late to get in on the rebound? I don't think so. Here are three reasons to buy Nvidia stock hand over fist before May 28.
+NASDAQ: NVDA
+Key Data Points
+1. Nvidia has a history of beating earnings expectations
+Why May 28? That's when Nvidia is scheduled to announce its results for the first quarter of fiscal year 2026, which ended on April 27, 2025. Quarterly earnings updates often provide nice catalysts for the chip stock.
+Based on Nvidia's past performance, there's a good reason for investors to be optimistic about the Q1 update sparking a further surge in the company's share price. The GPU maker has topped consensus Wall Street earnings estimates in each of the previous four quarters by at least 5%.
+Granted, an earnings beat doesn't always translate to a bump in Nvidia's share price. For example, the company reported adjusted earnings per share (EPS) of $0.89 in the fourth quarter of fiscal 2025, while analysts expected adjusted EPS of $0.85. However, Nvidia's shares fell despite the better-than-expected earnings.
+That could happen again, even if Nvidia outpaces Wall Street's earnings projections. But my hunch is that investors are looking for a reason to be bullish about the once-high-flying stock again. If I'm right, a positive earnings surprise could be just what they need to resume piling into the stock.
+2. Hints from several major customers are encouraging
+We can't assume that Nvidia will beat earnings estimates just because it has done so in the past. However, hints from several major customers are encouraging about the company's prospects of exceeding expectations.
+Amazon CEO Andy Jassy said in his company's Q1 earnings call that Amazon Web Services (AWS) has been aggressive in installing Nvidia AI chips as well as its own Trainium chips. He added, "[A]s fast as we actually put the capacity in, it's being consumed." Jassy noted that AWS will deploy "a lot more" of Nvidia's next-generation GPUs and its Trainium chips over the next several months.
+Microsoft continues to expand its data center capacity, opening new data centers in 10 countries in its latest quarter. CFO Amy Hood said in the fiscal 2025 Q3 earnings call that demand is outpacing capacity for AI services. She revealed that Microsoft "expect[s] to have some AI capacity constraints beyond June." That bodes well for Nvidia.
+Sundar Pichai, CEO of Google and its parent Alphabet, highlighted Google's ties with Nvidia in his company's Q1 earnings call. Pichai noted, "Our strong relationship with Nvidia continues to be a key advantage for us and our customers." He added that Google Cloud was the first cloud provider to offer Nvidia's B200 and GB200 Blackwell GPUs to customers and planned to deploy Nvidia's new Vera Rubin GPUs as well.
+3. Blackwell demand is "extraordinary"
+Speaking of Blackwell, Nvidia CEO Jensen Huang stated in his company's last quarterly update that demand for the new GPUs is "extraordinary." CFO Colette Kress mentioned in her comments, "We delivered $11 billion of Blackwell revenue to meet strong demand. This is the fastest product ramp in our company's history, unprecedented in its speed and scale."
+I expect Blackwell to be the key source of good news for Nvidia when the company reports its fiscal 2026 Q1 results later this month. Kress expects a "significant ramp" for the new GPU in Q1.
+The good news probably won't be just about the Q1 numbers, though. Nvidia plans to launch its Blackwell Ultra GPU in the second half of this year. Blackwell Vera Rubin chips are expected to begin shipping in 2026. I wouldn't be surprised if Nvidia provides a rosy outlook for these next-generation chips in its Q1 update.
+One reason to hold off on buying Nvidia stock by May 28
+While I think buying Nvidia stock before May 28 could be a smart move because of these three reasons, there's one reason investors might want to hold off. The Trump administration's tariffs and overall trade policies continue to cause major uncertainty for the economy, especially for Nvidia.
+I'm not convinced that the recent relaxation of tensions with China is as positive as some investors think. The pause in exceptionally high tariffs lasts for only 90 days. Steep tariffs of 30% on Chinese imports remain in place, while China will continue to levy tariffs of 10% on U.S. imports.
+Nvidia could beat earnings expectations and provide an optimistic outlook for the rest of the year. But if the trade dynamics change for the worse between now and May 28, that might not be enough to propel the stock higher over the near term.
+Over the long term, though, I think Nvidia's future remains bright. If you buy the stock and hold it for the next five to 10 years, I predict you'll make money -- regardless of whether you buy it over the next few weeks or over the next few months.

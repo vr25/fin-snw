@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Nvidia (NASDAQ: NVDA) stock’s generated mind-blowing gains in recent years. Believe it or not, it has doubled in price nearly five times over the last five years (for a total gain of around 2,720%).
+Can the stock double again from here given that it now has a market-cap of around $3trn (making it one of the largest companies in the world)? Let’s discuss.
+Huge market-cap
+A lot of investors today seem to think that because Nvidia now has a market-cap of around $3trn, the stock can’t rise much from here. These investors compare the chip designer to other $3trn market-cap companies like Apple and Microsoft – both of which have much higher revenues than Nvidia – and wonder how it could possibly command a cap of $5trn or $6trn in the future.
+I think this is the wrong way of looking at things however.
+Incredible growth
+Right now, Nvidia’s growing at a spectacular rate due to high demand for its AI chips. This financial year (ending 31 January 2025), revenue and earnings per share are projected to grow 106% and 133% respectively as companies like Amazon, Tesla, and Meta Platforms snap up every Nvidia AI chip they can get their hands on.
+I’m not expecting this amazing rate of growth to last forever. But even if growth was a third of that in the years ahead, it probably wouldn’t take long for the Nvidia share price to double.
+Share price potential
+This year, the consensus earnings per share (EPS) forecast for Nvidia’s $2.84. Let’s assume this is accurate. And then let’s say that the company can grow its earnings by 35% a year for the next three years. That would give us EPS of around $7.00.
+Apply a price-to-earnings (P/E) ratio of 35 to that EPS forecast (which I think’s reasonable for this magnificent company) and we get a share price of $245. That’s a little over double the share price today.
+Many assumptions
+Of course, this calculation’s simplistic in nature and I’ve made a lot of assumptions.
+Looking ahead, earnings growth may not be 35% a year. After all, this is a cyclical industry. A lot will depend on AI chip demand from the hyperscalers (Amazon, Google, etc). Looking ahead, demand could dry up. Competitors could also steal market share.
+My proposed valuation could also be way off the mark. If earnings growth was below than 35%, the stock could have a much lower P/E ratio in the future.
+I’m also ignoring stock dilution from employee compensation. This could impact earnings per share negatively.
+One other thing worth mentioning is that I’m not expecting the Nvidia share price to double in a straight line. This is a highly volatile stock and it could easily lose 50% or more of its value before going on to double from current levels.
+I’m holding
+I definitely see a path to a $6trn market-cap however. So I’ll be holding on to my shares (and buying more on pullbacks).

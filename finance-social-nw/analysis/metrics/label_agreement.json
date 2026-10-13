@@ -1,0 +1,149 @@
+{
+ "n": 240,
+ "coverage": {
+  "haiku_v1": 240,
+  "gpt_v1": 240,
+  "haiku_v3": 240,
+  "gpt_v3": 240,
+  "haiku_final": 240,
+  "gpt6_v3": 240
+ },
+ "label_counts": {
+  "haiku_v1": {
+   "causal-driver": 60,
+   "substitute-comparison": 60,
+   "co-hype": 60,
+   "unrelated-mention": 60
+  },
+  "gpt_v1": {
+   "causal-driver": 9,
+   "substitute-comparison": 35,
+   "co-hype": 110,
+   "unrelated-mention": 86
+  },
+  "haiku_v3": {
+   "causal-driver": 30,
+   "substitute-comparison": 45,
+   "co-hype": 105,
+   "unrelated-mention": 60
+  },
+  "gpt_v3": {
+   "causal-driver": 20,
+   "substitute-comparison": 27,
+   "co-hype": 133,
+   "unrelated-mention": 60
+  },
+  "haiku_final": {
+   "causal-driver": 27,
+   "substitute-comparison": 37,
+   "co-hype": 116,
+   "unrelated-mention": 60
+  },
+  "gpt6_v3": {
+   "causal-driver": 24,
+   "substitute-comparison": 51,
+   "co-hype": 103,
+   "unrelated-mention": 62
+  }
+ },
+ "haiku_v1__gpt_v1": {
+  "n": 240,
+  "agree": 0.317,
+  "kappa": 0.089,
+  "kappa_typed_vs_unrelated": 0.107
+ },
+ "haiku_v1__haiku_v3": {
+  "n": 240,
+  "agree": 0.45,
+  "kappa": 0.267,
+  "kappa_typed_vs_unrelated": 0.267
+ },
+ "haiku_v1__gpt_v3": {
+  "n": 240,
+  "agree": 0.433,
+  "kappa": 0.244,
+  "kappa_typed_vs_unrelated": 0.289
+ },
+ "haiku_v1__haiku_final": {
+  "n": 240,
+  "agree": 0.433,
+  "kappa": 0.244,
+  "kappa_typed_vs_unrelated": 0.267
+ },
+ "haiku_v1__gpt6_v3": {
+  "n": 240,
+  "agree": 0.467,
+  "kappa": 0.289,
+  "kappa_typed_vs_unrelated": 0.407
+ },
+ "gpt_v1__haiku_v3": {
+  "n": 240,
+  "agree": 0.45,
+  "kappa": 0.189,
+  "kappa_typed_vs_unrelated": 0.223
+ },
+ "gpt_v1__gpt_v3": {
+  "n": 240,
+  "agree": 0.487,
+  "kappa": 0.195,
+  "kappa_typed_vs_unrelated": 0.184
+ },
+ "gpt_v1__haiku_final": {
+  "n": 240,
+  "agree": 0.438,
+  "kappa": 0.151,
+  "kappa_typed_vs_unrelated": 0.184
+ },
+ "gpt_v1__gpt6_v3": {
+  "n": 240,
+  "agree": 0.471,
+  "kappa": 0.217,
+  "kappa_typed_vs_unrelated": 0.247
+ },
+ "haiku_v3__gpt_v3": {
+  "n": 240,
+  "agree": 0.738,
+  "kappa": 0.604,
+  "kappa_typed_vs_unrelated": 0.622
+ },
+ "haiku_v3__haiku_final": {
+  "n": 240,
+  "agree": 0.729,
+  "kappa": 0.604,
+  "kappa_typed_vs_unrelated": 0.622
+ },
+ "haiku_v3__gpt6_v3": {
+  "n": 240,
+  "agree": 0.742,
+  "kappa": 0.628,
+  "kappa_typed_vs_unrelated": 0.626
+ },
+ "gpt_v3__haiku_final": {
+  "n": 240,
+  "agree": 0.742,
+  "kappa": 0.598,
+  "kappa_typed_vs_unrelated": 0.644
+ },
+ "gpt_v3__gpt6_v3": {
+  "n": 240,
+  "agree": 0.767,
+  "kappa": 0.649,
+  "kappa_typed_vs_unrelated": 0.67
+ },
+ "haiku_final__gpt6_v3": {
+  "n": 240,
+  "agree": 0.708,
+  "kappa": 0.574,
+  "kappa_typed_vs_unrelated": 0.604
+ },
+ "gpt6_adjudication_final_vs_gpt": {
+  "n_disagreements": 62,
+  "sides_with_final": 22,
+  "sides_with_gpt_v3": 36,
+  "neither": 4
+ },
+ "gpt6_on_final_gpt_agreed": {
+  "n": 178,
+  "gpt6_agrees": 148
+ }
+}

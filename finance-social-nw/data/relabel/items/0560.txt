@@ -1,0 +1,52 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Updated December 20, 2023 at 9:43 AM AKST
+The year started with a lot of anxiety about a potential recession, but it's ending with Wall Street on a tear.
+The S&P 500, a broad-based group of stocks that includes many of the world's biggest and best-known companies, is up more than 21% so far this year.
+That is remarkable given how much the Federal Reserve has hiked interest rates and how much uncertainty remains about the economy — although investors are now betting policymakers will start cutting rates next year. That led to big market gains on Wednesday: The Dow Jones Industrial Average set a new record, ending the day at 37,090.
+But the S&P 500's gains, eye-popping as they are, haven't been widely shared — and that is making some people nervous.
+In fact, as it turns out, the S&P 500's impressive performance is actually thanks almost entirely to just a handful of stocks: "the Magnificent Seven," as they are referred to on Wall Street.
+Together, Apple, Amazon, Alphabet, NVIDIA, Meta, Microsoft, and Tesla are up around 70% year to date. And if you were to take them out of the S&P 500, the index would be up around 6%.
+Over-dependence on such a narrow set of stocks can be risky, leaving markets vulnerable to a downturn if the fortunes of the Magnificent Seven were to falter.
+Here's a look at these seven stocks and the role they have played in markets so far this year.
+What are the Magnificent Seven?
+Michael Hartnett, Bank of America's chief investment strategist, came up with the moniker earlier this year. It's a nod to the Western from 1960, starring Yul Brynner and Steve McQueen.
+"I'm a big fan of the film," he says.
+In May, a few months after OpenAI debuted its ChatGPT tool, Hartnett noticed investors were channeling their enthusiasm for artificial intelligence into a small basket of established tech companies.
+NVIDIA, which is headquartered in Santa Clara, Calif., designs high-end microchips for the supercomputers that power AI. This year, it has outperformed Wall Street's expectations repeatedly, and its share price is up more than 230%.
+Then there are Alphabet and Microsoft, two household names that have their own AI tools, Bard and Bing (Microsoft also invested $10 billion in OpenAI in January).
+Both have performed strongly this year, with Alphabet, the parent company of Google, up almost 50% this year, while Microsoft is up 56%.
+But not every member of the Magnificent Seven fits neatly into the "AI frenzy" theme. Tesla is an automaker, of course, although its CEO, Elon Musk, is involved in AI ventures.
+"The reality of it is these are very unique and distinct companies you're talking about," says Eric Freedman, the chief investment officer in the asset management group at U.S. Bank.
+What unites them, he argues, is they are all innovative.
+What role have they played in this year's stock markets?
+Harnett says he couldn't have predicted how well the Magnificent Seven would perform over the course of this year.
+But, he notes, "they were magnificent because everything else was tragic."
+In the first half of 2023, concerns about the economy, or what Hartnett calls "macro ambiguity," cast a shadow over the stock market, and many companies couldn't escape it.
+The Federal Reserve hiked interest rates aggressively, making the cost of borrowing money much more expensive.
+As a result, Wall Street shied away from banks and other financial services companies. And as mortgage rates rose, real estate investment trusts, or REITs, became less popular.
+Though the Magnificent Seven are not completely immune to an environment with higher interest rates, they are still positioned to do better than other companies.
+Not only are the seven stocks seen as having big profit potential, they also have comparatively healthy balance sheets. Each of them sits on tens of billions of dollars in cash.
+That's an advantage when borrowing costs rise, given the Magnificent Seven can finance their own growth without taking on debt.
+The seven stocks are also established businesses — pillars of today's global economy. That's made Wall Street confident they won't lose their market share and that they can weather an economic downturn.
+What are the risks of having such a limited driver of gains?
+A stock market rally that is not broad-based can backfire, according to Hartnett.
+"Narrow, concentrated markets are always vulnerable," he warns.
+A big, exogenous shock — a recession or another pandemic or something worse — would be incredibly painful because most investors currently own stock in at least some of the Magnificent Seven.
+Another risk is that these companies, which many investors say are already richly valued or expensive, could become overvalued, raising fears of a bubble that could burst.
+Hartnett has been thinking about what happened in the late 1990s, when the stock market's gains were driven by another small basket of big tech companies: Cisco, Dell, Intel and Microsoft.
+Wall Street nicknamed that group "The Four Horsemen," and the promise of the Internet back then drove those stocks higher — so high that the gains eventually fueled a market frenzy.
+Investors bought into all kinds of Internet-related, speculative start-ups such as Pets.com.
+"And you know how that turned out," Hartnett jokes.
+What resulted was one of the most well known crashes in market history, when the dot.com bubble burst in 2000.
+Still, analysts caution it is too early to make meaningful comparisons.
+According to Freedman, the Magnificent Seven companies are sturdier, and their business models are more diversified — although he acknowledges the risks of market gains tied to one story — in this case, AI.
+"As someone who resided in San Francisco, California, in March of 2000, was working in the industry, I would say that this is not an environment that we think is a direct parallel," Freedman says. "But we certainly could get to that point."
+Will this continue?
+Regardless of how one feels about AI's potential to transform the world, even the Magnificent Seven aren't immune to larger economic forces.
+Analysts say that, for this bull market to continue, more stocks need to join the Magnificent Seven — and that will depend largely on the economy and whether the Federal Reserve can get inflation down to its 2% target without triggering a recession.
+In recent weeks, investors have grown more optimistic that there will be a "soft landing" — a scenario in which the Fed is able to bring down inflation without triggering a recession.
+Those hopes got another boost Wednesday when stocks soared after the Fed held interest rates steady at its meeting on Wednesday and projected interest rates could start falling in the new year.
+That's raising some hope that the rally could broaden out by next year, easing the market's dependence on the Magnificent Seven, a development that many investors would welcome.
+Copyright 2026 NPR

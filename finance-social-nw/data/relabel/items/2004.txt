@@ -1,0 +1,92 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Ten stocks boasted double-digit gains last week, amid a flurry of positive corporate developments and a broader market optimism, thanks to the two-week truce between the US and Iran.
+The stocks notably clocked 20 to 50 percent gains week-on-week and were dominated by companies riding the AI wave. In this article, we spotlight the 10 top performers and explore the reasons behind their gains.
+To come up with the list, we focused on the companies with a $2 billion market capitalization and 5 million shares in trading volume.
+The stocks were chosen based on the percentage change in their share prices on April 2 and 10, 2026.
+10. AXT Inc. (NASDAQ:AXT)
+AXT grew its share prices by 21.46 percent week-on-week, as investors snapped up its shares ahead of the results of its first quarter earnings performance, helped by the management’s upbeat outlook for the period.
+AXT Inc. (NASDAQ:AXT) is scheduled to announce its financial and operating highlights on April 30, 2026, to be complemented by a conference call to elaborate on the results.
+In its last earnings call, AXT Inc. issued a “sequential revenue growth” outlook for the first quarter of the year after gaining progress on its export permits for indium phosphide early in the year.
+The development bolstered targets of doubling its manufacturing capacity by the end of the year, as it eyes capturing a significant share in the rapidly growing artificial intelligence sector.
+“We are in a strong position to achieve sequential revenue growth in Q1, driven primarily by growth in indium phosphide for the AI infrastructure build-out,” AXT Inc. (NASDAQ:AXTI) CEO Morris Young said.
+“We are … on track to double our indium phosphide manufacturing capacity this year and have a strong balance sheet to support our continued business expansion,” he noted.
+Last year, AXT Inc. widened its attributable net loss by 83 percent to $21.26 million from $11.6 million in 2024. Revenues also declined by 11 percent to $88 million from $99 million year-on-year.
+In the fourth quarter alone, attributable net loss narrowed by 31 percent to $3.5 million from $5.09 million, while revenues dropped by 8 percent to $23 million from $25 million.
+9. Bloom Energy Corp. (NYSE:BE)
+Bloom Energy rallied by 22.9 percent week-on-week, as investors welcomed the appointment of a new chief finance officer (CFO), while positioning portfolios ahead of the results of its earnings performance.
+On Monday, April 13, Simon Edwards is set to assume the role of CFO, filling a position that has been vacant for more than a year.
+Edwards boasts nearly two decades of experience scaling technology companies, having been chief executive officer for AI-inference firm Groq, after initially joining the latter as CFO.
+At Groq, Edwards led global financial operations and guided the company through a period of expansion, infrastructure build-out, and its recent licensing agreement with Nvidia Corp.
+Apart from Groq, he also held CFO positions at Conga and ServiceMax, as well as CFO for GE Digital.
+“Simon brings deep experience across finance and financial operations, along with the discipline, systems thinking and technology leadership needed as Bloom rapidly builds the power platform for the digital economy and beyond,” Bloom Energy Corp. (NYSE:BE) Chairman and CEO KR Sridhar said.
+“His engineering foundation, background in software and experience scaling AI infrastructure will be highly relevant as industries face increasing constraints around power availability. He will further strengthen our accomplished management team. We are pleased to welcome Simon to Bloom,” he added.
+Likewise, investors loaded portfolios ahead of the results of Bloom Energy Corp.’s earnings performance for the first quarter of the year. A conference call will be held to elaborate on the results.
+Market participants are expected to closely watch for Bloom Energy Corp.’s outlook for the year, as well as Edwards’ financial strategy to support the next phase of growth.
+8. CoreWeave Inc. (NASDAQ:CRWV)
+CoreWeave soared by 24 percent week-on-week, after securing new billion-dollar deals from Meta Platforms Inc. and Anthropic for the delivery of computing capacity to support their artificial intelligence needs.
+On Thursday alone, Meta raised its contract with CoreWeave Inc. (NASDAQ:CRWV) to $35.2 billion from $14.2 billion previously, after inking a new $21 billion contract, which will cover multiple locations through 2032. The expanded partnership would include some of the initial deployments of Nvidia Corp.’s Vera Rubin platform.
+Separately, CoreWeave Inc. on Friday secured another multi-year deal with AI startup Anthropic for the development and deployment of the latter’s Claude family of AI models.
+Anthropic marks the ninth leading AI model provider to use the CoreWeave platform.
+In other news, CoreWeave Inc. is planning to raise $5.25 billion in fresh funds from two debt market offerings, of which $3.5 billion would come from convertible senior notes due 2032, while another $1.75 billion would be raised from the offer of 9.75 percent senior notes due 2031.
+The convertible series will yield a 1.75-percent interest payable twice a year—on every 1st day of April and October of each year until the maturity date—with the first payment expected in October this year.
+Before the notes mature, noteholders will have the option to convert their holdings into shares at an initial conversion rate of 8.3612 Class A shares for every $1,000 notes held, or equivalent to $119.60 per share—a 17 percent premium over its closing price of $102 on Friday.
+Both offers are set to close on Tuesday, April 14. Proceeds will be used for general corporate purposes and the repayment of outstanding debt, among others.
+7. Astera Labs Inc. (NASDAQ:ALAB)
+Astera Labs saw its share prices surge by 27.2 percent week-on-week, as investors loaded portfolios amid expectations of a robust earnings performance for the first quarter of the year.
+In a notice to investors, Astera Labs Inc. (NASDAQ:ALAB) said that it would report its financial and operating highlights after market close on May 5, 2026, to be accompanied by a conference call to elaborate on the results.
+In its last earnings call, the company issued a highly optimistic outlook for the first quarter of the year, with revenues targeted to grow by 78 percent to 86 percent year-on-year to a range of $286 million to $297 million, versus $159.4 million in the same period a year earlier.
+GAAP diluted earnings per share are also expected to at least double to a range of $0.36 to $0.38, as compared with the $0.18 in the same comparable quarter.
+Likewise, optimistic sentiment was buoyed by renewed confidence for AI players and the easing tensions in the Middle East.
+In other news, Astera Labs Inc. earlier this year announced plans to expand its global engineering operations in Israel with the establishment of an advanced research and development center.
+Astera Labs Inc. said that the new design center would accelerate the development of its next-generation scale-up fabrics for high-bandwidth connectivity protocols, while also advancing technical research and development to address memory bottlenecks in AI training and inference applications.
+6. Cipher Digital Inc. (NASDAQ:CIFR)
+Cipher Digital climbed by 28.9 percent week-on-week as investors poured funds into companies riding the AI wave, helped by an overall market optimism after the US and Iran struck a two-week ceasefire.
+The stock rallied alongside its high-performance computing (HPC) counterparts. Technology stocks were among the most favored sectors as they were seen as less vulnerable to the Middle East tensions.
+In recent news, Cipher Digital Inc. (NASDAQ:CIFR) bagged a 15-year leasing deal with a major hyperscaler for the development and delivery of a new HPC data center at one of its existing sites.
+“This agreement for our third large AI campus reinforces Cipher’s position as a trusted partner to develop high-quality HPC data center infrastructure for the world’s leading companies,” Cipher Digital Inc. CEO Tyler Page said.
+Additionally, Cipher Digital Inc. successfully raised $200 million in fresh funds from a revolving credit facility, with an option to upsize the amount by up to $50 million.
+Proceeds from the offer will be used to enhance liquidity, support working capital, and fund growth initiatives.
+The credit facility bears interest at the secured overnight financing rate plus 1.25 percent to 1.75 percent.
+5. Nebius Group NV (NASDAQ:NBIS)
+Nebius climbed by 33.2 percent week-on-week, as investor sentiment was primarily driven by reports that it is venturing into a full-stack AI company with its planned acquisition of Israel-based artificial intelligence startup AI21.
+According to a report by The Information, Nebius Group NV (NASDAQ:NBIS) is setting its sights on AI21 following the latter’s failed $3 billion merger plan with Nvidia Corp.
+AI21 Chairman Amnon Shashua said earlier this year that the company is exploring strategic options with Nvidia and other buyers. Negotiations with Nvidia hit late stages, but later failed.
+In other news, Nebius Group NV received an optimistic coverage from Cantor Fitzgerald, with an “overweight” rating and a $129 price target, amid surging data center demand and the rapid expansion of the artificial intelligence sector.
+Nebius Group NV is currently underway with the expansion of its data center portfolio in line with its targets of 3 GW of contracted capacity by the end of the year.
+Of the total, a 1 GW scale would come from its data center in Independence, Missouri, while another 310 MW is being developed in Finland. The latter is targeted for full operations next year and is set to be Europe’s largest data center so far.
+It is also planning to strengthen its foothold in Finland with the development of more facilities in the area.
+Last month, the company clinched a $27 billion deal with Meta Platforms Inc. for the delivery of compute capacity for its AI needs.
+Of the total amount, $12 billion is set to be delivered over the next five years, to be followed by another $15 billion for another five years.
+The deal followed Nebius’ partnership with Nvidia, under which they would jointly develop and deploy next-generation hyperscale cloud for the AI market. Nvidia also invested $2 billion in Nebius.
+4. Hut 8 Corp. (NASDAQ:HUT)
+Hut 8 soared by 37.3 percent week-on-week as investors loaded portfolios in technology stocks amid renewed optimism for the artificial intelligence sector, helped by the easing tensions in the Middle East.
+Hut 8 Corp. (NASDAQ:HUT) rallied alongside its counterparts, as investors poured funds into companies tied to the US government’s priority industries, such as AI, rare earths, and semiconductors, among others.
+Hut 8 Corp. is currently underway with the development of a $10 billion data center called River Bend with a designed 245 MW of power capacity.
+Late last month, the company earned bullish coverage from Arete Research, issuing a “buy” recommendation and a $136 price target for the stock on optimism that Hut 8 Corp. would largely benefit from its River Bend facility.
+In December last year, Hut 8 Corp. inked a 15-year leasing deal with Google, which has the potential to generate up to $17.7 billion in revenues if and when the latter exercises all its renewal options.
+The base term covers 245 MW of IT capacity for Fluidstack for $7.7 billion. It also gives the latter the right of first offer for 1,000 MW of capacity in the campus’s future expansion.
+3. Organon & Co. (NYSE:OGN)
+Organon surged by 38.8 percent week-on-week, as investors gobbled up shares following reports that it is set to be acquired by Sun Pharmaceutical Industries for $12 billion.
+According to a report by India-based The Economic Times, Sun Pharmaceutical submitted an offer to fully acquire Organon & Co. in an all-cash transaction. The two firms have yet to confirm or deny the reports.
+Organon & Co. was spun off from Merck in 2021. It is engaged in the development of therapies for reproductive health, women’s health, and contraception, among others.
+Earlier this year, the listed US-based firm announced results from the late-stage clinical trial of its VTAMA cream—the only aryl hydrocarbon receptor (AhR) agonist indicated for the treatment of both plaque psoriasis in adults, as well as atopic dermatitis (AD) in adults and pediatric patients aged 2 years and above.
+Based on the results, the treatment candidate demonstrated early and consistent improvement in disease severity, as measured by vIGA-AD and EASI, and itch, as measured by PP-NRS, for patients down to age 2 with moderate to severe AD.
+In other news, Organon & Co. posted a dismal earnings performance last year, with net income plunging by 78 percent to $187 million from $864 million in 2024. Revenues also dipped by 3 percent to $6.2 billion from $6.4 billion year-on-year.
+In the fourth quarter alone, the company swung to a net loss of $205 million from a $109 million net income in the same quarter a year earlier, while revenues decreased by 5.3 percent to $1.5 billion from $1.59 billion year-on-year.
+2. Applied Optoelectronics Inc. (NASDAQ:AAOI)
+Applied Optoelectronics climbed by 44.9 percent week-on-week, with the rally primarily lifted by the overall optimism, thanks to the easing tensions between the US and Iran, while still favoring technology stocks riding the AI boom.
+Further boosting sentiment for the company was news earlier that it saw a strengthening demand for its new 800G data center transceivers after one of its major hyperscale customers upsized its order to $124 million from $53 million previously.
+“This increased order for our 800G transceivers reflects both the customer’s confidence in AOI and the growing demand for 800G optics,” Applied Optoelectronics Inc. (NASDAQ:AAOI) Chairman and CEO Dr. Thompson Lin said.
+Following product qualification, Applied Optoelectronics Inc. expects to start the delivery of both the initial and upsized orders in the second quarter of the year, with completion targeted by the end of 2026.
+“We also recently shipped the first 10,000 units of an 800G single-mode transceiver order to another hyperscale datacenter customer,” Lin noted.
+Launched in September last year, the 800G optical transceivers are built for high-performance AI and cloud data center networks requiring superior port density and bandwidth efficiency. It is available in standard pluggable form factors and is essential for high-capacity spine switching and high-speed GPU cluster interconnects.
+1. Aehr Test Systems Inc. (NASDAQ:AEHR)
+Aehr Test Systems climbed by 58.9 percent week-on-week, as investors took heart from the strong demand for semiconductors, spilling over to its stock.
+In a statement, Aehr Test Systems Inc. (NASDAQ:AEHR) President and CEO Gayn Erickson announced big wins, including a newly clinched contract with a major customer for its high-power FOX-XP WLBI system for devices aimed at the hyperscale data center optical interconnect market.
+Erickson said that the new customer is underway with the development of advanced silicon photonics–based transceivers for data center networking and optical I/O applications to address the rapidly accelerating demand for high-speed fiber optic communication links in hyperscale AI and cloud data centers.
+“We believe this win positions Aehr to participate in what could be a significant multiyear expansion of silicon photonics production driven by the growth of fiber optic interconnects in hyperscale AI data centers,” he said.
+Additionally, Aehr Test Systems Inc. clinched new deals with two more clients for multiple testing machines and next-generation chips.
+In other news, Aehr Test Systems Inc. widened its net loss in the last quarter ending February 2026 by 398 percent to $3.2 million from only $643,000 in the same period a year earlier. Revenues also decreased by 43.7 percent to $10.3 million from $18.3 million year-on-year.
+READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.

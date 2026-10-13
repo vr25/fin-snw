@@ -1,0 +1,10 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+The HBM memory industry is witnessing a huge economic rebound with the immense demand from AI, and this has taken the prices to new levels, reportedly a whopping five times increment.
+The AI Segment Has Fueled The Growth Of The HBM Memory Industry, Now Expected To Reach New Levels
+The market research firm Yolo Group discloses that the HBM memory supply and demand chain has witnessed significant changes during 2023, with a drastic increase in production levels along with adoption rates simultaneously, making HBM a much more valuable resource than before the AI hype. With the huge volumes of AI accelerators being produced by firms such as NVIDIA and AMD, HBM prices have soared to new levels, with Yolo Group reporting a vast 500% increment, and this doesn't look to stop just now, since the future markets are expected to develop rapidly.
+Another interesting fact highlighted by the report is that Samsung Electronics and SK Hynix are currently dominating the HBM markets, as they are reportedly responsible for over 90% of the market share. The figures aren't shocking at all, considering that both firms have made headlines recently, whether through getting new clients or even transitioning towards next-gen processes. Moreover, it was recently disclosed that the HBM leader SK hynix and TSMC are reportedly allying; hence, we can expect the market figures to evolve dynamically, moving ahead as well.
+In terms of what the future holds, it is said that HBM markets are expected to grow with a compound annual rate of 45% over the next five years, which means that we are going to witness a tremendous rise in overall market capital and the revenue generated from this particular stream. Furthermore, with the debut of future HBM products such as HBM4 in the upcoming years, the market is seen with high optimism, and AI will elevate it to new heights in the future as well.
+News Source: Chosun
+Follow Wccftech on Google to get more of our news coverage in your feeds.

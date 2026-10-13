@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Things are about to get a lot tougher for Jensen Huang's Nvidia
+- Nvidia is still the king of artificial intelligence.
+- Thanks to its chips, the company has become a vital support to companies building AI models.
+- Nvidia's dominance isn't guaranteed, however, as rivals want a slice of its success.
+There have been few surer bets in the artificial-intelligence era than Jensen Huang.
+The 61-year-old Silicon Valley veteran running Nvidia has overseen a $2 trillion surge in its value since the start of last year. The company's journey from $1 trillion to $2 trillion took a mere nine months — and it's now worth $2.35 trillion, behind only Microsoft and Apple.
+That growth story has a simple explanation: Nvidia has played a crucial role in supplying the chips needed to power the generative-AI revolution, making it fundamental to the ambitions of Sam Altman, Mark Zuckerberg, and everyone else chasing AI riches.
+So, it's little wonder blowout results are being anticipated as Nvidia prepares to share its first-quarter earnings after the bell on Wednesday. As the Wedbush analyst Matt Bryson put it, expect a "rinse and repeat" of recent blockbuster quarters.
+But as a CEO who saw his company on the brink of bankruptcy in the 1990s, Huang knows success isn't guaranteed. And while Nvidia is riding high, challenges loom on the horizon.
+Nvidia's dominance faces threats
+The hype behind Nvidia's chips is no joke.
+In March, Huang stood onstage in San Jose, California, for an event dubbed the "Woodstock of AI" (he seemed to prefer the comparisons to Taylor Swift) as the world awaited the reveal of Nvidia's next-generation chips, or GPUs, dubbed Blackwell.
+Blackwell offers technological leaps over its predecessor — the H100 GPU that tech CEOs such as Zuckerberg have been actively seeking to stockpile — that have been talked up in the industry since its announcement.
+Huang said Blackwell would be twice as powerful, making it an obvious purchase for companies seeking to build bigger, smarter, more efficient AI models.
+But competitors have been busy developing AI chips of their own to reduce reliance on Nvidia's increasingly expensive offerings. Price estimates for the most powerful Blackwell chip, the GB200, are about $70,000 each — roughly double the price of an H100.
+AMD CEO Lisa Su, who's Huang's cousin, is aiming to pry Nvidia customers away with a chip named the MI300X that costs between $10,000 and $15,000. Nvidia's own customers, such as Google, Microsoft, and Meta, are designing their own chips too.
+It's not yet clear how successful those efforts will be. What has really made Nvidia's chip hardware work so well for its customers is the software it runs on, CUDA.
+Triton time
+CUDA is a plug-and-play system that aims to make Nvidia GPUs easy to use with any AI workload. But rivals are seeking to take on CUDA now, too, in a bid to unseat Nvidia.
+The Financial Times reported that tech companies looking at alternatives to Nvidia's CUDA had been exploring Triton, software released by OpenAI, the maker of ChatGPT, in 2021.
+If they succeed in using Triton, they could be one step closer to a future in which alternatives to Nvidia's chips are easier to use.
+Pulling off these initiatives in a way that really threatens Nvidia remains some way off. But investors will anxiously anticipate how Nvidia responds at a time when growth is appearing to slow.
+The stock has almost doubled this year, although there have been wobbles on the way, such as a 10% one-day slide after a wider market panic.
+Nvidia is set to hold its crown for now, but Huang knows rivals are coming for its AI throne.
+Read the original article on Business Insider

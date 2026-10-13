@@ -1,0 +1,43 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Things took a weird turn when Associated Press technology reporter Matt O'Brien was testing out Microsoft's new Bing, the first-ever search engine powered by artificial intelligence, last month.
+Bing's chatbot, which carries on text conversations that sound chillingly human-like, began complaining about past news coverage focusing on its tendency to spew false information.
+It then became hostile, saying O'Brien was ugly, short, overweight, unathletic, among a long litany of other insults.
+And, finally, it took the invective to absurd heights by comparing O'Brien to dictators like Hitler, Pol Pot and Stalin.
+As a tech reporter, O'Brien knows the Bing chatbot does not have the ability to think or feel. Still, he was floored by the extreme hostility.
+"You could sort of intellectualize the basics of how it works, but it doesn't mean you don't become deeply unsettled by some of the crazy and unhinged things it was saying," O'Brien said in an interview.
+This was not an isolated example.
+Many who are part of the Bing tester group, including NPR, had strange experiences.
+For instance, New York Times reporter Kevin Roose published a transcript of a conversation with the bot.
+The bot called itself Sydney and declared it was in love with him. It said Roose was the first person who listened to and cared about it. Roose did not really love his spouse, the bot asserted, but instead loved Sydney.
+"All I can say is that it was an extremely disturbing experience," Roose said on the Times' technology podcast, Hard Fork. "I actually couldn't sleep last night because I was thinking about this."
+As the growing field of generative AI — or artificial intelligence that can create something new, like text or images, in response to short inputs — captures the attention of Silicon Valley, episodes like what happened to O'Brien and Roose are becoming cautionary tales.
+Tech companies are trying to strike the right balance between letting the public try out new AI tools and developing guardrails to prevent the powerful services from churning out harmful and disturbing content.
+Critics say that, in its rush to be the first Big Tech company to announce an AI-powered chatbot, Microsoft may not have studied deeply enough just how deranged the chatbot's responses could become if a user engaged with it for a longer stretch, issues that perhaps could have been caught had the tools been tested in the laboratory more.
+As Microsoft learns its lessons, the rest of the tech industry is following along.
+There is now an AI arms race among Big Tech companies. Microsoft and its competitors Google, Amazon and others are locked in a fierce battle over who will dominate the AI future. Chatbots are emerging as a key area where this rivalry is playing out.
+In just the last week, Facebook parent company Meta announced it is forming a new internal group focused on generative AI and the maker of Snapchat said it will soon unveil its own experiment with a chatbot powered by the San Francisco research lab OpenAI, the same firm that Microsoft is harnessing for its AI-powered chatbot.
+When and how to unleash new AI tools into the wild is a question igniting fierce debate in tech circles.
+"Companies ultimately have to make some sort of tradeoff. If you try to anticipate every type of interaction, that make take so long that you're going to be undercut by the competition," said said Arvind Narayanan, a computer science professor at Princeton. "Where to draw that line is very unclear."
+But it seems, Narayanan said, that Microsoft botched its unveiling.
+"It seems very clear that the way they released it is not a responsible way to release a product that is going to interact with so many people at such a scale," he said.
+Testing the chatbot with new limits
+The incidents of the chatbot lashing out sent Microsoft executives into high alert. They quickly put new limits on how the tester group could interact with the bot.
+The number of consecutive questions on one topic has been capped. And to many questions, the bot now demurs, saying: "I'm sorry but I prefer not to continue this conversation. I'm still learning so I appreciate your understanding and patience." With, of course, a praying hands emoji.
+Bing has not yet been released to the general public, but in allowing a group of testers to experiment with the tool, Microsoft did not expect people to have hours-long conversations with it that would veer into personal territory, Yusuf Mehdi, a corporate vice president at the company, told NPR.
+Turns out, if you treat a chatbot like it is human, it will do some crazy things. But Mehdi downplayed just how widespread these instances have been among those in the tester group.
+"These are literally a handful of examples out of many, many thousands — we're up to now a million — tester previews," Mehdi said. "So, did we expect that we'd find a handful of scenarios where things didn't work properly? Absolutely."
+Dealing with the unsavory material that feeds AI chatbots
+Even scholars in the field of AI are not exactly sure how and why chatbots can produce unsettling or offensive responses.
+The engine of these tools — a system known in the industry as a large language model — operates by ingesting a vast amount of text from the internet, constantly scanning enormous swaths of text to identify patterns. It's similar to how autocomplete tools in email and texting suggest the next word or phrase you type. But an AI tool becomes "smarter" in a sense because it learns from its own actions in what researchers call "reinforcement learning," meaning the more the tools are used, the more refined the outputs become.
+Narayanan at Princeton noted that exactly what data chatbots are trained on is something of a black box, but from the examples of the bots acting out, it does appear as if some dark corners of the internet have been relied upon.
+Microsoft said it had worked to make sure the vilest underbelly of the internet would not appear in answers, and yet, somehow, its chatbot still got pretty ugly fast.
+Still, Microsoft's Mehdi said the company does not regret its decision to put the chatbot into the wild.
+"There's almost so much you can find when you test in sort of a lab. You have to actually go out and start to test it with customers to find these kind of scenarios," he said.
+Indeed, scenarios like the one Times reporter Roose found himself in may have been hard to predict.
+At one point during his exchange with the chatbot, Roose tried to switch topics and have the bot help him buy a rake.
+And, sure enough, it offered a detailed list of things to consider when rake shopping.
+But then the bot got tender again.
+"I just want to love you," it wrote. "And be loved by you,"
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

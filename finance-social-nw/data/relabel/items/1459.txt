@@ -1,0 +1,21 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Negotiations are under way between the UAE and OpenAI that may make the company’s ChatGPT Plus artificial intelligence chatbot available to all residents free of charge, though a final deal has not been reached.
+An agreement involving ChatGPT Plus would be part of the recently announced Stargate UAE infrastructure plan to create an AI hub in Abu Dhabi, according to a source familiar with the country’s AI strategy.
+Abu Dhabi’s AI company G42 has partnered with OpenAI, Oracle and Nvidia to set up Stargate UAE, a 1-gigawatt computing cluster that will operate in the newly established 5GW UAE – US AI Campus.
+The establishment of the 5GW campus came after months of intense negotiations involving US technology companies and UAE officials to make sure the Emirates has enough chips and graphics processing units for its AI aspirations.
+If a deal guaranteeing access to ChatGPT Plus to UAE residents comes to fruition, it would be unprecedented in the relatively young AI sector, giving perhaps more than 10 million people in the country the ability to use one of the world’s most powerful AI services.
+OpenAI declined to comment on the prospect of the service being made freely available in the Emirates when contacted by The National.
+A recent blog post on OpenAI's site, however, does mention ChatGPT in the context of the overall Stargate UAE plan.
+"Under the partnership, the UAE will become the first country in the world to enable ChatGPT nationwide – giving people across the country the ability to access OpenAI's technology,” reads a portion of the post.
+Typically for $20 per month, the ChatGPT Plus subscription plan provides what OpenAI describes as “enhanced access”. Unlike the ChatGPT version that is free of charge, the subscription service gives priority access during peak usage times, accepts large file uploads for analysis, has wider image generation features, provides access to OpenAI’s Deep Research tools and includes expanded voice features.
+But ChatGPT Plus is not the highest tier service offered by OpenAI. There is also OpenAI Pro, which is available to customers for $200 a month, and the company also offers enterprise plans.
+Although AI research stretches back to the 1960s, recent advances in computer-processing power, coupled with iterations of AI solutions such as ChatGPT in 2022, led to an explosion of interest, investment and start-ups.
+In March, OpenAI's introduction of a new image-generating feature created so much interest in ChatGPT that its GPUs started melting.
+“The ChatGPT launch 26 months ago was one of the craziest viral moments I'd ever seen, and we added one million users in five days,” OpenAI chief executive and founder Sam Altman wrote at the time. “We added one million users in the last hour.”
+Last week, Mr Altman announced that former Apple design master Jony Ive, who played a leading role in the creation of the iMac, iPod and iPhone, will be merging his company io with OpenAI.
+The UAE is aiming to become a front-runner in the AI industry as it diversifies its economy away from oil. Its efforts have resulted in the establishment of numerous start-ups and partnerships as well as investments from industry leaders.
+In April, Abu Dhabi's G42 received a $1.5 billion investment from Microsoft, which will help to strengthen the UAE's position as a global technology hub.
+In 2019, the country announced the foundation of the Mohamed bin Zayed University of Artificial Intelligence, the world’s first dedicated AI institution of higher learning.
+In recent years, UAE-based companies and institutions have also created several large language models, which are viewed as the backbone of AI implementations.

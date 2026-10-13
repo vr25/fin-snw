@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Warren Buffett has long suggested that average investors would be best off buying an S&P 500 index fund. If you know you should invest but don't want to do the heavy lifting of buying individual stocks, that's sage advice. But there's an important twist to the S&P 500 index that you might want to consider if you plan to listen to Buffett today.
+What does the S&P 500 index do?
+Wall Street generally considers the S&P 500 index "the market." However, it isn't meant to track the ups and downs of Wall Street. The S&P 500 index is meant to track the U.S. economy. This is probably why Warren Buffett likes the index, since the United States has a long history of growth and innovation. Buying the S&P 500 is betting on the United States.
+The index is created by a committee. The stocks selected are large and economically important. An effort is made to ensure that the S&P 500 index includes companies from a broad spectrum of sectors. The index's stocks are weighted by market capitalization, so the largest companies have the biggest impact on performance. That makes logical sense, since that's basically how the economy works. The committee periodically updates the list of companies to ensure the index remains a good representation of the U.S. economy.
+Every investment that fully tracks the S&P 500 index does the same exact thing. If you are looking to buy the S&P 500, you should pick the cheapest option, which today is likely to be Vanguard S&P 500 ETF (VOO +0.54%). The expense ratio for this S&P 500 tracker is an ultra-low 0.03%. That's as close to free as you are likely to find on Wall Street.
+NYSEMKT: VOO
+Key Data Points
+The problem with tracking the S&P 500 index
+There's just one problem with Vanguard S&P 500 ETF: It uses market-cap weighting because that's how the index is weighted. Market-cap weighting can lead to a small number of sectors and stocks having an outsize impact on the index's performance.
+Right now, for example, technology stocks make up 34% of the index. Just three technology stocks, Nvidia, Apple, and Microsoft, make up nearly 21% of the index. The outsize technology exposure may leave more conservative investors worried about a tech downturn, which would likely be brutal for the index.
+An alternative is to buy an S&P 500 variant that uses equal weighting, such as Invesco S&P 500 Equal Weight ETF (RSP +0.40%). Equal weighting means that every stock has the same impact on the exchange-traded fund's (ETF's) performance. This should limit the negative impact that a tech downturn would have since Invesco S&P 500 Equal Weight ETF's tech weighting is currently 13.5%. That's a far more reasonable figure.
+NYSEMKT: RSP
+Key Data Points
+That 13.5% is actually the third-largest sector exposure after industrials at 16% and financials at 15%. Healthcare comes in at number four, with a weighting of 12%. Invesco S&P 500 Equal Weight has a far more balanced portfolio. The main negative is the 0.20% expense ratio, which may seem a bit high for an S&P 500 index fund. That said, the ETF is doing something unique, so the higher costs are likely justifiable.
+What about performance?
+Technology has driven the market higher over the last few years, so Invesco S&P 500 Equal Weight ETF has lagged Vanguard S&P 500 ETF of late. However, since its inception, Invesco S&P 500 Equal Weight ETF has slightly outperformed the S&P 500 index.
+If you hold for the long term, which is what Buffett would recommend, buying the Invesco S&P 500 Equal Weight ETF should work out just fine and provide you with a more diversified portfolio. A $100 investment will let you buy half a share of the ETF, as most brokers now allow fractional purchases. If you can't do that with your broker, save up a little more cash and buy a whole share for around $200.

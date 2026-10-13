@@ -1,0 +1,22 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+By STAN CHOE, Associated Press Business Writer
+NEW YORK (AP) — U.S. stocks capped another strong week with more records on Friday.
+The S&P 500 rose 0.4% to set an all-time high, the fifth time it did so this week. The Dow Jones Industrial Average climbed 208 points, or 0.5%, and the Nasdaq composite added 0.2% to its own record set the day before.
+Deckers, the company behind Ugg boots and Hoka shoes, jumped 11.3% after reporting stronger profit and revenue for the spring than analysts expected. Its growth was particularly strong outside the United States, where revenue soared nearly 50%.
+Edwards Lifesciences rose 5.5% after likewise topping Wall Street’s expectations for profit in the latest quarter. It said it saw strength across all its product groups, and it expects profit for the full year to come in at the high end of the forecasted range it had given earlier.
+They helped offset a drop of 8.5% for Intel, which fell after reporting a loss for the latest quarter, when analysts were looking for a profit. The struggling chipmaker also said it would cut thousands of jobs and eliminate other expenses as it tries to turn around its fortunes. Intel, which helped launch Silicon Valley as the U.S. technology hub, has fallen behind rivals like Nvidia and Advanced Micro Devices while demand for artificial intelligence chips soars.
+All told, the S&P 500 rose 25.29 points to 6,388.64. The Dow Jones Industrial Average climbed 208.01 to 44,901.92, and the Nasdaq composite added 50.36 to 21,108.32.
+The pressure is on companies to deliver solid growth in profits in order to justify big gains for their stock prices, which have rallied to record after record in recent weeks. Wall Street has zoomed higher on hopes that President Donald Trump will reach trade deals with other countries that will lower his stiff proposed tariffs, along with the risk that they could cause a recession and drive up inflation. Trump has recently announced deals with Japan and the Philippines, and the next big deadline is looming on Friday, Aug. 1.
+Besides potential trade talks, next week will also feature a meeting by the Federal Reserve on interest rates. Trump again on Thursday lobbied the Fed to cut rates, which he has implied could save the U.S. government money on its debt repayments.
+Fed Chair Jerome Powell, though, has continued to insist he wants to wait for more data about how Trump’s tariffs affect the economy and inflation before the Fed makes its next move. Lower interest rates can help goose the economy, but they can also give inflation more fuel.
+Lower rates also may not lower the U.S. government’s costs to borrow money, if the bond market feels they could send inflation higher in the future. In that case, lower short-term rates brought by the Fed could actually have the opposite effect and make it more expensive for Washington to borrow money over the long term.
+The widespread expectation on Wall Street is that the Fed will wait until September to resume cutting interest rates.
+In the bond market, Treasury yields held relatively steady following Trump’s latest attempt to push Powell to cut interest rates. Trump also seemed to back off on threats to fire the Fed’s chair.
+“To do that is a big move, and I don’t think that’s necessary,” Trump said. “I just want to see one thing happen, very simple: Interest rates come down.”
+If Trump fired Powell, he’d risk a freak-out in financial markets by raising the possibility of a less independent Fed, one unable to make unpopular choices necessary to keep the economy healthy.
+The yield on the 10-year Treasury eased to 4.38% from 4.43% late Thursday. The two-year Treasury yield, which more closely tracks expectations for what the Fed will do, held steady at 3.91%, where it was late Thursday.
+In stock markets abroad, indexes slipped across much of Europe and Asia.
+Stocks fell 1.1% in Hong Kong and 0.3% in Shanghai. U.S. Treasury Secretary Scott Bessent has said he will meet with Chinese officials in Sweden next week to work toward a trade deal with Beijing ahead of an Aug. 12 deadline. Trump has said a China trip “is not too distant” as trade tensions ease.
+AP Writers Teresa Cerojano and Matt Ott contributed.

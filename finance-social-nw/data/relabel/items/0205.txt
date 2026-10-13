@@ -1,0 +1,28 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Wall St climbs, Federal Reserve meeting in focus
+Strong earnings reports have buoyed Wall St despite Amazon's warnings of a slowdown.
+US stock indexes advanced after strong earnings updates from Exxon and Intel offset worries over Amazon’s slowdown warning, while economic data reinforced expectations that the Federal Reserve would hike interest rates next week.
+Exxon Mobil Corp shares rose to all-time high on Friday as the oil company reported a record first-quarter profit on rising oil and gas output, also boosting the S&P energy index.
+Chipmaker Intel Corp gained after it said gross margins will improve in the second half.
+Yet Amazon.com Inc fell despite better-than-expected quarterly results, as it signaled its cloud computing business growth would slow further.
+Its performance weighed on the consumer discretionary index.
+“Markets are building on yesterday’s gains a little bit.
+This week’s earnings overall were better than people expected.
+There was a lot of pessimism going in but the past week has brought home the fact that it’s not turning into a bad earnings season at all,” said Peter Tuz, president of Chase Investment Counsel in Charlottesville, Virginia.
+He suggested investors may still be cautious ahead of Apple Inc’s results due next week and the Federal Open Market Committee (FOMC) meeting and the US jobs report for April.
+John Praveen, co-CIO at Paleo Leon Inc in Princeton, NJ said Friday’s economic data solidified expectations ahead of next week’s Fed meeting and eased fears about a sharp slowdown.
+Data showed US consumer spending unchanged in March, while underlying inflation pressures remained strong, feeding expectations the Fed will hike interest rates by 25 basis points next week.
+Other data showed first-quarter US economic growth slowed more than expected, while plunging consumer confidence in April heightened fears of a recession.
+According to preliminary data, the S&P 500 gained 34.71 points, or 0.83 per cent, to end at 4,170.06 points, while the Nasdaq Composite gained 84.35 points, or 0.70 per cent, to 12,226.58. The Dow Jones Industrial Average rose 275.36 points, or 0.81 per cent, to 34,101.52.
+The benchmark S&P 500 registered a second consecutive monthly gain. It was helped by better-than-expected earnings from megacap companies including Alphabet Inc, Microsoft Corp and Meta Platforms Inc.
+Analysts now expect first-quarter earnings for S&P 500 companies to fall 1.9 per cent from a year ago compared with a 5.1 per cent fall expected at the start of April, according to Refinitiv data.
+The Fed issued a detailed and scathing assessment of its failure to identify problems and push for fixes at Silicon Valley Bank before the US lender’s collapse, and promised tougher supervision and stricter rules for banks.
+While the broader banking sector saw some gains on Friday, shares in beleaguered regional lender First Republic Bank tumbled after a report it was likely headed for receivership under the US Federal Deposit Insurance Corporation.
+Snapchat-owner Snap Inc dived after it warned next quarter’s results could miss Wall Street targets, while Pinterest Inc shares sank after the image-sharing platform forecast second-quarter revenue growth below estimates.
+Cloudflare Inc tumbled on a downbeat revenue forecast from the cloud services provider, while Colgate-Palmolive Co climbed after lifting its annual organic sales forecast betting on consistent price hikes.
+— AAP
+Want to see more stories from The New Daily in your Google search results?
+- Click here to set The New Daily as a preferred source.
+- Tick the box next to "The New Daily". That's it.

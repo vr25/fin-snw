@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+After overcoming an initial stumble over its artificial intelligence (AI) launch earlier this year, Alphabet's (GOOG +0.61%) (GOOGL +0.46%) stock has put up impressive results through 2023.
+The Google parent is up 43% year to date through June 5, helped by entering the year with a low valuation, the general perception that the worst of the tech recession is over, and an AI presentation at its I/O developer conference last month that redeemed the earlier one.
+However, Alphabet still faces plenty of uncertainty. There's new competition in search from ChatGPT and Bing, which is now powered by ChatGPT technology, and while Bard AI may have won over critics, it could be hard for the company to pivot to an AI-first search model and still preserve its advertising business. There are also signs that the digital advertising market, which is the source of nearly all of Alphabet's revenue, may be maturing.
+In fact, one report from New Constructs, an investment research firm that uses forensic accounting, shows that Alphabet's future growth rate is slower than you might think. Based on a share price of $122.87, New Constructs used a reverse discounted cash flow (DCF) model to calculate that Alphabet is expected to grow revenue by 5.6% annually for the next 25 years. It is also projected to improve its profitability, which it defines by the return on invested capital minus weighted average cost of capital, to 48.1%, up from 30.7% last year.
+Based on that math, New Constructs concluded that the market's expectations make the stock unattractive.
+Are Alphabet's high-growth days over?
+Twenty-five years is a long time, but looking at that revenue growth forecast another way, 5.6% revenue growth annualized over the next 25 years is the same as 25% growth for the next six years and then flat growth for the remaining 19 years. Followers of Alphabet will know that historically, the company's growth rate has been much stronger than 5.6%.
+As you can see from the chart, Alphabet's revenue growth has hovered around 20% for most of the last decade with the exception of the distortion during the pandemic when growth slowed and then rocketed higher, fueled by stimulus spending and a jump in screen time. More recently, fears of recession have erased the company's top-line growth.
+However, looking ahead, investors have long signaled that they expect growth in the digital advertising market to slow as both Alphabet and Meta Platforms have traded at modest valuations over the last several years. Estimates for growth in the digital advertising market vary but much of the ad market has already moved over from traditional channels like television.
+NASDAQ: GOOGL
+Key Data Points
+The AI question
+New Constructs' biggest concern wasn't about Alphabet's revenue growth, but its profitability as its reverse DCF implies that the market expects its economic earnings margin to rise from 30.7% to 48.1%.
+That kind of increase in profit margin would be difficult even for a tech titan like Alphabet, which has essentially had a monopoly in search and other businesses like YouTube.
+However, the prospect of improving profitability has become more difficult with the challenge from ChatGPT and Bing. Google Search has thus far held its own against the new threat, but this battle is only beginning. After all, ChatGPT hasn't even launched a mobile app yet, though it plans to introduce one for iOS soon, and its knowledge base still cuts off in 2021, which is likely to be updated as well.
+When Microsoft launched its new ChatGPT-powered version of Bing, CEO Satya Nadella predicted, "From now on, the [gross margin] of search is going to drop forever."
+Beyond the Microsoft challenge, there's also the question of how Alphabet can maintain its margins while defending its market share in search, investing in AI, and keeping its advertising ecosystem intact, which is designed to work with conventional search but seems more difficult with an AI chatbot like Bard AI.
+Alphabet now trades at a price-to-earnings ratio of 27.6, meaning it's no longer the value play it was six months ago.
+It's too soon to say whether the company's best growth days are behind it, but at the current valuation, with the digital ad market maturing and a new challenge in AI, the upside potential for Alphabet stock seems limited.

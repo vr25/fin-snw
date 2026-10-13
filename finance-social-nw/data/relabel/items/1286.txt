@@ -1,0 +1,24 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+March 6 (Reuters) – Wall Street’s major indexes pared early gains on Monday and investors saw U.S. Treasury yields rise in support of this week’s testimony from Federal Reserve Chairman Jerome Powell and economic data including the jobs report.
+iPhone maker Apple Inc ( AAPL.O ), which rose as much as 2% last week, was the biggest boost to the S&P 500 index ( .SPX ) after Goldman Sachs initiated coverage with a “buy” rating.
+But stocks gave up earlier gains as the yield on the U.S. 10-year Treasury note recovered from an early slide after data showed new orders for U.S. manufactured goods fell less than expected in January. Higher orders for engines and other products indicated that manufacturing is regaining its footing, despite a fall in civilian aircraft bookings.
+As higher rates reduce the value of future cash flows, rising bond yields weigh on equity valuations, particularly growth and technology stocks.
+Monday’s data could dampen investor enthusiasm, said Shawn Cruz, chief trading strategist at TD Ameritrade in Chicago.
+“There’s still a lot of work to be done on inflation,” Cruz said. “We don’t see the demand slowdown we need to see. The whole point of the Fed raising rates is to slow the economy.”
+Latest Updates
+See 2 more stories
+The Dow Jones Industrial Average (.DJI) rose 45.24 points, or 0.14%, to 33,436.21; The S&P 500 (.SPX) added 10.67 points, or 0.26%, to 4,056.31; And the Nasdaq Composite (.IXIC) added 31.23 points, or 0.27%, to 11,720.23.
+Six of the 11 major S&P 500 sectors rose. But after China set a lower-than-expected target for economic growth of around 5% this year, the commodity-linked products sector ( .SPLRCM ) led declines.
+The technology sector ( .SPLRCT ) was the biggest gainer, with Apple Inc ( .SPLRCT ) the biggest boost, followed by Microsoft Corp ( MSFT.O ) and Google parent Alphabet Inc ( GOOGL.O ).
+Three major U.S. stock indexes rallied on Friday and posted weekly gains after comments from Fed policymakers eased jitters surrounding an aggressive rate hike.
+But San Francisco Federal Reserve Bank President Mary Daly said on Saturday that if inflation and labor market data were warmer than expected, interest rates should be higher in December than Fed policymakers predicted.
+Investors will be looking for clues about the Fed’s future rate hike path when Powell testifies before Congress on Tuesday and Wednesday. Powell’s last talk of strong economic data and warmer-than-expected inflation has raised concerns that the Fed will raise rates more than expected or keep them higher for longer.
+Traders expect at least three 25-basis-point hikes this year and interest rates to 5.44% by September from 4.67% now.
+Shares of cryptocurrency-related companies fell after Silvergate Capital Corp ( SI.N ) pulled the plug on its crypto payment network, raising doubts about the company’s ability to stay in business. The California-based bank was last up 1% at $5.84, down from $5.11. Its crypto peer Signature Bank ( SBNY.O ) fell nearly 2%.
+Declining issues outnumbered advancers by a 1.46-to-1 ratio on the NYSE; On the Nasdaq, a 1.79-to-1 ratio favored decliners.
+S&P 500 hits 20 new 52-week highs and a new low; The Nasdaq Composite posted 74 new highs and 71 new lows.
+Reporting by Sinead Carew, Shruti Shankar, Bansari Mayur Kamdar and Sristi Achar A in Bangalore; Editing by Vinay Dwivedi, Anil de Silva and Richard Chang
+Our Standards: Thomson Reuters Trust Principles.
+Alistair MacLeod was a distinguished Canadian writer whose stories captured the culture, traditions, and landscapes of Atlantic Canada. Known for his evocative storytelling and powerful characterizations, he remains one of the country’s most respected literary voices.

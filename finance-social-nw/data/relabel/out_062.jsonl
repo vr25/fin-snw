@@ -1,0 +1,20 @@
+{"id": "1240", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The Dow Jones Industrial", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1241", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "- Exclusive - Auto Technology", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1242", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Latin America to Embrace Social", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1243", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The global phenomenon of TikTok", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1244", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The S&P 500 and the", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1245", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Movate Recognized as a Leader", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1246", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In context: Google does not", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1247", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1248", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "For many of us, fish", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1249", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "We recently compiled a list", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1250", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "We recently compiled a list", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1251", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "We recently compiled a list", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1252", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "2024 was a wild year", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1253", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "The Nasdaq Composite has been", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1254", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Nasdaq Composite has been", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1255", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Nasdaq Composite has been", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1256", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Thai government aims to", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1257", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "- Social media platforms with", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1258", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1259", "ticker_a": "AVGO", "ticker_b": "META", "first_words": "More Schwab clients net bought", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

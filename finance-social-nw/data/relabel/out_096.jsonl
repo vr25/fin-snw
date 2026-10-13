@@ -1,0 +1,20 @@
+{"id": "1920", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "It's hard not to marvel at", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1921", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "It's hard not to marvel at", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1922", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "It's hard not to marvel at", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1923", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The U.S. Department of Homeland Security", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1924", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "On Monday night, more than a", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1925", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Mark Zuckerberg questioned on Meta's", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1926", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Wall Street has ended higher, lifted", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1927", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 19 Feb 2026,", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1928", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ANI 20 Feb 2026, 04:28", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1929", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "ANI 20 Feb 2026, 04:28", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1930", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ANI 20 Feb 2026, 04:28", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1931", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The U.S. Department of Commerce released", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1932", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New Jersey Raised Michelin Chef Opens", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1933", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "NEW YORK, New York - U.S.", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1934", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Plea Deal For Austin Man Who", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1935", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "It's getting hard for growth investor", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1936", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "This new cybercrime platform lets hackers", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1937", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "San Jose (California)/ Salt Lake City", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1938", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Big News! Zaxbys Set To Open", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1939", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The CEOs of Anthropic and OpenAI", "relation": "unrelated-mention", "sentiment_alignment": 0}

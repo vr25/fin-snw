@@ -1,0 +1,6 @@
+TICKER_A: AVGO
+TICKER_B: META
+POST:
+Broadcom (AVGO) late Thursday narrowly beat Wall Street's targets for its fiscal second quarter and with its guidance. But Broadcom stock slipped in extended trading. The fabless chipmaker and infrastructure software provider earned an adjusted $1.58 a share on sales of $15 billion in the quarter ended May 4. Analysts polled by FactSet had expected Broadcom to earn $1.57 a…
+Broadcom Edges Above Quarterly Targets, But Stock Slips
+Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8

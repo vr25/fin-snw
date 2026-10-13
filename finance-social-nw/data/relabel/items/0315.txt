@@ -1,0 +1,61 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Samsung Galaxy Z Fold 4 review: mega multi-tasker
+A slicker, more streamlined folding phone that majors on productivity
+Stuff Verdict
+Another unashamedly premium foldable with the price to match – but the streamlined styling and improved cameras go a long way, and software upgrades really make it a productivity powerhouse.
+Pros
+- Slick software makes multitasking effortless
+- Flagship performance
+- Better, more versatile cameras
+Cons
+- No S Pen as standard, or a slot to store one
+- Screen crease hasn’t disappeared completely
+- Still your wallet’s worst enemy
+Introduction
+The foldable phone arms race shows no sign of slowing down, with big names like Motorola, Honor and Oppo all getting in on the action with some of the best smartphones around – but Samsung is the firm on the front lines. It’s all-in on dual screens, with the inward-folding Samsung Galaxy Z Fold 4 leading the charge.
+This fourth-gen flagship gets the latest Snapdragon silicon, a triple-lens camera borrowed from the Galaxy S22, and a more streamlined appearance – along with a price that confirms its premium status. Those might sound like minor gains, but the biggest changes are on the software front. A productivity push seems to finally take full advantage of that big internal screen – and might be the move that fully cements foldables in the wider smartphone landscape.
+Review originally published 17 August 2022
+How we test smartphones
+Every phone reviewed on Stuff is used as our main device throughout the testing process. We use industry standard benchmarks and tests, as well as our own years of experience, to judge general performance, battery life, display, sound and camera image quality. Manufacturers have no visibility on reviews before they appear online, and we never accept payment to feature products. Find out more about how we test and rate products.
+Design & build: flat but familiar
+Yes, it looks startlingly similar to the outgoing Galaxy Z Fold 3, but this new handset isn’t quite so tall, and is ever-so-slightly wider. That means the outer display isn’t as skinny this time around, with slimmer bezels and a more generously proportioned 23.1:9 aspect ratio that’s more manageable with one hand. At 263g, Samsung has even managed to trim a bit of weight in the process. It’s still heftier than a traditional phone, but that’s a typical trade-off in the foldable world.
+The frame has been flattened down a bit, and now has a shiny finish to contrast the matte rear glass. Two of the three colour options (Greygreen and Phantom Black) are on the subdued side, with Beige being the choice for those who like their tech to stand out. It has a polished gold frame which really stands out. There’s also a Burgundy option if you shop directly through the Samsung web store.
+It remains a chunky thing when closed, but not so much more than a regular phone it’ll feel like a brick in your pocket. The side-mounted fingerprint sensor is accurate, quick to unlock the phone, and at a sensible height for left- and right-handers.
+As before it doesn’t close completely flat, like a Microsoft Surface Duo 2, instead leaving a small gap near the hinge that quickly begins to collect dust as you pull the phone in and out of a pocket. It feels reassuringly sturdy, though, with no flex when you squeeze the two halves together and a hinge that’s happy to stay open at a more book-like angle if you like. Samsung says it has been tested to withstand 200,000 folds, and I had no issues with it loosening over time during our testing.
+I’m glad to see IPX8 water resistance make a return, so you’re safe from rain showers and accidental spills. It’s something you won’t find on other foldable phones. Gorilla Glass Victus should keep exterior scratches and scrapes to a minimum, and a pre-installed screen protector remains on the interior display. It’s still more delicate than regular glass – so much so Samsung has designed an all-new S Pen that won’t damage it – but the firm has beefed up its durability significantly. I’ve not noticed any permanent marks during our time with the phone. Sketching and note-taking is a breeze with the S-Pen – it’s just a shame there’s nowhere to stash it inside the phone.
+Screen & sound: in the crease
+The Fold 4’s outer screen is as good as any flagship phone, with a 120Hz adaptive refresh rate and a colourful, contrasty OLED panel – it’s just a little narrower. Not as narrow as last year’s effort, though, which makes it perfectly usable on its lonesome. It gets plenty bright, can do justice to HDR video and has stellar viewing angles. Amazing, then, that this is the lesser of the two.
+Inside, the 7.6in panel is now 3mm wider than the outgoing Fold 3. It’s a small change, but any extra space is a good thing in my book. The 2176×1812 resolution is wonderfully sharp, and the high refresh rate delivers silky smooth scrolling. The 1000 nit peak brightness means it holds up very well under direct sunlight, and as we’ve come to expect from Samsung’s OLEDs, colours are wonderfully vibrant.
+The slightly wider aspect ratio still leaves substantial black bars around most video content, but you’re still getting a bigger picture than any traditional phone. The stereo speakers are a great match, too: they get impressively loud with no sign of distortion, have decent separation and avoid making higher frequency notes sound shrill or piercing. Just don’t expect much in the way of bass. You’ll also need Bluetooth buds for private listening – there’s no headphone port here.
+The under-display selfie camera is much improved over last year’s phone, blending in neatly with the surrounding pixels. It’s still visible if you go looking for it, as is the crease down the centre of the screen, but both are now less distracting than before.
+Performance & battery life: not short on power
+As with all of Samsung’s flagships, the Z Fold 4 isn’t short on power. It’s rocking a Qualcomm Snapdragon 8+ Gen 1 CPU and 12GB of RAM, so you’d better believe apps open in the blink of an eye and animations are beautifully smooth. More importantly, multitasking is a breeze with Samsung’s take on Android 12L.
+The new taskbar is very Windows or Mac-like, but only appears once you launch an app on the inner display and doesn’t take up very much room. It saves constant trips back to the home screen to launch your favourites, and you can pin multi-app combos so a single tap opens two or three apps simultaneously, in the layout you want. Two apps side-by-side works best, but having three onscreen at once can be handy for making notes and copying/pasting – plus you can have a fourth in a floating window.
+Samsung rolled out Android 14 to the Z Fold 4 in late 2023, meaning it’s on track to keep its promise for four years of generational upgrades.
+Want to watch a YouTube video, scroll through twitter and check your incoming chats at the same time? The Fold 4 handles it with no stuttering or slowdown. Even more demanding apps run smoothly. It helps that a lot of apps have been tweaked to better fill the big screen, including third-party ones like Microsoft Outlook, Facebook and Google Meet.
+Gaming is a joy, too, with titles like Apex Legends Mobile and Diablo Immortal willing to crank up the detail settings with no ill effect on frame rates. It can get pretty toasty after a prolonged session, but I didn’t notice any major throttling.
+The entry-level phone gets a generous 256GB of storage, which should take some time to fill, but with no microSD card slot, you’ll need to splash out on either the step-up 512GB model or top-tier 1TB version – a first for the range, but one that’ll set you back more than £2000. Ouch.
+The Fold 4 makes modest gains over last year’s model on the battery front. It has the same 4400mAh cell, but the processor is a little more energy efficient. It’ll last from morning until bedtime, unless you’re glued to HDR Netflix shows or recording a lot of 4K video, but you’ll definitely want to top up before lights out. 25W fast charging over USB-C is a long way behind the rapid flagship phones coming out of China right now, but wireless charging (with reverse charge for topping up headphones like the Galaxy Buds 2 Pro) goes some way to making up for it.
+Samsung Galaxy Z Fold 4 cameras: tempting trio
+The Fold 4 has essentially inherited its three lens camera line-up from the Galaxy S22, but given they remain some of the best smartphone snappers around, there’s little to complain about. The 50MP, f/1.8 main sensor is the highlight, with dual-pixel PDAF locking autofocus with impressive speed, and optical image stabilisation for shake-free snaps and clearer night shots.
+It’s paired with a 10MP, f/2.4 telephoto with 3x optical zoom, a welcome step up from the 2x sensor on last year’s Fold 3, and a 12MP, f/2.2 ultrawide. That hardware puts it slightly behind the mighty Galaxy S22 Ultra, but photography is still top notch across the board. Detail from the main sensor is seriously good, with natural bokeh blur around close-up subjects and consistently sharp focus. Dynamic range is also excellent.
+Colours are typically boosted and contrast-heavy in the way Samsung fans will be used to. Flowers look especially vibrant, skies are wonderfully blue and grass appears lusciously green. The Pro mode dials things back a bit with manual controls for tweaking white balance and contrast strength.
+There’s great exposure and colour consistency between lenses, with the telephoto being the standout. Its zoom clarity is superb, and the 30x digital Space Zoom can produce surprisingly usable results too. A thumbnail preview is a big help for composing shots and counteracting camera shake.
+Portrait mode does a convincing job using the main, telephoto or punch-hole 10MP selfie camera up front. It doesn’t work with the ultrawide lens, or the 4MP under-display camera on the inner screen, which is best reserved for video calls. It’s milky and lacks any fine detail.
+Low-light shooting is another stand-out, with astonishing ability to brighten up dark scenes. These pics benefit from Samsung’s heavy handed processing, and give anything from Google or Apple a run for their money. You’ve got to force on Night mode to get the best results, though, with regular snaps lacking contrast and sharpness even when taken with steady hands.
+Samsung Galaxy Z Fold 4 verdict
+Are foldables the next big thing for phones, or merely a passing fad? The Galaxy Z Fold 4 makes a strong argument for the former. All it took was a few features borrowed from the desktop PC world, and it has been transformed into a device that’s purpose-built for multi-tasking.
+Add in the camera setup worthy of its top-tier status, a welcome power boost and the fact it’s that little bit more usable as a phone than last year’s effort, and the bar has very much been raised – despite Samsung still holding back in one or two areas so as not to steal too many flagship fans away from the Galaxy S22 Ultra.
+The astronomical price means I can’t recommend it to everyone – but tech addicts with an extra-long to-do list will find lots to like.
+Stuff Says…
+Another unashamedly premium foldable with the price to match – but the streamlined styling and improved cameras go a long way, and software upgrades really make it a productivity powerhouse.
+Pros
+Slick software makes multitasking effortless
+Flagship performance
+Better, more versatile cameras
+Cons
+No S Pen as standard, or a slot to store one
+Screen crease hasn’t disappeared completely
+Still your wallet’s worst enemy

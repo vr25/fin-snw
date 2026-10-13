@@ -1,0 +1,35 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Microsoft has had a great fiscal year, and for his trouble, CEO Satya Nadella is being compensated to the tune of $96.5 million, up about 22% compared to his $79 million last year.
+While a lot of that compensation comes in the form of stock awards — about $84 million of it — the other $9.5 million is awarded in cash incentives, according to a proxy statement filed on Tuesday. The rest of the take-home is based on Nadella's standard $2.5 million salary before incentives and bonuses.
+Nadella's windfall arrives in the wake of the AI boom that Microsoft has been so keen on driving with its hardware, software, data centers, and partnerships. In July, Microsoft became the second company to hit a $4 trillion market cap, following NVIDIA into the exclusive club.
+While that number has fallen below $4 trillion in the months following, it's undoubtedly been a stellar year for Microsoft's revenue. According to Microsoft's 2025 Q4 earnings report, the company pushed its overall 2025 revenue to $281.7 billion, an increase of 15%.
+Perhaps most notable was the impressive 34% revenue increase driven by Azure, which surpassed $75 billion in revenue for the first time. Much of that growth is based on meeting the ever-growing demand for AI compute power.
+The proxy filing includes details regarding Nadella's AI-specific achievements:
+- Strengthened our role in shaping the AI infrastructure wave, adding more than two gigawatts of capacity, increasing our global footprint to over 400 facilities across 70 regions, and making every region AI-first.
+- Drove progress toward a utility scale quantum computer with the introduction Majorana-1, the first quantum chip powered by a topological core, marking a pivotal moment in quantum computing.
+- Achieved double digit revenue growth (15% year-over-year), affirming our success at developing products and services our customers value.
+- Furthered adoption of our family of Copilot apps, with Copilot apps surpassing 100 million monthly active users.
+- Launched Azure AI Foundry, helping customers design, customize, and manage AI applications and agents at scale, supporting more than 70,000 customers, including 80% of the Fortune 500.
+According to Microsoft's Compensation Committee, in a letter attached to a proxy statement, "Satya Nadella and his leadership team have positioned Microsoft as a clear artificial intelligence leader for this generational technology shift, enabling Microsoft to drive long-term growth through innovation, security, and quality."
+All the latest news, reviews, and guides for Windows and Xbox diehards.
+Satya Nadella is Microsoft's third CEO, taking over for Steve Ballmer in 2014. Since his appointment, Nadella's pay has grown steadily. In 2015, for example, he took home about $18 million, a small sum compared to 2025's $96.5 million.
+Nadella published an annual letter to shareholders at the same time as the proxy filing was made public, reiterating Microsoft's main goal in 2025:
+"We must earn our permission to operate every day, in every country, every community, and every customer interaction. That’s why we remain grounded in our mission: to empower every person and every organization on the planet to achieve more."
+2025 was a big year for Microsoft AI ... and Microsoft layoffs
+It wouldn't be much fun to drool over these massive pay packages without acknowledging the fact that Microsoft has laid off a lot of employees in 2025.
+The running tally at this point has climbed to more than 15,000 cut jobs, which began in January 2025 with layoffs across multiple sectors, including gaming and security.
+In May, it was reported that Microsoft was cutting 3% of its workforce, targeting management. This resulted in roughly 6,000 jobs lost. In June, Microsoft cut another 305 Washington-based employees.
+Following Microsoft's end of fiscal year in July, the company announced layoffs for 9,000 workers worldwide, affecting various "levels, teams, geographies, and tenure." And, finally, in September, more than 40 roles were axed in Redmond, Microsoft's home base.
+In the grand scope of things, a company as big as Microsoft with around 228,000 employees is bound to suffer layoffs. Nevertheless, it's always a sad story, and it's entirely too common for a company raking in billions of dollars in revenue. But, as we all know, that's how capitalism works.
+Earlier this year, Microsoft's CEO shared a public message on the Microsoft blog in which he expressed his "sincere gratitude to those who have left."
+If you're wondering why CEOs like Nadella don't take pay cuts to offset layoffs, ex-Microsoft HR VP Chris Williams can offer some insight.
+According to Williams, cutting executive pay wouldn't be enough to offset the gains achieved from layoffs. A company like Microsoft can incur up to a billion dollars in costs for about 10,000 employees, which is far more than someone like Nadella pulls in.
+The $96.5 million compensation package is just that — a package, containing salary, bonuses, and stock options. Nadella takes home about $12 million outside of stock, which is far from enough to keep 15,000 employees behind a desk at Microsoft. I'm not making excuses for the layoffs; just demonstrating that it's a convoluted system of compensation.
+As Windows Central Executive Editor, Jez Corden, remarked while discussing the long-term impacts of Microsoft's 2025 layoff spree, Microsoft's strategy of boosting stock price rather than providing high-quality products could come back to haunt the company.
+It's big money now, but big money doesn't always last forever.
+Follow Windows Central on Google News to keep our latest news, insights, and features at the top of your feeds!
+Cale Hunt brings to Windows Central more than nine years of experience writing about PC gaming, Windows laptops, accessories, and beyond. If it runs Windows or in some way complements the hardware, there’s a good chance he knows about it, has written about it, or is already busy testing it.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

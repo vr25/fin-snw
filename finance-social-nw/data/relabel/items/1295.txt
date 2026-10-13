@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Instagram tests much-requested Reels feature amid TikTok’s dicey future
+See more of our coverage in your search results.
+Meta is testing a highly anticipated feature on Instagram Reels that allows users to pause a video just by tapping on it.
+For now, the ability to pause videos is only available to a small group of users around the world, Meta said, according to CNBC.
+Unlike TikTok, Instagrammers previously were only able to pause a video by holding down the screen, requiring more effort and not allowing users to move their fingers from their screens in order to keep it paused.
+Additionally, prior to the new feature, one tap on an Instagram Reel would simply turn off the video’s audio, but the clip itself would keep playing.
+The feature is something that users have been requesting, often taking to other social media platforms to ask Meta for a solution.
+“hello @instagram, can I please request a pause button on reels?? sincerely, a grieving former TikTok scroller,” one person posted on X during the recent temporary TikTok shutdown.
+“We’re going to learn what’s going to happen with TikTok, and regardless of that, I expect Reels on Instagram and Facebook to continue growing,” Meta CEO Mark Zuckerberg said on a call with analysts Wednesday.
+Instagram’s new feature is just one of many ways the tech giant is trying to capitalize on the potential shutdown of TikTok and to get so-called “TikTok refugees” to migrate to the Meta-owned app.
+TikTok, owned by Chinese company ByteDance, briefly went dark earlier this month before restoring service to users less than 24 hours later.
+However, TikTok’s future is still uncertain, and it could be permanently banned on April 5; it’s already unavailable on both the Apple and Google app stores.
+Instagram head Adam Mosseri recently announced a new app called Edits, a video-editing utility that could replace the ByteDance-owned video-editing app CapCut — which was also banned alongside TikTok.
+Additionally, Instagram’s profile grids now display all posts as rectangles with a 4:5 ratio rather than squares.
+Mosseri added that they are looking into moving story highlights into the grid, making a separate tab for them — just like the individual tabs for Reels and tagged photos — rather than keeping them as circles at the top of your profile.
+A new feature in the Reels tab will allow you to see which friends have liked or commented on a video — similar to the chaotic, old Instagram “activity” tab that was removed in 2019.
+The Meta-owned company is now offering creators large cash bonuses to exclusively post Reels on Instagram. The offers reportedly range from $10,000 to $50,000 per month.

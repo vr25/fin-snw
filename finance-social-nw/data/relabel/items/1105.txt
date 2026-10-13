@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Sam Altman’s OpenAI raised $6.6 billion in a new fundraising round that nearly doubled its valuation to $157 billion – and has reportedly asked participants not to give money to rivals like Elon Musk’s xAI as competition in the sector heats up.
+The massive round was led by venture capitalist Josh Kushner’s Thrive Capital, which contributed a total of $1.2 billion through its own investment and a separate entity for smaller investors, sources familiar with the deal told Reuters.
+“The new funding will allow us to double down on our leadership in frontier AI research, increase compute capacity, and continue building tools that help people solve hard problems,” OpenAI said in a blog post on Wednesday.
+Longtime backer Microsoft also participated in the round alongside AI chip supplier Nvidia, Khosla Ventures, SoftBank, Abu Dhabi’s state-backed MGX fund, Altimeter Capital and Fidelity.
+Thrive also secured the exclusive right to invest another $1 billion at the same valuation next year if OpenAI hits a revenue target.
+In a unique twist, OpenAI told participants that they expected any contributions to be exclusive – meaning they should avoid investing in competitors like xAI and Anthropic, sources told the Financial Times.
+The request is considered unusual in Silicon Valley circles, where venture capital firms pour money into multiple firms within the same sector to maximize their chances of earning a windfall.
+“Because the round was so oversubscribed, OpenAI said to people: ‘We’ll give you allocation but we want you to be involved in a meaningful way in the business so you can’t commit to our competitors,” a source with knowledge of the deal told the FT.
+Musk co-founded OpenAI in 2015 but exited after a disagreement over its direction. He is currently suing OpenAI and has accused Altman and his allies of having “intentionally courted and deceived” him into contributing more than $44 million in its early years.
+OpenAI’s financing round hinges on a planned restructuring that would shift control of the company from its nonprofit board of directors to a for-profit entity – with Altman set to receive an unspecified equity stake.
+Investors can reportedly renegotiate OpenAI’s valuation – or receive their money back entirely – if the restructuring isn’t complete within two years, according to Reuters. Internal talks regarding the restructuring are said to be ongoing and no timeline has been set for the change.
+Less than one year ago, OpenAI closed a round that valued the firm at $87 billion.
+The ChatGPT maker is set to earn about $3.6 billion in revenue this year against losses of more than $5 billion. Revenue is reportedly projected to spike to $11.6 billion in 2025.
+The latest round closed even as OpenAI navigates ongoing turmoil in its executive ranks.
+Chief technology officer Mira Murati and two other top executives announced their resignations last week just as the first reports about a potential restructuring surfaced.
+During an all-hands meeting last Thursday, Altman was reportedly adamant that the abrupt departures were not related to the board’s discussions.
+Altman also pushed back on a report that he was set to receive a 7% stake in OpenAI that could be worth some $10.5 billion – calling it “ludicrous,” according to The Information.
+Elsewhere, Greg Brockman, OpenAI’s president and co-founder, said last month that he would take an extended leave of absence through the end of the year, while another co-founder John Schulman left for job at OpenAI rival Anthropic.
+In May, co-founder Ilya Sutskever and researcher Jan Leike quit after OpenAI dissolved its “Superalignment” team, which was responsible for overseeing the safe development of advanced AI.
+Some current and former OpenAI employees have expressed concern that Altman and his allies are prioritizing rapid advancements in AI over safety.
+With Post wires

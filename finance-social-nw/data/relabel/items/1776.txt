@@ -1,0 +1,85 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Since search engines started sending traffic to websites, the balanced relationship has always served both parties. Publishers allowed search engines to crawl and index and in return search engines sent traffic and readers to the pages.
+That unspoken agreement allowed publishers to support their work through ads and affiliate revenue. Search engines had content and websites to surface in their search engine results pages so they could make money from ads.
+This deal is now breaking down as AI begins to change the nature of the relationship and users no longer need to click to web pages.
+AI Mode, AI Overviews and ChatGPT still need the content to train their models and construct their summaries, but they no longer send the traffic to the source pages of that content.
+The result is publishers are watching their traffic (and revenue) decline while AI companies crawl more content than ever and accrue more users.
+This article examines how these changes impacts the revenue models of publishers and how they might survive.
+How The Traffic Exchange Has Changed
+When AI Overviews appear in results, the traffic loss is measurable, with only 8% of users clicking any link compared to 15% without AI summaries. That’s a 46.7% drop. Just 1% of users clicked citation links within the AI Overview itself.
+Zero-click searches increased from 56% to 69% between 2024 and 2025. Organic traffic to U.S. websites declined from 2.3 billion visits to under 1.7 billion in the same period.
+Digital Content Next surveyed premium publishers and found year-over-year traffic declines. Some sites hit double-digit percentage drops during peak impact weeks.
+The crawl-to-referral ratio shows how unbalanced this is. Cloudflare’s analysis tracks Google Search maintaining roughly a 10:1 ratio, crawling about 10 pages for every referral sent back. OpenAI’s ratio was estimated at around 1,200:1 to 1,700:1.
+Fewer pageviews mean fewer ad impressions, lower subscription conversions, and reduced affiliate revenue.
+Payment Models Taking Shape
+Three payment models are emerging.
+1. Usage-Based Revenue Sharing
+Perplexity launched its Comet Plus program in 2025. The company shares subscription revenue with publishers after keeping a cut for compute costs, though the exact split isn’t disclosed.
+Publishers get paid when articles appear in Comet browser results, when they drive traffic through the browser, and when AI agents use content. Participants include TIME, Fortune, Los Angeles Times, Adweek, and Blavity.
+ProRata offers a 50/50 split through its Gist.ai answer engine, backed by the News/Media Alliance, using attribution algorithms to track how much each article contributed.
+These models tie pay to usage, but the pools stay small compared to traditional search revenue and scaling depends on converting free users to paid subscribers.
+2. Flat-Rate Licensing Deals
+OpenAI has pursued licensing agreements with publishers. News Corp secured a multi-year deal reportedly worth hundreds of millions. Dotdash Meredith signed a reported $16 million agreement. Other deals include Financial Times, The Atlantic, Vox Media, and Associated Press.
+These arrangements bundle three rights: training data access using archives to improve models, real-time content display with attribution in ChatGPT, and technology access letting publishers use OpenAI tools.
+AI companies need both historical archives and current content, but this creates tiers where publishers with vast archives can negotiate deals while smaller publishers lack leverage.
+Microsoft signed a reported $10 million deal with Informa’s Taylor & Francis for scholarly content. Google started licensing discussions with about 20 national news outlets in July. Most terms remain undisclosed.
+3. Legal Settlements As Precedent
+Anthropic settled with authors for $1.5 billion after Judge William Alsup’s June ruling in Bartz v. Anthropic. The ruling said training on legally purchased books was fair use. Downloading from pirate sites was infringement.
+The settlement shows AI companies can afford to pay even while arguing in court they shouldn’t have to, and it provides a public benchmark other negotiations may reference, though specific terms remain sealed.
+How Publishers Are Responding
+Publishers have split into different camps.
+Publishers Accepting Deals
+Roger Lynch of Condé Nast said their OpenAI partnership “begins to make up for some of that revenue” lost from traditional search changes. Neil Vogel of Dotdash Meredith said “AI platforms should pay publishers for their content” when announcing their licensing agreement.
+Publishers accepting deals cite new revenue streams, legal protection from copyright claims, influence over AI development, and recognition that AI search adoption appears inevitable, with many viewing early partnerships as positioning for future leverage.
+Publishers Pursuing Litigation
+The New York Times sued OpenAI and Microsoft in 2023. The complaint argues the companies created “a multi-billion-dollar for-profit business built in large part on the unlicensed exploitation of copyrighted works.”
+Forbes declined a proposal from Perplexity, saying it “undervalued both our journalism and the Forbes brand.” By October 2024, lawsuits included News Corp properties against Perplexity, and eight daily newspapers against OpenAI and Microsoft.
+Publishers refusing deals say the money’s too low and worry that accepting bad terms now legitimizes them going forward, plus AI summaries directly compete with their work.
+Trade Organization Positions
+Danielle Coffey, CEO of News/Media Alliance, called Google’s AI Mode practices “parasitic, unsustainable and pose a real existential threat.” She suggests that AI systems are only as good as the content they use to train them.
+Jason Kint of Digital Content Next noted that despite Google sending large monthly revenue checks through advertising, 78% of member digital revenue still comes from ads. Every point of search traffic lost “squeezes the budgets that fund investigative reporting.”
+Both organizations demand that AI systems provide transparency, clearly attribute content, respect publishers’ roles, comply with competition laws, and not misrepresent original works.
+The Emerging Division: Licensed Web Vs. Open Web
+The payment model differences are creating two tiers of web content with different economics.
+A “Licensed Web” consists of premium content behind APIs and licensing agreements. Publishers with vast archives, specialized expertise, or unique data sets are negotiating direct access deals with LLM companies. This content gets used for training and real-time retrieval with attribution and compensation.
+The “Open Web” includes crawlable pages without licensing agreements. User-generated content, marketing material, commodity information, and sites lacking leverage to negotiate terms. This content may still get crawled and used, but without direct compensation beyond minimal referral traffic.
+This setup can lead to mismatched incentives. Publishers investing in differentiated, high-quality content may have licensing options to support their work. Meanwhile, those creating more easily replaceable information might struggle with commoditization, making it harder to find clear ways to earn revenue.
+For practitioners, focus on developing your own research, unique data sets, specialized expertise, and original reporting. This increases both traditional search value and potential licensing value to AI platforms.
+How Payment Models Are Reshaping SEO And Content Strategy
+The shift from traffic to licensing is forcing changes across SEO.
+The Citation Vs. Click Problem
+Traditional SEO centered on rankings that drove clicks, but LLM citations work differently as content appears in AI answers with attribution, but fewer click-throughs. Lily Ray believes SEO is no longer just about ranking and traffic.
+Practitioners are now tracking engagement quality, conversion rates, branded search, and direct traffic alongside traditional metrics. Some are quantifying AI citations across ChatGPT, Perplexity, and other platforms. This provides visibility into brand mentions even when referrals don’t materialize.
+Bot Access Becomes A Business Decision
+Publishers today find themselves making decisions about blocking content via robots.txt. These choices weren’t even considered two years ago. The decision weighs AI visibility with concerns about potential traffic loss and the benefits of licensing.
+Many content publishers are open to allowing bot access, valuing their presence in AI results more than guarding content that competitors also produce. News organizations prioritize speed and broad coverage for breaking stories, aiming to reach as many people as possible.
+On the other hand, some publishers choose to restrict access to their high-value research and specialized insights, knowing that scarcity can give them stronger negotiating power. Those with paywalled analysis often block AI crawlers to protect their subscription models, ensuring they maintain control over their most valuable content.
+ProRata and TollBit offer selective licensing as a middle ground. Publishers maintain AI visibility while getting paid. But AI companies haven’t widely adopted these platforms.
+Measurement Systems Under Pressure
+Traffic declines may trigger discussions with stakeholders who expect a recovery, and for sites that rely solely on advertising, this can be a challenging discussion to have.
+Publishers are exploring alternative revenue models such as subscriptions, memberships, consulting, events, and affiliate partnerships, while also prioritizing email, newsletters, and apps.
+Branded search remains more stable than overall traffic levels, emphasizing the importance of brand-building beyond search rankings.
+Content Investment Questions
+Payment uncertainty can make it hard to decide what content is worth investing in. Publishers with licensing deals might focus on what AI companies need for training or retrieval, while those without deals have to consider different factors.
+The division between Licensed Web and Open Web influences these choices. Original research, unique data, and specialized expertise may justify different levels of investment compared to more common material.
+Smaller publishers often lack the leverage of licensing. Creating high-quality content while competing with AI-generated summaries that don’t drive traffic raises ongoing questions about sustainability.
+Content Sustainability Concerns
+Revenue declines are forcing news organizations to cut staff, reducing investigative capacity and the production of original reporting.
+The Society of Authors reports 12,000+ members have written letters saying they “do not consent” to AI training. That signals creative professionals reconsidering publication if compensation doesn’t materialize.
+More content is moving behind paywalls, which protects revenue but limits free information access. The News/Media Alliance warns that without fair compensation for publisher content, AI practices pose a significant threat to ongoing investment in journalism.
+The challenge is that AI companies really rely on publishers to provide high-quality training data. But AI systems that don’t generate traffic can make it harder for publishers to fund their content creation efforts.
+Right now, payment models might work well for big publishers who have more power, but mid-sized and small publishers face more uncertain financial situations.
+Those with direct relationships to their audience and multiple sources of income are generally in a stronger position compared to those mainly relying on ads.
+What’s Likely Next
+Current LLM payment models don’t match what publishers earned from search traffic, and they also don’t reflect what AI companies extract through crawling.
+Publishers are dividing into distinct camps, with some angling for deals while others are betting litigation will establish better terms than individual negotiations.
+Trade organizations are pushing for regulatory solutions, but AI companies maintain their current approach works. OpenAI points to expanding partnerships and says deals provide fair value. Perplexity argues its revenue-sharing model aligns incentives. Google hasn’t announced plans beyond existing traffic-sharing arrangements.
+What happens next depends on litigation outcomes, regulatory action, and whether market pressure forces AI platforms to improve terms.
+Multiple paths forward remain possible, and for now, publishers face immediate decisions about bot access, content strategy, and revenue diversification without clarity on which approach will prove sustainable.
+More Resources:
+- Google Discover, AI Mode, And What It Means For Publishers: Interview With John Shehata
+- Can You Use AI To Write For YMYL Sites? (Read The Evidence Before You Do)
+- SEO In The Age Of AI
+Featured Image: Roman Samborskyi/Shutterstock

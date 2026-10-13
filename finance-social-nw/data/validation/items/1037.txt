@@ -1,0 +1,31 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+TORONTO — Canada's main stock index climbed on Monday amid an “optimistic” late summer mood, while U.S. stock markets also gained.
+The S&P/TSX composite index rose 61.78 points to 23,116.39.
+In New York, the Dow Jones industrial average was up 236.77 points to 40,896.53. The S&P 500 index increased 54.00 points to 5,608.25, while the Nasdaq composite closed 245.05 points higher at 17,876.77.
+Monday's gains marked an extension of sorts.
+“Today is just a continuation of the generally optimistic market conditions we’ve seen in the last week or so,” said Les Stelmach, a portfolio manager at Franklin Templeton Canada.
+The sunny outlook follows a sharp drop in early August that saw equities markets plunge briefly as investors got jittery after shaky jobs data out of the United States. Much of the losses have been gained back since then.
+“We had that one-day Monday market panic a couple of weeks ago. Thankfully those of us in Canada were on holiday anyway,” he said.
+“Since then the market seems to be evening out. There’s been strength across many different industries.”
+The Bank of Canada has already cut its main interest rate twice since June, with a quarter-point cut to 4.5 per cent last month that followed one the same size in June. South of the border, markets are pricing in one to three interest rate cuts this year, Stelmach said.
+“I certainly wouldn't want to say that the U.S. looks to Canada for leadership on interest rate matters, but it is a signal — and probably greases the wheels a little bit.”
+More broadly, angst around the outcome of the U.S. election continues to loom over market activity.
+“People are maybe in a bit of a hovering mode as we await the U.S. election in November,” he said.
+The S&P 500 rallied one per cent for its eighth straight gain, clinching its longest winning streak since November.
+The Nasdaq composite jump of 1.4 per cent found momentum after Advanced Micro Devices said it would buy ZT Systems, a supplier in the cloud computing and artificial-intelligence industries, in a cash-and-stock deal valued at $4.9 billion. The chip company’s stock rose 4.5 per cent.
+AI chip company Nvidia was the single strongest force pushing the S&P 500 upward after it rose 4.4 per cent. It’s clawed back most of its sharp losses from earlier in the summer, which were triggered by worries investors sent its stock price too high amid their frenzy around AI.
+North of the border, a boost in the TSX's financial segment also saw stocks “playing some catch-up,” Stelmach said.
+“The banks are starting to show some signs of life.”
+The energy sector sagged slightly on Monday, but the sector was trading eight per cent higher on average than two weeks earlier.
+Last week, Tourmaline Oil Corp. announced a $1.3-billion deal to snap up natural gas producer Crew Energy Inc., reinvigorating energy stocks as the largest player in Alberta’s Deep Basin — a prominent gas-producing area — continued a years-long expansion.
+“The deal was good not just for Tourmaline, but it kind of seemed to reignite some interest in the Canadian oil and gas space,” Stelmach said.
+“Companies that were not at all involved in that deal were all stronger last week — not just natural gas producers but even energy producers in general, crude oil producers.”
+The October crude oil contract was down US$1.88 at US$73.66 per barrel on Monday, but the September natural gas contract was up 12 cents at US$2.24 per mmBTU.
+The December gold contract was up US$3.50 at US$2,541.30 an ounce and the September copper contract was up four cents at US$4.18 a pound.
+The Canadian dollar traded for 73.25 cents US compared with 72.96 cents US on Friday.
+This report by The Canadian Press was first published Aug. 19, 2024.
+Companies in this story: (TSX:GSPTSE, TSX:CADUSD)
+— With files from The Associated Press.
+Christopher Reynolds, The Canadian Press

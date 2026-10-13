@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Reliance Industries has formalised its artificial intelligence (AI) partnership with Meta Platforms through a newly incorporated joint venture company, Reliance Enterprise Intelligence (REIL).
+The joint venture, created under RIL’s wholly-owned AI arm, Reliance Intelligence, was incorporated on October 24 and will develop, market and distribute enterprise AI services in India.
+According to RIL’s stock exchange filing, Reliance Intelligence has invested Rs 2 crore as initial capital for REIL’s incorporation. Under the amended and restated joint venture agreement, Reliance Intelligence will hold a 70% stake in REIL, while
+Facebook Overseas—a wholly-owned subsidiary of Meta Platforms—will own the remaining 30%, RIL said in its filing.
+Both partners have committed a total initial investment of around Rs 855 crore (approximately $100 million).
+The oil-to-telecom major said the new entity will focus on building agentic enterprise AI platforms and tools based on Meta’s open-source large language model, Llama.
+At Reliance’s 48th Annual General Meeting (AGM) in August, Meta founder and CEO Mark Zuckerberg had joined in virtually, saying Llama has shown how AI can amplify human potential, boost productivity, and accelerate innovation. RIL’s reach and scale, he added, can bring the benefits of AI across India.
+The goal is to deliver sovereign, enterprise-ready AI solutions that ensure transparency, local hosting, and community-driven progress. The company added that no regulatory approvals were required for the JV’s incorporation.
+The formalisation of the joint venture follows RIL chairman Mukesh Ambani’s announcement at the AGM, where he unveiled Reliance Intelligence, the subsidiary tasked with driving the conglomerate’s AI ambitions.
+At the AGM, Ambani had outlined a four-pronged AI strategy focused on infrastructure, partnerships, service delivery and talent, positioning the company at the forefront of India’s AI revolution. He said RIL would build gigawatt-scale, AI-ready data centres in Jamnagar powered by green energy, while forging partnerships with global technology leaders, including Google and Meta.
+The Google partnership involves setting up a dedicated cloud region in Jamnagar, combining RIL’s infrastructure capabilities with Google’s AI and cloud technologies. Alphabet CEO Sundar Pichai said the collaboration would help transform Reliance’s businesses “from energy and retail to telecom and financial services” through AI.

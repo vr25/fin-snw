@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The Department of Consumer Affairs (DoCA) conducted a session on “Dark Patterns and Strategies to Implement the Guidelines” on June 18. The session aimed to discuss the issues related to dark patterns and deceptive designs used by e-commerce platforms and effective ways to implement the “Guidelines for Prevention and Regulation of Dark Patterns, 2023.” The session was attended by various stakeholders such as IIT, BHU and industry representatives from All India Gaming Federation, Zomato, EaseMyTrip, Urban Company, Uber, and CRED amongst others, according to the press release.
+The Guidelines for Prevention and Regulation of Dark Patterns define it as “any practices or deceptive design patterns using UI/UX (user interface/user experience) interactions on any platform; designed to mislead or trick users to do something they originally did not intend or want to do.” These designs impact the decision making or choice or the customer. Thus, the guidelines classify them as “misleading advertisement or unfair trade practice or violation of consumer rights.”
+Methods to prevent usage
+The session discussed a few methods that could be adopted to prevent e-commerce platforms from using dark patterns and improve their user interface. These included :
+- relying upon consumer feedback
+- consumer satisfaction
+- repeat user rate
+- using in-built apps/features to identify patterns that are in non-conformity with the guidelines
+- self-auditing of such specified dark patterns by the e-commerce platforms
+Students from IIT, and BHU also presented a demonstrative video of their extension tool under development phase that can identify these patterns on e-commerce platforms and alert users, using Large Language Models (LLMs), Generative AI and other complex models. Industry stakeholders promised to provide the students with access to their datasets to help their tool distinguish deceptive designs from genuine designs on their platforms.
+In November last year, the guidelines specified 13 dark patterns namely; False urgency, Basket Sneaking, Confirm shaming, forced action, Subscription trap, Interface Interference, Bait and switch, Drip Pricing, Disguised Advertisements and Nagging, Trick Wording, Saas Billing and Rogue malware.
+Criticism of the guidelines
+The guidelines were released, following the DoCA’s a consultation session with Advertising Standards Council of India (ASCI) and stakeholders in June, 2023. The DoCA subsequently constituted a task force comprising the ASCI, industry representatives, NLUs, VCO’s, and e-commerce platforms including Google, Flipkart, RIL, Amazon, Swiggy, Zomato, Ola, Tata CLiQ, Facebook, Meta, Ship Rocket and Go-MMT to create the guidelines.
+However, the release of the draft guidelines for public consultation led to some criticism. Largely, the Asia Internet Coalition and the Internet Freedom Foundation noted that the guidelines inadequate definitions, restrictive listing and categorisation of dark patterns as areas of privacy concerns. Further, they stated that there were significant regulatory overlaps between the Guidelines and the existing regulations like the Consumer Protection Act, 2019, Consumer Protection (E-Commerce) Rules, 2020, ASCI Dark Pattern Guidelines, Misleading Ads Guidelines and Digital Personal Data Protection Act, 2023.
+The IFF’s submission suggested, “While sectoral regulators can undertake suo moto compliance assessment on entities, the Guidelines can act as a public-facing recourse for aggrieved consumers to report dark patterns. Both can coexist harmoniously if jurisdiction is expressly divided at the outset.”It also suggested that consumers and civil society should be able to report new sightings of these patterns through a specified portal.
+Also Read:
+- How Will Dark Patterns be Identified and Will Platforms Have to Actively Monitor Them?
+- Expand List Of Dark Patterns, Address Regulatory Uncertainty, And Privacy Concerns: IFF’s Recommendations
+- Draft Guidelines On Dark Patterns Will Impact Ease Of Doing Business, Cause Regulatory Overlaps: Asia Internet Coalition
+- Indian government launches hackathon to identify dark patterns on e-commerce platforms
+For You
+- Read Reasoned by Nikhil Pahwa: How AI is changing our world
+- Sign up for MediaNama's Daily Newsletter to receive regular updates
+- Sponsor a MediaNama Event

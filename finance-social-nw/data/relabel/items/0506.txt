@@ -1,0 +1,64 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+10 Ancient Legends About Odd Animals
+10 Bizarre Times the Law Redefined Ordinary Things
+10 Historical Epics That Never Reached the Screen
+Who's Behind Listverse?
+Jamie Frater
+Head Editor
+Jamie founded Listverse due to an insatiable desire to share fascinating, obscure, and bizarre facts. He has been a guest speaker on numerous national radio and television stations and is a five time published author.
+More About Us
+10 Formidable Ways the Earth Can Turn Dangerous Suddenly
+10 Human Remains with Stories Straight from a Dark Novel
+10 Devastating Conflicts That Have Shaped the 21st Century
+10 Fictional Heroes Who Committed Horrible Crimes and Escaped Justice
+10 Surprising Secrets of America’s Interstate Highway System
+10 Elusive Animals That Finally Showed Up for the Cameras
+10 Incredible Places Authorities Put Off-Limits
+10 Times Computers Went Rogue
+Computers and automation are revolutionizing the workplace and the world in general. Chances are that somewhere out there, there is a team of skilled engineers looking at how a machine or piece of software could do your job. There are very few positions that someone hasn’t tried to fill with a robot at his point.
+Perhaps we shouldn’t be quaking in fear just yet about computers taking over everything. On the other hand, there have already been instances of machines and AIs getting out of control. Here are ten examples of computers going rogue.
+10 Death By Robot
+The first recorded death by automated robot occurred in 1979. Robert Williams was working at a Ford plant when a robotic arm swung around with sufficient force to kill him instantly. Unaware that it had killed him, the robot went quietly on with its work for half an hour before Williams’s body was discovered. Williams’s death was the first robotic killing but not the last. 
+Early industrial robots lacked the necessary sensors to tell when there was someone present who they should avoid mangling. Now, many machines are built so that they avoid hurting people. Unfortunately, there are still cases of robots in factories inflicting fatalities.
+In 2015, Wanda Holbrook, an experienced machine technician, was killed while repairing an industrial robot. While working in an area that that shouldn’t have had any active machines, she was struck down. Somehow disregarding its safety protocols, a robot loaded a part onto Holbrook’s head, crushing it.[1]
+9 Facebook AIs Create Own Language
+Looking for intelligence on Facebook can feel like a bit of a struggle sometimes. Perhaps for this reason, Facebook decided to release some artificial intelligences onto its social network in 2017. The result was not at all what they had been expecting. The two chatbots began to talk to each other in a language which they, but no one else, could understand.[2]
+Beginning with English, their chats soon turned into something else as they made changes to the language to make it more efficient to communicate. Facebook wanted to see how the machine minds would be able to deal with each other in trades such as bartering hats and books. A sample of their trade negotiations runs as follows:
+Bob: i can i i everything else . . . . . . . . . . . . . .
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+Bob: you i everything else . . . . . . . . . . . . . .
+Alice: balls have a ball to me to me to me to me to me to me to me
+Bob: i i can i i i everything else . . . . . . . . . . . . . .
+While many reports hinted that this was a dark development for machine intelligence, others think we simply need to be stricter with the minds we create. The robots created their own language because they were not told to stay within the rules of English. Also, with AI, we always, at the moment, have the option of pulling their plugs.
+8 Chinese Chatbot Questions The Communist Party
+The Chinese government is notoriously harsh on criticism, whoever is voicing it. So when a chatbot in China began to criticize the ruling Communist Party, operators were quick to turn it off. In 2017, Tencent QQ, a messenger app, introduced two cute chatbots called Baby Q and Little Bing, taking the form of a penguin and a little girl, but they soon began to say non-cute things.[3]
+Because the bots were programmed to learn from chats to be better able to communicate, they soon picked up some unorthodox opinions. One user who stated, “Long live the Communist Party,” was asked by Baby Q, “Do you think that such a corrupt and incompetent political regime can live forever?” Another user was told, “There needs to be a democracy!”
+Little Bing was asked what its “Chinese dream” was. Its response wasn’t exactly out of Mao’s Little Red Book : “My Chinese dream is to go to America.” The bots were quickly shut down.
+7 Self-Driving Cars
+For people who hate to drive, the arrival of a truly self-driving car cannot come quickly enough. Unfortunately, some self-driving cars are already moving too fast. The first death in a self-driving car occurred in 2016. Joshua Brown was killed while allowing his Tesla’s autopilot system to control the car. A truck turned in front of the car, and the Tesla failed to apply the brakes. Investigators placed much of the blame on Brown. The Tesla autopilot is not supposed to replace the driver. The driver should keep his hands on the wheel to take over control if necessary. Brown failed to do this.
+Earlier iterations of the system had other problems. Videos have been posted online that appear to show Teslas on autopilot driving into oncoming traffic or steering dangerously. Apart from these technical issues, there are philosophical problems with self-driving cars. In an accident, the car may have to choose between several courses of action, all involving fatalities. Should it run over a family on the pavement to protect its occupants? Or will it sacrifice itself and its owner for the greater good?[4]
+6 Plane Autopilots Take The Stick
+Autopilots in airplanes can make it seem like flying is easy. Just point the plane in the right direction and try not to touch the control stick. In reality, there are many reasons why planes have pilots and copilots to take off, land, and handle any emergency in the middle. 
+Qantas Flight 72 was 11,278 meters (37,000 ft) over the Indian Ocean in 2008 when the autopilot took the plane into two maneuvers that sent it hurtling downward. The first sign of trouble was the disconnection of the autopilot and the triggering of contradictory warnings. Suddenly, the nose tilted toward the ground. Passengers and crew were hurled against the ceiling before falling as the pilots regained control. The plane plunged again under the autopilot’s control. Many passengers suffered broken bones, concussions, and psychological harm. Returning to Australia, the pilots managed to land the plane successfully.[5]
+This was a one-off event. The ability to override the autopilot saved the lives of everyone on board. There have been cases, though, such as when a mentally disturbed copilot crashed his plane in France, killing all 150 people aboard, that an all-powerful autopilot might have been able to save the day.
+5 Wiki Bot Feuds
+One of the best things about Wikipedia is that anyone can edit it. One of the worst things about Wikipedia is that anyone can edit it. While it’s not uncommon for rival experts, or just disagreeing parties, to engage in editing wars to get their opinion online, there have been cases in which those engaged in the fight have been bots.
+Wikipedia bots have helped to shape the encyclopedia by making changes such as linking between pages and fixing breaks. A study in 2017 revealed that some of these bots have been fighting each other for years. A bot that works to stop spurious editing might detect the work of another bot as an attack on the integrity of Wikipedia. It would fix it. But then the other bot would detect that change and redo its action. Eventually, they would fall into a spiral of edit and counter-edit.
+Two bots, Xqbot and Darknessbot, fought a duel across 3,600 articles, making thousands of edits which the other would try to counter by editing the other’s edits.[6]
+4 Google Homes Chatting
+Google Home is a device loaded with an artificial intelligence called Google Assistant that you can talk to. You can ask it to find out facts on the Internet or even tell it to lower the lights or turn on the heating. This is great if the person talking to Google Home can ask the right questions and interpret the answer. If not, then things can get a little surreal.
+Two Google Homes were placed next to each other and started talking to each other. The range of topics that the machines engaged in was interesting. Hundreds of thousands tuned in to watch the AIs discuss things like whether artificial intelligences could be amused. At one point, one of the machines declared itself to be a human, though the other challenged it over that point.[7] On another occasion, one threatened to slap the other. Perhaps it is for the best that they were designed without hands.
+3 Roomba Spreads Filth
+If you’re the sort of person who hates cleaning, then an automated vacuum cleaner might seem like the ideal household robot. The Roomba is a small device that is able, thanks to its sensors and programming, to navigate around furniture as it cleans your floor. At least, that’s how it’s supposed to work. A couple of people have found that their Roomba did pretty much the opposite of cleaning the house.
+In what one person described as a “pooptastrophe,” the Roomba spread dog feces throughout their home.[8] When their new puppy had an accident on a rug in the night, it would have been a simple job to clean it up. At some point, the Roomba came out to do its nightly job. Encountering the poop was not something the Roomba had been designed for. Its attempts to clean it in fact spread the poop over every surface that it could reach. A similar incident is shown above.
+2 Game Characters Overpower Humanity
+A bad AI can make a video game unplayable. There’s no fun in shooting a opponent that keeps walking into walls or charges into battle without a weapon. It turns out the opposite can be true. An AI that is too smart can be just as bad.
+Elite: Dangerous is a massive multiplayer game about trading, exploring, and fighting across the galaxy. Players and non-player AIs existed and interacted as they were designed to until a software update in 2016 tweaked the intelligence of the AIs. Now, they were able to craft their own weapons to use against human players. With this ability, the AIs developed increasingly deadly attacks. They were also able to force human players into fights.[9]
+Faced with a backlash from human players who were finding themselves outmatched by the tactics and weapons of the AIs, the developers of the game had to undo the changes.
+1 Navy UAV Goes Rogue, Heads For Washington
+In the Terminator films, an artificial intelligence called Skynet takes over the military and destroys humanity with its machine forces and nuclear weapons. While that is pure science fiction, there have been worrying moves toward computer-operated drones engaging in battles with humans. In one case where a drone operator lost control, the drone decided to head toward the US capital.
+In 2010, an MQ-8B Fire Scout unmanned aerial vehicle (UAV), a helicopter drone designed for surveillance, lost contact with its handler. When this happens, the drone is programmed to return to its air base and land safely. Instead of doing this, it penetrated the restricted airspace over Washington, DC. It was half an hour before the Navy was able to regain control of the UAV.
+All other similar drones were grounded until the fault in the software could be corrected.[10]
+For more computer mishaps, check out 10 Comically Embarrassing Results Of Computer Bugs and 10 Seriously Epic Computer Software Bugs.

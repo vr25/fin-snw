@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+What Happened?
+Shares of social network operator Meta Platforms (NASDAQ: META) jumped 4.6% in the afternoon session after eMarketer projected the company to overtake Google as the world’s top digital-ad seller by net revenue this year.
+With ad sales expected to hit $243 billion, Meta is successfully leveraging AI-driven automation to capture market share. Also, broader market optimism returned, fueled by declining oil prices and potential breakthroughs in geopolitical peace talks.
+After the initial pop the shares cooled down to $662.54, up 4.4% from previous close.
+Is now the time to buy Meta? Access our full analysis report here, it’s free.
+What Is The Market Telling Us
+Meta’s shares are not very volatile and have only had 8 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful, although it might not be something that would fundamentally change its perception of the business.
+The previous big move we wrote about was 5 days ago when the stock gained 2.6% on the news that the company launched its new “Muse Spark” artificial intelligence model and announced a long-term, $21 billion partnership with AI cloud provider CoreWeave.
+The new AI model came from Meta's Superintelligence Labs and was designed to handle complex reasoning tasks. The company stated that Muse Spark would be integrated into its popular apps, including Facebook, Instagram, and Whatsapp.
+Separately, Meta entered a significant partnership with CoreWeave to secure dedicated AI cloud computing capacity through December 2032. This agreement, valued at $21 billion, signaled a major investment in supporting the company's development and deployment of future AI technologies. Both announcements underscored Meta's deepening commitment to advancing its position in the artificial intelligence sector.
+Meta is up 1.9% since the beginning of the year, but at $662.54 per share, it is still trading 16.1% below its 52-week high of $790 from August 2025. Investors who bought $1,000 worth of Meta’s shares 5 years ago would now be looking at an investment worth $2,188.
+WHILE YOU’RE HERE: The Next Palantir? One satellite company captures images of every point on Earth. Every single day. The Pentagon wants it. Hedge funds are using it to beat earnings. You’ve probably never heard of it.
+This is what the early days of Palantir looked like before it became a $437 billion giant. Same playbook. Different technology. If you missed Palantir, you need to see this. Claim The Stock Ticker for Free HERE.

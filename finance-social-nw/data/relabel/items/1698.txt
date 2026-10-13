@@ -1,0 +1,48 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+VOL. 49 | NO. 44 | Friday, October 24, 2025
+    
+    
+        
+	
+            
+            
+                OpenAI may move forward with new business structure, partnership with Microsoft, regulators say
+            
+            
+            
+            
+                The Associated Press
+            
+            
+            
+            
+        
+ 
+        OpenAI said Tuesday it has reorganized its ownership structure and converted its business into a public benefit corporation after two crucial regulators, the Delaware and California attorneys general, said they would not oppose the plan.
+ The restructuring paves the way for the ChatGPT maker to more easily profit off its artificial intelligence technology even as it remains technically under the control of a nonprofit.
+ OpenAI CEO Sam Altman said in a call Tuesday that "the most likely path" for the newly formed business is that it becomes publicly traded on the stock market, "given the capital needs that we'll have and sort of the size of the company," though a Wall Street debut was not a part of the announcements detailed Tuesday.
+ Delaware Attorney General Kathy Jennings and California Attorney General Rob Bonta said in separate statements that they would not object to the restructuring, seemingly bringing to an end more than a year of negotiations and announcements about the future of OpenAI's governance and the power that for-profit investors and its nonprofit board will have over the organization's technology.
+ The company also said it has signed a new agreement with its longtime backer Microsoft that gives the software giant a roughly 27% stake in OpenAI's new for-profit corporation but changes some of the details of their close partnership. Microsoft's $135 billion stake will be just ahead of the OpenAI nonprofit's $130 billion stake in the for-profit company.
+ The attorneys general of Delaware, where OpenAI is incorporated, and California, where it is headquartered, had both spent months investigating the proposed changes.
+ "We will be keeping a close eye on OpenAI to ensure ongoing adherence to its charitable mission and the protection of the safety of all Californians," said Bonta.
+ OpenAI said it completed its restructuring "after nearly a year of engaging in constructive dialogue" with the offices in both states.
+ "OpenAI has completed its recapitalization, simplifying its corporate structure," said a blog post Tuesday from Bret Taylor, the chair of OpenAI's board of directors. "The nonprofit remains in control of the for-profit, and now has a direct path to major resources before AGI arrives."
+ AGI stands for artificial general intelligence, which OpenAI defines as "highly autonomous systems that outperform humans at most economically valuable work." OpenAI was founded as a nonprofit in 2015 with a mission to safely build AGI for humanity's benefit. It later started a for-profit arm.
+ Microsoft invested its first $1 billion in OpenAI in 2019 and the two companies formed an agreement that made Microsoft the exclusive provider of the computing power needed to build OpenAI's costly technology. It was a lifeline for the startup research lab, which is now valued at $500 billion but continues to lose more money than it makes. In turn, Microsoft heavily used the technology behind ChatGPT to enhance its own AI products.
+ The two companies first revealed in January that they were altering that agreement, enabling San Francisco-based OpenAI to build its own computing capacity, "primarily for research and training of models." That coincided with OpenAI's announcements of a partnership with Oracle and SoftBank to build a massive new data center in Abilene, Texas.
+ It's since announced what Altman described Tuesday as a "$1.4 trillion total financial obligation" over the next few years, which includes more data center projects planned in the U.S., Asia, Europe and South America, along with big deals with chipmakers like Nvidia, AMD and Broadcom.
+ Those investments left Microsoft's OpenAI arrangement up in the air as the two companies appeared to veer further apart before reaching a tentative new agreement in September.
+ OpenAI had previously said its own nonprofit board will decide when AGI is reached, effectively ending its Microsoft partnership. But it now says that "once AGI is declared by OpenAI, that declaration will now be verified by an independent expert panel," and that Microsoft's rights to OpenAI's confidential research methods "will remain until either the expert panel verifies AGI or through 2030, whichever is first." Microsoft will also retain commercial rights to OpenAI products "post-AGI" and through 2032.
+ "Microsoft can now count on 7 years of runway," said an investor note from JP Morgan analysts, interpreting the news as a positive development for the software giant.
+ Microsoft put out the same joint announcement about the revised partnership Tuesday but declined further comment. Its shares spiked more than 2% on Tuesday.
+ Going forward, the nonprofit will be called the OpenAI Foundation and Taylor said it would grant out $25 billion toward health and curing diseases and protecting against the cybersecurity risks of AI. He did not say over what time period those funds would be dispersed.
+ Robert Weissman, co-president of the nonprofit Public Citizen, said this arrangement does not guarantee the nonprofit independence, likening it to a corporate foundation that will serve the interests of the for-profit.
+ Even as the nonprofit's board may technically remain in control, Weissman said that control "is illusory because there is no evidence of the nonprofit ever imposing its values on the for-profit."
+ The Delaware attorney general's investigation focused on ensuring OpenAI put its commitment to safety first and before any financial interests. Jennings also said OpenAI promised to keep its nonprofit in control of the public benefit corporation, including the right to appoint and remove its board members.
+ The removal of OpenAI's CEO Sam Altman in Nov. 2023 by the nonprofit's board at the time — and his subsequent reappointment — kicked off the company's effort to restructure.
+ The nonprofit's board will continue to include a Safety and Security Committee, which will have the power "to oversee and review" OpenAI's technology development. It will even have the power to stop the release of a new product, according to the Delaware attorney general's statement.
+ Additionally, within a year, the nonprofit's board will include at least two members who do not also serve on the public benefit corporation's board.
+ OpenAI still faces a legal challenge from billionaire Tesla CEO Elon Musk, an early OpenAI investor who now runs his own AI firm, xAI, and has accused the startup he co-founded of betraying its original mission.
+ A federal judge in March denied Musk's request for a court order blocking OpenAI from converting itself to a for-profit company but said she could expedite a trial to consider Musk's claims.

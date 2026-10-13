@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them.
+    Already a subscriber? Log in
+  
+  
+  Subscriber Exclusive
+This article is older than 30 days and is available exclusively to our subscribers.

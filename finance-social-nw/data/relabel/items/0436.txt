@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Alphabet Inc.’s Google can’t invoke claims of bias by a top US Justice Department official in defending itself against a government lawsuit claiming the company maintains a monopoly in the market for online advertising technology, a federal judge ruled.
+Google had claimed the case was unlawful because of the involvement of Jonathan Kanter, who the company accused of flouting ethics laws because he’d represented ad tech companies and Google rivals, including Microsoft Corp., before becoming an assistant attorney general for antitrust in November 2021. DOJ filed the suit in January along with more than a dozen state attorneys general.
+The ruling Friday by US District Judge Leonie Brinkema in Virginia is a blow for Google’s attempts to discredit the Biden administration’s top antitrust officials – Kanter and Federal Trade Commission Chair Lina Khan – who have been pushing to limit the power of big technology companies. Google faces a separate DOJ lawsuit claiming it operates a monopoly in online search. A 10-week trial in that case began Tuesday.
+A spokesman for Google, which denies the allegations in both cases, didn’t immediately respond to a request for comment on Brinkema’s ruling.
+In late August, Google contended in a filing that Kanter’s alleged bias “shaped and infected this entire proceeding, and reflects an improper predisposition to find against Google, rather than ensure that justice is done.” Kanter was recused from the case after Google hired his former law firm, Paul Weiss Rifkind Wharton & Garrison LLP, to represent it in April.
+At a hearing Friday, Google’s attorney Eric Mahr told the judge that the agency filed a “complaint that lines up very closely” with allegations that Kanter made on behalf of his clients in private practice.
+But the judge disagreed, calling Google’s claim a “red herring defense.”
+“This is not the kind of horrendous case that you’re positing where an individual prosecutor or individual government lawyer with a vendetta against your client has brought an enforcement action,” Brinkema said. “This is an enforcement action that is being brought by the entire Department of Justice.”
+The case is US v Google, 1:23-cv-108, US District Court for the Eastern District of Virginia (Alexandria).

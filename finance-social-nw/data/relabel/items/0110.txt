@@ -1,0 +1,18 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Spotify releasing artificial intelligence DJ in two countries
+Premium users in the US and Canada started getting it Wednesday
+Spotify is adding an artificial intelligence DJ for certain listeners.
+The audio streaming service said Wednesday in a press release that U.S. and Canadian users with premium subscriptions would first start getting access to the DJ that day. In the beginning, it will be "in beta" and in English, according to Spotify.
+The DJ will provide a "curated lineup of music alongside commentary around the tracks and artists we think you’ll like in a stunningly realistic voice," the company said. The feature will apparently pull its selections from new tunes in addition to ones the user has previously listened to.
+CLICK HERE TO READ MORE ON FOX BUSINESS
+It is designed so that its music recommendations improve as it gets more and more feedback from the user, according to the press release.
+Spotify said the DJ feature stems from several things, including its personalization technology and a generative AI "through the use of OpenAI technology."
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+The audio streaming service also pointed to its 2022 purchase of Sonantic, an AI voice platform that it said creates "realistic voices from text."
+Spotify Head of Cultural Partnerships Xavier Jernigan served as the DJ’s first model for its voice, something the company indicated it will "continue to iterate and innovate."
+AI has been making headlines recently, with Google and Microsoft both recently making announcements about new AI-powered features for their respective platforms.
+GOOGLE VS. MICROSOFT IN AI RACE
+On Friday, Meta Platforms also unveiled "LLaMA," a large language model "designed to help researchers advance their work in this subfield of AI" that the Facebook corporate parent is releasing.
+Joe Toppe contributed to this report.

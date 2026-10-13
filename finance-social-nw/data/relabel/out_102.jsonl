@@ -1,0 +1,20 @@
+{"id": "2040", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oil rises further with Iran", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2041", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google recently announced that it's", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "2042", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A frenzied day of earnings", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "2043", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A frenzied day of earnings", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "2044", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A frenzied day of earnings", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "2045", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Positioning Both Companies to Drive", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2046", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Good morning. Stopped by San Francisco", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "2047", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "WASHINGTON (AP) — The Pentagon", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2048", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "WASHINGTON (AP) — The Pentagon", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2049", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "WASHINGTON (AP) — The Pentagon", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2050", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Humans have short attention spans", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "2051", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "For artificial intelligence to become", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2052", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The companies are giving admins", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "2053", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Common Sense Media creates independent", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2054", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Parents frequently worry about the", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "2055", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "NEW YORK CITY, New York:", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "2056", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "NEW YORK CITY, New York:", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "2057", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "NEW YORK CITY, New York:", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2058", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Thirteen years ago, Steve Key", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2059", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Digital simulation or physical reality?", "relation": "co-hype", "sentiment_alignment": -0.5}

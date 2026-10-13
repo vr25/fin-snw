@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+By Esha Dey, Bloomberg
+Tesla Inc.’s core car-making business is facing a deteriorating outlook, providing a major test of Chief Executive Officer Elon Musk’s ability to lift the stock price with his vision of a self-driving future.
+The electric-vehicle maker is expected to post the sharpest drop in revenues in more than a decade when it reports earnings on Wednesday, as demand for Tesla products dries up. And with federal incentives meant to encourage EV sales set to disappear later this year, things are likely to get even more challenging in the coming months.
+RELATED: Tesla’s sales in California drops for seventh straight quarter
+That’s piling pressure on Musk to push Tesla’s robotaxi program, that began operating on a limited basis in Austin last month. It’s increasingly seen as underpinning the value in the company’s shares, which have rallied 50% from an April low.
+“Tesla, more than any other large-cap stock, relies on investor confidence in the company’s long-term vision of the future,” said Nicholas Colas, the co-founder of DataTrek Research, who spent more than a decade covering the auto industry as an analyst.
+Tesla’s sales have suffered from an aging lineup and the backlash against Musk’s role in US President Donald Trump’s administration, where he was charged with drastically reducing government spending. The stock has taken a hit as well, down 31% from a December peak when Musk’s proximity to Trump was seen as a boon for the company.
+Still, Tesla shares remain richly valued at 142 times projected profits, compared with 27 times for the Nasdaq 100 Index, reflecting a significant disconnect from the company’s souring financial prospects.
+Wall Street has slashed 2025 profit estimates by 28% over the past three months, according to data compiled by Bloomberg. For the second quarter, analysts are projecting adjusted earnings of 42 cents a share on revenue of $22.6 billion, down 18% and 11%, respectively, from the same period a year ago. That would represent the biggest drop in quarterly sales since 2012.
+The stock was trading little changed by 9:45 a.m. in New York on Wednesday, ahead of the results due after the market close.
+Tesla’s auto manufacturing business, which generated 90% of the company’s revenue in 2024 and contributed 94% of its gross margin, has also been hampered by a production pause to retool assembly lines for the redesigned Model Y and rising competition in China from local brands.
+Then there’s Trump’s signature tax bill, which will remove two key incentives for the EV industry. A $7,500 tax credit that applies to most American-made EVs will go away starting in September, as will a separate program that penalized traditional carmakers for failing to adhere to federal fuel economy standards. The sale of those credits generated $2.8 billion in revenue for Tesla last year.
+Tesla bulls, however, remain undeterred. Nearly half of the analysts covering the company recommend buying the stock, a share that hasn’t changed since the beginning of the year.
+The robotaxi is the key reason for the optimism, with Musk predicting that hundreds of thousands of these vehicles will be on the road by late 2026. Long-term investors also point to other futuristic ambitions such as the humanoid robot called Optimus, and a faith that Musk can keep pushing the boundaries of innovation.
+Roughly 95% of Tesla’s share price is tied to what the company might do in the future, according to the calculations of DataTrek’s Colas. Compared to the rest of the so-called Magnificent Seven stocks, only Nvidia Corp. and Microsoft Corp. are close, at around 75%.
+Tesla is now aiming to bring its driver-less taxis to California and Arizona. Earlier this month, Musk said robotaxis could launch in the San Francisco Bay area “probably in a month or two,” pending regulatory approvals.
+But the company faces major competition. Google parent Alphabet Inc.’s self-driving car unit Waymo already has been operating a similar service in Los Angeles, Austin, Phoenix and San Francisco. It also just began offering trips through Uber Technologies Inc.’s platform in Atlanta, with Miami and Washington expected next year. Separately, Uber is also teaming up with EV-maker Lucid Group Inc. and self-driving tech startup Nuro to launch a robotaxi fleet.
+It’s this focus on long-term growth that makes Tesla the ultimate “story” driven stock, said Joseph Spak, a UBS analyst.
+“The Tesla story is about Musk,” said Joe Gilbert, portfolio manager at Integrity Asset Management. “If he can give confidence to the market that he is re-focused on robotaxi and the brand, the stock can work.”
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.

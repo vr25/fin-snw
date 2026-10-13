@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google introduced Gemini 1.0 back at Google I/O 2023, and today, the company has finally launched it in three sizes and will start rolling out to Bard. The company revealed a lot of details about how the new model is going to work, and there are some really impressive details that they have shared.
+Google's Gemini 1.0 could change the way we use AI
+Google is claiming that Gemini 1.0 happens to be the most capable and general model that is available. The model can actually go ahead and train separate components for various modalities and then stitch them together, as well. It is worth noting that Google mentioned that the model will struggle with anything more conceptual and requires more complex reasoning.
+Speaking of Gemini, Google “pre-trained from the start on different modalities” using TPU 4 and TPU v5e. Google has also announced TPU v5p today and claims that it is “most powerful, efficient, and scalable."
+To show just how powerful Gemini actually is, Google demoed Gemini working through 200,000 scientific research papers, filtering out the ones that are relevant, and then summarizing the data in an hour. Coding is another thing that Google has paid attention to, and it mentioned how the model will be able to understand, explain, as well as generate high-quality code in multiple languages like Python, Java, C++, and Go.
+At the time of writing, Gemini 1.0 is available in three different sizes that will span from data centers to phones.
+- Gemini Ultra — our largest and most capable model for highly complex tasks.
+- Gemini Pro — our best model for scaling across a wide range of tasks.
+- Gemini Nano — our most efficient model for on-device tasks.
+To showcase just how powerful Gemini is, Google even shared the benchmark that you can look at below:
+The Gemini 1.0 is also very powerful in terms of multimodality. We will be seeing Gemini Ultra fighting the ChatGPT-4V across the image, video, and audio tests. Google DeepMind has even shared a technical report that gives out more information.
+Google has also commented about how Gemini is one of the safest AI models to date, so users who are concerned about whether there is safety or not don't have to worry about that, to begin with. Users will be able to experience Gemini Pro with Google Bard. For those wondering, this feature will offer advanced reasoning, planning, and writing to help you understand the content and summarize it. Google has talked about how the new model will be able to perform better than ChatGPT 3.5.
+Bard with Gemini Pro is now going to roll out in English for 170 countries, with European and UK regions getting the feature in the near future. Gemini Pro will be powering text-based prompts at the start, but other modalities will also be available soon. Gemini Ultra will be available next year; Google is in the process of "completing extensive trust and safety checks." so it can start rolling out to everyone.
+Needless to say, this is mighty impressive of Google, and I cannot wait to see how it improves as we move forward. We will be sure to keep you posted as we learn more about it in the coming days and weeks.
+News Source: Google Blog
+Follow Wccftech on Google to get more of our news coverage in your feeds.

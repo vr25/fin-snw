@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Four outstanding Galway researchers presented with Lero Research Awards
+Using artificial intelligence (AI) to improve brain tumour identification is just one of ten research projects – four of them with Galway links – to benefit from a €1.3m investment by Lero, the Science Foundation Ireland Research Centre for Software, based at University of Limerick.
+Announcing the research awards, Lero director Professor Lionel Briand said the array of research topics selected for support shows how software is integral to every aspect of the world we inhabit.
+Three University of Galway researchers –Dr Malika Bendechache, Dr Lorraine Morgan and Professor Kieran Conboy – and Dr Ciarán Eising, a University of Limerick researcher from Kinvara, were among the recipients of the Lero Research Awards.
+Dr Malika Bendechache will lead a team researching the use of AI to accurately and swiftly delineate brain tumours.
+“This project will address challenges in using a sophisticated AI-based computer model on brain MRIs to enhance prediction and localisation of brain tumours,” she explained.
+“It represents a significant advancement in improving the prognosis and management of brain cancer, ultimately enhancing patient well-being, as manually delineating tumours on MRI scans is a challenging and time-consuming task that can vary among different physicians,” she added.
+Dr Lorraine Morgan plans to use the award to examine the role social media plays among individuals who have experienced adversity such as grief, illness, trauma, hardship and other personal traumas.
+“The research will help us to understand coping mechanisms and support-seeking behaviours by studying how individuals contending with personal tragedies or other forms of adversity use social media for coping purposes,” she revealed.
+“In this way, the research will contribute to understanding the role of digital technology in facilitating coping strategies and promoting resilience.
+“We will examine people’s privacy perceptions, disclosure preferences and management strategies in online environments and analyse communication tools and features enabling individuals to interact and communicate remotely.
+“This will provide valuable insights for policymakers, platform designers, and other stakeholders involved in developing and managing social media platforms,” she added.
+Professor Kieran Conboy, Professor of Information Systems at University of Galway, will lead a project focussed on responsible software development.
+"From large organisations such as Google, Apple and Microsoft, to national and European policy makers, everyone is trying to address the issue of responsible technology, developing policies, controls and laws for the regulation of technology,” he said.
+“These efforts attempt to address everything from technology induced stress, phone addiction, social media bullying, bias, discrimination, and disinformation. To truly consider and cater for the responsible aspects of a technology takes time.
+“Unfortunately, modern software engineering methods such as agile and continuous development which are used by more than 92% of developers worldwide, advocate high speed development.
+“Development teams take part in ‘sprints’ and are measured by their ‘velocity’ and ‘time to market’. Developers are under pressure to continuously deliver some form of working software and are measured and rewarded based on speed of delivery. This emphasis on speed does not match the need for deep, thoughtful, and intricate design required to be responsible," he explained.
+"The project supported by this award will critically analyse traditional research and development methods, tools and metrics, and will develop new and adapted ones for the design and evaluation of responsible technology.
+“New practices and methods that developer can use to ensure an adequate balance between the need for speed and the need to be responsible will be examined," Professor Conboy added.
+Kinvara's Dr Ciarán Eising, Associate Professor at University of Limerick, will use the award to further his research into improving technology for driverless vehicles.
+“Radar is a key technology for Advanced Driver Assistance Systems (ADAS) and Autonomous Driving, as it provides both the position of obstacles and information about how other obstacles are moving. However, radar is not perfect,” he revealed.
+“This project will tackle the issue of low resolution, for example, by combining the radar information with camera information, cameras being almost ubiquitous on modern vehicles,” he explained.
+Lero director Prof. Lionel Briand said these are just some examples of the research programmes Lero is supporting that will deliver solutions and insights to benefit society and the economy.
+Pictured: Dr Ciarán Eising... among the recipients of Lero funding.

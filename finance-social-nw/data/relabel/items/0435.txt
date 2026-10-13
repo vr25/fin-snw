@@ -1,0 +1,6 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Prime Minister Srettha Thavisin has been in office for less than a month, but the U.S. already sees its best opportunity in two decades to get its alliance with Thailand back on track after ties were strained under the previous military-backed regime.
+The democratically elected leader is in New York this week for the United Nations General Assembly and is reportedly bringing his incoming military chief for security talks with Washington. While Srettha is seeking an audience with President Joe Biden, he’s indicated that any rapprochement won’t come at the expense of China.
+The new premier wants to forge closer ties with the West as he faces increasing pressure to reinvigorate an economy that has lagged the growth of its neighbors even before the pandemic. While in the U.S., he’ll also court investment from Microsoft Corp., Google and Tesla Inc.

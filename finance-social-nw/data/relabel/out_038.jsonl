@@ -1,0 +1,20 @@
+{"id": "0760", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "We have also discussed the", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0761", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "The Dow rose a tenth", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0762", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The Dow rose a tenth", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0763", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Dow rose a tenth", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0764", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Artificial Intelligence & Machine", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0765", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0766", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The European Union's parliament on", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0767", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The European Union's parliament on", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0768", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The European Union's parliament on", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0769", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "My ancestors navigated their world", "relation": "unrelated-mention", "sentiment_alignment": -0.8}
+{"id": "0770", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft follows AWS and Google,", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0771", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "AI data platform Vast Data", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0772", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Apple expands AI horizons, acquires", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0773", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "McDonald's apologizes for global system", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0774", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Artificial intelligence has immense potential", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "0775", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "It's been another banner start", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0776", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "It's been another banner start", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "0777", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "It's been another banner start", "relation": "causal-driver", "sentiment_alignment": -0.5}
+{"id": "0778", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Sign up for the daily CJR", "relation": "co-hype", "sentiment_alignment": 0.1}
+{"id": "0779", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "And so, ladies and gentlemen.", "relation": "co-hype", "sentiment_alignment": 0.6}

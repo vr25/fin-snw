@@ -1,0 +1,20 @@
+{"id": "0860", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "(Reuters) – Shares of Arm", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0861", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "WASHINGTON — The Biden administration is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0862", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Canada's dispute with Meta is", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0863", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "CLOSED: Minerva's Pizza Owner Says", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0864", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dow Jones futures rose slightly", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0865", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Dow Jones futures rose slightly", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0866", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Dow Jones futures rose slightly", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0867", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "ANI 14 May 2024,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0868", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google I/O 2024 | Android", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0869", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "OpenAI co-founder Ilya Sutskever announced", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "0870", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "On the second day of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0871", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dow hits 40,000 for first", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0872", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Dow hits 40,000 for first", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0873", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Dow hits 40,000 for first", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0874", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Updated May 16, 2024 at", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0875", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft hasn't been shy about", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0876", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This Michigan Food Truck is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0877", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0878", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "15 years of Minecraft: The", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0879", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SEOUL, South Korea — World", "relation": "co-hype", "sentiment_alignment": 1}

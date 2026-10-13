@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Spotify shares jump after CEO plans to lay off 17% of workforce
+The music streaming service, Spotify, announced it's reducing its global workforce in a third round of layoffs this year.
+Spotify plans to get rid of about 1,500 workers. This comes after the company laid off 700 workers earlier this year.
+In an email sent to staff, CEO Daniel Ek blamed the "slowing economic growth" and "increased cost of capital."
+"To align Spotify with our future goals and ensure we are right-sized for the challenges ahead, I have made the difficult decision to reduce our total headcount by approximately 17% across the company. I recognize this will impact a number of individuals who have made valuable contributions. To be blunt, many smart, talented and hard-working people will be departing us," Ek's memo read in part.
+Workers impacted are expected to be notified by the end of Tuesday.
+Ek said the "leaner structure" of the company will ensure "Spotify's continued profitability."
+Spotify shares closed up more than 7% Monday after news of layoffs.
+Spotify reportedly added 6 million subscribers in Q3. It's growth in the last quarter had more than 2 million subscribers than anticipated.
+The company announced in January that it was axing 6% of total staff. In June, it cut staff by another 2%, or about 200 workers, mainly in its podcast division.
+Tech companies like Amazon, Google, Microsoft, Meta and IBM have announced hundreds of thousands of job cuts this year.
+Editor's Note: The Associated Press contributed to this report.

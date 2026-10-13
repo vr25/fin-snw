@@ -1,0 +1,28 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+The S&P 500 (^GSPC +0.51%) tracks the performance of 500 large-cap stocks that cover roughly 80% of U.S. equities and about 50% of global equities by market value. The index includes many of the world's most influential companies, and investors frequently use it as a performance benchmark for their own portfolios.
+However, most investors fail to outperform the S&P 500 over long periods. Even professional money managers typically come up short. Indeed, 90% of large-cap funds underperformed the benchmark index over the last 10 years. But investors could beat the odds with a technology-focused index fund.
+The Vanguard Information Technology ETF (VGT +0.78%) more than doubled the gains in the S&P 500 over the last decade, and the market-beating returns could continue as artificial intelligence spending soars in the coming years. Here's what investors should know.
+NYSEMKT: VGT
+Key Data Points
+The technology sector has consistently crushed the S&P 500
+The S&P 500 includes companies from 11 stock market sectors, but a single sector has been responsible for a large percentage of the index's gains in recent years. "The technology sector has generated 32% of global equity returns and 40% of U.S. equity market returns since 2010," according to Goldman Sachs.
+The chart below further illustrates that point. It compares the technology sector's total return to the S&P 500's total return over different periods. Notice that technology stocks have often doubled the gains in the index.
+Importantly, the technology sector's outperformance has not been a product of hype or irrational valuations, but rather solid financial fundamentals. "The global tech sector's earnings per share have risen about 400% from its peak before the great financial crisis, while all other sectors together have risen 25% during that span," according to Goldman Sachs.
+The Vanguard Information Technology ETF could outperform the S&P 500 over the next decade
+The Vanguard Information Technology ETF tracks 316 technology stocks that fall into four broad categories: (1) chipmakers and semiconductor equipment manufacturers, (2) cloud infrastructure and platform services providers, (3) software vendors, and (4) hardware and equipment manufacturers. The five largest holdings in the fund are listed by weight below.
+- Apple: 16%
+- Microsoft: 14%
+- Nvidia: 13.9%
+- Broadcom: 4.6%
+- Oracle: 1.8%
+The technology sector's long-term outperformance can be attributed to explosive growth in cloud computing, though other secular trends have contributed, including the proliferation of mobile devices, online shopping, and streaming media. Those technologies will only become more relevant, but artificial intelligence (AI) looks like the next decade-defining technological transformation.
+Indeed, Grand View Research estimates spending across AI hardware, software, and services will increase at 37% annually through 2030. And the five companies listed above could be some of the biggest beneficiaries of the AI boom.
+- Apple will add AI features to iPhones and MacBooks with software updates reportedly coming on Oct. 28, and some analysts expect a historic upgrade cycle to follow.
+- Microsoft is the second-largest cloud services provider and an early leader in generative AI due to its partnership with the creator of ChatGPT, OpenAI.
+- Nvidia is the market leader in data center graphics processing units (GPUs), chips that are the industry standard in accelerating workloads like AI training and inference.
+- Broadcom is the market leader in networking chips and custom silicon, two semiconductor categories that should see strong demand as businesses build out their AI infrastructure.
+- Oracle is the fifth-largest cloud services company, and it's currently building a data center that will be used to train one of the world's largest AI models.
+The last item of consequence is the fee structure. The Vanguard Information Technology ETF has an expense ratio of 0.1%, meaning investors will pay $1 annually for every $1,000 invested in the fund. Comparatively, the average index fund had an expense ratio of 0.36% in 2023, according to Morningstar.
+Here's the bottom line: The Vanguard Information Technology ETF is a relatively cheap and simple way to gain exposure to stocks in the technology sector, the best-performing market sector in recent history. The index fund is a particularly attractive option right now because many technology companies are likely to benefit as the artificial intelligence boom unfolds in the years ahead.

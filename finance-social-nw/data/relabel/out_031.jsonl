@@ -1,0 +1,20 @@
+{"id": "0620", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Wall Street returned to record heights", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0621", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "January 20, 2024 by STAN", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0622", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "January 20, 2024 by STAN", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0623", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "January 20, 2024 by STAN", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0624", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "Artificial intelligence (AI) is the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0625", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) is the", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0626", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) is the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0627", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Every weekday the CNBC Investing", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0628", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Executives at some of the", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0629", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "San Francisco: Google has terminated", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0630", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0631", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0632", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0633", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0634", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "causal-driver", "sentiment_alignment": -0.5}
+{"id": "0635", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia's (NVDA +0.22%) stock soared", "relation": "causal-driver", "sentiment_alignment": -0.5}
+{"id": "0636", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Nvidia's valuation passed the $1.5", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0637", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia's valuation passed the $1.5", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0638", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia's valuation passed the $1.5", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0639", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Nvidia's valuation passed the $1.5", "relation": "co-hype", "sentiment_alignment": 1}

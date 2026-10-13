@@ -1,0 +1,20 @@
+{"id": "2120", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft is bringing AI features to", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "2121", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alphabet's Google is in discussions", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "2122", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2123", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2124", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2125", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2126", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2127", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Why is Instagram Down Today?", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2128", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2129", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2130", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2131", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2132", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2133", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "SpaceX rises 20% in largest", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2134", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Major new online safety reforms", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "2135", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MATTHEW DALY and BERNARD", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "2136", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "BlackRock is laying off 200", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "2137", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Steve Ballmer called Google Chrome", "relation": "substitute-comparison", "sentiment_alignment": -0.8}
+{"id": "2138", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A customer sends a WhatsApp", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "2139", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A customer sends a WhatsApp", "relation": "substitute-comparison", "sentiment_alignment": 0.0}

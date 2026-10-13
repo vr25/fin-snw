@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+China dev fined 3 yrs’ salary for VPN use, 10M e-CNY airdrop: Asia Express
+Chinese national fined three years’ salary for using VPN for remote work, Hangzhou airdrops 10M digital yuan, JPEX alleged Ponzi nears $200M, and more.
+Our weekly roundup of news from East Asia curates the industry’s most important developments.
+Chinese worker fined $145K over VPN
+An unnamed individual in China was fined 1.06 million yuan ($144,907) for using a virtual private network (VPN) to access restricted websites as part of a remote work routine for a foreign employer.
+According to local media reports from earlier this week, during his employment as a consultant between 2019 to 2022, the unnamed individual accessed GitHub to view source code, answered questions in customer support, held teleconferences via Zoom and posted multiple threads on Twitter with the help of a VPN.
+The administrative penalty decision finding that the consultant used electrical equipment “without authorization for non-legal international networking.” (China Digital Times)
+Based on a document issued by the city of Chengde Police, the individual’s income earned with the aid of a VPN was deemed as “proceeds of crime.” The police issued a penalty of $144,097, equivalent to three years of the individual’s salary.
+Chinese law prohibits the use of VPNs to bypass the country’s “Great Firewall” that blocks popular sites such as Google, Wikipedia and Facebook. The ruling has spooked many in China’s IT and Web3 circles, who often rely on VPNs for similar remote-work tasks.
+City of Hangzhou airdrops 10M digital yuan
+The city of Hangzhou is airdropping 10 million digital yuan central bank digital currency, worth a total of $1.37 million, to incentivize food and beverage spending as it hosts the 19th Asian Games.
+Anyone within the municipality of Hangzhou, locals and visitors alike, can receive the airdrop for use in food delivery platforms. Individuals can receive up to three vouchers that reimburse merchants in digital yuan for up to 20% to 30% of the value of food items after purchase.
+The airdrop will renew every five days until the balance is emptied. The vouchers are only effective for five days and can only be tendered through select food delivery platforms. Earlier this year, the city of Hangzhou airdropped 4 million digital yuan, worth $590,000, in an effort to boost the CBDC’s adoption.
+15 detained over largest alleged Ponzi scheme in Hong Kong’s history
+Hong Kong police have detained 15 individuals linked to the collapse of cryptocurrency exchange JPEX.
+As of Sept. 27, Hong Kong Police claim they have received over 2,392 complaints claiming a total loss of 1.5 billion Hong Kong dollars ($191.6 million) in the apparent Ponzi scheme. Since the investigation began mid-September, police say that they have seized HK$8 million ($1 million) in cash and frozen bank accounts worth HK$77 million ($10 million) suspected of being proceeds of crime.
+On Sept. 13, the Hong Kong Securities & Futures Commission issued a warning regarding JPEX being an unlicensed exchange within its jurisdiction. The move led to several arrests of its key executives and the abandonment of its corporate booth in Token2049 Singapore. Prior to its collapse, JPEX was one of the most heavily marketed crypto exchanges in Hong Kong, with corporate ads displayed across the city’s metro lines and taxis.
+The incident is shaping up as potentially the worst Ponzi scheme in Hong Kong’s history in terms of monetary loss. Shortly after it was discovered, the SFC began publishing a list of crypto exchanges that are awaiting registration or are unlicensed within the special administrative region of China.
+CoinEx resilient despite $70M hack
+CoinEx logo.
+Hong Kong crypto exchange CoinEx will resume services despite falling victim to a $70 million wallet hack orchestrated by North Korea’s infamous Lazarus Group.
+According to a September 22 statement, CoinEx claims to have resumed deposits and withdrawals on 190 cryptocurrencies, including Bitcoin, Ethereum, USD Coin and Tether. The firm stated:
+ “The wallet system is operating safely and steadily at present. We will gradually resume deposit and withdrawal services for the remaining 500+ cryptos. Since the resuming operations will be processed frequently, there will be no further or separate announcements for each crypto.” 
+As part of its new wallet system, CoinEx updated the deposit addresses of all crypto assets, rendering old addresses invalid. On Sept. 12, a leak of the exchange’s hot wallet keys led to the theft of over $70 million worth of users’ cryptos. Despite the incident, CoinEx said that cold wallets were not affected and that the CoinEx User Asset Security Foundation would “bear the financial losses from this incident.”
+Multiple blockchain security firms, such as Elliptic, have pointed to North Korea’s Lazarus Group as the perpetrator of the exploit. The CoinEx team has since offered a “generous bounty” for the return of stolen funds. Prior to the hack, the exchange disclosed it had around $260 million worth of major cryptocurrencies in its proof-of-reserves report.
+Alibaba moves into digital wallets
+Chinese tech conglomerate Alibaba wants to launch its own wallet service.
+According to the Sept. 28 announcement, Alibaba’s Cloud subsidiary has partnered with crypto custodian Cobo to create an enterprise wallet-as-a-service solution for developers and organizations, integrating crypto wallets into software through APIs and SDKs. Cobo says it is incorporating its custodial wallet and multi-party computation technology to build the Alibaba Cloud wallet.
+“This collaboration marks a significant step towards setting new standards in security, performance, and accessibility of the digital wallet infrastructure for Web3,” said Dr. Changhao Jiang, co-founder and chief technology officer of Cobo. The firm claims to hold partnerships with over 500 institutions, with billions of digital assets in custody through its wallet solutions. In June, crypto-friendly executive Joe Tsai became the chairman of Alibaba Group, replacing his predecessor Daniel Zhang.

@@ -1,0 +1,32 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Updated April 27, 2023 at 8:43 AM ET
+From banks to burger joints, the U.S. economy is showing signs of stress as nervous shoppers watch their spending and anxious lenders keep a tight grip on credit.
+A report from the Commerce Department Thursday shows the nation's gross domestic product grew at an annual rate of just 1.1% in the first three months of the year, compared to a 2.6% pace in the previous quarter. Growth was weighed down by declining inventories and housing investment.
+The economy is projected to lose more steam in the months to come as rising prices and higher interest rates take a toll on families and businesses.
+"Our base expectation is for a mild recession in the U.S.," McDonald's CEO Chris Kempczinski said this week.
+Although the fast-food chain reported strong sales so far in 2023, customers are less likely to splurge after two years of rising food costs, he said in an earnings call with investors.
+"Things like — did someone add fries to their order?" Kempczinski said. "We're seeing that go down in most of our markets around the world — slightly — but it's still going down."
+Virginia resident Desiree Prince says she's more budget conscious now than she used to be, and making decisions about what she spends with an eye on the price tag.
+"Once upon a time, I might have said, 'I'd like to have steak and potatoes for dinner,'" Prince said. "Now it's like, 'Let's see what's in the refrigerator and cobble together a meal from things that I already have."
+Prince, who lives in Alexandria, is planning a vacation this summer with her mom and sister, but with airfares up nearly 18% this year, they're limiting themselves to places they can go by car.
+"We did have to be a bit selective about what we'll be doing on vacation," Prince said. "Do we want to pet the dolphins? That's a bit pricey. Maybe we'll just do the free national park. So we've been frugal with our travels."
+Consumers are spending enough to keep the economy going
+Spending by consumers like Prince is the biggest driver of the U.S. economy. Personal spending grew at an annual rate of 3.7% in the first quarter, with increased spending on both goods and services.
+"The American consumer is the firewall between a recession and an economy that moves forward. And right now the firewall is holding firm," said Mark Zandi, chief economist at Moody's Analytics.
+People may not be spending aggressively, "but they are spending enough to keep the economy moving forward," he said.
+Zandi believes the U.S. can avoid an outright recession this year, but he argues it won't be easy, especially after the collapse of Silicon Valley Bank and Signature Bank and the resulting drop in lending by other banks.
+"The Federal Reserve is still raising interest rates," Zandi said. "You throw into the mix the ill effects of the banking crisis and it does suggest that growth through the remainder of this year and into next is going to be very much on the soft side."
+Mike Kaeding, who builds and leases apartments in Minnesota, has noticed the sharp drop in loans.
+"Some of the regional banks here in the Twin Cities that do a lot of construction [loans], they're not lending at all right now," Kaeding said. "I think there's going to be a negative impact on the construction industry, where we'll actually see for the first time in a while where jobs start to dry up."
+Construction companies cut 9,000 jobs last month.
+Many other businesses are still hiring, but job growth in March was the slowest in more than two years. Even profitable companies like McDonalds and General Motors have been cutting white-collar jobs.
+That rattles Prince, even though her own job as a nuclear engineer seems secure.
+"You start seeing banks start to fail, companies like Microsoft and Facebook laying people off," she said. "I'm not an economist so I don't know what to think, but it doesn't feel great."
+The debt limit fight could create the economy's next hurdle
+Politics could also pose a risk, as members of Congress squabble over the federal government's debt limit.
+House Republicans want big spending cuts and other concessions in exchange for letting the government borrow more money. The White House insists it won't negotiate and argues the full faith and credit of the government must be protected.
+If no agreement is reached by summer, the government could default on its debts, resulting in falling stock prices, rising borrowing costs and a great deal of uncertainty.
+"All the things you don't want at any time but particularly when the economy is struggling to keep its head above water and out of recession," Zandi said.
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

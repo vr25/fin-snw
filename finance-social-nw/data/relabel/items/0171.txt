@@ -1,0 +1,34 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+There's no two ways about it: Artificial Intelligence (AI) has entered the public consciousness of late, capturing the imagination of consumers and investors alike. The latest innovations in generative AI and large language models helped OpenAI's ChatGPT, a next-generation chatbot, go viral late last year because of its keen ability to engage in human-like (though not always truthful) dialog. What ensued was a veritable gold rush in the AI space, with investors keen to identify the latest and greatest opportunities.
+In fact, Cathie Wood's Ark Investment Management has put pen to paper and estimates that AI software could represent a $14 trillion revenue opportunity by 2030.
+This leaves many with a conundrum. Startups typically carry a high degree of risk that discourages most investors, and that's if these companies are publicly traded at all. The good news is that there's a way to capitalize on the importance of AI without betting the farm. Here are three solid companies leading the AI revolution, giving investors plenty of upside -- without all the risk.
+No-brainer buy No. 1: Microsoft
+The fervor surrounding ChatGPT was whipped into a veritable frenzy when it was revealed that Microsoft (MSFT +3.66%) was investing $10 billion in OpenAI, while simultaneously planning to integrate ChatGPT's technology into its Bing search engine. That was the opening salvo in an AI arms race that's expected to continue for some time to come.
+Microsoft's logic was simple: use the excitement around generative AI to grab search market share. "For every one point of share gain in the search advertising market, it's a $2 billion revenue opportunity for our advertising business," said Philippe Ockenden, Microsoft's CVP of finance.
+What seems to have gotten lost in all the excitement is that Microsoft has a long history of integrating AI into its products and services "to help customers do more." The company's focus has been on providing "intelligent experiences every day" across its product suite, including Windows, Xbox, HoloLens, Teams, and Microsoft 365, among others.
+NASDAQ: MSFT
+Key Data Points
+Of course, that also includes Azure, its cloud infrastructure service, which offers a "portfolio of AI services designed for developers and data scientists -- to do more with less." These can help companies modernize business practices and accelerate development by providing access to existing AI models or helping them develop new ones.
+Microsoft isn't cheap at 9 times next year's sales, but analysts' consensus estimates are calling for mid-single-digit growth this year, returning to double-digit growth in 2024 -- not bad for a $2 trillion company.
+No-brainer buy No. 2: Alphabet
+While not a groundbreaking pick, Alphabet (GOOGL +0.46%) (GOOG +0.61%) is another AI pioneer.
+Google search has long been driven by the company's AI expertise, which ensures relevant responses to search queries. This has helped Google maintain its dominance of the search market for more than two decades. The company remains unrivaled, with more than 93% of the market. Search provides the foundation for Alphabet's biggest moneymaker -- digital advertising -- another area it dominates. The company's AI algorithms target ads, ensuring they are shown to the right audience.
+The company's cloud computing segment -- Google Cloud -- provides a host of AI tools to its cloud computing users, which the company touts as "fast, scalable, and easy-to-use AI offerings." These include video and image analysis, speech recognition, and multi-language processing.
+NASDAQ: GOOGL
+Key Data Points
+Let's not forget Waymo, one of the pioneers in autonomous driving -- which is powered by AI -- and the first self-driving ride-hailing service. The service continues to expand around the U.S. and is also expanding into moving commercial goods on autonomous tractor trailers with Waymo Via.
+Alphabet recently announced that it planned to embed generative AI tools to its Google Workspace. The integration will begin with Docs and Gmail and eventually into all aspects of the company's suite of productivity products.
+The downturn has punished Alphabets' stock price, with shares currently selling for just 4 times next year's sales, near its cheapest valuation since 2013. Again, analysts' consensus estimates are forecasting mid-single-digit revenue growth this year, returning to double digits in 2024.
+No-brainer buy No. 3: Amazon
+Because of the company's focus on e-commerce and cloud computing, let's not forget that Amazon (AMZN +0.12%) was an early adopter of AI and has integrated the technology into every corner of its business.
+Electronics infused with Alexa are the most public-facing example of its AI and machine learning capabilities, but the list is vast. Amazon's AI makes ever-evolving product recommendations to its digital retail customers based on their buying patterns and similar purchases made by others. It also increases conversion rates by ensuring the most relevant products appear in response to a customer search. This technology improves product forecasting and optimizes warehouse and logistic activity using AI-powered systems to help fulfill orders and plan its delivery routes.
+While much of its AI expertise is used in service of its e-commerce business, AI is also a staple of Amazon Web Services (AWS), its cloud computing business. The company says it offers "the most complete set of artificial intelligence (AI) and machine learning (ML) services," helping businesses rapidly deploy and benefit from AI.
+NASDAQ: AMZN
+Key Data Points
+There's also Amazon "Just Walk Out" technology, which uses AI as the foundation for the cashierless shopping experience at its Amazon Go concept stores.
+Amazon represents a compelling opportunity right now, selling for less than 2 times next year's sales, putting it squarely in bargain basement territory. The company's expected to generate high-single-digit revenue growth this year -- held back by the downturn -- returning to double-digit growth in 2024. This gives investors plenty of opportunity for upside without much risk.
+The fine print
+As compelling as these opportunities are, they come with an asterisk. Macroeconomic conditions currently remain challenging. High interest rates and inflation continue to weigh on consumer budgets and businesses are cutting back on spending, which could drive these stock prices lower or keep them stagnant for the foreseeable future.
+That said, calling a bottom is nearly impossible, and the best investors can hope for is to buy quality stocks at a discount and hold them for the long-term. Once conditions improve -- and they will -- investors that bought or added to positions in these stocks now will be glad they did.

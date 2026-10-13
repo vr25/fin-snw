@@ -1,0 +1,17 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+OpenAI-AMD deal seen as major validation for AI growth thesis, Wedbush analysts say
+Published: 12:25 06 Oct 2025 EDT
+OpenAI’s newly announced partnership with Advanced Micro Devices Inc (NASDAQ:AMD, ETR:AMD) is a landmark moment in the AI sector, signalling a new phase in the ongoing AI revolution, according to Wedbush analysts.
+Under the deal, OpenAI will deploy 6 gigawatts of AMD Instinct AI GPUs, beginning with the MI450 series in the second half of 2026.
+In return, AMD has granted OpenAI warrants for up to 160 million shares, representing up to a 10% ownership stake in the company.
+Wedbush highlighted the strategic significance of the move, noting that “any lingering fears around AMD should now be thrown out the window as this gives them a major platform to monetize the AI Revolution.”
+The analysts see OpenAI’s stake and partnership as a vote of confidence in AMD’s technology and leadership, placing the company squarely at the center of AI chip investment.
+The deal is part of a broader trend of large-scale AI infrastructure investments, according to the analysts.
+“We believe the AI Revolution is now heading into its next stage of growth as the tidal wave of Big Tech capex spending coupled by enterprise use cases now exploding across verticals is creating a number of AI winners in the tech world,” Wedbush wrote, citing the role of cloud stalwarts such as Microsoft, Amazon, and Google in leading this unprecedented spending cycle.
+Wedbush also noted the global expansion of AI deployment beyond US tech giants, pointing to investments in the Middle East and the UK.
+“The Middle East is a perfect example as now Saudi Arabia and the UAE are diving into the deep end of the pool with Nvidia and US Hyperscalers set to build out massive AI-driven data centers,” the analysts said, highlighting how governments and enterprises are joining the AI spending wave.
+While the analysts acknowledged the skepticism around tech valuations, they highlighted that focusing exclusively on metrics like P/E ratios risks missing transformational growth opportunities.
+“If you focus solely on valuation looking out a year with P/E, you would have missed every transformational growth tech stock the last 20 years,” they wrote.
+Wedbush has an ‘Outperform’ rating and $190 price target on AMD. Shares of AMD added 28.7% at about $212 in the early afternoon on Monday.

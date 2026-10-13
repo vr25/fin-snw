@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+OpenAI says the agreement it struck with the Pentagon to deploy technology on the US defence department's classified network includes additional safeguards to protect its use cases.
+US President Donald Trump on Friday directed the government to stop working with Anthropic, and the Pentagon said it would declare the startup a supply-chain risk, dealing a major blow to the artificial intelligence lab after a showdown about technology guardrails.
+Anthropic said it would challenge any risk designation in court.
+Soon after, rival OpenAI, which is backed by Microsoft, Amazon, SoftBank and others, announced its own deal late on Friday.
+"We think our agreement has more guardrails than any previous agreement for classified AI deployments, including Anthropic's," OpenAI said on Saturday.
+The AI firm said the contract with the defence department, which the Trump administration has renamed the Department of War, enforces three red lines: OpenAI technology cannot be used for mass domestic surveillance, to direct autonomous weapons systems, or for any high-stakes automated decisions.
+"In our agreement, we protect our red lines through a more expansive, multi-layered approach," OpenAI said.
+"We retain full discretion over our safety stack, we deploy via cloud, cleared OpenAI personnel are in the loop, and we have strong contractual protections."
+The Pentagon signed agreements worth up to $US200 million ($A281 million) each with major AI labs in the past year, including Anthropic, OpenAI and Google.
+The Pentagon is seeking to preserve all flexibility in defence and not be limited by warnings from the technology's creators against powering weapons with unreliable AI.
+OpenAI cautioned that any breach of its contract by the US government could trigger a termination.
+"We don't expect that to happen," it said.
+The company also said rival Anthropic should not be labelled a "supply-chain risk", noting it had made "our position on this clear to the government".
+Australian Associated Press

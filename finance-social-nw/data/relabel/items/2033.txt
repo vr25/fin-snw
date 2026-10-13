@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+SAN FRANCISCO (AP) — Microsoft said Monday it will no longer pay a share of its revenue to ChatGPT maker OpenAI, the latest move to untether a close partnership that helped unleash an artificial intelligence boom.
+OpenAI relied exclusively on Microsoft’s investments in cloud computing services to build the technology that helped make ChatGPT a household name. Microsoft, in turn, relied on OpenAI’s technology to build its own AI assistant Copilot.
+But the partnership has evolved as San Francisco-based OpenAI, founded as a nonprofit, has shifted to a capitalistic enterprise on a path toward an initial public offering on Wall Street and has balanced its reliance on Microsoft with other cloud partners like Amazon, Google and Oracle.
+OpenAI said Monday it will continue to pay Microsoft a share of its revenue through 2030.
+The two companies said Microsoft remains the primary cloud computing partner for OpenAI, and products made by the AI company will ship first on Microsoft’s cloud platform, called Azure, “unless Microsoft cannot and chooses not to support the necessary capabilities.”
+Wedbush Securities analyst Dan Ives said in a note to investors Monday that the new agreement “puts OpenAI on a strong path forward to going public through IPO given its clearer opportunity in the cloud environment while reducing significant barriers from its original partnership with Microsoft.”
+Ives said it’s also important for Microsoft as it “looks to develop tech independence from OpenAI” in advancing Copilot’s capabilities and partnering with other AI providers such as OpenAI rival Anthropic, maker of the chatbot Claude.

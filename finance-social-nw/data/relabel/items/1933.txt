@@ -1,0 +1,17 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+NEW YORK, New York - U.S. investors are withdrawing money from domestic equities at the fastest pace in at least 16 years, as fading returns in Big Tech and stronger performance abroad drive a shift away from Wall Street.
+Over the past six months, U.S.-domiciled investors have pulled about US$75 billion from U.S. equity funds, including $52 billion since the start of 2026 alone, the largest outflow for the first eight weeks of a year since at least 2010, according to LSEG/Lipper data.
+The trend signals that diversification away from U.S. assets, a move international investors began last year, is now gaining traction among American investors as well. This shift is occurring despite a weaker dollar, which makes overseas investments more expensive in U.S. terms.
+Since the global financial crisis, the "buy America" trade has delivered strong returns, supported by robust economic growth, rising corporate earnings, and the dominance of U.S. technology giants. Last year's artificial intelligence boom helped push the S&P 500 to record highs, even as markets navigated uncertainty around U.S. President Donald Trump's trade policies and tensions with the Federal Reserve.
+But concerns over AI-related risks and mounting investment costs have cooled enthusiasm for megacap technology stocks. With valuations stretched, investors are increasingly looking abroad for opportunities.
+Bank of America's February fund manager survey showed the fastest shift from U.S. equities to emerging-market equities in five years.
+"I've had lots of conversations with our wealth business in the U.S. this year," said UBS's head of European equity strategy and global derivatives strategy, Gerry Fowler. "They're all talking about investing more offshore because at the end of the year, they looked at the performance of foreign markets in dollars and they're like, wow, I'm missing out."
+So far this year, U.S. investors have directed roughly $26 billion into emerging-market equities. South Korea has attracted the largest inflows at $2.8 billion, followed by Brazil with $1.2 billion.
+The dollar has fallen about 10 percent against a basket of currencies since last January, a factor that raises the cost of overseas purchases but can boost returns in dollar terms when foreign markets outperform.
+In the past year, the S&P 500 has gained around 14 percent. By comparison, Tokyo's Nikkei is up 43 percent in dollar terms, Europe's STOXX 600 has risen 26 percent, Shanghai's CSI 300 has returned 23 percent, and Seoul's KOSPI has doubled.
+Investors are also rotating from high-growth AI leaders such as Nvidia, Meta, and Microsoft into so-called value stocks, including industrial and defensive companies more prominent in markets like Germany, the UK, Switzerland, and Japan.
+"Increasingly, we are seeing U.S. investors look at the global landscape from a valuation perspective," said Laura Cooper, global investment strategist at Nuveen.
+U.S. equities remain more expensive than their global peers. The S&P 500 trades at about 21.8 times forward earnings, compared with roughly 15 times in Europe, 17 times in Japan, and 13.5 times in China.
+"If I'm taking a very long-term view, it's, maybe, this idea of a great global rotation," said Kevin Thozet of Carmignac.

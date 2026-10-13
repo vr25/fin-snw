@@ -1,0 +1,42 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Heightened interest rates have cast a shadow of doubt over stock market optimism, intensifying concerns of a looming economic downturn. Many experts have called for a recession.
+But billionaire hedge fund manager and New York Mets owner Steve Cohen is taking a bullish stance.
+“I’m making a prognostication — we’re going up,” he said at a private conference, according to Bloomberg.
+Cohen knows a thing or two about navigating the markets and rising to the top. After all, the hedge fund manager’s career inspired the character Bobby Axelrod, played by Damian Lewis in the TV show “Billions.”
+Noting that he’s “actually pretty bullish,” Cohen highlighted one specific segment in today’s market: artificial intelligence (AI).
+He warned that if investors become overly preoccupied with recession concerns, they might miss the “big wave” of opportunities in AI.
+The billionaire investor is putting his money where his mouth is. According to the latest Form 13F filing of his firm Point72 Asset Management, Cohen has placed quite a few bets in the AI arena. Here’s a look at three notable ones.
+Don't miss:
+- 'People-First' Real Estate Fund Shares Rent With Tenants While Generating Strong Returns For Investors
+- Elon Musk Issues Dire Warning For The Real Estate Market And This Investment Strategy Could Produce Massive Returns If He's Right
+Start generating passive income through real estate
+Check out these featured investments from Benzinga's Real Estate Offerings Screener.
+Alphabet Inc. (NASDAQ:GOOGL)
+As the parent company of Google, Alphabet Inc. was created in 2015 to give Google’s wild ideas some room to play. The company boasts a vast array of ventures, from dominating the search engine market to dabbling in self-driving cars and life sciences.
+Commanding a market cap of over $1.5 trillion, Alphabet is a tech behemoth. But the stock can still be volatile. Shares plunged 39% in 2022 but have surged 37% so far in 2023.
+Some consider the increasing popularity of OpenAI's chatbot ChatGPT a threat to Alphabet's business. But Alphabet is not standing still, as the company is also advancing its own AI products.
+“In March, we introduced our experimental conversational AI service called Bard,” Alphabet CEO Sundar Pichai said in an earnings conference call last month. “We've since added our PaLM model to make it even more powerful, and Bard can now help people with programming and software development tasks, including code generation.”
+As of March 31, Cohen’s firm owned 3.31 million shares of Alphabet, worth $343.01 million at the time.
+Nvidia Corp. (NASDAQ:NVDA)
+Point72 Asset Management also held 980,638 shares of Nvidia, valued at $272.39 million at the end of March.
+Known for its graphics processing units (GPUs), Nvidia stock has been on a tear.
+Year to date, shares have shot up 120%.
+The rise of AI may have something to do with investor enthusiasm for the chipmaker.
+In an earnings release in February, Nvidia founder and CEO Jensen Huang said that AI “is at an inflection point.”
+And that could present a major opportunity for the company.
+“We are set to help customers take advantage of breakthroughs in generative AI and large language models,” Huang said. “Our new AI supercomputer, with H100 and its Transformer Engine and Quantum-2 networking fabric, is in full production.”
+Microsoft Corp. (NASDAQ:MSFT)
+These days, it’s hard to discuss AI stocks without mentioning Microsoft. After all, it has made notable investments in ChatGPT maker OpenAI, and ChatGPT has taken the internet by storm.
+During the company’s latest earnings conference call, Microsoft CEO Satya Nadella said, “The age of AI is upon us, and Microsoft is powering it.”
+Indeed, Microsoft Azure — the software giant’s cloud computing arm — is OpenAI’s exclusive cloud provider.
+Nadella said that Microsoft will deploy OpenAI’s models across its consumer and enterprise products.
+Microsoft shares have climbed 33% in 2023, bringing the company’s market cap to $2.37 trillion.
+At the end of the first quarter, Cohen’s firm owned 449,115 shares of Microsoft, a stake valued at approximately $129.48 million at the time.
+The Bottom Line
+AI companies hold potential. But it’s crucial to bear in mind that stocks, especially high-growth names, can be volatile. And even experts like Cohen do not have a 100% win rate.
+If your goal is to earn a steady return without too many wild swings in your portfolio, you might want to look into reliable income plays — both in and outside the stock market.
+Read next:
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

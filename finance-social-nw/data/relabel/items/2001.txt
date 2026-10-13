@@ -1,0 +1,34 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Iran's Islamic Revolutionary Guard Corps has issued a direct threat against US-linked technology infrastructure in the Gulf, naming OpenAI's Stargate AI campus in Abu Dhabi as a potential target for the first time.
+The warning, delivered in a video message by Brigadier General Ebrahim Zolfaghari, signals an escalation in rhetoric towards commercial data centre infrastructure tied to US companies operating in the region.
+Direct threat
+"Should the USA proceed with its threats concerning Iran's power plant facilities, the following retaliatory measures shall be promptly enacted. All power plants, energy infrastructure, and information and communications technology of the Zionist regime, and all similar companies within the region that have American shareholders, shall face complete and utter annihilation," said Ebrahim Zolfaghari, Brigadier General, Islamic Revolutionary Guard Corps (IRGC).
+"Nothing is hidden from our sight. All ICT companies in the region will be considered legitimate targets for us," said Zolfaghari.
+Named target
+The statement marks the first instance in which the IRGC has identified a specific facility rather than listing companies in general terms.
+Earlier communications from Iran had named US technology firms such as Apple, Microsoft, Nvidia and Tesla as potential targets. The latest message singles out the Stargate UAE campus, a large-scale AI infrastructure project located in the desert south of Abu Dhabi.
+The video accompanying the statement reportedly included imagery of the site, indicating a shift towards more precise targeting language.
+Conditional escalation
+The threat is framed as contingent on further US military action.
+Iran has linked any strike to potential US attacks on Iranian energy infrastructure, including power plants and desalination facilities. Tensions have intensified since late February 2026 following US and Israeli operations in the region.
+Diplomatic efforts to reach a ceasefire remain stalled. Iran has rejected proposals for a temporary halt in hostilities, maintaining a posture that ties retaliation to US actions.
+Stargate project
+The Stargate UAE facility forms part of a broader AI infrastructure initiative backed by OpenAI, SoftBank, Oracle and MGX, with construction led by UAE-based G42.
+The project carries an estimated cost exceeding USD $30 billion and is designed to deliver up to one gigawatt of compute capacity. The first phase is expected to bring a 200-megawatt cluster online by the end of 2026.
+The site is intended to support large-scale model training and inference workloads. OpenAI is responsible for AI operations, while Oracle oversees cloud infrastructure. Nvidia supplies compute hardware, and Cisco provides networking systems.
+The campus spans roughly 19 square kilometres and sits within a wider AI infrastructure zone that aims to serve regional demand for advanced computing.
+Recent strikes
+The warning follows a series of incidents involving data centre infrastructure in the Gulf.
+On 1 March 2026, Iranian drones struck Amazon Web Services facilities in the UAE and Bahrain. The attack disrupted two availability zones in the ME-CENTRAL-1 region for more than 24 hours, affecting banking systems, ride-hailing platforms and payment services.
+AWS later waived service fees for the affected period.
+On 2 April, Iran claimed responsibility for a strike on an Oracle data centre in Dubai, though local authorities denied that any such incident had occurred.
+These events represent the first known cases of state-linked actions targeting commercial cloud infrastructure during an active conflict.
+Market impact
+The developments introduce new risks for hyperscale infrastructure investment in the Middle East.
+Industry estimates place global hyperscaler capital expenditure above USD $600 billion in 2026. The Gulf had been projected as one of the fastest-growing data centre markets, with annual growth exceeding 60%.
+Insurance providers and project financiers are reassessing exposure to geopolitical risk in the region. Some investors are considering alternative locations for AI infrastructure, including Northern Europe, India and Southeast Asia.
+Current status
+As of 7 April 2026, there has been no confirmed attack on the Stargate UAE campus.
+The facility remains under development and is not yet operational.

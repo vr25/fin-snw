@@ -1,0 +1,13 @@
+{"id": "2180", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The global automotive voice command system", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2181", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "iCrowd Newswire 02 Mar", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2182", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Sandwich Lovers: Top 10 Favorite", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2183", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Things took a weird turn", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2184", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Things took a weird turn", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "2185", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Things took a weird turn", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "2186", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "How Do You Properly Spell", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2187", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The online counseling service BetterHelp", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "2188", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Broadcom Inc forecast second-quarter revenue", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2189", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "GENEVA: Internet privacy company Proton", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2190", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "JUANA SUMMERS, HOST: A year", "relation": "unrelated-mention", "sentiment_alignment": 0.8}
+{"id": "2191", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "To coincide with the rollout", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "2192", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "iCrowd Newswire 03 Mar 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}

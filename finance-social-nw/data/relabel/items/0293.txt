@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+With everyone and everything going gaga over AI, AI has been the cynosure of all the action and possibilities. Every corporate wants a piece of it to enhance productivity.
+Many companies like Google, Microsoft have adopted AI-centric approach for future and now jumping on the bandwagon is one of the largest company, Accenture.
+Accenture to Invest $3 billion in Data & AI Sector
+Accenture has announced its intention to invest $3 billion in the data and artificial intelligence (AI) sector over the next three years. The global IT consulting firm plans to expand its workforce in this cutting-edge technology field, aiming to double the number of employees to 80,000. This expansion includes hiring new talent, acquiring companies involved in the AI space, and providing training to employees on the latest technologies.
+The $3 billion investment by Accenture is expected to benefit companies across 19 different industries, although the specific timeline for these investments has not been disclosed.
+Accenture’s decision to invest heavily in AI reflects a broader trend among businesses aiming to enhance their products and services by integrating generative AI. This technology, which major companies like Microsoft and Alphabet believe will transform various job functions, holds the potential for significant advancements and innovation.
+Layoffs in March
+Following the layoffs of approximately 19,000 employees in March, Accenture is now making a fresh investment and ramping up hiring in the artificial intelligence (AI) space. The company cited a downturn in the market due to inflation and rising rates as the reason for the job cuts. Alongside this initiative, Accenture has introduced a new tool called “AI Navigator for Enterprise” to assist businesses in effectively leveraging AI technology.
+In a similar vein, Salesforce recently announced a significant expansion of its venture capital fund, allocating $500 million specifically for start-ups focusing on generative AI. They have also introduced an AI Cloud service that offers a comprehensive range of AI-powered products in one package, targeting enterprise customers.
+The timing of Accenture’s new investment coincides with a global discussion on the extent to which society should embrace AI in their lives. While some technology leaders have expressed concerns about the potential risks associated with advanced AI platforms, others highlight their efficiency and benefits.

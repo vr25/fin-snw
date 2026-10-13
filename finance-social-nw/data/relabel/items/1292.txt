@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+WASHINGTON – Meta has agreed to pay $25 million to settle a lawsuit filed by President Donald Trump against the company after it suspended his accounts following the Jan. 6, 2021, attack on the Capitol, according to three people familiar with the matter.
+It's the latest instance of a large corporation settling litigation with the president, who has threatened retribution on his critics and rivals, and comes as Meta and its CEO, Mark Zuckerberg, have joined other large technology companies in trying to ingratiate themselves with the new Trump administration.
+Recommended Videos
+The people familiar with the matter spoke on the condition of anonymity Wednesday to discuss the agreement. Two of the people said terms of the agreement include $22 million going to the nonprofit that will become Trump's future presidential library. The balance will go to legal fees and other litigants, they said.
+The Wall Street Journal was first to report on the settlement.
+Zuckerberg visited Trump in November at his private Florida club to try to mend fences with the incoming president, something other technology, business and government officials have done as well. At the dinner, Trump brought up the litigation and suggested they try to resolve it, kick-starting two months of negotiations between the parties, the people said.
+Meta also made a $1 million donation to Trump’s inaugural committee, and Zuckerberg was among several billionaires granted prime seating during Trump’s swearing-in last week in the Capitol Rotunda, along with Google’s Sundar Pichai, Amazon’s Jeff Bezos and Elon Musk, who now owns the platform X, formerly known as Twitter.
+Before Trump's inauguration, Meta announced it was dropping fact-checking on its platform — a longtime priority of Trump and his allies.
+Trump filed the lawsuit months after his first term ended, calling the action by the social media companies “illegal, shameful censorship of the American people.”
+Twitter, Facebook and Google are all private companies, and users must agree to their terms of service to use their products. Under Section 230 of the 1996 Communications Decency Act, social media platforms are allowed to moderate their services by removing posts that, for instance, are obscene or violate the services’ own standards, so long as they are acting in “good faith.” The law also generally exempts internet companies from liability for the material that users post.
+But Trump and some other politicians have long argued that X, Facebook and other social media platforms have abused that protection and should lose their immunity — or at least have it curtailed.
+The Meta settlement comes after ABC News agreed last month to pay $15 million toward Trump’s presidential library to settle a defamation lawsuit over anchor George Stephanopoulos’ inaccurate on-air assertion that the president-elect had been found civilly liable for raping writer E. Jean Carroll.
+The network also agreed to pay $1 million in legal fees to the law firm of Trump’s attorney, Alejandro Brito.
+The settlement agreement describes ABC’s presidential library payment as a “charitable contribution,” with the money earmarked for a nonprofit organization that is being established in connection with the yet-to-be-built library.
+The president has been litigious in arguing that he has been targeted with unfair coverage by legacy media companies.
+Trump has filed a lawsuit against CBS News over claims that the network aired a misleading interview with his 2024 opponent, Vice President Kamala Harris, on the program “60 Minutes” that amounted to “partisan and unlawful acts of election and voter interference” intended to "mislead the public and attempt to tip the scales." The program denied the claims.
+And he has a lawsuit against The Des Moines Register, the news outlet's parent company, Gannett, and the Iowa newspaper's pollster Ann Selzer, alleging they violated the Iowa Consumer Fraud Act by releasing a poll days before the November election that significantly understated his support in the state. The paper and Selzer have denied wrongdoing.
+___

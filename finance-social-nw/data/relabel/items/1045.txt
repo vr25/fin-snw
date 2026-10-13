@@ -1,0 +1,17 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Indian benchmark indices opened flat on Tuesday, with the Nifty hovering near its all-time high, as investors weighed positive global cues against caution ahead of key events later this week.
+The Sensex opened at 81,815.23, slightly up from its previous close of 81,698.11, while the Nifty started the day at 25,024.80, marginally higher than Monday’s close of 25,010.60.
+Hardik Matalia, Derivative Analyst at Choice Broking, said, “The benchmark Sensex and Nifty indices are expected to open flat on Aug 27, following GIFT Nifty trends indicating a loss of -18 points for the broader index.”
+As of 9:30 am, top gainers on the NSE included HCL Tech (1.12%), Apollo Hospitals (0.66%), L&T (0.60%), Dr Reddy’s (0.54%), and Bajaj Finserv (0.52%). The top losers were BPCL (-1.58%), Shriram Finance (-1.23%), Kotak (-0.81%), HDFC Life (-0.81%), and Asian Paints (-0.59%).
+Prashanth Tapse, Senior VP (Research) at Mehta Equities Ltd, noted, “Nifty and Sensex continue their upward surge unabated, with Nifty marking seven consecutive days of gains. Bulls celebrate as Nifty surpasses the psychological milestone of 25,000 once again, eyeing an all-time-high target of 25,078.30.”
+The market sentiment remains positive, buoyed by recent comments from US Federal Reserve Chair Jerome Powell suggesting potential rate cuts. Vikas Jain, Head of Research at Reliance Securities, stated, “Market participants are optimistic that the US Fed may implement a larger rate cut than expected next month.”
+Sector-wise, IT and metal stocks showed strength, benefiting from global trends and a weakening US Dollar Index. The real estate sector also witnessed positive momentum due to strong demand in tier 1 and tier 2 cities.
+Shrikant Chouhan, Head of Equity Research at Kotak Securities, commented, “Technically, on the backdrop of positive global sentiments, our market opened with a positive note and after robust opening throughout the day, it maintained positive momentum.”
+Investors are now looking ahead to key events, including Nvidia’s earnings report on Wednesday and US inflation data on Thursday. These events are expected to provide further direction to the markets.
+Foreign Institutional Investors (FIIs) continued their buying streak, purchasing equities worth ₹483 crore on August 26, while Domestic Institutional Investors (DIIs) bought equities worth ₹1,870 crore on the same day.
+The INDIA VIX, which measures market volatility, was up by 1.79% and trading at 13.7950, indicating some caution among investors.
+As the market progresses, analysts suggest keeping a close watch on key support and resistance levels. Matalia indicated, “Nifty can find support at 24,950 followed by 24,850 and 24,800. On the higher side, 25,050 can be an immediate resistance, followed by 25,150 and 25,200.”
+- Also read: Soft opening seen for Nifty, Sensex
+Published on August 27, 2024

@@ -1,0 +1,39 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Artificial intelligence (AI) has taken the tech sector by storm. Meanwhile, many oil and gas stocks are hovering around all-time highs.
+AI-fueled growth narratives and the energy sector have very little in common in terms of industry characteristics. But there are plenty of similarities between top AI companies like Nvidia (NVDA +0.22%) and Microsoft (MSFT +3.66%) and an oil major like ExxonMobil (XOM -0.96%).
+Here are lessons from all three companies that can help you make wise investment decisions, whether you are targeting value, income, or growth stocks.
+Maintaining financial health
+As you can see in the chart below, all three companies enjoy excellent financial health. In fact, Microsoft and Nvidia have more cash and equivalents like marketable securities than long-term debt, hence the negative figures.
+Oil and gas is capital intensive, and so is investing in AI. Exxon dedicates tens of billions yearly on capital expenditures to expand production and boost refinery outputs. Meanwhile, Nvidia must develop new chips that it won't see a return on for years.
+The ability to fund these expenses with income from business operations, rather than taking on debt on the balance sheet, is an excellent quality that can reduce vulnerability during a downturn in the business cycle.
+NASDAQ: NVDA
+Key Data Points
+Room to take risks
+One of the most valuable qualities of great companies is the ability to take risks without damaging the integrity of the business. A strong balance sheet and high free cash flow generation indicate that a company has the dry powder needed to take a risk even if it fails.
+This is essential in oil and gas and big tech, where forecasts rarely go as planned, and many external factors are outside a company's control.
+Exxon was able to acquire Pioneer Natural Resources and expand production from offshore Guyana because it had the cash and balance sheet to take those risks.
+Similarly, Nvidia has endured the extreme ebbs and flows of the semiconductor industry because it is an ultra-high-margin business that manages expenses well and consistently earns a return on invested capital.
+Microsoft pays more dividends than any other U.S.-based company and buys back a ton of its own stock, but it can always pull back on buybacks if challenges arise where it could deploy that capital elsewhere. Microsoft is known to make several acquisitions each year, with some failing and others being massive success stories. Notable standouts include LinkedIn in 2016, GitHub in 2018, and Activision Blizzard in 2022.
+Microsoft has been able to monetize AI across its business units because of a combination of risk-taking and years of building a diversified-yet-integrated portfolio that can take advantage of technological leaps.
+NASDAQ: MSFT
+Key Data Points
+Resistance to rising interest rates
+Not needing to rely on capital markets has been especially valuable with today's high interest rates. Many companies have seen increased interest expenses. But Exxon's trailing-12-month interest expense was less than $1 billion because it has paid off so much debt thanks to outsize profits from relatively high oil prices.
+By comparison, Microsoft and Nvidia are actually collecting interest income, similar to a bank, since they are net lenders of cash. In fact, both companies are now earning close to all-time high interest income.
+Look for competitive advantages
+One of the most enjoyable moves you can make in the stock market is to find an up-and-coming company early, get in at a low cost basis, and watch it compound over time. This approach comes with a lot of challenges and can also be quite risky.
+A far simpler yet highly effective alternative is to find companies that have a clear path toward multi-decade earnings growth. Often, it's the industry-leading companies that can continue to outperform the market and reward their shareholders.
+There was a great moment from the Berkshire Hathaway 2018 annual meeting when an audience member asks what formulas and quantitative exercises Warren Buffett and the late Charlie Munger used to analyze stocks.
+Munger poked fun at over-analyzing stocks with formulas and gave an example: "When Costco was selling at about 12 or 13 times earnings, I thought that was a ridiculously low value just because the competitive strength of the business was so great and it was so likely to keep doing better and better. But I can't reduce that to a formula for you."
+In other words, an investment thesis is more about the business' trajectory and maintaining a sound business model than spending too much time on the current valuation.
+NYSE: XOM
+Key Data Points
+Reading the tea leaves
+Choosing industry-leading stocks lying in plain sight can seem almost painfully simple. But it works all the time because these big companies have so many advantages and levers to pull to reward shareholders, like organic growth, acquisitions, stock buybacks, and dividends.
+The concept of the rich getting richer (or in this case, the top companies widening their lead over the competition) seems to carry even greater weight with oil and gas and AI.
+ExxonMobil has aggressive environmental targets and is investing heavily in low-carbon solutions to reduce emissions. Because of its strong balance sheet and high cash flow, it can make these investments without jeopardizing the business' performance.
+Microsoft has arguably more touchpoints with enterprises and consumers across product and service categories than any other company in the world. It can see what is working and isn't working with its AI investments to learn what sticks and is worth investing in and what's worth avoiding. Therefore, it has a clear path toward widening the depth and breadth of its services.
+Nvidia's data center business is capitalizing on the need for unprecedented amounts of computational power to run AI models. In this vein, it is a catch-all way to benefit from increased AI spending without picking a specific winner in the space.
+When it comes to foundational holdings that you can build a portfolio around, Exxon stands out as a good choice for value and income investors, Microsoft is a good balance, and Nvidia is an excellent growth candidate.

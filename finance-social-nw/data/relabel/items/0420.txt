@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google heads to court to defend itself in major antitrust case about Google Search
+Google headed to court yesterday to defend its position in an antitrust case revolving around Google Search and its dominance over other search engines. Data from Similarweb shows that Google currently holds 90% of the market share for search engine use.
+“This case is about the future of the internet and whether Google’s search engine will ever face meaningful competition,” said Kenneth Dintzer, lead litigator for the case for the Justice Department.
+According to the Associated Press, the trial is expected to run for the next 10 weeks. Over the course of the trial, federal lawyers and state attorneys will try to prove that Google got to where it is today by illegal means.
+The lawsuit was first brought forth by the Justice Department in October 2020, and says the point is to “restrain Google LLC from unlawfully maintaining monopolies in the markets for general search services, search advertising, and general search text advertising in the United States through anticompetitive and exclusionary practices, and to remedy the effects of this conduct,” the original document states.
+The lawsuit claims that in order to be the default search engine for different devices and platforms, Google pays billions every year to third-party distributors, such as device manufacturers Apple, LG, Motorola, and Samsung; U.S. wireless carriers AT&T, T-Mobile, and Verizon; and browser developers Mozilla, Opera, and UCWeb. The lawsuit also claims that in some of these agreements, Google prohibits these companies from working with its competitors.
+“Google’s contracts ensure that rivals cannot match the search quality, ad monetization, especially on phones,” Dintzer said. “Through this feedback loop, this wheel has been turning for more than 12 years. It always turns to Google’s advantage.”
+The NY Times reports that one of Google’s lawyers, John E. Schmidtlein, said in an opening statement: “Users today have more search options and more ways to access information online than ever before.” He claimed that the agreements in place don’t result in as much lock-in as claimed by the Justice Department, and that it’s easy for users to switch their default search engine.
+Many are claiming that this is the biggest antitrust case since 1998, when Microsoft was sued for its dominance in the personal computing market, Reuters reported.

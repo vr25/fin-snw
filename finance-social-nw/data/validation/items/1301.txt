@@ -1,0 +1,23 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+- AMD reported better-than-expected revenue and profit on Tuesday.
+- Data center sales nearly doubled in 2024, but still fell short of estimates.
+- The stock fell in extended trading.
+Advanced Micro Devices reported fourth-quarter results on Tuesday that beat Wall Street expectations for sales and earnings, but the stock fell about 6% in extended trading as the company missed estimates in its key data center segment.
+Here's how the chipmaker did, versus LSEG consensus estimates for the quarter ended Dec. 28:
+Watch NBC 4 free wherever you are
+- Earnings per share: $1.09, adjusted, versus $1.08 expected
+- Revenue: $7.66 billion versus $7.53 billion
+AMD said it expects $7.1 billion in sales in the first quarter, plus or minus $300 million. It projected its gross margin to be about 54%. Analysts expected AMD to guide for revenue of $7 billion.
+AMD reported $482 million in net income, or 29 cents per share, for the fourth quarter, down from $667 million, or 41 cents per share in the year-ago period.The company's adjusted earnings per share excluded items such as acquisition costs, inventory loss at contract manufacturers, and restructuring charges.
+Su told investors on an earnings call that AMD believes it will report "strong double-digit percentage revenue and EPS growth" in 2025.
+The company's most important unit is its business selling chips for data centers, which has been growing in recent quarters, thanks to demand for its graphics processing units for artificial intelligence.
+AMD reported $3.86 billion in data center sales, which was up 69% on a year-over-year basis. The company said the increase was due to sales both in its Instinct GPUs and its EPYC CPUs, which compete with Intel's processors.
+However, analysts polled by FactSet were predicting $4.14 billion in data center sales during the quarter.
+For the full year, AMD's data center division revenue increased 94% to $12.6 billion. AMD said that $5 billion of those sales were from its Instinct GPUs for AI.
+While AMD is far behind market leader Nvidia, it's released competitive data center GPUs in recent years such as the MI300X, that some big infrastructure buyers, including Meta and Amazon, have embraced.
+"We believe this places AMD on a steep long-term growth trajectory, led by the rapid scaling of our data center AI franchise from more than $5 billion of revenue in 2024 to tens of billions of dollars of annual revenue over the coming years," Su said on the earnings call with analysts.
+AMD categorizes its chips for PCs, laptops, and other individual computers as client revenue, which increased 58% on an annual basis to $2.3 billion. AMD said both its chips for desktops as well as mobile computers such as laptops are seeing strong demand.
+AMD is also the second-largest producer of GPUs for gaming, behind Nvidia. Revenue in the segment declined 59% to $563 million. The company's other small division, embedded chips, reported $923 million in sales, down 13% year-over-year.
+WATCH: AMD beats on Q4 results

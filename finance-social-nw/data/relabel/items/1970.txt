@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon says AWS Bahrain region ‘disrupted’ following drone activity
+The disruption marks the second time in a month that AWS operations have been affected by the Iran war.
+United States tech giant Amazon has said its Amazon Web Services (AWS) region in Bahrain was “disrupted” amid the current conflict in the Middle East, following Iran’s threats to target US offices and infrastructure run by top US companies.
+An Amazon spokesperson on Monday confirmed the disruption due to drone activity, the Reuters news agency reported, marking the second time in a month that the company’s operations have been affected by the war.
+Recommended Stories
+list of 3 items
+- list 1 of 3Where do reported US-Iran ‘negotiations’ leave Israel?
+- list 2 of 3Top EU official calls for negotiations with Iran and an end to war
+- list 3 of 3Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran
+Amazon did not immediately comment on whether its Bahrain facility was directly hit by a drone attack or if the disruption was due to nearby attacks.
+The company said it was helping to migrate customers to alternate AWS regions while it recovers, though it did not provide additional details such as the extent of the damage or how long it anticipates the disruption to last.
+“As this situation evolves and, as we have advised before, we request those with workloads in the affected regions continue to migrate to other locations,” Amazon told Reuters in a statement Monday night.
+AWS is Amazon’s cloud computing unit and is critical for the operation of many well-known websites and government operations. It is also the company’s main driver of profits.
+Earlier this month, AWS reported that facilities in Bahrain and the United Arab Emirates had lost power and that it was working to transfer computing workloads to other regions.
+Amazon said at the time that the Bahrain region was affected by a drone attack in proximity to one of its facilities. The attack on the UAE facility was the first time military action had disrupted a major US tech company’s data centre.
+These attacks come after Iran’s Islamic Revolutionary Guard Corps (IRGC) threatened on March 11 to attack “economic centres and banks” related to US and Israeli entities in the region.
+The IRGC-affiliated Tasnim news agency released a list of offices and infrastructure run by top US companies with Israeli links whose technology has been used for military applications, describing them as “Iran’s new targets”.
+The companies included Google, Microsoft, Palantir, IBM, Nvidia and Oracle, and the listed offices and infrastructure for cloud-based services have branches in multiple Israeli cities, as well as in several Gulf countries.
+US tech firms, including Amazon, have long worked to support the US military. According to its own website, AWS provides “a global infrastructure and secure, scalable, and mission-focused solutions that help the Department of Defense (DoD) meet mission”.
+Iran has claimed it is targeting US assets across the Gulf Arab states in retaliation for the joint attack on Iran by the US and Israel that began on February 28.
+Gulf states have said Iran’s claims of self-defence cannot justify missile attacks on neighbouring states and accuse Tehran of targeting civilian infrastructure such as airports and energy facilities.
+An Iranian attack knocked out 17 percent of Qatar’s LNG export capacity last week, further disrupting the energy market. Qatar is the world’s largest producer of LNG.

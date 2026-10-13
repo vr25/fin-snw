@@ -1,0 +1,25 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+You don't need a chest full of gold coins to build a PC that stands out from the crowd, and that's demonstrated perfectly by this witch house gaming PC, built by PC modder Peter Nefedov. There's no expensive water-cooling gear or high-end silicon - instead, the focus is on creating a model that Alice in Wonderland could explore after consuming a Drink Me potion.
+Thanks to our rapidly growing PC building Facebook page, we've seen many custom gaming PCs, from mods based on existing case designs to scratch PC builds. You can even submit yours for consideration right here. Here we chat to Peter about how he made this dollhouse PC build.
+So how did this witch house PC start? "I walked into a children's toy store and saw an aquarium in which a dollhouse was created," Peter says. "I was amazed, and thought 'why can't you do the same in a computer case?'"
+The result is a complete transformation of the interior of the Captain S. V7-DC mini-ITX case that Peter used for this build. It's difficult to believe there's a PC behind it all, but it's there, with the 92mm fan for the ID-COOLING IS27i CPU cooler placed behind the big circular design in the middle. You can see the PC before and after its makeover in the image below.
+Does that cause any problems with airflow? "The airflow is obstructed in two places," Peter admits. "It's hampered by a bedside table at the beginning of the case and a bookcase at the end. I left some space, but next time I'll think about improvements I can make."
+Thankfully, none of the components run particularly hot. There's a quad-core Intel Core i3-13100 under that CPU cooler, and a PNY Nvidia RTX A2000 workstation graphics card plugged into the MaxSun mini-ITX motherboard's single 16x PCIe graphics slot.
+"The components cost me about $700," Peter says. "The most expensive part was the graphics card, which I bought for $250 secondhand from another owner. It all came down to power consumption, otherwise I would have thought about more powerful components."
+Of course, the main attraction of this PC is the witch house itself, filled with furniture, trinkets, potions, and books. There's a nod to Alice in Wonderland with an Eat Me bottle on the top shelf, a broomstick and chest in the front, and a load of little books on the tiny shelves.
+Some of these parts were 3D-printed and painted, while others came from a more traditional source of miniature goodies. "I bought a dollhouse model and it was a pleasure to assemble it," Peter says. "Every detail was made to a high-quality standard, and wanted to be put on the shelf."
+Peter isn't entirely happy with the end result, though. "When I'd finished it, I realized that I had made a few mistakes,' he tells us. "I'd like to add another fan - a 40mm ARCTIC S4028-6K PWM model, to help cool the card." He also says he'd like to fix the shortcomings of the 3D models on the printer and optimize the airflow.
+One of the features we love about this build is the ability to turn on the lights, which have a homely yellow glow, rather than a garish RGB rainbow. You can see these in action in the video below, while taking a tour of the whole PC.
+Witch house PC specs
+- CPU: Intel Core i3-12100F
+- Motherboard: MaxSun Challenger H610
+- Memory: 16GB AMD Radeon R9 Gamer DDR4 3200MHz
+- Graphics card: PNY Nvidia RTX A2000
+- Storage: 1TB Gloway Basic SSD
+- Case: Captain S. V7-DC mini-ITX
+- Cooling: ID-COOLING IS-27i CPU cooler
+The approach to this witch house PC is so simple, but very effective. It takes a big step further from just putting an action figure in your PC, with loads of intricate details that make it look like a miniature witch's house - you can barely tell it's a PC any more.
+This post originally appeared on Custom PC, which has been covering amazing setups for over 20 years and is now part of PCGamesN. Join our nearly 500k member Facebook group to discuss this build.
+If you consider yourself to be an expert PC builder, you can submit your own custom PC build to us today for a chance of being featured on PCGamesN in the future.

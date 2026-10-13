@@ -1,0 +1,25 @@
+TICKER_A: AMD
+TICKER_B: GOOGL
+POST:
+By STAN CHOE, AP Business Writer
+NEW YORK (AP) — Wall Street slumped on Wednesday under the weight of pressure from the bond market, where Treasury yields climbed on worries about the U.S. government’s spiraling debt and other concerns.
+The S&P 500 fell 1.6% for a second straight drop after breaking a six-day winning streak. The Dow Jones Industrial Average lost 816 points, or 1.9%, while the Nasdaq composite sank 1.4%.
+Stocks had been drifting only modestly lower early in the day, after Target and other retailers gave mixed forecasts for upcoming profits amid uncertainty caused by President Donald Trump’s trade war. The market then turned sharply lower after the U.S. government released the results for its latest auction of 20-year bonds.
+The government regularly sells such bonds, which is how it borrows money to pay its bills. In this auction, the U.S. government had to pay a yield as high as 5.047% to attract enough buyers to lend it a total of $16 billion over 20 years.
+That helped push up yields for all kinds of other Treasurys, including the more widely followed 10-year Treasury. Its yield climbed to 4.59% from 4.48% late Tuesday and from just 4.01% early last month. That’s a notable move in the bond market.
+“Bonds finally appear to be getting equities’ attention,” according to Jonathan Krinsky, chief market technician at BTIG, pointing in particular to the 30-year Treasury yield, which jumped back above 5% and approached its highest level since 2023.
+Treasury yields have been on the rise in part because of concerns that tax cuts currently under consideration in Washington could pile trillions of more dollars onto the U.S. government’s debt. Concerns are also still brewing about how much Trump’s tariffs will push up on inflation in the United States.
+The U.S. government’s bonds aren’t alone, and yields have been on the rise recently for developed economies around the world. That’s partly because their governments are continuing to borrow more cash to pay their bills, while central banks like the Federal Reserve have cut back on their own holdings of government bonds.
+When the U.S. government has to pay more interest to borrow money, that can cause interest rates to rise for U.S. households and businesses too, including for mortgages, auto loans and credit cards. That in turn can slow the economy. Higher yields can also make investors less inclined to pay high prices for stocks and other kinds of investments.
+Moody’s Ratings became the last of the three major ratings agencies late last week to downgrade the U.S. government’s credit rating on concerns that it may be heading toward an unsustainable amount of debt.
+“We do not think that the downgrade matters by itself,” Bank of America strategists wrote in a BofA Global Research report, “but it has served as a wake up call for those investors who had been ignoring the ongoing fiscal discussion.”
+On Wall Street, Target sank 5.2% after the retailer reported weaker profit and revenue than analysts expected for the start of the year.
+The company said it felt some pain from boycotts by customers. It scaled back many diversity, equity and inclusion initiatives early this year following criticism by the White House and conservative activists, which drew its own backlash. Perhaps more worryingly for Wall Street, Target also cut its forecast for profit over the full year.
+Carter’s, which sells apparel for babies and young children, sank 12.6% after cutting its dividend.
+CEO Doug Palladini said the company made the move in part because of investments it anticipates making in upcoming years, as well as the possibility that it “may incur significantly higher product costs as the result of the new proposed tariffs on products imported into the United States.”
+All told, the S&P 500 fell 95.85 points to 5,844.61. The Dow Jones Industrial Average fell 816.80 to 41,860.44, and the Nasdaq composite dropped 270.07 to 18,872.64.
+A growing number of companies have recently said tariffs and uncertainty about the economy are making it difficult to guess what the upcoming year will bring. Others, including Walmart, have said they’ll have to raise prices to offset Trump’s tariffs.
+U.S. stocks had recently recovered most of their steep losses from earlier in the year after Trump delayed or rolled back many of his stiff tariffs. Investors are hopeful that Trump will lower his tariffs more permanently after reaching trade deals with other countries.
+In stock markets abroad, indexes were mixed amid mostly modest movements across Europe and Asia
+London’s FTSE 100 rose 0.1% after a report said inflation in the United Kingdom spiked to its highest level for more than a year in April. Tokyo’s Nikkei 225 fell 0.6% after a report said Japan’s exports have slowed due to tariffs
+AP Business Writers Matt Ott and Elaine Kurtenbach contributed.

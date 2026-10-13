@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The owner of the shuttered Three Mile Island US nuclear power plant said that it plans to restart the reactor under a 20-year agreement that calls for tech giant Microsoft to buy the power to supply its data centres with carbon-free energy.
+The announcement by Constellation Energy on Friday comes five years after its then-parent company Exelon shut down the plant, saying it was losing money and that Pennsylvania legislators had refused to subsidise it.
+The plan to restart Three Mile Island’s Unit 1 comes amid something of a renaissance for nuclear power, as policymakers are increasingly looking to it to bail out a fraying electric power supply, help avoid the worst effects of climate change and meet rising power demand driven by data centres.
+The plant, on an island in the Susquehanna River just outside Harrisburg, was the site of the nation’s worst commercial nuclear power accident, in 1979.
+The accident destroyed one reactor, Unit 2, and left the plant with one functioning reactor, Unit 1.
+Buying the power is designed to help Microsoft meet its commitment to be “carbon negative” by 2030.
+Microsoft would not say which of its data centres will be powered by the nuclear plant, but the mid-Atlantic electricity grid spans from Virginia, a data centre hub for Microsoft and other tech giants, to Ohio where Microsoft has plans for a new data centre complex outside Columbus.
+Constellation said it hopes to bring Unit 1 online in 2028.
+Restarting the reactor will require approval from the US Nuclear Regulatory Commission, as well as permits from state and local agencies, Constellation said.
+To restart Unit 1, Constellation will spend 1.6 billion dollars (£1.2 billion) to restore equipment including the turbine, generator, main power transformer and cooling and control systems.
+It is not currently seeking state or federal subsidies to help, it said.
+Microsoft and Constellation did not release terms of their agreement.
+Jacopo Buongiorno, a nuclear science and engineering professor and director of MIT’s Centre for Advanced Nuclear Energy Systems, said Microsoft will likely pay above market price for electricity that is both carbon-free and reliable.
+Restarting the plant is realistic, but not easy, Mr Buongiorno said.
+“It all depends on what’s the state of the components, the systems,” he said.
+The process will go fairly smoothly if they were maintained well while it was shut down, Mr Buongiorno said.
+A Constellation spokesperson said the plant itself is in excellent condition.
+Constellation’s announcement comes after a wave of coal-fired and nuclear power plants have shut down in the past decade as competition from cheap natural gas flooded power markets.
+That has elicited warnings that the US is facing an electric reliability crisis.
+Meanwhile, demand is fast-growing from data centres run by tech giants like Meta, Amazon, Microsoft and Google to provide cloud computing and digital services such as artificial intelligence systems.
+The Constellation-Microsoft agreement also comes amid a push by the Biden administration, states and utilities to reconsider using nuclear power to try to limit plant-warming greenhouse gas emissions from the power sector.
+Last year, Georgia Power began producing electricity from the first American nuclear reactor to be built in decades, after the accident at Three Mile Island froze interest in building new ones.
+Before it was shut down in 2019, Three Mile Island’s Unit 1 had a generating capacity of 837 megawatts, which is enough to power more than 800,000 homes, Constellation said.
+The destroyed Unit 2 is sealed, and its twin cooling towers remain standing.
+Its core was shipped years ago to the US Department of Energy’s Idaho National Laboratory.
+What is left inside the containment building remains highly radioactive and encased in concrete.

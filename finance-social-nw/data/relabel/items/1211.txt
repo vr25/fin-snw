@@ -1,0 +1,10 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Technology stocks powered to new highs on Wednesday as the tech-heavy Nasdaq Composite rallied 1% and investors poured into key software and megacap players.
+The Technology Select Sector SPDR Fund (XLK) advanced 1.8%, rallying for its fourth straight day since mid-October and knocking out its previous high touched in July.
+The rally came amid a bounce in key software players, with Salesforce popping more than 9% after reporting strong earnings after the bell Tuesday. Adobe climbed 4%, and ServiceNow jumped more than 5%. GoDaddy, Oracle and Palo Alto Networks gained about 3% each.
+Watch NBC 4 free wherever you are
+Mainstay megacap technology stocks also rallied, with Apple inching higher by 0.2% to a new record. Nvidia outperformed among the Magnificent Seven names, jumping more than 3%, while Amazon rose more than 2%. Alphabet and Microsoft rose at least 1% each. Meta Platforms, on the other hand, was flat.
+Marvell Technology was another significant gainer, surging 23% on the heels of a solid quarter. Within the semiconductor space, Broadcom and Arm Holdings added more than 1% and 0.7%, respectively.
+Other technology funds notching new highs included the First Trust Cloud Computing ETF (SKYY) and iShares Expanded Tech-Software Sector ETF (IGV).

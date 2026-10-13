@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+COLOGNE: Online translation platform DeepL says it launching an AI assistant that, unlike ChatGPT and other rival AI chatbots, is designed to support the writing process with real-time suggestions on word choice, phrasing, style and tone.
+The German software company says its new assistant allows users to optimise their texts regardless of their language skills and find the right words for any situation and any reader.
+Already a subscriber? Log in
+Get 20% OFF The Star Digital Access
+Cancel anytime. Ad-free. Unlimited access with perks.
+		Follow us on our official WhatsApp channel  for breaking news alerts and key updates!
+    
+Thank you for your report!

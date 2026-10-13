@@ -1,0 +1,82 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+In 2007, Fortune magazine reimagined a classic mafia scene with a Silicon Valley twist: 13 male founders and early employees of PayPal, all long gone from the company, posed at a San Francisco café with slicked-back hair, poker chips and dozens of whiskey glasses. The crowd included some of the most recognizable names in today’s tech scene, like Elon Musk, Peter Thiel and Reid Hoffman. The magazine dubbed them the “PayPal mafia,” not for their time at the fintech company, but for their outsized impact on Silicon Valley through the companies they launched afterward.
+PayPal went public in early 2002 and was acquired by eBay for $1.5 billion the same year. Most of its early employees left the company after the acquisition. They went on to found YouTube, SpaceX and LinkedIn, among other legendary names in Silicon Valley. However, like their cinematic namesake, the group hasn’t avoided controversy. These former colleagues have built billion-dollar businesses while also finding themselves in the crosshairs of public criticism.
+For instance, Thiel has faced controversy over his political affiliations and, most notably, for funding Hulk Hogan’s 2012 lawsuit against Gawker Media with $10 million — a case that ultimately drove the online media company into bankruptcy. Musk has also faced criticism for his takeover of Twitter and his prior role in the Trump administration, where he led widespread federal employee firings.
+Here’s what they are up to these days:
+Peter Thiel: venture capitalist
+- Position at PayPal: co-founder, CEO from 1998 to 2002
+- Companies later founded: Palantir, Clarium Capital, Founders Fund, Valar Ventures, Mithril Capital
+- Net worth: $26 billion
+Peter Thiel, Max Levchin and Luke Nosek founded PayPal in 1998, originally as a software security company. After merging with Elon Musk’s X.com (unrelated to the social media platform he owns today), PayPal shifted its focus to digital payments.
+Thiel served as CEO from 1998 until 2002, leaving after the company was sold to eBay. He then co-founded Palantir Technologies, a major U.S. government contractor providing data analytics services. The company now has a market capitalization of $439 billion.
+Thiel is also known as a prolific angel investor. He co-founded Clarium Capital, Founders Fund, Valar Ventures and Mithril Capital. In 2004, Thiel became Facebook’s first outside investor after acquiring a 10.2 percent stake in the company for $500,000.
+Thiel is among the many former PayPal employees who have entered political and high-profile public arenas. An active donor to the Republican Party, Thiel supported Donald Trump’s 2016 presidential campaign but withheld donations during the 2024 election. He is also credited with helping JD Vance reach the Vice Presidential ticket.
+Elon Musk: entrepreneur, the world’s richest person
+- Position at PayPal: co-founder, CEO from February 2000 to September 2000
+- Companies later founded: Tesla, SpaceX, The Boring Company, Neuralink, xAI
+- Net worth: $482 billion
+Elon Musk briefly served as PayPal’s CEO before being ousted by the board in 2000. He went on to build one of the most influential portfolios in technology, spanning electric vehicles, space exploration, social media and A.I.
+Musk founded SpaceX in 2002 and has led Tesla since 2008. He also founded Neuralink and The Boring Company, expanding his reach into brain-computer interfaces and infrastructure. In 2022, Musk gained global attention for acquiring Twitter for $44 billion, later rebranding it as X.
+His ties to A.I. run deep: Musk co-founded OpenAI with Sam Altman in 2015 but left in 2018 over strategic disagreements. In 2023, he returned to the field by launching xAI, a research venture focused on building A.I. that is more understandable for humans.
+Today, Musk is the richest person in the world, with an estimated net worth of $400 billion. He is also perhaps the only PayPal alumnus to ascend into direct political influence. During the Trump administration, he led the Department of Government Efficiency (DOGE)—a name shared with his cryptocurrency venture—before stepping down in May after clashing publicly with the President.
+Max Levchin: computer scientist
+- Position at PayPal: co-founder, chief technology officer from 1998 to 2002
+- Companies later founded: Affirm
+- Net worth: $1.8 billion
+As PayPal’s chief technology officer, Max Levchin helped lead the company’s anti-fraud efforts by co-creating the Gausebeck-Levchin test—the foundation for the widely used CAPTCHA security tool. After leaving PayPal, he launched the media-sharing platform Slide in 2004, which was acquired by Google in 2010. Levchin briefly served as Google’s vice president of engineering until Slide was shut down the following year.
+In 2012, he co-founded Affirm, a leading “buy now, pay later” (BNPL) company, where he continues to serve as CEO. Today, Affirm has a market capitalization of $27.5 billion, with 21.9 million consumers and more than 350,000 merchant partners on its platform.
+Levchin has also held board positions at Yahoo and Yelp. In 2015, he became the first Silicon Valley executive appointed to the U.S. Consumer Financial Protection Bureau’s advisory board, emphasizing the importance of collaboration between companies and regulators.
+Reid Hoffman: entrepreneur, investor
+- Position at PayPal: chief operating officer
+- Companies later founded: LinkedIn, Greylock Partners
+- Net worth: $2.5 billion
+Before joining PayPal, Hoffman worked as a senior user experience architect at Apple, contributing to the company’s online social network eWorld. He later became director of product management at Fujitsu. After his online dating startup, SocialNet, folded, Hoffman joined PayPal in 2000 as chief operating officer.
+In 2003, he co-founded the career networking site LinkedIn. Following Microsoft’s $26.2 billion acquisition of LinkedIn in 2017, Hoffman joined Microsoft’s board, a move that greatly increased his wealth.
+Over the years, Hoffman has served on the boards of Airbnb and OpenAI, where he was also an early investor. Through the venture capital firm Greylock Partners, he has backed dozens of A.I. startups. In 2022, he co-founded Inflection AI with Mustafa Suleyman, who now serves as CEO. Earlier this year, he teamed up with cancer researcher Siddhartha Mukherjee to launch Manas AI, a startup focused on drug discovery.
+David Sacks: investor, White House A.I. and Crypto Czar
+- Position at PayPal: chief operating officer from 1999 to 2002
+- Companies later founded: Craft Ventures
+- Net worth: $200 million
+Since leaving PayPal, David Sacks has built a career spanning film, tech, investing and politics. In 2005, he produced and financed a political satire that earned two Golden Globe nominations. The following year, he founded Geni.com, a genealogy-focused social network that later spun off Yammer, one of the earliest enterprise social networking platforms. He went on to co-found Craft Ventures, the startup Glue, and the podcast platform Callin.
+Today, Sacks serves as the White House’s Special Advisor for A.I. and Crypto, a role created by the Trump administration to guide policy on artificial intelligence and cryptocurrency.
+Jeremy Stoppelman: engineer, Yelp CEO
+- Position at PayPal: vice president of engineering
+- Companies later founded: Yelp
+- Net worth: $100 million
+Jeremy Stoppelman joined Musk’s X.com in 1999 and became vice president of engineering after its transition to PayPal. In 2004, he co-founded Yelp, where he has served as CEO ever since. Under his leadership, the company turned down a 2010 acquisition offer from Google and went public two years later. Stoppelman’s net worth is estimated at more than $100 million.
+Ken Howery: investor, U.S. ambassador
+- Position at PayPal: chief financial officer from 1998 to 2002
+- Companies later founded: Founders Fund
+- Net worth: estimated $1.5 billion
+Ken Howery served as PayPal’s chief financial officer from 1998 to 2002. After PayPal’s sale to eBay, he became eBay’s director of corporate development until 2003. He later joined Peter Thiel at Clarium Capital as vice president of private equity and went on to co-found Founders Fund as a partner. Beyond investing, he is a member of the Explorers Club, a nonprofit dedicated to scientific exploration, and an advisor to Kiva, the micro-lending nonprofit founded by former PayPal colleague Premal Shah.
+Howery is also among the former PayPal executives who have moved into politics. He has donated at least $1 million to Donald Trump’s campaign through Elon Musk’s political action committee. During Trump’s first term, Howery was appointed U.S. ambassador to Sweden and today serves as the U.S. ambassador to Denmark.
+Roeloth Botha: venture capitalist
+- Position at PayPal: chief financial officer from 2001 to 2003
+- Net worth: $300 to $400 million
+Roelof Botha joined PayPal as director of corporate development shortly before graduating from Stanford University. He later became vice president of finance and went on to serve as chief financial officer until the company’s acquisition by eBay.
+After leaving PayPal, Botha joined Sequoia Capital, where he oversaw investments in YouTube and Instagram. He currently sits on the boards of MongoDB, Evernote, Bird, Natera, Square, Unity and Xoom.
+Russel Simmons: entrepreneur
+- Position at PayPal: software architect from 1998 to 2003
+- Companies later founded: Yelp, Learnirvana
+Russel Simmons helped design PayPal’s payment system as a software architect. After leaving the company, he and fellow PayPal alum Jeremy Stoppelman set out to build a platform for restaurant reviews. With a $1 million investment from Max Levchin, they launched Yelp in July 2004. Simmons served as chief technology officer until his departure in 2010. At the time, Yelp said he would remain a “significant” shareholder, though the size of his stake—and whether he still holds it—remains unclear.
+In 2014, Simmons co-founded Learnirvana, an online learning platform.
+Andrew McCormack: entrepreneur
+- Position at PayPal: assistant to Thiel from July 2001 to November 2002
+- Companies later founded: Valar Ventures
+Andrew McCormack began his career as an assistant to Peter Thiel at PayPal and followed him into subsequent ventures. From November 2002 to April 2003, he oversaw operations at Thiel’s hedge fund, Clarium Capital.
+In 2010, McCormack co-founded Valar Ventures with Thiel and James Fitzgerald, focusing on fintech investments. He remains a general partner at the firm.
+Luke Nosek: investor
+- Position at PayPal: co-founder and vice president of marketing and strategy from 1998 to 2002
+- Companies later founded: Founders Fund, Gigafund
+In 2005, Luke Nosek joined Peter Thiel and Ken Howery to launch Founders Fund, a San Francisco–based venture capital firm that has backed companies such as Airbnb, Lyft and SpaceX. While his exact net worth is unclear, Nosek has made substantial investments through his venture firms. At Founders Fund, he led one of the firm’s earliest major deals with a $20 million investment in SpaceX, later serving on its board.
+In 2017, Nosek left to co-found Gigafund, which went on to invest $1 billion in SpaceX, according to the company. He also sits on the board of ResearchGate.
+Premal Shah: entrepreneur
+- Position at Paypal: product manager
+- Companies later founded: Kiva
+Three years after leaving PayPal, Premal Shah co-founded Kiva, a nonprofit that provides loans to entrepreneurs in underserved communities worldwide. He also serves on the boards of other nonprofits, including the Center for Humane Technology, the Change.org Foundation, Watsi and VolunteerMatch.
+Keith Rabois: investor
+- Position at PayPal: executive vice president of business development
+After leaving his executive role at PayPal, Keith Rabois became an active investor, backing companies including Slide, YouTube and Palantir. He also invested in LinkedIn, where he served as vice president of business and corporate development, and Square, where he was chief operating officer.
+Rabois joined venture capital firm Khosla Ventures from 2013 to 2019 and was a partner at Founders Fund from 2019 to 2024.

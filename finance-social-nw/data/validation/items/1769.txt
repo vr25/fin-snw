@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Investing.com -- Apple Inc (NASDAQ:AAPL) announced Monday that John Giannandrea, senior vice president for Machine Learning and AI Strategy, will step down from his position and serve as an advisor before retiring in spring 2026.
+The tech giant also revealed that Amar Subramanya has joined Apple as vice president of AI, reporting to Craig Federighi. Subramanya will lead Apple Foundation Models, ML research, and AI Safety and Evaluation.
+Giannandrea's remaining organization will be redistributed to Sabih Khan and Eddy Cue to align with similar departments. Since joining Apple in 2018, Giannandrea has built the team responsible for Apple Foundation Models, Search and Knowledge, ML Research, and AI Infrastructure.
+Subramanya brings extensive experience from his previous role as corporate vice president of AI at Microsoft. Before that, he spent 16 years at Google, where he headed engineering for Google's Gemini Assistant.
+"We are thankful for the role John played in building and advancing our AI work, helping Apple continue to innovate and enrich the lives of our users," said Tim Cook, Apple's CEO. "AI has long been central to Apple's strategy, and we are pleased to welcome Amar to Craig's leadership team."
+The leadership changes come as Apple faces criticism for its perceived late entry into the generative AI race compared to competitors like OpenAI, Google, and Microsoft. The company has also experienced delays in rolling out promised Apple Intelligence capabilities from 2024.
+Federighi, who will now have expanded AI responsibilities, has been "instrumental in driving our AI efforts, including overseeing our work to bring a more personalized Siri to users next year," according to Cook.
+Apple stock is trading near flat in the aftermarket Monday.
+Related articles
+Apple AI chief Giannandrea to step down as company reshuffles leadership
+17 Undervalued Small-Cap Tech Stocks Primed to Outperform in Q4
+Silver's Bullish Pattern Points Higher — Keep an Eye on $52 Resistance Zone

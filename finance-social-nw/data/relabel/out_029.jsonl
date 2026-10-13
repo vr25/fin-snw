@@ -1,0 +1,20 @@
+{"id": "0580", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "December 29, 2023 There's no doubt", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0581", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0582", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0583", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0584", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0585", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0586", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Magnificent Seven stocks —", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0587", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Shares of semiconductor companies closed", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "0588", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "This Week in History by", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0589", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A senior TikTok employee has", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "0590", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft has announced the biggest", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0591", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The artificial intelligence (AI) revolution,", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0592", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "According to Google, the search", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0593", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Why we need to break", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0594", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Why we need to break", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0595", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Why we need to break", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0596", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Wall Street rallied Monday to", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0597", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Researchers at Microsoft and the", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "0598", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A barrage of high-profile lawsuits", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0599", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A barrage of high-profile lawsuits", "relation": "co-hype", "sentiment_alignment": 0.0}

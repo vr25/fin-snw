@@ -1,0 +1,50 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Good afternoon, good evening or good morning everyone, today we’re gonna spin a yarn about a guy who’s climbing the ladder to join the ranks of tech legends like Bill Gates, Elon Musk, and Steve Jobs.
+The man I’m talking about is of course Sam Altman; the fearless captain steering the ship that is OpenAI.
+Sam had humble beginnings in St. Louis, Missouri. From the days of creating a location based social network app that eventually was shuttered, to creating the leading technology in a space that could change our world faster than any technology ever.
+Today were going to get into Sam’s background and also his frien-emy relationship with Elon Musk.
+Early life: Coding and self-discovery
+Sam Altman’s rapid rise in the tech world can be traced back to his humble beginnings in the Midwest.
+Growing up gay in St. Louis, Missouri wasn’t exactly a walk in the park, but the internet became his refuge—a haven where he could connect with others who understood his experiences.
+As the story goes, he received a personal computer at the age of 8, which was a life-changing event that would spark an insatiable thirst for knowledge and discovery. It was then that he realized the power of technology to transform lives, propelling him on a quest to make computers “learn to think.”
+Loopt and Hydrazine Capital: Altman’s ventures before OpenAI
+Those early days tinkering with computers eventually led him to a short stint at Stanford University, where he and two of his classmates dropped out to work on their mobile app, Loopt.
+The year was 2005, and Altman, just 19, was about to embark on a wild ride. Loopt, one of the first location-based social networking apps, found its way into the hearts and smartphones of college students, garnering millions in funding and reaching a valuation $175 million.
+Not too shabby for a college dropout, huh?
+Despite Loopt’s early success, it struggled to maintain momentum and was eventually sold to Green Dot Corporation for $43.4 million in 2012. Which was a similar value to all the money the company raised since their inception.
+It was around this time that Sam dove headfirst into the world of angel investing, putting his money behind winners like Airbnb, Stripe, and Reddit. He even founded his own venture fund, Hydrazine Capital, raising a cool $21 million.
+He dabbled with a cryptocurrency called Worldcoin. The stock chart screams four time pump and dump champion, while the website states that WorldCoin is in fact the 9th longest running blockchain in the world.
+Y Combinator: Altman’s ascent to the presidency
+Going back to Loopt, one of their earliest investors was a sort of startup venture fund called Y Combinator. Sam participated in the startup accelerator’s first-ever class, a sort of experimental summer camp for tech-savvy entrepreneurs. It didn’t take long for Altman to charm Y Combinator co-founder, Paul Graham, who initially advised him to wait a year before joining. But Sam, ever determined, insisted on diving right in.
+Sam eventually returned to Y Combinator as a part-time partner.
+Fast-forward to 2014, Sam was elected president of Y Combinator, launching it into a new era of sky-high ambitions. Under his leadership, the accelerator became a launching pad for wildly successful companies like Dropbox, Instacart, and DoorDash. Altman, always on the lookout for the next big thing, expanded YC’s reach into the realm of hard-tech startups, even dabbling in nuclear-energy ventures.
+In 2015, he launched Y Continuity, a $700 million growth-stage equity fund for YC companies, and donated $10 million to establish a not-for-profit research lab called Y Combinator Research.
+Mark Andreessen, the co-founder of venture capital firm Andreessen Horowitz, noted that under Sam’s guidance, “the level of YC’s ambition has gone up 10x.”
+Co-founding with Elon Musk and initial vision
+Then in 2015, a veritable “who’s who” of Silicon Valley, including Sam Altman, Elon Musk, Reid Hoffman, and Peter Thiel, banded together to form OpenAI. They pledged a whopping $1 billion to the project, which aimed to “freely collaborate” with other institutions and researchers by sharing its patents and research with the public.
+Everything seemed hunky-dory, with Musk taking on various roles, including chairman, CEO, part-time CTO, and even a spot on the board of advisors. Surely, nothing could go wrong, right? Enter 2018, when Musk got a serious case of FOMO.
+Worried that OpenAI was lagging behind Google, he reportedly offered to take direct control of the company and run it himself. But Altman and another original co-founder, Greg Brockman, gave him a resounding “thanks, but no thanks.”
+Musk didn’t take it well, resigning from OpenAI’s board and selling his stake to Microsoft. According to Semafor, he even reneged on his promise to supply $1 billion in funding, contributing a mere $100 million before he made his grand exit.
+The Great Shift: OpenAI’s transition from non-profit to for-profit
+In 2019, as the non-profit was entering their 4th year, Sam was asked at a StrictlyVC event:
+How does the company make a profit?
+Altman had a refreshingly honest answer saying: “We have no idea.”
+At the time, OpenAI had never made any revenue, and they had no plans to start. Fast-forward to later that same year, and OpenAI transformed into a “capped” for-profit model. Capping profits at a mere 100 times any investment.
+The idea behind this model was that the non-profit needed significant capital to move forward, and by allowing OpenAI LP to legally attract venture capital and grant employees stakes in the company they could achieve this. And if wildly successful, the company could revert back to a non-profit down the road.
+With equity distribution for employees and a $1 billion investment package from Microsoft, OpenAI dove headfirst into the commercial licensing of its technologies. But not everyone was convinced.
+To ensure the world wouldn’t descend into chaos, OpenAI Inc., the nonprofit, became the sole controlling shareholder of OpenAI LP. The for-profit company retains a formal fiduciary responsibility to the nonprofit’s charter, with a majority of OpenAI Inc.’s board unable to have financial stakes in OpenAI LP.
+We can call it a creative and bizarre structure. One where, according to Semafor, Sam Altman doesn’t even own an equity stake this startup. Of course, not everyone was happy with this structure. In February 2023 Elon tweeted out:
+And then a month later tweeted:
+ChatGPT: A bold and controversial release
+To give context on why Elon was so upset, in part it must have had to do with the overall success of ChatGPT. In the fall of 2022, ChatGPT burst onto the scene.
+As a prototype, ChatGPT Beta was designed to gather feedback on its strengths and weaknesses. The traction was unbelievable. With over a million users in just five days, ChatGPT became the talk of the town.
+Despite headlines in the media that ranged from The Atlantic’s “ChatGPT Is Dumber Than You Think” to The New York Times’ “The Brilliance and Weirdness of ChatGPT.” It became clear early on the public would have a love-hate relationship with the AI chatbot.
+To keep the party going, OpenAI began testing a paid version called “ChatGPT Professional” for $20/month. The subscription services would give users the ability to jump the queue during busy times and early access to ChatGPT 4.
+In conclusion
+But the big debate in the public eye has turned to what kind of a monster could AI become as it evolves? When Sam Altman and Elon Musk co-founded OpenAI back in 2015, their mission was to ensure AI wouldn’t go rogue and pull a “Terminator” on humanity.
+Quite the noble goal, considering the endless dystopian possibilities that AI could unleash. Altman, the eternal optimist, believes that technology does far more good than harm, but also admits the future is as unpredictable as a game of roulette with a drunk dealer.
+Altman envisions a utopian world where Artificial General Intelligence benefits all of humanity, turbocharging the global economy and freeing us from mundane tasks, so we can finally write that screenplay or learn interpretive dance. Compensating for the jobs lost to AI, universal basic income could be the cherry on top of this sci-fi sundae.
+In fact, Altman imagines a world where we’re so in love with AI that advanced chatbots become extensions of our very own will – how’s that for a plot twist? That concludes our look into the history of Sam.
+Information for this briefing was found via Wall Street Journal, Crunchbase, Reuters, and the sources mentioned. The author has no securities or affiliations related to this organization. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.

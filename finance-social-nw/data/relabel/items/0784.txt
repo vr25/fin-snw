@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+I’m always taking notes. Whether it’s for a book I’m writing, an idea for a book to be written, an item I need to add to a shopping list, or just about anything else that pops to mind, I turn to my Android phone to jot things down.
+Without a good note-keeping app, I’d have a heck of a time remembering those all-too-important ideas or thoughts I need to keep track of.
+Also: Drowning in spam? Stop giving out your email address – do this instead
+More from ZDNET
+There’s a plethora of note-taking apps on the Google Play Store, but the five below rise above the rest for me, and there’s one that I turn to most.
+1. Google Keep
+This is my go-to. The reasons for that are many. For example, there’s the fact that it’s a part of the Google ecosystem, so it can work in conjunction with other apps (such as Google Docs). I can also easily collaborate on a note with others.
+Also: 5 ways I use Google Keep for maximum productivity
+Google Keep also allows me to take voice notes, drawings, add reminders, use minimal formatting, take photos for notes, archive notes, tag notes, keep lists, and more. But the thing I like best about Google Keep is its simplicity.
+With some note-taking apps, the features can get in the way. Google Keep has found the sweet spot between included features and ease of use. You can open Google Keep for the first time and immediately understand how it works. There’s no need for an initial walk-through or even the slightest bit of help…it’s that easy.
+Although it might not have the features of, say, Apple Notes, Google Keep does a perfectly good job of keeping all of my thoughts, ideas, and lists in check.
+Google Keep is free and can be installed from the Google Play Store.
+2. MS OneNote
+I’ve never been a big fan of Microsoft Software, but I have to admit MS OneNote is a fine note-taking app. OneNote allows you to take traditional notes, voice notes, photos, and drawings. There is a nice feature found in OneNote that I wish Google would consider for Keep, and that’s Notebooks.
+Also: This Linux distro is so Windows-like, it even comes with Microsoft apps
+With Notebooks, you can create a notebook and collect related notes within. This is a great way to keep your notes organized, without having to scroll through tags or search for titles. I can create notebooks for Book Ideas, Script Ideas, ZDNET, Chores, Shopping, Videos, and more.
+And, like Keep, I can also sign into the web version of OneNote, so I can work with my notes, whether I have my Android phone or not. The only ding against OneNote is that creating a simple note does require a few more taps than it should. Unlike with Keep, I can’t open the app and immediately start taking a note. With OneNote, it might take you an extra tap to get started. Even so, having the Notebooks feature makes OneNote a contender to overtake Keep at some point.
+MS OneNote is available for free on the Google Play Store.
+3. ColorNote Notepad Notes
+ColorNote is friendly. With ColorNote you can take notes with ease. And even though you’re a bit more limited than you would be on the other apps (you can only create notes and checklists), this app does include a feature that makes it so easy that you’d wish all the other apps would consider the option.
+Also: The best smart notebooks: Expert tested and reviewed
+With ColorNote, you can apply colors to notes to make them easier to find. For example, you could make all of your shopping lists green, all of your book ideas black, all of your random thoughts orange, all of your school notes blue, etc. Once you’ve color-coded your notes, tap a color and only those notes will appear.
+If you opt to sign in (which you can do with your Google account), you also gain the feature of locking notes and online sync, as well as a home screen widget. ColorNote also includes the ability to share notes, either via a link or QuickShare (formerly Nearby Share).
+ColorNote is free and can be installed from the Google Play Store.
+4. Evernote
+Although Evernote has fallen from its peak of popularity, it’s still an outstanding note-taking application. With Evernote, you can add standard notes, photos, sketches, and audio notes. You can add either notes or tasks. You can also share notes via link, invitation (for collaboration), or email.
+Also: How to use Google’s AI-powered NotebookLM to organize your research
+Evernote also includes a tagging system (so you can categorize your notes), reminders, the ability to pin a note to Home (of the Evernote app, not your Android home screen), and a widget you can add to your home screen. There are other widgets (think of them as plugins) you can add to Evernote, such as a Calendar, Filtered Notes, Notebooks, and more. When you add new widgets, they show up on the Evernote home page. I, for one, consider the Notebooks widget a must-have.
+Evernote can be installed on Android for free from the Google Play Store. The free plan limits you to 50 notes and 1 notebook. If you need more than that, the Personal plan gives you 100,000 notes and 1,000 notebooks and costs $10.83/month.
+5. Notion
+If you want real power in your note-taking app, look no further than Notion. What sets this app apart from the others is the sheer amount of information you can add to your notes. Not only can you add icons, covers, descriptions, labels, attachments, due dates, but you can also add pages to each note, which means every note can have sub-notes. For instance, I created a note called Books To Be Written. Within that note, I can then add a new page for every book in the planning stages. Pages can include comments, custom properties, and more.
+Also: OpenAI rolls out Canvas to all ChatGPT users – and it’s a powerful productivity tool
+Notion is the note-taking app you want for complex notes. Yes, you can use Notion as a simple note-taking app but know that it’s capable of so much more. There are also templates you can use to create various workspaces.
+The one caveat to using Notion is the learning curve. It can be a rather complex app to learn, but if you need real power for your note-taking tasks, Notion is what you want.
+Notion is free to install and use from the Google Play Store.
+If you’re like me, a note-taking app is essential and, without a handy solution, those brilliant ideas and thoughts could be whisked away on a lazy spring breeze without warning. Fortunately, any one of these note-taking apps can do the job of keeping your ideas and lists always at the ready.

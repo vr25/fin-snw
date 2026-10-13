@@ -1,0 +1,22 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+Dell Technologies has introduced Dell PowerStore Elite, a new class of its modern storage platform engineered to increase performance and efficiency. Combining software innovation with a refreshed hardware architecture, PowerStore Elite supports block, file, virtual machines, and container workloads. It features mixed-generation clustering, allowing current customers to integrate the new platform without operational disruption.
+Market Context
+The platform addresses critical IT challenges, including rapid data growth, expanding AI workloads, and escalating cyber threats. Additionally, global flash supply volatility has placed new pressure on infrastructure planning. PowerStore Elite aims to help enterprises modernize their storage infrastructure while minimizing operational complexity and risk.
+Software-Driven Advancements
+The platform’s updated software provides up to three times the performance and throughput of previous generations. Key advancements include:
+- Media Optimization: It delivers enterprise-class performance on both TLC and QLC media. A new Autonomous Data Path intelligence system applies machine learning to optimize performance, while log-structured metadata extends drive endurance.
+- Efficiency and Visibility: Enhanced compression and unaligned deduplication increase usable capacity without impacting workloads. New I/O-level telemetry provides deep operational visibility, serving as the foundation for future security features, while metadata acceleration serves reads up to 70% faster.
+Next-Generation Hardware
+PowerStore Elite utilizes Intel Xeon Scalable processors with up to 50% more CPU cores, DDR5 memory, PCIe Gen 5, and a 200Gb RDMA node interconnect. Available in three models—the 1500, 5500, and 9500—the system fits up to 40 drives and 5.8 petabytes of effective capacity into a single 3U chassis.
+By using industry-standard E3 NVMe flash rather than proprietary media, the platform triples previous densities while avoiding vendor lock-in. Connectivity includes up to 40 network ports supporting 64Gb Fibre Channel and 200/400Gb Ethernet.
+Data Reduction and Lifecycle Support
+Dell has elevated its data reduction guarantee to an industry-best 6:1 ratio through improved data path efficiency and hardware-assisted compression. To protect customer investments, new systems cluster seamlessly with older PowerStore models to enable zero-downtime data migration. An updated Lifecycle Extension (LCE) program offers data-in-place upgrades, a dedicated technical advisor, and promotional capacity expansions.
+Embedded AI and Security
+Built-in AI features automate up to 95% of manual operations, balancing workloads and tuning performance in real time. For fleet-wide management, Dell AIOps uses predictive analytics to resolve issues up to 10 times faster. For enhanced security, Dell Cyber Detect integrates byte-level, AI-powered ransomware detection directly into the array, identifying clean data copies with 99.99% accuracy to ensure rapid recovery.
+Cloud Integration
+PowerStore Elite serves as a foundation for private clouds, supporting stacks from Broadcom, Microsoft, Nutanix, and Red Hat. It also offers flexible replication across Ethernet and Fibre Channel to ensure seamless data mobility between on-premises systems and multicloud environments.
+Availability
+- Dell PowerStore Elite: Globally available in July 2026.
+- Dell Cyber Detect for PowerStore: Available in Q3 2026.

@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Summary
+- Microsoft is testing a new feature which allows Xbox players with Game Pass Ultimate to stream games they own.
+- The feature, called "Stream your own game," is currently being tested by Xbox Insiders, with a wider launch expected next year.
+- Xbox players can view which titles they own are compatible for streaming in their game library, or by visiting Xbox's website.
+The installation size of new games nowadays is getting a bit out of hand, with most new triple AAA titles being well over 100GB in file size -- looking at you Call of Duty: Black Ops 6. If you want to quickly jump into a new game without having to install 100GB, Microsoft is cooking up a solution you may be interested in.
+Microsoft is rolling out a new feature today that allows Xbox Insiders who subscribe to Game Pass Ultimate to cloud stream select games they own on their console. The feature is dubbed "Stream your own game" and is available on Xbox Series X/S and Xbox One consoles. Support for streaming from the Xbox App on PC is "coming in the future."
+"This allows you to play games through streaming, saving you time and hard drive space, and offers access to your games with Xbox Cloud Gaming (Beta)." Microsoft said in a blog post.
+How to stream your own game on Xbox
+Jump into a compatible game in seconds
+It's important to note this feature is still in testing and only available to Xbox Insiders at the moment, with a full launch expected early next year. A list of games that support the feature is available on Xbox's website. There are some great titles available to stream, like Cyberpunk 2077, The Witcher 3: Wild Hunt, Star Wars: Outlaws and my personal favorite, Baldur's Gate 3.
+To stream a game you already own on Xbox, head over to My games & apps > Full Library > Owned Games. If any games you own are compatible with streaming from the cloud, you'll see a cloud badge on the game. Alternatively, if you have a lot of games and want to narrow down specifically which ones are eligible for cloud streaming, go to Filter > Ready to Play > Cloud gaming.
+Last month, Microsoft announced it was starting to let Xbox players stream select games they own to their TVs, smartphones, tablets and PCs via a web browser too. Xbox is also planning to launch a game store on its mobile app for Android. However, its unclear when this will happen due to ongoing court proceedings in Epic v. Google.

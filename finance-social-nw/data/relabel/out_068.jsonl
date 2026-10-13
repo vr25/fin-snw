@@ -1,0 +1,20 @@
+{"id": "1360", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "China's aggressive leap into artificial", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1361", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "I use Nov. 30, 2022, as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1362", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1363", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1364", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1365", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1366", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1367", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By Isabelle Lee and Lu", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1368", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Aam Aadmi Party (AAP)'s Rajya", "relation": "unrelated-mention", "sentiment_alignment": 1}
+{"id": "1369", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "By STAN CHOE, Associated", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1370", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Volvo EX90 CarExpert Rating Very", "relation": "unrelated-mention", "sentiment_alignment": 1}
+{"id": "1371", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Updated September 25, 2025 at", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1372", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Intel's new CEO said the", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "1373", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Intel's new CEO said the", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "1374", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Intel's new CEO said the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1375", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Intel's new CEO said the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1376", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Intel's new CEO said the", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "1377", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Intel's new CEO said the", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "1378", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "If you're a CIO focusing", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1379", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Photo Credit: Getty Images We", "relation": "co-hype", "sentiment_alignment": 0}

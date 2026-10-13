@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Cheap labor: Are tech giants exploiting Ugandans?
+November 24, 2023
+Music plays in the background of the darkened open plan office where more than 150 young people are seated behind computer screens. There's also the constant clicking of computer mice in the space in central Kampala, Uganda.
+Click by click, some of the young Ugandans are tracing lanes on screens that determine where Tesla cars are allowed to drive or not. Click by click,others are training an onscreen drone to pick only ripe red apples.
+Sama is one of numerous new start-ups that train the artificial intelligence (AI) software and systems of large tech companies.
+Colorful African fabrics adorn the walls of the company headquarters. Vines in old glass bottles dangle from the ceiling. In the office canteen, there's a container with colorful lollipops for the workers.
+It's like an African version of Silicon Valley. No photos are allowed and the company management decided which of its workers could be interviewed by DW.
+Jobs on a piecework basis
+Sama's managing director Joshua Okello is seated at his laptop at a long counter in the reception room. He explains the company concept: "Imagine there's a client in Germany who needs a software engineering company. Instead of spending up to €50,000, they can pay us far less."
+Okello leads a large team of workers who click millions of times, around the clock and on a piecework basis. Processes have to be run until the car knows the traffic rules and the drone knows which apples are ripe.
+The company's website lists its clients as Google, Ford, Walmart, Sony, BMW, Ebay, Microsoft and NASA. Sama also works for Meta, which owns Facebook, Whatsapp and Instagram.
+In the past, such companies outsourced call center jobs and other low-paid tasks to India, for example. However, salaries are now rising there. So large corporations seeking cheap labor have turned to East African countries such as Uganda, Kenya and Rwanda where English is widely spoken, the internet is stable and the time difference to Europe is minimal.
+Jobs instead of aid money
+Sama was founded by Leila Janah, a US businesswoman who died of an illness in 2020 at the age of 37. She was the daughter of Indian immigrants and a student of African studies.
+The start-up opened the first branches in India in 2008 and later in Kenya.
+High youth unemployment
+A high number of Ugandans are unemployed, says Okello. The situation is acute in the north of the country where a bloody civil war had raged for more than 20 years and numerous aid organizations withdrew.
+Sama opened its first headquarters in the north, together with the charity Oxfam, in 2012. It later became an independent company.
+"We can teach people digital skills and create jobs," says Okello.This is much better than delivering aid.
+Sama's first office was housed in containers next to the university campus in Gulu, the largest city in the northern Uganda, Bruno Kayiza recalls.
+At the time, the now 30-year-old was an economics student in Gulu with no idea where to find a job after graduating. "I was curious about what was happening, I kept seeing people going in and out," says Kayiza.
+He spent four years at Sama teaching robots how to pick only ripe apples before becoming a team leader who monitored the quality of his colleagues' work.
+Kayiza is now responsible for 418 people at Sama's Gulu branch. In 2019, Sama expanded to Kampala. After Kenya, Uganda is now the second most important location in Africa.
+An opportunity for the future?
+"The work is very interesting because we work on different projects," says Kayiza. In addition to the simple click jobs, there are also complex tasks, such as the three-dimensional analysis of a traffic situation.
+"The salary is good," he says. The pay at Sama is around 20% higher than the €150 ($160) that untrained workers usually make in Uganda.
+There's also social security such as free accident and health insurance, which is not usually offered in Uganda, says Kayiza.
+This, according to expert Nanjira Sambuli, all sounds a little too good to be true. The Kenyan researcher tracks developments in the field of technology in African society. Sama is a good example of the dilemma facing Africans, Sambuli says. "Clearly there is a huge need for jobs across the continent," says Sambuli. "But are these meaningful jobs? Are they secure jobs with future prospects?"
+Traumatized by click work
+Earlier this year, employees in Kenya sued the company for "exploitative" working conditions, according to the lawsuit. The employees had to check the content of posts on behalf of Facebook, often 700 text passages per day, mostly with sexual content.
+A few months ago, DW spoke to dismissed employees of Sama who were traumatized by their work, flagging violence on Facebook.
+"The example in Kenya shows," says Sambuli, "that Africa's politicians and the international community need to think about the price at which all these labor processes are being outsourced to Africa at dumping prices."
+"Just because the continent urgently needs jobs does not mean that labor rights and minimum ethical standards can be thrown overboard."
+This article was originally published in German.
+Edited by: Benita van Eyssen

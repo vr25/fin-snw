@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search.
+Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract.
+In FY23, Appen’s revenue from Google was $82.8 million at a gross margin of 26 per cent.
+“The news is unexpected and disappointing, particularly considering the progress made against Appen’s transformation and performance in November and December 2023,” the company said in its filing.
+A Google spokesperson told The Verge that the decision to end the contract was made as “part of our ongoing effort to evaluate and adjust many of our supplier partnerships across Alphabet to ensure our vendor operations are as efficient as possible”.
+At Appen, contractors help rate data quality and answers from AI models.
+Appen has also helped train AI models for Microsoft, Meta, and Amazon.
+“Appen continues to focus on cost management, business turnaround and delivery of high-quality AI data for its customers,” it said.
+The Australian company will immediately adjust its strategic priorities following the notification of the Google contract termination and provide further details in its FY23 full-year results on February 27.
+Google is working closely with Appen to make the transition “as smooth as possible.”

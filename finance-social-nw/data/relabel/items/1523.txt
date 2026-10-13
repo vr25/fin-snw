@@ -1,0 +1,71 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Internet
+- 3 min read
+Google parent Alphabet surprises with capital spending boost after earnings beat
+                    "With this strong and growing demand for our Cloud products and services, we are increasing our investment in capital expenditures." CEO Sundar Pichai said in an earnings release.
+                                    
+            
+        
+                    
+                    
+                    
+                                        By Kenrick Cai and Deborah Mary Sophia
+Alphabet on Wednesday cited massive demand for its cloud computing services as it hiked its capital spending plans for the year to about $85 billion and predicted a further increase next year.
+The search giant strongly beat Wall Street estimates for quarterly revenue and profit on the back of new AI features and a steady digital advertising market.
+Revenue growth was driven by Google Cloud's sales, which surged nearly 32%, well above estimates for a 26.5% increase.
+"With this strong and growing demand for our Cloud products and services, we are increasing our investment in capital expenditures." CEO Sundar Pichai said in an earnings release.
+Shares of the company, which have risen more than 18% since its previous earnings report in April, dipped initially in extended trading after the report before rallying as executives shared details about strong cloud demand on a call with analysts.
+But investors were surprised by the planned capital spending increase.
+"I don't think anyone was expecting a change to that 2025 capex guide," said Dave Wagner, portfolio manager at Aptus Capital Advisors. "Google had an amazing quarter. It was an easy beat, and it was just offset by this $10-billion increase in capex."
+Capital spending is expected to increase further in 2026 due to demand and growth opportunities, Chief Financial Officer Anat Ashkenazi said on the call.
+Ashkenazi added that while the pace of server deployment has improved, Alphabet continues to face more customer demand for its cloud services than it can supply.
+Google had earlier pledged about $75 billion in capital spending this year, part of the more than $320 billion that Big Tech is expected to pour into building AI capabilities.
+CLOUD GAINS
+The rise of artificial intelligence technologies has propelled demand for cloud computing services. Google Cloud still trails Amazon's AWS and Microsoft's Azure in total sales, but has tried to gain ground by touting AI offerings, including its in-house TPU chips that rival Nvidia's GPUs.
+The business segment grew its quarter-over-quarter customer count by 28%, Pichai said on the call.
+"The comprehensiveness of our AI portfolio, the breadth of our offerings, both providing our models on GPUs and TPUs for our customers, all of that has been really driving demand," he said. In a huge win for Alphabet, ChatGPT maker OpenAI recently added Google Cloud to its list of cloud capacity suppliers, as Reuters exclusively reported in June, in a surprising collaboration between two companies that are competing head-to-head in AI. It also marked OpenAI's latest move to diversify beyond its major backer Microsoft.
+The capex increase nevertheless raises concerns about Alphabet's pace of monetization and its impact on near-term profitability, Investing.com senior analyst Jesse Cohen said.
+Alphabet and its peers have defended their aggressive AI spending amid rising competition from Chinese rivals and investor frustration with slower-than-expected payoffs, saying those massive investments are necessary to fuel growth and improve their products.
+AI RACE
+Google Search's artificial intelligence features such as AI Overviews and AI Mode are also helping the company boost engagement and tackle rising competition from chatbots such as ChatGPT that have surged in popularity. AI Mode has grown to 100 million monthly active users just two months after Google announced the start of its large-scale rollout during its annual developer conference. Google's own ChatGPT competitor, called Gemini, has more than 450 million monthly users, Pichai said.
+Google's advertising revenue, which represents about three-quarters of the tech major's overall sales, rose 10.4% to $71.34 billion in the second quarter, beating expectations for $69.47 billion, according to data from LSEG.
+"Hopefully, this will damper concerns by the investment community that has been worried that products like OpenAI/ChatGPT could be having an impact on Google's Search query growth," said Dan Morgan, senior portfolio manager at Synovus Trust.
+Alphabet reported total revenue of $96.43 billion for the second quarter ended June 30, compared with analysts' average estimate of about $94 billion, according to data compiled by LSEG.
+The company reported profit of $2.31 per share for the period, beating estimates of $2.18 per share, according to LSEG data.
+                        
+                                                                
+                                        
+                    
+                    
+                                            
+                                        
+                    
+                    
+                        
+                    
+                    
+                
+            Alphabet on Wednesday cited massive demand for its cloud computing services as it hiked its capital spending plans for the year to about $85 billion and predicted a further increase next year.
+The search giant strongly beat Wall Street estimates for quarterly revenue and profit on the back of new AI features and a steady digital advertising market.
+Revenue growth was driven by Google Cloud's sales, which surged nearly 32%, well above estimates for a 26.5% increase.
+"With this strong and growing demand for our Cloud products and services, we are increasing our investment in capital expenditures." CEO Sundar Pichai said in an earnings release.
+Shares of the company, which have risen more than 18% since its previous earnings report in April, dipped initially in extended trading after the report before rallying as executives shared details about strong cloud demand on a call with analysts.
+But investors were surprised by the planned capital spending increase.
+"I don't think anyone was expecting a change to that 2025 capex guide," said Dave Wagner, portfolio manager at Aptus Capital Advisors. "Google had an amazing quarter. It was an easy beat, and it was just offset by this $10-billion increase in capex."
+Capital spending is expected to increase further in 2026 due to demand and growth opportunities, Chief Financial Officer Anat Ashkenazi said on the call.
+Ashkenazi added that while the pace of server deployment has improved, Alphabet continues to face more customer demand for its cloud services than it can supply.
+Google had earlier pledged about $75 billion in capital spending this year, part of the more than $320 billion that Big Tech is expected to pour into building AI capabilities.
+CLOUD GAINS
+The rise of artificial intelligence technologies has propelled demand for cloud computing services. Google Cloud still trails Amazon's AWS and Microsoft's Azure in total sales, but has tried to gain ground by touting AI offerings, including its in-house TPU chips that rival Nvidia's GPUs.
+The business segment grew its quarter-over-quarter customer count by 28%, Pichai said on the call.
+"The comprehensiveness of our AI portfolio, the breadth of our offerings, both providing our models on GPUs and TPUs for our customers, all of that has been really driving demand," he said. In a huge win for Alphabet, ChatGPT maker OpenAI recently added Google Cloud to its list of cloud capacity suppliers, as Reuters exclusively reported in June, in a surprising collaboration between two companies that are competing head-to-head in AI. It also marked OpenAI's latest move to diversify beyond its major backer Microsoft.
+The capex increase nevertheless raises concerns about Alphabet's pace of monetization and its impact on near-term profitability, Investing.com senior analyst Jesse Cohen said.
+Alphabet and its peers have defended their aggressive AI spending amid rising competition from Chinese rivals and investor frustration with slower-than-expected payoffs, saying those massive investments are necessary to fuel growth and improve their products.
+AI RACE
+Google Search's artificial intelligence features such as AI Overviews and AI Mode are also helping the company boost engagement and tackle rising competition from chatbots such as ChatGPT that have surged in popularity. AI Mode has grown to 100 million monthly active users just two months after Google announced the start of its large-scale rollout during its annual developer conference. Google's own ChatGPT competitor, called Gemini, has more than 450 million monthly users, Pichai said.
+Google's advertising revenue, which represents about three-quarters of the tech major's overall sales, rose 10.4% to $71.34 billion in the second quarter, beating expectations for $69.47 billion, according to data from LSEG.
+"Hopefully, this will damper concerns by the investment community that has been worried that products like OpenAI/ChatGPT could be having an impact on Google's Search query growth," said Dan Morgan, senior portfolio manager at Synovus Trust.
+Alphabet reported total revenue of $96.43 billion for the second quarter ended June 30, compared with analysts' average estimate of about $94 billion, according to data compiled by LSEG.
+The company reported profit of $2.31 per share for the period, beating estimates of $2.18 per share, according to LSEG data.

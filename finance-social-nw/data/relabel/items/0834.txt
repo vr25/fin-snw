@@ -1,0 +1,21 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+Super Micro Computer (SMCI +4.22%) has had a tremendous year, as the stock has increased around 160%. But it's well off its all-time highs set just over a month ago. In early March, Super Micro Computer hit an intra-day high of $1,229, a far cry from the $700 mark it trades at now.
+Many investors may wonder if it's time to get back into Supermicro's stock, especially after the $200 per share drop it experienced on April 19.
+Supermicro's recent tumble occurred for a ridiculous reason
+Supermicro has had an amazing year thanks to the business it's operating in. It's a leader in the highly customizable computing server industry, which is experiencing a boom because of artificial intelligence (AI). While there are many competitors in this field, few offer the customizability that Supermicro does, as its product lines allow customers to specify their computing load sizes and specialty. So, whether a client wants to dedicate their server to running large workload AI models or smaller engineering simulation workloads, Supermicro has them covered.
+But none of that explains why the stock has dropped so aggressively as of late, as its business is doing fantastic. In fact, management expects revenue to grow at a 219% pace in the third quarter of fiscal year 2024 (ended March 31).
+NASDAQ: SMCI
+Key Data Points
+We'll find out more on April 30, but that's all investors know right now. And therein lies the problem.
+The last time Supermicro announced its earnings report date, it pre-reported earnings. Companies usually elect to pre-report earnings if there is significant news that could drastically move the stock -- whether good or bad. The second-quarter report was full of great news and included Supermicro exceeding management's guidance of 50% to 61% growth drastically, as revenue rose 103%.
+The Q3 earnings announcement did not hint at results, so investors can only assume the results were in line with expectations. This is a problem, as the stock was trading in an area that required an earnings beat.
+The stock is the most attractive it has been in months
+Because Supermicro is a profitable business, we'll use its price-to-earnings (P/E) ratio to value the company and understand the expectations built into the stock. However, because we're assessing forward expectations, we'll use the forward P/E, which uses analyst projections for earnings over the next 12 months.
+Super Micro Computer traded at more than 50 times forward earnings at its peak.
+This is very expensive and eclipses the level that AI-king Nvidia has traded around.
+Before the drop, Supermicro still commanded a premium of about 45 times forward earnings -- a much higher level than Nvidia, which trades for 31 times forward earnings. But after its latest drop, Supermicro and Nvidia are trading at around the same levels.
+This may tempt investors to hop back in, as Supermicro's growth is projected to be much higher than Nvidia's. Supermicro is just now experiencing the demand for its products that Nvidia felt last year.
+However, with the violent stock movement, it may be best to wait until after the Q3 earnings report. On the flip side, if Supermicro beats expectations (but does not blow them out of the water like it did in Q2), the beat may prompt the stock to have a solid rise.
+So, if investors are interested in owning the stock, I don't think there's any harm in taking a small position before earnings, as the sell-off is likely overdone. However, the stock movement may not always be rational because there was a lot of hype in the stock (dare I say a bubble). Because there isn't a lot of rationality left in Supermicro's stock, I'll elect to stay away from it until things return to normal (which may not occur for another year).

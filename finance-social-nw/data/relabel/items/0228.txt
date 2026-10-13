@@ -1,0 +1,5 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+'Fusion in five years' | AI and Facebook billionaire-backed pioneer signs Microsoft up for 'star power'
+Helion Energy, whose investors include Sam Altman, Reid Hoffman and Dustin Moskovitz, aims to get first plant online by 2028 and claims deal with software giant is technology's first

@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Why Facebook is blocking news in Canada, and Google may be next
+Meta is no longer displaying traditional media outlets on its sites in Canada as of Tuesday, after the country required the platforms to pay news outlets, and Google is set to follow.
+Canada passed the Online News Act in June, requiring social media platforms to pay news outlets to use their content. Advocates for the legislation argued that platforms like Facebook and Instagram used news articles to garner their own ad revenue and that the media outlets making the content weren't being adequately compensated.
+Instead of paying the outlets, Meta chose to not place the articles in news feeds to begin with. While the law does not officially go into effect until January 2024, the tech giant is acting early.
+"News outlets voluntarily share content on Facebook and Instagram to expand their audiences and help their bottom line," Rachel Curran, Meta's head of public policy in Canada, told Reuters. "In contrast, we know the people using our platforms don't come to us for news."
+Google is also speaking out about the new law and says it will opt to to omit Canadian news sites from search results when it takes effect later this year. The company said its searches linked to Canadian news sites 3.6 billion times last year in total.
+"[The law] creates uncertainty for our products and exposes us to uncapped financial liability simply for facilitating Canadian's access to news from Canadian publishers," Google executive Kent Walker said in a blog post about the law.
+Heritage Minister Pascale St-Onge criticized the companies' refusal to follow the law, calling the decision "irresponsible."
+"They would rather block their users from accessing good quality and local news instead of paying their fair share to news organizations," St-Onge said.
+"We're going to keep standing our ground. After all, if the Government can't stand up for Canadians against tech giants, who will?" she added.
+The Online News Act is based on a nearly identical Australian law passed in 2021. Both Meta and Google eventually agreed to license news from Australian sources and did not block news after tense negotiations with lawmakers.
+Walker said in the post that similar negotiations between Google and Canadian lawmakers failed.
+"We advocated for reasonable and balanced amendments to the legislation for over a year. None of our suggestions for changes to C-18 were accepted," he said.
+California has also proposed a similar measure, but it's been shelved amid pushback from Meta, Google and others.
+For the latest news, weather, sports, and streaming video, head to The Hill.

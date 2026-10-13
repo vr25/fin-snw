@@ -1,0 +1,34 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The "Trump trade" and the continuing rise of artificial intelligence are set to be two of the biggest investment themes of 2025.
+Investors will be also watching to see if the astounding returns of the Magnificent Seven - Alphabet, Amazon, Apple, Meta, Microsoft, NVIDIA and Tesla - can continue for another year.
+Those US tech giants climbed a whopping 67 per cent in 2024, driving the S&P500's 23.3 per cent return for the year.
+Strip out those seven names, and the return for the other 493 companies in the US benchmark index was just 8.1 per cent, says Greg Boland, chief strategy officer at Tiger Brokers Australia.
+"So one of the main questions leading into 2025 is whether the Magnificent Seven will again dominate the market and lift the whole market as it has in the past few years," he said.
+Also in the US, Donald Trump has not even been sworn in for his second presidential term and his pronouncements and potential policies have already moved markets, including sending Bitcoin to an all-time high.
+The prospect of tariffs has led the "king" US dollar to hit its highest level against a basket of other currencies in more than two years and has also led to a slide in the Aussie, which is seen as a more liquid proxy for China's yuan.
+One Perth-based junior explorer has even credited Mr Trump's declaration about wanting to make Greenland part of the US for causing a huge surge in its share price.
+Energy Transition Minerals is focused on the development of its Kvanefjeld project in Greenland, a world-class deposit of rare earth minerals and uranium.
+ETM shares, which have traded for two or three cents for the past six months, have since Christmas soared to an over two-year high of around seven cents.
+The adoption of artificial intelligence has continued apace, pushing AI chipmaker NVIDIA to the position of the world's second-most valuable company, behind Apple.
+The ASX's most notable AI company, Appen, saw its shares quadruple in value in 2024, while January's debut of data centre operator DigiCo REIT on the ASX was its biggest float of the year, at $4 billion.
+Data centres are seen as vital for the AI revolution.
+"Obviously, everybody is running with the AI theme, and that is really going to be important," said fund management veteran Manny Pohl, chairman of ECP Asset Management, adding that his firm doesn't directly invest in AI developers.
+"We don't take bets on, 'oh, this is a company that says they've got this AI model, and it's going to be worth two trillion because everybody thinks its going to be the best'."
+Instead, ECP looks at how existing businesses might apply artificial intelligence to improve their productivity, mentioning ASX-listed investment advice platform Hub24 as one company that is using AI to tweak asset allocations.
+"Going forward this year, there's going to be a lot of companies that get improvements in productivity," Mr Pohl predicted.
+Another fund manager, Rob Osborn with Lazard Asset Management, told AAP the "AI bonanza" had created a huge disparity between companies with a low price-to-earnings ratio and a high one.
+"We're getting to the point now where the market is looking expensive ... it's one of those times where the biggest part of the market is excessively priced," Mr Osborn said, referring to Australia's banking sector.
+Lazard prefers a fundamental, value-driven approach to investing, scooping up names that are unappreciated and undervalued, he said.
+As such, it is investing in Australia's battered mining sector, which dropped 17.3 per cent in 2024 - one of just three of the ASX's 11 sectors to lose ground for the year.
+"We've gotten to the point where we've even started to buy iron ore names, and we've never been a fan of iron ore, but down at these levels, you're starting to see quite attractive valuations," he said.
+Lazard also has some investments in the consumer discretionary and industrial sectors.
+Mr Osborn named Domino's Pizza Enterprises and KFC franchisor Collins Foods as two beaten-down fast-food companies that Lazard believes can turn things around through cost reductions and as inflation wanes.
+Domino's shares lost half their value in 2024, while Collins Foods fell 38.7 per cent.
+"I think at the end of the day, KFC is a pretty established brand, and Collins has got an exceptional management team, and over time, we think they will get hold of those cost bases," Mr Osborn said.
+Another beaten-down name Lazard likes is Healius, whose shares fell 16.2 per cent in 2024 in its third straight year of losses.
+Mr Lazard said that once Healius completes the sale of its diagnostic imaging division it will be cash-flow positive with its pathology business and can start to focus on growing its margins there.
+"It's not a short-term thing," he said.
+"But the thing that's interesting about Healius is that there's not too many businesses you get where the government pays 100 per cent of the revenue, and you've just got to fix the cost base. There's no reason why it can't improve."
+Australian Associated Press

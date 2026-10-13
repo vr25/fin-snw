@@ -1,0 +1,99 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+MARKET WRAPS 
+  Watch For: 
+  EU business & consumer surveys; GDP data for EU, Germany, France, Italy; U.K. budget; Germany unemployment; CPI data for Germany, Bavaria, North Rhine Westphalia, Saxony, Hesse, Baden-Wuerttemberg; France consumer spending; Trading updates from UBS, Volkswagen, Airbus, Prada, AXA, Glencore, Telenor, GSK, Capgemini, Schneider Electric, Wolters Kluwer, SKF, Next, Basf 
+  Opening Call: 
+  European stock futures pointed lower after Asia stocks traded mixed. The dollar held steady, oil and gold rose, the 10-year U.S. Treasury yield slipped. 
+  Equities: 
+  European stock futures were muted after Wall Street saw a rally in tech stocks as investors combed through Big Tech earnings, lifting the Nasdaq Composite to a new high for the first time since July. 
+  Markets await the release of the U.K. Budget. Its impact on the economic outlook and bond markets will likely determine sterling's reaction to the fiscal plans, Ebury said, adding that while some tax increases are priced in, a hefty jump in the capital gains tax would spook markets. 
+  In the U.S., consumer sentiment improved this month at the steepest pace in more than three years, according to the Conference Board's index. 
+  "The economy is on pretty solid footing," Badgley Phelps' Tim Thomas, said. 
+  Bonds: 
+  Yields on long-dated U.K. government bonds, or gilts, could rise further after the U.K. autumn budget statement, said Saxo's Althea Spinozzi. 
+  Higher-than-expected fiscal spending plans could raise expectations for inflation and growth, causing long-term yields to rise further, and higher inflation expectations could also reduce expectations for interest-rate cuts by the Bank of England. 
+  -- 
+  Signs of a strong economy have lifted the 10-year U.S. Treasury yield recently as investors recalibrate expectations for rate cuts. 
+  The prospect of a rising federal budget deficit has also fueled a climb in yields. 
+  Long-dated Treasury yields finished lower on Tuesday after a selloff of U.S. government debt that began during European trading hours faded by the end of the New York session. 
+  Forex: 
+  The U.S. dollar held steady against Asian currencies with a mild fall in U.S. Treasury yields diminishing the appeal of fixed income assets, undermining demand for the greenback. 
+  -- 
+  The U.K. government's budget could boost sterling if spending plans exceed expectations, according to Monex Europe. 
+  Negative headlines about tax rises and spending cuts to ease the budget deficit have weighed on sterling over the past month, said Monex, adding that it creates a low bar for U.K. finance chief Rachel Reeves to exceed expectations. 
+  Reeves looks set to achieve this given a likely boost to investment spending, they said. This "leaves the odds skewed towards a stronger pound on balance," Monex added. 
+  Energy: 
+  Oil rose in a possible technical rebound after having pulled back this week amid easing geopolitical risks in the Middle East. 
+  Investors have started to focus on OPEC, which is scheduled to begin raising output in December, ANZ noted, adding that weak demand in China is also in focus. 
+  The impact of increased use of electric vehicles on gasoline consumption has taken the market by surprise in 2024, ANZ said. 
+  Metals: 
+  Gold edged higher as it continued a recent run of fresh record highs. 
+  Investors are focused on U.S. economic data, including advance 3Q GDP estimates, FlowCommunity commercial director Tito Iakopa said. 
+  Stronger-than-expected data could reinforce the Federal Reserve's cautious stance and lead to fewer, smaller interest-rate cuts than what markets currently expect, Iakopa added, as gold typically has an inverse relationship with interest rates. 
+  -- 
+  Copper rose in anticipation of fiscal stimulus measures by China. 
+  Investor sentiment was buoyed by a media report that China is considering an over 10-trillion yuan package to revive the economy, as well as China's pledge to further support the electric vehicle industry by considering more EV charging infrastructure, ANZ said. 
+  "Such infrastructure requires large amounts of various metals including copper," ANZ said. 
+  TODAY'S TOP HEADLINES 
+  Bitcoin Rallies; Earnings in Spotlight 
+  A rally in tech stocks lifted the Nasdaq Composite to a new high on Tuesday for the first time since July. 
+  The record comes during a packed week of corporate earnings, including tech behemoths. Google parent Alphabet reported third-quarter results after the market closed that beat Wall Street expectations. Other Magnificent Seven members-Meta, Microsoft, Amazon and Apple-are set to report later this week. 
+  GDP Grew in the Third Quarter, Possibly by a Lot. The Fed Will Cut Rates Anyway. 
+  Third-quarter economic growth ranged from hot to hotter, depending on the forecaster. Economists agree, however, that consumer spending drove most of the growth in the period, even as sluggish home sales and residential construction created a drag. 
+  The Bureau of Economic Analysis will release its first estimate of real, or inflation-adjusted gross domestic product at 8:30 a.m. Eastern on Wednesday. The odds remain high that Federal Reserve officials will lower interest rates by a quarter of a percentage point at their Nov. 6-7 policy meeting, even with robust growth. 
+  Jean Paul Gaultier Owner Puig Brands Posts Higher Revenue Boosted by Fragrances 
+  Jean Paul Gaultier owner Puig Brands posted an increase in revenue for the third quarter, helped by fragrances amid a boom in demand and despite a challenging environment for beauty companies. 
+  The Spanish group on Tuesday reported revenue of 1.26 billion euros ($1.36 billion) for the period, up around 11% on year in reported terms. The result compares with analysts' forecasts of 1.17 billion euros, according to a poll of estimates compiled by Visible Alpha. 
+  Moncler Revenue Falls on Lower Demand in Asia, Europe 
+  Moncler's revenue fell in the third quarter due to lower demand in Asia and Europe, with the brand's prior resilience giving way to industry headwinds. 
+  The Italian fashion group, owner of Stone Island as well as its namesake brand, made total revenue of 635.5 million euros ($687 million) in the three months to Sept. 30, 3% lower than last year. 
+  Google's Cloud Business Powers Accelerating Revenue Growth 
+  Google's parent company reported a 15% jump in year-over-year revenue, driven by strong results in its cloud-computing division and boosting the company's fortunes during a costly push into artificial intelligence. 
+  The parent company, Alphabet, recorded total revenue of $88.3 billion in the third quarter, which grew at a faster rate than the second quarter's 14%. 
+  Visa Plans to Lay Off Around 1,400 Employees and Contractors 
+  Visa plans to lay off around 1,400 employees and contractors by the end of the year, according to people familiar with the matter, as part of a plan to streamline its international business. 
+  Employees learned in an internal announcement last week that the company planned to cut jobs, though exact details weren't provided, the people said. 
+  Write to singaporeeditors@dowjones.com 
+  Expected Major Events for Wednesday 
+  00:01/UK: Oct CBI Growth Indicator and Service Sector Survey 
+  05:30/NED: Oct Producer confidence survey 
+  05:30/NED: Sep PPI 
+  06:00/FIN: Sep Retail sales 
+  06:30/FRA: Sep Household consumption expenditure in manufactured goods 
+  06:30/FRA: 3Q GDP - first estimate 
+  07:00/NOR: Sep Retail Sales 
+  07:30/HUN: 3Q Preliminary GDP 
+  08:00/SWE: Oct Quarterly Business Tendency Survey 
+  08:00/SWE: Oct Consumer Tendency Survey 
+  08:00/SPN: 3Q Preliminary GDP 
+  08:00/SPN: Oct Flash Estimate CPI 
+  08:00/SWI: Oct KOF economic barometer 
+  08:00/AUT: 3Q Flash Estimate GDP 
+  08:00/CZE: 3Q GDP preliminary estimate 
+  08:55/GER: Oct Labour market statistics (incl unemployment) 
+  09:00/ICE: Oct CPI 
+  09:00/GER: Oct Bavaria CPI 
+  09:00/GER: Oct North Rhine Westphalia CPI 
+  09:00/GER: Oct Saxony CPI 
+  09:00/GER: Oct Hesse CPI 
+  09:00/GER: Oct Baden-Wuerttemberg CPI 
+  09:00/BUL: Sep PPI 
+  09:00/GER: 3Q GDP - 1st release 
+  09:00/ITA: 3Q GDP preliminary estimate 
+  10:00/CYP: Aug Industrial Production Index 
+  10:00/GRE: Sep PPI 
+  10:00/EU: Oct Business & Consumer Surveys - Business Climate Indicator & Economic Sentiment Indicator 
+  10:00/CRO: Sep Retail trade 
+  10:00/ITA: Sep PPI 
+  10:00/EU: 3Q Preliminary Flash Estimate GDP 
+  10:30/BEL: Oct CPI 
+  11:00/POR: 3Q Flash Estimate GDP 
+  13:00/GER: Oct Provisional CPI 
+  All times in GMT. Powered by Onclusive and Dow Jones. 
+  Write to us at newsletters@dowjones.com 
+  We offer an enhanced version of this briefing that is optimized for viewing on mobile devices and sent directly to your email inbox. If you would like to sign up, please go to https://newsplus.wsj.com/subscriptions. 
+  This article is a text version of a Wall Street Journal newsletter published earlier today. 
+  (END) Dow Jones Newswires
+  10-30-24 0121ET

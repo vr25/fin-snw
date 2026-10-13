@@ -1,0 +1,24 @@
+TICKER_A: IONQ
+TICKER_B: MSFT
+POST:
+Quantum computing uses quantum mechanics to perform operations. Quantum mechanics is a physics theory that describes the physical environment at an atomic and subatomic scale, compared to traditional physics, which looks at the macroscopic scale.
+Bits denote data in classical computing. These bits are two-state, the familiar 1 or 0. With quantum computing, quantum bits — qubits — measure computing power. These exist in multiple states at the same time, which can include combining 0 and 1 simultaneously.
+Don’t Miss: The Startup Behind The Automated Future Of The Fast-Food Industry
+The benefits of this new computing technology include storing massive amounts of information in fewer computers while using less energy. And, by operating outside the traditional laws of physics, quantum computers can offer processing speeds millions of times faster than traditional computers.
+In 2019, for example, Google’s latest quantum computer performed a calculation in four minutes. The world’s most powerful supercomputer at the time would have needed 10,000 years to finish that same calculation. With 300 qubits, a quantum computer’s calculations at a given time are greater than the atoms in the universe.
+The speed of quantum computers brings many use cases, including faster and smarter artificial intelligence (AI) platforms, advanced pharmaceutical modeling, more accurate weather predictions and the creation of new materials.
+Read Next: Kevin O'Leary-Backed Startup Lets You Become a Venture Capitalist With $100
+To stay updated with top startup news & investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter
+Startups In The Quantum Realm
+Research firms like Contrive Datum Insights see massive quantum computing market growth. The company projects a compound annual growth rate of 36.89% from 2023 to 2030, with the market reaching $125 billion annually. Where there is that kind of growth and money involved, startups are sure to follow. With quantum computing still in the early stages, startups are tackling multiple fronts, including different computer production methods, advanced quantum algorithms and other innovations.
+Here are some of the quantum computing startups making noise in the space:
+- Maryland-based quantum computing hardware and software firm IonQ Inc. (NYSE:IONQ). The company partners with various firms like Hyundai Motor Co. to create better machine learning algorithms to improve safety and bring about self-driving automobiles. Hyundai is also leveraging IonQ to study lithium chemistry and find new reactive solutions for future electric vehicles (EVs).
+- PSIQuantum is a company developing a method of quantum computing that uses photos that represent qubits. The startup is on the CB Insights’ list of unicorn companies with a current valuation of $3.15 billion as of March 10. The firm completed a $450 million investment round in the summer of 2021 and continues toward its stated goal of developing a 1 million qubit computer.
+- French startup PASQAL offers quantum computers built with 2D and 3D arrays of ordered neutral atoms, enabling its clients to solve challenging problems. These include improving weather forecasting, boosting auto aerodynamics for greater efficiency and finding relationships between chemical compounds and biological activity for the healthcare industry.
+Tech Giants Driving Quantum Investment And Growth
+Established technology giants are also pushing forward quantum computing. IBM remains at the forefront. In November 2022, the company announced the creation of a 430-qubit machine named Osprey, which has the largest qubit count of any processor. IBM’s breakthroughs in quantum computing mirror the trajectory of innovation for traditional computers as processing speed increased year over year.
+Amazon Inc. Braket is the company’s managed quantum computing service and part of its overall growth strategy with Amazon Web Services (AWS). Bracket offers users a place to build, test and run quantum algorithms. It provides them with access to different types of quantum hardware, encourages software development through the Braket SDK and to create open-source software.
+Microsoft Corp., Alphabet Inc.’s Google, Intel Corp. and Nvidia Corp. also offer quantum computing solutions and investment. As the biggest tech firms increase participation in quantum computing, more startups should become acquisition and merger targets as the market moves toward consolidation.
+See more on startup investing from Benzinga.
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

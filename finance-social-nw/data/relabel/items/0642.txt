@@ -1,0 +1,18 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Home
+Join Premium
+Contributors
+Channels
+All
+Partners
+The Market Ear
+SpotGamma
+Store
+Donate
+More
+RSS
+About
+Advertise
+Debates

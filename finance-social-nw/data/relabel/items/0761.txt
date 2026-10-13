@@ -1,0 +1,10 @@
+TICKER_A: AMD
+TICKER_B: AVGO
+POST:
+The Dow rose a tenth of a percent, the S&P 500 fell a tenth and the Nasdaq lost four-tenths of a percent.
+Investors are eagerly awaiting Tuesday's Consumer Price Index for February - especially since January's report showed that inflation creeped up a bit more than expected.
+While the overall price trend continues to decline, Ross Mayfield, Investment Strategy Analyst at Baird Private Wealth Management, says Tuesday's report could once again show how tough it may be to reach the Fed's annual target goal of 2%.
+"Inflation has proven sticky. It has driven the Fed to take some of the rate cuts off the table that the market was expecting. And we could expect an upside surprise tomorrow again. Some of that services inflation has been really sticky. Energy prices have rallied a little bit here. So the headline number could see some upside surprise."
+In company news, Boeing shares dropped 3%. U.S. Transportation Secretary Pete Buttigieg said on Monday he expects the planemaker to cooperate in investigations by the Justice Department and National Transportation Safety Board into the Alaska Airlines MAX 9 emergency in January when a door panel fell off the jet mid-flight.
+Chip stocks extended recent declines, with Broadcom dropping over 1%, Nvidia shedding 2%, and Advanced Micro Devices falling more than 4%.
+And shares of Equitrans Midstream edged up 1.5% after EQT Corp said on Monday it had decided to buy back its former unit in an all-stock deal. EQT shares slid nearly 8%.

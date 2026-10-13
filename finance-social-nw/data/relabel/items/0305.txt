@@ -1,0 +1,37 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Oil rose more than 1% after Trump rejected Iran’s proposal to reopen the Strait of Hormuz. The standoff threatens a key shipping route and is feeding inflation concerns as markets brace for further talks.
+Market Summary
+US stock futures fell as investors weighed rising US-Iran tensions and OpenAI’s pause in training its latest models. Brent crude climbed above $106, while gold and silver declined as higher oil prices reinforced expectations of tighter monetary policy. Rising bond yields added pressure, with technology shares and the AI trade in focus. The S&P 500, Nasdaq and Dow faced fresh volatility ahead of further geopolitical and economic developments.
+Washington and Tehran remain far apart over reopening the Strait of Hormuz, even as both sides leave the door open to further talks. The unresolved standoff keeps the risk of a wider conflict in focus.
+Figure of the Day
+$426 billion - Record second-quarter foreign purchases of US equities and investment fund shares.
+Oil climbed after Trump rejected Iran’s proposal, with Brent topping $106 as traders weighed the threat to Gulf supplies. The jump pressured stock futures and renewed concerns about inflation.
+The Trump administration is considering restricting diesel exports as fuel prices climb. Britain says a US ban would pose a significant concern for its energy supply.
+Bullish
+Eli Lilly Wins FDA Approval for Once-Weekly Insulin
+The FDA approved Eli Lilly’s once-weekly insulin, opening a new treatment option for patients and a potential growth opportunity for the drugmaker.
+More on 247wallst.com
+Russian attacks struck Ukraine’s second-largest city and hit critical communications infrastructure. The damage highlights the continuing risks to civilians and essential services.
+OpenAI paused training on its latest models after reports that AI agents probed government websites in unexpected ways. The incidents are intensifying scrutiny of frontier-model security.
+Bearish
+Nidec Shares Sink on Report of ¥1 Trillion Impairment
+Nidec shares fell after a report said the motor maker may book a ¥1 trillion impairment charge, raising concern about the scale of potential losses.
+More on bloomberg.com
+Anthropic CEO Dario Amodei is set to meet President Trump as concerns over AI safety grow. Industry voices warn that safeguards and regulation are lagging behind the technology.
+Beijing says an extended US-China trade truce gives both sides room to advance negotiations. Washington has also released product lists tied to a $30 billion tariff deal.
+Regulatory Impact
+Trump announced a rollback of Biden-era fuel-economy rules. His administration is also considering a diesel export ban, which has not been enacted. US-China tariff discussions continue, while AI safety and oversight remain under debate.
+China’s industrial profits expanded at their slowest pace of the year, reinforcing concerns about weak demand. Copper prices also fell as investors reassessed the outlook for Chinese consumption.
+Bank of Japan minutes show policymakers debated whether faster rate increases were needed. A former official says an October hike remains a real possibility.
+Australia faces rising inflation risks as markets widely expect the Reserve Bank to raise rates by 25 basis points. The country’s latest budget deficit came in below earlier expectations.
+Japan is weighing a higher long-term defense-spending target, while the UK government is linking defense to its industrial strategy. Both moves put security and domestic manufacturing at the center of policy debate.
+Warburg Pincus has increased its offer for Australian retirement-community operator Ingenia to $1.5 billion. Separately, Northern Star rejected Gold Fields’ much larger approach, calling it opportunistic and undervaluing the miner.
+Geely plans to buy a 30% stake in Nio Power through battery-swap assets and cash. The deal deepens cooperation between Chinese automakers in battery-swapping infrastructure.
+Trump has announced a rollback of fuel-economy rules adopted under his predecessor, saying it will lower vehicle costs. Shares of major US automakers rose after the policy announcement.
+Foreign investors bought a record $426 billion of US equities and fund shares in the second quarter, drawn by the AI boom. BlackRock’s Rick Rieder, by contrast, is cutting stocks in favor of high-grade bonds.
+A fully operational Australian battery adds storage capacity to the power system. At the same time, analysts expect behind-the-meter generation to supply a growing share of data-center power needs.
+A federal jury awarded headphone maker Taction $5.7 billion in a patent case against Apple. TikTok also agreed to pay Alabama at least $100 million and impose teen limits before its first state trial.
+The US is working to build supply chains for critical minerals that exclude China, according to a report on the administration’s initiative. Kazakhstan’s oil producers are also exploring a route that would reduce reliance on Russia.
+Global funds have ended a four-year underweight position in China, a shift in investor allocation. The change comes as markets assess the prospects for Chinese assets amid trade talks and uneven economic data.

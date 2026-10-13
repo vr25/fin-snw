@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Last week, Microsoft announced plans to build three new data centers in Licking County east of Columbus. The development means an investment of $1 billion.
+That project comes on the heels plans to build more data centers in Ohio.
+The economic development agency, One Columbus, estimates that more than $20 billion is being invested in roughly 40 data centers in and around central Ohio.
+Those projects are being praised as great economic investments, bringing job and tax revenue to the state. But, red flags are also being raised because of the environmental impact these data centers have.
+Data centers belonging to large tech companies like Microsoft, Google and Amazon require large amounts of resources in the form of water and electricity. Those resources are used to cool servers, which function to power the next generation of computing and artificial intelligence.
+Microsoft, the same company investing here in Ohio, also announced its CO2 emissions had risen nearly 30% since 2020 due to data center expansion.
+Monday on the “Sound of Ideas,” we’ll discuss data centers and their growing presence in Ohio.
+We’ll dig into their economic benefits as well as the environmental costs with several reporters and a computer science professor.
+Later in the hour, we'll talk about what rights you have as a voter, and answer some of your voting questions with Aaron Ockerman, the Executive Director of the Ohio Association of Elections Officials.
+GUESTS: 
+- Christopher Stewart, PhD, Associate Professor in the Computer Science and Engineering Department, The Ohio State University
+- Charlie Paullin, Energy and Environment Reporter, The Virginia Mercury
+- Mark Williams, Business Reporter, The Columbus Dispatch
+- Aaron Ockerman, Executive Director of the Ohio Association of Elections Officials

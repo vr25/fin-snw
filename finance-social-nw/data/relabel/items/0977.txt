@@ -1,0 +1,14 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+By Lewis Krauskopf
+NEW YORK (Reuters) - U.S. small-cap stocks are having a long-awaited moment, ignited by expectations of interest rate cuts and improving prospects for the election of Republican presidential candidate Donald Trump, a proponent of policies seen as benefiting smaller domestic companies.
+The small-company-focused Russell 2000 surged more than 11.5% over five days, the index's biggest gain in such a stretch since April 2020.
+At the same time, tech and growth stocks have wobbled, reinforcing the view that small caps have benefited from a rotation out of this year's biggest winners into unloved areas of the market. The tech-heavy Nasdaq 100 is down 3% since last week, including its biggest one-day drop of the year on Wednesday. The S&P 500, generally considered the benchmark for large-cap U.S. stocks, is up 0.2%.
+"I think the narrative has changed," said Eric Kuby, chief investment officer at North Star Investment Management Corp, which specializes in small-cap stocks. "I'm hoping ... this jump over the last week is really just the beginning of what could be a very long, multi-year period of time where small caps could make up a lot of ground."
+For months, shares of smaller companies have languished while investors poured money into the massive tech stocks that have led indexes for most of 2024. The Russell 2000 is up only 10.5% this year despite the recent surge, while the S&P 500 has gained 17% and the Nasdaq 100 is up nearly 18%.
+The outlook shifted last week, when a softer-than-expected inflation reading boosted expectations the Federal Reserve will cut rates in coming months, a potential boon to smaller companies suffering from elevated borrowing costs.
+Higher rates have been a "headwind to small caps," said Jason Swiatek, head of small- and mid-cap equity at Jennison Associates. "On the flip side, as you switch to a rate-cutting cycle, that alleviates a bit of that pressure."
+The rally accelerated after a failed assassination attempt over the weekend appeared to increase expectations of a victory by Trump, whose proposals to raise tariffs and lower taxes could benefit smaller companies.
+Among the small-cap stocks that have surged since the inflation data last week are biotech firm Caribou Biosciences, up 55% in that time, homebuilder Hovnanian Enterprises, up over 30%, and insurer Hippo Holdings, up over 29%.
+An extended rotation out of tech - whose run has sparked concerns over stretched valuations and drawn comparisons to the dotcom bubble two decades ago - could fuel further small-cap strength.

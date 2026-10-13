@@ -1,0 +1,8 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+GENEVA: Internet privacy company Proton can spot attacks on democracy in a country before they hit the headlines, simply by watching demand for its services explode, its chief told AFP.
+When Russia blocked access to independent news sites following its invasion of Ukraine a year ago, the small company which provides virtual private networks (VPNs) saw “a 9,000% increase in sign-ups over just a period of a few days”, company chief executive Andy Yen said in an interview last week.
+Already a subscriber? Log in
+Get 20% OFF The Star Digital Access
+Cancel anytime. Ad-free. Unlimited access with perks.

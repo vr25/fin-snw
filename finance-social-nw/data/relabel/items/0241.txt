@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Montana has made an unprecedented move to become the first US state to ban TikTok.
+However, doubts have been raised over the decision’s legal foundation, enforcement mechanisms and underlying motives. While the move draws attention to data security on social media, banning TikTok alone may not provide a comprehensive solution to this problem.
+For one, the move risks alienating the many young people who have come to rely on the app for meaningful connection, and in some cases their income. It also does little in the way of ensuring better future data privacy and protection for users.
+Caught in political crossfire
+Since its meteoric rise in 2020, TikTok has been caught in geopolitical tensions between the US and China. These tensions peaked in late 2020 when then-president Donald Trump signed an executive order directing ByteDance – the Chinese media giant and parent company of TikTok – to divest from its US operations, or face being banned. In response, TikTok partnered with Oracle on Project Texas: a US$1.5 billion initiative to relocate all US user data to servers outside China.
+Allegations that China-based employees at ByteDance had accessed the TikTok user data led to TikTok CEO Shou Zi Chew appearing before Congress in March amid yet more calls for it to be banned, and reports of the Biden administration pushing for its sale.
+Throughout these controversies, TikTok has denied sharing user data with the Chinese government, and said it wouldn’t do so even if asked. Nonetheless, governments worldwide – including in Australia – have banned TikTok on government devices, citing concerns over data protection.
+Enforcing a ban is a daunting task
+Montana’s new law will make downloading TikTok within state lines illegal from January 1 2024. The law imposes fines of up to US$10,000 per day for entities offering access to or downloads of the app within the state. Users themselves will not incur penalties.
+The current legislation places responsibility for blocking access on Apple and Google – the operators of app stores on iOS and Android devices. These companies would be held liable for any violations. However, they lack the capacity to enforce geofencing at the state level, making it difficult for them to prevent Montana residents from downloading TikTok.
+As a result, it may ultimately fall on TikTok itself to block usage by Montana residents by collecting geolocation data. But this raises privacy concerns – the very concerns driving the ban in the first place.
+For now, the ban’s enforceability remains to be seen. How will the government of Montana prevent users from using virtual private networks (VPNs) to access TikTok? VPNs encrypt data traffic and allow users to present themselves as being in another location, making it possible for tech-savvy users to bypass bans. Residents could also cross state lines to download the app.
+Montana may become a testing ground for the “TikTok-free America” that some national lawmakers envision. Apart from TikTok, the ban also targets messaging apps including Chinese-owned WeChat and Russian-founded Telegram – highlighting growing apprehensions over data security and privacy.
+But it’s unclear if such a ban is an effective solution for lawmakers’ concerns about American users’ privacy and data security.
+Even if the ban in Montana is successful, its national impact will be limited. The state has a population of just over one million, whereas the US as a whole has more than 100 million monthly TikTok users. As such, the ban in Montana will likely affect only a few hundred thousand prospective users, at best.
+TikTok’s importance for Gen Z
+While TikTok’s popularity in the US continues to soar, nearly half of all US-based users are the digital-native teens and 20-somethings of Generation Z. TikTok is Gen Z’s playground.
+Young people have protested potential bans by flooding the app with videos mocking lawmakers they see as out of touch with modern technology, further magnifying their disdain for such regulation.
+Congresswoman Alexandria Ocasio-Cortez supported young protesters, highlighting the unprecedented nature of banning an app that would stifle free speech while raising questions regarding digital rights in the US.
+TikTok has emerged as a vital platform for Gen Z users to express their political views, entertain themselves and interact with their peers. Where other platforms might feel saturated with older generations, TikTok provides an environment where young people can safely lower the barriers to meaningful online participation.
+And despite what some may think, it’s not just a quirky app for dance videos. TikTok has become a golden goose for millions of content creators who rely on the app as their stage to showcase their talents, build their brands and connect with fans and customers. Many local small businesses also rely on TikTok to reach potential customers.
+With the app now under threat, the future livelihoods of these creators and small businesses are in jeopardy too.
+A ban won’t fix privacy and data security issues
+A successfully implemented TikTok ban may drive users to Silicon Valley’s big tech platforms. But the security of user data with these companies, including Meta (which owns Facebook and Instagram) and Google, can’t be assumed to be more secure than TikTok. They also collect significant amounts of user data that can be shared or sold to third-party entities, including those with connections to China or countries with similar data laws.
+The underlying issues of data security will persist beyond a TikTok ban. If data security really is the main concern, policymakers should address the problem comprehensively and systematically across social media platforms.
+Tackling the root cause is essential. Until that’s done, snapping off the branches – TikTok or otherwise – will do little to keep users’ data safe.

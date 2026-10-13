@@ -1,0 +1,69 @@
+{
+  "sector_definitions": {
+    "GPU/Semiconductor": {
+      "firms": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "SMCI"
+      ],
+      "role": "AI infrastructure enabler"
+    },
+    "Cloud/AI Platform": {
+      "firms": [
+        "MSFT",
+        "GOOGL",
+        "META",
+        "PLTR"
+      ],
+      "role": "LLM deployment & services"
+    },
+    "Speculative AI": {
+      "firms": [
+        "BBAI",
+        "IONQ",
+        "RGTI",
+        "SOUN"
+      ],
+      "role": "Emerging AI specialists"
+    },
+    "Control": {
+      "firms": [
+        "KO",
+        "PG",
+        "XOM"
+      ],
+      "role": "Non-tech baseline"
+    }
+  },
+  "price_correlations": {
+    "GPU/Semiconductor": 0.502,
+    "Cloud/AI Platform": 0.397,
+    "Speculative AI": 0.379,
+    "Control": 0.269,
+    "GPU_to_Cloud": 0.342,
+    "GPU_to_Spec": 0.231,
+    "Cloud_to_Spec": 0.213,
+    "GPU_to_Control": -0.078
+  },
+  "narrative_metrics": {
+    "GPU/Semiconductor": {
+      "early_density": 0.167,
+      "late_density": 1.0,
+      "growth": "3.0x",
+      "interpretation": "Rapid consolidation around AI narrative"
+    },
+    "Cloud/AI Platform": {
+      "early_density": 0.667,
+      "late_density": 1.0,
+      "growth": "1.2x",
+      "interpretation": "Already mature narrative ecosystem"
+    }
+  },
+  "value_chain": {
+    "GPU_to_Cloud_causal_driver": 102,
+    "GPU_to_Cloud_substitute": 45,
+    "homophily_index": 2.22,
+    "interpretation": "Strong value-chain coupling: GPUs enable Cloud AI"
+  }
+}

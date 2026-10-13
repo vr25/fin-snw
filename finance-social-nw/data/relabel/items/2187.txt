@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The online counseling service BetterHelp has agreed to return $7.8 million to customers to settle with the Federal Trade Commission for sharing health data it had promised to keep private — including information about mental health challenges — with companies including Facebook and Snapchat.
+The proposed FTC order announced Thursday also limits how the California-based company may share consumer data in the future.
+Stream Philadelphia News for free, 24/7, wherever you are with NBC10.
+BetterHelp said the settlement was not an admission of wrongdoing and that the behavior for which it was sanctioned is standard for the industry.
+Samuel Levine, director of the FTC’s Bureau of Consumer Protection, however, said BetterHelp betrayed consumers’ most personal health information for profit.
+“When a person struggling with mental health issues reaches out for help, they do so in a moment of vulnerability and with an expectation that professional counseling services will protect their privacy,” Levine said in a statement. Levine called the proposed order “a stout reminder that the FTC will prioritize defending Americans’ sensitive data from illegal exploitation.”
+The enforcement action follows a similar one on Feb. 1 in which telehealth and prescription drug discount provider GoodRx Holdings was assessed a $1.7 million penalty for sharing users' personal health data with Facebook, Google and other third parties without their consent.
+The FTC has made it clear of its intent to crack down on the trafficking in sensitive health data by businesses not strictly classified as health care providers and thus not covered by HIPAA, the federal privacy rules that govern the health care industry.
+BetterHelp provides online counseling, including services geared toward Christians, teens and the LGBTQ community. Customers interested in its services fill out questionnaires that ask for sensitive mental health information such as whether they have experienced suicidal thoughts and if they are on medication. They are then matched with counselors.
+During the signup process, customers were promised BetterHelp would not use or disclose their personal health data except for limited purposes such as to provide counseling, the FTC said.
+The company nevertheless revealed data including email and IP addresses and questionnaire information to Facebook, Snapchat, Criteo, and Pinterest for advertising purposes, the FTC said in its complaint. It also accused BetterHelp of misleading customers and the public in 2020 by falsely denying news reports that it had revealed customers' personal data to third parties.
+Under the proposed order, BetterHelp will provide partial refunds for customers who used the service from Aug. 1, 2017 until the end of 2020, the FTC said.
+BetterHelp called the data-sharing practices for which it was sanctioned “industry-standard practice” that is “routinely used by some of the largest health providers, health systems, and healthcare brands.”
+“Nonetheless, we understand the FTC’s desire to set new precedents around consumer marketing, and we are happy to settle this matter with the agency,” it added in a statement on its website.

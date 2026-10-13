@@ -1,0 +1,23 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+The Hong Kong government is preparing to issue its maiden policy statement on the use of artificial intelligence in finance, according to people familiar with the matter, a move that could catalyse the use of the technology in areas from trading to investment banking and cryptocurrencies.
+The city’s Financial Services and Treasury Bureau plans to issue a framework of guidelines to touch on the ethical use of AI and general principles for applying the technology in the finance world, the people said, asking not to be identified discussing private information. Officials are still drafting the document while getting feedback from the industry, the people said. Details are still subject to change in the coming weeks, they said.
+While specifics remain unclear, the document is broadly intended to signal Hong Kong’s support for AI, as governments around the world come to grips with the technology’s potential.
+Local regulators are also trying to resolve some of the confusion around AI in Hong Kong, a city that’s caught up in the US-Chinese technology conflict.
+Many consumers and corporations can’t easily access some of the hottest services from OpenAI’s ChatGPT to Google’s Gemini, because US tech leaders are likely nervous about running afoul of the Chinese territory’s rules, analysts say.
+Officials expect to unveil their statement around late October during Fintech Week, one of the industry’s most important annual gatherings.
+“The government and the financial regulators are closely monitoring market developments and global experiences in order to promote the responsible use of AI in the financial industry,” a spokesman for the Financial Services and Treasury Bureau said in a statement.
+“The government will issue a policy statement later this year, setting out its policy stance and approach on the application of AI in the financial market.”
+Hong Kong wants to re-position the affluent city as a financial center, as foreign investors grow nervous about Beijing’s growing control and consider alternative locations such as Singapore. The Southeast Asian nation has forged ahead in crafting guidance on everything from crypto to fintech and AI.
+At the same time, Wall Street is exploring ways AI might reshape financial firms’ operations. Banks globally have been advertising to lure AI talent and are using emerging technologies for tasks such as examining client portfolios and looking for potential defaulters.
+A policy statement would provide broad direction and wouldn’t be immediately enforceable. Still, such statements have become a popular way for the Hong Kong administration to declare its commitment to new and competitive policy areas such as Web3 and family offices.
+The anticipated statement suggests regulators will adopt a favourable attitude toward AI applications and will later release more concrete rules, the people said.
+The policy statement is intended also to consolidate various detailed guidance from individual banking and securities regulators, according to the people. It will be a separate effort from the government’s technology bureau, which is focused on developing its own AI tools, they added.
+Some Hong Kong financiers have recently become anxious about the difficulty tapping into such services, along with regulatory uncertainties about their usage by companies, according to people familiar with the matter.
+American companies such as OpenAI, Anthropic, and Alphabet Inc.’s Google don’t make their chatbots available here, while those from Chinese tech giants like Baidu Inc. and ByteDance Ltd. can be difficult or impossible to use.
+There are workarounds, however. One major US provider, Microsoft Corp, makes its tools accessible in the city. And other means such as VPNs, or virtual private networks, can be used to disguise users’ locations in order to access chatbots.
+The city’s Securities and Futures Commission updated guidelines on using external data storage providers last year to cover public and private cloud services, virtual and conventional data centers.
+The Hong Kong Monetary Authority and the government-backed technology hub Cyberport started a regulatory sandbox in August for banks to try out new Gen AI use cases. It’s unclear when regulations would permit such applications to be used in real-world cases. The new AI guidelines are expected to provide unified rules and clarity on such uses.
+More stories like this are available on bloomberg.com
+Published on September 17, 2024

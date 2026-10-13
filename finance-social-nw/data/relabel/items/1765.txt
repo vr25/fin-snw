@@ -1,0 +1,16 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Key Points
+-       Nvidia just delivered impressive Q3 results.
+-       It's still well ahead of its rivals in the AI accelerator chip market.
+-       The stock is attractively priced.
+-       10 stocks we like better than Nvidia ›
+Nvidia (NASDAQ: NVDA) has been one of the best stocks to own in 2023, 2024, and 2025. It has outperformed the market each year, and now that we're on the doorstep of 2026, investors are wondering if it can do so again. But next year could be more challenging, as many investors are starting to fear that AI stocks are in a bubble.
+Where is Nvidia heading in 2026? In one sense, it's hard to guess, but the stock's performance may be out of its hands.
+Nvidia projects monster growth for 2026
+Any company only has so much influence over how its stock performs in the short term. Market sentiment can really drive short-term performance, and if the market is bearish on the prospects of artificial intelligence, Nvidia's stock may suffer even if its business is doing great.
+The company's graphics processing units (GPUs) are currently the most popular parallel processors in the AI realm. The flexibility these devices provide, combined with their impressive computing power and the strengths of the CUDA programming platform, which allows developers to get the most out of them, makes them a no-brainer choice. However, there are other hardware options gaining ground. AMD has alternatives that are starting to become more attractive, in part thanks to their lower prices. Broadcom is partnering directly with AI hyperscalers to create their own custom AI chips, called application-specific integrated circuits. For the specific computing tasks those chips are designed for, they can outperform Nvidia's at lower prices -- at the cost of flexibility.
+Despite the rising competition, during Q3, Nvidia's sales rose 62% year over year to $57 billion. Its data center division, which is the most connected to the AI trend, was even stronger, with revenue up 66% to $51.2 billion. Compared to AMD's $4.3 billion in data center revenue (up 22% year over year) and Broadcom's AI semiconductor revenue, which rose 63% to $5.2 billion, Nvidia is clearly still miles ahead.
+Management believes its results will continue to impress for some time. CEO Jensen Huang noted that Nvidia is sold out of cloud GPUs, as demand outpaces supply. Furthermore, Nvidia noted that it has visibility into around $307 billion in revenue from its Blackwell and Rubin systems over the next five quarters.
+Considering Nvidia's trailing-12-month revenue was $187 billion, that could amount to a more than 30% increase in revenue from those platforms alone in 2026.

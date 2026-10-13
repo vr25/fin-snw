@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Artificial Intelligence & Machine Learning , Next-Generation Technologies & Secure Development
+DARPA Picks 7 Small Businesses for AI Cyber Challenge
+Firms Get $1 Million Funding to Develop System to Automatically Fix AI Bugs
+The United States defense research agency said it wants to "redefine" artificial intelligence security, so it is offering support to seven small businesses to automatically find and fix software vulnerabilities at scale.
+See Also: Cortex XSIAM ROI Calculator
+The Defense Advanced Research Projects Agency on Monday, as part of its AI Cyber Challenge, awarded selected companies $1 million each to develop a "cyber reasoning system" using AI.
+One of the chosen companies is Trail of Bits, which said that it will not use large language models in its solution as they "struggle greatly with tasks that are reasoning-intensive, such as identifying novel instances of vulnerabilities in source code or classifying vulnerabilities." Using LLMs will result in high levels of inaccuracies that can derail tasks, such as generating patches, the company said.
+The other companies that received funds to further develop their solutions are Zellic, Smart Information Flow Technologies, Net Shield, GrammaTech, Shellphish Support Syndicate and Panacea.
+Critical infrastructure systems remain vulnerable to cyberattacks, and AI only exacerbates the threat, the Cybersecurity and Infrastructure Security Agency said.
+In the latest round of the AI Cyber Challenge, a panel of government subject matter experts from the U.S. Air Force Research Lab; the Office of the Under Secretary of Defense, Research and Engineering; and the Advanced Research Projects Agency for Health scored the submitted concepts on their feasibility, soundness of technical approach, open-source strategy, and overall submission quality and completeness.
+Announced at the annual Black Hat cybersecurity conference in Las Vegas in August, the two-year "AIxCC" challenge aims to bring together the "best and the brightest in AI and security" and offers nearly $20 million in prizes to participants who could use the technology to fix vulnerabilities in critical software code. To level the playing field, DARPA said it would award up to $1 million to each of seven small businesses that wanted to partake in the challenge.
+The defense agency is running the initiative with Anthropic, Google, Microsoft and OpenAI, which are offering participants their platforms and guidance in a bid to develop a competition model to drive innovation among the security and AI communities.
+"In cybersecurity, there's always a race between offense and defense. We see the promise of AI in enabling defense to be one step ahead," Anne Neuberger, the U.S. deputy national security adviser, said at the time (see: White House Debuts $20M Contest to Exterminate Bugs With AI).
+The AIxCC competitors will test their solutions at DARPA's semifinal event at DEF CON 2024 in Las Vegas. Up to five of the highest-scoring teams will receive $2 million each and advance to the finals, which will be held at DEF CON 2025. The finalists with the top three scores will receive additional prizes, and the top scorer will receive a $4 million prize.
+All prize winners will need to open-source their solutions. The Open Source Security Foundation, run by the Linux Foundation, is serving as a contest adviser.
+DARPA has used prize challenges for nearly two decades to solve "staggeringly hard problems," Arati Prabhakar, director of the White House Office of Science and Technology Policy, said when the challenge was announced. Such initiatives allow public and private sectors to work together to "do big things" and "change how the future unfolds," she said.

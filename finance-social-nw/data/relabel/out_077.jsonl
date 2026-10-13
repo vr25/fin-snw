@@ -1,0 +1,20 @@
+{"id": "1540", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "CHOW Hunger Walk Is Coming", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1541", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MATT O'BRIEN", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1542", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The global stock market", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1543", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Artificial intelligence's imprint on", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1544", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Artificial intelligence's imprint on", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1545", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Artificial intelligence's imprint on", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1546", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Artificial intelligence's imprint on", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1547", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Artificial intelligence's imprint on", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1548", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence's imprint on", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1549", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Tuning into conference calls", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1550", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Stocks rise on Wall", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1551", "ticker_a": "AMD", "ticker_b": "PLTR", "first_words": "Goldman Sachs strategist urges", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1552", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Foxconn expects higher third", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1553", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Authored by Akanksha Kaul", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1554", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "AI experts warn that", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1555", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "AI experts warn that", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1556", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "AI experts warn that", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1557", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The third quarter statistics", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1558", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This is a sample", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1559", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "If you do a", "relation": "unrelated-mention", "sentiment_alignment": 0}

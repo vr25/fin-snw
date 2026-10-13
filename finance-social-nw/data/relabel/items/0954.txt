@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Nvidia (NVDA +0.22%) stock looks almost unstoppable. The company's sales and profits have been soaring, and demand for its chips continues to skyrocket as tech companies look to develop artificial intelligence (AI) models. This year, its market cap topped $3 trillion, landing it a spot among the three most valuable companies in the world.
+But all that success could come at a cost. Nvidia has become so dominant and important in its part of the AI space that it has drawn the attention of antitrust regulators.
+NASDAQ: NVDA
+Key Data Points
+Antitrust investigations focus on powerful influence in AI
+According to a New York Times article, the Justice Department and Federal Trade Commission are proceeding with antitrust investigations into three significant players in the AI industry: Nvidia, Microsoft, and OpenAI, the company behind ChatGPT.
+There's no denying how successful Nvidia has become as a result of the emergence of generative AI. ChatGPT was launched on November 30, 2022, and since then, Nvidia's share price has risen by around 600%. As the leading provider of the high-end processors necessary to train and power AI models, most companies that want to develop such software are going through Nvidia. And as the Times report notes, one issue is that Nvidia's AI software platform "locks customers into using its chips."
+In the case of OpenAI, the company's generative AI chatbot, ChatGPT, has become hugely successful, and even former employees believe that there needs to be more oversight of such systems given how quickly the AI industry has been growing. Microsoft is also a major player in the industry, and has purchased a 49% stake in OpenAI.
+What does this mean for Nvidia?
+If the antitrust investigation of Nvidia leads to charges, there are many possible outcomes. Those could be as minimal as regulators fining the company, or as serious as ruling that it must restructure its operations, and possibly divest itself of certain business units.
+Financially, the company is in an excellent position to weather any fines it might face: Nvidia has generated more than $39 billion in free cash flow over its last four reported quarters, and during that time, its profits have totaled nearly $43 billion.
+It's difficult to predict the outcome when it comes to any legal case. Given the significance of AI and how quickly these three companies become the major players in the industry, I'm inclined to think that if the Justice Department's investigation concludes Nvidia violated antitrust laws, the consequences could be more significant than simple fines or penalties. But I also don't think they would be something as drastic as a breakup of the tech company.
+Antitrust cases can take years to play out, which can be both good and bad news for investors -- good in the sense that they may not directly impact the business under scrutiny right away, but bad because they cast a cloud over the target that doesn't lift until the matter is resolved.
+Is Nvidia too risky to buy right now?
+Although antitrust cases can be concerning, investors shouldn't worry too much about these developments. Besides, predicting with any accuracy what regulators and the courts will do in these situations is next to impossible.
+For now, long-term investors should stay the course. This news isn't a reason to sell your shares of Nvidia since, effectively, nothing has happened yet.
+If, however, you are risk-averse and are worried about the long-term risk this poses for the GPU giant, it may be a good idea to consider investing in other AI stocks, especially given that Nvidia's valuation is effectively priced for perfection. When a stock carries such a high price tag, any hint of bad news can lead to a sell-off.

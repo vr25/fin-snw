@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Long Island schools sue social media giants over child safety concerns
+LONG ISLAND - Nearly a dozen Long Island school districts filed lawsuits against companies, including META, which is responsible for Facebook and Instagram, along with TikTok, Snapchat, and Google for allegedly not doing enough to protect children.
+"I know it’s a great communicative tool but there’s a negative side," said Superintendent Dr. Vito D’Elia with the South Huntington School District. "They’re entering places they’re not mature enough to enter."
+The lawsuits come just weeks after the U.S. surgeon general called on Congress to require warning labels on social media platforms stating use is associated with significant mental health harms for adolescents.
+The South Huntington School District already has a curriculum catered to social-emotional learning. Officials believe additional safeguards should be in place.
+"Shouldn’t there be oversight like parents receiving an email saying that your child signed up for so and so," D’Elia said.
+The Jericho School District says platforms shouldn’t be able to track students’ personal information and internet activity, adding algorithms to target children who are already in a vulnerable state. They hope the companies will accept responsibility and pay up.
+"We’re looking for a mechanism to increase our funding to support our support staff in order to help our kids," said Jericho Superintendent Hank Grishman.
+New York Attorney General Letitia James and more than 30 other state attorneys general filed suits claiming META, facebook’s parent company purposely installed addictive features on its platforms and contributed to the youth mental-health crisis.
+"We know it’s impacting depression and anxiety, we know it’s making kids feel more isolated," said Dr. Vera Feuer who is the Associate Vice President at the School Mental Health with Northwell Health.
+More than two dozen other districts across Long Island are planning to file similar lawsuits. We reached out to the plaintiffs, Google for their part says the allegations are simply not true.

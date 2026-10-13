@@ -1,0 +1,59 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+(Bloomberg) -- Stocks saw their worst week since March 2023 and bonds whipsawed as another disappointing US jobs report revived concerns the economy is cooling and the Federal Reserve is moving too slow to rescue it.
+The S&P 500 dropped 1.7% and the Nasdaq 100 slumped 2.7% as data showed US payroll additions were 23,000 short of forecasts in August. Treasury two-year yields slipped as much as 15 basis points — before paring the move. At the same time, Wall Street bets on a half-point Fed reduction this month faded again — after briefly gaining momentum when Fed Governor Christopher Waller said he's "open-minded" about the potential for a bigger cut.
+"Markets have turned their attention toward how much the Fed will ease and how fast the economy is slowing," said Scott Wren at Wells Fargo Investment Institute. "Expect the near-term volatility."
+Nonfarm payrolls rose by 142,000 last month, leaving the three-month average at the lowest since mid-2020. The unemployment rate edged down to 4.2%, the first decline in five months, reflecting a reversal in temporary layoffs.
+"August employment data continue the portrayal of an economy running out the string, nearing an inflection point," according to Steven Blitz at TS Lombard. "Whether inflection turns into recession, or something less negative, depends upon how aggressive the Fed counters current negative momentum. Does the Fed go 25 or 50?"
+While the reaction to the previous jobs data was worse, it's the first time since 2012 the S&P 500 saw losses of at least 1.5% for two jobs days in a row.
+Almost every major group in the S&P 500 fell. The Nasdaq 100 extended its slide from a July peak to about 11%. Nvidia Corp. sank 4.1%. Broadcom Inc. tumbled 10% on a disappointing forecast. The Dow Jones Industrial Average slid 1%. The Russell 2000 of smaller firms slumped 1.9%. Wall Street's fear gauge — the VIX — topped 22.
+Treasury 10-year yields were little changed at 3.72%. The dollar wavered. Bitcoin sank 4.5%. Oil and gold retreated.
+Traders are pricing in at least a quarter-point worth of easing this month, though some are still betting on a bigger move when officials gather in Washington Sept. 17-18.
+To Krishna Guha at Evercore, Waller's remarks expressed a clear preference for getting started with 25 basis-point cut in September and be ready to accelerate to 50 basis points in November or any subsequent meeting if risks to employment increase.
+"This is not the worst possible approach," Guha said. "But in our view, it is still not sufficiently forward-leaning in terms of risk management, and as such 'not risk-friendly' for markets."
+While Fed Chair Jerome Powell has said the Fed does not welcome further cooling in the labor market, the numbers are trending in that direction (with revisions), according to Don Rissmiller at Strategas.
+"For insurance against downward downward revisions, the Fed should cut by 50 basis points in September," he said. "They look behind the curve currently."
+Amid all the discussion about the size of the Fed reduction, "it strikes us" that the market is readying for a "photo finish" based on the August inflation profile — although employment will undoubtedly be weighted more heavily by officials at this stage in the cycle, according to Ian Lyngen at BMO Capital Markets.
+"Perhaps it will be more akin to a game-time decision? Either way, many have thrown in the towel and will be sitting on the sidelines as the debate moves into overtime. It goes without saying that the Fed is running down the clock on terminal and rate cuts are at the starting blocks. Powell needs a slam dunk to stick the landing," he noted.
+Wall Street's Reaction to Jobs:
+David Donabedian at CIBC Private Wealth:
+The soft August payroll report does not scream recession, but it does underline that the balance of risks to a soft landing scenario is to the downside.
+The equity market is still trying to figure out how much slowing is going on in the economy. Is it a gentle flow or is stagnation a possibility? Today's report does not settle that question. It is a coin flip what the Fed will do. If the Fed lowers rates by 50 basis points, the risk is that it looks like the Fed is panicking and that the recession risk is higher than generally believed.
+Florian Ielpo at Lombard Odier Investment Managers:
+This data does not necessarily green-light the Fed for a 50 basis points cut in September: the sense of emergency isn't there yet, and much can already be accomplished with a dovish statement in September.
+The motto of "not as bad as expected but not good either" is what markets will have to live with for some time now.
+Seema Shah at Principal Asset Management:
+Rarely has there been such a make or break number – unfortunately, today's jobs report doesn't entirely resolve the recession debate.
+For the Fed, the decision comes down to deciding which is the bigger risk: reigniting inflation pressures if they cut by 50 basis points or threatening recession if they only cut by 25 basis points. On balance, with inflation pressures subdued, there is no reason for the Fed not to err on the side of caution and frontload rate cuts.
+Andrew Brenner at NatAlliance Securities:
+The employment report today was weak enough for the Fed to go either way. We we don't see any more employment-related reports to get us back to 50. That does not mean we can't get 25 in September and 50 each in both November and December. Fed is clearly behind the curve.
+Tiffany Wilding at Pacific Investment Management Co.:
+Overall, today's report is very consistent with an economy that is slowing, but not crashing.
+We still think policy makers are most likely to kick off the cutting cycle with a 25 basis point cut in September. Regardless of the size of the September cut, we think Federal Open Market Committee officials will signal through updated projections that they plan to return policy to more normal levels much faster than previously thought, perhaps getting there by end of 2025.
+Jeffrey Roach at LPL Financial:
+Our view is the Fed will likely cut by 25 basis points and reserve the right to be more aggressive in the last two meetings of the year.
+Brian Rose at UBS Global Wealth Management:
+In our view, the data available so far has not been weak enough to force the Fed to cut aggressively. We maintain our base case of a soft landing for the economy with the Fed cutting rates 100 basis points by year-end.
+Some of the main moves in markets:
+Stocks
+The S&P 500 fell 1.7% as of 4 p.m. New York time
+The Nasdaq 100 fell 2.7%
+The Dow Jones Industrial Average fell 1%
+The MSCI World Index fell 1.4%
+Currencies
+The Bloomberg Dollar Spot Index was little changed
+The euro fell 0.2% to $1.1086
+The British pound fell 0.4% to $1.3131
+The Japanese yen rose 0.7% to 142.42 per dollar
+Cryptocurrencies
+Bitcoin fell 4.5% to $53,530.88
+Ether fell 6.1% to $2,223.33
+Bonds
+The yield on 10-year Treasuries was little changed at 3.72%
+Germany's 10-year yield declined four basis points to 2.17%
+Britain's 10-year yield declined three basis points to 3.89%
+Commodities
+West Texas Intermediate crude fell 1.4% to $68.18 a barrel
+Spot gold fell 0.8% to $2,495.77 an ounce
+This story was produced with the assistance of Bloomberg Automation.

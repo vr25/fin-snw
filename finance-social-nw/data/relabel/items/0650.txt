@@ -1,0 +1,32 @@
+TICKER_A: AMD
+TICKER_B: MSFT
+POST:
+S&P 500 hits fresh closing high ahead of Fed meeting, big tech earnings
+By Stephen Culp
+NEW YORK (Reuters) -U.S. stocks advanced on Monday as market participants looked ahead to this week's slew of megacap earnings, economic data and the Federal Reserve's monetary policy meeting.
+All three major U.S. stock indexes advanced, with the tech-laden Nasdaq enjoying the largest percentage gain.
+The S&P 500 notched yet another record closing high.
+With the bellwether index up 3.3% so far in the first month of 2024, BlackRock raised its overall U.S. stocks view to "overweight" from "neutral."
+"Today is the calm before the storm," said Ryan Detrick, chief market strategist at Carson Group in Omaha. "This is a truly headline-driven week, with earnings, the Fed, the jobs report and ongoing geopolitical uncertainties."
+"So with stocks at all time high, if we see any disappointments that could upset the apple cart and cause some well-deserved volatility," Detrick added.
+A spate of earnings from high profile tech and tech-adjacent momentum stocks waits in the wings, starting on Tuesday with Alphabet Inc and Microsoft Corp, Qualcomm Inc and Wednesday and culminating on Thursday with Apple Inc, Amazon.com and Meta Platforms Inc.
+Other closely watched results include General Motors Inc on Tuesday, Boeing Co on Thursday, with oil supermajors Exxon Mobil Corp and Chevron Corp wrapping up the week on Friday.
+The Federal Open Markets Committee is scheduled to convene on Tuesday for its two-day monetary policy meeting, at which its voting members are widely expected to leave the key Fed funds target rate unchanged at 5.25% to 5.50%.
+"Powell is probably going to be somewhat cautious. The Fed doesn't want to be burned by inflation, and will push back on the (expected) March cut as a near certainty," Detrick said.
+Fed Chair Jerome Powell and other policymakers have warned not to expect interest rate cuts before inflation cools down to its average 2% annual target, but have also vowed to remain agile as they respond to economic data.
+This week's roster of economic reports includes the labor market, with the Job Openings and Labor Turnover Survey, ADP, fourth-quarter employment costs, productivity, and planned layoffs, and the January employment report on Friday.
+Case-Shiller home prices, consumer confidence, the Institute for Supply Management's purchasing managers' index, construction spending and factory orders are also on deck.
+Robust economic data of late - particularly last week's strong gross domestic product and personal consumption expenditures data - have simultaneously calmed fears of imminent recession and tossed cold water on hopes that the Fed would begin cutting interest rates as soon as March.
+The Dow Jones Industrial Average rose 224.02 points, or 0.59%, to 38,333.45. The S&P 500 gained 36.96 points, or 0.76%, at 4,927.93 and the Nasdaq Composite advanced 172.68 points, or 1.12%, to 15,628.04.
+Ten of the 11 S&P 500 sector indexes rose, led by consumer discretionary, up 1.37%, followed by a 0.97% gain in information technology.
+Energy sector was the sole declining sector.
+Tesla Inc surged 4.2% after the electric car maker revealed capex plans.
+Robot vacuum maker iRobot slid 8.8% as the company and Amazon scrapped merger plans in the face of opposition from EU antitrust regulators.
+Meta Platforms rose 1.7% after brokerage Jefferies raised its target price on the stock to $455 from $425.
+Warner Bros Discovery lost 1.2% as brokerage Wells Fargo downgraded the streaming platform to "equal weight" from "overweight."
+Financial technology firm SoFi Technologies jumped 20.2% after posting a fourth-quarter profit.
+Stocks on the NYSE scored 397 new highs and 50 new lows.
+On the Nasdaq 2,975 stocks rose and 1,314 fell as advancing issues outnumbered decliners by a roughly 2.3-to-1 ratio.
+The S&P 500 posted 45 new 52-week highs and no new lows while the Nasdaq recorded 226 new highs and 101 new lows.
+Volume on U.S. exchanges was relatively light, with 10.3 billion shares traded, compared to an average of 11.5 billion shares over the previous 20 sessions.
+(Reporting by Stephen Culp; Additional Reporting by Ankika Biswas and Johann M Cherian in Bengaluru; Editing by Richard Chang)

@@ -1,0 +1,17 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+AI data platform Vast Data has unveiled an AI architecture for data centers, developed in partnership with Nvidia.
+The vendor claims the new system will deliver improved performance and quality of service, as well as enhanced zero-trust security.
+Built on Nvidia BlueField-3 data processing unit (DPU) technology, the architecture “makes it possible to disaggregate the entirety of Vast’s operating system natively into AI computing machinery, transforming supercomputers into AI data engines,” the company said.
+Vast’s system enables users to train AI models by storing and synthesizing large amounts of data. Last year it launched its data platform which offers storage, database, and compute engine services to support AI-enabled research.
+Jeff Denworth, co-founder at Vast Data, said: “This new architecture is the perfect showcase to express the parallelism of the Vast Data Platform. With Nvidia BlueField-3 DPUs, we can now realize the full potential of our vision for disaggregated data centers that we’ve been working toward since the company was founded.”
+The company said the new architecture design embeds storage and database processing services directly into AI servers and delivers what it describes as “true linear data services designed to scale to hundreds of thousands of GPUs.” It also removes multiple layers of x86 hardware and networking from Vast’s data platform infrastructure, something that Vast believes can dramatically reduce the cost, footprint, and power associated with AI data services.
+Indeed, it claims the architecture can reduce the power usage and data center footprint for deploying Vast infrastructure by 70 percent.
+The new system is being tested by GPU cloud provider CoreWeave. The companies have an existing partnership, having launched a dedicated AI cloud last year.
+Peter Salanki, vice president of engineering at CoreWeave, said the architecture has been “a game-changer” for his company, enabling it to “fully disaggregate” its data centers.
+“We’re seamlessly integrating Vast’s advanced software directly into our GPU clusters,” Salanki said. “Leveraging Nvidia BlueField DPUs, we’ve been at the forefront of creating sophisticated, software-defined data center abstractions.
+“Now, by natively incorporating storage and database services onto BlueField, we’re not just streamlining our infrastructure but we are also elevating the user experience for our customers by removing bottlenecks in the AI data computing pipeline.”
+Vast launched its new architecture ahead of Nvidia’s GTC conference, taking place in San Jose next week. It has also revealed it is working with another vendor, SuperMicro, on a new collaboration to deliver a full-stack, end-to-end AI solution aimed at simplifying the creation and expansion of large-scale AI deployments.
+The two companies will “offer service providers, hyperscalers, and large, data-centric enterprises with a highly performant and resilient AI solution powered by Nvidia-certified systems,” according to a joint statement.
+“Collaborating with Supermicro, we’re delivering a unified hyperscale data platform that will make it easier for service providers and enterprises to be competitive in the AI race,” said Vast CEO and co-founder Renen Hallak.

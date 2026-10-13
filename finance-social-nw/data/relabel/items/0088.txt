@@ -1,0 +1,42 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Happy Monday, readers. I'm Phil Rosen, reporting from New York City.
+In case you missed it, last week Microsoft held an event that had the buzz of a Steve Jobs iPhone launch.
+At the company's headquarters just outside Seattle, journalists packed a room as Chief Executive Satya Nadella presented a revamped version of Bing — the search engine that's long been the butt of jokes and always fallen short when compared to long-time leader Google.
+But moving forward, Bing will be powered by technology from ChatGPT creator OpenAI.
+"It's a new day in Search," Nadella said. "Rapid innovation is going to come. In fact, a race starts today."
+For the inside story on how Microsoft caught up with Google in the AI race — and the unlikely exec who made it happen — I recommend my colleague Ashley Stewart's excellent reporting.
+As for today's newsletter, let's see how Wall Street's gearing up for what might just be the next frontier of the investing landscape.
+If this was forwarded to you, sign up here. Download Insider's app here.
+1. In this two-horse race, Google certainly didn't do itself any favors in bumbling its own AI demo last week. Shares of Alphabet plunged after onlookers pointed out that chatbot Bard made a mistake in its debut.
+That said, and with Microsoft appearing to take an early lead, Bank of America strategists still cautioned not to count out Google just yet.
+"We think Google's big reveal is still to come, which we would expect in weeks and not months," they wrote in a Thursday note to clients.
+But for now, OpenAI's ChatGPT — buoyed by a $10 billion investment from Microsoft — remains remarkably popular among consumers.
+It's accrued 1 billion web hits since launching in November, and BofA said its integration with Bing presents uncertainties for Google.
+Microsoft may be able to siphon off some of Google's market share in search engine use, but in BofA's view, Alphabet will be hard to dethrone given its underlying, proven strength.
+"Google has been preparing for AI for years, despite disappointment on Paris press event, we think Google likely has superior AI technology for search, or at least better data to drive better results," strategists wrote, adding that Google's AI product visibility is poised to increase significantly in the next three months.
+Deepwater Asset Management's Gene Munster echoed that sentiment, calling Alphabet's stock drop last week an overreaction.
+"To make a decision that Google has been behind the curve based on a demo, I think, is a little bit premature," Munster told CNBC after the presentation aired.
+(It's worth noting that OpenAI founder Sam Altman recently called Google a "lethargic search monopoly.")
+Meanwhile, Chinese companies Baidu and Alibaba saw their stocks rally after announcing they're each working on answers to ChatGPT. But the battle will ultimately come down to Microsoft and Google, according to venture capitalist Vinod Khosla.
+Khosla was the first VC investor in OpenAI, and on Wednesday he called AI "the most critical technology for the planet in the next 20 years."
+Generative AI technology behind ChatGPT and similar tools will recast search engines into "answer engines," he explained, and the two tech giants bring different attributes to the race.
+"OpenAI needed the large resources Microsoft had, so it's been a great partnership," Khosla said. "They are a fast, nimble organization [and] that's their advantage. Google has a lot of research talent and they have a lot of good technology also, and I've no doubt they'll get it right."
+Are you planning to invest in the AI hype?
+A) Yes
+B) No
+C) Already have
+Tweet me (@philrosenn) or email me (prosen@insider.com) to let me know.
+In other news:
+2. US stock futures are meandering early Monday, as investors prepare for a big week in markets. A highly watched reading on US consumer inflation will be released Tuesday — and will likely influence the Fed's outlook for interest rates. Here are the latest market moves.
+3. Earnings on deck: CSL, Arista Networks, and more, all reporting.
+4. Bank of America shared a four-part strategy to double market returns for the next decade. Strategists expect small caps to outperform the broader market's annual returns in the years to come. Find out how to capitalize on the trend.
+5. Record highs for the stock market are within reach this year, according to Fundstrat. The research group said shaky earnings results illustrate that bad news is already priced in, even as some commentators warn that earnings are the "next shoe to drop. In Fundstrat's Tom Lee's words: "Investors are punishing [earnings] misses to a far less extent."
+6. Anthony Scaramucci, Coinbase boss Brian Armstrong, and other crypto bigwigs are raging about the SEC's response to Kraken. The exchange will shut down its US crypto staking program and pay $30 million to settle regulatory charges. Here's what nine top voices in the digital asset space have to say about what it all means.
+7. Insider asked seven burning questions to veteran economist David Rosenberg. Among his predictions are a stock crash of 20% and falling home prices. See his complete answers.
+8. This couple in their 30s paid off their $234,000 mortgage in five years. Not only that, but they've built a net worth of over $1 million. They explained how they invest their money and why they choose to keep only $10,000 in their checking account.
+9. Credit Suisse shared a list of their highest-conviction stocks that they think the market is underpricing. This year could shape out to be another year for stock pickers to shine above the rest. See the list of 15 names — including three that have at least 50% upside.
+10. Tesla's huge stock rebound has put Elon Musk back into the conversation for the world's richest man once again. After last year's brutal stock performance, Tesla has skyrocketed over the last six weeks, and one analyst called Elon Musk the new Steve Jobs. Tesla's stock climb has put Musk's net worth right on the heels of Bernard Arnault.
+Curated by Phil Rosen in New York. Feedback or tips? Tweet @philrosenn or email prosen@insider.com
+Edited by Jason Ma in Los Angeles and Hallam Bullock (@hallam_bullock) in London.

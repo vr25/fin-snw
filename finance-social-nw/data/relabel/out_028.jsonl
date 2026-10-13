@@ -1,0 +1,20 @@
+{"id": "0560", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Updated December 20, 2023 at", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0561", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Updated December 20, 2023 at", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0562", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New Delhi: The United States", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0563", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "New Delhi: The United States", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0564", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "New Delhi: The United States", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0565", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "1Password now lets you swap", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0566", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dow Jones futures tilted higher", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0567", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Dow Jones futures tilted higher", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0568", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Dow Jones futures tilted higher", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0569", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "In this article, we will", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0570", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Why Google's lobbying in California", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0571", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0572", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Deputy Opposition Leader Sussan Ley", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0573", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Deputy Opposition Leader Sussan Ley", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0574", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0575", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "I received this parody of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0576", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Tuesday, December 26, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0577", "ticker_a": "AMD", "ticker_b": "META", "first_words": "Advertisement No Longer Available", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0578", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "- Fisker's Loyalty Program provides", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0579", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft's New AI-Focused Surface", "relation": "unrelated-mention", "sentiment_alignment": 0}

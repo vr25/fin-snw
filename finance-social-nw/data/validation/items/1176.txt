@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Leading lights of the tech industry are meeting in Lisbon on Tuesday for the Web Summit, the sector’s first big event since the US election, with Donald Trump’s victory expected to be a key theme of their discussions.
+The tech industry is holding its breath to see what Trump’s second term will bring when he takes over in January, especially as SpaceX and Tesla chief Elon Musk is expected to have a huge influence on the next US government.
+During Trump’s last term from 2017 to 2021, big tech firms were often at odds the with the president, particularly given his crackdown on immigration and ramping up the trade war with China.
+The Web Summit, which runs until Thursday, will bring together some 70,000 attendees with more than 3,000 startups and 1,000 investors, according to the organisers.
+Several sessions will deal directly with the fallout of the US election on the sector, but organisers told AFP it was too early to judge how the industry would react.
+The event kicked off on Monday night with singer Pharrell Williams bringing star power to the proceedings.
+Organisers were keen to move on from last year’s edition when a string of big firms pulled out after Web Summit chief executive Paddy Cosgrave wrote social media posts accusing Israel of war crimes in Gaza.
+Cosgrave stepped down but has since returned to his post, making no reference to the controversy in his opening speech Monday, saying simply: “It’s good to be back.”
+– AI ‘suicide race’ –
+Cosgrave stressed how the Web Summit is focused on the startup ecosystem first and foremost.
+But big tech firms have returned to the gathering this year with Meta, Google and others all represented.
+Microsoft President Brad Smith is due to lay out how the software juggernaut envisages the next phase of its artificial intelligence strategy, after spending billions to infuse the technology into most of its products.
+AI is expected to be the central theme — Cosgrave commented that there were so many AI startups it was now “one of the world’s biggest AI events”.
+On Monday, prominent AI critic Max Tegmark, president of the Future of Life Institute, renewed his warnings that humanity could be on the path to oblivion.
+He said governments needed to pass stiff regulations to halt the development of artificial general intelligence — a notional superintelligent AI capable of dominating humans.
+Tegmark criticised the narrative that pitted great powers against each other in a competition to dominate the field, commenting: “It’s not an arms race between the US and China, it’s a suicide race.”

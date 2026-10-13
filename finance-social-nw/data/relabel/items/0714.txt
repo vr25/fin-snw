@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+- Nvidia reported earnings after the bell that beat Wall Street expectations for earnings and sales, and said revenue during the current quarter would be better than expected.
+- Nvidia has been the primary beneficiary of the recent technology industry obsession with large artificial intelligence models, which are developed on the company's pricey graphics processors for servers.
+- Nvidia CEO Jensen Huang addressed investor fears that the company may not be able to keep up this growth or level of sales for the whole year on a call with analysts.
+Nvidia reported fourth fiscal quarter earnings that beat Wall Street's forecast for earnings and sales, and said revenue during the current quarter would be better than expected, even against elevated expectations for massive growth.
+Nvidia shares rose about 10% in extended trading.
+Watch NBC 4 free wherever you are
+Here's what the company reported compared with what Wall Street was expecting for the quarter ending in January, based on a survey of analysts by LSEG, formerly known as Refinitiv:
+- Earnings per share: $5.16 adjusted vs. $4.64 expected
+- Revenue: $22.10 billion vs. $20.62 billion expected
+Nvidia said it expected $24.0 billion in sales in the current quarter. Analysts polled by LSEG were looking for $5.00 per share on $22.17 billion in sales.
+Nvidia has been the primary beneficiary of the recent technology industry obsession with large artificial intelligence models, which are developed on the company's pricey graphics processors for servers.
+Nvidia CEO Jensen Huang addressed investor fears that the company may not be able to keep up this growth or level of sales for the whole year on a call with analysts.
+"Fundamentally, the conditions are excellent for continued growth" in 2025 and beyond, Huang told analysts. He says demand for the company's GPUs will remain high due to generative AI and an industry-wide shift away from central processors to the accelerators that Nvidia makes.
+Nvidia reported $12.29 billion in net income during the quarter, or $4.93 per share, up 769% versus last year’s $1.41 billion or 57 cents per share.
+Nvidia's total revenue rose 265% from a year ago, based on strong sales for AI chips for servers, particularly the company's "Hopper" chips such as the H100, it said.
+"Strong demand was driven by enterprise software and consumer internet applications, and multiple industry verticals including automotive, financial services and health care," the company said in commentary provided to investors.
+Those sales are reported in the company's Data Center business, which now comprises the majority of Nvidia's revenue. Data center sales were up 409% to $18.40 billion. Over half the company's data center sales went to large cloud providers.
+Nvidia said its data center revenue was hurt by recent U.S. restrictions on exporting advanced AI semiconductors to China.
+"We understood what the restrictions are, reconfigured our products in a way that is not software hackable in any way, and that took some time so we reset our product offering to China," Huang said. "Now we're sampling to customers in China."
+Nvidia Chief Financial Officer Colette Kress said that while the company had improved supply of its AI GPUs, it still expected them to be in short supply, especially the next-generation chip, called B100, expected to ship later this year.
+"We are delighted that supply of Hopper architecture products is improving," Kress said on a call with analysts. "Demand for Hopper remains very strong. We can expect our next-generation products to be supply constrained as demand far exceeds supply."
+"Whenever we have new products, as you know, it ramps from zero to a very large number and you can't do that overnight," Huang said.
+The company's gaming business, which includes graphics cards for laptops and PCs, was merely up 56% year over year to $2.87 billion. Graphics cards for gaming used to be Nvidia's primary business before its AI chips started taking off, and some of Nvidia's graphics cards can be used for AI.
+Nvidia's smaller businesses did not show the same meteoric growth. Its automotive business declined 4% to $281 million in sales, and its OEM and other business, which includes crypto chips, rose 7% to $90 million. Nvidia's business making graphics hardware for professional applications rose 105% to $463 million.

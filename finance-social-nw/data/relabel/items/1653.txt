@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Small business owners could free up one day each working week if they used artificial intelligence (AI) to help with everyday tasks, according to new estimates by Google.
+Research by the technology giant, along with economic analysis from research agency Public First, found AI-powered tools could boost productivity among small and medium enterprises (SMEs) by 20%.
+Debbie Weinstein, Google’s EMEA president, said business leaders can use the technology for tasks such as writing marketing copy and blog posts, through to developing ideas into actionable plans.
+She also said such tools can help people with learning differences like dyslexia “communicate most effectively”.
+“I think it allows people to get their creative ideas out of their heads and onto paper and into the real world,” she told the PA news agency.
+“I think all of us are going to be using these tools as part of our daily work.”
+Google recently promised to invest £5 billion in the UK in the next two years to help meet growing demand for AI services, such as its Workspace programme which has Gemini – its so-called AI assistant- built in.
+AI chatbot ChatGPT has also ballooned in popularity, with hundreds of millions of users around the world. Meanwhile, tech giant Microsoft is a close partner of ChatGPT’s maker OpenAI and sells its own AI chatbot service Copilot.
+Ms Weinstein stressed the “most important thing that people can do is upskill themselves on these tools and how they apply to their particular roles”.
+It comes amid concerns more firms will turn to AI tools over hiring workers for certain roles.
+Hays, one of Europe’s biggest recruitment agencies, warned last week that labour cost pressures in the UK were pushing employers to explore automation and offshoring.
+More businesses were thinking about work processes where “humans are essential” and then looking to digitise or outsource the rest, the company found.
+Google insists the technology will boost productivity among businesses in the UK.
+It has partnered with the Department for Business and Trade to launch a nationwide tour, with pop-ups in Manchester, Leeds, Edinburgh and Cardiff to help SMEs use AI.
+Peter Kyle, the Business and Trade Secretary, said: “AI is transforming the way we work and this partnership with Google will give small businesses vital hands-on experience of how to capitalise on the many benefits of AI to innovate, grow and compete on the global stage.”

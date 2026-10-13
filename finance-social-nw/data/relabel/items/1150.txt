@@ -1,0 +1,4 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft’s AI bots can pick up office workers’ tedious tasks The technology behemoth is rolling out its ‘autonomous agents’ that are set to transform the workplace Previous Article Next Article

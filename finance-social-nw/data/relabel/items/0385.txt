@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Meta has developed an AI model called SeamlessM4T that can translate and transcribe almost 100 languages in both text and speech as part of its effort to create AI that can comprehend a variety of dialects, TechCrunch reported.
+A new translation dataset called SeamlessAlign is also available in open source. According to Meta, SeamlessM4T is a significant breakthrough in the field of AI-powered speech-to-speech and speech-to-text.
+According to Meta in a blog post shared with TechCrunch, “Our single model offers on-demand translations that help people who speak different languages to communicate more effectively.” The source languages are implicitly recognised by SeamlessM4T without the requirement for a separate language identification mechanism.
+In some ways, SeamlessM4T is the spiritual heir to Universal Speech Translator, one of the only direct speech-to-speech translation systems that support Hokkien, and Meta’s No Language Left Behind, a text-to-text machine translation paradigm.
+Additionally, it expanded on Meta’s architecture for massively multilingual speech, which offers technology for speech synthesis, language identification, and recognition across more than 1,100 languages.
+Not just Meta is devoting efforts to the creation of cutting-edge AI transcription and translation systems.
+As part of Google’s larger effort to develop a model that can comprehend the 1,000 most widely spoken languages in the world, the tech giant is developing what it calls the Universal Speech Model, which goes beyond the wealth of commercial services and open-source models already offered by Amazon, Microsoft, OpenAI, and a number of startups.
+In the meantime, Mozilla led the development of Common Voice, one of the most comprehensive collections of voices in multiple languages for teaching automatic speech recognition systems.
+However, SeamlessM4T is one of the more daring attempts to date to integrate translation and transcription abilities into a single model.
+According to Meta, SeamlessM4T outperformed the most recent state-of-the-art speech transcription model in voice-to-text tasks on an internal benchmark for background noise and “speaker variations” in speech-to-text tasks.
+This is attributed to the training dataset’s rich blend of speech and text data, which according to Meta provides SeamlessM4T an advantage over speech-only and text-only models.
+“With state-of-the-art results, we believe SeamlessM4T is an important breakthrough in the AI community’s quest towards creating universal multitask systems,” stated Meta in the blog post.
+(with inputs from ANI)

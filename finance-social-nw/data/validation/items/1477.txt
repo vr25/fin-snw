@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+By KANIS LEUNG
+HONG KONG (AP) — Hong Kong police on Tuesday accused a mobile game application of advocating armed revolution and promoting secessionist agendas, saying that those who publish it or share it with others online may risk violating national security laws.
+The announcement — the first to publicly denounce a gaming app — indicates that authorities are widening the crackdown that has followed anti-government protests in 2019. Authorities have crushed or silenced many dissenting voices through prosecutions under the 2020 national security law imposed by Beijing and a similar, homegrown law enacted last year.
+In a statement, police warned residents against downloading the “Reversed Front: Bonfire” application, saying those with the app installed might be seen as possessing a publication with a seditious intention.
+They also warned people against providing financial assistance to the application developer, including making in-app purchases.
+“’Reversed Front: Bonfire’ was released under the guise of a game with the aim of promoting secessionist agendas such as ‘Taiwan independence’ and ‘Hong Kong independence,’ advocating armed revolution and the overthrow of the fundamental system of the People’s Republic of China,” police said.
+The game application was developed by ESC Taiwan, which did not immediately respond to The Associated Press’ request for comment. On the application’s Facebook page, the developer posted about surging searches for the game name and a Hong Kong broadcaster’s news report about Tuesday’s development.
+According to the application’s introduction, players can assume the role of Hong Kong, Tibet, Uyghur, Taiwan or Cathaysian Rebel factions, among others, to overthrow the communist regime. They may also choose to lead the communists to defeat all enemies.
+The game’s website says it “is a work of nonfiction. Any similarity to actual agencies, policies or ethnic groups of the PRC in this game is intentional.”
+On Tuesday night, the app was still available on Apple’s App Store but not on the Google Play store. The game publisher last month said Google Play had taken the app down because it did not prohibit users from adopting hateful language in naming.
+Apple, Google and Meta have not immediately commented.
+After playing the game for about three months, Kuo Hao Fu in Taiwan said he found that its content uses a humorous approach to describe serious political issues. Fu disagreed with the police accusations, saying players can also choose to be part of the force representing China.
+“The Hong Kong police’s actions demonstrate how Hong Kong’s democratic freedoms have been controlled by the Chinese Communist Party,” he said. “When even this level cannot be tolerated, it completely destroys creative freedom in gaming.”
+China considers Taiwan its own territory, to be brought under its control by force if necessary. Many Taiwanese in the self-ruled island showed concerns about Hong Kong’s declining freedoms under Beijing’s grip.
+The Beijing and Hong Kong governments insist the city’s national security laws were necessary to return stability to the city following the protests.

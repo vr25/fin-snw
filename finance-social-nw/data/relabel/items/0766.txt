@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- The European Union's parliament on Wednesday approved the world's first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment.
+- Born in 2021, the EU AI Act divides the technology into categories of risk, ranging from "unacceptable" — which would see the technology banned — to high, medium and low hazard.
+- The regulation is expected to enter into force at the end of the legislature in May, after passing final checks and receiving endorsement from the European Council.
+The European Union's parliament on Wednesday approved the world's first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment.
+Stream Connecticut News for free, 24/7, wherever you are.
+The EU brokered provisional political consensus in early December, and it was then endorsed in the Parliament's Wednesday session, with 523 votes in favor, 46 against and 49 votes not cast.
+"Europe is NOW a global standard-setter in AI," Thierry Breton, the European commissioner for internal market, wrote on X.
+The president of the European Parliament, Roberta Metsola, described the act as trailblazing, saying it would enable innovation, while safeguarding fundamental rights.
+"Artificial intelligence is already very much part of our daily lives. Now, it will be part of our legislation too," she wrote in a social media post.
+Dragos Tudorache, a lawmaker who oversaw EU negotiations on the agreement, hailed the deal, but noted the biggest hurdle remains implementation.
+Born in 2021, the EU AI Act divides the technology into categories of risk, ranging from "unacceptable" — which would see the technology banned — to high, medium and low hazard.
+The regulation is expected to enter into force at the end of the legislature in May, after passing final checks and receiving endorsement from the European Council. Implementation will then be staggered from 2025 onward.
+Some EU countries have previously advocated self-regulation over government-led curbs, amid concerns that stifling regulation could set hurdles in Europe's progress to compete with Chinese and American companies in the tech sector. Detractors have included Germany and France, which house some of Europe's promising AI startups.
+The EU has been scrambling to keep pace with the consumer impact of tech developments and the market supremacy of key players.
+Last week, the bloc brought into force landmark competition legislation set to rein in U.S. giants. Under the Digital Markets Act, the EU can crack down on anti-competitive practices from major tech companies and force them to open out their services in sectors where their dominant position has stifled smaller players and choked freedom of choice for users. Six firms — U.S. titans Alphabet, Amazon, Apple, Meta, Microsoft and China's ByteDance — have been put on notice as so-called gatekeepers.
+Concerns have been mounting over the potential for abuse of artificial intelligence, even as heavyweight players like Microsoft, Amazon, Google and chipmaker Nvidia beat the drum for AI investment.
+Governments fear the possibility of deepfakes — forms of artificial intelligence that generate false events, including photos and videos — being deployed in the lead-up to a swathe of key global elections this year.
+Some AI backers are already self-regulating to avoid disinformation. On Tuesday, Google announced it will limit the type of election-related queries that can be asked of its Gemini chatbot, saying it has already implemented the changes in the U.S. and in India.
+"The AI Act has pushed the development of AI in a direction where humans are in control of the technology, and where the technology will help us leverage new discoveries for economic growth, societal progress, and to unlock human potential," Tudorache said on social media on Tuesday.
+"The AI Act is not the end of the journey, but, rather, the starting point for a new model of governance built around technology. We must now focus our political energy in turning it from the law in the books to the reality on the ground," he added.
+Legal professionals described the act as a major milestone for international artificial intelligence regulation, noting it could pave the path for other countries to follow suit.
+"Once again, it's the EU that has moved first, developing a very comprehensive set of regulations," said Steven Farmer, partner and AI specialist at international law firm Pillsbury.
+"The bloc moved early in the rush to regulate data, giving us the GDPR, which we are seeing a global convergence towards," he continued, referring to the EU's General Data Protection Regulation. "The AI Act seems to be a case of history repeating itself."
+Mark Ferguson, public policy expert at Pinsent Masons, said that the passage of the act was just the beginning, and that businesses will need to work closely with lawmakers to understand how it will be implemented.
+Meantime, Emma Wright, partner at law firm Harbottle & Lewis, raised concerns that the act could quickly become outdated as the fast-moving technology continues to evolve.
+"Considering the pace of change in the technology — as shown with the launch of generative AI last year — a further complication could be that the EU AI Act quickly becomes outdated especially considering the timeframes for implementation," she said.

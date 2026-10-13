@@ -1,0 +1,29 @@
+TICKER_A: AVGO
+TICKER_B: GOOGL
+POST:
+Cloud-Native Goes Mainstream as CFOs Seek to Monitor Costs
+Kubernetes will propel application modernization, so cloud leaders should accelerate the shift to containers and Kubernetes, according to Forrester's 2023 cloud predictions report.
+Developments in cloud technology and its adoption will be influenced by growing economic uncertainty, the shift toward cloud-native architectures, and demand from hyperscalers to provider greater efficiency and security.
+These were among the findings in Forrester Research's 2023 cloud predictions report, which predicted organizations would accelerate investment in Kubernetes as a distributed compute backbone for current applications and workloads that can run more efficiently in K8s environments.
+This applies to a range of technology domains, including AI/ML and data management (especially distributed database, data lakes, and data fabric), as well as edge computing and blockchain.
+"Kubernetes will propel application modernization with DevOps automation, low-code capabilities, and site reliability engineering (SRE)," the report noted. "Cloud leaders should accelerate the shift to containers and Kubernetes."
+In fact, each of the "Big Three" public cloud providers offers a managed Kubernetes service — AWS has EKS, Microsoft Azure offers AKS, and Google Cloud provides GKE.
+While each of them does basically the same thing — letting customers run containerized workloads on managed infrastructure — there are important variations in price that organizations must consider.
+Scrutinizing Cloud Costs
+The report also noted that inflation is bringing CFO scrutiny to the cloud — a development that is likely to benefit third-party cloud cost management and optimization (CCMO) providers.
+These specialists will be able to offer organizations a "clear-eyed, vendor-neutral approach" to cloud services and provider offerings.
+"The cost management tools from cloud providers are generally fine for tactical decisions on spending but do not always provide the higher level views that the CFO office is looking for."
+— Lee Sustar, analyst, Forrester
+"Executive pressure for multicloud visibility and optimization will boost Apptio's Cloudability and Flexera One as concerns about Broadcom's acquisition of VMware slows CloudHealth's momentum," the report noted.
+It added that CloudHealth customers would shift to Apptio and Flexera as cloud financial operations (FinOps) takes center stage.
+There's interest from the CFO organization in third-party tools for cloud cost management and optimization that can give them a vendor-neutral tool, especially in multicloud environments, according to Forrester analyst Lee Sustar.
+"The cost management tools from cloud providers are generally fine for tactical decisions on spending but do not always provide the higher level views that the CFO office is looking for," he added.
+As organizations move to a cloud-native strategy, Sustar said the initiative will often come from the IT enterprise architects and the CTO organization, with backing from the office of the CIO.
+"Partners of various sorts are often needed in the shift to cloud-native, as they help generalize the lessons from the early adopters," he noted. "Today, organizations new to the cloud are focused not on lifting and shifting existing workloads alone, but modernizing on cloud-native tech.
+Multicloud container platform vendors offer a more integrated approach that can be tailored to different cloud providers, Sustar added. "Kubernetes-based cloud-native technologies can run on existing infrastructure as well."
+Look for the Big 3 to Go After SaaS Providers
+The report also prognosticates the needs of the major cloud vendors — Google, Microsoft, and Amazon — to make tactical acquisitions in the areas of managed detection and response (MDR) and software as a service (SaaS).
+Forrester predicts Google will buy at least one major SaaS provider to help "close the gap" with AWS and Azure.
+"With SaaS stock prices down for much of 2022, Google parent Alphabet could snap up one or two key players," the report noted. "Buying a significant SaaS provider would give Google greater entrée into the enterprise, where it's struggled to displace AWS and Azure."
+Turning its focus on AWS, the report noted that the cloud vendor is under pressure to match its hyperscale cohorts — Microsoft has built out its Defender offerings including an MDR service, while Google snapped up Mandiant to complement its security portfolio — with security breadth.
+"AWS has focused on security through its custom, security-focused silicon," Sustar explained. "They have had success with that approach but now face pressure to match Microsoft Azure in the breadth of security offerings, including multicloud, and the Google acquisition of Mandiant for security forensics and Google's well-known Project Zerto security research organization."

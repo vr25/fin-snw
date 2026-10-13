@@ -1,0 +1,65 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Tuesday, December 26, 2023
+The Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including NVIDIA Corp. (NVDA), Oracle Corp. (ORCL) and The TJX Companies, Inc. (TJX). These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.
+You can see all of today's research reports here >>>
+NVIDIA's shares have outperformed the Zacks Semiconductor - General industry over the past year (+246.0% vs. +151.2%). The company's Compute & Networking revenues are gaining from the strong growth of artificial intelligence (AI), high-performance computing and accelerated computing.
+The data center end-market business is likely to benefit from the growing demand for generative AI and large language models using graphic processing units (GPUs) based on NVIDIA Hopper and Ampere architectures. A surge in Hyperscale demand and a solid uptake of AI-based smart cockpit infotainment solutions are acting as tailwinds.
+Collaborations with Mercedes-Benz and Audi are likely to advance its presence in autonomous vehicles and other automotive electronics space. However, its near-term prospects are likely to be hurt by softening IT spending amid macroeconomic headwinds.
+(You can read the full research report on NVIDIA here >>>)
+Shares of Oracle have gained +33.1% over the past year against the Zacks Computer - Software industry's gain of +58.5%. The company is benefiting from the ongoing momentum across its cloud business, driven by the strong uptake of Oracle Cloud Infrastructure and Autonomous Database offerings.
+Solid adoption of cloud-based applications, comprising NetSuite Enterprise Resource Planning (ERP) and Fusion ERP bodes well. Oracle's Gen 2 Cloud is delivering better performance at a lower cost due to high bandwidth and low-latency RDMA networks.
+Partnerships with VMWare and Microsoft are helping Oracle win new clientele. ORCL is launching a generative AI cloud service for enterprise customers. Its share buybacks and dividend policy are noteworthy.
+However, higher spending on product enhancements, especially toward the cloud platform, amid increasing competition in the cloud domain is likely to limit margin expansion.
+(You can read the full research report on Oracle here >>>)
+Shares of The TJX Companies have gained +18.0% over the past year against the Zacks Retail - Discount Stores industry's gain of +19.2%. The company's off-price business model, strategic store locations, impressive brands and fashion products and supply-chain management have been working well.
+The TJX Companies is benefiting from its solid store and e-commerce growth efforts. The Marmaxx segment is doing well, where comparable store sales grew in the fiscal third quarter, backed by improved customer traffic. Strength at the company's HomeGoods (U.S.) division bodes well. Also, it is boosting growth through effective marketing initiatives.
+However, it has been grappling with high wage and supply-chain costs. It expects these costs to be deterrents in fiscal 2024. A high debt level poses a concern for the company. Currency fluctuations might act as a deterrent.
+(You can read the full research report on The TJX Companies here >>>)
+Other noteworthy reports we are featuring today include Chubb Ltd. (CB), TC Energy Corp. (TRP) and Xylem Inc. (XYL).
+Mark Vickery
+Senior Editor
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings. He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trends and Earnings Preview reports. If you want an email notification each time Sheraz publishes a new article, please click here>>>  
+               Today's Must Read  
+       NVIDIA (NVDA) Rides on Strong Adoption of GPUs, Partnerships  
+       Oracle (ORCL) Gains from Cloud Suite Adoption & Partnerships  
+       The TJX Companies (TJX) Gains on Strength in Marmaxx Segment  
+       Featured Reports  
+       TC Energy's (TRP) C$34B Growth Projects to Boost Earnings
+The Zacks analyst believes that TC Energy's C$34 billion of growth projects should support its earnings and dividend payouts but is worried over the massive debt of C$52.7 billion.  
+       Water Infrastructure Unit Drives Xylem (XYL), High Costs Ail
+Per the Zacks analyst, Xylem will benefit from strength in Water Infrastructure unit, led by growth in the utilities and industrial end markets. However, high costs remain concerning for the company.  
+       Investment Diversification Aids Annaly (NLY) Amid High Costs
+Per the Zacks analyst, Annaly's effort to diversify its investment portfolio will provide incremental returns in the days ahead. Yet, unfavorable funding dynamics are affecting bottom line growth.  
+          H&R Block (HRB) Gains From 5-Year Strategy Amid Liquidity Woes
+Per the Zacks analyst, H&R Block is aided by its five-year strategy, known as Block Horizons 2025, which is focused on innovation. However, low liquidity is a concern.  
+       Halozyme's (HALO) ENHANZE Drug Delivery Technology Aid Growth
+Per the Zacks Analyst, Halozyme's collaboration deals with large pharma companies related to ENHANZE technology, drives revenues growth. Over dependence on partners for revenues remains a concern  
+       Nordstrom's (JWN) Growth Efforts Appear Encouraging
+Per the Zacks analyst, Nordstrom is gaining from the efforts to improve the Nordstrom Rack performance, higher inventory productivity and supply-chain optimization. Its long-term strategy bodes well.  
+       Starz Subscriber Growth Aids Lionsgate's (LGF.A) Prospects
+Per the Zacks analyst, increased premium programming, along with higher Starz subscriber growth, is likely to aid Lionsgate's top line growth.  
+       New Upgrades  
+       Strategic Efforts and Solid Capital Position Aid Chubb (CB)
+Per the Zacks Analyst, Chubb's strategic initiatives, rising premiums, and solid retention position its top line well for growth. Its robust capital position continues to be a driving factor.  
+          Splunk (SPLK) Rides on Cost Optimization, Capital Infusion
+Per the Zacks analyst, Splunk and Cisco's merger will facilitate the development of an AI-powered resilient digital infrastructure industry wide. The cost optimization initiative is a tailwind.  
+       Solid End-Market Demand & Acquisition Benefits EMCOR (EME) 
+Per the Zacks analyst, EMCOR benefits from robust demand in key sectors like semiconductors, data centers, and electric vehicles. Also, emphasis on strategic acquisitions bode well.  
+       New Downgrades  
+       Competition From Clean Fuel Sources & Seasonal Demand Ail UGI
+Per the Zacks analyst UGI's operation can get adversely impacted from strong competition coming from other clean energy sources and seasonal variation of demand can lower its profitability  
+       Hormel Foods (HRL) Remains Troubled by International Unit
+Per the Zacks analyst, Hormel Foods is hurt by weakness in the International Unit. During fiscal fourth-quarter, segmental sales fell 12% year over year on softness across China among other reasons.  
+          Rising Cost and Stiff Rivalry Impede Henry Schein (HSIC)
+The Zacks analyst is worried about sustained macro-economic pressures impacting Henry's cost of revenue and operating expenses. Stiff rivalry remains a concern.  
+       Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report  
+       The TJX Companies, Inc. (TJX) : Free Stock Analysis Report  
+       Chubb Limited (CB) : Free Stock Analysis Report  
+       NVIDIA Corporation (NVDA) : Free Stock Analysis Report  
+       Oracle Corporation (ORCL) : Free Stock Analysis Report  
+       TC Energy Corporation (TRP) : Free Stock Analysis Report  
+       Xylem Inc. (XYL) : Free Stock Analysis Report  
+       To read this article on Zacks.com click here.  
+       Zacks Investment Research

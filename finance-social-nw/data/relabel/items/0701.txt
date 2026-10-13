@@ -1,0 +1,30 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The "Magnificent Seven" stocks are some of the best and brightest growth investments you could have owned over the past year. These companies have been synonymous with growth in recent years:
+Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL)
+Amazon (NASDAQ: AMZN)
+Apple (NASDAQ: AAPL)
+Meta Platforms (NASDAQ: META)
+Microsoft (NASDAQ: MSFT)
+Nvidia (NASDAQ: NVDA)
+Tesla (NASDAQ: TSLA)
+How would you have fared if you invested $1,000 into each of these seven stocks ($7,000 total) seven years ago? How would that investment look in comparison to putting $7,000 in the S&P 500 over the same timeframe?
+How these stocks have performed over the past seven years
+A lot has changed since 2017. While these big-name stocks were already popular seven years ago, they've all generated monstrous growth during that time and become even more prominent stocks today.
+One of the biggest winners has no doubt been electric vehicle maker Tesla, which transformed from an unprofitable business into a consistently profitable one. While investors today worry about whether its margins are strong enough (it recently started offering discounts on some of its vehicles), Tesla is still in a much better place than where the company was in 2017, when it reported a net loss of $2.2 billion.
+Nvidia may be a more promising growth stock these days, due to the role its chips play in helping companies develop various artificial intelligence (AI) advancements and efficiencies. However, all of these companies have generated strong growth since 2017, and these trends could continue for years to come, given their strong industry positions and overall market dominance.
+How would your Magnificent Seven returns look?
+The chart below illustrates how your returns would look for each of these stocks (using class C shares for Alphabet) if you invested $1,000 into each on Feb. 1, 2017, at the market close and held on until market close on Feb. 1, 2024:
+Data source: Yahoo Finance. Calculations by the author. Notes: Prices are adjusted for stock splits. Prices are the closing price for that day. Alphabet data is for its Class C stock. Seven-year return is for the stock only and is not the total return that includes dividends.
+The total value of those investments as of Feb. 1 would be approximately $56,019. From an original $7,000 investment spread across all seven stocks, you'd have generated a return of 700%. If you had instead invested $7,000 into the S&P 500, the value of your investment today would be roughly $15,070. While you would have more than doubled your money, the returns wouldn't be nearly as impressive.
+Are these stocks still good buys today?
+Investing in the top growth stocks in the world is generally not a bad idea. These businesses are all leading companies and buying stakes in all seven can mitigate your overall risk, while also putting you in an excellent position to generate strong returns. While you could make better returns from smaller stocks and less-proven investments, you'd also likely take on more risk in the process.
+If you're willing to buy and hold any or all of these stocks, odds are you can still generate a good return in the long run: All these companies continue to pursue growth opportunities and can get a whole lot bigger in the future.
+What you can take away from these results is that even though a business may be well-known or already large and established, it may still not be too late to invest in it. Back in 2017, these stocks were all popular ones to own. And though they may not have been known as the Magnificent Seven back then, they were among the top growth stocks in the world, and investing in them has paid off significantly for shareholders.
+Should you invest $1,000 in Nvidia right now?
+Before you buy stock in Nvidia, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than tripled the return of S&P 500 since 2002*.
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.
+David Jagielski has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, and Tesla. The Motley Fool recommends the following options: long January 2026 $395 calls on Microsoft and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.

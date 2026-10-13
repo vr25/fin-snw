@@ -1,0 +1,40 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+On the DVD
+On the DVD
+openSUSE Leap 15.6 and Tails 6.4
+openSUSE Leap 15.6
+64-bit
+openSUSE Leap 15.6, the latest update to the 15.x series, introduces features for containers, immutable systems, and embedded development. Leap 15.6 will receive bug and security updates until the end of 2025, after which it can be upgraded to Leap 16.0 or SUSE's extended support version.
+Leap 15.6 contains numerous software upgrades including the Linux kernel 6.4, Plasma 5.27.11, and Gnome 45. However, version 15.6's main emphasis is containers, introducing Podman 4.8 and upgrades to Distrobox and Docker, and container management tools such as Skopeo and containerd. Notably, too, Leap 15.6 introduces Cockpit, a container tool that improves usability and works with both high-end container administration tools and web-based interfaces. This release also provides updates to virtualization tools such as Xen 4.18, KVM 8.2.2, and virt-manager 4.1, empowering both professionals and hobbyists alike.
+[...]
+Buy this article as PDF
+(incl. VAT)
+Buy Linux Magazine
+Subscribe to our Linux Newsletters
+Find Linux and Open Source Jobs
+Subscribe to our ADMIN Newsletters
+    Support Our Work
+Linux Magazine content is made possible with support from readers like you. Please consider contributing when you’ve found an article to be beneficial.
+News
+- 
+		    					    		    KDE for People Initiative Calls for AI Ban in PlasmaA new community of KDE wants the project to adopt a strict no-AI policy for KDE Plasma.
+- 
+		    					    		    KDE Sets Ambitious Goals for 2026 and BeyondKDE Connect reveals the goals for the Linux desktop darling, with one of those goals long overdue.
+- 
+		    					    		    It’s Time to Test Fedora 45 BetaFedora 45 beta has been released with updated Gnome, KDE Plasma, and kernel.
+- 
+		    					    		    Ubuntu Stonking Stingray Gets Even RustierUbuntu 26.10 has completed its migration to the Rust-based coreutils.
+- 
+		    					    		    AI Fixes Linux Bottlenecks Using “Hideous” CodeA Linux developer used AI to fix bottlenecks that caused problems when building the kernel. The resulting AI-generated code needed a lot of work.
+- 
+		    					    		    Advanced Video Coding Still Under PatentBrazilian patent BRPI0109962B1 has expired, which means that DivX and Xvid are no longer problematic for Linux, but it doesn’t mean that video is all of a sudden fully unleashed.
+- 
+		    					    		    2,000 Vulnerabilities per Linux ReleaseThanks to AI bug hunters, the Linux kernel is seeing record numbers of vulnerabilities, and it's overwhelming developers.
+- 
+		    					    		    Linux Exempt from California’s Age Verification LawSo long as Linux is distributed under the GPL, MIT, BSD, and Apache licenses, the OS is exempt from being required to verify the age of its users in California.
+- 
+		    					    		    Roll Out the Cake: Linux Turns 3535 years ago, a Finnish student began a humble project that would forever change the course of technology.
+- 
+		    					    		    China Switching from Windows to LinuxChina has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS.

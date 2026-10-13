@@ -1,0 +1,20 @@
+{"id": "0900", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Engadget Podcast: MoviePass founder Stacy Spikes on the MovieCrash documentary", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0901", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Engadget Podcast: MoviePass founder Stacy Spikes on the MovieCrash documentary", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0902", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The technology sector is currently experiencing something of a renaissance as breakthroughs in artificial intelligence", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0903", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Breaking cybersecurity news, news analysis, commentary, and other content from around", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0904", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By DAN MERICA (Associated Press) WASHINGTON (AP) — The Democratic National Committee", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0905", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The explosive growth of generative AI drives the multicloud model. But be", "relation": "substitute-comparison", "sentiment_alignment": -0.1}
+{"id": "0906", "ticker_a": "MSFT", "ticker_b": "SMCI", "first_words": "KDDI and Sharp to build Asia's largest data centre Posted by Georgia", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0907", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Off the Wire Press Releases LOS ALTOS, Calif., June 5, 2024", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0908", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "NEW YORK (Reuters) - A rally that has propelled U.S. equities to", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0909", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "HONG KONG – Asian stocks were mixed Friday after a steady", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0910", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Oil rose more than 1% after Trump rejected Iran's proposal", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0911", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Fiber-optic leap bridges African digital divide June 10, 2024 Tech", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0912", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0913", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0914", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "0915", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0916", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0917", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Jensanity! Nvidia valuation tops $3T — until regulators and naysayers", "relation": "co-hype", "sentiment_alignment": 0.1}
+{"id": "0918", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Price Prediction: NVIDIA Will Hit $150 By the End of Summer", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "0919", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Apple iOS 18 rumours: AI generated emojis could come to iPhones", "relation": "co-hype", "sentiment_alignment": 0.5}

@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Data Center News Roundup: Microsoft Cloud Services Hit by Global Outage
+In this week’s top data center news, chaos unfolds amid worldwide Windows glitch and other industry headlines.
+With data center news moving faster than ever, we want to make it easy for industry professionals to cut through the noise and find the most important stories of the week.
+The Data Center Knowledge News Roundup brings you the latest news and developments across the data center industry – from investments and mergers to security threats and industry trends.
+To keep up to date with all things data centers, subscribe to the Data Center Knowledge newsletter to get content straight to your inbox.
+Global IT Outage
+Tech industry professionals around the world had their hopes of a quiet Friday dashed after a widely used cybersecurity program crashed and Microsoft separately reported problems with its cloud services.
+In a rapidly developing story, security firm CrowdStrike warned customers on Friday morning that its Falcon Sensor threat-monitoring product was causing Microsoft’s Windows operating system to crash. It was unclear what triggered the issues, which coincided with disruptions of Microsoft’s Azure cloud and 365 office software services.
+The cascading failure resulted in computer systems failing around the world. Outages were reported at airlines, banks, and the London Stock Exchange.
+“We recommend customers that are able to … restore from a backup from before 19:00 UTC on the 18th of July,” Microsoft said in a recent status update.
+The company added: “The underlying cause of the issue has been fixed and several Microsoft 365 apps and services have been restored to full functionality. Residual impact is still affecting some Microsoft 365 apps and services.”
+New Developments
+Elea Digital Data Centers has announced a 120 MW, $1 billion strategic expansion plan to meet Brazil’s “booming demand” for data centers.
+The colocation provider’s latest investment plan includes the acquisition of two data center campuses in greater São Paulo and a largescale footprint expansion of up to 100 MW in the coming years.
+The facilities, located in São Bernardo do Campo (SPO2) and the Tamboré region (SPO3), have a current combined power capacity exceeding 10 MW. The São Bernardo do Campo site also includes a land bank and a high-voltage substation.
+In the US, meanwhile, TA Realty and EdgeConneX have unveiled plans to jointly develop a 324 MW data center campus in Atlanta, Georgia, and Crusoe Energy Systems is building a 200 MW facility at the Lancium Clean Campus near Abilene, Texas.
+In Virginia, EdgeCore has purchased 120 acres of land in the Culpeper Technology Zone and plans to develop a 1.4 million sq ft data center campus. The facility will be capable of supporting 216 MW of critical IT load. Initial power delivery is expected in early 2028.
+Over in Europe, AtlasEdge has acquired land for the development of its second data center in Barcelona, Spain.
+“With initial power already secured, the new facility will deliver 10 MW by 2027, with the potential to increase this to 24 MW,” the company said.
+FASST Forward
+The US Department of Energy (DoE) has outlined its roadmap for the Frontiers in Artificial Intelligence for Science, Security, and Technology (FASST) initiative to help harness AI for the public good.
+Through FASST, the DoE and its 17 national laboratories aims to build the “world’s most powerful integrated scientific AI systems” for science, energy, and national security, in collaboration with academic and industry partners.
+“Artificial intelligence is an innovative technology that can help unleash breakthroughs in energy technologies and enhance our national security,” said US Secretary of Energy Jennifer Granholm.
+It will be interesting to see the role data centers might play in the FASST program, particularly as one of the initiative’s key pillars is the development of “frontier-scale AI computing infrastructure and platforms.”
+Executive Appointments
+Intel veteran Lisa Spelman has been appointed as CEO of Cornelis Networks, an AI startup focused on the high-performance networking market.
+Spelman held executive leadership roles at Intel for more than two decades, including leading the company’s core data center business. She will succeed Philip Murphy, who will assume the role of president and chief operating officer.
+“As companies race to evolve their infrastructure for AI workloads, one of the biggest challenges they face is stitching together the enormous amount of compute required from CPUs, GPUs, and accelerators,” Spelman said.
+“Cornelis is unique in having the products, roadmap, and talent to help customers address this issue.”
+In other executive news this month:
+Other Great Reads on DCK This Week
+Top Data Center Outage Trends and Strategies for Reducing Risk. Uptime Institute’s latest report on data center outages reveals what seems to cause the most outages – and how companies can reduce their risk.
+Data Center Industry Calls for Environmental ‘Nutrition Labels’ to Cut Carbon Emissions. A coalition including Google, AWS, Meta, and Digital Realty says Environmental Product Declarations will help the data center industry improve its sustainability profile.
+Data Center Trends: Industry Report Reveals Shift Towards Hybrid IT, Colocation. CoreSite’s 2024 State of the Data Center Report sees some repatriation of cloud workloads and more hybrid deployments, driven in part by AI.
+What Is a Sovereign Cloud and Who Truly Benefits From It? Discover the concept of sovereign clouds, the benefits and challenges they offer, and how to determine if your business needs one.
+Tracking the Growth of the Edge Colocation Data Center Market. Edge colocation data centers combine the shared resources and expertise of colocation with the performance benefits of edge computing, writes Aashi Mishra.

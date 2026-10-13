@@ -1,0 +1,20 @@
+{"id": "1300", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "DeepSeek, Nvidia and the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1301", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "AMD reported better-than-expected", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1302", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Advanced Micro Devices shares", "relation": "substitute-comparison", "sentiment_alignment": -0.8}
+{"id": "1303", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Since the Snowden disclosures", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1304", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Getting your Trinity Audio player ready", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1305", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "GRAND FORKS As a professional", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1306", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Chinese AI company DeepSeek", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1307", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Automotive Technologies Market to", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1308", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Garena Free Fire MAX has", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1309", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "All about Navratri 9 Goddesses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1310", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The Trump administration has", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1311", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SerpWatch is an advanced", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1312", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Trump begins firings of", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1313", "ticker_a": "AVGO", "ticker_b": "META", "first_words": "S&P 500 Hits All-Time", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1314", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Powerful quantum computers in", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1315", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Tushar Sharma is an", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "1316", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "When Apple recently announced", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1317", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In a dramatic escalation", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1318", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The S&P 500 fell", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1319", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Investors should take notice", "relation": "unrelated-mention", "sentiment_alignment": 0.3}

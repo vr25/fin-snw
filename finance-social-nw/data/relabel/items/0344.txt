@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Samsung, the South Korean giant, is apparently gearing up for a potential face-off with Microsoft in the AI arena. Following Microsoft’s partnership with OpenAI to introduce ChatGPT into Bing, Samsung has been spotted hinting at an integration with ChatGPT in its own Samsung Internet browser. The latest version of Samsung Internet contains code strings that suggest an experimental feature involving the chatbot AI, as spotted by Android Authority.
+While the South Korean tech giant has no immediate plans to sever ties with Google, this potential collaboration with ChatGPT indicates Samsung’s efforts to augment its browser’s capabilities and have more people use its in-house internet browser.
+ALSO READ l Samsung bans employees from using AI tools after ChatGPT leaks company secrets
+There are speculations that suggest this integration could enable users to pull ChatGPT’s capabilities directly within the Samsung Internet browser. Android Authority speculates that these capabilities could include features such as summarising web pages or making queries without the need to navigate to the AI’s website.
+However, it is important to note that at this stage, Samsung’s plans to integrate ChatGPT into its browser remains unconfirmed. No official timeline or specific details regarding the implementation have been disclosed by either Samsung or OpenAI.
+Samsung could also be exploring ChatGPT integration into its browser to deal with the security risk issues it faced few months back. The company had announced a ban on the use of the AI tool on its company systems citing risks of leaking sensitive information.
+ChatGPT is a large language model chatbot developed by OpenAI. It can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Samsung is concerned about the security risks of using ChatGPT on its company systems. It is worried that uploading information on ChatGPT could leak sensitive information to third parties. The decision to ban ChatGPT came after employees inadvertently leaked company’s confidential information to AI platform.
+Follow FE Tech Bytes on Twitter, Instagram, LinkedIn, Facebook.

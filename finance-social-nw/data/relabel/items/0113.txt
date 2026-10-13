@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Apple is looking at different ways to beef up the battery life of its smartwatch, according to an interview with an Apple executive, who also hinted that a new Mac Pro is inbound from the company.
+Bob Borchers, who is VP of Worldwide Product Marketing at Apple, talked to India Today, and when the subject of the Apple Watch came up, it was noted that battery life is something that could use a further boost.
+Borchers admitted that battery longevity is obviously a tricky matter, as there's a very thorny balance to be achieved between adding cool new features - health-related functionality, for example, like the rumored incoming blood glucose monitoring - and keeping battery life at a good enough level.
+- Read more: Google admits Pixel 10's battery health feature can't be turned off: cue the inevitable outrage
+- Read more: Google's new Pixel 11 Series unveiled, powered by Google Tensor G6 and Gemini Nano AI
+- Read more: The Mac Pro nearly got a chip twice as powerful as the M3 Ultra and a new Intel model, until Apple cancelled both
+The exec didn't give us any firm details on how Apple might be planning to bolster battery life as such - unsurprisingly - but does say that one avenue being explored to improve matters is faster charging.
+Borchers observes:
+"With fast charging, you can get 80% of your battery capacity in [40] to 45 minutes."
+The idea being, then, that even if you're running out of juice on a regular basis, at least the charging process is over and done with relatively quickly. It's certainly handy to be able to embark on a quick charge first thing in the morning as you get ready to head out, and hopefully down the line we'll see even faster charging times. Perhaps even down towards the half-hour level with any luck.
+Not having enough battery resources is not a problem unique to Apple, of course. We've got a Google Pixel Watch, for example, and that could certainly use battery life improvements - it's painfully short-lived, frankly, unless you turn off most functionality (which kind of defeats the point of a smartwatch).
+Doubtless Google will be aiming to do some extending of its own on the longevity front. The company is trying hard to match features with the Apple Watch, having just introduced fall detection for the Pixel Watch, as we reported earlier today.
+Back to all things Apple, and the other interesting point this interview uncovered was when Borchers confirmed that Apple still has a clear goal to fully transition all its Macs to use its own silicon.
+Borchers told India Today:
+"We believe strongly that Apple silicon can power and transform experiences from the MacBook Air to all the way up to the Mac Studio. We've been very clear from the beginning that our goal is to take our entire product line to Apple Silicon. And that's something we intend to do."
+So, that's a pretty strong hint that the rumored Mac Pro, which is supposedly set to debut this year with an M2 chip inside, is indeed on its way. We've recently seen other clues that the Mac Pro could be on the near-ish horizon, namely a filing related to Bluetooth.

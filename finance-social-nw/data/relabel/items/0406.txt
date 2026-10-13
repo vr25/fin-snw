@@ -1,0 +1,50 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Subscribe
+Subscribe
+Edition
+English
+Business News
+A.I.
+Technology
+Money & Markets
+Leadership
+Lifestyle
+Video
+Latest
+Get Quartz in your inbox
+Free daily briefing on global business news.
+Sign me up
+Menu
+Business News
+Airlines
+Automobiles
+Food
+Pharmaceuticals
+Politics & Government
+Retail & Ecommerce
+Space & Aerospace
+Earnings
+Menu
+Technology
+A.I.
+Computing
+Consumer Tech
+Space & Aerospace
+Earnings
+Menu
+Money & Markets
+Economic Indicators
+Markets
+Personal Finance
+Earnings
+Menu
+Lifestyle
+Cars & Bikes
+Collecting
+Entertainment
+Food & Fine Dining
+Health and Fitness
+Real Estate
+Travel

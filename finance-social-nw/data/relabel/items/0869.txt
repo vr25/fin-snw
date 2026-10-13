@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+OpenAI co-founder Ilya Sutskever announced his departure Tuesday from the startup that ignited an artificial intelligence tech race with its release of ChatGPT.
+Sutskever said on X, formerly Twitter, that he was leaving after almost a decade at OpenAI, whose "trajectory has been nothing short of miraculous."
+"I'm confident that OpenAI will build AGI that is both safe and beneficial," he added, referring to artificial general intelligence -- digital technology that seeks to perform as well as or better than human cognition.
+Sutskever, OpenAI's chief scientist, sat on the board that voted to remove chief executive and fellow co-founder Sam Altman in November last year.
+The ousting threw the San Francisco-based startup into a tumult, with the OpenAI board hiring Altman back a few days later after staff and investors rebelled.
+Sutskever's position on the board was not renewed, but he remained in his position at OpenAI.
+"It was an honor and a privilege to have worked together, and I will miss everyone dearly," Sutskever said of colleagues in the post.
+He added that he will focus on a personal project.
+OpenAI on Monday released a higher performing and even more human-like version of the artificial intelligence technology that underpins ChatGPT, making it free to all users.
+The new mode, GPT-4o, will be rolled out in OpenAI's products over the next few weeks, the company said, with paid customers having unlimited access to the tool.
+The company said the model could generate content or understand commands in voice, text, or images.
+"It feels like AI from the movies," Altman said in a blog post.
+Altman has previously pointed to the Scarlett Johansson character in the movie "Her" as an inspiration for where he would like AI interactions to go.
+Google also showed off its latest AI innovations at an annual developers conference on Tuesday.
+OpenAI and Microsoft are in a heated rivalry with Google to be generative AI's major player, but Facebook-owner Meta and upstart Anthropic are also making big moves to compete.
+The day will come when "digital brains will become as good and even better than our own," Sutskever said during a talk at a TED AI summit in San Francisco late last year.
+"AGI will have a dramatic impact on every area of life."

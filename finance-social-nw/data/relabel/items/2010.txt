@@ -1,0 +1,25 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The Nasdaq-100 index typically outperforms more diversified indexes like the S&P 500 (^GSPC +0.51%) because around 60% of its portfolio is parked in high-growth technology stocks. But that can be a double-edged sword, because the Nasdaq recently fell by as much as 12% from its all-time high during the broad market sell-off, while the S&P declined by a lesser 9%.
+Many investors have trimmed their stock exposure amid rising economic uncertainty, partly driven by ongoing geopolitical tensions in the Middle East that have sent oil prices soaring. But looking back throughout history, market sell-offs have almost always been spectacular buying opportunities, especially for the high-growth technology sector, which tends to bounce back with blistering returns.
+The Vanguard Information Technology ETF (VGT +0.78%) is an exchange-traded fund (ETF) that invests exclusively in the information technology sector. Could it be the ultimate long-term buy during the Nasdaq-100 correction?
+More trillion-dollar stocks than any other sector
+America is home to 10 companies valued at $1 trillion or more, and four of them are from the information technology sector alone. They include:
+- Nvidia (NVDA +0.22%): $4.6 trillion.
+- Apple (AAPL +1.53%): $3.8 trillion.
+- Microsoft (MSFT +3.66%): $2.8 trillion.
+- Broadcom (AVGO +0.70%): $1.8 trillion.
+The Vanguard Information Technology ETF holds 318 stocks, but the four names above account for a whopping 48.6% of the value of its entire portfolio, giving them significant influence over its performance.
+Those four stocks have delivered a blistering median return of more than 1,500% over the last decade, and since the Vanguard ETF assigns them much higher weightings than does the S&P 500 and the Nasdaq-100, it's no surprise the fund has beaten both indexes over that period.
+Nvidia, Apple, Microsoft, and Broadcom are likely to continue delivering strong returns given their vital roles in the artificial intelligence (AI) industry, but a number of other information technology stocks also have the potential to make significant upside contributions to the Vanguard ETF going forward.
+- Micron Technology, which is one of the world's leading suppliers of high-bandwidth memory (HBM) for data centers. Its new HBM4 solution will power Nvidia's latest Vera Rubin AI chips.
+- Palantir Technologies, which developed a series of AI-powered platforms designed to help businesses and government agencies extract maximum value from their internal data. Its stock isn't cheap following its 1,700% gain since the start of 2023, but it's packed with long-term potential.
+- Oracle, which is building some of the fastest and most cost-effective AI data centers in the industry. Despite concerns about the company's rising debt, it could generate significant revenue growth thanks to its impressive client list, which includes OpenAI, Meta Platforms, and Elon Musk's xAI.
+The Vanguard ETF could be a great long-term investment
+Volatility is a normal part of the investing journey. Over the last 26 years alone, the Nasdaq-100 has experienced no fewer than five bear markets (declines of 20% or more). Each one was triggered by an entirely different economic shock. There was the bursting of the dot-com tech bubble in 2000, the global financial crisis in 2008, the COVID-19 pandemic in 2020, the inflation surge in 2022, and the Trump administration's "Liberation Day" tariffs in 2025.
+These sharp drawdowns are the price of admission for the opportunity to earn wealth-building returns in the long run. On that note, the Vanguard Information Technology ETF has delivered a compound annual return of 13.5% since its inception in 2004, even after accounting for every market sell-off, correction, and bear market along the way.
+NYSEMKT: VGT
+Key Data Points
+Industries like AI could remain very supportive of strong returns in the tech sector coming out of the recent market sell-off. Prior to the AI boom, data center operators were spending around $400 billion per year on classical computing infrastructure. According to Nvidia CEO Jensen Huang, those operators could be spending up to 10 times more -- $4 trillion per year -- on AI infrastructure by 2030, to support the soaring demand for computing capacity.
+But even when the AI boom inevitably slows, emerging industries like autonomous vehicles, robotics, and even quantum computing could take over as key sources of demand for semiconductor hardware. That means Nvidia, Broadcom, Micron, and Advanced Micro Devices could have very long growth runways from here, which bodes well for the Vanguard ETF.

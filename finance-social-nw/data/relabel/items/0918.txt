@@ -1,0 +1,41 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Price Prediction: NVIDIA Will Hit $150 By the End of Summer After Its Stock Split
+The talk of the stock market world this week was NVIDIA (Nasdaq: NVDA | NVDA Price Prediction) and GameStop (NYSE: GME). Both stocks have been surging recently, which led Wall Street researcher Evercore to single out the two companies as the greatest examples of…
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+The talk of the stock market world this week was NVIDIA (Nasdaq: NVDA | NVDA Price Prediction) and GameStop (NYSE: GME). Both stocks have been surging recently, which led Wall Street researcher Evercore to single out the two companies as the greatest examples of “froth” in the current market.
+Yet, I believe NVIDIA is likely to hit $150 per share (split-adjusted) by the end of summer, and I don’t think it’s really a sign of froth, either.
+Rather, I’ll display below why the numbers support NVIDIA continuing to head higher and why its recent share price gains are more reflective of Wall Street fully appreciating just how much money the company is going to make in the coming years more than any “speculative mania.”
+NVIDIA is Surging Post-Earnings
+If you look at the past month, NVIDIA and GameStop have certainly been two of the best-performing stocks in the market. NVIDIA is up an astounding 36%, which is made even more impressive by its size now. The company briefly passed Apple (Nasdaq: AAPL) on Friday to become the world’s second-largest stock. Simply put, it’s an unusual circumstance for a (now) $3 trillion stock to gain more than a trillion in market capitalization during a month. This is the same as NVIDIA’s value growing by an entire Walmart, Wells Fargo, and Costco combined.
+On the other hand, NVIDIA just posted a quarter where revenue grew 262% and profits grew 628%. That’s an even more stunning development than a company its size adding a trillion in value in a month. I went through some earnings of other large tech and growth companies to find their highest sales growth across the past decade and nothing comes even close to what NVIDIA is currently experiencing:
+- Tesla: Q3 2016 – Sales up 145%
+- Meta: Q1 2014 – Sales up 72% and profits up 193%
+- Apple: CQ1 2021 – Sales up 54% and profits up 110%
+- Alphabet: Q2 2021 – Revenue up 62% and profits up 166%
+- Amazon: Q1 2021 – Revenue up 43.8% and profits up 220%
+A couple of things jump out at you from this. First, the Covid sales jump for tech companies was absolutely bonkers and like NVIDIA today, the companies with these levels of sales growth were also seeing incredible share gains during this period.
+Second, while all of these numbers are impressive, none are even in the same ballpark of the 262% revenue growth and 628% profit growth NVIDIA posted last quarter. Of course, GameStop posted earnings on Friday that saw -10% revenue growth. That’s GameStop’s worst revenue growth since late 2020. This is all to say, the situation around GameStop has almost no similarity to why investors are scooping up NVIDIA.
+NVIDIA Just Removed the Bear Case Against its Stock in 2024
+But you might be asking, why has NVIDIA seen such strong gains in just the past month? After all, it has been posting strong earnings since early last year. Its earnings “beat” this quarter was very similar to the size it has been posting in recent quarters. That is to say, what NVIDIA reported on May 22nd, perhaps shouldn’t have come as a huge “surprise” to Wall Street.
+The media will focus on NVIDIA’s stock split as a key reason for their performance after earnings. While the stock split announcement was positive and attracted more interest to the company, I don’t think it’s the biggest factor in the level of performance we’ve seen from NVIDIA.
+Rather, I believe this quarter took one of the strongest “Bear Cases” against NVIDIA off the table. NVIDIA’s results proved rather conclusively that the company wouldn’t see a slowdown as it transitions from its prior generation of leading AI chips (the H100) to its next generation (the B200). Further, commentary from NVIDIA shows that demand is strong enough for the B200 that it’s unlikely a “weakness” in NVIDIA’s armor will show before next summer.
+Simply put, if you’re a bear betting that NVIDIA is going to approach a cyclical peak, the moment you want to be positioned for is when the company finally issues weak guidance. Many NVIDIA bears expected that a slowdown could come in mid-2024 as companies cut back on H100 orders waiting for NVIDIA’s next generation of chips. This didn’t happen. With very strong commentary around B200 demand and sales, bears on the stock now have to wait until early next year as a time when NVIDIA may issue guidance that shows its growth is finally coming in below expectations.
+How NVIDIA Shares Compare To Peers
+So, here’s my prediction: NVIDIA’s stock price will likely hit $150 (post-split) before the summer is over, and I’ll present the numbers why I believe this is the case below. First of all, I just demonstrated above why many investors betting against NVIDIA have had to close their positions in the wake of their recent earnings. This is part of what’s led to NVIDIA’s recent gains.
+The next thing to look at is how high NVIDIA’s share price could go before the summer ends. The company’s shareholders will soon approve a 10-for-1 split, which means that NVIDIA is now trading for what will be a split-adjusted $120 per share. (From here on out, all numbers will be split-adjusted)
+The current Wall Street estimate for this year’s profits is $2.71. However, with NVIDIA now routinely beating estimates, it’s likely the “whisper number” from buy-side funds is now closer to $3 per share in EPS for this year. Right now, projections are for NVIDIA to grow earnings by 31% in the year ahead. If you multiply that growth rate by $3 per share in EPS estimates this year, you arrive at $4 per share in EPS next year.
+That means, at $120 per share, NVIDIA is trading for 30X the earnings multiple I believe many on Wall Street now expect it to hit next year. Now, let’s stack that up against a few peer stocks.
+- Microsoft: 32X next year’s earnings (with projected 13% earnings growth)
+- Apple: 28X next year’s earnings (with projected 7% earnings growth)
+- Amazon: 31X near year’s earnings (with projected 28% earnings growth)
+Why NVIDIA Is Likely to See $150 Per Share By the End of Summer
+As you can see, at $120 per share, NVIDIA trades for almost exactly the same earnings multiple as its peer group of big tech companies, but is still projected to have a much higher growth rate next year. Simply put, I don’t believe you’re likely to see NVIDIA – with estimates for its growth rates next year continuing to improve – trade at a cheaper multiple than these companies barring some bad news.
+And speaking of that, here’s how NVIDIA likely gets to $150 by the end of summer. If anything, news around B200 demand continues to improve with the most impressive demand lining up for its GB200 systems. Those systems combine NVIDIA networking and GPUs into a single platform that sells for up to $3 million each. You’re probably used to hearing in the media numbers around NVIDIA GPUs selling for $30,000 or $40,000 each, and in my opinion, the real number to watch is the number of GB200s selling since these systems have not only an incredible selling price but also serve to deepen NVIDIA’s “competitive moat” for the long run.
+My belief is you could begin to see demand for Blackwell so strong that it pushes next year’s projections over $4 per share. The combination of analysts on Wall Street moving NVIDIA earnings estimates next year to perhaps $4.25 per share and also its multiple expanding to 35X (you’d expect NVIDIA to trade at a higher multiple than peers if its business outlook keeps improving) gets us to almost exactly $150 per share.
+More NVIDIA News from 24/7 Wall Street
+- If This Happens, NVIDIA Stock Will Soar Higher
+- A Surprising Stock That Could Split After NVIDIA
+- Will NVIDIA Pass Microsoft to Become the World’s Most Valuable Stock?
+Contact [email protected] for any questions or corrections.

@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Internet
+- 2 min read
+Amazon India acquires land parcel in Palava near Mumbai for 450 cr to develop hyperscale data centre
+                    Last year, Amazon Data Services India picked up a land parcel spread over four acres in Mumbai’s Powai suburb from engineering and construction major Larsen & Toubro through a long-term lease of nearly 18 years. The company is developing a data centre on this land too for which it will be paying rent of over Rs 562 crore over the total lease tenure excluding the rent escalation.
+                                    
+            
+        MUMBAI: Amazon India has acquired an over 38.18-acre land parcel in Palava near Mumbai from realty developer Lodha, listed as Macrotech Developers, for more than Rs 450 crore with a plan to develop a hyperscale data centre.
+As part of the deal, Amazon’s India subsidiary Amazon Data Services India will also get access to the already sanctioned floor space index—permissible development potential—of around 4.16 million sq ft.
+The buyer has paid over Rs 396 crore out of the total consideration amount to Macrotech Developers at the time of execution and registration of the sale agreement. The balance amount of over Rs 54 crore will be paid within a certain time frame upon completion of a few conditions.
+Last year, Amazon Data Services India picked up a land parcel spread over four acres in Mumbai’s Powai suburb from engineering and construction major Larsen & Toubro through a long-term lease of nearly 18 years. The company is developing a data centre on this land too for which it will be paying rent of over Rs 562 crore over the total lease tenure excluding the rent escalation.
+In 2022, Amazon had inked an agreement with L&T to lease an adjacent 5.5-acre land parcel for 21.5 years for total lease payment of Rs 921 crore excluding 3% annual rent escalation. The transaction had pushed the total rental payment for the entire 9.5-acre land parcel across both these plots to nearly Rs 1,500 crore across the lease tenure.
+Prior to that, Amazon Data Services India had leased a commercial tower with built up area of 451,000 sq ft through a long-term sub lease of over 15 years in Thane to set up a data centre. Soon after this, in one of the largest outright land transactions in 2022, the company acquired a 54-acre land parcel in Thane for over Rs 1,870 crore to develop another hyperscale data centre.
+"We remain committed to India’s digital and AI transformation as is evident in the billions of dollars we have announced in planned investments into cloud infrastructure in India ($12.7 billion by 2030)," Amazon Web Services said in response to ET's query.
+Email query to Macrotech Developers remained unanswered until the time of going to press.
+With growing digitisation in India, data centres are becoming more crucial for several concepts such as payments, gaming, or even for needs of upcoming trends such as the metaverse.
+Apart from Amazon, other key global majors like Google and Microsoft have also started setting up their hyperscale data centres in India.
+Data centres in India are emerging as the most attractive growth opportunity for global investors and leading developers. Investments are flowing into the data centre markets, with multiple new markets created simultaneously, along with the rapid development of campus sizes found in the most established global cities.

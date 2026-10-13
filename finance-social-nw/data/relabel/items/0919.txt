@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Apple iOS 18 rumours: AI generated emojis could come to iPhones in 2024
+- Apple to announce major AI plans
+- AI emojis are coming to iPhones
+- Create your own emojis for any scenario
+- AI to be integrated into core apps in iOS 18
+Apple could be about to change the way iPhone users text - forever.
+The tech giant is set to unveil its huge Artificial Intelligence (AI) plans, according to reports, and it could include letting users generate their own emojis (the group chat will never be the same).
+Microsoft, Google and OpenAI have all announced major updates for AI features in recent weeks and Apple is now about to join the party. The company is set to lift the curtain on its ‘Apple Intelligence’, as it has been dubbed, at its Worldwide Developers Conference (WWDC24) which kicks-off in California on Monday (10 June).
+Fans will get a look at what to expect from the major iOS 18 update, which will likely roll out over the back half of the year. Among the features set to be announced for the update includes generative AI emojis.
+Bloomberg’s Apple Insider Mark Gurman had the scoop on the radical overhaul in his Power On newsletter. He reports that AI emojis could come to iPhones with the next update.
+Gurman reports that Apple is developing software which will allow users to make their own emojis! The AI tools are also expected to be integrated into core apps like Safari, Photos and Notes, as well as enhanced notifications.
+How will AI emojis work?
+Mashable reports that the feature will be similar to other generative AI tools like Midjourney, DALLE-E, and will be created by text-based prompts. If the feature pans out according to the reports, iPhone users will soon be able to make customised emojis for any situation, scenario or occasion.
+It is not clear if the feature will be limited to texts sent by iMessage, or if the custom emojis will also work with other messaging apps - like WhatsApp and Facebook Messenger. Expect further clarification during Apple’s WWDC24 stream!
+Gurman reports that the less computing-intensive AI features will run entirely on iPhone devices. However for more complex tools, which require further horsepower, the work will take place on the cloud.
+What is generative AI?
+You might have heard the term used plenty recently, not least in this very article, but what exactly is generative AI? In the simplest possible terms, it is a tool that is able to generate (or create) text, imagery, audio and video content based on prompts entered by users.
+If you have dabbled with ChatGPT since it hit the headlines last year, you will have experienced the technological wizardry that is generative artificial intelligence!
+When will iOS 18 launch?
+Apple has not yet announced dates for the launch of its next major operating system update. Users can expect it to be rolled out over the back half of the year, based on previous roll-outs.
+But expect further announcements in the coming weeks and months. So keep your eyes peeled!
+Apple is set to debut its AI features - including the custom emojis - at its WWDC event this June. It starts on Monday, 10 June and run until Friday, 14 June and there will be a livestream of the presentation on the first day. Tune in to Apple’s Keynote speech from 6pm UK time. It is available to watch on Apple’s website, YouTube and Apple TV.

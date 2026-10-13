@@ -1,0 +1,20 @@
+{
+  "winner_corr": 0.4143251230374975,
+  "control_corr": 0.26854740758188717,
+  "winner_network": {
+    "density": 1.0,
+    "edges": 15,
+    "nodes": 6
+  },
+  "control_network": {
+    "density": 0,
+    "edges": 0,
+    "nodes": 3
+  },
+  "relation_distribution": {
+    "unrelated-mention": 1543,
+    "causal-driver": 224,
+    "substitute-comparison": 323,
+    "co-hype": 103
+  }
+}

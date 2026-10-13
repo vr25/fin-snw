@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By Foo Yun Chee
+BRUSSELS (Reuters) – Teresa Ribera will have to square up to Big Tech, banks and airlines if confirmed as Europe’s new antitrust chief, while juggling calls for looser rules to help create EU champions.
+Nominated by European Commission President Ursula von der Leyen for the high-profile antitrust post on Tuesday, Ribera has been Spain’s minister for ecological transition since 2018.
+The 55-year-old Spanish socialist, one of Europe’s most ambitious policymakers on climate change, will have to secure European Parliament approval before taking up her post.
+As competition commissioner, she will be able to approve or veto multi-billion euro mergers or slap hefty fines on companies seeking to bolster their market power by throttling smaller rivals or illegally teaming up to fix prices.
+One of her biggest challenges will be to ensure that Amazon, Apple, Alphabet’s Google, Microsoft and Meta comply with landmark rules aimed at reining in their power and giving consumers more choice.
+Apple, Google and Meta are firmly in outgoing EU antitrust chief Margrethe Vestager’s crosshairs for falling short of complying with the Digital Markets Act.
+Another challenge will be how to deal with the increasing popularity of artificial intelligence amid concerns about Big Tech leveraging its existing dominance.
+Ribera may ramp up a crackdown on non-EU state subsidies begun by Vestager aimed at preventing foreign companies from acquiring EU businesses or taking part in EU public tenders with unfair state support.
+Recent rulings from Europe’s highest court, which backed the Commission’s 13 billion euro tax order to Apple, and its 2.42 billion euro antitrust fine against Google, could embolden Ribera to take a tough line against antitrust violations.
+That would mean she would be in no hurry to ease up on antitrust rules, despite Mario Draghi’s call to boost EU industrial champions so that they are able to compete with U.S. and Chinese competitors.
+Ribera was also named on Tuesday as executive vice president of a clean, just and competitive energy transition, tasked with ensuring that Europe achieves its green goals.
+Her credentials include negotiating deals among EU countries on emissions limits for trucks and a contentious upgrade of EU power market rules last year.
+(Reporting by Foo Yun Chee; additional reporting by Marine Strauss and Kate Abnett; editing by Philip Blenkinsop and Alexander Smith)

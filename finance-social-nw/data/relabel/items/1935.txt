@@ -1,0 +1,24 @@
+TICKER_A: AMD
+TICKER_B: AVGO
+POST:
+It's getting hard for growth investor Cathie Wood to string together back-to-back years of market-thumping results. The Ark Invest co-founder, CEO, and ace stock picker struggled to duplicate 2020's blowout performance until last year. Now 2025 is proving to be a hard act to follow.
+Losing to the market can be an opportunity for Wood. She took advantage of Monday's sell-off to add to many of her existing positions. She bought additional shares in Broadcom (AVGO +0.70%), Advanced Micro Devices (AMD +0.22%), and Figma (FIG -2.30%) on the first trading day of the week. Let's take a closer look at Wood's latest Ark Invest purchases.
+1. Broadcom
+Broadcom stock is a seven-bagger over the past five years, but it has pulled back 20% since peaking two months ago. Offering up semiconductor and tech infrastructure solutions in the age of artificial intelligence (AI) has made Broadcom popular. Broadcom claims to be at the tech intersection of 99% of the world's internet traffic, and business is about to pick up again.
+After a mortal fiscal 2025 (ended Nov. 2, 2025) -- watching revenue decelerate from 44% to 24% -- analysts see big things for Broadcom in 2026. Wall Street pros see revenue and earnings topping 50% growth in the new fiscal year. The opportunities are there for Broadcom.
+NASDAQ: AVGO
+Key Data Points
+The stock's affordability rests on your perspective. Broadcom is trading for almost 50 times trailing adjusted earnings. The multiple shrinks to 32 if we look at its estimates for the next four quarters. Dare to go out to fiscal 2027? Broadcom is fetching 23 times next year's target.
+The story gets better. Broadcom's earnings have consistently landed ahead of market expectations over the past year, even as revenue growth slowed. What do you think will happen now that Broadcom has its foot on the accelerator again?
+In just the last three months, its forward earnings target has increased from $9.29 to $10.32 per share. Next year's per-share forecast has gone from $12.50 to $14.52. One of the market's favorite AI pick-and-shovel plays is getting cheaper, and not just because the stock itself has cooled off in recent weeks.
+NASDAQ: AMD
+Key Data Points
+2. Advanced Micro Devices
+AMD stock is trading 25% lower than its October high. Like Broadcom, AMD has also become a popular way to cash in on the AI revolution. Its central processing units (CPUs) and graphics processing units (GPUs) give it a couple of ways to capitalize on the demand for processing power.
+Revenue rose better than 37% for both its data center segment as well as its client and gaming business in its latest quarter. AMD's guidance was disappointing. It sees revenue slowing in the current quarter. With analysts holding out for a return to accelerating growth next year, the value lies in zooming out. AMD may not seem cheap for 30 times forward earnings, but the multiple drops below 20 if we look out to next year. As long as the future doesn't start to be revised lower -- a big if, but still unlikely at this stage of increasing demand -- AMD and Broadcom are cheaper than what short-term investors assume is fair.
+NYSE: FIG
+Key Data Points
+3. Figma
+If AMD and Broadcom investors are lamenting their 20% to 25% sell-offs, Figma stock enters the chat with a "hold my stock chart" moment. The provider of design tools for websites, apps, and other digital products is trading 83% below last year's post-initial public offering (IPO) high. One of last summer's hottest debutantes is now a broken IPO.
+Its business was slowing through its first two quarters of trading, but it just posted a 40% year-over-year revenue increase for its latest quarter. This is a step up from the 38% year-over-year top-line performance it delivered three months earlier (as well as the 35% it was initially forecasting).
+There's no denying that AI coding innovations are coming for Figma's business, but that might take longer than you think. Figma is also leaning on AI models to make its platform more sticky. Its net dollar retention rate of 136% -- implying that returning customers are spending 36% more than they were a year ago -- is a strong sign of Figma's improving engagement. You should always know the bearish argument to any stock you own, but Figma's brief life as a public company seems to have gone from too much optimism to too much pessimism in a short amount of time. Reality usually settles somewhere in the middle.

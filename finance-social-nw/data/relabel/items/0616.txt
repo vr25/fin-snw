@@ -1,0 +1,90 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Feature Stories | Nov 16 2023
+There is no disagreement AI is here and is about to explode into our lives. As for how long it will take to change the world is up for debate, and not all implications are positive.
+-What is generative AI?
+-The question of productivity gains
+-Is your job safe?
+-The bad stuff
+By Greg Peel
+It seems like artificial intelligence only arrived on the scene in 2022 following some Archimedes-style epiphany in geek-world, but the reality is AI has been around for some time.
+AI is based on machine learning something Alan Turing, famous breaker of the Enigma code — began working on in the 1940s, but it wasn’t until the 1970s that computers became powerful enough to be of use. Until recently, machine learning was largely limited to predictive models, used to observe and classify patterns in content.
+Machine learning, noted McKinsey & Co in a report published early this year, is a type of artificial intelligence. Through machine learning, practitioners develop AI through models that can “learn” from data patterns without human direction.
+The unmanageably huge volume and complexity of data (unmanageable by humans) that is now being generated has increased the potential of machine learning, as well as the need for it.
+AI is the practice of getting machines to mimic human intelligence to perform tasks. You’ve probably interacted with AI even if you don’t realise it — voice assistants like Siri and Alexa are founded on AI technology, for example.
+The recent big step up in AI is all about “generative” AI. Siri might be able to answer your question from sourcing the web, but she cannot write an essay on The Causes of World War I. GenAI describes algorithms that can be used to create new content, including audio, code, images, text, simulations, and videos. Recent breakthroughs in the field have the potential to drastically change the way we approach content creation, suggests McKinsey.
+GenAI appeared to burst on the scene with the release of ChatGPT (generative pretrained transformer). It’s a free chatbot that can generate an answer to almost any question it’s asked. Developed by OpenAI, it’s already considered the best AI chatbot ever. And it’s popular too: over a million people signed up to use it in just five days.
+Microsoft began investing in OpenAI in 2019 and continues to invest. The company launched ChatGPT on its Bing platform, blindsiding search engine leader Google. Google responded by rushing out its own GenAI offering, Bard, which at the beginning was poorly received but is now challenging ChatGPT as the go-to version.
+ChatGPT is the most recent iteration of OpenAI’s GenAI offerings. Earlier versions were considered somewhat suspect. And it’s not just Microsoft and Google that have been developing and investing in GenAI in recent years. Meta and Amazon are also in the game, and Apple is too, but is keeping that close to its chest for now.
+And Elon is in on the act, releasing Grok on X. Unlike rival chatbots, Grok is said to be “sarcastic and foul-mouthed”, but also potentially superior to the others, according to geeks, and there are more others about as well.
+It’s not just about know-it-all chatbots. GenAI, it is agreed, will change the world. Will it change the world for the good?
+General Purpose Technology
+If AI is to be considered a general purpose technology, and Capital Economics believes it is, then “the implications for the macroeconomy could be huge”.
+It is considered in recent history there have been three such examples of general purpose technology that have changed the world. The first is the invention of the steam engine in the UK which led to the nineteenth century Industrial Revolution.
+The second is the introduction of electricity in the US in the early twentieth century, and the third came in the late twentieth century with the introduction of the internet. It can also be argued there was a fourth in between the invention of the internal combustion engine.
+The world-changing aspects of these developments lay in productivity. Productivity is defined as GDP per man-hour.
+Such developments tend to affect an economy in three phases, notes Capital Economics. In the first phase, when the technology is new and expensive and not yet widely used, productivity benefits are small.
+The second phase comes when the technology is tweaked and improved upon, the cost comes down and adoption becomes more widespread. This is when significant productivity gains are achieved.
+In the third phase, the law of diminishing marginal returns kicks in. The pace of improvements and rollouts slows, and productivity gains start to taper off.
+We could also consider the introduction of the smart phone as a world-changing development, and also a good example of the said three phases. The first iPhone was expensive (to a lot of the world), and not everyone rushed in to buy one. Subsequent iPhones provided technological improvements (eg camera), the cost came down, and pretty soon everybody had one.
+We’re now up to iPhone 15. Analysts agree that while the 15 is a great bit of tech, it’s not much different to the 14, which wasn’t much different to the 13. Unlike, say, a printer or a DVD player of the past, the cost has not continued to fall, which has led consumers to feel they don’t need to upgrade when their iPhone 10 is perfectly fine thank you.
+The three phases of general purpose technology mean the benefits can take decades to materialise, although as Capital Economics notes, the delay to clear productivity gains has been shortening over time. The Industrial Revolution did indeed last for decades, but for the internet the benefit was felt in less than a decade.
+The US, notes Capital Economics, which saw by far the biggest gains from internet developments, is estimated to have achieved an average boost to productivity growth of 1.5 percentage points between 1995 and 2005.
+It is generally assumed that widespread adoption of AI is from here a five to ten-year proposition. The biggest issue right out of the blocks is cost. Businesses will need to completely overhaul their IT systems, and that will not be cheap. Right now, the cost of finance is as high as it has been in decades. Businesses have been reeling in capital expenditure plans as a result, not increasing them.
+But there is a clear incentive: Kill or be killed.
+Is My Job on the Line?
+Clearly, technological advances over time have led to certain jobs becoming redundant. But jobs have also been lost, in my lifetime at least, simply by the need for cost efficiencies. Once upon a time I used to buy a bus ticket from a conductor, have a driveway attendant fill my car and have milk delivered to my door. Those days are long gone.
+The seventies recession was the prime driver of the eventual disappearance of these roles.
+Technological growth is nevertheless all about achieving efficiencies. AI is seen as the great efficiency driver of our time. Some workers will be safe, because they’re already in the right job as AI is adopted. Some will have the capacity to shift from what they’re doing now to another field, given their knowledge/experience. Some workers will find their jobs redundant.
+Capital Economics noted when railways arrived, demand for horses was lost. But horse carriage drivers became train drivers, blacksmiths had new objects to fashion, and so on.
+Last year, as central bank interest rate hikes led to a bear market in technology stocks, Big Tech companies responded with widespread layoffs. Meta even got got rid of its in-house masseurs. All eyes were on the US unemployment rate as one by one companies cut their work forces.
+Nothing happened. The unemployment rate didn’t budge because laid-off employees (at least, the actual tech ones), quickly found jobs elsewhere.
+The most straightforward way in which AI will boost productivity is via one-off efficiency savings, suggest Capital Economics, meaning doing more with existing resources or doing the same with fewer resources. In some instances, these will mean AI replacing humans altogether.
+In other instances, savings will be achieved by helping humans become more productive in their current job, freeing up their time to do other, more productive jobs.
+While it is too early to know how much GenAI will displace workers, Morgan Stanley has reviewed the effects of multiple disruptive technologies to date to guide its thinking about how it will affect labour markets. Outcomes range from job displacement, to augmentation, to stability and job creation.
+Overall, Morgan Stanley finds, prior periods of innovation have seen economic growth, lower costs of doing business, and net job creation. Yet impacts on labour have been uneven, with the potential for large-scale dislocation, and Morgan Stanley believes GenAI’s effects will be magnified given its broad applicability.
+There will, of course, be pushback and resistance. We’ve already seen it in the US.
+Hollywood actors and writers have just gone back to work after striking for months, finally managing to negotiate a deal with studios. The studios had no choice the dominance of video streaming means more content is needed than ever before.
+Writers needed assurance they would not be replaced by script-writing AI. Actors need assurance their images would not be scanned once, and then used in perpetuity thanks to AI.
+US autoworkers have also now gone back to work after months of negotiation with America’s Big Three auto manufacturers. Among other demands, the union wanted assurance jobs would not be lost due to new EV factories being fully automated, and presumably controlled by AI.
+While the strikes drew US government attention, they did not need direct government intervention to be resolved. But governments are already gearing up for what is to come.
+Morgan Stanley believes the extent of labour disruptions will likely require a significant ramping up in capacity to re-train large numbers of workers. In the US, leading AI companies have committed to managing AI risks, and the White House is preparing an executive order to foster responsible innovation.
+Morgan Stanely suggests re-skilling and re-training investments by corporates, combined with social insurance programs from governments, are more likely than sweeping reforms such as universal basic income to support those impacted or displaced by generative AI.
+The Great Depression resulted in unprecedented jobs losses. The US introduced the dole in 1935. Australia waited until 1945.
+McKinsey’s State of AI survey found less than one-quarter of companies using AI so far have realised a significant bottom-line impact — deficiencies eluding impact at scale it suggests might be caused “not only because of the technical challenges but also because of the organisational changes required.” Changes that many leaders simply are not making, whether intentionally or unknowingly.
+Businesses are increasingly understanding AI’s utility for many of their more mundane, or complex, tasks, yet are struggling with effective and scalable implementation, particularly in a fashion that fruitfully engages employees in the process.
+The US strikes are the canary in the coal mine. If corporations move to adopt AI without engaging their employees in the process, and allaying fears of job losses, the benefits of AI adoption will not be seen.
+One survey showed the best way to get employees excited about AI is to inspire trust in leaders, help employees understand how the tech works and increase workers’ soft skills to help them feel relevant to the company and their position.
+Employers will need to get ahead of the inevitable fallout if jobs are indeed lost through redundancy.
+In France in 1804, Monsieur Jaccard invented a loom that automated the process of complex weaving, previously the laborious job of humans. Workers in French textile factories wore wooden shoes, like clogs, called sabots. Furious from losing their jobs, the workers would throw their sabots into the Jaccard looms to bring them to a halt.
+They were the first “saboteurs”.
+Is the Hype Overdone?
+RBC Capital Markets believes GenAI is a seismic change in the technological landscape.
+Narrowing down aforementioned general purpose technology leaps, RBC views GenAI as the fourth big technological revolution in the past 40 years, and each of those had a seminal moment in which the technology became mainstream.
+In the revolution of the internet, internet became mainstream with the launch of Netscape. In the revolution of the cloud, cloud became mainstream with the likes of Salesforce on the application side and Amazon Web Services on the infrastructure side.
+In the third revolution defined by mobile, mobile became mainstream with the launch of the iPhone. Now, in this fourth revolution, ChatGPT’s launch last November brought GenAI mainstream.
+RBC believes generative AI is likely to have major implications not just within the realm of technology, but society at large.
+Citi suggests that what is distinctive about GenAI is the tremendous potential it holds to transform work across industries and boost overall productivity.
+So we’ve had the web, the cloud, the smart phone and also the Internet of Things. Why, then, has global productivity been on a downward trend?
+AI has been around for a while, notes Capital Economics, and it’s been almost a decade since the first reports began to predict an AI-led surge in productivity growth. If pandemic impacts are extricated, G7 productivity in the past two years has been below the average since 2005.
+The productivity boost from past transformative technologies has generally been drawn out and less dramatic than might have been expected given the importance of the inventions. Economists have been puzzled, Capital Economics notes, over why the digitalisation of the economy over the past two decades has been accompanied by such weak productivity growth.
+There is as yet no evidence of any productivity boost from AI.
+Periods of much faster productivity growth are visible since the nineteenth century, notes Oxford Economics. Some of these periods were long-lasting and closely linked to the rise of new technologies such as railways, electric power and computers. AI, as a general purpose technology with potentially large spillovers, could in principle produce similar results.
+But not all new technologies have lived up to their initial promise, notes Oxford, and even when they have, the impact on aggregate growth has sometimes been modest. Often the gains came many years after the technology was invented, due to slow diffusion into the economy.
+Any benefit from electrification, for example, took decades to show up in US data. US productivity growth saw a strong boost from computer advances from the mid-nineties into the noughties, a very long time after computers were invented.
+Oxford Economics points to emerging evidence AI will lead to strong productivity growth in at least some sectors. But in the absence of widespread adoption, and large-scale innovation from using AI, the economic gains could be narrow for some time.
+That Said
+In just three years, the global AI industry has more than doubled, notes Psychic Ventures, reaching a US$240bn value and a quarter of a billion users worldwide. From healthcare and retail to manufacturing, stock trading, and social media, companies continue to adopt AI solutions to improve their efficiency, decision-making, and user experience and gain a competitive edge.
+At the same time, a surge in investment in AI technologies and start-ups by both private and public sectors shows the interest in the industry remains strong.
+According to the data, the global AI market is set to continue growing by a compound annual rate of 17% in the next four years, and hit more than US$500bn in value by 2027.
+According to PwC’s 2023 Global Artificial Intelligence Study, AI could contribute US$15.7trn to the global economy by 2030.
+The surging demand for automation and optimisation across industries, increasing use of AI in consumer-facing applications, and growing investments in AI research and development are expected to continue driving market growth, helping it reach more users than ever.
+According to Statista, around 254 million people have used AI tools in 2023, 2.5 times more than just three years ago. With roughly 60 million people embracing AI solutions and tools per year, the entire market is set to reach more than half a billion users by 2027.
+One-third of all users, or 181 million, will come from the United States, the world’s largest AI market, followed by 52 million Chinese, who are also expected to embrace AI tools by 2027.
+On Drugs
+One of the biggest threats from GenAI is so-called “hallucinations” images or content that are purely fake but not acknowledged as being so. RBC Capital suggests there are ways to avoid hallucinations, but explains how with a lot of tech-speak.
+A company in Finland has created a “virtual influencer” in the form of a (gorgeous) 24-year old girl, with whom you can chat online. “Milla” fully acknowledges she is AI-created, and not real, but she still has had thousands of hits on social media.
+Otherwise, the rise of GenAI brings about a number of ethical and legal concerns. RBC Capital believes governments throughout the world will create legislation around GenAI, including for the use of GenAI systems, preventing malicious use, and the use of customer data.
+There will be substantial disruption from AI, just as there has been from every technological and industrial revolution in the past, notes RBC. This time will be different, however, because this is the first industrial revolution to disrupt white collar workers. Jobs like lawyers, journalists, and software developers will be disrupted by GenAI. In RBC’s view, while we are likely still years away from people being replaced by technology, “we could absolutely get there, and we need to be prepared for that”.
+Regarding ethical and legal concerns, if a developer builds an application using code g

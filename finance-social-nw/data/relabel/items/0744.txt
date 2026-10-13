@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Sergey Nivens - stock.adobe.com
+Dutch organisations start building a federated European cloud
+The ‘European cloud services in an open federated ecosystem’ (ECOFED) project is co-funded by the Dutch government and will run from 2024 to 2027
+The European Commission (EC) approved the Project of Common European Interest – Cloud Infrastructure and Services (IPCEI-CIS) programme in late 2023.
+In this programme, around 100 companies and knowledge institutes from 12 EU countries will cooperate on developing new and innovative data and cloud solutions for industrial companies and in areas such as hydrogen and processors.
+With the approval, the EC gave the go-ahead for a €2.6bn investment in the development of a European cloud infrastructure that is open, decentralised and accessible. Funding of the IPCEI-CIS programme is partly via the 12 member states, but also by plenty of private investment from companies and knowledge institutions involved.
+The programme has €4bn of public-private investment money at its disposal. The Dutch government participates in IPCEI-CIS with three projects worth €70m euros.
+The first of those three Dutch initiatives focuses, among other things, on new data-driven business models, such as digitally connected machines, sensors and other business processes in industry or the industrial internet of things (IIoT).
+Within a second project, known as the Modular Integrated Sustainable Datacenter (MISD) project, several organisations work together to make cloud infrastructure more sustainable. The goal is ambitious: to reduce CO2 emissions from datacentres by more than 50%.
+The third project is ECOFED, which focuses on cloud federation as an essential basis for future digital infrastructure.
+Alternative to hyperscalers
+When storing data and using computing power in the cloud, European organisations mainly rely on large providers such as Microsoft, Amazon and Google. The bulk of Western data is stored in the US.
+To boost Europe’s strategic autonomy, developing a future-proof digital infrastructure within the European Union that also gives space to smaller cloud service providers is necessary.
+ECOFED aims to create interoperable technologies that allow cloud providers to offer their capabilities in a large market, giving customers the freedom to switch between or combine cloud services.
+Companies that use a US hyperscaler as a cloud provider often encounter problems when they want to switch to another service provider. A market study that included the Dutch Authority for Consumers & Markets (ACM) concluded that there is often supplier lock-in – switching costs a lot of money and is hampered by technical barriers.
+The award of European funding marks a crucial step towards a decentralised, open and federated cloud, which should enable cloud portability and data sovereignty at the European level. The interplay of technology, new EU legislation and a level playing field could revolutionise the cloud ecosystem.
+The consortium participants – Info Support, i3D.net, BIT, AMS-IX and TNO – are very different. For example, i3D.net is a game developer and Info Support is an IT partner focusing on a variety of sectors. AMS-IX is a membership organisation for cloud service providers, ISPs and telecom companies.
+BIT is a business ISP focusing on colocation, internet connections, managed hosting and outsourcing. TNO is more often involved in such projects – including the MISD project – to provide participants with research, consulting and licensing.
+The ECOFED project runs from 2024 to 2027 and involves collaboration with European partners, including OpenNebula and Arsys in Spain, Engineering in Italy and SAP in Germany.
+The aim is to lay the technical foundation for an open and federated cloud system in which suppliers can trade different services without the intervention of a central platform party. Over the coming years, the consortium will develop technologies and build test set-ups to combine cloud services between European countries.
+Wido Potters, manager support and sales at BIT, said: “Together with our partners, we are developing technology that enables a decentralised, federated cloud. That ensures cloud portability for European companies and cloud sovereignty for European citizens.”
+Growth opportunities in the digital world
+ECOFED aims to exploit the strengths of the Dutch market, such as its high datacentre density and large number of cloud service providers. Moreover, the project aims to become the national testbed for companies looking to move from closed hyperscale cloud platforms to a federated cloud.
+“We have always seen the importance of a decentralised internet landscape and are committed to building an open and distributed cloud platform, together with partners, to provide more growth opportunities in the digital world,” Stefan Ideler, CTO at i3D.net, told Dutch manufacturing industry trade publication Link Magazine.
+AMX-IX, one of the largest internet hubs in the world, stresses the importance of implementing an open, federated cloud. “This step also demonstrates that the Netherlands is Europe’s digital hub and Dutch companies therefore remain leaders in embracing cutting-edge technologies,” Peter van Burgel, CEO of AMS-IX, told Link Magazine.
+Seven Dutch parties are involved in the MISD project. Again, these are very different parties. For instance, Asperitas specialises in cooling datacentres, BetterBe makes software for car leasing companies, Eurofiber provides fibre-optic connections, and Deerns specialises in designing and optimising installations for high-quality buildings. The National Internet Providers Management Organisation (NBIP), TNO and the University of Twente are also participating in this project.
+MISD lasts five years, from 2024 to 2029, and aims to bring datacentres close to users with modular, sustainable and secure-by-design to achieve the ambitious 50% CO2 reduction target.
+Both consortia are setting up a website this year to keep interested parties updated on the progress of their project.
+Read more about European cloud
+- Microsoft sets out its first steps towards addressing the antitrust complaints directed at it by some European cloud providers.
+- Google Cloud provides an update on how its efforts to meet the data sovereignty needs of European enterprises are progressing.
+- The rise in public cloud usage across the UK and EU will speed up new cloud-specific regulations.

@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By BERNARD CONDON and MATT O’BRIEN, AP Business Writers
+NEW YORK (AP) — Elon Musk is joining his space exploration and artificial intelligence ventures into a single company before what’s expected to be a massive initial public offering for the business later this year.
+His rocket venture, SpaceX, announced on Monday that it had bought xAI in an effort to help the world’s richest man dominate the rocket and artificial intelligence businesses. The deal will combine several of his offerings, including his AI chatbot Grok, his satellite communications company Starlink, and his social media company X.
+Musk has talked repeatedly about the need to speed development of technology that will allow data centers to operate in space. He believes that will help overcome the problem of huge costs in electricity and other resources in building and running AI systems on Earth.
+It’s a goal that Musk suggested in his announcement of the deal could become easier to reach with a combined company.
+“In the long term, space-based AI is obviously the only way to scale,” Musk wrote on SpaceX’s website Monday, then added in reference to solar power, “It’s always sunny in space!”
+Musk said in his announcement he estimates “that within 2 to 3 years, the lowest cost way to generate AI compute will be in space.”
+It’s not a prediction shared by other many companies building data centers, including Microsoft.
+“I’ll be surprised if people move from land to low-Earth-orbit,” Microsoft’s president, Brad Smith, told The Associated Press last month, when asked about the alternatives to building data centers in the U.S. amid rising community opposition.
+SpaceX is facing stiff competition from other companies. Google last year revealed a new research project called Project Suncatcher that would equip solar-powered satellites with AI computer chips. In artificial intelligence, Musk is scrambling to compete against rivals such as OpenAI, which is planning an IPO this year as well.
+Musk has equally ambitious plans for Tesla as he tries to pivot a company with shrinking car sales to focus more on self-driving taxis and humanoid robots, driven by artificial intelligence.
+Tesla recently announced a $2 billion investment in xAI.
+Musk has used his control over multiple companies to combine operations before. Tesla bought SolarCity, a decade ago. And he recently had xAI buy his social media platform X, formerly called Twitter.
+Chatter on Wall Street about the billionaire continuing to meld his many ventures together in a massive Musk Inc. has taken off in recent months, with some investors speculating that Tesla could combine with SpaceX, too.
+Forbes magazine puts Musk’s net worth at $768 billion. He also owns a brain implant company called Neuralink and a tunnel digging business named the Boring Company.
+Terms of the SpaceX purchase of xAI were not disclosed. Among outside investors in the companies is a fund in which President Donald Trump’s son, Don Jr., is a partner. That firm, 1789 Capital, has made more than $1 billion worth of investments in various Musk companies in the past year, including SpaceX, xAI, and X, according to data provider Pitchbook, though it cashed out of some already.
+While pursuing space data centers, xAI is also moving rapidly to expand on earth. Mississippi officials last month announced that the company is set to spend $20 billion to build a data center near the state’s border with Tennessee.
+The data center, called MACROHARDRR, a likely pun on Microsoft’s name, will be its third one in the greater Memphis area.
+Musk is also hoping the combined company can eventually help reach another goal he has long talked about — the need to colonize other planets in case there is a natural disaster or manmade disaster on Earth.
+When speaking at the World Economic Forum in Davos last week, Musk mused about humanity being a “tiny candle in a vast darkness, a tiny candle of consciousness that could easily go out.”

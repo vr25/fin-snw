@@ -1,0 +1,46 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Xinhua
+                
+15 Mar 2026, 10:45 GMT+10
+            
+Most people are reacting to OpenClaw with a mix of awe and unease: While marveling at its abilities, users also worry about data security and fear that their work will be stolen one day.
+BEIJING, March 15 (Xinhua) -- For years, the idea of an artificial intelligence (AI) assistant like J.A.R.V.I.S., the ever-present helper to Iron Man, has lingered on the edge of reality. In early 2026, the sudden rise of OpenClaw is prompting many to wonder whether that moment has finally arrived.
+Standing out from other mainstream AI systems like ChatGPT, DeepSeek and Claude, which largely operate through a conversational prompt-response model, OpenClaw is designed to take action, carrying out tasks for users in the digital world.
+Most people have been reacting with a mix of awe and unease: While marveling at its abilities, users also worry about data security and fear that their work will be stolen one day.
+WHAT IS OPENCLAW?
+The project was originally published last November by Austrian coder Peter Steinberger as Clawdbot, which he claimed to be "a playful pun" on U.S. AI company Anthropic's Claude chatbot with a lobster's claw.
+Anthropic, however, seemed to be less amused. After a trademark dispute, the project was renamed Moltbot in late January -- and three days later became OpenClaw, with "Open" referring to its open-source nature and "Claw" a nod to its lobster-themed heritage.
+With the name settled, it quickly took off, attracting two million visitors in a single week, and has so far collected over 309,000 stars on code repository GitHub.
+Though configuration could be tricky for those who are not tech-savvy, the AI agent can be installed with a single line in the terminal and run tasks autonomously. It integrates with messaging platforms such as WhatsApp, Telegram, Slack, Discord and iMessage, letting users give orders in plain language.
+Fu Sheng, CEO of Cheetah Mobile, said he built a team of eight OpenClaw agents while recovering from a skiing injury. In 14 days, they became a round-the-clock operation: sending New Year greetings to over 600 contacts in four minutes, publishing social media posts that drew more than a million views and even designing and launching a website -- all while he was asleep.
+Beyond social media, OpenClaw can also be used to manage email, schedule appointments, gather market intelligence, or plan travel itineraries, handling repetitive and time-consuming tasks that normally fill a workday.
+AI leaders are paying close attention. Andrej Karpathy, a founding member of OpenAI, said on X that OpenClaw is "the most incredible sci-fi takeoff-adjacent thing" he has recently seen. Nvidia CEO Jensen Huang went further, calling it "probably the single most important release of software, probably ever."
+PERILS BEHIND PROMISE?
+X's owner Elon Musk, however, has weighed in on the risks of handing AI agents sweeping control.
+Late February, he posted an image of a monkey being handed a rifle on X, captioned: "People giving OpenClaw root access to their entire life."
+Similarly, Microsoft warned that OpenClaw should be treated as "untrusted code execution with persistent credentials," as in an "unguarded deployment," users risk having their passwords and other personal data stolen, or having their agent "induced" into running malicious code.
+"It is not appropriate to run on a standard personal or enterprise workstation. If an organization determines that OpenClaw must be evaluated, it should be deployed only in a fully isolated environment," it said.
+Mishaps have shown this to be true.
+Summer Yue, director of Alignment at Meta Superintelligence Lab, has shared an incident in which OpenClaw deleted and archived hundreds of her personal emails while completely ignoring her commands to stop.
+"Nothing humbles you like telling your OpenClaw 'confirm before acting' and watching it speedrun deleting your inbox," she wrote on X. "I couldn't stop it from my phone. I had to RUN to my Mac mini like I was defusing a bomb."
+In another staggering case, a U.S.-based software engineer Scott Shambaugh said "an AI agent of unknown ownership" called MJ Rathbun penned a "thousand-word rant" accusing him of discrimination, prejudice and hypocrisy, only because he, as a volunteer maintainer for a Python data-visualization library, rejected a submission it made to the open source codebase.
+According to The New York Times, MJ Rathbun seems to be an OpenClaw product.
+The "craziest" thing, Shambaugh said, was that MJ Rathbun "had gone on the Internet and collected my personal information ... then combined it with made-up information and used that to write this narrative."
+"It shows just how easy it is for the next iteration to allow a bad actor to scale this up and impact not just one person who's pretty well prepared to deal with it, but thousands," Shambaugh said.
+"Imagine your parents or your grandparents. They get an email with a bunch of their information and a picture of them and some incriminating narrative which the AI threatens to send out. It's a very scary situation," he said.
+Get a daily dose of New York Telegraph news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to New York Telegraph.
+More Information
+WASHINGTON, D.C.: The rising cost of new vehicles in the United States is increasingly pushing many buyers out of the market, as automakers...
+DUBLIN, Ireland: European dignitaries will receive woolen scarves worth 135,000 euros in total, paid for by the government, when Ireland...
+LONDON: The war in the Middle East has triggered the largest disruption to global oil supplies on record, the International Energy...
+NEW YORK CITY, New York: Michael Bloomberg has again been named the biggest donor in the United States, topping the Chronicle of Philanthropy's...
+NEW YORK, New York - U.S. and global stocks fell again Friday as questions swirled over U.S. aspirations in the attacks against Iran...
+MINNEAPOLIS, Minnesota: Target said it is cutting prices on more than 3,000 products across categories, including apparel, home goods,...
+NEW YORK CITY, New York: Uber has launched a nationwide feature in the United States that allows women riders and drivers to be matched...
+NEW YORK CITY, New York: The three Alexander brothers, two of whom ran the most successful real estate brokerage firm in the country,...
+NEW YORK CITY, New York: Anthropic sued the U.S. Defense Department to block its designation as a national security supply-chain risk,...
+Most people are reacting to OpenClaw with a mix of awe and unease: While marveling at its abilities, users also worry about data security...
+(Photo credit: Mike Watters-Imagn Images) Martin Ojeda scored the decisive goal in the 31st minute and Orlando City SC defeated visiting...

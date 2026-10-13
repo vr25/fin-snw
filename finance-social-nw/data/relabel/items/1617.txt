@@ -1,0 +1,21 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+As artificial intelligence has driven markets higher over the last year, one part of the tech economy has been left behind: software.
+It’s no secret that AI is having major impacts on Wall Street. Investors have bet big on companies they think will benefit the most from the AI wave, with stocks like Nvidia, Microsoft, and Meta Platforms experiencing major gains over the last few years. Meanwhile, software pioneers like Adobe and Salesforce are getting left behind.
+To be sure, AI has the potential to massively impact software, but the companies in the space have made changes to get in on the action. The goal is to make their products work more efficiently for the user, through automating tasks and workflows. There’s also been the introduction of AI agents, which do tasks on behalf of the user.
+In its most recent earnings, Adobe reported third-quarter revenue of $5.99 billion, an 11% jump from the previous year. Salesforce’s posted revenue growth of 10% to $10.2 billion. ServiceNow’s second-quarter revenue of $3.22 billion rose 23% from the prior year.
+Shares of Adobe and Salesforce fell in the wake of the earnings reports, while ServiceNow rose 4.2%.
+“Software companies as a whole are actually doing pretty well,” D.A. Davidson analyst Gil Luria told Barron’s on Monday. “There’s a disconnect between the results software companies are reporting—their growth rates, their profitability—and the concerns over the impact of AI.”
+There are those on Wall Street who are worried that AI models will become powerful enough to do software tasks on their own, worries that have been intensified by recent commentary from Big Tech leaders.
+Microsoft CEO Satya Nadella said on a podcast in December 2024: “I think, the notion that business applications exist, that’s probably where they’ll all collapse, right in the agent era.” Then on Aug. 3, OpenAI CEO Sam Altman posted “entering the fast fashion era of SaaS [software as a service] very soon,” on X.
+Investor concerns can be seen in the compressed valuations of software stocks in recent months.
+Adobe currently trades at 15.2 times earnings expected over the next 12 months, down from the 21 times forward earnings multiple from the beginning of January. ServiceNow trades at 49.8 times forward earnings, compared with 63.5 times forward earnings at the start of the year. Salesforce’s forward P/E of 19.9 times is down from 30 in January.
+The iShares Expanded Tech-Software Sector ETF has risen 0.6% this year, far underperforming the 12% gain of the S&P 500.
+The rise of the ETF is being driven by stocks like Palantir Technologies and Oracle.
+“Palantir is really the standout,” Luria said, adding that Palantir was “at the right place at the right time with the right strategy and the right capabilities and they are helping a lot of companies and a lot of government agencies implement AI.”
+But the other companies are standing still. Adobe reported on Sept. 11 that AI-influenced annual recurring revenue surpassed $5 billion in the latest quarter. It added that 99% of Fortune 100 companies have used AI in an Adobe app, and over 40% of its top 50 enterprise accounts doubled their annualized recurring revenue spend since the start of fiscal year 2023.
+“Adobe continues to report the same strong results they’ve reported every year for decades, and yet the stock has very much been trading at a very low multiple and it’s been well off its highs because of a narrative that AI will be negative for the company,” Luria said.
+Luria also pointed to other software names Snowflake, Datadog, and JFrog as companies that have seen their revenue accelerate the last few quarters because of AI.
+Despite broader concerns about AI eating software, Luria thinks enterprises will choose to stick with their existing software providers.
+“That’s why these are such good businesses—they’re super sticky,” Luria said. “Once you decide you use Adobe for your marketing, or Salesforce for your customer relationship management, or MongoDB for your database, you’re not going to just change it because somebody can write you some code very fast.”

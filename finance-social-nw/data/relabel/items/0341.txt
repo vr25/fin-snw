@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI.
+The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe”. It has not said much more than that.
+Led by Mr Musk, the billionaire chief executive of Tesla and SpaceX who also owns Twitter, the new startup centred in the San Francisco Bay Area has hired a group of top AI researchers who formerly worked at OpenAI, Google, Microsoft and Tesla.
+It will be independent from Twitter’s new parent company, X Corp, but will work closely with that company, as well as Tesla, “to make progress towards our mission”, according to a statement.
+Mr Musk was a co-founder and early funder of OpenAI, who parted ways with the San Francisco-based research lab several years ago.
+He has grown increasingly critical of OpenAI as it has gained global prominence and commercial success with last year’s release of ChatGPT and solidified its financial ties to Microsoft.
+The public unveiling of xAI follows comments Mr Musk made about it in April to then-Fox News host Tucker Carlson.
+Mr Musk told Carlson that OpenAI’s popular chatbot had a liberal bias and that he planned an alternative that would be a “maximum truth-seeking AI that tries to understand the nature of the universe”.
+The startup reflected Mr Musk’s long-voiced concerns about a future in which AI systems could present an existential risk to humanity.
+The idea, Mr Musk told Mr Carlson, is that an AI that wants to understand humanity is less likely to destroy it.
+Mr Musk was one of the tech leaders who earlier this year called for AI developers to agree to a six-month pause before building systems more powerful than OpenAI’s latest model, GPT-4.
+Around the same time, he had already been working to start his own AI company, according to Nevada business records.

@@ -1,0 +1,60 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+In 1994, a cyberbullying report involving year eight schoolgirls crossed former police officer Susan McLean's desk for the first time.
+Subscribe now for unlimited access.
+or signup to continue reading
+In the 30 years since she received this first report, the online world has - for better or worse - irrevocably integrated itself in our modern life.
+"If you're a parent now, you have grown up most of your life with tech," Ms McLean says.
+"The internet's here to stay; it's not a fad or a fashion. The 'Oh, I don't get tech' statement is very long in the tooth now," the cyber safety expert says.
+Ms McLean and other cyber safety experts are deeply concerned that children are facing the consequences of their parents being ill-equipped to navigate the online world - and tech giants are leaving parents to fend for themselves.
+The Australian Federal Police (AFP) received 58,503 reports of online child abuse in the last financial year - a 45 per cent increase from the previous year.
+It comes as social media is once again at the centre of a national debate around placing age restrictions for users on social media platforms and the Albanese government is promising to legislate an age limit on social media platforms before the next election.
+"If you don't understand what you're trying to protect your children from, you're not going to be able to protect them," she says.
+Learning the 'road rules' of social media
+In Simon Holmes' household, two of his three children are at the age where much of their communication with friends is through social media.
+"We probably feel that to teach them how to use it responsibly, they need to be used to using it and we just try and monitor their usage of it," Mr Holmes from St Helens, Tasmania, says.
+"We're very aware of the threats and the dangers and the negative side of things, but ... we're social media users ourselves and understand the positives that can come from it".
+Though an avid user of technology and social media himself, Mr Holmes is aware not all parents have the same familiarity.
+"We have a set of values that might not be reflected in some of the other parents.
+"I know there's some friends of the kids who just have unrestricted access to anything and everything, and there isn't any monitoring or self-regulation."
+Cyber experts are increasingly seeing parents provide unfettered access to technology and social media, or even allowing their children to lie about their age on social platforms.
+"I can go into any school anywhere in the world and around 80 per cent of grade five and six kids have lied about their age to set up a social media account with parental permission," Ms McLean says.
+Yasmin London, who teaches parents and schools about cyber safety, says parents should set clear expectations and boundaries around social media usage.
+"Just like we wouldn't hand over the keys to a car to a child who hasn't learned the road rules ... the same thing applies in the online world," Ms London says.
+Australia's eSafety commissioner Julie Inman Grant says parents should regularly review the privacy and safety features of the apps children and young people are using.
+"The vast majority of covert online grooming our investigators see is happening behind closed doors, in what might be considered the 'safety and sanctity' of the family home," Ms Inman Grant says.
+Research from 2020 found 44 per cent of teens had a negative online experience, according to the eSafety Commissioner, with contact from a stranger and being sent inappropriate content the top two negative online experiences.
+Parents as gatekeepers for online harm
+Emma Wilson's eight-year-old son is neurodivergent and she often uses technology as a tool to calm him down when he is overwhelmed.
+Though he's not yet allowed social media, he plays online games such as Roblox or watches YouTube Kids in their Lilydale home in regional Tasmania.
+"I know that there's ... parental controls and you can block certain things, but you can't block everything because the content is so vast," Mrs Wilson says.
+Despite the parental controls that exist, the YouTube algorithm worries her.
+I heard a quote not so long ago that we over-parent in the physical world and we under-parent in the digital world.
+- Co-founder and executive director of ySafe, Yasmin London
+"It knows what you're interested in, they're quick videos and next thing you know there could be guns, but you don't really have any way of exactly controlling it".
+Ms London says parents are a child's "most influential role model and gatekeeper" of harmful online content.
+"I heard a quote not so long ago that we over-parent in the physical world and we under-parent in the digital world," the co-founder and executive director of ySafe says.
+"There are so many parents now that hand devices over to kids without any restrictions."
+It is critical that parents educate themselves and have open conversations about their children's online world, Ms London says.
+"When we put the groundwork in place ... the day that something bad happens, our kid will make the decision to come to us or not based on what work we've put in before then". 
+'The dark underbelly of the internet'
+Tech giant Meta recently came under fire for allowing parents to sell exclusive and revealing content of their children on Instagram, after claiming it put a stop to the practice in May, 2024.
+In June, around 50 female students from Bacchus Marsh Grammar in Victoria were the targets of alleged fake explicit images that circulated online.
+Gender biased social media abuse is becoming increasingly common due to the rapid rise of artificial intelligence (AI) and deepfakes.
+"It's the dark underbelly of the internet that nobody wants to lift open," Ms London says.
+"The victimisation of young women and girls through AI technology, and where that's going without proper controls in place and the rapid evolution of it, I think that's ... a scary path that we're treading at the moment."
+In June, the Australian government introduced legislation banning the sharing of non-consensual deepfake sexually explicit material, calling it "insidious" and "overwhelmingly targeted towards women and girls".
+Approximately 58 per cent of young women and girls globally have experienced online harassment on social media platforms, a report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) found.
+Stemming the 'child sexual exploitation tsunami'
+Experts are urging social media platforms and services to be held accountable in monitoring content and providing safe experiences for users.
+"Our recent transparency reports show some of the biggest tech companies still aren't doing enough to tackle the proliferation of horrific and harmful material," Ms Inman Grant told ACM.
+The office of the eSafety Commissioner, Australia's independent regulator for online safety, received almost 28,000 reports of harmful online child sexual abuse material in the last financial year.
+eSafety has issued transparency notices to 27 companies, which requires online service providers to report their online safety compliance, the commissioner says.
+In Australia, a 2023 survey of nearly 2000 men found 2.5 per cent of respondents had knowingly and deliberately viewed pornographic material containing people below the age of 18, according to a report by the Australian Institute of Criminology (AIC).
+Ms Inman Grant says as of recently, tech giants and platforms must report every six months the measures they have in place to protect children and "stem the tide of the child sexual exploitation tsunami".
+Annika's story
+When I was in high school, the amount of "likes" you received on an Instagram post or a Facebook profile picture more or less defined how cool you were.
+I recently decided to hide the likes on my Instagram posts in the hope that "out of sight, out of mind" would mean I'd give less thought to them.
+In saying that, social media has played a large part in being able to stay so close and connected to my friends and family, which I am always grateful for.
+And I'll be honest - I still care about these "likes" to a degree, but I try to actively reassess my relationship to social media when I can.

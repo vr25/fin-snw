@@ -1,0 +1,34 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+Picking artificial intelligence (AI) stocks for a decade-long holding period requires more than just looking at where the momentum in the market is. The companies worth holding for that long share one trait: a profitable, established business that funds the AI build-out without putting the rest of the company at risk.
+Three names that arguably meet the bar today are Meta Platforms (META -3.33%), Microsoft (MSFT +3.66%), and Broadcom (AVGO +0.70%).
+Each takes a distinct angle on AI, and each has the financial firepower to keep investing through whatever the next decade brings.
+Here's a closer look at why these three AI stocks look like solid long-term holds.
+Meta Platforms
+Social media giant Meta Platforms is converting its AI investment into faster ad growth in real time.
+The company's first-quarter revenue rose 33% year over year to $56.3 billion -- an acceleration from 24% growth in the prior quarter. And its family of apps ad revenue climbed 33% to $55 billion, with ad impressions across its services up 19% and the average price per ad up 12%. Operating income was $22.9 billion, for a 41% operating margin.
+But the AI spending behind Meta's growth plan is enormous.
+Management now expects 2026 capital expenditures of $125 billion to $145 billion, up from a prior range of $115 billion to $135 billion. Explaining the recent upward revision, the company cited higher component costs and additional data center investments to support future capacity.
+NASDAQ: META
+Key Data Points
+An outlay like this, of course, will pressure margins in the near term. But Meta is also generating the cash to absorb it, and its ad business is already showing the AI improvements paying off in strong advertising revenue today.
+The stock trades at a price-to-earnings ratio of about 23 as of this writing -- a reasonable multiple for a business growing at this rate. Sure, regulatory pressure in the U.S. and Europe is a real risk worth monitoring. But for a business with this much profitability and scale, the long-term setup looks attractive from this price.
+Microsoft
+Microsoft is the closest thing investors have to an across-the-board AI bet.
+The software and cloud giant's fiscal third-quarter revenue rose 18% year over year to $82.9 billion, with earnings per share up 23%. Its "Azure and other cloud services" revenue grew 40% -- an acceleration from 39% growth in the prior quarter. Additionally, Microsoft CEO Satya Nadella said the company's AI business surpassed a $37 billion annual run rate, up 123% year over year.
+NASDAQ: MSFT
+Key Data Points
+Further, the company's demand visibility is unusual at this scale.
+Microsoft's commercial remaining performance obligations (RPO), or contracted commercial work not yet recognized as revenue, climbed 99% year over year to $627 billion. And Microsoft 365 Copilot adoption recently reached 20 million seats, up from 15 million in January.
+But there are some high costs to this growth. Microsoft's fiscal third-quarter capital expenditures and finance leases were $31.9 billion, up 49% year over year, and chief financial officer Amy Hood expects calendar 2026 capital expenditures of about $190 billion.
+As is the case for Meta, a heavy spending cycle like this will weigh on margins as depreciation flows through the income statement. Still, at a price-to-earnings ratio of about 26 as of this writing, Microsoft stock looks fairly priced for the growth and its demand visibility.
+Broadcom
+Finally, if the AI build-out keeps running for years, Broadcom is one of the most direct beneficiaries. The semiconductor and networking specialist reported fiscal second-quarter results earlier this week, with revenue rising 48% year over year to a record $22.2 billion. AI semiconductor revenue was $10.8 billion, up 143% -- an acceleration from 106% growth in the prior quarter.
+For the current quarter, management guided to AI semiconductor revenue of $16 billion, up more than 200% year over year. And management expects fiscal 2026 AI semiconductor revenue of about $56 billion, up roughly 180% from fiscal 2025, and fiscal 2027 AI semiconductor revenue to exceed $100 billion.
+"Demand for XPUs and networking is simply insatiable," said Broadcom CEO Hock Tan in the company's fiscal second-quarter earnings call. AI semiconductor bookings in the quarter, Tan said, were over $30 billion against the $10.8 billion shipped.
+Shares, however, are not cheap. Even after a sharp post-earnings sell-off, the chipmaker still commands a price to non-GAAP (adjusted) trailing-12-month earnings ratio of about 52 -- a steep multiple that bakes in years of continued strong growth. And customer concentration in a small group of large AI buyers remains a critical risk to keep an eye on.
+NASDAQ: AVGO
+Key Data Points
+Overall, these three stocks -- Meta, Microsoft, and Broadcom -- are three solid ways to invest in AI and likely achieve decent long-term returns.
+Meta monetizes AI through consumer platforms, while Microsoft sells it to enterprises through software and cloud. Broadcom, meanwhile, supplies the chips that power both. Additionally, all three generate enough cash flow to keep investing through whatever comes next, and all three look positioned to compound for the long haul.

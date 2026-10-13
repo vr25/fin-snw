@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Please state the location and include REMOTE, INTERNS and/or VISA
+when that sort of candidate is welcome. When remote work is 
+not
+ an option,
+include ONSITE.
+Please only post if you personally are part of the hiring company—no
+recruiting firms or job boards. One post per company. If it isn't a household name,
+explain what your company does.
+Commenters: please don't reply to job posts to complain about
+something. It's off topic here.
+Readers: please only email if you are personally interested in the job.
+Searchers: try https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/,
+https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.
+Don't miss these other fine threads:
+Who wants to be hired? https://news.ycombinator.com/item?id=34983765
+Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=34983766

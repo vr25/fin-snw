@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+- AMD launched a new artificial-intelligence chip on Thursday that is taking direct aim at Nvidia's data center graphics processors, known as GPUs.
+- The Instinct MI325X's rollout will pit it against Nvidia's upcoming Blackwell chips, which will start shipping in significant quantities early next year.
+- If AMD's AI chips are seen by developers and cloud giants as a close substitute for Nvidia's products, it could put pricing pressure on Nvidia.
+AMD launched a new artificial intelligence chip on Thursday that is taking direct aim at Nvidia's data center graphics processors, known as GPUs.
+Stream Philadelphia News for free, 24/7, wherever you are with NBC10.
+The Instinct MI325X, as the chip is called, will start production before the end of 2024, Advanced Micro Devices said Thursday during an event announcing the new product. If AMD's AI chips are seen by developers and cloud giants as a close substitute for Nvidia's products, it could put pricing pressure on Nvidia, which has enjoyed roughly 75% gross margins while its GPUs have been in high demand over the past year.
+Advanced generative AI such as OpenAI's ChatGPT requires massive data centers full of GPUs in order to do the necessary processing, which has created demand for more companies to provide AI chips.
+In the past few years, Nvidia has dominated the majority of the data center GPU market, but AMD is historically in second place. Now, AMD is aiming to take share from its Silicon Valley rival or at least to capture a big chunk of the market, which it says will be worth $500 billion by 2028.
+"AI demand has actually continued to take off and actually exceed expectations. It's clear that the rate of investment is continuing to grow everywhere," AMD CEO Lisa Su said at the event.
+AMD didn't reveal new major cloud or internet customers for its Instinct GPUs at the event, but the company has previously disclosed that both Meta and Microsoft buy its AI GPUs and that OpenAI uses them for some applications. The company also did not disclose pricing for the Instinct MI325X, which is typically sold as part of a complete server.
+With the launch of the MI325X, AMD is accelerating its product schedule to release new chips on an annual schedule to better compete with Nvidia and take advantage of the boom in AI chips. The new AI chip is the successor to the MI300X, which started shipping late last year. AMD's 2025 chip will be called MI350, and its 2026 chip will be called MI400, the company said.
+The MI325X's rollout will pit it against Nvidia's upcoming Blackwell chips, which Nvidia has said will start shipping in significant quantities early next year.
+A successful launch for AMD's newest data center GPU could draw interest from investors that are looking for additional companies that are in line to benefit from the AI boom. AMD is only up 20% so far in 2024 while Nvidia's stock has risen over 175%. Most industry estimates say Nvidia has more than 90% of the market for data center AI chips.
+AMD's stock fell 4% on Thursday. Nvidia shares were up about 1%.
+AMD's biggest obstacle in taking market share is that its rival's chips use their own programming language, CUDA, which has become standard among AI developers. That essentially locks developers into Nvidia's ecosystem.
+In response, AMD this week said that it has been improving its competing software, called ROCm, so that AI developers can easily switch more of their AI models over to AMD's chips, which it calls accelerators.
+AMD has framed its AI accelerators as more competitive for use cases where AI models are creating content or making predictions rather than when an AI model is processing terabytes of data to improve. That's partially due to the advanced memory AMD is using on its chip, it said, which allows it to serve Meta's Llama AI model faster than some Nvidia chips.
+"What you see is that MI325 platform delivers up to 40% more inference performance than the H200 on Llama 3.1," said Su, referring to Meta's large language AI model.
+Taking on Intel, too
+While AI accelerators and GPUs have become the most intensely watched part of the semiconductor industry, AMD's core business has been central processors, or CPUs, that lay at the heart of nearly every server in the world.
+AMD's data center sales during the June quarter more than doubled in the past year to $2.8 billion, with AI chips accounting for only about $1 billion, the company said in July.
+AMD takes about 34% of total dollars spent on data center CPUs, the company said. That's still less than Intel, which remains the boss of the market with its Xeon line of chips. AMD is aiming to change that with a new line of CPUs, called EPYC 5th Gen, that it also announced Thursday.
+Those chips come in a number of different configurations ranging from a low-cost and low-power 8-core chip that costs $527 to 192-core, 500-watt processors intended for supercomputers that cost $14,813 per chip.
+The new CPUs are particularly good for feeding data into AI workloads, AMD said. Nearly all GPUs require a CPU on the same system in order to boot up the computer.
+"Today's AI is really about CPU capability, and you see that in data analytics and a lot of those types of applications," Su said.
+WATCH: Tech trends are meant to play out over years, we're still learning with AI, says AMD CEO Lisa Su

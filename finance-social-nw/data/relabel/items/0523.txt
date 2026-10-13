@@ -1,0 +1,8 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Skip to main content
+Townsquare Media Privacy Policy
+Return to Parent Site
+Privacy Policy
+Cookie Disclosure

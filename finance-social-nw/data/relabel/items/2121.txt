@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Alphabet’s Google is in discussions with Samsung Electronics to manufacture part of a future generation of its artificial intelligence processors, according to a report by The Information, signaling the company’s continued effort to diversify its semiconductor supply chain amid booming demand for AI hardware.
+The report said Google plans for Taiwan Semiconductor Manufacturing Co. (TSMC) to continue producing the main computing component of its next-generation Tensor Processing Unit (TPU), codenamed “Icefish.” Samsung, meanwhile, could manufacture a component that connects the chip to memory using its advanced 2-nanometer process technology.
+READ: China’s ByteDance partners with Samsung to develop AI chip (February 11, 2026)
+The chip is reportedly being developed in collaboration with Taiwanese chip designer MediaTek and remains in the design phase. Mass production could begin as early as 2028, according to the report.
+The potential agreement would represent a significant victory for Samsung’s foundry business, which has been seeking to attract more major customers for its advanced manufacturing technologies. Samsung has invested heavily in next-generation semiconductor production and recently emphasized its expectation of winning additional customers for chips built on its latest manufacturing processes.
+For Google, the discussions reflect a broader strategy to reduce reliance on a single manufacturing partner as demand for AI chips continues to surge. TSMC remains the dominant producer of advanced semiconductors, but industry-wide demand has created capacity constraints and prompted technology companies to explore alternative suppliers.
+Google’s custom-built TPUs have become increasingly important to the company’s artificial intelligence ambitions. Originally developed for internal workloads, the chips now play a growing role in powering Google’s cloud business and AI services, providing an alternative to Nvidia’s widely used graphics processing units.
+READ: Samsung to double AI mobile production to 800 million (January 5, 2026)
+The report comes days after separate reports indicated Google was also exploring manufacturing partnerships with Intel for future TPU production, highlighting the company’s efforts to build a more diversified chip ecosystem.
+Neither Google nor Samsung publicly confirmed the reported discussions. Samsung declined to comment, while Google did not immediately respond to requests for comment, according to Reuters.
+If completed, the partnership could strengthen Samsung’s position in the competitive contract chip manufacturing market while giving Google additional flexibility as it expands its AI infrastructure over the coming decade.

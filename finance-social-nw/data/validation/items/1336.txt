@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Russian propaganda is being spread through popular AI chatbots: report
+(TNND) — Popular artificial intelligence chatbots are being flooded with Russian propaganda, and much of that disinformation gets repeated to unsuspecting Americans seeking answers from the AI systems, according to a new report from NewsGuard.
+NewsGuard, a watchdog for online disinformation, audited 10 leading generative AI tools from OpenAI, X, Microsoft, Google, Meta and more.
+The chatbots collectively repeated false Russian disinformation narratives a third of the time, according to NewsGuard.
+The AI chatbots provided nonresponses about 18% of the time and debunked the false narratives about 48% of the time.
+Some chatbots even directly cited specific articles that came from Russian propagandists.
+NewsGuard said the disinformation is being pushed out by a Moscow-based network named “Pravda,” which launched soon after Russia invaded Ukraine.
+Since then, the network has expanded to 150 domains in various languages that have aggregated content from Russian state media, pro-Kremlin influencers and Russian government officials.
+Pravda publishes 3.6 million articles a year, according to the American Sunlight Project. That group published a report last month with similar findings about the Russian propaganda network.
+American Sunlight Project said the Russian network is “grooming” AI chatbots to share their narratives.
+“Sometimes we'll call it a data infiltration or a data poisoning,” said Daniel Schiff, a policy scientist and the co-director of the Governance and Responsible AI Lab at Purdue University.
+Schiff said the Russian operatives are trying to launder false information and pro-Russia narratives through substantially unregulated chatbots.
+“This is not terribly surprising, but it's very concerning,” he said.
+Schiff said the NewsGuard report “should be a really major warning for us.”
+AI systems are easy to fool in both simple and complex ways, Schiff said.
+Chatbots scrape information from all over the internet, including unvetted sources.
+“The good (AI) companies at least are trying to get rid of the poorly vetted data. But that's very hard to do,” he said. “They may not be putting too much energy into it. So, by putting a bunch of false information out there and deliberately sending that into channels that AI models are more likely to access, they can absolutely change the training of the models, the model weights, and to their goal, the model outputs to say things that are favorable to them.”
+Schiff said there aren’t enough safeguards in place, such as regulations or well-vetted technical mechanisms.
+And he said Americans can sometimes be too trusting of AI chatbot responses.
+“There's mixed evidence on how much Americans trust AI generally, but I think there's sufficient evidence of overreliance, and I see this in my students every semester,” he said.
+People might know that generative AI systems suffer from “hallucinations.”
+Folks might know they're supposed to double check the AI responses with known, reputable sources.
+But AI chatbots can sound very persuasive.
+Schiff warned that the AI isn’t necessarily right, no matter how well-articulated it is in its responses.
+Misinformation campaigns might take time to affect hearts and minds, but they can work, Schiff said.
+“So, pick any domestic issue policy issue, international issue, war, and you can influence segments of the population to believe things that are false, to believe things that they wouldn't believe if they were to take the time to think through the issues themselves,” he said.

@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+New Delhi, Feb 4 : In what could be touted as the worst month ever for tech workers, close to 1 lakh of them lost jobs in the month of January globally, dominated by companies like Amazon, Microsoft, Google, Salesforce and others.
+It means that more than 3,300 tech employees lost jobs daily on an average by more than 288 companies worldwide.
+Barring Apple, every other Big Tech firm has slashed jobs, led by Amazon with 18,000 job cuts, followed by Google with 12,000 and Microsoft 10,000 job cuts in January.
+Salesforce (7,000), IBM (3,900) and SAP (3,000) were other tech companies that announced layoffs last month.
+In 2022, over 1,000 companies laid off 154,336 workers, as per the data by layoffs tracking site Layoffs.fyi.
+So in total, more than 2.5 lakh tech employees have lost jobs in 2022 and now.
+As more and more Big Tech companies continue to sack employees, they listed various reasons behind the move -- over-hiring, uncertain global macroeconomic conditions, strong tailwinds from the Covid-19 pandemic and more.
+After laying off 11,000 employees, Meta Founder and CEO Mark Zuckerberg now wants 2023 to be the "year of efficiency".
+Joining the mass layoff season, online marketplace OLX Group slashed 15 per cent of its workforce, or more than 1,500 employees, globally including in India as part of restructuring amid the global meltdown and recession fears.
+Edtech major BYJU's has laid off further 15 per cent of its employees from its engineering teams.
+According to sources, the company in a fresh round of layoffs asked more than 1,000 workers (or 15 per cent) to go, mostly from its engineering teams.

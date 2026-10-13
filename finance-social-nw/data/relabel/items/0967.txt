@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft defends iPhone-only order for China employees amid online backlash from patriots
+- The move shows the challenges faced by multinational companies when navigating a bifurcated global technology system
+Microsoft defended its request for all mainland China-based employees to use iPhones at work, saying it is necessary due to the absence of Google’s Android services there, after the decision triggered speculation over the company’s intent.
+As part of its global cybersecurity initiative to fend off worldwide hackers, the US tech giant has started requiring all employees in mainland China to verify their identities through the Microsoft Authenticator password manager and Identity Pass apps, available on Apple’s App Store and Google Play only.
+Microsoft plans to offer Apple’s iOS devices to employees so they can access those apps because of the “lack of availability of Google Mobile Services in this region”, a company representative said on Tuesday.
+Google Mobile Services – a collection of Google apps and other tools, such as Play, Search, YouTube and Gmail – are blocked in mainland China.

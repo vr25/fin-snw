@@ -1,0 +1,12 @@
+{"id": "0001", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SOON you may notice something", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0271", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Investor bullishness on artificial intelligence", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1850", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 07 Jan 2026", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0776", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "It's been another banner start", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1389", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "First is the prerogative", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1568", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The 66th issue of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0250", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Data center demand for AI", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1428", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Membertou gets bus service", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1176", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Leading lights of the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1686", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft has had a", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1825", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Australian investors continue to", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1463", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A week of hell", "relation": "substitute-comparison", "sentiment_alignment": -1}

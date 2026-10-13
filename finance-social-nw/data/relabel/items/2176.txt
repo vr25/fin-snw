@@ -1,0 +1,70 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The Highest-Rated Wedding Venues in Eastern Iowa [PHOTOS]
+March is here, which means wedding season is almost upon us! Using reviews from Google, we put together a list of the highest-rated wedding/reception venues here in Eastern Iowa. Each venue on the list has at least ten reviews and a rating of 4.9 or higher. Here are 12 of the best:
+- Little Lights on the Lane -  2 Ember Ln, West Branch
+  - 4.9-star rating on Google
+  - Can host up to 300 guests
+  - Facebook review from Avery Leyden:
+    - "We had the pleasure of getting married at Little Lights on the Lane this June and it was absolutely the BEST venue we could have chosen. Their team is amazing and they are so helpful throughout the wedding planning process. The venue is absolutely gorgeous and extremely well kept!!! We are so impressed with LL and how great of a job they do. We can’t thank them enough and highly recommend working with LL!!!"
+- The Heights Rooftop - 901 Melrose Ave, Iowa City
+  - 5-star rating on Google
+  - Can host up to 300 guests
+  - Facebook review from Jessica Nobiling:
+    - "Wow! I am not sure how to describe how amazing Aly, Michelle and the entire crew at The Courtyard by Marriott and The Heights Rooftop were to work with for our wedding. They accommodated our every wish and were so helpful in every way. And when you are planning a wedding that is a dream come true. The venue itself is so beautiful and has the most amazing view of Kinnick Stadium! But a very important factor was how incredible the food was! It was served promptly to all guest and arrived hot. It was top notch excellent! We had so many compliments regarding the food and prompt service. The rooms were clean and very nice. Hotel staff are friendly and helpful. If you are looking for a venue for your next event look no farther. The Heights Rooftop is the place to be! Especially if you're a Hawkeye Fan!"
+- Koru Berry Farm - 1681 U Ave, Homestead
+  - 4.9-star rating on Google
+  - Can host up to 300 guests
+  - Facebook review from Mareda Lewer:
+    - "Booking Koru as our wedding venue was one of the best decisions we made in planning. For the year and a half from when we booked to the weekend of our wedding, Neil & Deda were a huge help, easy to work with, and so kind to our family and friends. They were quick to answer any question, flexible in letting us do things slightly differently than they'd done before, and referred us to incredible vendors. The space is beautiful, spacious, and flexible, and the outdoor surroundings absolutely sealed the deal. We highly recommend Koru!"
+- The Red Barn at Pine Creek Ranch - 1404 G Ave, Marengo
+  - 4.9-star rating on Google
+  - Can host up to 300 guests
+  - Facebook review from Kelsey McKusker:
+    - "Talk about a fairy tale wedding venue. We got married there this past weekend and the atmosphere, staff and property is top notch! We had so many guest in awe witnessing this venue for their first time. I will recommend this venue 1000x over!"
+- Epic Event Center - 2987 Epic Dr, Marion
+  - 4.9-star rating on Google
+  - Can host 400+ guests
+  - Google review from Andrea Little:
+    - "Epic is absolutely perfect!!! Could not ask for anything more at all on our wedding day!!! Karen & all epic staff make sure you have zero worries on your special day! They take care of absolutely everything and guide you through your day 100%. Everything is completely upfront they answer all questions with complete confidence. There are zero hidden fees with Epic!! I couldn’t ask for a better day, location or staff to celebrate my wedding with!!! Thank you so much to Epic for going above and beyond!!"
+- Price Creek Event Center - 4709 220th Trail, Amana
+  - 4.9-star rating on Google
+  - Can host up to 250 guests
+  - Facebook review from Lindsay McCloskey:
+    - "Yana and her team were amazing! Yana is extremely helpful and irreplaceable. She thought of so many details that made our day extra special. The venue is beautiful and has a sort of classic elegance to it. I love the fact that the buffet area and bar is separate from the reception room, but still connected; this allowed for less congestion and better flow. Their in house catering was delicious, and many guests said it was the best wedding food they’ve had. I would recommend Yana and the event center to anyone and everyone."
+- Kacena Farms - 2510 55th St, Vinton
+  - 4.9-star rating on Google
+  - Can host up to 300 guests
+  - Facebook review from Brandi Rickard:
+    - "Kacena Farms is such a beautiful venue. We got so many compliments after our wedding on choosing such a beautiful place for our big day. Alyce Lynch goes above and beyond to make your wedding everything you've dreamed of. Just minutes after inquiring about the venue we already had a meeting scheduled with Alyce. In the year of wedding planning Alyce and her family did so many things to make Kacena Farms even better. On the weekend of the wedding Alyce helped so much by stocking coolers, helping decorate, helping organize the rehearsal, restocking snacks/cupcakes, helping clean up and so much more. I highly recommend Kacena Farms for your wedding day!"
+- The Bean Farm & Chisel Point - 7731 148th St, Scotch Grove
+  - 4.9-star rating on Google
+  - Can host up to 200 guests
+  - Facebook review from Larissa Ray Jean Tjaden:
+    - "We had the absolute best wedding day at The Bean Farm! From the moment we met with Julia, a year and a half prior to our wedding date, we knew it was the place for us. She made us feel so comfortable. Everything was perfect and the shed is beautiful inside. The new addition adds lots of extra space that we needed for our 250+ guest list. If you’re looking for a laid back venue with lots of outdoor space, this is the place for you! We highly recommend The Bean Farm and hope to visit again in the future!"
+-  The Hidden Acre - 1406 250th St, Waverly
+  - 5-star rating on Google
+  - Can host 300+ guests
+  - Facebook review from Dana Cunard:
+    - "My husband and I could not have been happier with our wedding experience at The Hidden Acre. The staff was reliable and responsive to emails with all of our questions! The entire staff was helpful, nice, involved and really cared about making it the perfect day. Everything ran smoothly and our guests fell in love with the venue! 5/5 and would recommend to anyone looking to marry in the Cedar Valley."
+- The Midnight Gem - 2613 Ders Dr. NW, Swisher
+  - 5-star rating on Google
+  - Can host up to 300 guests
+  - Google review from Taylor Gallop:
+    - "Such a beautiful venue that has amazing staff, beautiful architecture and design, well thought out amenities for couples planning to get married here and their guest. The putting green, reception space and the bridal suite are just a few of my favorites! 10/10 recommend."
+- Magnolia Wedding Event Venue - 168 E 10th St Suite 2, Dubuque
+  - 4.9-star rating on Google
+  - Can host up to 250 guests
+  - Facebook review from Kim Scherer:
+    - "I was the first bride to book this venue when it was still under construction. Then Covid hit and now two years later, we finally are married! The Magnolia was worth the wait! The most stunning venue and Justin cooking all of our food was beyond amazing! Everyone commented how great the food was!! The bar staff were also amazing and quick and made our specialty cocktail taste great!! Kyla was so quick to jump in day of and help out wherever was needed and that made the whole day run smooth!! We cannot thank you all enough for making our day great and Kyla for sticking with us those two years!! Cheers!!"
+- The Oakland Mill -��22095 IA-64, Maquoketa
+  - 4.9-star rating on Google
+  - Can host small weddings
+  - Facebook review from Mallory Shustarich:
+    - "If you’re looking for a beautiful venue with amazing owners, then choose The Oakland Mill. Nick and Lacey have created a serene oasis with the Mill! The inside is so beautifully decorated and the outside has an abundance of space. Not only is the space absolutely gorgeous and inviting, but Nick is so easy to work with. From the first time we visited the Mill, he was so accommodating. He was so easy going on our wedding day and made the day so special. Plus he’s the best bartender! If I could give the Mill 10/5 stars, I definitely would!!!"
+Iowa brides and grooms: what venue did you have your wedding/reception at? Let us know in the comments!
+KEEP READING: See the richest person in every state
+LOOK: The 25 least expensive states to live in
+Here are the top 25 states with the lowest cost of living in 2022, using data Stacker culled from the Council for Community and Economic Research.
+Gallery Credit: Aubrey Jane McClaine

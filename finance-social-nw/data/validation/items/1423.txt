@@ -1,0 +1,25 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Microsoft and Meta Platforms led Wall Street higher Thursday after the Big Tech companies reported profits for the start of the year that were even bigger than analysts expected.
+The S&P 500 rose 0.6% for an eighth straight gain, its longest winning streak since August. The Dow Jones Industrial Average added 83 points, or 0.2%, and the Nasdaq composite climbed 1.5%.
+Microsoft rallied 7.6% after the software giant said strength in its cloud computing and artificial intelligence businesses drove its overall revenue up 13% from a year earlier.
+Meta, the parent company of Facebook and Instagram, also topped analysts’ targets for revenue and profit in the latest quarter. It said AI tools helped boost its advertising revenue, and its stock climbed 4.2%.
+They’re two of the most influential stocks within the S&P 500 and other indexes because of their massive sizes, and they weren’t alone. CVS Health, Carrier Global and a bevy of other companies also joined the stream of better-than-expected profit reports that have helped steady Wall Street over the last week. The S&P 500 is back to within 9% of its record set earlier this year, after briefly dropping nearly 20% below the mark.
+Still, plenty of uncertainty remains about whether President Donald Trump’s trade war will force the economy into a recession. Even though companies have been reporting better profits for the first three months of the year than analysts expected, many CEOs are remaining cautious about the rest of the year.
+General Motors cut its forecast for profit in 2025, for example. It said it’s assuming it will feel a hit of $4 billion to $5 billion because of tariffs, and it expects to offset at least 30% of it. GM’s stock slipped 0.4%.
+McDonald’s fell 1.9% after reporting weaker revenue for the latest quarter than analysts expected, even though its profit was slightly above forecasts. An important measure of performance at its U.S. restaurants had its worst decline since 2020, when COVID shuttered the global economy, and McDonald’s CEO Chris Kempczinski said consumers “are grappling with uncertainty.”
+McDonald’s joined Chipotle and other restaurant chains that have seen customers get more cautious amid all the unknowns about the economy and inflation that’s still higher than many would like.
+The uncertainty has already shown up in surveys of consumers, which say pessimism is shooting higher about where the economy heading. On Thursday, a couple reports about the economy came in mixed, following up on several recent updates that suggested it’s weakening.
+The first of the reports said more U.S. workers filed for unemployment benefits last week than economists had forecast, setting the stage for a more comprehensive report on the job market arriving Friday.
+But a later update said U.S. manufacturing activity was better last month than economists had feared, though it still contracted again.
+The fear on Wall Street is for a possible worst-case scenario called “stagflation,” where the economy stagnates yet inflation remains high. The Federal Reserve has no good tools to fix both such problems at the same time. If the Fed were to try to help one problem by adjusting interest rates, it would likely make the other worse.
+Some encouraging news on inflation arrived Wednesday, when a report said that the measure of inflation the Fed likes to use slowed in March.
+In the bond market, Treasury yields swiveled following Thursday’s economic reports. The yield on the 10-year Treasury initially fell below 4.13% after the worse-than-expected update on joblessness. But it later trimmed its losses following the better-than-expected report on manufacturing and rallied to 4.21%. That’s up from 4.17% late Wednesday.
+Stocks were steadier and held onto their gains through the day after opening higher. All told, the S&P 500 rose 35.08 points to 5,604.14. The Dow Jones Industrial Average added 83.60 to 40,752.96, and the Nasdaq composite gained 264.40 to 17,710.74.
+In stock markets abroad, trading was closed in many countries for May Day, or international Labor Day holidays.
+Tokyo’s Nikkei 225 rose 1.1% after the Bank of Japan kept its benchmark interest rate unchanged, as many investors expected.
+Hopes that Trump may eventually roll back some of his tariffs after reaching trade deals with other countries also helped to support markets.
+A social media blog by China’s state broadcaster claimed that the Trump administration has been seeking contact with the world’s second largest economy through multiple channels to start negotiations over tariffs.
+___
+AP Writers Yuri Kageyama, Matt Ott and Didi Tang contributed.

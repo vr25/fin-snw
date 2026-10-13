@@ -1,0 +1,12 @@
+data/validation/items/0754.txt
+data/validation/items/1551.txt
+data/validation/items/1461.txt
+data/validation/items/1087.txt
+data/validation/items/0952.txt
+data/validation/items/2107.txt
+data/validation/items/2155.txt
+data/validation/items/0862.txt
+data/validation/items/1754.txt
+data/validation/items/1223.txt
+data/validation/items/0398.txt
+data/validation/items/1196.txt

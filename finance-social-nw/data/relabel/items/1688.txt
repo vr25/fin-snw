@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft AI CEO Mustafa Suleyman said the software giant won't build artificial intelligence services that provide "simulated erotica," distancing itself from longtime partner OpenAI.
+"That's just not a service we're going to provide," Suleyman said on Thursday at the Paley International Council Summit in Menlo Park, California. "Other companies will build that."
+Suleyman's comments come a week after OpenAI CEO Sam Altman said his company plans to allow verified adults to use ChatGPT for erotica. Altman said that OpenAI is "not the elected moral police of the world."
+Microsoft has for years been a major investor and cloud partner to OpenAI, and the two companies have used their respective strengths to build big AI businesses. But the relationship has shown signs of tension of late, with OpenAI partnering with Microsoft rivals like Google and Oracle, and Microsoft focusing more on its own AI services.
+Earlier on Thursday, Microsoft announced a series of new features for its Copilot AI chatbot, including an AI companion called Mico that can respond to users through a call feature and express itself by changing its color.
+Suleyman in August penned an essay titled "We must build AI for people; not to be a person." He argued that tech companies should not build "seemingly conscious" services that can give humans the impression that they may be capable of suffering, and wrote that conscious AIs could create another "axis of division" for humanity.
+On Thursday, Suleyman said the creation of seemingly conscious AI is already happening, primarily with erotica-focused services. He referenced Altman's comments as well as Elon Musk's Grok, which in July launched its own companion features, including a female anime character.
+"You can already see it with some of these avatars and people leaning into the kind of sexbot erotica direction," Suleyman said. "This is very dangerous, and I think we should be making conscious decisions to avoid those kinds of things."
+OpenAI didn't immediately respond to requests for comment, while xAI responded saying, "Legacy Media Lies."
+WATCH: Why it's time to take AI-human relationships seriously

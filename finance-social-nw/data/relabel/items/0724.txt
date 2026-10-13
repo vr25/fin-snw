@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Risk-averse UK pensions miss £400bn shares boost
+Risk-averse British pension funds have missed out on an estimated £400 billion shares bonanza in just over a year as stock markets soar, research shows.
+Last week another global share rally was fuelled by chipmaker Nvidia as it smashed its sales forecast, sending indices in the US, Europe and Japan to all-time highs.
+Nvidia's stock market value leapt by more than £200 billion on Thursday alone – more than the £155 billion that AstraZeneca, Britain's biggest company, is worth in total.
+On the brink: Britain's defined benefit pension schemes have shunned shares in favour of supposedly safe bonds to meet their pensions obligations
+The silicon chipmaker has now leapfrogged Google's parent firm Alphabet and Amazon to become the most valuable US-listed company after Microsoft and Apple.
+But Britain's defined benefit pension schemes, which guarantee their 10 million members a retirement income, have failed to benefit after shunning shares in favour of supposedly safe bonds to meet their pensions obligations.
+They missed out on £300 billion last year, as US stocks jumped by a quarter, according to accountancy group PwC. The benchmark S&P 500 index has risen 7 per cent since then, buoyed by tech shares.
+'If UK pension schemes invested only for growth, the 2023 surplus would have been £300 billion higher based on those US returns,' said John Dunn, PwC head of pensions.
+Rules are being finalised to allow retirement schemes to invest up to 30 per cent of assets for growth rather than income, potentially boosting returns for pensioners and the UK economy.
+The 5,000 defined benefit schemes have total assets of £1.4 trillion – equal to half of Britain's annual economic output.

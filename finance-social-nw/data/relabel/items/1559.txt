@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+If you do a survey among people in the hospitality industry, the overwhelming answer to this question would be 'Nothing' or 'Very little'.
+Yet, according to a June 2025 analysis by Semrush, based on over 150,000 citations on generative AI platforms like ChatGPT, these AI platforms go to Reddit (40.1% of citations), Wikipedia (26.3% of citations), YouTube (23.5% of citations) and Google (23.3% of citations) to source factual information.
+The above shows how heavily generative AI platforms like ChatGPT rely on user-generated content, which provides hoteliers with opportunities to generate additional visibility and bookings for their properties.
+Just as a reminder, Reddit is a social network for news aggregation, ratings and discussions, a collection of online communities, called "subreddits," where users can post links, text posts, images, and videos, which are then voted up or down by other users.
+On Reddit people can ask questions about places to stay, read honest reviews and get recommendations from fellow travelers. It is a platform where opinions are formed, and purchase decisions are made.
+Reddit has over 515 million active monthly users compared to Google’s 5 billion (August, 2025).
+How do travelers use Reddit?
+When searching on Reddit Answers, even using typical Googlesque queries like “Recommend Boutique hotels near Central Park NYC”, the social site provides a list of hotel options that match your query, based on recommendations from other Redditors. If yours is a boutique hotel near Central Park and people mention your hotel in their posts or discussions, this citation may entice travelers to book and stay at your hotel.
+How can hoteliers create and increase their presence on Reddit?
+Some of the obvious recommendations for hoteliers are:
+- Create a subreddit. To begin with, unlike Facebook, Instagram, Google, etc., you cannot create a traditional business profile or business listing on Reddit. Instead, hoteliers should create a subreddit community for their hotel, and proactively participate in various other travel and destination-related communities.
+- Advertise via Reddit Ads. You can significantly boost your visibility on Reddit by launching Reddit Ads. A number of hotels brands, OTAs already do that. Reddit advertising starts from as low as $5 per day. You can control your daily and lifetime budgets to stay within your desired spend.
+- Invest in content marketing to "earn recognition" via citations about your property, services and amenities on social networks like Reddit, relevant websites, blogs, etc.
+- Create video content on YouTube about your hotel, the destination, local activities, etc.
+The moral of the story? Do not abandon your traditional search marketing - Google still generates more than half of hotel website bookings. Take advantage of the generative AI platforms like ChatGPT and invest in their sources of citations like Reddit.
+Max Starkov
+Hospitality & Online Travel Tech Consultant & Strategist
+Follow Max

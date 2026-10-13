@@ -1,0 +1,97 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+In this article, we will be taking a look at the 12 best automotive stocks to buy now.
+The UAW Strike
+The biggest development in the automotive industry today is the United Auto Workers (UAW) strike. The union has been targeting three automakers primarily, namely General Motors Company (NYSE:GM), Stellantis N.V. (NYSE:STLA), and Ford Motor Company (NYSE:F), after its contract with these companies expired on September 14. It has put forth several demands before the companies, including a 40% wage hike with a 20% immediate increase, according to a Reuters article from September 22. While the contract negotiations continue, the strikes also carry on, a development that might continue to strain the automotive industry.
+Some believe that the strikes could lead to a further escalation in car prices that are already too high for most consumers. Car prices have been on a steady rise since as far back as 2016. According to a CNBC chart from May 2023, while the average transaction price for a new vehicle in the US was about $33,200 in May 2016, this value had risen to a staggering $47,900 by May 2023. According to a CNBC report from September 22, experts now believe that consumers hoping to purchase a new car can expect to see lower discounts and fewer incentives down the road in light of the UAW strikes.
+Some hypothesize that one reason why automakers are running into trouble with the UAW is that they are focusing on cost reductions to help move towards an electric-vehicle-focused future, with less reliance being placed on traditional gasoline-powered cars. These cost reductions are thought to include job cuts, which is putting major automakers in heated disagreements with auto workers. While a dedication to electric vehicles is certainly in the interests of protecting the environment and combatting climate change, such a ramification is something that cannot be ignored, especially not by the union workers most affected by it.
+What Should Investors Be Looking At?
+While this is the situation on the ground at present from a consumer point of view, for investors in particular, a major trend to keep an eye on in the automotive industry is, of course, the rise of electric vehicles and the companies producing them. Investors might benefit from keeping an eye on the moves and performance of an exchange-traded fund (ETF), the Solactive Pure US Electric Vehicle ETF. The ETF is focusing solely on the top electric vehicle producers and may be an interesting fund to watch for those looking to invest in this space. Sylvia Jablonski, the Chief Investment Officer at Defiance ETF, had the following to say about this ETF on CNBC on September 23:
+ “We realized that investors are buying a lot of ETFs for electric vehicle exposure, but if you break down what is in those ETFs, because of the diversification role, they hold stocks like Apple, Microsoft, and NVIDIA. Absolutely great stocks, but they’re not electric vehicle stocks. And we thought to ourselves, well, it’s better to be diversified than not, right, so instead of just buying Tesla, you want a little more exposure to this space. So we took the top five electric vehicle companies listed in the US by market cap.”
+As Jablonski explained, this ETF can thus be an attractive investment for those only looking to invest in the electric vehicle space while also diversifying. In general, many automotive industry stocks like Tesla, Inc. (NASDAQ:TSLA) and AutoZone, Inc. (NYSE:AZO) have proven to be good investment options historically as well. For those looking for more options in the automotive sector at large, we have thus compiled a list of some of the best automotive stocks to buy now for the long term. These include some of the top electric car stocks to buy as well.
+Our Methodology
+To compile our list below, we used Insider Monkey’s hedge fund data for the second quarter to pick stocks in the automotive industry. We selected a mixture of automotive manufacturers and automotive parts distributors. The stocks are ranked based on the number of hedge funds holding stakes in them, from the lowest to the highest number.
+Best Automotive Stocks To Buy Now
+12. Stellantis N.V. (NYSE:STLA)
+Number of Hedge Fund Holders: 27
+Stellantis N.V. is an automobile manufacturer based in the Netherlands. The company designs, engineers, manufactures, and sells automobiles and light commercial vehicles, engines, transmission systems, and more.
+As of July 32, Philippe Houchois, an analyst at Jefferies, maintains a Buy rating on shares of Stellantis N.V.. The analyst also raised his price target on the stock from $22.90 to $25.30.
+We saw 27 hedge funds holding stakes in Stellantis N.V. at the end of the second quarter. Their total stake value in the company was $468.2 million.
+Miller Value Partners made the following comments about Stellantis N.V. in its second-quarter 2023 investor letter:
+ “We initiated a starter position in Stellantis N.V. (NYSE:STLA), which makes Jeep, Dodge and Fiat cars. The company has a nearly 8% dividend yield with enough net cash (cash minus debt) on the balance sheet to cover the dividend for almost five years. The company trades at 1.7x operating profits, which means the market is already expecting a likely drop in cash flow. Still, the shares appear to be worth meaningfully more than where they trade, and management is heavily aligned with stockholders with a 14% stake. They share our view that the valuation is compelling, as the company plans on repurchasing ~3% of shares outstanding this year.”
+Like Tesla, Inc., General Motors Company, and AutoZone, Inc., Stellantis N.V. is an automotive stock many hedge funds are piling into today.
+11. Ferrari N.V. (NYSE:RACE)
+Number of Hedge Fund Holders: 30
+Ferrari N.V. (NYSE:RACE) was spotted in the 13F holdings of 30 hedge funds in the second quarter, with a total stake value of $848.9 million.
+Ferrari N.V. designs, engineers, produces, and sells luxury performance sports cars across the globe. The company is based in Italy. It offers range, special series, Icona, and supercars, among more.
+A Buy rating was maintained on shares of Ferrari N.V. by Susy Tibaldi, an analyst at UBS, on September 1. The analyst also raised the firm’s price target on the stock from $368 to $375.
+Holding 357,181 shares in the company, Marshall Wace LLP was the largest shareholder in Ferrari N.V. at the end of the second quarter.
+This is what Ensemble Capital Management had to say about Ferrari N.V. in its first-quarter 2023 investor letter:
+ “Ferrari N.V. (NYSE:RACE) (+26.48%): The luxury automaker’s long awaited Purosangue, their first four door, four seater vehicle, has proven so popular that the company announced that they have ceased accepting new orders as they are sold out through all of this year and into 2024. The Purosangue is designed not as copycat sports utility vehicle that many other luxury automakers sell, but as a true Ferrari car that their devoted fan base can use for more practical transportation needs. Since the average Ferrari is only driven a few thousand miles a year or less, they are best understood as mechanical works of art rather than a means of transportation. But with the introduction of the Purosangue, Ferrari enthusiasts will have a vehicle that meets transportation needs, while still delivering the extremely high end experience that you would expect from a car that costs about $500,000.”
+10. LKQ Corporation (NASDAQ:LKQ)
+Number of Hedge Fund Holders: 32
+Baird analyst Craig Kennison reiterated an Outperform rating on shares of LKQ Corporation (NASDAQ:LKQ) on August 28. The analyst also maintained a price target of $65 on the stock.
+Our hedge fund data shows 32 hedge funds long LKQ Corporation at the end of the second quarter. Their total stake value was $318.4 million.
+LKQ Corporation is a distributor of replacement parts, components, and systems used in the repair and maintenance of vehicles and specialty vehicle aftermarket products and accessories. The company is based in Chicago, Illinois.
+9. BorgWarner Inc. (NYSE:BWA)
+Number of Hedge Fund Holders: 33
+Harris Associates was the largest shareholder in BorgWarner Inc. (NYSE:BWA) at the end of the second quarter, holding 10.1 million shares in the company.
+BorgWarner Inc. is an automotive parts and equipment company based in Auburn Hills, Michigan. The company provides solutions for combustion, hybrid, and electric vehicles across the globe. It offers turbochargers, eBoosters, eTurbos, timing systems, and more.
+Colin Langan, an analyst at UBS, initiated coverage on BorgWarner Inc. shares on September 13 with a Buy rating. The analyst also announced a price target of $52 on the stock.
+There were 33 hedge funds long BorgWarner Inc. in the second quarter, with a total stake value of $392.4 million.
+Ariel Investments said the following about BorgWarner Inc. in its first-quarter 2023 investor letter:
+ “Several stocks in the portfolio had strong returns in the quarter. Leading supplier of solutions for combustion, hybrid and electric vehicles BorgWarner Inc. (NYSE:BWA) increased following a top- and bottom-line earnings beat, as well as a solid financial guidance for 2023, despite foreign currency headwinds. Meanwhile, BWA continues to successfully execute on its Charging Forward initiative and remains on track to deliver $4 billion in electric vehicle sales by 2025. In our view, BWA’s electric motor and driveline technology offerings position the company to grow intrinsic value throughout the evolution in the hybrid and electric vehicles market.”
+8. Mobileye NV (NYSE:MBLY)
+Number of Hedge Fund Holders: 36
+Mobileye NV (NYSE:MBLY) is another automotive parts and equipment company on our list. It is based in Israel. The company develops and deploys advanced driver assistance systems and autonomous driving technologies and solutions across the globe.
+Mobileye NV was seen in the portfolios of 36 hedge funds at the end of the second quarter. Their total stake value was $609.3 million.
+UBS analyst Joseph Spak initiated coverage on shares of Mobileye NV with a Buy rating on September 13. The analyst also announced a price target of $48 on the stock.
+7. Rivian Automotive Inc. (NASDAQ:RIVN)
+Number of Hedge Fund Holders: 37
+A Buy rating was reiterated on shares of Rivian Automotive Inc. (NASDAQ:RIVN) on August 24 by Chris Pierce, an analyst at Needham. The analyst also maintained a price target of $31 on the stock.
+Rivian Automotive Inc. is a manufacturer of electric vehicles and accessories. The company is based in Irvine, California. It offers five-passenger pickup trucks and seven-passenger sports utility vehicles, among more.
+A total of 37 hedge funds were long Rivian Automotive Inc. in the second quarter, with a total stake value of $782.9 million.
+D1 Capital Partners was the most prominent shareholder in Rivian Automotive Inc. at the end of the second quarter, holding 13.9 million shares in the company.
+Here’s what Baron Funds said about Rivian Automotive Inc. in its second-quarter 2023 investor letter:
+ “During the second quarter, we also added to our position in EV manufacturer Rivian Automotive, Inc. (NASDAQ:RIVN). After a complex period since the company’s IPO, in which Rivian tried to ramp multiple vehicles simultaneously while struggling to overcome unprecedented supply-chain bottlenecks, the company seems to have turned the corner. Production is now starting to scale up, which should help the company improve its plant utilization and subsequently help gross margins. The company is making notable progress in cost improvements by renegotiating with its suppliers, utilizing its larger scale to get better pricing, as well as, incorporating various technological advancements that would improve its cost structure while also improving the vehicles’ performance (for example it’s Enduro drive unit which is progressing ahead of plan).”
+6. Autoliv Inc. (NYSE:ALV)
+Number of Hedge Fund Holders: 38
+There were 38 hedge funds long Autoliv Inc. (NYSE:ALV) in the second quarter. Their total stake value in the company was $901.2 million.
+Autoliv Inc. is an automotive parts and equipment company that develops, manufactures, and supplies passive safety systems to the automotive industry. The company is based in Sweden. It offers modules and components for frontal-impact airbag protection systems, side-impact airbag protection systems, seatbelts, steering wheels, and more.
+Vijay Rakesh, an analyst at Mizuho, maintained a Buy rating on shares of Autoliv Inc. on July 24. The analyst also raised his price target on the stock from $96 to $106.
+Like Tesla, Inc., General Motors Company, and AutoZone, Inc., Autoliv Inc. is a highly popular automotive stock this year.
+5. Aptiv PLC (NYSE:APTV)
+Number of Hedge Fund Holders: 40
+Aptiv PLC (NYSE:APTV) is an automotive parts and equipment company. It is based in Ireland.
+Joseph Spak at UBS initiated coverage on Aptiv PLC shares with a Buy rating and a $143 price target on September 13.
+Aptiv PLC had 40 hedge funds long its stock in the second quarter, with a total stake value of $1.8 billion.
+Here’s what Artisan Partners said about Aptiv PLC in its second-quarter 2023 investor letter:
+ “Along with Catalent, we ended our investment campaigns in Aptiv PLC (NYSE:APTV) and Nasdaq during the quarter. Aptiv is a leading provider of safety, infotainment and electronic control components to the automotive market. Our view was that the company was well-positioned to benefit from several strong secular industry trends—the shift from internal combustion engines to electric vehicles, autonomous driving and increased computing intensity in vehicles. Over our holding period, a volatile macro environment (pandemic, supply chain shortages) steadily weighed on the profit cycle despite the company’s strong new business announcements. Furthermore, we believe the company may be increasingly disadvantaged as leading auto manufacturers work around tier-one suppliers (such as Aptiv) to maximize profits and speed to market. While the profit cycle may ultimately take hold, we concluded that several of our semiconductor holdings (ON Semiconductor, Lattice Semiconductor and Monolithic Power Systems) offer stronger leverage to these important new auto trends and decided to exit the position.”
+4. Ford Motor Company (NYSE:F)
+Number of Hedge Fund Holders: 40
+UBS analyst Joseph Spak initiated coverage on Ford Motor Company shares with a Buy rating and a $15 price target on September 13.
+Ford Motor Company is an automobile manufacturer based in Dearborn, Michigan. The company develops, delivers, and services Ford trucks, commercial cars, and vans, among more.
+We saw 40 hedge funds long Ford Motor Company in the second quarter, with a total stake value of $895.5 million.
+3. AutoZone, Inc. (NYSE:AZO)
+Number of Hedge Fund Holders: 52
+In total, 52 hedge funds were long AutoZone, Inc. in the second quarter. Their total stake value was $1.5 billion.
+AutoZone, Inc. is an automotive retail company based in Memphis, Tennessee. The company retails and distributes automotive replacement parts and accessories.
+A Buy rating and a $2920 price target were maintained on AutoZone, Inc. on September 21 by Taylor Conrad at Argus Research.
+2. General Motors Company (NYSE:GM)
+Number of Hedge Fund Holders: 72
+General Motors Company is another automobile manufacturer on our list. It designs and sells trucks, crossovers, cars, and automobile parts, among more.
+General Motors Company was found in the portfolios of 72 hedge funds in the second quarter, with a total stake value of $2.5 billion.
+Tom Narayan at RBC Capital reiterated an Outperform rating on General Motors Company shares on August 14, alongside a $48 price target.
+1. Tesla, Inc. (NASDAQ:TSLA)
+Number of Hedge Fund Holders: 79
+An Outperform rating and a $305 price target were maintained on Tesla, Inc. by Tom Narayan at RBC Capital on September 12.
+Our hedge fund data for the second quarter shows 79 hedge funds long Tesla, Inc.. Their total stake value was $6.5 billion.
+Tesla, Inc. is a renowned manufacturer of electric vehicles. It is based in Austin, Texas.
+This is what Baron Funds said about Tesla, Inc. in its second-quarter 2023 investor letter:
+ Many factors contributed to the strong performance of our largest Disruptive Growth position, Tesla, Inc. (NASDAQ:TSLA), in the period. Investors’ concerns regarding Tesla in 2022 continue to dissipate, and the company’s business has continued to grow materially, although at below peak margins. Tesla’s deliveries in China are recovering. The company’s newest factory in Texas has ramped production and should contribute to improved domestic sales and margins. U.S. government policies have lowered the cost to own Tesla vehicles, while also reducing the company’s battery production expenses.
+We continue to believe that Tesla is only scratching the surface of its potential. We regard announced partnerships between Tesla and its competitors in the quarter as important. In early June, Tesla agreed to provide Ford Motors access to Tesla’s electric vehicle (EV) charging technology and network. Other traditional and pure EV manufacturers, including General Motors, Rivian, and Volvo, quickly followed suit. We expect additional charging partnerships to ensue. In our view, these relationships validate Tesla’s charging technology and infrastructure as superior to other standards. Consolidation around a single technology should accelerate charging infrastructure deployment, diminish the risk of Tesla’s technology becoming obsolete, and lessen a key concern of hesitant EV purchasers. EV adoption is at a tipping point. And Tesla, with its approximately 60% domestic market share of EVs, should be the most important beneficiary of this shift…” (Click here to read the full text)
+See also 20 Countries with the Most Electric Vehicles in 2023 and 10 Best Small Cap Electric Vehicle Stocks to Buy.
+Suggested articles:
+- 10 Best Small Cap Automotive Stocks To Buy
+- 25 Bestselling Cars, Trucks, an

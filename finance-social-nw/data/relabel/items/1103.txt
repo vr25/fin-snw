@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Apple
+ has reportedly abruptly pulled out of negotiations to participate in a significant funding round for 
+OpenAI
+, the artificial intelligence research lab behind ChatGPT. According to an exclusive report in WSJ, "Apple is no longer in talks to participate in an OpenAI funding round expected to raise as much as $6.5 billion, an 11th hour end to what would have been a rare investment by the iPhone maker in another major Silicon Valley company."
+The funding round, expected to close next week, aims to raise as much as $6.5 billion. Other tech giants, including Microsoft and Nvidia, have also reportedly expressed interest in participating. Microsoft, already a major investor in OpenAI, is reportedly considering a significant additional investment.
+Reports suggest that venture capital firm Thrive Capital is leading the round, with Tiger Global Management and MGX, a United Arab Emirates state-backed company, also involved in the discussions.
+OpenAI's corporate structure is also undergoing a significant transformation. The company is transitioning from a nonprofit to a for-profit entity, a move encouraged by many of its investors. This transition, however, presents complex challenges. If OpenAI fails to complete the transformation within two years, investors in the current round will have the right to request their money back.
+Why Apple moved away from funding round at the 11th hour
+The reasons behind Apple's decision to withdraw from the investment talks remain unclear. Some speculate that the company may have concerns about potential conflicts of interest or may be prioritizing other AI initiatives. Others suggest that the terms of the deal, including valuation and governance, may not have aligned with Apple's strategic objectives.
+There are also reportedly apprehensions over OpenAI's leadership and direction. Recent reports of internal turmoil and leadership changes at OpenAI might have raised concerns for Apple about the company's future trajectory.

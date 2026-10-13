@@ -1,0 +1,87 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+UNITED STATES
+California’s proposed law against AI replacing human professors
+The state legislature of California has sent to Governor Gavin Newsom’s desk a bill that prevents the state’s 116 community colleges from replacing instructors with bots or generative artificial intelligence tools like ChatGPT.
+If the governor does not veto or sign it into law by the end of September, Assembly Bill (AB) 2370 will automatically become law, making America’s most populous state the only jurisdiction that requires courses to remain under the control of “a person who meets the minimum qualifications to serve as a faculty member”.
+Since the Democrats have a super-majority in both houses of the state legislature, it is expected that Newsom will either sign the bill or allow it to become law.
+“There are some pretty cool AI tools and some things are really helpful for us to do our jobs in the classroom,” said Wendy Brill-Wynkoop, president of the Faculty Association of California Community Colleges.
+“But, at the end of the day, we wanted to make sure that there’s a human in the loop; it’s something talked about a lot with AI. We wanted to make sure that students are not taught by a robot,” she said.
+	
+AB 2370, Brill-Wynkoop said, does not limit any faculty member’s academic freedom to use AI in their classrooms.
+“A faculty member can use whatever tools they like or ban whatever tools they like in their classrooms. What we want to do is to make sure that we have that space for humans,” she said.
+Farming out teaching to AI
+	
+The redrafting of the bill between 12 February 2024, when it was introduced into the legislature, and when it was adopted on 12 June reflects the debate about AI both inside and outside education.
+As 
+originally written, the bill
+ focused on AI and said it “shall not be used to replace faculty for purposes of providing academic instruction to, and regular interaction with, students in a course of instruction, and may only be used as a peripheral tool to support faculty in carrying out those tasks for uses such as course development, assessment, and tutoring”.
+Lying behind this formulation – which specifically omitted teaching – was California’s recent history of farming out teaching of remedial English and mathematics to companies that use AI.
+	
+“There used to be a lot of teachers who taught developmental math and English who are no longer teaching them. We have recently seen the addition of the Khan Academy which is a website that uses AI to help remediate and actually go beyond remediation,” said Brill-Wynkoop.
+“Developmental math is now being taught essentially by AI tools through our learning management system and not by a person,” she said.
+Brill-Wynkoop also pointed to the fact that the chancellor of the California Community College system has made available an AI program that will provide counselling to students, a job that is presently being done by faculty.
+	
+The focus on AI in the state in which Silicon Valley is located – home to Google, which 
+announced last April that it was investing US$100 billion in AI
+, and 
+Meta is investing twice that
+ – Brill-Wynkoop explained, almost killed the bill.
+In one committee, a lawmaker suggested that a subcommittee be formed “to study whether a faculty member should be a human?”
+Brill-Wynkoop told 
+University World News
+: “My eyes really popped out of my head. And I had to laugh and say, ‘That’s the most ridiculous thing I’ve ever heard. Of course a faculty member should be a human’.”
+She then told the committee: “Really, this bill is not about artificial intelligence at all. It has nothing to do with that. What it’s really about is making sure that students have access to a human.”
+Following that hearing, the bill was significantly rewritten – without any reference to AI. “There were no roadblocks from then on,” said Brill-Wynkoop.
+AI instructor roadblocks
+	
+The bill that now sits on Newsom’s desk, and the fears about AI replacing human instructors, raise the question of how close we are to bots taking over college classrooms and university lecture halls.
+According to Brian Alexander, a senior scholar at Georgetown University, author of 
+Academia Next: The futures of higher education
+ (2022) and 
+futurist blogger
+, ‘early-adopter’ professors can use existing programs like Perplexity or ChatGPT to structure a course.
+	
+“You can use prompts to get AI to ask students questions for given academic topics and to assess them. And you can modulate the level to high school, college or graduate school. Only nerds or early adoptees will do this. But it can be done today to design a course,” he said.
+	
+There are three major roadblocks that are likely to prevent a bot from becoming an instructor and from being rolled out across the education industry.
+	
+The first is that generative AI makes mistakes. It can say things that aren’t true and provide images that don’t work.
+	
+“The percentage of this actually happening is pretty small, but significant nonetheless. And when it comes to learning, no one wants a teacher who is incompetent or who will just every so often mistake a verb form or a bit of history.
+	
+“There are efforts to get around this problem. I have seen some interesting attempts to use other software to correct an AI answer,” said Alexander.
+	
+(A humorous example from business that Alexander provided concerns mistakes made by the AI program McDonalds recently pulled the plug on. At the drive through, someone might ask for a milkshake and receive seven Cokes, a mistake all the more significant since this AI program was trained on a very narrow set of data, which, in theory, should have prevented such a mistake.)
+	
+The second and, perhaps, larger roadblock, Alexander explained, is that there is no business model for generative AI right now.
+“Google and Microsoft are pouring billions of dollars into it. And it seems that for them it is just a cost of doing business. But I don’t think anybody on Earth who doesn’t already have, say, a paid Google account, is going to say, ‘Oh, well, now that Google has Gemini [the bot that, among other things, double checks text], now I’ll pay for it’.
+	
+“OpenAI [the company that owns ChatGPT] has a subscription model. However, all the evidence that I can see points to that not being sufficient.
+	
+“So it’s possible that the business model could just flop, and we might see commercial providers just stop development or drastically cut back on their generative AI,” Alexander told 
+University World News
+.
+	
+The final thing that, Alexander said, could prevent the development of AI to the point where it could replace professors is the dull area of copyright law.
+	
+AI programs are trained on data. Ones like ChatGPT or Microsoft’s Copilot are trained by scraping the internet. This has led artists in Hollywood, the visual arts and music to protest and claim copyright infringement.
+By way of example, Alexander pointed to the 
+protests
+ that, a few days before we spoke, caused the cancellation of the premier, in London, of the film “The Last Screenwriter”, an aptly named film for which the script was written by ChatGPT.
+	
+“We already have a stack of lawsuits which charge generative AI firms with massive copyright infringement. While I’m not a lawyer, I’ve studied copyright law, and these seem pretty plausible to me.
+	
+“Copyright law is often a matter of individual judges coming up with what they interpret. And I think it’s easy to imagine a judge saying, ‘I don’t think this is fair use. Microsoft, delete all Gemini or OpenAI, cease operations’,” said Alexander.
+	
+To forestall private companies from hoovering up their intellectual products, Alexander continued, some professors are using an app produced by a professor at the University of Chicago that “will poison your data against being scraped up by any generative AI set creation. If OpenAI, for example, scraped your content, it’s going to be ruined for them”, said Alexander.
+Reinforcing instructor qualification status quo
+	
+Rather than breaking new legal ground, Larry Galizio, president and CEO of the Community College League of California, a non-profit company that provides support to the trustees of the state’s 116 community colleges, sees AB 2370 as “reinforcing the status quo as to what type of credentials and minimum qualifications are required to teach at the community colleges”.
+	
+While he has not seen any efforts to replace professors with bots, his organisation recognises the impetus behind the bill.
+	
+“Anyone paying attention, whether it’s in higher education or manufacturing or, really, almost any profession, sees people are concerned and are wondering, thinking about what impact AI will have on the labour force, and on how we comport our lives,” he said.
+	
+Accordingly, he added, AB 2370 “seems like a pre-emptive strike to foundationally say, well, one thing we cannot have, is displacement of faculty by some type of AI”.

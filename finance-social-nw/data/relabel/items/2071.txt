@@ -1,0 +1,98 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Next Generation of Scientific Leaders Awarded More Than $7 Million at the 2026 Regeneron International Science and Engineering Fair
+Hikaru Kuribayashi, 17, receives $100,000 Top Award for his creation of a simulation program to understand complex folding at the world’s largest pre-college STEM competition.
+TARRYTOWN, N.Y. and WASHINGTON, D.C. (May 15, 2026) – Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) and Society for Science (the Society) announced that Hikaru Kuribayashi, 17, of Sapporo, Japan won the $100,000 George D. Yancopoulos Innovator Award at the Regeneron International Science and Engineering Fair 2026 (Regeneron ISEF), the world’s largest precollege science and engineering competition.
+For more information about the top winners and access to visual assets visit our media kit here.
+Key Takeaways:
+- This year’s finalists received more than $7 million in awards based on their projects’ creativity, innovation, and depth of scientific inquiry.
+- The top winners were honored at the Phoenix Convention Center in Phoenix, Arizona during two award ceremonies: the Special Awards Ceremony on May 14, and the Grand Awards Ceremony on May 15.
+- Top prizes ranged from $10,000 to $100,000 and were awarded to support students’ education and continued research, investing in the next generation of scientific leaders.
+- The competition featured more than 1,700 young STEM students, representing 64 countries, regions, and territories.
+- Hikaru Kuribayashi, 17, of Sapporo, Japan won first place and received the $100,000 George D. Yancopoulos Innovator Award for his creation of a simulation program to understand complex folding, like in origami. The award is named in honor of George D. Yancopoulos, the pioneering drug researcher and Regeneron co-Founder, Board co-Chair, President and Chief Scientific Officer.
+- Lakshmi Agrawal, 18, of Bellevue, Washington, and Nikola Veselinov, 17, of Sofia, Bulgaria each received the Regeneron Young Scientist Awards of $75,000, Agrawal for a sponge that removes salmon-killing pollutants from water, and Veselinov for describing a new theorem in mathematics that describes the conditions under which certain equations cannot be solved using basic math functions.
+- Other top prizes went to projects in Environmental Engineering, Technology Enhances the Arts, and Materials Science.
+“Congratulations to the winners of this year’s Regeneron International Science and Engineering Fair,” said Maya Ajmera, President and CEO of Society for Science and Executive Publisher of Science News. “These students never fail to inspire me. They come from different backgrounds, different disciplines, and different corners of the world, and they are taking on some of our most urgent challenges with rigor, imagination, and determination. At a moment when bold thinking is needed most, they are proof of what’s possible. I couldn’t be more optimistic about the future.”
+Regeneron ISEF brings together the world’s most promising young scientists and engineers to showcase research with real-world impact. Through this competition, Regeneron and the Society are fostering the next generation of STEM leaders who are helping to solve real-world challenges to improve our world.
+“Congratulations to the extraordinary young scientists of Regeneron ISEF 2026. My own scientific journey began in high school, supported by great teachers, driven by a fearless youthful belief that I could cure my grandmother’s disease, and inspired by the excitement and challenge of science competitions,” said George D. Yancopoulos, M.D., Ph.D., co-Founder, co-Chairman, President and Chief Scientific Officer of Regeneron. “I continue to believe that the best hope for overcoming the greatest threats facing humanity lies in inspiring brilliant young minds to take on these challenges. That’s why Regeneron proudly invests hundreds of millions of dollars in programs like ISEF and the Science Talent Search. We’re celebrating not only what these students have already achieved, but the extraordinary impact we know they’ll have next.”
+Hikaru Kuribayashi, 17, of Sapporo, Japan, won first place and received the George D. Yancopoulos Innovator Award of $100,000 for his work to predict how materials can fold in complex ways. He created a simulation program to understand complex folding, like in origami. Current methods for predicting folding can either only trace one path at a time or fail to test all the possibilities. Hikaru’s simulation software uses a statistical method called Markov Chain Monte Carlo. This method samples many possible scenarios and uses those patterns to estimate the most probable answers. It allows the simulation to examine all possibilities at once in a single run. Hikaru’s software predicted known solutions, such as the folding of a ladybug wing. This program could help design devices that need to be packed into small spaces and unfolded later, such as solar sails for satellites, medical devices or emergency pop-up shelters.
+Lakshmi Agrawal, 18, of Bellevue, Washington, received the Regeneron Young Scientist Award of $75,000 for a sponge that removes salmon-killing pollutants from water. When adult coho salmon spawn, they return to the urban streams of Washington’s Puget Sound region. In some streams, up to 80% of these fish die before spawning. These streams are polluted with a chemical from tires called 6PPD-quinone. Previous work found that 6PPD-quinone was a primary cause of these salmon deaths. To remove the pollutant from water, Lakshmi created sponge-like filters from jute plant waste. In laboratory tests of water with tire particles, she showed the filters removed up to 80% of the pollutant. It can also remove other heavy metals and particles. It also naturally breaks down in the environment. Compared with current alternatives, Lakshmi’s solution required 85% less energy to produce and reduced costs by about 98%. Her work may lead to a scalable way to protect aquatic ecosystems and drinking water from tire-related contaminants.
+Nikola Veselinov, 17, of Sofia, Bulgaria, received the Regeneron Young Scientist Award of $75,000 for describing a new theorem in mathematics. Mathematicians have found that equations that follow f(x) = a can be solved with basic math functions, except in a few specific cases. Nikola analyzed those isolated cases of unsolvability to find a common thread. He combined several advanced mathematical concepts. He combined ideas from topology, symmetry and Galois theory. He used these approaches to analyze when equations become impossible to solve exactly. By doing this, he described the conditions under which the equation f(x) = a cannot be solved using basic math functions. His work may impact equations used in physics and in describing how objects move through space.
+Other Regeneron ISEF top honors include:
+Evan Budz, 15, of Ontario, Canada, received the Gordon E. Moore Award for Positive Outcomes for Future Generations of $50,000 for making an AI-powered imaging robot to find and measure tiny pieces of plastic in water. Microplastics threaten animals and aquatic ecosystems worldwide. Current ways to measure microplastics are costly and hard to implement. To create a faster and more practical solution, Evan designed and built an underwater 3D holographic camera. The camera is mounted on a self-propelled robot that swims through the water like a sea turtle. He also trained AI models to find pieces of plastic smaller than a red blood cell in the underwater images. His models were 94% accurate at telling microplastics apart from other particles. He tested it in 10 bodies of water, scanning more than 80,000 3D images for plastic particles and microorganisms. His work could make it easier and faster to monitor water sources for microplastics.
+Anusha Arora, 15, of Bellevue, Washington, received the F. Thomson Leighton and Bonnie Berger Family Prize for STEM Excellence of $50,000 for her music therapy device. Although music therapy is a recognized approach for supporting mental health, access is limited. Cost, provider shortages and lack of insurance coverage make music therapy inaccessible. To combat this, Anusha created a portable music therapy device. Her platform delivers tailored, adaptive music based on input from finger sensors. The platform combines 11 AI programs to detect emotions and generate music in real time. Across several experiments, people using the device showed reductions in stress and anxiety. Users also stayed more engaged with the therapy sessions. The platform could make it easier for people to access music therapy, which can help reduce stress, anxiety and depression.
+Kevin Sun, 17, of Andover, Massachusetts, received the Craig R. Barrett Award for Innovation of $10,000 for developing a new way to sort plastic recyclables using a dissolvable tag. One of the major challenges with plastic recycling is inaccurate sorting of the different plastic types. Colored plastic can also be hard to sort for proper recycling. To improve sorting accuracy, Kevin printed a radio frequency tag on plastic materials. These materials are similar to those used in plastic manufacturing. The tag acts like a wireless barcode, identifying the plastic type for sorting purposes. He made the tag from a conductive material called MXene that can transmit radio frequency signals. The tag is covered by a thin protective coating that dissolves in alkaline water. Experiments showed that both materials quickly break down during the hot washing step already used in recycling plants. Because they wash away, the plastic can be recycled without contamination. Kevin’s experiments showed the printed tag remained readable for at least six weeks. This practical approach offers a potential way to improve plastic recycling.
+Illaria Liedtke, 17, of Rye, New York, received the H. Robert Horvitz Prize for Fundamental Research of $10,000 for studying brain cells using magnets. Nervous system diseases can disrupt calcium signaling in brain cells called astrocytes. Researchers increasingly believe astrocytes play an important role in brain disease, but there are few ways to precisely control them remotely. Inspired by the physics of magnetic levitation, Illaria trialed a way to use magnets to modify signals sent from astrocyte cells. To do this, she first created a material that responds to magnetic fields. In the lab, she added the material to astrocyte cells. When she exposed the cells to magnets, their calcium signaling, which the cells use to communicate, changed. Different magnetic conditions made different patterns. Illaria also studied the biology of the system. She confirmed that a channel in the astrocytes called TRPV4 was responsible for the changes in calcium signaling. Under conditions that mimic a brain injury, she was able to use the system to reduce signs of cellular stress. Her research could help lead to new therapies that regulate brain activity without implanted electrical devices.
+Aakash Manaswi, 17, of Orlando, Florida, received the Peggy Scripps Award for Science Communication of $10,000 for creating a carbon dioxide (CO2)-based system that kills honey bee pests. Honey bees are important pollinators that support many global food crops, but up to half of all colonies die off each year. A common pest is the varroa mite. Current treatments for these mites leave chemical residues in honey and beeswax and can harm bees. Aakash’s earlier work showed that CO2 is an effective way to control the mites while minimizing harm to the bees. For this year’s project, he tested the long-term safety and real-world performance of his “Mite Blower” CO2 treatment prototype. His system was as good or better at getting rid of the mites as existing pesticides. It also avoided many of their harmful side effects. In a 10-week field trial of 60 hives, the CO2-treated bees were healthier and made more honey than hives treated with pesticides. Aakash’s Mite Blower may be a cheaper and safer alternative to treating varroa mite infestations, potentially reducing the loss of hives.
+Evan Morris, 18, of Saint Paul, Minnesota, received the Mary Sue Coleman Award for Life Science Innovation & Impact of $10,000 for his low-cost system to detect and interrupt seizure-like behavior in a worm model. Some people with epilepsy get brain stimulation to help control seizures. Finding the right stimulation settings often takes months of trial and error. This can be expensive and frustrating for patients. To study brain stimulation methods, Evan used gene editing to add an ultrasound-sensitive channel into the brain cells of a worm. He then built a computer controller to detect seizure-like activity. When it detected a seizure, the program would trigger an ultrasound to activate the channel and stop the behavior. Using the system, Evan tested different stimulation settings to find which reduced seizures the most. He reduced seizure recurrence by 70.1% and lowered overall seizure activity by nearly 30%. His work may lead to faster, lower-cost ways to study brain stimulation in living systems.
+Benedikt Kienle, 19, of Lancaster, Pennsylvania, and Filip Lajciak, 18, of Dubnica nad Vahom, Slovakia, received the Dudley R. Herschbach SIYSS Award.
+Moitri Santra, 17, of Oviedo, Florida, along with Bennett Huang, 17, and Jason Pan, 17, of Mclean, Virginia, received the EU Contest for Young Scientists Award. Their projects will represent Regeneron ISEF at the EU Contest for Young Scientists to be held this September in Kiel, Germany.
+In addition to the Top Award winners, more than 540 projects received awards and prizes for their innovative research, including “First Award” winners, who each received a $6,000 prize.
+Category Winners (22):
+- Animal Sciences, sponsored by Jane Street
+  - Aakash Manaswi, 17, of Orlando, Florida
+- Behavioral and Social Sciences, sponsored by Jane Street
+  - Yaejoon Jung, 18, of Andover, Massachusetts
+- Biochemistry, sponsored by Regeneron
+  - Kaya Parikh, 17, of New York City, New York
+- Biomedical and Health Sciences, sponsored by Regeneron
+  - Illaria Liedtke, 17, of Westchester, New York
+- Biomedical Engineering, sponsored by Regeneron
+  - Jamie Cheng, 17, of Cary, North Carolina
+  - Natdanai Suksri, 17, of Mueang Chiang Mai, Thailand
+  - Nattaphong Thaworn, 16, of Mueang Chiang Mai, Thailand
+  - Poomjai Pongsriwat, 16, of Mueang Chiang Mai, Thailand
+- Cellular and Molecular Biology, sponsored by Regeneron
+  - Evan Morris, 18, of Saint Paul, Minnesota
+- Chemistry, sponsored by Scripps Research
+  - Benedikt Kienle, 19, of Lancaster, Pennsylvania
+  - Lakshmi Agrawal, 18, of Bellevue, Washington
+- Computational Biology and Bioinformatics, sponsored by Regeneron
+  - Eshan Vipuil, 17, of Melbourne, Florida
+  - Mohammed Alasmari, 17, Jubail Industrial City, Saudi Arabia
+- Earth and Environmental Sciences, sponsored by Natural Resources Defense Council
+  - Makaila Eagleton, 17, of Lincolndale, New York
+  - Tina Jin, 15, of Andover, Massachusetts
+- Embedded Systems, sponsored by Jane Street
+  - Filip Lajciak, 18, of Dubnica nad Vahom, Slovakia
+- Energy: Sustainable Materials and Design, sponsored by Siemens Energy
+  - Janak Vasisht, 16, Arlington, Virginia
+- Engineering Technology: Statics and Dynamics, sponsored by Google.org
+  - Ana Spiride, 16, of Plano, Texas
+- Environmental Engineering, sponsored by Jacobs
+  - Bennett Huang, 17, of Mclean, Virginia
+  - Jason Pan, 17, of Mclean, Virginia
+  - Evan Budz, 15, of Burlington, Canada
+- Materials Science, sponsored by Howmet Aerospace Foundation
+  - Arnav Kodavati, 17, of San Jose, California
+  - Kevin Sun, 17, of Andover, Massachusetts
+- Mathematics, sponsored by Akamai Foundation
+  - Nikola Veselinov, 17, of Sofia, Bulgaria
+- Microbiology, sponsored by Schattner Foundation
+  - Audrey Cowen, 16, of Toronto, Canada
+- Physics and Astronomy, sponsored by Jane Street
+  - Aryav Das, 17, of Indianapolis, Indiana
+  - Saikrish Kolli, 17, of Lexington, Kentucky
+  - Hikaru Kuribayashi, 17, of Sapporo, Japan
+- Plant Sciences, sponsored by Society for Science
+  - Moitri Santra, 17, Oviedo, Florida
+- Robotics and Intelligent Machines, sponsored Zoox
+  - Michael Hua, 16, Bloomfield Hills, Michigan
+  - Qiyun Zheng, 16, of Shanghai, China
+- Software Design, sponsored by Microsoft
+  - Sanjay Shreeyans Javangula, 17, of Bentonville, Arkansas
+  - Soham Shekhar, 18, of Bentonville, Arkansas
+  - Zack O’ Leary, 15, of Clane, Ireland
+- Technology Enhances the Arts, sponsored by Midjourney
+  - Anusha Arora, 15, of Bellevue, Washington
+- Translational Medical Science, sponsored by Regeneron
+  - Shivum Telang, 16, of Wexford, Pennsylvania
+Resources:
+- Media kit (photos, videos, fact sheet, and more): https://www.societyforscience.org/regeneron-isef-2026-media-kit/
+- Full list of all ISEF 2026 Grand Awards winners and Special Awards winners
+- View all the finalists’ research projects here: https://isef.net/categories
+What is the Regeneron International Science and Engineering Fair (Regeneron ISEF)?
+Established in 1950, Regeneron ISEF, a program of Society for Science, is the world’s largest global STEM competition for high school students. Through a global network of local, regional, and national science fairs, millions of students are encouraged to explore their passion for scientific inquiry. Top winners earn the right to compete at Regeneron ISEF where more than 1,700 finalists are judged across 22 different categories, competing for more than $7 million in awards and scholarships.
+Who is sponsoring Regeneron ISEF?
+In 2019, Regeneron became the title sponsor of ISEF to help reward and celebrate the best and brightest young minds globally and encourage them to pursue careers in STEM to positively impact the world. Regeneron is also the title sponsor of the Regeneron Science Talent Search (STS), a program of the Society for Science. Regeneron’s support for these two premier programs will total more than $300 million from 2017 to 2036. Regeneron ISEF is supported by a communit

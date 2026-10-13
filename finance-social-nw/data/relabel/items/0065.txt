@@ -1,0 +1,58 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+ACCESS Newswire
+              
+26 Jan 2023, 19:35 GMT+10
+          
+Toggle3D is disrupting the Computer Graphics Market, which is projected to reach $160 billion by 2027 Dominated by Adobe, Autodesk, Solidworks, Nvidia
+TORONTO, ON / ACCESSWIRE / January 26, 2023 / Nextech AR Solutions Corp. ('Nextech' or the 'Company') (OTCQX:NEXCF)(CSE:NTAR)(FSE:EP2), a Metaverse Company and leading provider of augmented reality ('AR') experience technologies, wayfinding technologies and 3D model services is pleased to announce the launch of a major upgrade to its AI powered SaaS platform, Toggle3D, that enables the creation, design, configuration and deployment of 3D models at scale, using CAD files. In addition to the new modern look and design, the Company has launched an AI generated Physics Based Rendering (PBR) material creation tool which now allows for the scale of photorealistic materials. The Company believes that this new AI technology will accelerate signups for the platform.
+The new design, which includes a UX/UI lift, is geared towards improving the platform functionality by simplifying the 3D modeling workflow even further. The design improvements also give the platform a fun and modern appeal, making it popular among those new to 3D design or even among experienced 3D artists looking for a friendly interface.
+With the usability and simplicity of the platform, Toggle3D is disrupting the Computer Graphics Market, which is projected to reach $160 billion by 2027. The market includes competitors such as Adobe, Autodesk, Solidworks, Nvidia, etc.
+A pivotal new feature is the introduction of a new material template, which is now available as a feature in the Pro plan. The template contains three different AI-powered methods of creating high-quality Physics Based Renderings (PBR), the industry standard for creating photo-realistic materials, from scratch:
+This means that users no longer have to create a similar-looking table top finish, but instead they can create its exact digital twin.
+The advancements in the CAD converter also open up new use cases for manufacturers in product design, CPQ sales, product marketing, ads, and modeling. Manufacturers now have control of their 3D modeling needs and can do it all by themselves in Toggle3D with no experience or an in-house 3D modeling team required.
+To try out some of these new and more advanced editing features, Toggle3D is offering a 30-day free trial on the Pro plan for a limited time.
+Toggle3D is excited to offer an all-in-one solution for manufacturers, making 3D modeling easy and accessible for everyone, with no experience or in-house team required. With the new design, functionality, and features, Toggle3D is positioning itself as a leader in the industry and is well poised to take advantage of the growth in the Computer Graphics market.
+About Toggle 3D:
+Launched in September, Toggle3D is an AR enhanced standalone web application which enables product designers, 3D artists, marketing professionals and eCommerce site owners to create, customize and publish high-quality 3D models and experiences without any technical or 3D design knowledge required. The Company believes that Toggle3D is the first platform of its kind, and this break-through SaaS product is a potential game changer for the manufacturing and design industry, as it provides a viable solution to convert large CAD files into lightweight 3D models at affordable prices and at scale. According to BIS Research, the CAD market, quantified by the amount spent on the creation of CAD files, is projected to reach $11 Billion dollars by 2023.
+Top Three Competitive Advantages of Toggle 3D Versus 3D Legacy Software Generating $11 Billion In Revenue
+1. NO Learning Curve:
+What makes Toggle3D different from the legacy 3D design software is its ease-of-use and democratization of 3D design. The goal is for anyone with no prior technical or 3D design experience to be able to hop into the platform and create a high-quality 3D visual in minutes. This is unlike legacy 3D modeling systems, that require months to truly feel comfortable with. Users would first be required to learn and understand the industry lingo, learn what the tools do and then learn how to use them in the legacy software. Meanwhile, we have streamlined this process in Toggle3D by 'humanizing' 3D design terminology, creating templates to guide creation and simplifying the tools using machine learning to transfer the complexity out of the user experience into the backend platform, and instead allow more room for creativity.
+2. Web-based:
+Toggle3D is a web-based design studio which means the user can access everything on the browser and start designing instantly. No desktop downloads involved, no updates to keep track of, and no system requirements to worry about. All the templates are organized into project panels that a user can access anywhere and seamlessly navigate between. This is different from how legacy software were built back in the day with the software package being broken out into multiple desktop apps that would require the user to understand system compatibility, download, sync, and learn independently.
+3. Collaboration:
+Toggle3D will allow advanced, in-app collaboration. These new sets of features will allow multiple users to work at the same time and on the same project resulting in quick feedback and decision making cross-department, and team. These tools will allow businesses to adopt 3D organization-wide and unlock the power of group iteration. Users could set up workflows, permissions, and version history to keep up with real-time design changes. These advanced collaboration cycles are harder to set up in desktop apps and may sometimes slowdown or isolate the design workflow.
+To learn more, please follow us on Twitter, YouTube, Instagram, LinkedIn, and Facebook, or visit our website: https://www.Nextechar.com.
+For further information, please contact:
+Investor Relations Contact
+Lindsay Betts
+[email protected] 
+866-ARITIZE (274-8493) Ext 7201
+Nextech AR Solutions Corp.
+Evan Gappelberg
+CEO and Director
+866-ARITIZE (274-8493)
+About Nextech AR
+Nextech AR Solutions (OTCQX: NEXCF) (CSE: NTAR) (FSE: EP2) is a diversified augmented reality, AI technology Company that leverages proprietary artificial intelligence (AI) to create 3D experiences for the metaverse. Its main businesses are creating 3D WebAR photorealistic models for the Prime Ecommerce Marketplace as well as many other online retailers. The Company develops or acquires what it believes are disruptive technologies and once commercialized, spins them out as stand-alone public Companies issuing a stock dividend to shareholders while retaining a significant ownership stake in the public spin-out.
+On October 26, 2022 Nextech AR spun out its spatial computing platform, 'ARway' as a stand alone public Company. Nextech AR retained a control ownership in ARway Corp. with 13 million shares, or a 50% stake, and distributed 4 million shares to Nextech AR Shareholders. ARway is currently listed on the Canadian Securities Exchange (CSE:ARWY), in USA on the (OTC: ARWYF) and Internationally on the Frankfurt Stock Exchange (FSE: E65). ARway Corp. is disrupting the augmented reality wayfinding market with a no-code, no beacon spatial computing platform enabled by visual marker tracking.
+On December 14, 2022 Nextech AR announced its second spinout of Toggle3D, an AI-powered 3D design studio to compete with Adobe. Toggle3D is expected to be public in the first half of 2023.
+To learn more about ARway, visit https://www.arway.ai/
+Forward-looking Statements
+The CSE has not reviewed and does not accept responsibility for the adequacy or accuracy of this release.
+Certain information contained herein may constitute 'forward-looking information' under Canadian securities legislation. Generally, forward-looking information can be identified by the use of forward-looking terminology such as, 'will be' or variations of such words and phrases or statements that certain actions, events or results 'will' occur. Forward-looking statements regarding the completion of the transaction are subject to known and unknown risks, uncertainties and other factors. There can be no assurance that such statements will prove to be accurate, as future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and forward-looking information. Nextech will not update any forward-looking statements or forward-looking information that are incorporated by reference herein, except as required by applicable securities laws.
+SOURCE: Nextech AR Solutions Corp.
+Get a daily dose of Pittsburgh Star news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Pittsburgh Star.
+More Information
+WASHINGTON, D.C.: The Justice Department and FBI are grappling with increasing political backlash after they decided to withhold additional...
+The family of Sayfollah Saif Musallet, a 20-year-old American citizen who was beaten to death by Israeli settlers in the occupied West...
+(Photo credit: Matt Marton-Imagn Images) Both the Chicago White Sox and the Pittsburgh Pirates are projected to be sellers over the...
+(Photo credit: Daniel Kucin Jr.-Imagn Images) Longtime right-hander Kyle Gibson announced his retirement on Thursday after 13 seasons...
+(Photo credit: Eric Hartline-Imagn Images) Star linebacker T.J. Watt and the Pittsburgh Steelers agreed to a three-year, $123 million...
+(Photo credit: Kirby Lee-Imagn Images) Wide receiver Mike Williams has informed the Los Angeles Chargers that he is retiring from...
+LOS ANGELES, United States: A multinational crew of astronauts, including the first space travelers from India, Poland, and Hungary...
+MADRID, Spain: Spain has reported a dramatic increase in heat-related deaths over the past two months, with 1,180 fatalities attributed...
+MANCHESTER, U.K.: Britain's King Charles will host U.S. President Donald Trump in September for what will be an unprecedented second...
+BEIJING, China: Australian Prime Minister Anthony Albanese started a weeklong visit to China over the weekend. The visit aims to revitalize...
+WASHINGTON, D.C.: A federal appeals court in Washington, D.C., ruled on July 11 to cancel a plea deal that would have let Khalid Sheikh...

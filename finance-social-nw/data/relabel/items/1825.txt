@@ -1,0 +1,40 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+Australian investors continue to pile into US stocks, chasing outsized returns and their own piece of the artificial intelligence boom.
+Yet the era of tech giant dominance and a whirlpool of circular investment deals could mean a riskier bet than many realise.
+The popularity of funds linked to Wall Street's S&P500 index has soared and it's not hard to see why: returns over the past three years are more than 78 per cent compared to about 24 per cent for the local S&P/ASX200.
+But with just a handful of outsized companies and AI speculation driving broader market growth in 2025, a fund of 500 stocks might be less diversified than most of us think.
+And therein lies the rub.
+The so-called Magnificent Seven technology stocks of Apple, Nvidia, Google owner Alphabet, Amazon, Tesla, Meta and Microsoft make up more than a third of the S&P500 index's value, according to IG market analyst Tony Sycamore.
+"Then if you throw in Netflix and Broadcom, you're getting that dominance rising to closer to 45 per cent," he tells AAP.
+"Almost half the market cap is covered by nine stocks."
+By comparison, during the peak that preceded the dot-com crash in 2000, the six top tech companies accounted for roughly 15 per cent of the top 500 US stocks.
+There are many differences from the dot-com era, namely that most of the magnificent seven have pre-existing businesses that don't depend on AI.
+However the amount of money flowing into its research is eye-watering.
+Microsoft, Amazon, Meta and Alphabet alone spent an estimated $US350 billion ($A520 billion) in 2025 on AI research and infrastructure, including the data centres required to power the technology's large language models.
+"There's valid concern around the Mag Seven; they don't seem to have the revenue to offset these heavy debt loads," Mr Sycamore says.
+"The cash burn for them is extraordinary and earnings have started to slow."
+The circular flow of funds between the tech juggernauts and into deals with pre-revenue companies like ChatGPT creator Open AI is also a worry despite headlines and agreements delivering vertigo-inducing stock price jumps.
+"The market is waking up to the fact that those announcements look great on the surface but underneath they're deeply concerning, artificial and prone to unravelling quickly," Mr Sycamore adds.
+"That is part of the reason why we have seen these tech stocks pull back."
+OpenAI, potentially the world's most valuable private company with an estimated market capitalisation of $US700 billion, intends spending $US1.4 trillion on AI infrastructure despite not expecting a profit until 2030.
+The gap has left many wondering where the money will come from.
+Pepperstone head of research Chris Weston has never seen a case study similar.
+"There's circular deals going off left, right and centre: Broadcom, AMD ... Nvidia has $US100 billion investment in OpenAI" he says.
+"And it's really all premised on the idea that, at some stage, OpenAI will be able to completely monetise their offering."
+But despite launching the first generative AI large language model ChatGPT in June 2018, which is now in its fifth iteration, competition in AI is white-hot.
+"When you've got so many of them coming up, backed by some massive players that are already seen as better alternatives, if OpenAI monetises at the wrong cost structure then it becomes a major issue," Mr Weston says.
+With this in mind, Pepperstone is watching Softbank, a Japanese investment holding group riding an "all-in" bet on OpenAI to generate $US22.5 billion funding via loans and the sale of Nvidia and T-Mobile stocks.
+As one of the biggest private tech deals in history, Softbank's play is seen as a barometer for the AI leader which, as a private concern, can't be accurately valued.
+Bank of America data points to roughly 94 per cent of tech profits being poured into AI spending, according to InvestorsObserver finance analyst Sam Bourgi.
+"These companies are spending almost all the money they earn," he says.
+"Just in September and October, big tech borrowed $75 billion specifically for AI data centres - more than double their normal annual borrowing."
+Notably, shares in the Tokyo-headquartered conglomerate plummeted more than 40 per cent in October.
+The implications of tech concentration for Australians invested in S&P500 index funds is straightforward, Mr Bourgi says.
+"You own a slice of all this risk and your index's performance now depends heavily on whether these six companies' AI bets work out.
+"If they succeed and AI becomes hugely profitable over the next few years, your index fund will likely perform well.
+"If they don't and this turns out to be another bubble like 2000, your index fund could suffer significant losses."
+A 30 per cent drift in AI stocks could mean a 10-15 per cent decline in an S&P500 index fund, which would leave investors in a tricky spot.
+"You might not see gains for years if the bubble deflates like in 2000," Mr Bourgi says.
+Australian Associated Press

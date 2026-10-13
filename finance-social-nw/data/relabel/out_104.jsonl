@@ -1,0 +1,20 @@
+{"id": "2080", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "What Happened? A number of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2081", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Dell Technologies has introduced Dell", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2082", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "NVIDIA has reported a record-breaking", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2083", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "NVIDIA has reported a record-breaking", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "2084", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "NVIDIA has reported a record-breaking", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "2085", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "2026 State Track Update – Thursday", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2086", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Launch your LLC the easy", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2087", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ANI 24 May 2026, 16:30", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2088", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Big technology and artificial intelligence", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "2089", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 26 May 2026", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "2090", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Whenever you see a Ten", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "2091", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Another surge for Micron, Wall", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2092", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "NEW YORK (AP) — The", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2093", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "U.S. stocks could be on", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2094", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ANI 29 May 2026, 01:36", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2095", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2096", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Many, if not most, of", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "2097", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Many, if not most, of", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2098", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Many, if not most, of", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2099", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Security professionals have spent two", "relation": "co-hype", "sentiment_alignment": 1}

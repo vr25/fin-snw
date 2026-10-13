@@ -1,0 +1,6 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Dow Jones futures tilted higher Monday morning, along with S&P 500 futures and Nasdaq futures. The stock market rally roared last week, with strong gains across the board as the Federal Reserve pivoted toward rate cuts in 2024. The Dow Jones hit an all-time high while the S&P 500, Nasdaq composite, small-cap Russell 2000 and S&P MidCap 400 all hit…
+Dow Jones Futures Rise As Market Runs Hot; Six Magnificent Seven Stocks In Buy Range
+Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8

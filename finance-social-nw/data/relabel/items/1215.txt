@@ -1,0 +1,8 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The FBI issued a warning to iPhone and Android users to stop sending text messages to each other.
+An unprecedented cyberattack by China, which Microsoft nicknamed 'Salt Typhoon,' is believed to potentially expose private communications to foreign hackers, NBC News reports. Chinese hackers reportedly targeted major U.S. telecommunication companies including AT&T, Verizon and Lumen Technologies in an effort to spy on American consumers.
+The FBI and CISA (Cybersecurity and Infrastructure Security Agency) are recommending all cellphone users instead use encrypted messaging applications, such as WhatsApp and Signal, to minimize the likelihood of their text messages being exposed to hackers when texting between iPhone or Android users on the opposite phone brand. The encrypted messaging apps also allow users to make encrypted phone calls through the internet.
+Apple iMessages -- which are blue between iPhone users and green when an iPhone user texts a non-iPhone user -- and Google Messages are fully encrypted using Signal's protocol, but are not fully encrypted when texting different devices. Messages between different devices are reported to only be encrypted only with Rich Communications Services (RCS), which are all decrypted by Google in the U.S.
+“Our suggestion, what we have told folks internally, is not new here: Encryption is your friend, whether it’s on text messaging or if you have the capacity to use encrypted voice communication. Even if the adversary is able to intercept the data, if it is encrypted, it will make it impossible,” Jeff Greene, executive assistant director for cybersecurity at CISA, told NBC News.

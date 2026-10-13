@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+BEIJING, Dec. 3 (Xinhua) -- In the global marketplace, two opposing forces are at odds: one determined to disrupt supply chains, and the other focused on strengthening and connecting them.
+On Monday, the U.S. government placed 136 Chinese semiconductor-related firms on its export blacklist, effectively barring American companies from engaging in one of the world's most promising markets.
+This bullying action undermines established market rules and the international trade order, while contradicting Washington's claimed stance of not seeking to decouple from China.
+Far from protecting U.S. interests, these sanctions have actually created significant disruptions, causing concern among global tech firms, including those based in the United States.
+A report from the Federal Reserve Bank of New York reveals the unintended consequences of these export controls, which were supposed to "safeguard U.S. companies." Instead, they led to supply chain disruptions, higher operational costs and diminished competitiveness in the market.
+According to the report, "affected U.S. suppliers experienced a 130-billion-U.S.-dollar decline in market capitalization, along with reductions in profitability and employment."
+In stark contrast to the U.S. move, China hosted the China International Supply Chain Expo in Beijing last week. The expo highlighted China's commitment to building a more robust global supply chain, with an emphasis on fostering digital connectivity, green and low-carbon development and supply chain services.
+The country's open market policies and foreign investments continue to play a crucial role in fortifying the global supply chain.
+In November, China removed all market access restrictions for foreign investors in the manufacturing sector. Meanwhile, a growing number of domestic manufacturers, especially in China's technologically advanced clean energy sector, are investing or considering investments in the United States.
+China plays a pivotal role in the global electronics industry, not only as a major producer, consumer and exporter but also as a critical driver of innovation and technological progress.
+Despite the U.S. government's restrictive policies, U.S. tech giants are voting with their feet. Major companies like Apple, Google, Qualcomm and Micron Technology that participated in the China International Supply Chain Expo expressed eagerness to tap into the country's vast market and innovation potential.
+This reveals the conflicts between Washington's policies and the interests of American corporations that drive technological advancement. For instance, Intel announced plans to expand its operations in southwestern China, while Micron Technology broke ground on a new factory in Xi'an, set to open in 2025.
+Jay Puri, an executive vice-president of Nvidia, met with China International Trade Representative Wang Shouwen last week in Beijing, during which Puri emphasized the semiconductor giant's willingness to contribute to China's digital economy growth.
+According to a recent forecast by SEMI, a U.S. industry association, China will remain the top destination for semiconductor equipment spending through 2025. For example, U.S. chip equipment makers like Applied Materials and Lam Research rely on China for about 40 percent of their sales, as reported by Nikkei Asia.
+Consequently, the restrictive policies for China market access will instantly deprive U.S. tech firms of significant growth opportunities and subsequently jeopardize their R&D investments.
+Washington's counter-productive moves have an even worse impact on the global semiconductor chain as they come with "long-arm jurisdiction" by coercing businesses from other nations to sever ties with China. Previously, the U.S. export restrictions were identified as a major factor behind the disappointing Q3 earnings of ASML, a Dutch semiconductor equipment maker.
+The global supply chain is deeply interconnected, where every participant's successes are linked. Strengthening it benefits everyone, while disruption causes losses across the board. The "I win, you lose" mentality is fundamentally flawed.
+Moreover, robust trade relations between the United States and China, two global economic powerhouses, could serve as a stabilizing force in the global economy. The blacklisting of Chinese companies throws a wrench into these vital ties.
+This marks a significant setback for the Biden administration, whose political legacy will be defined by such shortsighted policies. ■

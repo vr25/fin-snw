@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+SANTA CLARA, California: As investors piled more capital into Nvidia, the chipmaker that has become one of the biggest winners of the artificial intelligence (AI) boom, Nvidia, led by CEO Jensen Huang, joined an elite club of US companies valued at $1 trillion or over.
+Nvidia is a major supplier of artificial intelligence hardware and software. Its microchip processors are used in computer applications in architecture, engineering and construction, media and entertainment, automotive, scientific research, and manufacturing design.
+Reflecting the booming interest in artificial intelligence, the company's stock tripled in value in less than eight months.
+Since October, Nvidia's stock rose some 200 percent, far outpacing any other company in the S&P 500 index and driving its valuation over its peers. Still, the artificial intelligence boom could mean the stock might still be worth more.
+This week, its shares closed 3 percent higher at $401.11, just below the $1 trillion valuation mark after hitting that level in intraday trading. Just four other US companies currently have a valuation of more than $1 trillion, which are Apple, Google owner Alphabet, Microsoft and Amazon.
+"We view Nvidia as the most important company on the planet in an era that is rapidly changing towards one that will be emphasized by greater AI capabilities," said CFRA Research analyst Angelo Zino, as reported by Reuters.
+The highest price target values the company at about $1.6 trillion, equal to Google-parent Alphabet.
+"While the company's valuation looks lofty at the moment, we think Nvidia has the earnings firepower as the adoption of its AI GPU remains in the very early innings," noted Kinngai Chan, senior research analyst at Summit Insights Group, according to Reuters.
+Big Tech companies have increasingly focused on artificial intelligence, and the computers that power generative artificial intelligence run on powerful chips, known as graphics processing units (GPU). Nvidia produces 80 percent of the world's GPUs.
+After years as a leading producer of video game chips, Nvidia has focused on the data center market over the past few years.

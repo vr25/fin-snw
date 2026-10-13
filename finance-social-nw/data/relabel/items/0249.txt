@@ -1,0 +1,55 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Flip phones are great little gadgets -- they let you communicate, stay in touch with the world, and, for the most part, discourage endlessly scrolling through that juicy viral content you're craving.
+But while the tech industry is hitting us with those big glass slabs and even bigger glassy slabs that can fold in on themselves, there still remains some choice in the category of the clamshell feature phone.
+Whether you prefer the old-school style, like we saw with Gen-Z's interest surge over the last year, work a rough and tumble job, or seek an easy-to-use model for a loved-one who struggles with tech, we've got you covered. We've scouted out what's available now in North America and give you our take on what may be the best for you.
+Best flip phone: Our top picks
+Nokia 2780 Flip
+The original flip masters
+Nokia (or, rather, its parent company HMD) is trading on the brand's reputation as a reliable feature phone producer with the 2780 Flip. It won't survive an atomic bomb like some of its predecessors, but it will keep you in the 21st century with 4G connectivity and richer web features via KaiOS.
+- 18 days battery life
+- KaiOS with Google apps built-in
+- USB-C charging
+- Expensive for a flip phone
+- Perhaps more fragile than its legendary Nokia brethren
+Even in this day and age, when you think of Nokia, your mind will likely head straight to candybars and clamshells designs. That said, the company has evolved away from bulky plastic bricks that can withstand nonstop abuse and gone for a generally more stylish approach.
+The 2780 Flip is the brand's only flip phone on offer right now and, at $90 from your favorite retailer, we consider it to be a pricey one. That said, it's designed to sustain low-intensity computing demands for a forever or so, give or take. It supports Voice over LTE in the United States -- we'll talk more about the nuances of that below -- and sports KaiOS, one of the newer feature phone interfaces with a focus on web apps so that you can do a ton on the open internet without needing a lot of processing power. Oh, and it charges via USB-C, much unlike its immediate predecessor, the 2760 Flip, which uses an old Micro-B connector -- ew.
+The design is sleek, the T9 keypad is fairly wide, and it has a battery for 18 days, unless you're taking calls for longer than 3.5 hours.
+Sonim XP3plus
+Rugged design to flip for
+The XP3plus runs on a custom fork of Android 11, has several programmable shortcut buttons, and is built rugged as all get-out. You can use the touchscreen with gloves on, too.
+- MIL-STD-810H, IP68 ratings
+- Programmable buttons are a boon
+- Android OS is capable
+- New units only available carrier-locked
+- Refurbed unlocked units at Amazon
+- Android OS can be cluttery on a small screen
+There's a good chance that the Sonim XP3plus is the only flip phone your carrier is offering right now. The company makes mobile hotspot devices as well as rugged phones and this definitely fits into the latter description with its MIL-STD-810H and IP68 ratings. You're also able to use the touchscreen through gloved hands for the construction site gauntlet. And just in case you have a ton of apps you need to get to quickly, the XP3plus has several programmable shortcut buttons all over the device.
+But for all of its hardcore attitude and style, it does come with trade-offs. For starters, the phone runs a custom fork of Android 11 and, on a tiny 320 x 240, you may find it a little difficult to navigate. AT&T, T-Mobile, and Verizon all offer network-locked versions of the XP3plus for free with a new line or, perhaps, a new device payment plan, but if you're looking to grab the phone outright, it's either $200 or $50, but you'll be getting a T-Mobile-locked refurb from Amazon. We won't deny it -- it can be hard getting excited about flip phones if you have to make compromises that you weren't expecting to even get one.
+Jitterbug Flip2
+Quick access to emergency services
+The Jitterbug Flip2 is a cell phone for the most vulnerable in society, with big buttons, an easy-to-use menu, and 24/7 access to emergency health services via the big red button.
+- 24/7 access to health services
+- Easy list menu and big buttons
+- Alexa built in
+- Only works on Lively wireless service
+The Jitterbug Flip2 phone from Lively is a device aimed at being extra useful to elderly and vulnerable populations. It has large buttons and is very easy to use. The simple list menu is easy to navigate, and it even has Alexa built-in for voice commands. Plus, for those who need it, there's a big red button on the phone designed to give you a one-press connection to emergency services, nurses, and doctors.
+As soon as the phone arrives, you'll need to activate it with Lively's proprietary wireless service -- either online or over the phone with a Lively agent -- and then sign up to a minutes plan starting at $15/month. You'll also be offered a Health and Safety package to make the most of the phone. It doesn't work with any other American carrier, however, so you won't be able to buy the phone and then skip town.
+Easyfone T300
+For the techy vintage lovers
+The Easyfone T300 has a stylish look, comes in three colors, has big buttons, and a dedicated flashlight button and works with T-Mobile and all of its MVNOs.
+- Great-looking phone
+- Big buttons and dedicated flashlight shortcut
+- Emergency SOS function
+- Only works on T-Mobile networks
+Easyfone's T300 might be the most contemporary-looking of the flip phone era and comes with a bunch of useful features. It's got GPS positioning -- with a linked emergency SOS button -- plus integrated flashlight with its own dedicated shortcut key, FM radio, camera, task lists, audio player, Bluetooth and calculator.
+It currently comes in two colors -- you'll have to pay a premium to get the red version. It also has a 1,500mAh battery and 4G LTE support for T-Mobile and all of its associated virtual networks, including Metro, Tello, Lyca, Speedtalk, Mint Mobile and Ultra Mobile. There's no support for Verizon or AT&T, though.
+Best flip phones: The bottom line
+If you absolutely, positively need a flip phone in your life, you are best off with the Nokia 2780 Flip. It charges with USB-C, so you won't need to replace your cables for the foreseeable future. It runs on a lightweight, but capable operating system that fits its lightweight processor just fine. And its sturdy design will ensure that it'll last you through the day and the years -- without having to charge every night, thanks to its legendary battery. The $90 is worth the investment if you're serious about a flip phone.
+Why we chose these flip phones
+Our remit in recommending flip phones here is that they should either be available unlocked or can be purchased from a wide selection of carriers. There's very little incentive these days for a manufacturer to produce a product in declining demand, so that's why you see very few of them in the unlocked market.
+The situation is slightly different when we talk about carrier-locked devices, since it's the carriers chipping in money to OEMs while they attract potential subscribers to their service. You'll be able to find a bunch of phones locked to Straight Talk or Verizon on the open marketplace. A lot of people are willing to go down the carrier-locked path, but we're trying to keep things a bit more open in case you do decide to move your phone over to a better plan someplace else.
+Voice over LTE
+All the phones we've recommended are able to transmit and receive phone calls through the Voice over LTE protocol or VoLTE. As the major carriers have shut down their 2G and 3G networks, we're talking about tens of thousands of devices that are no longer able to place a cellular call, so VoLTE support is a basic requirement at this point.
+That said, your flip phone might not last more than a decade at this point, as AT&T, T-Mobile, and Verizon continue to replace 4G cell towers with 5G radios. We aren't aware of a clamshell-style feature phone that supports Voice over 5G yet, but suffice to say that if there's no 4G signal in your area, your device may become obsolete.

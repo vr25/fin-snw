@@ -1,0 +1,38 @@
+{
+  "sector_definitions": {
+    "GPU/Semiconductor": [
+      "NVDA",
+      "AMD",
+      "AVGO",
+      "SMCI"
+    ],
+    "Cloud/AI Platform": [
+      "MSFT",
+      "GOOGL",
+      "META",
+      "PLTR"
+    ],
+    "Speculative AI": [
+      "BBAI",
+      "IONQ",
+      "RGTI",
+      "SOUN"
+    ],
+    "Control": [
+      "KO",
+      "PG",
+      "XOM"
+    ]
+  },
+  "price_correlations": {
+    "GPU/Semiconductor": "pending",
+    "Cloud/AI Platform": "pending",
+    "Speculative AI": "pending"
+  },
+  "value_chain": {
+    "GPU_to_Cloud": {
+      "causal_driver": 0,
+      "homophily_index": 0.0
+    }
+  }
+}

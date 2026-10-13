@@ -1,0 +1,149 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The S&P 500 fell for a fourth consecutive session on Tuesday as traders weighed concerns around economic growth and global trade.
+The broad market index slipped 0.47%, closing at 5,955.25. The Nasdaq Composite dropped 1.35% to end the day at 19,026.39. Nvidia's 2.8% fall led the tech-heavy index's decline, and the Nasdaq this week slipped into negative territory for the year. The Dow Jones Industrial Average was an outlier, advancing 159.95 points, or 0.37%, to close at 43,621.16.
+Stream Philadelphia News for free, 24/7, wherever you are with NBC10.
+The market took a leg lower after the most recent consumer confidence survey from the Conference Board came in much weaker than economists' estimates. This follows a series of disappointing data releases last week, including lackluster manufacturing and retail sales numbers. Cautious forward guidance from Walmart added to worsening sentiment on consumer health and the economy.
+"All of that comes together to call into question the underpinning of what has been the strength of the U.S. economy the last couple years, which is the consumer and the job market," said Ross Mayfield, investment strategist at Baird Private Wealth Management.
+Investors turned to the U.S. bond market for safety. The benchmark 10-year Treasury yield dropped below 4.3% and touched its lowest level since December. Bond yields and prices move in opposite directions.
+Bitcoin, which has been correlated with stocks, fell below $90,000 to a three-month low. The flagship crypto is trading almost 20% below its all-time high reached on President Donald Trump's Inauguration Day.
+Shares of major bank stocks rolled over on Tuesday on rising recession concerns. Goldman Sachs, Wells Fargo and JPMorgan Chase fell more than 1% each.
+Momentum stocks that have powered the market's gains also slipped. In addition to Nvidia, Palantir lost 3%, bringing the stock down around 13% for the week. Meta Platforms declined 1.6% during Tuesday's session. Electric vehicle maker Tesla, another favorite among retail investors, fell more than 8%. The slide brought Tesla's market capitalization below the $1 trillion threshold.
+Escalating trade concerns are also contributing to market uncertainty. President Trump announced on Monday that tariffs on imports from Canada and Mexico "will go forward" after the current 30-day moratorium ends. The White House is also preparing for tighter curbs over China's semiconductor exports, according to a report from Bloomberg News.
+Investors are also looking ahead to Nvidia's quarterly earnings release, slated for Wednesday after the bell, for more insights on the health of the artificial intelligence trade. Shares are down more than 5% in 2025, underperforming the broader market.
+S&P 500, Nasdaq close lower Tuesday
+The S&P 500 and the Nasdaq Composite finished Tuesday's session in the red.
+The broad market index fell 0.47%. The tech-heavy Nasdaq tumbled 1.35%.
+Meanwhile, the Dow Jones Industrial Average managed to rise 159.95 points, or 0.37%.
+— Hakyung Kim
+Trump media tumbles
+Trump Media & Technology is down 7.4% Tuesday, marking its worst day since Jan. 27. The stock is on pace for its seventh consecutive day of losses, which is its longest losing streak since early September.
+Since President Trump took office, the stock is down around 40%.
+— Hakyung Kim, Adrian van Hauwermeiren
+Palantir shares off their recent high by 30%
+Palantir shares are more than 30% off their recent high, as the onetime retail favorite continues its recent slide.
+The stock fell 15% just last week, after the defense company disclosed a new stock sale plan from CEO Alex Karp. A plan to cut defense budgets, as reported by The Washington Post, also spooked investors.
+Those developments rattled investors who had been piling into the stock, which was the S&P 500's best performer in 2024, when it was up more than 340%. In 2025, it was up more than 14%.
+On Tuesday, the stock was last lower by about 4%.
+— Sarah Min
+'Magnificent Seven' underwhelms
+The "Magnificent Seven" is looking more like the "Mediocre Seven."
+The group is trading 3% lower on Tuesday, pacing for its fourth straight negative session and its worst day since Dec. 18, 2024, when it fell 4.3%.
+The group of megacap tech stocks is trading more than 12% below its 52-week high from mid-December.
+Within the seven stocks, Apple is the only name trading within 10% of its 52-week high.
+— Nicholas Wells
+Some 'Trump trades' are starting to fade
+As the stock market continues to struggle, some of the sectors that were seen as "Trump trades" ahead of the election are losing ground.
+The small-cap Russell 2000, for example, is now negative since Election Day. Among sectors, SPDR funds tracking areas such as industrials and energy are well off their postelection highs.
+— Jesse Pound
+Hims & Hers Health on pace for worst day on record
+Hims & Hers Health shares plunged more than 27% in midday trading on Tuesday after the telehealth company's gross margin came up short of expectations, eclipsing its fourth-quarter earnings and revenue beat.
+That move lower puts the stock on track for its largest percentage decline ever. The stock's next-worst day on record is Feb 21, 2025, when it plummeted 25.8%.
+Hims & Hers has still outpaced the broader market both this year and over the past 12 months, however, climbing more than 54% and around 292%, respectively.
+— Sean Conlon
+Stocks making the biggest midday moves: Krispy Kreme, Chegg and more
+These are the stocks moving the most in midday trading:
+- Krispy Kreme — Shares tumbled 24% after the doughnut chain missed its fourth-quarter expectations.
+- Chegg — The online education stock tanked 28% after Chegg posted a net loss of $6.1 million on $143.5 million in revenue for its fourth quarter, marking a year-over-year decline of 24%.
+- Zoom Communications — Shares shed 8% after the video conferencing company guided for full-year revenue of between $4.785 billion and $4.795 billion.
+Read the full list of stocks moving here.
+— Lisa Kailai Han
+Financials fumble in February
+It has been a February to forget for Financials:
+- Citigroup is pacing for its worst month since August 2023
+- Morgan Stanley is on track for its worst month since October 2023
+- JPMorgan is headed toward its largely monthly decline since December 2024
+- Bank of America is falling to its worst monthly losses since December 2024
+- Goldman Sachs pacing for its worst month since December 2024
+- Wells Fargo pacing for its worst month since December 2024
+— Adrian van Hauwermeiren
+Trump administration needs 'progress' on fentanyl in Mexico, Canada negotiations, Navarro says
+Peter Navarro, White House senior trade and manufacturing counselor, said on CNBC's "Money Movers" that the cross-border flow of fentanyl is still an issue in tariff negotiations with Canada and Mexico.
+"There's some negotiations ongoing with Canada and Mexico. And if we don't get the kind of progress we need on people dying here in America from deadly fentanyl, then the president will do exactly what he said he would do, as he always does," Navarro said.
+President Trump on Monday said tariffs on Canada and Mexico "will go forward." The 30-day delay on the tariffs is set to expire next week.
+— Jesse Pound
+Volatility index reaches highest level since Jan. 27
+The CBOE Volatility Index, or Vix, spiked as much as 11.7% to 21.28 on Tuesday, reaching its highest point since Jan. 27, when it hit 22.51.
+The Vix was last 7.5% higher at 20.4. The index measures the market's expectations for near-term volatility based off the prices of S&P 500 Index options with 30 days to expiration.
+— Hakyung Kim
+Tesla drops below $1 trillion market cap
+Tesla is no longer part of the $1 trillion market cap club.
+The stock's 9% decline on Tuesday has dragged its market cap below the $1 trillion level. Shares are on pace for their worst day since July 2024.
+The electric vehicle maker is down around 35% from its record close on Dec. 17, 2024, and is currently trading at its lowest point since November 2024.
+— Hakyung Kim
+The split in consumer discretionary and consumer staples stocks is troubling
+The divergence in consumer discretionary and consumer staples stocks — which are down and up 5%, respectively — appears troubling, according to Wolfe Research's Rob Ginsberg.
+"It's a development unlike anything we have seen since before the August flash crash, when the Disc / Staples ratio aggressively diverged from the S&P leading up to it," Ginsberg wrote Tuesday. "Is this another warning sign of a similar drawdown to come?"
+"At the very least, its certainly evident that pressure is starting to build in more cyclical groups like Tech, Industrials, and Materials while defensive groups lead the market YTD," he wrote.
+In particular, retail stocks look especially weak, he said. If the SPDR S&P Retail ETF (XRT), which fell to a four-month low on Friday, fails to bounce this week from its oversold condition, that could "just be the start of something more serious."
+— Sarah Min
+Canada and Mexico ETFs building upon losses
+The iShares MSCI Canada ETF and the iShares Mexico ETF are down 0.8% and 0.6%, respectively.
+The Canada-focused fund is headed toward its fifth straight negative day, while the Mexico ETF is on pace for its third consecutive losing session.
+Month to date, the Canada ETF is down 0.4%, while the Mexico ETF is still up 4.8%.
+Both countries have been put under pressure by U.S. President Donald Trump's trade war. Although Trump agreed to a 30-day pause on tariffs on both countries, he announced on Monday that the trade restrictions would proceed once the moratorium ends.
+— Hakyung Kim
+Nvidia's stock may be 'range bound,' JPMorgan chart analyst says
+Last week, Nvidia came close to fully recovering its losses from the DeepSeek sell-off on Jan. 27, but now the stock has fallen for two straight sessions. Nvidia on Monday closed more than 8% below its Jan. 24 level.
+Jason Hunter, head of technical strategy at JPMorgan, said the chip giant's stock chart looks like it could be stuck for a while.
+"The NVDA rebound from 114.45 support stalled after filling the Jan 27 headline gap. We think the stock is range bound for now," Hunter wrote in a note to clients.
+Nvidia is set to report earnings after the market close on Wednesday.
+— Jesse Pound
+Consumer confidence for February missed expectations
+The Conference Board's consumer confidence index fell to 98.3 in February, well below a Dow Jones estimate of 102.3. That marks the largest monthly decline since August 2021, the Conference Board said.
+"This is the third consecutive month on month decline, bringing the Index to the bottom of the range that has prevailed since 2022," said Stephanie Guichard, senior economist of global indicators at The Conference Board.
+"Of the five components of the Index, only consumers' assessment of present business conditions improved, albeit slightly. Views of current labor market conditions weakened. Consumers became pessimistic about future business conditions and less optimistic about future income. Pessimism about future employment prospects worsened and reached a ten-month high," Guichard said in a statement.
+— Fred Imbert
+Shares of 5 Japanese trading houses jump after Buffett's endorsement
+Shares of Japanese trading houses Itochu, Marubeni, Mitsubishi, Mitsui and Sumitomo popped Tuesday after Warren Buffett reaffirmed his long-term commitment in these mini conglomerates. 
+The "Oracle of Omaha" said in his annual report Saturday that Berkshire Hathaway has reached an agreement with the companies to own beyond the initial 10% ceiling. These trading houses in Japan invest across diverse sectors domestically and abroad "in a manner somewhat similar to Berkshire itself," Buffet said. Berkshire first bought into the companies in July 2019. 
+Japanese markets were closed Monday.
+"From the start, we also agreed to keep Berkshire's holdings below 10% of each company's shares. But, as we approached this limit, the five companies agreed to moderately relax the ceiling," Buffett said. "Over time, you will likely see Berkshire's ownership of all five increase somewhat."
+At the end of 2024, the market value of Berkshire's Japanese holdings came in at $23.5 billion, with the aggregate cost at $13.8 billion.
+— Yun Li
+S&P 500 opens flat Tuesday
+The S&P 500 began Tuesday's trading session near the flatline.
+Meanwhile, the Dow Jones Industrial Average added 183 points, or 0.4%. The tech-heavy Nasdaq Composite slipped 0.3%.
+— Hakyung Kim
+Deutsche Bank lists outperformance of tariff-sensitive assets as one of market's biggest current dislocations
+In a recent note, Deutsche Bank macro strategist Henry Allen shared his thoughts on the four biggest dislocations currently in the market.
+"Markets often behave inconsistently, with patterns that don't make obvious sense across asset classes. This got us thinking about where some of the biggest dislocations are today, considering what looks odd, and therefore what might be ripe for a correction," he wrote.
+The four dislocations are as follows:
+- The market has priced in higher U.S. inflation in the next year alongside more Fed rate cuts, even in the fact of a stronger-than-expected labor economy.
+- European risk assets have outperformed their global counterparts despite mounting tariff threats and successive downward revisions to growth forecasts.
+- Some of the most tariff-sensitive assets, such as the Canadian dollar, have outperformed, suggesting high skepticism from the market that U.S. tariffs will actually be implemented. However, this could lead to a "serious vulnerability" if these tariffs do get enforced.
+- Broader market volatility has remained very subdued despite "multiple high-impact events this year," such as the DeepSeek meltdown and tariff threats.
+— Lisa Kailai Han
+Philadelphia area services index shows big pullback
+Service sector activity in the Philadelphia area tumbled in February, hampered by a major pullback in sales and revenue, the Federal Reserve reported Tuesday.
+The Philadelphia Fed nonmanufacturing survey fell to -12.9 from 2.2 in January for the lowest reading since April 2023. The gauge measures the difference between companies reporting expansion against contraction, so any negative number signifies a pullback.
+Within the survey, the sales/revenue index tumbled to -12.7, a 15-point decline and the lowest since May 2020. Indexes for unfilled orders and the average work week also declined, while the employment measure improved slightly and prices index eased.
+— Jeff Cox
+JPMorgan downgrades Tempus AI to neutral
+JPMorgan is taking a pause on Tempus AI.
+Analyst Rachel Vatnsdal downgraded shares of the health-care technology stock to neutral from overweight. While Vatnsdal raised her price target by $5 to $55, it reflects downside of 20.9%.
+Tempus AI on Monday posted earnings that missed expectations for the fourth quarter from analysts polled by FactSet on both lines. However, the company issued strong full-year guidance for revenue.
+Shares plunged 14.9% in Tuesday's premarket on the back of the report. That marks a turn for the stock, which has jumped since going public last year.
+"While we continue to believe in TEM's unique combination of diagnostics and data, we see shares as fully valued on a relative basis after the recent stock run," Vatnsdal wrote to clients.
+— Alex Harring
+Home Depot's earnings issues look to be even more pronounced this year
+There is a bright spot for Home Depot as same-store sales rose for the first time in more than two years. The unexpected 0.8% gain during the fourth quarter far outpaced the 1.7% contraction analysts projected.
+But as the sales picture has regained traction, another problem may be developing. Margin concerns are putting pressure on profits. Home Depot earnings beat analysts' estimates by the slimmest of margins, by merely a penny per share in the latest quarter, according to LSEG. It was the company's worst earnings performance versus Wall Street expectations since May 2020, when the retailer missed consensus estimates due to all the confusion and uncertainty surrounding the Covid-19 pandemic during that time.
+Cost pressures seem to be creating problems for Home Depot's bottom line. In the latest quarter, both cost of sales and operating expenses grew at faster rates than sales, causing margins to slightly undershoot Wall Street's expectations.
+Home Depot's earnings issues look to be even more pronounced this year. For its new fiscal year, the company expects earnings per share to fall 3% year over year as a result of tepid margin and sales projections, far below the positive 4.6% earnings growth analysts have forecast.
+The expected downbeat earnings performance may be having another ripple effect on Home Depot shareholders. Dividend payouts seem to be a bit under pressure. In Tuesday's earnings release, Home Depot said it is raising its quarterly dividend 2.2% to $2.30 per share. Shareholders are still seeing a dividend hike but it is a significantly muted one, with this increase being far less than what the company has done in recent years:
+Recent Home Depot Dividend Increases
+Feb. 2025: +2%
+Feb. 2024: +8%
+Feb. 2023: +10%
+Feb. 2022: +15%
+Feb. 2021: +10%
+Feb. 2020 (start of pandemic): +10%
+— Robert Hum
+Trump administration planning tougher chip restrictions on China
+President Donald Trump is seeking to escalate U.S. semiconductor controls aimed at China, according to a report from Bloomberg News.
+White House officials have recently met with Japanese and Dutch chipmakers, per unnamed sources in the report. The U.S. is aiming for major semiconductor companies in other countries to also join in on pressuring China's chip industry.
+— Hakyung Kim
+Home Depot shares fall even after earnings beat
+Shares of Home Depot were down about 2% in the premarket despite the home improvement retailer posting fourth-quarter results that beat analyst expectations. The company earned $3.02 per share on revenue of $39.7 billion. Analysts expect

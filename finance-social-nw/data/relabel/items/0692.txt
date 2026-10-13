@@ -1,0 +1,27 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+A ton of solid gaming laptops and gaming desktops have been discounted thanks to Amazon’s Presidents’ Day Sale. Your favorite brands, ranging from Acer, Dell, Alienware, ASUS, and others, have had their high-end, mid-range, and entry-level machines become more affordable, allowing you to make one of these your daily drivers. Every single one of these gaming laptops and desktops has been kitted with an NVIDIA GeForce RTX 4000 series GPU, starting from the RTX 4050 and going all the way up to an RTX 4080. There is something here for everyone. Remember to take your time because there are lots of key things to look out for before settling on something.
+Gaming Laptops
+Acer Predator Triton 14 - $1,187 (21 percent off, 14-inch WUXGA 165Hz G-SYNC display, Intel Core i7-13700H CPU, RTX 4050 GPU, 16GB LPDDR5 RAM, 512GB SSD)
+Acer Predator Triton 14 - $1,839 (8 percent off, 14-inch mini-LED 250Hz G-SYNC display, Intel Core i7-13700H CPU, RTX 4070 GPU, 16GB LPDDR5 RAM, 1TB SSD)
+Dell G15 5535 - $849.99 (26 percent off, 15.6-inch 1080p 165Hz IPS LCD, AMD Ryzen 7 7840HS CPU, 16GB DDR5 RAM, 512GB SSD, RTX 4060 GPU)
+Dell G15 5530 - $1,199.99 (17 percent off, 15.6-inch 1080p 165Hz IPS LCD, Intel Core i7-13650HX CPU, 16GB DDR5 RAM, 1TB SSD, RTX 4060 GPU)
+Dell G16 7630 - $1,494.97 (7 percent off, 15.6-inch 1600p 165Hz IPS LCD, Intel Core i7-13900HX CPU, 16GB DDR5 RAM, 1TB SSD, RTX 4070 GPU)
+Alienware M18 - $1,899.99 (18 percent off, 18-inch 1600p 165Hz IPS LCD, Intel Core i7-13700HX CPU, 16GB DDR5 RAM, 1TB SSD, RTX 4070 GPU)
+Alienware M18 AMD - $2,239.99 (20 percent off, 18-inch 1200p 165Hz IPS LCD, AMD Ryzen 9 7845HX CPU, RTX 4080 GPU, 16GB DDR5 RAM, 1TB SSD)
+Alienware X16 R1 - $2,399.99 (20 percent off, 16-inch 240Hz 1600p IPS LCD, Intel Core i9-13900HK CPU, 32GB LPDDR5 RAM, 1TB SSD, RTX 4080 GPU)
+ASUS ROG Strix G16 - $1,999.99 (9 percent off, 16-inch 240Hz 1600p IPS LCD, Intel Core i9-13980HX CPU, 32GB DDR5, 1TB SSD, RTX 4070 GPU)
+ASUS TUF F15 - $861.86 (22 percent off, 15.6-inch 1080p 144Hz IPS LCD, RTX 4050, Intel Core i5-13500H CPU, 16GB DDR4 RAM, 512GB SSD)
+HP Victus 15 - $999.99 (15 percent off, 15.6-inch 1080p 144Hz IPS LCD, RTX 4050, Intel Core i5-13500H CPU, 16GB DDR4 RAM, 512GB SSD)
+Gaming Desktops
+iBUYPOWER Y60 - $1,999.99 (Intel Core i9-13900KF CPU, RTX 4070 GPU, 32GB 5200MHz DDR5 RAM, 1TB SSD, gaming mouse and gaming keyboard included)
+CyberPowerPC Gamer Xtreme VR - $1,899.99 (Intel Core i9-13900KF CPU, RTX 4070 GPU, 16GB DDR5 RAM, 1TB SSD, gaming mouse and gaming keyboard included)
+CyberPowerPC Gamer Xtreme VR - $1,299.99 (Intel Core i7-13700 CPU, RTX 4060 Ti GPU, 16GB DDR5 RAM, 1TB SSD, gaming mouse and gaming keyboard included)
+Alienware Aurora R15 - $1,479.99 (22 percent off, AMD Ryzen 7 7700X, 16GB DDR5 RAM, RTX 4070 Ti GPU, 1TB SSD)
+Alienware Aurora R15 - $1,499.99 (21 percent off, Intel Core i7-13700F CPU, RTX 4070 Ti GPU, 16GB DDR5 RAM, 512GB SSD + 1TB HDD, liquid cooling support)
+Alienware Aurora R15 - $2,079.99 (20 percent off, AMD Ryzen 9 7900X, 32GB DDR5 RAM, RTX 4080 GPU, 1TB SSD + 2TB HDD)
+ASUS ROG G22CH DB776 - $1,559.99 (18 percent off, Intel Core i7-13700F CPU, RTX 4070 Ti GPU, 16GB DDR5 RAM, 1TB SSD)
+You can also check out Amazon’s Valentine’s Day deals for this year and give your wife, your partner, and any loved ones special gifts that they will remember for the entire of 2024, that is, until Prime Day, Black Friday, and Cyber Monday kick off a few months later.
+If you buy something from a Amazon affiliate link, Wccftech may earn a commission. See our ethics statement.
+Follow Wccftech on Google to get more of our news coverage in your feeds.

@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+JUANA SUMMERS, HOST:
+A year after Russia launched its full-scale invasion of Ukraine, the Russian cyber war many had expected has not quite materialized, but that doesn't mean it hasn't been a key piece of the story. NPR's cyber security correspondent Jenna McLaughlin spoke with over a dozen intelligence analysts who've studied the role that cyber weapons have played in the conflict and how those lessons might be applied to future wars.
+JENNA MCLAUGHLIN, BYLINE: On a recent chilly winter afternoon, I made my way to DuPont Circle to visit the Johns Hopkins School of Advanced International Studies in Washington, D.C. I met there with a contemplative man wearing glasses and a hoodie.
+JUAN ANDRES GUERRERO‑SAADE: So my name is Juan Andres Guerrero‑Saade. Most people call me JAGS because that's a mouthful.
+MCLAUGHLIN: Juan, or JAGS, has been following Russian hackers for years. His rolled-up sleeves reveal tattooed lines of digital code. He remembers the confusing, tense days before the invasion, because for the cybersecurity community, that's when the war really began.
+GUERRERO-SAADE: The cybersecurity space, threat intelligence space was involved in analyzing the components of the Russian invasion hours before other people had even accepted that the invasion was happening. I mean...
+MCLAUGHLIN: JAGS, who's with the cybersecurity firm SentinelOne, speaks quickly and eagerly about that time, full of technical detail and personal memories.
+GUERRERO-SAADE: I remember being in a painfully boring corporate, you know, conference, some sales kickoff event. And I believe colleagues just posted like a malware hash on Twitter, and it just changed the rest of our day completely. My whole team, we were, you know, ordering Chinese food in some room somewhere until 6 o'clock in the morning, analyzing malware.
+MCLAUGHLIN: Those early days were fraught. Russia was creating chaos in cyberspace, but they didn't shut down whole cities with cyberattacks. And a whole year later, that remains the case. So has cyber really been important if the ultimate impact has been limited? Brad Smith, the vice chair and president of Microsoft, says yes.
+BRAD SMITH: The interesting thing about a cyberattack is it's invisible to the naked eye. If it succeeds, everybody reads about it because a network stopped operating. But when we detect it and when we disrupt it, when we stop it, it's invisible to the world.
+MCLAUGHLIN: Microsoft is one of many who have worked to help defend Ukraine. Speaking of defense, that's the common theme I heard in almost every conversation I had about the role of cyber in the war a year on.
+SMITH: But the reality is, thanks in part to the resilience of Ukraine and the advance in cybersecurity technology, the first year of this war, at least, defense has proven to be far stronger than offense when it comes to attacks in cyberspace.
+MCLAUGHLIN: Resilience - that means Ukraine hasn't always kept the Russians out of their systems, but they've found smart ways to recover, like backing up their files in servers overseas or moving things to the cloud. Matt Olney has been working with Ukrainian partners for years. He's with the cybersecurity firm Cisco Talos.
+MATT OLNEY: Any country that feels that it has vulnerabilities or potential targets in the cyber front that they're concerned about should really look at what Ukraine has done to harden their environments.
+MCLAUGHLIN: Taiwan preparing for a Chinese invasion comes to mind. Part of the reason Ukraine is so prepared is because they've had years to strengthen their defenses.
+OLNEY: I mean, from the cyber front, Ukraine had been experiencing pretty substantial attacks from Russia for years before this.
+MCLAUGHLIN: That includes attacks against the power grid in 2015 and 2016, as well as a nasty virus in 2017 aimed at Ukrainian businesses that spilled out and hit targets around the world. But at the same time, throughout this war, people are dying. Russia's blowing up critical infrastructure instead of hacking it.
+GABBY RONCONE: I think the thing to keep in mind - right? - is that a war never goes offline and we can. You know, the frontline defenders in Ukraine, they don't go offline.
+MCLAUGHLIN: Gabby Roncone is a threat intelligence researcher at Google cybersecurity firm Mandiant. She has found the work fascinating, and says there's a lot to learn about Russian tactics, but she tries to keep it in perspective.
+RONCONE: I can look at malware in my cozy home office with a mug of tea, but there are Ukrainian defenders that are trying to defend networks and stop intrusions while, you know, there are rolling blackouts or there are air raid sirens.
+MCLAUGHLIN: JAGS, the researcher I met in downtown D.C., explained his feelings about the so-called cyber war this way.
+GUERRERO-SAADE: There are folks that seem almost disappointed not to have seen a greater presence of cyber during war. I think that is more us tussling with the figments of our imaginations, the way that, you know, when we talk about AI, everybody wants to talk about Skynet, they don't want to talk about structural unemployment.
+MCLAUGHLIN: In the middle of a chaotic war, it's hard to make sense of things. What the actual impact will be of any one tactic, including cyber, that's something JAGS really wonders about.
+GUERRERO-SAADE: If I'm completely honest, I think we know next to nothing. I have more questions than I have answers.
+MCLAUGHLIN: We both sit with that thought on a normal, peaceful day in Washington. We know that Russia launched wiper attacks against Ukrainian businesses and government agencies, but what did they wipe?
+GUERRERO-SAADE: We can't assess which of these were genuinely, deeply impactful, meaningful, maybe irrecoverable, maybe unforgivable in their effects versus temporary inconveniences.
+MCLAUGHLIN: As the war in Ukraine rages on, it could take years to know any of the answers. Jenna McLaughlin, NPR News. Transcript provided by NPR, Copyright NPR.
+NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

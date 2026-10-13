@@ -1,0 +1,22 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+This week on the TT Show, Jak and Kosta discuss the current state of the GPU market for PC gamers based on the latest Steam Hardware & Software Survey results and a recent report outlining two decades of market share between NVIDIA and AMD.
+It's not only an uphill battle for AMD and Intel with RDNA 4 and Battlemage, but it's gotten to the point where it feels like anything that isn't GeForce RTX is starting from square one. The GeForce RTX 4060 is now one of the most popular GPUs among millions of gamers - and no alternative has even made a dent. So, even if AMD offers up a killer GeForce RTX 4060 competitor soon, it will do so from a position of almost no mindshare.
+There's much more to the latest episode of The TT Show than just GPU talk and going over the latest GeForce RTX 5090 rumors. There are also the new AMD motherboards to discuss, Microsoft's controversial Copilot+ PC feature Recall making a return, and a potential Microsoft Surface Fold in development.
+Jak and Kosta also discuss Nintendo and what separates it from companies like Sony and Microsoft, dipping into some of their favorite Nintendo games and experiences. But it's not all sunshine and roses, as the conversation leads to the company's continued crackdown on emulation (and arguably game preservation) with the recent shutdown of the Ryujinx Nintendo Switch emulator.
+All of these stories and more in The TT Show - Episode 54.
+Listen and subscribe to The TT Show on your favorite podcast network
+All the topics discussed in this week's episode of The TT Show
+- Read more: First Yuzu, now Ryujinx Switch emulator has been shut down, after an 'agreement' with Nintendo
+- Read more: GeForce RTX 4060 is now the second most popular GPU, and the RTX 4060 Ti not far behind
+- Read more: NVIDIA has enjoyed GPU dominance for over 20 years now, leaving AMD and Intel in its GPU dust
+- Read more: AMD's new BIOS improves Ryzen 9000 Series CPU performance and core-to-core latency
+- Read more: AMD adds DDR5-8000 EXPO support, just in time for new X870 motherboards
+- Read more: ASUS overclocks the Ryzen 9950X to 7.55 GHz on its new ROG Crosshair X870E HERO board
+- Read more: G.SKILL achieves one-click DDR5-9000 with the new ASUS ROG CROSSHAIR X870E HERO motherboard
+- Read more: Microsoft brings back its most controversial Windows AI feature, with beefed up security
+- Read more: Razer's new Freyja is the world's first HD Haptics Gaming Cushion
+- Read more: GeForce RTX 5090 Founders Edition features a dual-slot design, impressive for a 600W GPU
+- Read more: Nintendo director laughs at the 'console wars' between PlayStation and Xbox
+- Read more: Microsoft may enter the foldable phones battle with a 360-degree rotating device, new patent reveals

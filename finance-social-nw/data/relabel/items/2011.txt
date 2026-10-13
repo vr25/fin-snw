@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Hyperscale Growth Shifts Inland as AI Drives Power Demand
+Texas and the Midwest are set to capture more than half of new US hyperscale capacity as AI demand pushes operators toward power-rich regions.
+The next wave of US hyperscale data center growth is shifting inland as AI infrastructure demand makes power availability the dominant factor in site selection.
+Texas and Midwestern states are emerging as primary targets for new capacity, as operators look beyond constrained coastal markets where energy and permitting challenges are slowing expansion.
+New data from Synergy Research Group highlights a growing disparity between existing hyperscale capacity and new development locations. Texas and the Midwest account for about one-third of current US capacity, but are expected to capture more than half of new development in the coming years.
+“With the extremely rapid growth in demand for AI technology and infrastructure, availability of power has now become the most dominant decision criteria,” John Dinsdale, chief analyst at Synergy Research Group, told Data Center Knowledge.
+He said site selection still involves a range of factors – including land, network access, incentives, and permitting – but power has moved to the forefront as AI infrastructure scales.
+The shift marks a change in how hyperscale infrastructure is being sited, with power availability overtaking network proximity as the primary limiting factor.
+Pipeline Growth Outpaces Existing Footprint
+Synergy’s analysis of 21 major cloud and internet companies found 580 operational hyperscale data centers in the US at the end of 2025, part of a global total of 1,360 facilities.
+The development pipeline includes 437 additional US data centers out of 803 planned globally. Despite the lower count, those future facilities represent greater total capacity, reflecting a shift toward larger, more power-dense campuses.
+“The average capacity of new data centers coming online over the next three years will be almost double the average size of currently operational data centers,” Dinsdale said.
+That increase marks a break from prior trends, where capacity growth had been more gradual, and reflects the scale required for AI training and inference workloads.
+Several Midwestern states – including Wisconsin, Indiana, Michigan, and Missouri – are attracting growing data center development interest, with multiple large-scale projects underway. (Image: Alamy)
+Structural Shift, Not a Short-Term Spike
+Northern Virginia remains the largest hyperscale cluster, and is expected to retain that position. But it is no longer the center of expansion activity.
+Texas stands out as the most active market in the current data center development pipeline by a wide margin, benefiting from a combination of available land, energy infrastructure, and regulatory conditions.
+Several Midwestern states – including Wisconsin, Indiana, Michigan, and Missouri – are attracting growing interest, with multiple large-scale projects underway.
+Dinsdale said a new wave of large-scale campuses is emerging in markets that previously saw limited hyperscale development, including Abilene, Mount Pleasant, South Bend, El Paso, Boone County, and Kansas City.
+Dinsdale noted that the shift inland represents long-term investment decisions rather than a temporary response to constraints.
+“We are talking big assets with long lifespans, so when the needle moves substantially, that points to an impact that will be around for years to come,” he said.
+Cloud Giants Still Control the Market
+Amazon, Microsoft, and Google dominate hyperscale infrastructure, holding 58% of global capacity, according to Synergy.
+They are followed by Meta and a group of large platform providers including Alibaba, Tencent, Oracle, Apple, and ByteDance.

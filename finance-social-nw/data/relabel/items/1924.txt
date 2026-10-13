@@ -1,0 +1,37 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+On Monday night, more than a billion viewers watched what may turn out to be an important technological moment on Chinaâs most watched television event, the annual Spring Festival Gala broadcast by China Central Television.
+In 2025, the Unitree robots performed a Yangko dance, a traditional Chinese folk routine often done in groups during festivals. The dance involves rhythmic steps, coordinated hand movements, and props like handkerchiefs or fans. The robots moved stiffly but in time with the music, showing early coordination and basic balance.
+By 2026, the same robots were performing Kung Fu routines, even handling nunchucks (two sticks connected by a short chain, a traditional martial arts weapon). They executed flips, strikes, and acrobatic movements alongside children, demonstrating remarkable agility and physical intelligence.
+This leap from simple choreography to dynamic martial arts illustrates just how rapidly embodied AI has advanced in China. The footage was widely shared by Xinhua News Agency and reported by outlets including Reuters and CGTN.
+Advertisement
+The shift from a mechanical dance to agile martial arts in just one year says something about the pace of change. Artificial intelligence is no longer confined to screens and servers. It is moving into bodies. It is stepping into the physical world.
+This transition, often described as physical intelligence or embodied AI, is widely regarded as the next frontier in technology.
+Artificial intelligence has already changed how we write, search, diagnose disease and trade financial assets. Systems built by companies such as OpenAI and Google process language and images at extraordinary scale. Yet these systems largely live in data centres. They analyse and predict patterns, and from that they make recommendations.
+Advertisement
+Physical intelligence goes further. It allows machines to operate in the real world, responding to what they sense around them. A robot that can maintain balance while performing kung fu is not merely executing pre-programmed moves. It senses weight and adjusts its posture as forces shift around it in real time.
+At the 2025 Consumer Electronics Show, Jensen Huang of NVIDIA described robotics as one of the most consequential applications of AI. Deloitteâs technology outlook echoes that view, noting rapid advances in robotics across logistics, manufacturing and healthcare.
+In the United States, Tesla is developing its Optimus humanoid robot. Start-ups such as Figure AI and Physical Intelligence are racing to commercialise general-purpose robots. In warehouses, firms like Symbotic and Teradyne are deploying increasingly autonomous systems.
+Chinaâs progress, showcased in a cultural spectacle rather than a laboratory demonstration, signals that physical intelligence is becoming mainstream.
+Advertisement
+The potential benefits are obvious. Robots powered by physical intelligence could transform elderly care in ageing societies and enter disaster zones that are unsafe for humans, taking on hazardous industrial tasks that few people would willingly accept.
+For developing nations, intelligent machines could support healthcare delivery in remote regions and modernise weak logistics systems. Used wisely, physical intelligence can enhance human capability rather than replace it.
+Optimists, including Bill Gates, argue that technological progress historically creates more opportunity than it destroys, provided safeguards are built in.
+Unease persists. The 2026 International AI Safety Report warns that increasingly autonomous systems may cause unintended harm if poorly aligned with human oversight. The fear is not tomorrowâs kung fu robot. It is the longer-term possibility of machines capable of independent decision-making without meaningful human control.
+If such systems are weaponised, the risks deepen. Autonomous drones are already used in modern conflicts. A humanoid robot with advanced mobility and battlefield awareness could alter the nature of warfare. The debate over lethal autonomous weapons is no longer theoretical. It is happening now.
+Advertisement
+Some researchers warn of existential danger if AI systems surpass human control. Others consider such scenarios distant and speculative. The truth is probably somewhere between exaggerated fear and careless optimism. The technology is advancing rapidly, but it is not yet self-directing in the way science fiction imagines.
+For technologically disadvantaged nations such as Nigeria, the spectacle of kung fu robots raises a difficult question. What happens if physical intelligence becomes central to economic and military power?
+Advertisement
+Countries that lack advanced research infrastructure, venture capital ecosystems and the ability to attract global talent may find themselves increasingly dependent on imported systems. Dependency often turns into vulnerability over time. It can also reinforce old patterns of extraction and exploitation.
+Resignation, however, is not a strategy. Targeted investment matters more than imitation. Nigeria does not need to build a humanoid robot industry overnight. It can focus on AI applications in agriculture, fintech, health diagnostics and logistics where local demand already exists. Regional collaboration across Africa could help pool resources for research and data infrastructure.
+Advertisement
+Likewise, education must go beyond coding bootcamps; it should strengthen mathematics, engineering and ethical reasoning. Any partnership with global technology firms should prioritise skills transfer rather than dependency.
+Physical intelligence may widen the gap between technology leaders and laggards. It could also create openings for leapfrogging if approached intelligently.
+Advertisement
+The image of robots performing kung fu on Chinaâs grand stage was clearly deliberate. One year ago, they waved handkerchiefs. This year, they wielded nunchucks. It is the speed of change that unsettles people, even as it excites them.
+The move from artificial intelligence to physical intelligence is more than a technical upgrade. It changes how machines exist in our everyday world. Technology does not wait. Countries that prepare benefit. Those that do not often fall further behind.
+For nations like Nigeria, the question is not whether robots will become more capable. They will. The question is whether we choose to understand the systems shaping our future, or remain permanent spectators of other peopleâs revolutions.
+Ladigbolu is a Lagos-based journalist.
+Views expressed by contributors are strictly personal and not of TheCable.

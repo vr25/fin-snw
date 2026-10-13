@@ -1,0 +1,12 @@
+{"id": "1761", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia looked poised to have", "relation": "causal-driver", "sentiment_alignment": 0.2}
+{"id": "0252", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- Data center demand for AI", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1094", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia (NASDAQ: NVDA) stock’s generated", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1949", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Power pledge: Will Trump's deal", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0236", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "UPSC Essentials: Daily subject-wise quiz", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0227", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google answers ChatGPT challenge with", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "0854", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "US stocks close solidly higher", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0880", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SEOUL, South Korea — World leaders", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1282", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Artic Blast Brings Sustained Freezing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1061", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "A lot of UK investors", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1080", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Alphabet unit Google GOOGL-Q won", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0722", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Robert Besser 22 Feb 2024,", "relation": "co-hype", "sentiment_alignment": 0.9}

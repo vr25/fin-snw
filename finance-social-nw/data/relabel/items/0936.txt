@@ -1,0 +1,12 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Broadcom Inc. (NASDAQ:AVGO) shares are trading higher Monday afternoon. The significant rise follows the company’s second-quarter financial results, robust revenue guidance and the announcement of a 10-for-1 forward stock split.
+What To Know: In its second-quarter report, Broadcom exceeded expectations with earnings per share (EPS) of $10.96, compared to the estimated $10.84. Revenue also surpassed forecasts, coming in at $12.487 billion versus the expected $12.028 billion.
+Adding to the positive sentiment, Broadcom announced a 10-for-1 forward stock split, making its shares more accessible to a broader range of investors. This move is expected to increase liquidity and potentially attract more retail investors.
+What Else: Broadcom’s continued dominance in the AI and datacenter networking market, highlighted by its innovative Tomahawk series, underscores its strong market position. The company’s advancements in AI networking technology place it ahead of competitors like Nvidia Corp. (NASDAQ:NVDA), Marvell Technology Inc. (NASDAQ:MRVL) and Cisco Systems Inc. (NASDAQ:CSCO), further solidifying its leadership in the industry.
+Related Link: Broadcom’s Cutting-Edge AI Networking Technology Leaves Nvidia, Marvell, Cisco Behind: JPMorgan
+AVGO Price Action: Broadcom shares were up 5.20% at $1825.19 at the time of writing, according to Benzinga Pro.
+Image: Shutterstock.
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

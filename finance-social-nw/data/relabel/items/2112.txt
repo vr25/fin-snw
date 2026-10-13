@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft Corporation (NASDAQ: MSFT), which carries an upside potential of 24.4% and strong hedge fund and Wall Street backing, is moving to prove it can build powerful AI independently.
+Reuters reported on May 28, 2026, that Microsoft plans to unveil a suite of homegrown AI models at its annual Build developer conference in San Francisco.
+The lineup includes a coding model specifically designed to boost usage of its GitHub Copilot tool, which has faced mounting competitive pressure.
+Microsoft is also planning to roll out new models specializing in transcription, reasoning, speech, and images, according to the Reuters report.
+Microsoft shares climbed nearly 3% on the news, reflecting investor confidence in the company’s push toward greater AI self-sufficiency.
+The announcement marks a notable strategic pivot for a company that built its early AI lead largely through its high-profile partnership with OpenAI.
+Microsoft has historically relied on models from OpenAI, Anthropic, and Google to power GitHub Copilot, but products such as Anthropic’s Claude Code have quickly risen to the top of AI-assisted coding.
+That competitive pressure has pushed Microsoft to accelerate its own model development rather than depending on third-party AI providers.
+The two companies have also restructured their partnership terms in recent months, with both sides reducing reliance on each other as their AI strategies diverge.
+To further close the capability gap, Microsoft is eyeing AI startup acquisitions, with potential deals aimed at building AI talent and delivering a cutting-edge model by next year.
+Analyst sentiment on Microsoft remains firmly bullish, with 57 of 61 covering analysts rating the stock as a buy as of June 1, 2026.
+The median analyst price target for Microsoft stands at $557.90, suggesting continued confidence in the company’s long-term position in the AI infrastructure landscape.
+Microsoft is a global technology company whose flagship products include Windows, Microsoft 365, Azure, LinkedIn, and Xbox, serving both individual users and enterprise customers worldwide.

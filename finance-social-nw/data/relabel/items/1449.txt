@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+One of the emerging pockets that's piquing interest in the artificial intelligence (AI) realm right now is quantum computing. While the technology is not widely used today, curious investors seem to have bought into the idea that quantum computing represents the next chapter in the AI narrative.
+Among notable players fueling the quantum computing landscape is IonQ (IONQ +1.11%), which has witnessed a 275% rise in its share price over the last 12 months. I think that IonQ's rapid ascent echoes the rise of Palantir Technologies throughout the AI frenzy.
+Could investing in IonQ today be like catching Palantir at the onset of the AI revolution? Read on to find out.
+NYSE: IONQ
+Key Data Points
+Taking a closer look at IonQ's business
+The chart below illustrates IonQ's revenue growth trends over the last several years. I'll admit that the steeping slope of the revenue line is quite impressive. And considering the company has won over the likes of Nvidia, Microsoft, Amazon, and Alphabet as key customers and partners, IonQ's future looks pretty bright.
+Analyzing IonQ's stock price and valuation
+Over the last 12 months, IonQ has only generated $43 million in sales. So even though the company's growth rate looks enormous, this percentage growth is going off a relatively small figure in the grand scheme of things.
+Nevertheless, IonQ's market cap currently hovers around $8 billion -- putting the company's price-to-sales (P/S) ratio right around 165. Considering IonQ is still burning cash and not generating meaningful revenue, it's hard to justify such a lofty valuation.
+Could buying IonQ stock today be like investing in Palantir at the dawn of the AI revolution?
+One of the chief concerns surrounding an investment in Palantir is also that the company's valuation has become overextended. Given Palantir's P/S multiple is among the highest across leading enterprise software businesses, I understand these concerns.
+The caveat I would make is twofold. First, Palantir is already proving that its software platforms are an integral component to AI roadmaps across the public and private sectors. This is underscored by the company's consistent ability to command healthy revenue acceleration and positive earnings. Second, I would not apply too much weight to IonQ's relationships with big tech.
+Nvidia already has its own quantum computing platform, called CUDA-Q. Meanwhile, Microsoft, Alphabet, and Amazon have each built their own quantum chips. Given each of these "Magnificent Seven" members are already dominating the AI space and innovating at a rapid pace to enter new markets such as quantum computing, I'm hard-pressed to see how IonQ will compete in the long run -- especially as long as the company remains unprofitable.
+At the end of the day, Palantir's future prospects are somewhat predictable given the current trajectory and robust outlook from management suggest that AI-powered software will remain in demand for years to come. For these reasons, some investors can justify Palantir's premium valuation. Given the nascency of quantum computing and the competition IonQ faces, I do not think the same can be said for the company.
+While following a hot stock can be entertaining and tempting, oftentimes it's also pretty dangerous. Ultimately, I think IonQ has already experienced its "Palantir moment" and I see pressure on the stock as the more likely outcome going forward. I'd pass on investing in IonQ and opt for more established opportunities in the AI sector across megacap tech.

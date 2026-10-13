@@ -1,0 +1,20 @@
+{"id": "2000", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Anthropic has built a new", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2001", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Iran's Islamic Revolutionary Guard", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2002", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Texas Has 2 Of", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2003", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Sundar Pichai's biggest A.I.", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "2004", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Ten stocks boasted double-digit", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2005", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2006", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2007", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2008", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2009", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2010", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2011", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Hyperscale Growth Shifts Inland", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "2012", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "What Happened? Shares of social", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "2013", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The first quarter of", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "2014", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Google Personal Intelligence now", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2015", "ticker_a": "META", "ticker_b": "SMCI", "first_words": "NEW YORK, April 16,", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2016", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Guest of the Day", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2017", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "It seems so bad", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2018", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "He's a maniac Just", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2019", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New Delhi, April 20:", "relation": "co-hype", "sentiment_alignment": 1.0}

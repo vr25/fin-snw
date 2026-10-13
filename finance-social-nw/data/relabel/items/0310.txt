@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Googles said on Thursday that it will block all links to Canadian news articles for people using its search engine and other services in the country in response to a new law that would compel tech companies to pay publishers for content.
+"We have now informed the government that when the law takes effect, we unfortunately will have to remove links to Canadian news from our Search, News and Discover products in Canada," Google executive Kent Walker wrote in a blog post.
+It comes a week after Meta vowed its own blackout of Canadian publishers on Facebook and Instagram, calling the law "fundamentally flawed."
+The two tech giants have been battling the Canadian government over the law that would force them to negotiate compensation deals with news organizations for distributing links to news stories.
+The law, called the Online News Act, passed last week. But it could take months for it to take effect. Once it does, Google and Meta say they will start removing news articles by Canadian news outlets from their services in the country.
+Supporters of the legislation have argued that it could provide a much-needed lifeline to the ailing news industry, which has been gutted by Silicon Valley's ironclad control of digital advertising.
+According to Canadian government figures, more than 450 news outlets in the country have closed since 2008.
+"Digital platforms and social media are now the gateways where people find, read and share news. Because of this, advertising revenues have shifted away from local news and journalists to these gatekeepers, who profit from the sharing and distribution of Canadian news content," government backers of the bill wrote in April.
+Government estimates predict that the law would could inject some $329 million into the Canadian news industry, which has been beset by news staff layoffs and other downsizing in recent years.
+Canada's law was modeled on a similar effort in Australia, where Meta did block news articles for nearly a week before tense negotiations led Meta and Google to eventually strike deals with news publishers.
+A bill to force tech companies to pay publishers is also advancing in California, where the tech industry has levied similar threats of pulling out all news content.
+In Canada, both tech platforms have long been against the law, saying the companies are already helping news companies by directing web traffic to their sites. On Facebook and Instagram, news represents a tiny fraction — on Facebook, it's about 3% — of what people see every day.
+Google, too, does not consider news articles as essential to its service. So both companies have wagered that it is simply easier to block links to news articles than to start paying news organizations.
+While most major publishers in Canada back the new law, outside media observers have not been so sure. Tech writer Casey Newton has argued that a tax on displaying links would "effectively break the internet" if it was applied to the rest of the web. Other critics have pointed to the lack of transparency over who actually would receive cash infusion from the tech companies. Some fear the programs could be hijacked by disinformation sites that learn how to game the system.
+Yet press advocates insisted that tech companies retaliating by threatening to systemically remove news articles will be a blow to civil society and the public's understanding of the world.
+"At a moment when disinformation swirls in our public discourse, ensuring public access to credible journalism is essential, so it's deeply disappointing to see this decision from Google and Meta," said Liz Woolery, who leads digital policy at PEN America, an organization that supports freedom of expression.
+Woolery continued: "As policymakers explore potential solutions to the challenges facing the journalism industry, platforms are free to critique, debate, and offer alternatives, but reducing the public's access to news is never the right answer."
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

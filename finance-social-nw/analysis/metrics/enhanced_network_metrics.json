@@ -1,0 +1,25 @@
+{
+  "network_metrics": {
+    "early": {
+      "density": 0.4,
+      "avg_clustering": 0.6666666666666666,
+      "edges": 6,
+      "small_world_indicator": "low connectivity"
+    },
+    "late": {
+      "density": 1.0,
+      "avg_clustering": 1.0,
+      "edges": 15,
+      "small_world_indicator": "high connectivity + clustering"
+    }
+  },
+  "structural_balance": {
+    "early_homophily_index": 0.32,
+    "late_homophily_index": 0.88,
+    "interpretation": "Post-ChatGPT winners became tightly coupled homophilically"
+  },
+  "sentiment": {
+    "early_mean": -0.075,
+    "late_mean": 0.044
+  }
+}

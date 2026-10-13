@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+On the second day of Google IO 2024, Google released a new beta of Android 15 and announced a bunch of new features coming to Android for mobile devices and TVs. But today’s news isn’t all about Google: Apple also unveiled upcoming accessibility features for iOS, iPadOS, and visionOS.
+And after a slightly rocky start, it’s now open season for emulators in the App Store.
+Here’s a roundup of recent tech news from around the web.
+The Second Beta of Android 15 [Android Developers]
+Android 15 Beta 2 includes new privacy and security features including a “Private space” that requires authentication to launch sensitive apps, more protection against malware running in the background, and new multitasking options for big-screen devices.
+Those are just the features Google highlights in its blog post for developers though. Now that the second beta is out, independent users are digging through it and uncovering other changes. You can find many of them at 9to5Google or by following Mishaal Rahman.
+Project Gameface launches on Android [Google]
+Google’s Project Gameface is an accessibility app for hands-free gaming that uses a camera to detect head movements and facial gestures and convert it to input. Now Google is bringing it to Android as a way to move a virtual cursor.
+Apple announces new accessibility features [Apple]
+Apple unveils new accessibility features coming later this year to iPhones, iPads, and Apple Vision Pro including Eye Tracking for navigation, Music Haptics to use vibrations for deaf and hard of hearing users, Vocal Shortcuts and more.
+Everything you need to know about Google TV and Android TV OS [Google]
+Google is bringing Android 14 to TVs with updates to Google TV and Android TV. Expect performance, efficiency, picture in picture, and accessibility improvements.
+Google says Chrome OS on Android was, sadly, just a fun proof of concept [Android Authority]
+Earlier this week we learned that Google had been holding private demonstrations of ChromeOS running in a virtual machine on Android phones, leading to speculation that maybe one day you’d be able to use your Android phone like a Chromebox when connecting an external display, mouse, and keyboard.
+But it turns out that Google was really just using ChromeOS for demonstration purposes to showcase the virtualization capabilities of Android 15.
+The floodgates are open: More emulators arrive in the App Store for iPhones and iPads (PS1, PSP, and RetroArch for a whole lot more)
+Apple now lets developers submit (some) emulators to the App Store, allowing you to run classic console games on an iPhone or iPad. Last month the popular Delta emulator made its way to the App Store, bringing support for classic Nintendo console games. This week it’s been joined by a whole bunch of additional emulators including the Gamma PS1 emulator, PPSSPP PlayStation Portable emulator, and RetroArch, which is a multi-console emulator that uses a system of different “cores” to let you emulate dozens of classic consoles.
+Keep in mind that Apple imposes some limitations that may impact performance, but most recent iOS devices should have enough raw horsepower to handle older games reasonably well.
+Keep up on the latest headlines by following @liliputing_liliputing.com on Mastodon (or @[email protected]). You can also follow Liliputing on X and Facebook. We’re also on Bluesky now, but just barely.

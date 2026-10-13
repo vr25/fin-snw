@@ -1,0 +1,11 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Shares of Netherlands-based AI cloud company Nebius Group (NASDAQ:NBIS) jumped nearly 12% on Monday after the company announced a new long-term infrastructure agreement with Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB).
+Under the five-year deal, Nebius will provide $12 billion in dedicated AI computing capacity across multiple locations, utilizing one of the first large-scale deployments of the NVIDIA Vera Rubin platform.
+Deliveries are scheduled to begin in early 2027.
+In addition, Meta has agreed to purchase further available compute capacity from Nebius, potentially totaling up to $15 billion over the same period. Nebius intends to sell this capacity to third-party customers through its AI cloud business, with any remaining capacity acquired by Meta.
+The agreement carries a combined contract value of approximately $27 billion. The move marks a significant step in the collaboration between the two companies and highlights the increasing demand for large-scale AI infrastructure.
+“We are pleased to expand our significant partnership with Meta as part of securing more large, long-term capacity contracts to accelerate the build-out and growth of our core AI cloud business,” Nebius CEO Arkady Volozh said in a statement. “We will continue to deliver.”
+Since its New York listing in 2024, Nebius shares have risen more than 540%, reflecting the company’s growth in the European AI cloud market.
+Shares of Meta added 2.5% at about $628 on Monday.

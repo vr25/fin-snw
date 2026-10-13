@@ -1,0 +1,12 @@
+{"id":"0954","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Nvidia (NVDA +0.22%) stock looks","relation":"co-hype","sentiment_alignment":0.3}
+{"id":"2084","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"NVIDIA has reported a record-breaking","relation":"causal-driver","sentiment_alignment":0.8}
+{"id":"1006","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Microsoft’s artificial-intelligence ambitions are putting","relation":"causal-driver","sentiment_alignment":0.0}
+{"id":"2143","ticker_a":"GOOGL","ticker_b":"META","first_words":"“Chinese surveillance” became a buzzword","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1982","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Internet 6 min read AI's","relation":"substitute-comparison","sentiment_alignment":0.8}
+{"id":"1893","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Elon Musk’s companies plan to","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1533","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"The Vanguard MSCI Index International","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0535","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Dublin, Nov. 21, 2023 (GLOBE","relation":"co-hype","sentiment_alignment":0.7}
+{"id":"1594","ticker_a":"AVGO","ticker_b":"NVDA","first_words":"NEW YORK, Sept. 4 (Xinhua)","relation":"co-hype","sentiment_alignment":0.8}
+{"id":"0403","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Intel Wants to Beat Bias","relation":"substitute-comparison","sentiment_alignment":-0.3}
+{"id":"0781","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"\"And so, ladies and gentlemen.","relation":"causal-driver","sentiment_alignment":0.4}
+{"id":"1628","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Microsoft’s New ‘Microfluidic’ Tech Cools","relation":"unrelated-mention","sentiment_alignment":0.0}

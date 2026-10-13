@@ -1,0 +1,37 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Experts join forces to help accelerate NHS use of artificial intelligence
+Doctors, researchers and experts from tech firms will work together to accelerate the use of artificial intelligence (AI) in the NHS while maintaining patient safety, officials have announced.
+The new national commission will advise the Medicines and Healthcare products Regulatory Agency (MHRA) on fresh guidelines to speed up access to the latest innovations.
+The recommendations from the group will support the digital transformation of the health service, with the MHRA stressing that it is “crucial that AI regulation maintains patient safety and public confidence”.
+The MHRA will act on the recommendations of the commission to support the NHS’s digital transformation and advance the UK’s ambition to become a global hub for health tech investment
+Ministers said the work will also ensure the UK “leads the way” in making “game-changing technologies” available to patients.
+AI is already being used by the NHS to analyse brain scans from stroke patients, while around half of trusts are using the technology to help diagnose the likes of lung cancer.
+The commission, established by the MHRA, will bring together experts from companies such as of Google and Microsoft, as well as clinicians, researchers and patient safety advocates, to review current regulations around AI in healthcare and advise on a new rulebook, which is expected to be published next year.
+It is hoped the work will give British patients faster access to new technologies, as well as attract more tech firms to develop and use their latest products in the UK.
+The commission will also provide regulatory clarity on AI tools in radiology and pathology, as well as technologies that help medics provide virtual care for patients in their own homes.
+Lawrence Tallon, chief executive of the MHRA, said: “We want regulation of AI in healthcare to move at the pace of innovation.
+“AI has enormous potential to transform patient outcomes, improving quality, access and equity of care while driving efficiency.
+This commission will ensure the UK leads the way in making these game-changing technologies available in the safest possible way, helping more of us to lead healthy, longer lives and supporting our NHS
+“It is crucial that AI regulation maintains patient safety and public confidence.
+“By bringing together leading voices in healthcare, technology, and patient safety, this commission will help establish the UK as a global leader in responsible AI healthcare regulation.
+“The MHRA will act on the recommendations of the commission to support the NHS’s digital transformation and advance the UK’s ambition to become a global hub for health tech investment.”
+Technology Secretary Liz Kendall said: “AI has incredible potential to help doctors spot and treat diseases earlier.
+“But we need experts to come together so patients can benefit from these opportunities quickly and safely.
+“This commission will ensure the UK leads the way in making these game-changing technologies available in the safest possible way, helping more of us to lead healthy, longer lives and supporting our NHS.”
+The commission will also focus on accelerating the use of technology which is being held back by regulatory uncertainty, such as AI programs that help doctors by automatically taking notes.
+By bringing together diverse expertise we can build a regulatory framework for AI that is trusted by the public and health professionals, and delivers real benefits for patients
+It comes after a trial involving almost 17,000 patient interactions found one tool, known as Tortus, helped increase direct interaction between patients and clinicians by 23.5% during appointments.
+Economic modelling carried out by York Health Economics Consortium as part of the study also suggested Tortus could lead to an additional 9,259 A&E consultations every day if used nationally.
+The commission will be chaired by Alastair Denniston, professor of regulatory science and innovation at the University of Birmingham, honorary consultant ophthalmologist at University Hospitals Birmingham NHS Foundation Trust and executive director of the UK’s Centre of Excellence for Regulatory Science and Innovation in AI & Digital Health Tech.
+He said: “This commission marks a vital step in ensuring the UK leads the way in responsible innovation, and in accelerating the availability of AI technologies that can support better health for everyone.
+“By bringing together diverse expertise we can build a regulatory framework for AI that is trusted by the public and health professionals, and delivers real benefits for patients.”
+In January, Prime Minister Sir Keir Starmer vowed that AI “will drive incredible change in our country”.
+And in July, the Government unveiled plans to revamp the NHS app, which includes using AI to provide instant advice for patients who need non-urgent care.
+AI in healthcare has the potential to bring huge benefits for patients, but it must be carefully regulated
+Deputy chairwoman of the commission Patient Safety Commissioner Henrietta Hughes said: “AI in healthcare has the potential to bring huge benefits for patients, but it must be carefully regulated.
+“In developing the use of AI in healthcare we must listen to patients’ views to ensure that its use is safe and equitable.”
+Dame Jennifer Dixon, chief executive of the Health Foundation, which is acting as research partner on the commission, said: “AI is advancing rapidly in healthcare, with growing evidence of its potential to enhance care delivery, improve outcomes and productivity, and enrich patient experience.
+“While the NHS 10-Year Plan set a bold vision for AI, regulation must keep pace with innovation and facilitate effective use and spread.
+“A robust and ethical framework is essential to maintain momentum, build trust in the technology among staff and patients and ensure the UK remains a leader in responsible AI in healthcare.”

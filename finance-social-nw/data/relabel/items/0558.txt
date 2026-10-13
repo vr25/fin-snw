@@ -1,0 +1,40 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Follow ZDNET: Add us as a preferred source on Google.
+Which should you buy: a MacBook Air or a MacBook Pro? It’s a surprisingly tough question since you can’t go wrong either way. Apple refreshes its lineup annually, equipping its devices with improved hardware and new software features. When purchasing a new Apple laptop, several key factors should be taken into consideration. So, where do you start?
+You’ll need to first consider a MacBook’s computing power, storage capacity, display, and size. In terms of hardware, the MacBook Pro is the “better” computer. It’s more powerful, features a larger screen, and offers more storage, among other improvements.
+More from ZDNET
+Also: How to clear your Mac cache (and why it makes such a big difference when you do)
+In years past, there has been a big divide between the hardware in a MacBook Pro and a MacBook Air, but with the advent of the M4 MacBook Air, that distinction isn’t as clear-cut. The refreshed Air features Apple’s M4 chipset, providing the series with a significant power boost. It also comes with more memory for a better overall experience.
+Combining all the size options, there are currently 10 MacBook Pro configurations and six MacBook Air configurations. Let’s review the main differences between the two to help you decide which one to purchase.
+Compare MacBooks at Apple
+What’s the difference between the MacBook Pro and MacBook Air?
+The MacBook Pro is available in two sizes: 14 inches and 16 inches, with the 14-inch model available in three primary configurations. There is one housing the new M5 chip, launched in October 2025, one with the M4 Pro, and another with the M4 Max. The 16-inch MacBook Pro is only available housing the latter two chipsets. Additionally, note that the base M4 MacBook Pro is no longer available for sale on Apple’s storefront. You’ll need to visit a third-party platform, such as Amazon, for the older model.
+All three chips are high-performing, although there are notable differences among them. The M4 Max remains the best chipset out of the trio, boasting a powerful media engine capable of handling the most demanding tasks.
+Review: Apple M5 MacBook Pro
+Each chip has a different number of performance cores. The M5 has a 10-core CPU and a 10-core GPU. Apple’s M4 Pro houses a 14-core CPU and a 20-core GPU. The M4 Max features the same processor as the M4 Pro, but it sports a 32-core GPU instead. Apple’s M4 MacBook Pro models also have different amounts of unified memory, ranging from 16GB to 48GB.
+What makes the M5 MacBook Pro so great is that it strikes a perfect balance between power and cost. ZDNET’s editor-in-chief Kerry Wan tested the model back when it first launched. According to his benchmarks, the M5 MacBook Pro significantly outperforms the M4 MacBook Pro. In fact, it performs comparably to the M1 Ultra Mac Studio.
+Its single-core processor scores were good too, indicating that the laptop is quite fast. And sure enough, that’s exactly what Wan experienced during his testing. He praised the hardware for gracefully handling dozens of tabs, ZDNET’s content management system, music apps, and Adobe Premiere Pro.
+Other benefits of the M5 MacBook Pro include a long-lasting battery, a robust set of ports (including three Thunderbolt 4 ports and an SDXC card slot), and a vibrant Liquid Retina XDR display.
+Also: I tried local AI on my M1 Mac, and the experience was brutal – here’s why
+The M5 MacBook Pro is a solid laptop for most use cases, but if the base chip isn’t powerful enough for you, consider the M4 Pro and M4 Max laptops instead. Those chipsets are still more powerful, although the performance gap between the new base model and Pro models has shrunk.
+- Prices for the 14-inch M4 Pro and M4 Max models start at $1,999 and $3,199, respectively.
+- Prices for the 16-inch M4 Pro and M4 Max models start at $2,499 and $3,499, respectively.
+Apple will one day release the M5 Pro and M5 Max versions of the MacBook Pro. The exact date is unknown, although it is likely to be sometime in early 2026. Not much is known about these laptops, but I wouldn’t be surprised if they both eclipse the M1 Ultra Mac Studio.
+As for the MacBook Air, there are two models available: a 13-inch and a 15-inch M4 model, both listed on Apple’s website. The older M3 units are no longer officially on sale, but you can still find the M3 MacBook Air at Amazon. This generation utilizes the powerful M4 chipset, and although it can’t reach the same heights of power as the MacBook Pro, it’s still no slouch.
+ZDNET Editor Kyle Kucharski spent some quality time testing the M4 MacBook Air and praised the laptop’s responsive performance. Across multiple benchmark tests, the MacBook Air performed quite well, even coming close to the old M4 MacBook Pro, and in some instances, outdoing the M3 MacBook Pro.
+Also: Do you work with multiple browsers? You’ll love this free MacOS app – see why
+Battery life is excellent, too, lasting over 14 hours on a single charge. Its Liquid Retina display delivers a crisp image, well-defined text, smooth, vibrant video, and support for 1 billion colors. Other notable features include support for two external monitors while the lid is open and Center Stage, which keeps you in the center of the MacBook’s webcam.
+The MacBook Air has significantly fewer ports than the MacBook Pro, with only two Thunderbolt 4 ports, a headphone jack, and a MagSafe 3 charging port. Due to its lightweight design, the laptop weighs only 2.7 pounds. Conversely, the Pro laptop weighs 3.4 pounds and can become heavier when equipped with a more powerful chipset.
+Review: Apple M4 MacBook Air
+Multiple MacBook Air configurations are available. At $999, the cheapest model has a 10-core CPU, an 8-core GPU, 16GB of unified memory, and 256GB SSD storage. The high-end model, priced at $1,399, features the same processor but sports a 10-core GPU, 24GB of unified memory, and a 512GB SSD.
+You can upgrade certain aspects, such as increasing storage to 1TB. Doing so will increase the price by $400, so be mindful of your shopping budget. If you want to save money, the base M3 MacBook Air is available on Best Buy for $900.
+Buy the MacBook Air
+Which MacBook is right for you?
+The answer mainly depends on how you see yourself using the laptops and how the display size and weight factor into that equation. A reliable computer is an investment; you don’t want to spend too much on an overqualified laptop, nor do you want to buy one that’s not powerful enough for your needs. Since the gulf between the two models isn’t as big as in previous generations, the one you should buy depends on the type of user you are.
+Buy the M5 MacBook Pro
+If you’re a graphic designer, music producer, professional photographer, videographer, 3D artist, or iOS game and app developer, a MacBook Pro would be the way to go. The Pro models can handle intensive graphics processing and multiple software applications running in the background without significant lag, overheating, or other performance issues. Apple’s M5 MacBook Pro is fine for most use cases; however, if you’re looking to upgrade today, I recommend paying extra for the M4 Pro chip.
+Also: 9 essential Mac apps I can’t live without – and why
+If you are a student or someone who spends most of your time in Microsoft Office or Google Workspace, a MacBook Air will be a better fit, as it won’t put a burden on your wallet. It’s perfect for people who just want to casually surf the internet, watch YouTube or Netflix, respond to emails, and FaceTime their friends.
+Regardless of which one you pick, both deliver the hallmark Apple experience: smooth performance, longevity, and effortless integration with the rest of the Apple ecosystem. You’ll be getting a machine built to last and designed to make your daily workflow a whole lot easier.

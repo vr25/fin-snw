@@ -1,0 +1,8 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+NEW YORK (Reuters) - A rally that has propelled U.S. equities to record highs increasingly rests on red-hot chipmaker Nvidia and a handful of other giant stocks, reviving concerns that the market’s performance has become tied to a cluster of companies.
+About 60% of the S&P 500’s total return of more than 12% for the year has been driven by five companies whose shares have some of the heaviest weightings in the index: Nvidia, Microsoft, Meta Platforms, Alphabet and Amazon.com, data from S&P Dow Jones Indices showed.
+Already a subscriber? Log in
+Get 20% OFF The Star Digital Access
+Cancel anytime. Ad-free. Unlimited access with perks.

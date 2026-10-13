@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+A lot of UK investors have money in FTSE 100 exchange-traded funds (ETFs). This isn’t surprising as the Footsie’s the UK’s main stock market index and investors tend to put money into things they’re familiar with.
+It can pay to diversify a portfolio and look beyond the FTSE 100, however. Here’s a look at a product that has delivered around twice the return of the Footsie over the last five years.
+A top fund
+The product in focus today is the Vanguard FTSE All-World UCITS ETF (LSE: VWRP). This is a tracker fund that has a global focus and seeks to track the performance of the FTSE All-World index.
+With this ETF, investors get exposure to around 3,700 stocks (versus 100 for a FTSE 100 ETF) across both developed and emerging markets. The top 10 holdings at 31 July are shown below.
+Impressive performance
+In terms of performance, this product has delivered impressive returns lately. Over the five-year period to the end of August, it returned 77%. By comparison, the Vanguard FTSE 100 UCITS ETF returned 38.9%. So anyone who was invested in this global product over that five-year period outperformed the FTSE 100 by a wide margin.
+It’s worth noting that these returns factor in dividends (both are ‘accumulation’ products). But they don’t factor in trading fees or platform charges.
+The outlook from here
+Now, past performance isn’t an indicator of future returns, of course. However, looking ahead, I wouldn’t be surprised to see the Vanguard FTSE All-World UCITS ETF continue to outperform FTSE 100 tracker funds over the long term.
+The reason I say this is that we’re living in a tech-driven world today. And the FTSE All-World index has far more exposure to the Technology sector than the FTSE 100. At the end of July, 27.5% of the global index was invested in tech stocks. That compares to just 1% for the Footsie.
+Volatility risks
+On the other hand, the tech exposure here also presents a risk. Anyone that has invested in stocks like Microsoft, Meta Platforms (Facebook), and Nvidia will know that tech stocks can be volatile at times. Nvidia, for example, recently fell more than 30% in the blink of an eye.
+Another risk is the fact that about 62% of the ETF’s allocated to the US stock market. Over the long term, this market has outperformed the UK quite significantly but, looking ahead, there are likely to be periods where it doesn’t.
+One additional issue to be aware of is that ongoing fees are 0.22%. That’s a little higher than the ongoing fees for Vanguard’s FTSE 100 ETF (0.09%)
+All things considered however, I feel this global ETF has a lot going for it. For those looking for a solid core holding for their portfolio, I think it’s worth considering.

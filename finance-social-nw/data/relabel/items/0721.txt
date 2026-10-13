@@ -1,0 +1,25 @@
+TICKER_A: MSFT
+TICKER_B: SMCI
+POST:
+Robert Besser
+                
+22 Feb 2024, 22:18 GMT+10
+            
+NEW YORK: After becoming the third-most valuable U.S. company and highlighting the importance of artificial intelligence (AI)-related bets to investors, chipmaker Nvidia overtook Tesla to become Wall Street's most traded stock by value.
+Should its revenue growth fail to meet investors' expectations and stop a Wall Street rally fueled by enthusiasm for AI, the Santa Clara, California chipmaker's outsized representation in day-to-day stock trading could make investors more vulnerable.
+Nvidia released its quarterly report late on February 21, and some analysts believe that underperformance could reverse a rally that caused its stock to surge 40 percent in 2024.
+Reflecting investors' concerns ahead of the report, Nvidia's stock dropped some five percent on February 20.
+During the previous 30 sessions, some US$30 billion worth of Nvidia shares were bought and sold daily on average, surpassing Tesla, which averaged $22 billion per day over the same period.
+LSEG data showed that since 2020, Elon Musk's electric car maker has dominated daily U.S. stock trading in terms of turnover.
+On Tuesday, combined trading in Nvidia and Super Micro Computer, another company benefiting from the AI boom, accounted for 46 percent of all turnover of the ten most traded U.S. stocks, including Tesla, Meta Platforms, Apple, Amazon, and Microsoft.
+Dennis Dick, a trader at Triple D Trading in Ontario, Canada, said, "There is an argument here that this is the dawn of a new era of trading, like the dawn of the internet, with Nvidia in the pole position."
+Last week, the market capitalization of Nvidia, which controls some 80 percent of the high-end AI chip market, eclipsed, separately, Amazon's and Alphabet's, making it Wall Street's third-most valuable company behind Microsoft and Apple.
+Get a daily dose of New Zealand Star news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to New Zealand Star.
+More Information
+SEATTLE, Washington: Alaska Airlines said late on October 23 that it had restarted operations after a major technology problem earlier...
+MINNEAPOLIS, Minnesota: Target is slashing about 1,800 corporate jobs in its biggest round of layoffs in nearly a decade, as the U.S....
+LONDON, U.K.: British shoppers snapped up new iPhones and gold jewelry in September, driving an unexpected rise in retail sales and...
+WASHINGTON, D.C.: The U.S. national debt has surged past US$38 trillion, hitting a new record during a government shutdown and underscoring...
+NEW YORK CITY, New York: A sunscreen that claimed to repel sharks. A lavender-vodka distiller. A company selling a drink that promises...
+ROME/PARIS: Europe's biggest aerospace firms are finally joining forces to fight back against Elon Musk's fast-growing Starlink empire....

@@ -1,0 +1,20 @@
+{"id": "0980", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Axios reports that \"a significant", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0981", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Data Center News Roundup: Microsoft", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0982", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The curious case of Qutub", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0983", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Christopher Gannatti, CFA,", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0984", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "By Christopher Gannatti, CFA,", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0985", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By Christopher Gannatti, CFA,", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0986", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The future for ETFs is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0987", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Tech titans are under pressure", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0988", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Tech titans are under pressure", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0989", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Tech titans are under pressure", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0990", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0991", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "What's Going On is a", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0992", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Lola Evans", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0993", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Turing AGI Icons: AI Leaders", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0994", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "OTPs via text message, or", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "0995", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "The major indexes closed out", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0996", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Data usage and cookies", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0997", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Social media giant Meta", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0998", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Daily Market Reports | Jul", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0999", "ticker_a": "MSFT", "ticker_b": "SMCI", "first_words": "Daily Market Reports | Jul", "relation": "co-hype", "sentiment_alignment": -0.5}

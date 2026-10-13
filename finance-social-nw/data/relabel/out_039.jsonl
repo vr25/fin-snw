@@ -1,0 +1,20 @@
+{"id": "0780", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "And so, ladies and gentlemen.", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "0781", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "And so, ladies and gentlemen.", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "0782", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Nvidia CEO Jensen Huang's keynote at", "relation": "substitute-comparison", "sentiment_alignment": -0.8}
+{"id": "0783", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By Mel Gurtov A National", "relation": "substitute-comparison", "sentiment_alignment": 0.9}
+{"id": "0784", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "I'm always taking notes. Whether", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "0785", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "LONDONLONDON — Microsoft has hired", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "0786", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "French regulators announced on Wednesday", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0787", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "As artificial intelligence technology advances,", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0788", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Justice Department sues Apple in", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0789", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Justice Department sues Apple in", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0790", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Justice Department sues Apple in", "relation": "co-hype", "sentiment_alignment": -0.4}
+{"id": "0791", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "- CNBC's Jim Cramer threw", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0792", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "TikTok's owner is once again", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0793", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The dominance of the largest", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0794", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Cheaper app subscriptions. Additional payment", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0795", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The EU has opened investigations", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0796", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Amazon stock is poised to", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0797", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Italian media ombudsman AGCOM has", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0798", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Apple just announced that it", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0799", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Democrats are looking to pass", "relation": "co-hype", "sentiment_alignment": 0.8}

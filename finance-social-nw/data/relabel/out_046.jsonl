@@ -1,0 +1,20 @@
+{"id": "0920", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "By Max A. Cherney TAIPEI", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0921", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "By Max A. Cherney TAIPEI", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "0922", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By Max A. Cherney TAIPEI", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0923", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Apple is going all-in", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "0924", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oracle surges on mega-partnerships", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0925", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Featured Story Airspan swoops", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0926", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "We recently compiled the", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "0927", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Oil rose more than", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0928", "ticker_a": "AVGO", "ticker_b": "META", "first_words": "- CNBC's Jim Cramer", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0929", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "- CNBC's Jim Cramer", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0930", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "- CNBC's Jim Cramer", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0931", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "- CNBC's Jim Cramer", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0932", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "- CNBC's Jim Cramer", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0933", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- CNBC's Jim Cramer", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0934", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "We can probably all", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "0935", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Hey, United Airlines, no", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "0936", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Broadcom Inc. (NASDAQ:AVGO) shares", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0937", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Major figures from Google,", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0938", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "(Bloomberg) -- Shares of", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "0939", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Department of Consumer", "relation": "co-hype", "sentiment_alignment": -0.7}

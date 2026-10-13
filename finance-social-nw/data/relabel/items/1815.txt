@@ -1,0 +1,24 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Indian techie reveals how he landed a Microsoft job in US after moving from India
+An Indian techie in the US shared how referrals and persistence helped him secure his first job at Microsoft.
+An Indian engineer who moved to the United States in search of bigger opportunities has shared how persistence, networking and the right referral helped him secure his first role at Microsoft. Speaking to Business Insider, Rishab Jolly traced his journey from working in India to becoming a senior product manager at one of the world’s biggest technology companies.
+From engineering in India to an MBA in the US
+Before moving to the US in 2015, Jolly studied engineering and computer science in India and worked as a software quality tester and engineer. “I was always interested in the business side of technology,” he told Business Insider. To bridge that gap, he left his job to pursue an MBA at the University of Arizona, hoping to add business acumen to his technical background.
+He said witnessing the scale of innovation and opportunity in the US motivated him to build his career there, particularly in product focused roles that sit at the intersection of technology and business.
+A campus project that changed everything
+One of the most valuable aspects of his MBA, Jolly said, was its close collaboration with Big Tech firms. Companies including Microsoft, Amazon and Google brought real world projects to campus, which students completed as part of their coursework.
+In 2016, Jolly led a team working on a Microsoft project. “We did an excellent job,” he said, which allowed him to network directly with a Microsoft product manager and demonstrate his skills beyond the classroom.
+Hundreds of applications and mounting pressure
+Despite this exposure, the job hunt was far from easy. Jolly applied to nearly 200 roles using a generic résumé and received just three interview calls. Although he cleared two interviews, both offers were later withdrawn due to visa concerns and budget issues.
+With only 60 to 90 days to secure employment after graduation, he ran out of money and stayed with a friend. He described the period as one of constant anxiety and uncertainty.
+The referral that opened the door
+During this time, Jolly stayed in touch with the Microsoft contact he had met during his MBA project. When a suitable opening appeared, he asked for a referral. “That referral and tailoring my résumé made all the difference,” he said.
+He was hired by Microsoft in July 2017 as a product manager and was promoted to senior product manager in 2021.
+Lessons on interviews and visibility
+Reflecting on the process, Jolly stressed that referrals are critical in Big Tech, where companies receive thousands of applications every month. He also credited mock interviews with helping him refine authentic, experience based answers.
+He added that showcasing skills outside formal work, through platforms like LinkedIn or personal projects, signals adaptability and passion. “I wasn’t trying to build a following,” he said of his LinkedIn posts. “I just focused on topics that genuinely resonated with me.”
+Advice for aspiring professionals
+Jolly believes an MBA is not mandatory for everyone, but for him it provided exposure, mentorship and a structured transition into product management. His advice to others is simple: network strategically, prepare thoroughly, stay authentic and keep building skills. Persistence, he said, can turn uncertainty into opportunity.
+- ABOUT THE AUTHORMahipal Singh ChouhanMahipal Singh Chouhan is a Senior Content Producer at Hindustan Times Digital, with nearly five years of experience in digital journalism and content production. He primarily covers offbeat, trending and human-interest stories, with a focus on emerging social media trends, online conversations and real-world incidents that capture public attention. At Hindustan Times, Mahipal works on identifying and developing fast-moving digital stories, adding context and journalistic perspective to viral moments while maintaining accuracy, clarity and readability for online audiences. Before joining Hindustan Times Digital, he was associated with DNA India, where he gained experience in newsroom workflows and digital storytelling. He holds a degree in Journalism and Mass Communication from the Vivekananda Institute of Professional Studies, Delhi. Beyond journalism, he has a keen interest in history and sports and enjoys expanding his general knowledge.Read More

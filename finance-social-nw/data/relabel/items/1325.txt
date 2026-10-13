@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+There were reports from people around the world on Saturday that they were unable to access their Microsoft accounts, with the most common complaint that the Outlook email program wasn't working.
+By the evening hours, Microsoft said it had fixed the glitches and apologized for the outage.
+The problem was not limited to certain programs, though, as people reported on social media that they were unable to access Microsoft servers, as well as Microsoft 365, Teams, Microsoft Exchange and the Microsoft store.
+Problems were first reported on social media at about 2:30 pm Central time, when users started saying they could neither access nor send emails from the company's programs.
+The tech tracking website, Down Detector, listed problems with several Microsoft programs in the United States, and the British newspaper Metro claimed that millions of people worldwide couldn't access their emails and other accounts.
+The website also listed similar problems on Saturday with Gmail and Google services.
+In a statement, Microsoft said Saturday afternoon, ‘We’re investigating an issue in which users may be unable to access Outlook features and services. Additional details can be found under MO1020913 in the admin center."

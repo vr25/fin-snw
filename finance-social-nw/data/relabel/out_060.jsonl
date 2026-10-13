@@ -1,0 +1,20 @@
+{"id": "1200", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "(Reuters): Shares of Dell and HP", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1201", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Speed is relative. Depending on the", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1202", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Subscribe now for unlimited access.", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1203", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Bournemouth, Christchurch and Poole are", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1204", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Elon Musk is asking a federal", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1205", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Elon Musk is asking a federal", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1206", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Elon Musk is asking a federal", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1207", "ticker_a": "META", "ticker_b": "SMCI", "first_words": "Check out the companies making headlines", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1208", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "BEIJING, Dec. 3 (Xinhua) -- In", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1209", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Internet - 2 min read Amazon", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1210", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Technology stocks powered to new highs", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1211", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Technology stocks powered to new highs", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1212", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Technology stocks powered to new highs", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1213", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Norway suspends deep-sea mining plans in", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1214", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "UnitedHealthcare CEO Brian Thompson had an", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1215", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The FBI issued a warning to", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1216", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "DELRAY BEACH, Fla., Oct. 29, 2025", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1217", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "- Meta continued its rally on", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1218", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "- Meta continued its rally on", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "1219", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "- Meta continued its rally on", "relation": "causal-driver", "sentiment_alignment": 0.8}

@@ -1,0 +1,22 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+LONDON (AP) â Twitter failed to provide a full report to the European Union on itsÂ efforts to combat online disinformation, drawing a rebuke Thursday from top officials of the 27-nation bloc.
+The company signed on to the EU’s voluntary 2022 Code of Practice on Disinformation last year â before billionaire Tesla CEOÂ Elon Musk bought the social media platform.
+All who signed on to the code, including online platforms, ad-tech companies and civil society, agreed to commit toÂ measures aimed at reducing disinformation. They filed their first âbaselineâ reports last month showing how they’re living up to their promises.
+Google, TikTok, Microsoft as well as Facebook and Instagram parent Meta showed âstrong commitment to the reporting,â providing unprecedented detail about how they’re putting into action their pledges to fight false information, according to the European Commission, the EU’s executive arm. Twitter, however, âprovided little specific information and no targeted data," it said.
+âI am disappointed to see that Twitter report lags behind others and I expect a more serious commitment to their obligations stemming from the Code,â Vera Jourova, the commission’s executive vice president for values and transparency, said in a statement. âÂ Russia is engaged also in a full-blown disinformation warÂ and the platforms need to live up to their responsibilities.â
+In its baseline report, Twitter said it’s “making real advancements across the board” at fighting disinformation. The document came in at 79 pages, at least half the length of those filed by Google, Meta, Microsoft and TikTok.
+Twitter did not respond to a request for further comment. The social media companyâs press office was shut down and its communications team laid off after Musk bought it last year. Others whoseÂ job it was to keep harmful information offÂ the platform have been laid off or quit.
+EU leaders have grown alarmed about fake information thriving on online platforms, especially about the COVID-19 pandemic and Russian propaganda amid the war in Ukraine. Last year, the code was strengthened by connecting it with theÂ upcoming Digital Services Act, new rules aimed at getting Big Tech companies to clean up their platforms or face big fines.
+But there are concerns about what shows up on Twitter after Musk ended enforcement of itsÂ policy against COVID-19 misinformationÂ and other moves such asÂ dissolving its Trust and Safety CouncilÂ that advised on problems like hate speech and other harmful content.
+An EU evaluation done last spring before Musk bought Twitter and released in November foundÂ the platform took longer to review hateful contentÂ and removed less of it in 2022 compared with the previous year. Most other tech companies signed up to the voluntary code also scored worse.
+Those signed up to the EU code have to fill out a checklist to measure their work on fighting disinformation, covering efforts to prevent fake news purveyors from benefiting from advertising revenue; the number of political ads labeled or rejected; examples of manipulative behavior such as fake accounts; and information on the impact of fact-checking.
+Twitterâs report was âshort of data, with no information on commitments to empower the fact-checking community,â the commission said.
+Thierry Breton, the commissioner overseeing digital policy, said it’s âno surprise that the degree of qualityâ in the reports varies greatly, without mentioning Twitter.
+The commission highlighted other tech companies’ actions for praise. Google’s report indicated that it prevented more than 13 million euros ($14 million) of advertising revenue from reaching disinformation actors, while TikTok’s report said it removed more than 800,000 fake accounts.
+Meta said in its filing that it applied 28 million fact-checking labels on Facebook and 1.7 million on Instagram. Data indicated that a quarter of Facebook users and 38% of Instagram users don’t forward posts after seeing warnings that the content has been flagged as false by fact-checkers.
+__
+By KELVIN CHAN AP Business Writer
+Subscribe to our free newsletters
+Our weekly newsletter Closing Arguments offers the latest about ongoing trials, major litigation and rulings in courthouses around the U.S. and the world, while the monthly Under the Lights dishes the legal dirt from Hollywood, sports, Big Tech and the arts.

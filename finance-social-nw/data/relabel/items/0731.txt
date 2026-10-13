@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Kenya has reiterated plans to enhance its investment plans in the Information Communication and Technology (ICT) sector further for accelerated national development.
+As part of the plans, the government is pursuing strategic plans to set up more than 1,400 ICT hubs at Constituency and ward levels countrywide, among other projects.
+Speaking when he toured and officially opened data annotation solutions provider Sama Kenya EPZ Delivery Centre in Nairobi, President William Ruto, accompanied by visiting Ethiopian Prime Minister Abiy Ahmed, said the government’s strategy is part of an effort to accelerate entrenchment of a skills-based economy. Sama is a global leader in data annotation solutions for computer vision that power artificial intelligence (AI) and machine learning (ML) models serving leading global corporations from Nairobi.
+“Our intentional investment in ICT infrastructure will ensure that we turn Kenya into a skills-based economy.”
+“With the government’s bias on new and specialised domains, the youth will stay current with emerging industry demands, guaranteeing them income,” said Ruto.
+With a state-of-the-art delivery centre in Nairobi’s Sameer Industrial Park and employing more than 3,000 staffers, Sama is a global leader in data annotation solutions for computer vision that power Artificial Intelligence (AI) and Machine Learning (ML) models.
+On her part, Sama Chief Executive Officer Ms Wendy Gonzalez confirmed plans to enhance its Business Process Outsourcing (BPO) investments in the East and Horn of Africa region to further position the region as an Artificial Intelligence (AI) value chain investment destination.
+“Kenya has the potential to become a major player in the global BPO and AI Value chain market, and we are excited to be a part of this growth. For over a decade, we have provided individuals who are most likely to be excluded from formal sector jobs with quality work and skills transfer opportunities,” Gonzalez said.
+Over 25 percent of Fortune 50 companies, including Google, NVIDIA, General Motors, Walmart, Ford, Microsoft, eBay, Ford, and Glassdoor, trust Sama to help them deliver industry-leading machine learning models.
+Email your news TIPS to Editor@Kahawatungu.com — this is our only official communication channel

@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Instagram users are being warned to ignore legitimate-looking emails sent from the social media platform, but have turned out to be fraudulent.
+Subscribe now for unlimited access.
+or signup to continue reading
+The fake security alerts were sent from Instagram's own security email account by an "external party" in recent weeks, warning users someone is trying to reset their account's password. Some account-holders have reported receiving multiple emails in recent days.
+Instagram reaches about 15.2 million Australians each year and about 15 per cent of global users are over 45, with one expert warning hackers have been "piggybacking on Instagram's real infrastructure".
+A spokesperson for Meta confirmed the external party had gained access to Instagram's systems allowing them to send emails to users. It is unclear how many users have been affected.
+What does the fake email say?
+"We got a request to reset your Instagram password," the email, sent from a legitimate Instagram security email account, says. 
+A button then prompts the user to "Reset password". The email then tells users their password will not be changed if they ignore the email.
+A spokesperson for Meta told ACM the company had fixed an issue which had previously allowed an external party to send password reset emails to users.
+"We fixed an issue that allowed an external party to request password reset emails for some Instagram users," a Meta spokesperson said.
+"We want to reassure everyone there was no breach of our systems and people's Instagram accounts remain secure. 
+"People can disregard these emails and we apologise for any confusion this may have caused."
+The US-based social media company did not respond to queries about how many users had received the emails, or what action users who clicked links should take.
+Older Australians are particularly vulnerable to cyber security attacks, with a 2025 Scamwatch report finding more than four in five people over 50 (84 per cent) have encountered or been victims of a scam, and one in five had been scammed out of money.
+Greg Caleo, co-founder of cyber security training and awareness platform Cybermate told ACM anyone who clicked a link in these emails may be at risk, and hackers have been "piggybacking on Instagram's real infrastructure".
+"Nefarious type people have been able to work out a way to send a legitimate password reset email, and may have apps associated with that to copy your credentials when you actually do [change your password].
+"I'm surprised Meta hasn't done a formal announcement highlighting this issue to the general public," he said.
+Anyone who had received the email should take steps to ensure their account remained secure, including reporting the email to Instagram, using the Instagram app to check their login history for suspicious activity, and turning on two-factor authentication for all logins, he said.
+As spams continue to become increasingly sophisticated, Mr Caleo, who is soon launching a cyber security program catering to older Australians, said people should generally steer clear of clicking any links in emails, unless they come from a personal account from somebody you know.
+"I just don't think people can trust links in emails anymore," he said.
+"I think if you're getting an email from a Google, Microsoft, social media account, or any organisation that you may have an account with, but you don't know them personally, I wouldn't trust any links in an email."
+Stacey Edmonds, founder of cyber security game Dodgy or Not, also urged users to check in on their security settings, stressing that managing your online security was easy to do yourself.
+Instagram users can access their settings by visiting their profile and clicking the "three horizontal lines" in the top right-hand corner, and typing "password and security" into the search bar.
+"Check your password, check your email address, add your mobile number and set up two-factor authentication," she said.
+A section in this security area of the app, "Recent emails", also catalogues any emails sent to you by Instagram. If you suspect an email from the app is not legitimate, you can check communications sent to you by Instagram in this section.

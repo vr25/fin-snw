@@ -1,0 +1,12 @@
+{"id":"0965","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Multifaith alliance of global religious","relation":"co-hype","sentiment_alignment":0.8}
+{"id":"1344","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"By WILL WEISSERT, Associated Press","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"2152","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"ChatGPT Will Command More Than","relation":"causal-driver","sentiment_alignment":0.6}
+{"id":"2038","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Updated April 29, 2026 at","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1555","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"AI experts warn that China","relation":"co-hype","sentiment_alignment":0.5}
+{"id":"1037","ticker_a":"AMD","ticker_b":"NVDA","first_words":"TORONTO — Canada's main stock","relation":"co-hype","sentiment_alignment":0.9}
+{"id":"0135","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Nvidia Corp Chief Executive Jensen","relation":"causal-driver","sentiment_alignment":0.9}
+{"id":"2033","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"SAN FRANCISCO (AP) — Microsoft","relation":"substitute-comparison","sentiment_alignment":0.0}
+{"id":"1424","ticker_a":"GOOGL","ticker_b":"META","first_words":"AGB Allgemeine Geschäftsbedingungen der Firma","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0801","ticker_a":"GOOGL","ticker_b":"META","first_words":"Dynasty Warriors M adds bountiful","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0720","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Robert Besser 22 Feb 2024,","relation":"substitute-comparison","sentiment_alignment":0.5}
+{"id":"0286","ticker_a":"META","ticker_b":"NVDA","first_words":"The US is officially in","relation":"co-hype","sentiment_alignment":0.8}

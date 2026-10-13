@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Apple expands AI horizons, acquires DarwinAI: Know more
+Apple has acquired Canada-based DarwinAI for device AI to further its AI game.
+Apple had reportedly made this purchase a couple of months back.
+Apple could announce several AI-powered devices and services most probably at the WWDC.
+Most of the leading tech companies have jumped on board with the AI trend, with everyone trying to come up with something better than the other. But for a while, Apple has shied away from jumping on the trend. But now it seems that Apple has decided to go with the “better late than never” formula and has started to give its due attention. News on the block is that Apple has acquired Canada-based DarwinAI for device AI to further its AI game. Read along as I share what’s happening.
+To get at par with its competitors, Apple has started to go hard on its AI plans. It has acquired Darwin AI, which is a Canadian AI startup with a focus on making AI systems smaller and faster. A Bloomberg report revealed that Apple had made this purchase a couple of months back. It further revealed that some employees from DarwinAI have already joined Apple’s AI division. Further, it revealed that even Alexander Wong, who is an AI researcher at the University of Waterloo and was a part of building DarwinAI, has come on board as a director.
+Also read: Apple’s car was about to change the way you drive, literally!
+Now, the move seems in line as Apple is possibly trying to run its AI on devices rather than just sticking to the cloud. DarwinAI can help it with that as it focuses on AI technology for manufacturing and supply chain uses. This is potentially the next step that Apple might take as Google and Microsoft both have AI models that run on cloud devices, such as smartphones and laptops.
+We expect that Apple will soon announce several AI-powered devices and services, most probably at the WWDC this June. We could get an upgraded Siri, AI features in Messages, Apple Music, and some more stuff. Let’s wait and watch.
+Mustafa is a young tech journalist who tells it like it is, cutting through buzzwords to deliver straightforward smartphone reviews. He’s the office go-to for insider tips and quick demos, and his video content doesn’t waste anyone’s time. When he’s off the clock, he geeks out over cars, photography, and hunting down the best spot for Indian food. View Full Profile

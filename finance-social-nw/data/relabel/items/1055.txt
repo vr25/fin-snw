@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Artificial intelligence (AI) technology arrived in the spotlight last year, lifting the stock market to new heights. It's fair to debate the short-term impact of AI and whether the market is expecting too much right now, but it seems clear that AI will change the world over the coming decades. However, like the internet bubble in the early 2000s, not every AI stock will be a long-term winner.
+That said, there are some early favorites: companies with world-class business models that own the three most critical aspects of AI technology:
+- The finances to invest in AI's computing requirements.
+- Data to train AI models on.
+- A means to distribute AI technology to the world.
+Two companies appear to meet all three criteria. Consider buying them and watching your portfolio grow over the coming decades.
+1. Meta Platforms
+It seems odd at first that a social media company would be argued to be the potential big winner in artificial intelligence. Yet Meta Platforms (META -3.33%) seems to have the pole position in this AI arms race.
+It starts with Meta's core social media business, which is perfect for distributing AI products. Meta has made its AI model Llama available to the over 3.2 billion people who log into Facebook, Instagram, and WhatsApp daily. Plus, Meta has very little competition. Sure, there is TikTok, but the app has ties to the Chinese government. Meanwhile, Elon Musk privately owns X (formerly Twitter), which lacks the financial resources to compete with Meta.
+Co-founder Mark Zuckerberg still leads Meta and has fully leaned into artificial intelligence. The company spends billions of dollars annually on AI research, data centers, and GPU chips.
+Meta has the financial means to achieve its goals; its core advertising business is highly profitable. Meta generates $150 billion in annual revenue and $50 billion in free cash flow. Remember that free cash flow is what's left after Meta pours billions of dollars into AI investments.
+NASDAQ: META
+Key Data Points
+However, Meta's primary advantage in the AI race is its first-party data. You may not realize it, but social media apps track almost everything you do on your smart devices. Meta uses this data to serve you the ideal ad, but it's also precious to its AI efforts because AI models must train on massive data streams that not many companies have. People have criticized companies like OpenAI for scraping data from across the internet, but Meta doesn't have that problem.
+Put it all together: AI needs massive investments in robust computing hardware, rich data for model training, and a way to distribute the technology to users. Many companies have one or two pieces of this, but Meta owns the entire stack. This almost ensures that Meta is a meaningful player in AI as the industry matures over the coming decades.
+2. Alphabet
+Internet search giant Alphabet (GOOGL +0.46%) (GOOG +0.61%) is the other company that jumps out. Alphabet dominates internet search instead of social media. Alphabet owns the Google search engine, which conducts more than 90% of the world's internet searches. Additionally, it owns the video platform YouTube, arguably the world's dominant video-based search engine and the second-most trafficked website behind Google. It's an ideal distribution for Alphabet's Bard AI model, which the company has already woven into its various Google products.
+Alphabet also has the financial means and willpower to invest in AI. At its core, Alphabet is an advertising company; it generates more than $328 billion in annual revenue and $60 billion in free cash flow. Again, that's $60 billion after management has invested billions into building data centers and other AI resources. Management has also emphasized in earnings calls that Alphabet sees AI as a key to competing over the long term and is committed to building its AI capabilities.
+NASDAQ: GOOGL
+Key Data Points
+And yes, Alphabet has a treasure trove of first-party user data based on the countless internet searches the world has conducted during the two decades Alphabet has dominated search. People use Google and YouTube to search for what they like, what interests them, and what they are curious about. Having the best data can help create the most intelligent AI.
+Alphabet is so powerful that the government sued the company for anticompetitive practices and won. Alphabet's penalties could range from fines to splitting up its business. That can sound scary, but investors shouldn't panic or necessarily avoid owning the stock because of it.
+Investors can confidently buy and hold both stocks today.
+Nobody likes overpaying for a stock, even if a decades-long holding period makes valuations less relevant. Fortunately, both stocks trade at reasonable valuations for their expected growth:
+Their respective PEG ratios (1.4 for META and 1.2 for Alphabet) should give investors confidence in accumulating shares and a good sense of their long-term prospects.

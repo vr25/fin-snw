@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+MIT spinout Commonwealth Fusion Systems (CFS) has raised more than $1 billion, Axios Pro reports.
+The investment in the company, which hopes to build functioning 400MW fusion reactors in less than a decade, was led by an unnamed hyperscale developer.
+While it is not known which company led the round, both Microsoft and Google have previously invested in the business. Microsoft is also CFS' cloud provider.
+Late last year, CFS said that it planned to build 'ARC,' a grid-scale fusion power plant in Chesterfield County, Virginia, for the early 2030s. It hopes to have a smaller test system, 'SPARC,' by 2027.
+In March, the company said that it had successfully installed the cryostat base, essentially the foundation of what will form the tokamak reactor.
+Currently, no company or state has managed to build a fusion reactor that has achieved net power, although Lawrence Livermore researchers have achieved net energy gains in a fusion ignition breakthrough.
+With timelines unknown, and vast capital investments required, fusion investments remain a challenge. This month, the UK's First Light Fusion saw its value slashed by 60 percent as it abandoned plans for a prototype power plant due to funding challenges.
+The CEO of Canada's General Fusion similarly said that he was forced to lay off workers as investments dried up, with about a quarter of staff thought to have been let go.
+"Today’s funding landscape is more challenging than ever as investors and governments navigate a rapidly shifting and uncertain political and market climate," CEO Greg Twinney said.
+"Keeping a fusion company funded in today’s world requires more than just meaningful capital. It takes ambition, steadfast patience, a bold national vision aligned with the opportunity, and constant refreshing of the investor base as timelines stretch beyond typical fund horizons."
+Some companies have managed to raise funds despite the broader challenges. Alongside CFS' raise, Realta Fusion this month raised $36 million in a round led by Future Ventures to start building its own Anvil prototype.

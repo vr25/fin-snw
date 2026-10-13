@@ -1,0 +1,27 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+NEW YORK – The U.S. stock market drifted through a mixed day of trading Tuesday after reports on the economy did little to clear uncertainty about where interest rates may be heading.
+The S&P 500 slipped 0.2% and remains a bit below its all-time high set last week. The Dow Jones Industrial Average dipped 302 points, or 0.6%, and the Nasdaq composite rose 0.2%.
+Recommended Videos
+Treasury yields eased in the bond market after one report said the U.S. unemployment rate was at its worst level since 2021, but employers also added more jobs last month than economists expected. A separate report, meanwhile, said an underlying measure of strength for revenue at U.S. retailers grew more in October than economists expected.
+The mixed data meant little change in traders’ hopes that the Federal Reserve may continue to cut interest rates further in 2026. What the Fed does with interest rates is a top driver for financial markets because lower rates can boost the economy and prices for investments, even if they also may worsen inflation.
+A report coming on Thursday will show how bad inflation was last month, and economists expect it to show prices for U.S. consumers continue to rise faster than anyone would like.
+A report released on Tuesday after U.S. stocks began trading suggested price pressures are rising sharply, with average selling prices for businesses climbing at one of the fastest rates since the middle of 2022. The preliminary data from S&P Global also said growth for overall business activity slowed to its weakest level since June.
+“Higher prices are again being widely blamed on tariffs, with an initial impact on manufacturing now increasingly spilling over to services to broaden the affordability problem,” according to Chris Williamson, chief business economist at S&P Global Market Intelligence.
+On Wall Street, the sharpest losses came from companies in the oil business as prices for crude kept sliding.
+Expectations that companies are pumping more than enough oil to meet the world’s demand have sent the price for a barrel of benchmark U.S. crude to its lowest level since 2021. It fell 2.7% Monday, as did Brent crude, the international standard. U.S. crude settled at $55.27 per barrel, while Brent settled at $58.92.
+That drove APA’s stock down 5.2%. Marathon Petroleum sank 4.7% and Halliburton dropped 4.3% for some of Wall Street’s larger losses.
+Artificial-intelligence technology stocks, meanwhile, were mixed after dominating the market in recent days.
+Oracle rose 2%, and Broadcom added 0.4%. They both had dropped to sharp losses last week, even though both reported stronger profits for the latest quarter than analysts expected.
+But CoreWeave, which rents out access to top-of-the-line AI chips, fell 3.9%.
+Questions remain about whether all the spending underway on AI technology will produce the kind of profits and productivity that will make it worth the expense.
+Elsewhere on Wall Street, Pfizer fell 3.4% after giving a forecast for profit in 2026 that was below what some analysts expected. Its forecast for revenue next year was close to analysts’ expectations.
+Kraft Heinz added 0.7% after saying Steve Cahillane, who was most recently CEO of Kellanova, will join as CEO on Jan. 1. After Kraft Heinz splits into two companies, which is expected to happen in the second half of 2026, Cahillane will lead the one that will hold onto the Heinz, Philadelphia and Kraft Mac & Cheese brands.
+All told, the S&P 500 fell 16.25 points to 6,800.26. The Dow Jones Industrial Average dropped 302.30 to 48,114.26, and the Nasdaq composite rose 54.05 to 23,111.46.
+In stock markets abroad, indexes fell across much of Europe and Asia.
+Japan’s Nikkei 225 dropped 1.6% ahead of an expected hike to interest rates by the Bank of Japan later this week.
+Other markets in Asia also had some of the world’s sharper swings. South Korea’s Kospi dropped 2.2%, while indexes fell 1.5% in Hong Kong and 1.1% in Shanghai.
+In the bond market, the yield on the 10-year Treasury fell to 4.14% from 4.18% late Monday.
+___
+AP Business Writers Matt Ott and Elaine Kurtenbach contributed.

@@ -1,0 +1,19 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+- Meta continued its rally on Friday, rising 2.4% and closing at a record after a court upheld a law requiring ByteDance to sell its U.S. TikTok business.
+- The Facebook parent is now up 77% this year after almost tripling in 2023.
+- Amazon also closed at a record, as did the broader Nasdaq Composite.
+Meta shares continued their extended rally on Friday, rising 2.4% and closing at a record after a federal appeals court upheld a law requiring China's ByteDance to sell TikTok or face an effective U.S. ban.
+Stream Los Angeles News for free, 24/7, wherever you are.
+The Facebook parent has climbed 77% this year after almost tripling in 2023, pushing Meta's market cap close to $1.6 trillion.
+Alongside Meta, Amazon also closed at an all-time high on Friday and is up 49% this year. Apple slid slightly from its high on Thursday. The hefty gains this year among tech's megacaps helped lift the Nasdaq to a record. The index rose 0.8% on Friday and has gained 32% in 2024.
+Meta CEO Mark Zuckerberg joined president-elect Donald Trump at his Mar-a-Lago resort in Florida last week for a dinner, where he demonstrated the company's camera-equipped Ray-Ban specs, Fox News first reported. Zuckerberg, who has been the subject of frequent verbal attacks by the incoming president, is apparently seeking an active role working with the Trump administration.
+TikTok is one of Meta's biggest rivals and has soared in popularity in recent years, particularly with younger audiences, and now has about 170 million users in the U.S. In April, President Joe Biden signed a law that would require ByteDance to divest the app, or companies such as Apple and Google as well as internet hosting providers would have to stop supporting it.
+The unanimous ruling on Friday by a three-judge panel of the U.S. Court of Appeals in Washington, D.C., rejected TikTok's argument that the law is unconstitutional and violates the First Amendment rights of its users. TikTok said later Friday that it will ask the U.S. Supreme Court to overturn the appeals court decision.
+"The Supreme Court has an established historical record of protecting Americans' right to free speech, and we expect they will do just that on this important constitutional issue," a TikTok spokesperson said in an email.
+Meta's rally began in late 2022 and picked up steam early last year after Zuckerberg declared 2023 the "year of efficiency." The company slashed about 21,000 jobs and rebuilt its advertising systems with the help of new advancements in artificial intelligence.
+In its third-quarter earnings release, Meta reported a 19% increase in year-over-year revenue while warning of a significant acceleration in its infrastructure expenses in 2025. The company reported 3.29 billion "daily active people" for the third quarter, up just 5% year over year.
+Zuckerberg has been talking up Meta's efforts to develop new AI products and services, which will require spending billions of dollars on Nvidia graphics processing units and the energy to run them. Meta has been building out data centers to shore up the technology infrastructure needed for its AI strategy.
+Posting on the Threads app on Friday, Zuckerberg said Meta AI "now has nearly 600 million monthly actives," and will soon release version 3.3 of its Llama open-source large language model. Zuckerberg did not say how Meta counts a "monthly active" user for its AI technology.
+WATCH: Meta is leading the race to monetize generative AI, says Morgan Stanley analyst

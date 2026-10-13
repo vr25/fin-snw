@@ -1,0 +1,40 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Zack's Kernel News
+Zack's Kernel News
+Zack Brown reports on securing security patches, breezing through security patches, and no bug like a hardware bug.
+Securing Security Patches
+Ironically, Kees Cook submitted some security patches to Linus Torvalds for the Linux kernel, but he didn't take the proper security precautions to verify his own identity. Linus took one look at the patches and said, "Wait, what? This is not the key you usually use, and it isn't the one that is in the k.org pgp key repository. The patches look fine, but no, I'm not pulling hardening patches without proper signing…."
+It's standard practice for kernel contributors to sign their patches with a PGP key to create a "chain of custody" that clearly identifies who wrote which patch. This chain of custody is important in case there are any questions about copyright and licensing violations. It also prevents hostile actors masquerading as friendly developers from slipping some malicious code into the kernel source tree.
+In recent days, the importance of this practice has become underscored because some prominent open source code has been found to be infected with malicious patches. While the damage in that case seems to have been mitigated, the security of all open source software does depend on the vigilance of the people maintaining those projects, including the Linux kernel.
+[...]
+Buy this article as PDF
+(incl. VAT)
+Buy Linux Magazine
+Subscribe to our Linux Newsletters
+Find Linux and Open Source Jobs
+Subscribe to our ADMIN Newsletters
+    Support Our Work
+Linux Magazine content is made possible with support from readers like you. Please consider contributing when you’ve found an article to be beneficial.
+News
+- 
+		    					    		    KDE for People Initiative Calls for AI Ban in PlasmaA new community of KDE wants the project to adopt a strict no-AI policy for KDE Plasma.
+- 
+		    					    		    KDE Sets Ambitious Goals for 2026 and BeyondKDE Connect reveals the goals for the Linux desktop darling, with one of those goals long overdue.
+- 
+		    					    		    It’s Time to Test Fedora 45 BetaFedora 45 beta has been released with updated Gnome, KDE Plasma, and kernel.
+- 
+		    					    		    Ubuntu Stonking Stingray Gets Even RustierUbuntu 26.10 has completed its migration to the Rust-based coreutils.
+- 
+		    					    		    AI Fixes Linux Bottlenecks Using “Hideous” CodeA Linux developer used AI to fix bottlenecks that caused problems when building the kernel. The resulting AI-generated code needed a lot of work.
+- 
+		    					    		    Advanced Video Coding Still Under PatentBrazilian patent BRPI0109962B1 has expired, which means that DivX and Xvid are no longer problematic for Linux, but it doesn’t mean that video is all of a sudden fully unleashed.
+- 
+		    					    		    2,000 Vulnerabilities per Linux ReleaseThanks to AI bug hunters, the Linux kernel is seeing record numbers of vulnerabilities, and it's overwhelming developers.
+- 
+		    					    		    Linux Exempt from California’s Age Verification LawSo long as Linux is distributed under the GPL, MIT, BSD, and Apache licenses, the OS is exempt from being required to verify the age of its users in California.
+- 
+		    					    		    Roll Out the Cake: Linux Turns 3535 years ago, a Finnish student began a humble project that would forever change the course of technology.
+- 
+		    					    		    China Switching from Windows to LinuxChina has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS.

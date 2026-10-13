@@ -1,0 +1,112 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors don’t seem to care
+The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era. At the same time, more AI researchers, including one whistleblower on Microsoft — as well as the public — are getting more worried about continuing issues with misinformation, toxic content, bias and privacy.
+Keep your popcorn handy.
+Still, investors aren’t blinking, plowing ever more money into a raft of AI software and hardware companies — especially those making new kinds of chips claiming to be way more efficient than Nvidia’s graphics processing units.
+Meantime, CrowdStrike is looking to pull away in the race to become the prime cybersecurity platform, but it still has Palo Alto Networks to contend with, with potential dark horses such as Cisco Systems.
+This and other news are topics of discussion in another early installment of John Furrier’s and Dave Vellante’s theCUBE Pod, available on YouTube. And catch Vellante’s weekly deep tech dive, Breaking Analysis, coming out this weekend. It will focus on how CrowdStrike is breaking away from the cybersecurity pack.
+Next Tuesday, March 12, don’t miss Supercloud 6: AI Innovators, a series of interviews with top people creating and using AI in innovative ways, including CalypsoAI CEO Neil Serebryany, SingleStore CEO Raj Verma, Rockset CEO Venkat Venkataramani, WhyLabs CEO Alessya Visnjic, Multiverse Computing CEO Enrique Lizaso-Olmos and many others from Databricks, Uber, Walmart, Domino Data Lab and more. Register here for the free live virtual event.
+Here’s a sampling of this week’s enterprise news:
+Rising challenges don’t stop AI investors
+ICYMI: Tony Baer’s two-part dissection of generative AI’s challenges (mainly it’s crazy expensive) and its potential (hint: it’s not all about those huge models):
+Is that giant sucking sound generative AI?
+How will generative AI pay off?
+The Elon Musk-OpenAI pissing match continues: OpenAI hits back at Elon Musk, saying he supported its for-profit ambitions And speaking of OpenAI, CEO Sam Altman is back on the board after an “independent” investigation revealed on Friday that he shouldn’t have been fired as CEO either.
+Not a great sign, even if there’s a lot of misleading politics involved here on all sides: Public trust in AI is sinking (from Edelman)
+And perhaps no wonder, since a lot of people are raising concerns: Microsoft engineer flags Copilot Designer concerns as academics call for better AI risk research and UNESCO finds ‘pervasive’ gender bias in generative AI tools (from CIO.com)
+Especially since the models are getting even more capable, making guardrails more critical sooner than later: Anthropic debuts Claude 3 model series with ‘near-human’ capabilities in some areas
+Even spookier, though — let’s get real — this is most certainly not any kind of self-awareness, let alone AGI: Claude seemed to know it was being tested
+Meantime, investors continue to throw more money into AI:
+Report: Chinese AI startup MiniMax raises $600M at $2.5B valuation led by Alibaba
+AI search startup Perplexity set to double valuation to $1B (from the WSJ)
+So many intriguing AI chip designs coming out. Nvidia’s in no immediate danger, but soon there will be a lot of other choices: Taalas raises $50M to develop chips optimized for specific AI models and Startup says its CPU design cuts power consumption over 99%
+Multiverse Computing raises €25M to deliver more efficient LLMs using quantum-inspired algorithms
+Baseten nabs $40M for its cloud-based AI inference platform
+AI startup Haiper raises $13.8M and releases video creation foundation model
+Brevian launches with $9M in funding to simplify AI agent development
+Viavi to acquire Spirent Communications for $1.3B to drive 5G, AI (from CRN)
+And new gen AI features keep multiplying:
+OpenAI’s ChatGPT gets a voice with new Read Aloud feature
+AI startup Hugging Face is looking into open-source robotics
+Salesforce launches Einstein 1 Studio low-code AI customization tools
+Inflection AI rolls out new large language model to its Pi chatbot
+SAP beefs up its Datasphere platform with yet more generative AI
+Dataloop Marketplace aims to streamline AI application development
+Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available
+Always seemed like prompt engineering was a transitory thing. What mere mortals really love command lines? AI prompt engineering is dead
+In the cloud and enterprise
+Like Vellante and Furrier have been predicting (and cloud providers such as AWS have hinted), a second-half cloud spending boost from AI could be coming: Global cloud spending is set to surge by 20% in 2024 as enterprises ramp up migration plans and capitalize on generative AI, says Canalys
+Paul Gillin gets the lowdown from Rajiv Ramaswami on the aftermath of Broadcom’s VMware acquisition: Nutanix CEO sees opportunity in VMware’s turmoil
+Earnings ups and downs
+Broadcom beats analysts’ targets, but its stock cools on lower guidance
+MongoDB’s soft guidance prompts after-hours stock selloff
+GitLab issues soft guidance and its stock tanks after-hours
+CrowdStrike caps earnings surge and stock rises 24%, as it buys Flow Security
+HashiCorp reports earnings beat but issues weak outlook
+Box delivers over $1B in annual revenue as AI momentum accelerates, sending its stock higher
+Couchbase’s revenue grows 20% and its stock rises in extended trading
+Investors rally behind DocuSign after company exceeds earnings and revenue expectations
+IoT asset tracking provider Samsara reports big jump in revenue, and its stock jumps too
+In other enterprise and cloud news
+Clouds and nukes: Amazon to pay up to $650M for nuclear data center campus (from The Information)
+IPO glimmerings: Cloud chip supplier Astera Labs seeking to raise up to $534M in IPO
+Cloudflare acquires Nefeli Networks and launches multicloud networking service
+HPE optimizes GreenLake for File Storage to support more scalable AI workloads
+HP debuts next generation of ‘AI PCs’ plus new partner programs and services
+Accenture acquires Udacity and introduces new technology training service
+Ubicloud reels in $16M for its open-source cloud platform
+Sumo Logic unveils Flex Licensing plan for unlimited log data analysis
+Analysis from Zeus Kerravala: Arista looks to become numero UNO with new Universal Network Observability offering
+Cyber beat
+CrowdStrike caps earnings surge and stock rises 24%, as it buys Flow Security
+Microsoft says Russian-sponsored group Midnight Blizzard attempted another breach of its systems
+Report: Hackers used Ivanti vulnerabilities to breach two CISA systems
+Lots of new funding rounds:
+Cybersecurity management platform startup Axonius raises $200M
+Claroty secures $100M to enhance cyber-physical system security
+Blockchain-focused cryptography startup Zama raises $73M to protect data in use
+Alphabet’s CapitalG backs DTEX Systems with $50M to strengthen insider threat protection
+Networking and cybersecurity startup Todyl raises $50M for all-in-one modular platform
+Israeli startup Sweet Security raises $33M to strengthen cloud security operations
+Reach Security raises $20M to enhance AI-driven cybersecurity tools
+And new offerings:
+Cloudflare announces new defensive AI products for protecting LLMs and companies from attack
+Cycode expands its security offerings with acquisition of DevOps startup Bearer
+New open-source tool CloudGrappler aims to strengthen AWS and Azure security
+Google-backed GUAC cybersecurity tool becomes an OpenSSF project
+IBM launches new cyber range in Washington DC to bolster federal cybersecurity
+NetApp bulks up ransomware protection for AI workloads
+Sentra introduces LLM assistant for cloud data security and efficient incident response
+Akamai’s latest update bolsters Layer 7 attack defense with machine learning
+Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services
+Elsewhere around tech
+Policy watch
+EU fines Apple €1.84B over App Store’s anti-steering rules
+Google details changes for compliance with EU’s Digital Markets Act
+Apple releases iOS 17.4, bringing alternative marketplaces for the EU and other upgrades to iPhone
+Bipartisan bill could see TikTok banned in US if it doesn’t split with China
+Former Google engineer charged with stealing AI trade secrets for Chinese startups
+Meta recovering from outage that took Facebook, Instagram and Threads offline
+Former Twitter executives sue Elon Musk over severance payments
+Comings and goings
+More management shuffles at Cisco: Liz Centoni, executive vice president and general manager of applications and chief strategy officer, will become EVP and chief customer experience officer. Chief Transformation Officer Thimaya Subaiya moves to EVP of operations. Mark Patterson, chief of staff to CEO Chuck Robbins, becomes EVP and chief strategy officer. Alistair Wildman, SVP of global customer experiences and services, will be an adviser to Centoni before leaving at an unspecified date.
+Couchbase hired Julie Irish from New Relic as its SVP and chief information officer, a new role at the database company.
+Thomas Zacharia, former head of the Oak Ridge National Laboratory, has joined AMD as senior vice president of strategic technology partnerships and public policy.
+Former Magic Leap CEO Peggy Johnson joined Agility Robotics as CEO.
+Delivery management software firm Onfleet appointed Kjell Hedstrom chief technology officer.
+What’s next
+March 12: Tune into Supercloud 6: AI Innovators, presented free online by SiliconANGLE, theCUBE and theCUBE Research. This one features interviews with innovative startups and established companies alike, including Databricks, Zscaler, Walmart, Uber, Multiverse Computing, CalypsoAI and more, in conversation with analysts John Furrier, Dave Vellante, Rob Strechay and George Gilbert. Register here.
+Next week, a smattering of earnings, led by Oracle, UiPath and Foxconn:
+Monday, March 11: Oracle and Asana
+Wednesday, March 13: UiPath and SentinelOne
+Thursday, March 14: Adobe, PagerDuty, Foxconn and Smartsheet
+Image: SiliconANGLE/Microsoft Image Creator
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

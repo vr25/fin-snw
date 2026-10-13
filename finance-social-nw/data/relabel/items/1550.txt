@@ -1,0 +1,14 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Stocks rise on Wall Street and hold on to weekly gains
+Stocks rose in morning trading on Wall Street Friday, keeping the market on track for its third weekly gain in the last four.
+The S&P 500 was up 0.6% and sitting just below its record. The benchmark index is on track to recover most of its losses from a slide last week.
+The Dow Jones Industrial Average rose 188 points, or 0.4%, as of 9:57 a.m. Eastern. The Nasdaq added 0.6% to the all-time high it set a day earlier.
+Gilead Sciences jumped 8.4% for one of the biggest gains on the market. It reported financial results that easily beat analysts' forecasts, while also raising its earnings forecast for the year.
+Expedia Group also notched one of the biggest gains, advancing 6.6% after also reporting encouraging financial results.
+Technology companies, with their hefty stock values, were doing much of the heavy lifting for the market. Nvidia rose 0.8% and Microsoft rose 0.6%.
+The main focus throughout the week has been on President Donald Trump's trade war and its potential impact on the U.S. economy, as well as the Federal Reserve's interest rate policy.
+Trump began imposing higher import taxes on dozens of countries Thursday. The unknown path of the economy amid an unpredictable tariff policy has been the key reason for the Fed to hold its benchmark interest steady.
+Treasury yields edged higher. The yield on the 10-year Treasury rose to 4.28% from 4.25% late Thursday. The yield on the two-year Treasury which more closely tracks expectations for Fed actions, rose to 3.76% from 3.73% late Thursday.
+Asian markets closed mostly lower except in Tokyo, where the Nikkei rose 1.9%. European markets were mixed.

@@ -1,0 +1,30 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+S&P 500 closes at new record high
+Last updated: 16:15 07 Feb 2024 EST, First published: 06:52 07 Feb 2024 EST
+4:10pm: S&P ends with another record
+All three major US indices ended the day firmly in positive territory.
+At the close, the S&P 500 had reached a new record high of 4,995 points, which was a 0.8% gain on the day.
+Meanwhile, the Dow had added 156 points at 38,677 for a 0.4% gain and the Nasdaq finished nearly 1% higher at 15,757.
+12:00pm: S&P hits new high with 5,000 mark on the horizon
+Stocks in New York continued to power ahead as a broadly positive earnings season and strong economic data reassured investors about the health of the economy.
+At noon, the Dow Jones Industrial Average was up 0.4% at 38,660.00, the S&P 500 was up 0.7% at 4,987.72 and the Nasdaq Composite was up 0.7% at 15,724.99.
+“The market continues to climb the wall of worry, including shifting Fed expectations, geopolitical tension, and overbought market conditions,” said Mark Hackett at Nationwide told Bloomberg.
+“We are entering a sluggish seasonal period, but the market has strong momentum.”
+Tech issues were especially with gains in Nvidia, Microsoft, AMD and Amazon.
+The markets seems to have accepted that rates will stay higher, for longer once more and shrugged aside comments from two Fed officials that a slowdown in the labour market and/or demand would be needed to get inflation to its 2% target.
+9:45am: Stocks make bright start wth S&P 500 approaching 5,000
+Stocks made a bright start to the day with the S&P 500 creeping ever closer to the 5,000 mark.
+Shortly after the opening bell, the Dow Jones Industrial Average was up 0.4% at 38,668.65, the S&P 500 was up 0.5% at 4,977.03 and the Nasdaq Composite was up 0.4% at 15,670.64.
+Stocks on the move include Snap, down 31%, after a revenue miss and weak guidance, while car maker Ford gained 5.2% after beating Wall Street’s fourth-quarter estimates and issuing higher-than-expected full-year guidance.
+Enphase Energy jumped 17% after the solar company said its inventory glut may be approaching a bottom, boosting the solar sector, with Solaredge Technologies surging 11%.
+7:00am: Stocks seen little changed
+Stocks futures were little changed on Wednesday as investors await fresh catalysts for direction.
+In pre-market trading, futures for the Dow Jones Industrial Average were down 0.1%, while those for the S&P 500 were flat and contracts for the Nasdaq 100 futures rose 0.1%.
+Ipek Ozkardeskaya at Swissquote Bank noted on Tuesday several Fed members were “on the battlefield, fighting the doves.”
+“Loretta Mester said there is no rush to cut rates and Neel Kashkari said that the Fed hasn’t reached its inflation goal yet. The game is now being played for a May cut, with around two thirds probability attached to it,” she added.
+There will be more ‘Fedspeak’ on Wednesday.
+US Federal Reserve governors Adriana Kugler and Michelle Bowman will make separate appearances while the presidents of the Fed’s Boston and Richmond branches, Susan Collins and Thomas Barkin, will also speak.
+It’s set to be another busy day for earnings with Disney, Uber, Yum Brands, Roblox, Brookfield Asset Management (TSX:BAM.A) and Fox reporting before Wall Street’s opening bell.
+PayPal, Coty, News Corp (NASDAQ:NWSA) and Mattel will post their earnings after the market closes.

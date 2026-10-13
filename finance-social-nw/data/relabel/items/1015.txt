@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Nvidia’s Next-Generation AI Chip Rollout Slowed by Engineering Snags
+The delays are understood to impact the rollout of the company’s highly anticipated Blackwell line.
+August 6, 2024
+(Bloomberg) -- Nvidia Corporation hit engineering snags in the development of two new advanced chips, slowing the release of some products designed to extend its lead in the market for artificial intelligence computing.
+The delays affected the company’s highly anticipated Blackwell lineup, which Nvidia announced in March, according to people familiar with the situation. A version of the chip – known as an AI accelerator – is being reworked to better work with data center infrastructure designed for an earlier chip, the Hopper H100.
+That’s a relatively small segment of the market, though, said the people, who asked not to be identified because the matter is private. Separately, a product that combines a processor with a graphics chip won’t be available in large numbers as quickly as hoped because of problems with supporting technology, they said.
+The snags – first reported by the Information website – reflect the challenges of speeding up the pace of innovation at Nvidia. Chief Executive Officer Jensen Huang is introducing new chip designs and technology more rapidly, aiming to maintain an edge in AI computing. The company dominates the market for AI accelerators – an advantage that has sent its sales and market valuation soaring over the past two years.
+Nvidia declined to comment on “rumors” about the recent engineering problems. The company has said it has begun sending out samples of Blackwell to customers broadly, and demand for its Hopper generation remains strong.
+Blackwell “production is on track to ramp in the second half,” the Santa Clara, California-based company said in a statement.
+Reports about the delays contributed to a 6.4% stock decline for Nvidia on Monday, though a broader tech rout also weighed on the shares. Rival Advanced Micro Devices, meanwhile, gained 1.8% – a sign investors hope it may be able to capitalize on the problems.
+Nvidia supplies its chips to companies like Microsoft Corporation and Alphabet’s Google that are spending billions on building data centers, anticipating a surge in demand for AI services.
+While the delays may affect the flow of the components, which are manufactured by Taiwan Semiconductor Manufacturing Company, analysts have mostly taken the concerns in stride. Given the acceleration of innovation, “bumps will continue to happen,” TD Cowen analyst Matt Ramsay said in a research note.
+Read more of the latest data center hardware news
+Weekslong delays, if they materialize, probably won’t have an impact on Nvidia’s rapid revenue gains or long-term growth, he said. Much will depend, however, on how quickly Nvidia fixes the issues and gets chips to major clients.
+In May, Nvidia’s Huang said that Blackwell had reached full production and would be available to cloud-computing providers later this year. He predicted that demand would continue to exceed supply for both the new lineup and its predecessor.
+“We will see a lot of Blackwell revenue this year,” Huang said on a post-earnings conference call with analysts. The company is scheduled to give its next quarterly report on August 28.

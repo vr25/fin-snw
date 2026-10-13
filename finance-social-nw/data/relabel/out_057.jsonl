@@ -1,0 +1,20 @@
+{"id": "1140", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "AI OPINION Big AI's content", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1141", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "AI OPINION Big AI's content", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1142", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "AI OPINION Big AI's content", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1143", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "New power delivery tech", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1144", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Officials from Idaho National", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1145", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Vets Tell Pet Owner There", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1146", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "The S&P 500", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1147", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The S&P 500", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1148", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The S&P 500", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1149", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As many countries in", "relation": "co-hype", "sentiment_alignment": -0.4}
+{"id": "1150", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft's AI bots can", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1151", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "F5 BIG-IP Next for", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1152", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) could", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1153", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Note: Emailed entries only", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1154", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia has dethroned Apple", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "1155", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AI-generated child sexual abuse", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1156", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A popular bakery in", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1157", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Canadian news organizations are", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1158", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "More than half of", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1159", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "Alphabet, Google's parent company,", "relation": "unrelated-mention", "sentiment_alignment": -0.2}

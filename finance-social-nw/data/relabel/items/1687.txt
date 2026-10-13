@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+BEIJING (Reuters) -Alibaba launched a new AI chatbot assistant service on Thursday, refreshing its push into a consumer-facing space that is dominated by ByteDance and Tencent.
+The Chinese e-commerce firm integrated the chat assistant into its Quark app, a platform that began as a browser but has been repositioned this year as Alibaba's flagship consumer application, with added artificial intelligence functions including search capabilities.
+The new service, which is free to use, allows people to access a chatbot interface for conversations via text or voice, providing real-time information and services, the company said in a statement.
+Alibaba's AI efforts have focused largely on enterprise clients through its cloud services division. The latest move is another attempt to capture consumers in a market where the company has struggled to gain traction with its Tongyi AI assistant app.
+Despite being among the first Chinese companies to release a consumer AI assistant app to the public in late 2023, Tongyi has failed to achieve widespread adoption.
+The app had 6.96 million monthly active users in September, according to AI product tracker Aicpb.com. Market leader ByteDance's Doubao had 150 million monthly active users, while DeepSeek had 73.4 million and Tencent followed with 64.2 million.
+Globally, AI assistants have been gaining traction for companies like Google, Microsoft and OpenAI, who have embedded them into their Gemini, Copilot and ChatGPT platforms.
+Powered by Alibaba's latest Qwen3 models, Quark's AI chat assistant offers enhanced reasoning, understanding and execution capabilities, the company said.
+Separately on Thursday, Alibaba said pre-sales for its Quark AI Glasses would begin at midnight on Friday on its Tmall e-commerce platform. The company said it would begin fulfilling orders progressively from December, with the glasses priced at 4,699 yuan ($659.69).
+Alibaba unveiled its smart glasses in July, joining companies like Meta Platforms in the market for wearable AI devices.
+($1 = 7.1230 Chinese yuan)
+(Reporting by Liam Mo and Brenda Goh; Editing by Thomas Derpinghaus.)

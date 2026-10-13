@@ -1,0 +1,20 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+A malicious extension for Chromium-based web browsers has been observed to be distributed via a long-standing Windows information stealer called ViperSoftX.
+Czech-based cybersecurity company dubbed the rogue browser add-on VenomSoftX owing to its standalone features that enable it to access website visits, steal credentials and clipboard data, and even swap cryptocurrency addresses via an adversary-in-the-middle (AiTM) attack.
+ViperSoftX, which first came to light in February 2020, was characterized by Fortinet as a JavaScript-based remote access trojan and cryptocurrency stealer. The malware's use of a browser extension to advance its information-gathering goals was documented by Sophos threat analyst Colin Cowie earlier this year.
+"This multi-stage stealer exhibits interesting hiding capabilities, concealed as small PowerShell scripts on a single line in the middle of otherwise innocent-looking large log files, among others," Avast researcher Jan Rubín said in a technical write-up.
+"ViperSoftX focuses on stealing cryptocurrencies, clipboard swapping, fingerprinting the infected machine, as well as downloading and executing arbitrary additional payloads, or executing commands."
+The distribution vector used to propagate ViperSoftX is typically done by means of cracked software for Adobe Illustrator and Microsoft Office that are hosted on file-sharing sites.
+The downloaded executable file comes with a clean version of cracked software along with additional files that set up persistence on the host and harbor the ViperSoftX PowerShell script.
+Newer variants of the malware are also capable of loading the VenomSoftX add-on, which is retrieved from a remote server, to Chromium-based browsers such as Google Chrome, Microsoft Edge, Opera, Brave, and Vivaldi.
+This is achieved by searching for LNK files for the browser applications and modifying the shortcuts with a "--load-extension" command line switch that points to the path where the unpacked extension is stored.
+"The extension tries to disguise itself as well known and common browser extensions such as Google Sheets," Rubín explained. "In reality, the VenomSoftX is yet another information stealer deployed onto the unsuspecting victim with full access permissions to every website the user visits from the infected browser."
+It's worth noting that the --load-extension tactic has also been put to use by another browser-based information stealer referred to as ChromeLoader (aka Choziosi Loader or ChromeBack).
+VenomSoftX, like ViperSoftX, is also orchestrated to steal cryptocurrencies from its victims. But unlike the latter, which functions as a clipper to reroute fund transfers to an attacker-controlled wallet, VenomSoftX tampers with API requests to crypto exchanges to drain the digital assets.
+Services targeted by the extension include Blockchain.com, Binance, Coinbase, Gate.io, and Kucoin.
+The development marks a new level of escalation to traditional clipboard swapping, while also not raising any immediate suspicion as the wallet address is replaced at a much more fundamental level.
+Avast said it has detected and blocked over 93,000 infections since the start of 2022, with a majority of the impacted users located in India, the U.S., Italy, Brazil, the U.K., Canada, France, Pakistan, and South Africa.
+An analysis of the hard-coded wallet addresses in the samples reveals that the operation has netted its authors a sum total of about $130,421 as of November 8, 2022, in various cryptocurrencies. The collective monetary gain has since dropped to $104,500.
+"Since the transactions on blockchains/ledgers are inherently irreversible, when the user checks the transaction history of payments afterward, it is already too late," Rubín said.

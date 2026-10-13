@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The first quarter of the year was a tough time for the Magnificent Seven. Here, I'm not talking about the 1960 Western but instead about a group of exciting tech players that actually drove S&P 500 gains over the past few years. These companies operate in a broad range of specialty areas, from cloud computing to e-commerce and electric vehicles. And in each case, they've proven their ability to generate earnings growth over time.
+But the Magnificent Seven didn't deliver a magnificent stock market performance in the first three months of this year. In fact, all of them fell, with declines ranging from more than 6% to 23%.
+Why the turnaround? The Magnificent Seven companies didn't necessarily report negative news; instead, declines were primarily linked to general market sentiment. Worries about the future of artificial intelligence (AI), any signs of weakness in the U.S. economy, and turmoil in Iran all weighed on appetite for growth-oriented stocks. In recent days, though, investors have become more optimistic, and the S&P 500 has rebounded from earlier losses.
+Is now a good time to buy the Magnificent Seven stock that dropped the most in the first quarter? Let's find out.
+The Magnificent Seven
+The Magnificent Seven stocks are: Amazon, Alphabet, Apple, Meta Platforms, Microsoft (MSFT +3.66%), Nvidia, and Tesla. These companies have seen their stock prices gain in recent years, but earlier this year, as mentioned, they lost momentum. And the worst performer of all was Microsoft.
+The software company's stock sank 23% during the first three months of the year amid the general turmoil, and as investors worried about how AI may impact software in the years to come. The concern is AI might do the job that certain software systems do today, and that could be terrible news for software companies.
+Now, let's consider Microsoft specifically and address this potential threat. Microsoft has built a software empire -- most of us use Word or Excel daily, at home or at work -- and on top of that, the company has a booming cloud computing business. All of this has led to earnings growth over the years.
+While some may worry about the threat of AI, Microsoft actually is a big winner in the AI story. The company offers a variety of AI products and services to its cloud customers and is ramping up infrastructure to serve enormous levels of demand. Meanwhile, Microsoft is also playing a key role in OpenAI's success story, having invested about $13 billion in the developer of ChatGPT.
+Cloud revenue surpasses $50 billion
+In the recent quarter, Microsoft Cloud revenue soared 26%, surpassing $50 billion, as customers flocked to a broad range of services.
+So AI and other cloud offerings clearly are driving growth at Microsoft. But is AI also a threat? It's unlikely that corporate customers that have fully integrated Microsoft through their systems will unravel this in favor of AI. The process would involve costs and time, and would open the door to security problems and other risks. While AI could replace a piece of software that accomplishes a given task, I don't think it's on track to tackle complex software systems -- like those of Microsoft -- that handle so much of a customer's business.
+All of this means that, right now, Microsoft may be viewed as a solid tech giant that's proven itself over time and has the ability to benefit from a new wave of growth thanks to its presence in AI.
+NASDAQ: MSFT
+Key Data Points
+Meanwhile, recent declines have weighed significantly on valuation. The company is trading at 22x forward earnings estimates, close to its lowest in at least three years. This is down from a high of more than 35x. At this level, it's among the cheapest members of the Magnificent Seven and a fantastic buy for bargain-hunting growth investors.

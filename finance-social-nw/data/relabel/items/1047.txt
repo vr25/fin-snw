@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microchip designer Nvidia more than doubled its second-quarter revenue thanks to just a handful of whales that accounted for nearly one out of every two dollars in sales the company booked.
+Four customers, whose identities were kept anonymous for competitive reasons, directly purchased goods and services collectively worth 46% of Nvidia's $30 billion in turnover. That amounts to roughly $13.8 billion, according to the company's 10-Q regulatory filing published alongside its hotly anticipated quarterly investor update.
+Each was responsible for more than a tenth of overall top line, and their purchases were all related to its booming business selling chips to data centers, the likes of which entrepreneurs such as Elon Musk are in a rush to build amid the gold rush in artificial intelligence.
+To put that into perspective, this quartet of customers contributed more in sales than Nvidia reported for the prior year's period as a whole.
+Although the names of the mystery AI whales are not known, they are likely to include Amazon, Meta, Microsoft, Alphabet, OpenAI, or Tesla.
+Nvidia's hottest products are AI chips like the H200. These are needed to train large language models like OpenAI's GPT-4. They are also used to power inference, the process that ChatGPT or Sora uses to generate answers to text-based prompts.
+This dependency on a handful of major customers also highlights a rising concern in the market over just how sustainable this abrupt, exponential growth from just one corner of its business can be. Some investors like Elliott Management and Citadel have voiced skepticism over how long this can be maintained.
+History does give reason for concern. The semiconductor industry is known for its boom-and-bust cycles.
+Shares in Nvidia are expected to open lower on Thursday, underperforming the broader equity market.
+One customer provided revenue greater than Nvidia's second-largest business
+In fact Nvidia's business ties with these whales are so significant the company flags them in a section of its quarterly reports titled "concentration of revenue," which is dedicated to cluster risks.
+"We have experienced periods where we receive a significant amount of our revenue from a limited number of customers," it stated in its 10-Q regulatory filing, "and this trend may continue."
+It's a trend that is staggeringly profitable. Nvidia pocketed $5.60 out of every $10 of revenue it made over the entire first half as net income—margins most companies can only dream of.
+That explains why profit after tax nearly quadrupled to $31.5 billion during this six-month period over the previous year. Whether revenue, and therefore earnings, can continue to grow at this blistering pace is crucial to its investment story.

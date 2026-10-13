@@ -1,0 +1,92 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+COMMENTARY
+A view on the paradox of resource wealth and development deficit (1975–2025)
+SINCE independence in 1975, Papua New Guinea has followed a five-decade path marked by vast resource earnings but persistent socio-economic stagnation.
+Export data shows a deep imbalance in the economy: national wealth has grown, yet ordinary citizens see little benefit. This disconnect between resource capital and human welfare is a clear sign of the resource curse.
+The economy has more than tripled in size, driven mainly by large, capital-intensive extractive projects. Yet living standards have barely improved. Real GDP per capita has grown by only 0.9 per cent annually, well below other resource-exporting nations at similar income levels.
+Export earnings are heavily concentrated. Mining, Oil, and Gas (MOG) account for about 85 per cent of foreign revenue. Reliable long-term data is scarce, but recent figures show the mineral sector earning K43.9 billion in one year—again, 85 per cent of total receipts.
+By contrast, Agriculture, Forestry, and Fishing (AFF) which sustains about 85 per cent of the population, contributes only a small share of formal exports.
+This dependence on volatile MOG exports has left PNG with weak welfare outcomes. Despite billions in export income, the country remains in the Medium Human Development category, with an HDI of 0.576 (2023), ranking 149 of 191 globally. Gains in life expectancy, education, and income are slow and low. The Millennium Development Goals produced mixed results, and the Sustainable Development Goals remain largely aspirational.
+Vision 2050 sets bold targets: raising HDI to 0.75, electrifying 70 per cent of households, and achieving universal basic education. Yet progress is undermined by severe human capital deficits—child stunting (malnutrition) at 48.2 per cent, widespread poverty, and social exclusion. Structural flaws in the economy and weak governance of extractive industries remain the main barriers to turning resource wealth into national welfare.
+Demography
+PNG’s population has grown nearly fourfold—from 3.1 million in 1975 to about 10.1 million in 2025 of which 4.4 million or 43 per cent of total population are under 18 years of age – highlighting the “heavy youth” nature of PNG’s demographics. Median age is 22 years which is considered extremely low on a global scale. This is a pivotal factor in considered planning for education, healthcare, and employment opportunities in the country.
+Annual growth of 2.7 per cent has strained public services, especially in rural areas. Urbanization is
+modest at 13 per cent, with Port Moresby and Lae absorbing the most migration.
+Health – K25 billion
+Life expectancy has risen from 45 years in 1975 to 64.5 today. Maternal mortality has dropped to 145 per 100,000 live births, and child mortality to 41 per 1,000. Yet rural access is poor: only 0.6 doctors per 1,000 people, far below the World Health Organisation’s 2.3 benchmark.
+PNG has invested about K25 billion in health over five decades. Annual budgets now exceed K1.2 billion, funding hospitals, immunisation, and HIV/Aids programmes. But chronic problems—staff shortages, weak supply chains, and aging infrastructure—still limit progress.
+Education – K30 billion
+Literacy has improved from 35 per cent in 1980 to 63.4 per cent in 2021. School attendance among youth rose from 20.6 per cent in 1980 to 35 per cent in 2011, but only 22.1 per cent completed Grade 10. Gender gaps persist: 37.1 per cent of males attend school compared to 32.8 per cent of females.
+Since independence, PNG has spent about K30 billion on education. The 2023 budget allocated K1.3 billion for curriculum reform, infrastructure, and teacher training. Yet quality and retention remain serious challenges.
+Infrastructure – K45 billion
+Infrastructure has absorbed the largest share of investment—over K45 billion since 1975. Roads, bridges, and ports have improved connectivity, but only 10 per cent of PNG’s 30,000 km road network is paved, and electricity reaches just 20 per cent of households.
+The 2025 budget allocates a record K7.6 billion for infrastructure, a 273 per cent increase from 2018, signaling a push for integration, rural access, and climate-resilient development.
+Culture and Values
+PNG’s Constitution enshrines Melanesian values of community, respect, and spirituality. Clan structures, oral traditions, and festivals remain central to identity. Yet globalization and urban migration threaten cultural continuity.
+Christianity
+Since independence, Christianity has undergone major shifts:
+– Growth of Pentecostal and Evangelical movements
+– Rise of indigenous leadership
+– Stronger ecumenical ties
+– Constitutional recognition, including the “Christian Country” amendment in Section 25, reflecting a 95 per cent Christian majority
+– Persistent syncretism (attempted amalgamation of different beliefs), as many blend Christian faith with traditional practices such as animism and ancestor worship.
+Churches now confront pressing millennial social issues: violence, sorcery, and youth struggles in a society marked by inequality, unemployment, and shifting norms.
+Politics and Governance
+PNG’s political landscape is dynamic but volatile. With more than 40 registered parties and frequent coalition reshuffles, governance is often fragmented. The World Bank’s 2022 indicators reflect this: government effectiveness scored –0.79, rule of law –0.93, and control of corruption –1.01 (on a scale of –2.5 to +2.5).
+Despite these challenges, PNG has maintained peaceful transitions and a functioning parliamentary democracy—a sign of institutional resilience.
+Sports, tourism, R&D
+Sport has united PNG and showcased its talent on regional and global stages.
+Tourism, built on biodiversity and cultural richness, has great potential. But infrastructure, safety, and international visibility must improve for PNG to become competitive.
+Institutions such as National Research Institute, National Agricultural Research Institute, Institute of Medical Research, and national universities are laying foundations for innovation in agriculture, mining, and health. Yet funding remains low, and stronger partnerships with global institutions are needed to accelerate progress.
+Way forward: policy imperatives to combat the resource curse
+The persistent gap between vast export wealth and weak human development demands structural and institutional reform. The consensus on the “way forward” highlights three imperatives:
+1. Strategic Investment in Human Capital and Services
+The priority is to tackle the human capital deficit, evident in high child stunting (48.2 per cent) and youth exclusion. This requires:
+– Better access to qualityservices: Health and education must be treated as strategic investments to avoid long term productivity losses.
+– Fiscal consolidation with equity: Public spending should be efficient and equitable, ensuring resource revenues translate into real improvements in social services.
+2. Macroeconomic stability and non-resource competitiveness
+PNG must reduce dependence on volatile, capital intensive exports by fostering growth in labor intensive sectors:
+– Prudent macroeconomic management: Policies must ease foreign exchange constraints that limit non resource sector growth.
+– Protecting domestic sectors: Support reforms that sustain private sector activity beyond the resource enclave and counter “Dutch Disease.” A sovereign wealth fund (SWF) can help manage revenue volatility and macroeconomic pressures.
+3. Strengthening extractiveindustry governance and revenue capture
+Chronic institutional weaknesses and fiscal leakage undermine progress. Reforms must ensure the state captures full export value:
+– Revenue Management Reform: Improve transparency, oversight, and spending discipline in the extractive sector.
+– Curb Fiscal Leakage: Crack down on illegal activities such as alluvial gold smuggling and enforce regulations on companies banking revenues offshore.
+D. Initiatives by succeeding governments (including Marape-Rosso Government)
+Past Efforts (Post 1975)
+Earlier governments focused on stabilisation and planning, though implementation was uneven:
+– Commodity Price Stabilization Funds: Used in the 1970s to manage agricultural export earnings and maintain financial stability.
+– Sovereign Wealth Fund (SWF): Proposed after the PNG LNG project to manage boom effects and convert non renewable wealth into long term infrastructure and services.
+Government Initiatives
+The current government has prioritized fiscal strengthening and broader economic growth, with a strong focus on digital transformation:
+1. Digital transformation for revenue capture
+• Integrated tax administration system (ITAS): Replacing outdated SIGTAS to modernise IRC operations.
+• Goods and services monitoring system (GMS): Ensures compliance and real time GST collection at point of sale.
+• Taxation of digital services: Preparing to tax global platforms like Google and Facebook, expanding the tax base.
+2. Tax and Fiscal Reforms for Investment
+• Corporate Tax Reduction: Encourages business expansion and foreign investment.
+• Personal Income Tax Reduction: Boosts disposable income and domestic consumption.
+• Capital Outflow Regulation: Ensures foreign earnings are reinvested locally, addressing a major leakage.
+3. Promoting Diversification and Industrialisation
+• Industrial Base Development: Building manufacturing capacity to create jobs and reduce import reliance.
+• Streamlined Regulations: Cutting bureaucratic barriers to foster a business friendly environment.
+These initiatives aim to strengthen governance and revenue capture, creating fiscal space for critical social investments to improve HDI.
+Themed “Security with Growth,” the 2026 budget seeks to break the Resource Curse by balancing fiscal consolidation with targeted investments in three areas: Fiscal Stabilization, Human Capital Development, and Inclusive Economic Diversification.
+1. Fiscal Stabilisation and Prudence (Targeting Volatility and Leakage)
+The 2026 Budget’s fiscal path is its most direct challenge to the Resource Curse, which thrives on boom bust cycles and weak public financial management.
+1. Human Capital and Productivity Investment (Targeting Low HDI)
+New Minimum Wage Rate (PGK5.00 per hour)
+The Minimum Wage Board decision to lift the rate to K5.00 per hour (from the previous K3.50) is informed by a comprehensive productivity study of the non-resource sector. This links real wage growth to actual productivity gains, which is essential to raise living standards sustainably without undermining the competitiveness of domestic businesses, a key feature of fighting Resource Curse.
+First Home Owner Tax Exemption
+Fosters Economic Independence and Stimulates Domestic Sector
+The extension of stamp duty exemptions (increased to K0.7 million) for first-home buyers is intended to empower citizens toward financial independence and stimulate the domestic real estate and construction sectors, which are vital components of the non-resource economy.
+1. Direct Economic Diversification and SME Funding (Addressing the Dual Economy Trap)
+The non resource sector makes up 70–75 per cent of PNG’s economy and sustains most of the population. Supporting this sector is vital to overcoming the Resource Curse.
+2026 Budget: a test of moral deficit
+The K30.9 billion 2026 budget is a record money plan which focuses on fiscal discipline and aims for a surplus by 2027. Prime Minister, James Marape frames this as a “disciplined” budget under MTDP IV and PNG@50, positioning infrastructure, health and education as legacy investments. Yet PNG’s history shows that higher spending alone has not solved deeper structural problems.
+• Law and Justice Funding – Treating symptoms, not causes
+Funding for law and justice rises 9.6 per cent to K2,498 million, with police resourcing aimed at reaching 10,000 well trained officers. While important, these measures address symptoms rather than the root causes of instability and inequality.
+• Law and order: Beyond logistics
+PNG’s law and order crisis is not simply about logistics. It is rooted in moral decay, a systemic failure of ethics and community values. This moral decay reflects the postponement of ethical intervention in the face of growing societal dislocation.

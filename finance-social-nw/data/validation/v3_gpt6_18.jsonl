@@ -1,0 +1,12 @@
+{"id": "0754", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "æ¨è®¿é®çé¡µé¢ä¸åå¨æå·²å é¤ ç¸å ³é¾æ¥ï¼ -", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1551", "ticker_a": "AMD", "ticker_b": "PLTR", "first_words": "Goldman Sachs strategist urges investors", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "1461", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "In a classic 2012 episode", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1087", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The owner of the shuttered", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0952", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "WASHINGTON - Amazon's AWS, the", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "2107", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ANI 02 Jun 2026, 10:29", "relation": "causal-driver", "sentiment_alignment": 0.9}
+{"id": "2155", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Gonzalez v. Google tests the", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0862", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Canada's dispute with Meta is", "relation": "substitute-comparison", "sentiment_alignment": -1.0}
+{"id": "1754", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Alphabet 's recent move into", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1223", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Internet - 2 min", "relation": "co-hype", "sentiment_alignment": 0.4}
+{"id": "0398", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "After remaining dormant for nearly", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1196", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

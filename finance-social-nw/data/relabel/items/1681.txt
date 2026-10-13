@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Chip giant Broadcom laid off employees this week in sales, customer success, account management, and solutions roles, according to LinkedIn posts and sources cited by Business Insider. The cuts come just days after the $1.65 trillion company announced a strategic partnership with 
+OpenAI
+ to deploy 10 gigawatts of custom AI accelerators.
+The layoffs affected an undisclosed number of workers, with the reductions appearing to target customer-facing departments rather than technical roles. Broadcom did not respond to requests for comment on the workforce reductions.
+The timing of the cuts follows Broadcom's October 13 announcement of its collaboration with OpenAI, which will see the chip designer develop and deploy custom AI processors starting in the second half of 2026. The deal, which positions Broadcom alongside cloud computing giants developing specialized AI chips, sent the company's shares soaring more than 10%.
+Restructuring continues after VMware acquisition
+Broadcom has been implementing rolling layoffs since its $69 billion acquisition of software firm VMware in late 2023. Business Insider previously reported that VMware's workforce has been slashed by roughly half since the deal closed, as Broadcom simultaneously raised prices on VMware products.
+The company has emerged as a major winner in the AI boom, with custom AI chip revenue growing 220% year-over-year by late 2024. Broadcom reached a trillion-dollar market cap for the first time in December 2024, driven by surging demand from tech giants seeking alternatives to Nvidia's dominant AI processors.
+Custom chip business drives growth despite cuts
+The OpenAI partnership represents Broadcom's fourth major custom chip customer, following deals with tech giants including 
+Google
+, Amazon, and Apple. Morgan Stanley analysts forecast the custom AI chip market will nearly double to $22 billion in 2026, with Broadcom positioned as the market leader.
+While Broadcom expands its high-margin chip design business, the layoffs suggest the company is streamlining operations in other areas to maintain profitability as it scales production for next-generation AI infrastructure.

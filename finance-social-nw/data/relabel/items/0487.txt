@@ -1,0 +1,53 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+IBM and AWS leap deeper into bed for AI love affair
+- Summary:
+- 
+          AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief.
+IBM Consulting has expanded its artificial intelligence partnership with Amazon Web Services (AWS), according to a joint announcement. The aim is to bring generative AI capabilities and expertise to the two companies’ enterprise clients.
+Among the “goals and objectives” are plans to train 10,000 IBM consultants (out of 160,000) in AWS’ generative AI solutions by the end of 2024, and closer integration between IBM’s enterprise AI and data platform, watsonx, and AWS’ own AI offerings.
+Chris Niederman, Managing Director of Global Systems Integrators at AWS, said:
+We are excited to be working with IBM to include embedded generative AI capabilities that assist our mutual customers scale their applications – and help IBM consultants deepen their expertise on best practices for customer engagement with AWS generative AI services.
+Also trailed in the announcement are a generative AI upgrade to IBM’s platform services for AWS; plans to introduce a new virtual assistant to aid supply chain professionals; and ongoing work in contact centre modernization via generative tools.
+What’s behind the deal?
+Both IBM and AWS have found new wind in their sails from the upsurge of interest in AI this year.
+Last month, AWS revealed an investment of up to $4 billion in Anthropic, the AI start-up founded in 2021 by former OpenAI employees. The move was designed to position AWS as a rival to Microsoft’s OpenAI partnership.
+Anthropic’s models are already among those offered within the Amazon Bedrock managed service, making AWS that start-up’s primary cloud provider for mission-critical tasks.
+For its part, IBM was one of the first AWS Partners to use Amazon Bedrock, allowing joint clients to choose the best foundation model for their needs. So, this latest announcement signals a deepening of that relationship.
+Meanwhile, IBM’s share price experienced a spike of almost 16% this month, after nearly two years without change. This followed a slew of AI announcements, including the unveiling of IBM’s NorthPole chip architecture for AI inference, which is claimed to be 25 times more energy efficient than most dedicated CPUs.
+In August, IBM announced an AI-infused CRM partnership with Salesforce, which is similar in ambition to the tie-up with AWS.
+So, the message from IBM now seems to be one of offering its enterprise clients choice, openness, and expertise in which AI system to adopt for their needs. A model it follows in other areas too, such as enterprise cloud and quantum technology. But AI is its enterprise consultants’ dream.
+Hype vs. reality
+However, as diginomica reported last week, the thrust of recent industry research on enterprise AI adoption suggests one thing. Namely that while an overwhelming majority of business and IT leaders are speeding towards an AI-first environment, the mood is one of, “We must use this technology! But for what?”, rather than “Here’s an urgent problem, might AI help solve it?”
+This was echoed in a recent statement by Manish Goyal, IBM Consulting’s Senior Partner and Global AI and Analytics Leader. He said:
+Enterprise clients are looking for expert help to build a strategy and develop generative AI use cases that can drive business value and transformation – while mitigating risks.
+This is surely an admission that, while many organizations believe they must have AI – and soon – they need urgent help in deciding what to do with it. In a less hyped, and less tactic-driven world, shouldn’t the use case – the business need – come first?
+I put this point to Goyal, who said:
+I tell clients all the time, don’t think of this as ‘I’ve got this awesome hammer, so where is the nail?’ It’s the ‘AI first’ thing: moving from adding AI to something, to starting with AI then looking at an existing process.
+I’d argue that is precisely, “I’ve got a hammer, so where is the nail?” But Goyal continued:
+An organization may be doing automation and AI today, but let's look at it – really look at it. Let's look at all the pieces where they did not have anything in place because it was too hard to achieve.
+Then let's look at the capabilities that generative AI offers, because gen-AI is not just about generation; it is also really good at extracting information from text or images, which opens up new capabilities.
+So, you want to look at the entire process, and say, ‘Where can I put these capabilities now that they are available? Where can I apply these?’, because previously it was not feasible, it just couldn't be done. Or, if it was possible, then it was so expensive that there was no ROI.
+Now, when you look at that end-to-end process, you see a step change that you can drive. That's where the productivity, the speed to market, or whatever the metrics are, can be impacted. That's how I tell people to look at it.
+Emerging applications
+Certainly, the ‘killer app’ (as techies used to say) of generative AI would seem to be its ability to use natural language to query – and explain – existing, trusted data, rather than, say, produce derivative works via content scraped from the internet.
+But the industry’s problem is that much of the hype around generative tools came from the latter use case, not the former. Indeed, this is what lured many individuals within enterprises into using the likes of ChatGPT as shadow IT (see diginomica, passim). In turn, this left companies like Amazon, IBM, Meta, Alphabet, and others, playing mindshare and technology catch-up.
+Many users were swiftly drawn into paid relationships with the likes of OpenAI and, in some cases, probably away from human suppliers in creative fields.
+An oversimplification? I don’t think so. New research from Kruze Consulting, a specialist in tax and financial advice to the start-up community, found that 57% of the 800 venture-capital-funded fledglings it surveyed had signed paid deals with OpenAI by September 2023, up from just two percent in the same month last year.
+Few of those companies will have decades of data to query. So, what are they using it for?
+You can see the result in the figures for OpenAI, which remains Amazon’s (and Anthropic’s) key rival in this space. In 2022, it had revenues of $10 million, but they are projected to hit $1 billion in 2024, according to Reuters. If true, that’s a 9,900% increase, mostly on the back of ChatGPT’s paying customers.
+The conclusion is inescapable: OpenAI has created a paid reliance on its services, almost overnight.
+Since then, real enterprise use cases have been emerging for generative AI – exciting ones, in many cases. But the dealer-like activities of some vendors a year ago (encouraging users to use free apps to generate free content, sometimes based on uncredited or copyrighted work) have stored up legal problems that are only now making their way through the courts. Any fallout from copyright holders’ class actions may undermine trust in all generative AI vendors.
+But I digress. Back in the enterprise tech world, IBM’s Goyan acknowledged the hype problem that dogs the AI industry:
+Gartner would say we are at the top of the hype cycle for generative AI, and we all know what comes next. But at the Gartner IT symposium in Orlando last week, analysts and clients were saying, ‘This is real, right?’
+Yes, there is hype, and we will go through the trough. But the reason why clients in the C-suite are so positive about AI is that it’s the first time they have touched the technology. We’ve all used it, or the kids have used it.
+Now, how do you scale that across the enterprise to reveal the actual benefits, beyond the proof point? That requires a lot more thinking through of AI’s capabilities, both on the technology side, and in terms of how you manage that change.
+So, the first quarter [this year] was educating users. The second quarter was, ‘OK, where can I try this out? What are the use cases?’ And the third quarter, well it’s the mature people, the smarter ones, who will really get ahead.
+Our clients need help from us. Many of them have chosen AWS as one of their primary providers, so it makes perfect sense for us to scale up our practitioners.
+My take
+Indeed. Pragmatism and realism from IBM, as you might expect.
+However, IBM has an underlying problem of its own. It has long been in the vanguard of cutting-edge technologies, such as AI, digital assistants, supercomputing, enterprise cloud services, and quantum tech. But the part-consumer, part-enterprise focus of rivals such as Microsoft, Amazon, and Google, has allowed those players to steal IBM’s thunder, as consumer preferences filter into the enterprise.
+More often than not, this leaves Big Blue stitching others’ technologies together for its enterprise clients, where once they might have chosen IBM products instead – had the company retained the mindshare that it had in the PC-based 1990s. The mindshare of an Amazon today, for example, or a Google, Apple, Microsoft, or Meta.
+Ever the groomsman, but never the groom this century? Either way, we are all walking down the aisle towards an uncertain future. Nobody knows what the long-term impact of this mass enterprise adoption of AI will be; yet despite that, companies feel they must have it. And now.
+But as we have previously reported on diginomica, survey after survey reveals that many are just not ready for it. They want the hammer, but have yet to find the nail – or how to hit it.

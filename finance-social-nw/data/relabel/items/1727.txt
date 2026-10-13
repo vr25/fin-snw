@@ -1,0 +1,6 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+As the Nasdaq composite gaps up to retake its 21-day exponential moving average Monday, Nvidia (NVDA) rival and fellow artificial intelligence giant Broadcom (AVGO) also popped back above that benchmark line as it looks to reclaim a prior buy point. Broadcom stock has earned a spot on the Investor's Business Daily Leaderboard alongside AI powerhouses Palantir Technologies (PLTR) and Alphabet…
+Nvidia Rival Weathering AI Storm, Looks To Reclaim Buy Point
+Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8

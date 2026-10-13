@@ -1,0 +1,21 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+Live coverage has ended. The full story is below.			
+			
+				
+As of 12:15 p.m. ET, the S&P 500 (INDEXSP: .INX) was up .71%. Let’s take a look at some of the major stories in the stock market today.
+- Magnificent 7 Stocks Rallying: NVIDIA (Nasdaq: NVDA | NVDA Price Prediction) is up 3.5% today, which leads Magnificent 7 stocks. However, other mega-cap stocks like Apple (Nasdaq: AAPL) and Tesla (Nasdaq: TSLA) are also up more than 1% today. In general, its been a good day for the Magnificent 7.
+- Tech Stocks Leading Performance: The top performers in the S&P 500 are Palo Alto Networks (Nasdaq: PANW), which is up 5.5%, and Palantir (NYSE: PLTR), which is up 4.89%.
+- Non-Tech Stocks Having a Good Day: Some non-tech stocks in the S&P 500 that are having a good day include Canival Corporation (NYSE: CCL) and Norwegian Cruise Line Holdings (NYSE: NCLH). The cruise stocks are up 4.83% and 4.16%, respectively. An analyst upgrade is pushing share prices higher across the cruise industry even while Hurricane Milton raises the prospects of more disruptions in the space.
+Not A Good Day for All Stocks
+While the S&P 500 is generally having a good day, it has been a struggle for some stocks. Energy stocks are struggling as the price of crude oil has dropped 3% during today’s trading. Notable losers include:
+- Marathon Petroleum Corporation (NYSE: MPC): Down 7.62%
+- Valero Energy Corporation (NYSE: VLO): Down 4.85%
+Materials stocks are also feeling the pinch today with Freeport-McMoRan (NYSE: FCX) down 4.96% and Albemarle (NYSE: ALB) down 4.28%. One of the biggest losers outside energy and materials is Super Micro Computer (Nasdaq: SMCI), which is down 5.48%. The company is shedding some gains from yesterday when its stock surged following the announcement it had shipped more AI chips than expected last quarter.
+Gambling Stocks Down 
+One other sector in the S&P 500 that’s struggling today is gambling stocks. MGM Resorts (NYSE: MGM) is down 3.09% while Caesars Entertainment (Nasdaq: CZR) dropped 2.76%. Doubts about China’s fiscal stimulus are likely the primary reason gambling stocks are struggling.
+While Chinese stocks aren’t part of the S&P 500, they are the biggest market news of the day with many Chinese ETFs dropping more than 10%. The drop in Chinese equities started after a press conference in China meant to address stimulus measures included few specifics on how the Government plans to boost consumer spending and overall economic activity.
+        
+        
+        Contact [email protected] for any questions or corrections.

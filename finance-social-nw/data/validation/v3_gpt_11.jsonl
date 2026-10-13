@@ -1,0 +1,12 @@
+{"id":"1178","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Which? files legal claim against","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0402","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Intel Wants to Beat Bias","relation":"causal-driver","sentiment_alignment":0.0}
+{"id":"1884","ticker_a":"GOOGL","ticker_b":"META","first_words":"Manufacturing push, infra development and","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1451","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Every previous time that shares","relation":"causal-driver","sentiment_alignment":1.0}
+{"id":"0195","ticker_a":"GOOGL","ticker_b":"META","first_words":"The European Union has announced","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0208","ticker_a":"META","ticker_b":"MSFT","first_words":"Judge rules against Google, allows","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1834","ticker_a":"AMD","ticker_b":"GOOGL","first_words":"Nvidia CEO Jensen Huang calls","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1204","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Elon Musk is asking a","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0351","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Weekend Edition Energy & Commodities","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0886","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Things are about to get","relation":"causal-driver","sentiment_alignment":0.0}
+{"id":"0895","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Shares of HubSpot (HUBS -3.53%)","relation":"substitute-comparison","sentiment_alignment":-1.0}
+{"id":"0588","ticker_a":"META","ticker_b":"MSFT","first_words":"This Week in History by","relation":"unrelated-mention","sentiment_alignment":0.0}

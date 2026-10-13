@@ -1,0 +1,20 @@
+{"id": "1480", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Buddies, associates? One happy", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1481", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "I Was Hacked Because I", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1482", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As the race for Artificial", "relation": "causal-driver", "sentiment_alignment": 0.2}
+{"id": "1483", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As the race for Artificial", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1484", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "As the race for Artificial", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1485", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Backup Statistics By Users, Companies,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1486", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 05 Jul 2025,", "relation": "causal-driver", "sentiment_alignment": 0.3}
+{"id": "1487", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "It's been a week of", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1488", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "It's been a week of", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1489", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "It's been a week of", "relation": "causal-driver", "sentiment_alignment": 1.0}
+{"id": "1490", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By David Montgomery, Stateline.org ABILENE,", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1491", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By David Montgomery, Stateline.org ABILENE,", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1492", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "By David Montgomery, Stateline.org ABILENE,", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1493", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Developer Wants to Build Data", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1494", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia became the first company", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1495", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia became the first company", "relation": "causal-driver", "sentiment_alignment": 0.3}
+{"id": "1496", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia became the first company", "relation": "causal-driver", "sentiment_alignment": 0.3}
+{"id": "1497", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The stakes are high. The", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1498", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Intel, the venerable semiconductor giant,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1499", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Intel, the venerable semiconductor giant,", "relation": "unrelated-mention", "sentiment_alignment": 0}

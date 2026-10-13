@@ -1,0 +1,12 @@
+{"id": "0366", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Welcome to this month's issue of", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0962", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "McYikes! Michigan Has the Worst-Rated", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1848", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "causal-driver", "sentiment_alignment": -0.5}
+{"id": "0317", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Why Risk-Averse Investors Are Wary", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1418", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Target, Nvidia and American Express", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0816", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Massive overseas and domestic investments", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1423", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft and Meta Platforms led", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0667", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Android has had its fair", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "0637", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia's valuation passed the $1.5", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1002", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft's artificial-intelligence ambitions are putting", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1759", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia looked poised to have", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1049", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microchip designer Nvidia more than", "relation": "causal-driver", "sentiment_alignment": 0.0}

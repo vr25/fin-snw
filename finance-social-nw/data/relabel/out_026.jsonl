@@ -1,0 +1,20 @@
+{"id": "0520", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MOUNTAIN VIEW, California: Reuters reported", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0521", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A federal judge on Tuesday rejected", "relation": "substitute-comparison", "sentiment_alignment": 0.95}
+{"id": "0522", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Congressman Joaquin Castro Calls For", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0523", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Skip to main content Townsquare", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0524", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Lately I've been spending time researching", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0525", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Home Join Premium Contributors Channels All", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0526", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Sam Altman, one of the most", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0527", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Sam Altman, one of the most", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "0528", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Sam Altman, one of the most", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0529", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "OpenAI and ChatGPT down again after", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0530", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "OpenAI and ChatGPT down again after", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "0531", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "OpenAI and ChatGPT down again after", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0532", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As a major player in the tech", "relation": "substitute-comparison", "sentiment_alignment": 0.75}
+{"id": "0533", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As a major player in the tech", "relation": "substitute-comparison", "sentiment_alignment": 0.25}
+{"id": "0534", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "As a major player in the tech", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0535", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dublin, Nov. 21, 2023 (GLOBE", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "0536", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "OpenAI, the organization at the", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "0537", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A sensory friendly zone and", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0538", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Cheap labor: Are tech giants", "relation": "co-hype", "sentiment_alignment": -0.4}
+{"id": "0539", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Cheap labor: Are tech giants", "relation": "co-hype", "sentiment_alignment": 0.8}

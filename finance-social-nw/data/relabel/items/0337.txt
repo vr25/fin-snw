@@ -1,0 +1,31 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Microsoft can move ahead with record $69 billion acquisition of Activision Blizzard, judge rules
+Federal regulators were unable to show how it would cause serious harm and wouldn’t likely prevail if they took it to a full trial
+A federal judge has handed Microsoft a major victory by declining to block its looming $69 billion takeover of video game company Activision Blizzard. Regulators sought to ax the deal saying it will hurt competition.
+U.S. District Judge Jacqueline Scott Corley said in a ruling that the merger deserved scrutiny, noting it could be the largest in the history of the tech industry. But federal regulators were unable to show how it would cause serious harm and wouldn’t likely prevail if they took it to a full trial, she wrote.
+The Federal Trade Commission, which enforces antitrust laws, “has not raised serious questions regarding whether the proposed merger is likely to substantially lessen competition” between video game consoles or in the growing markets for monthly game subscriptions or cloud-based gaming, Corley said,
+A ruling favorable to Microsoft was not a surprise after the company’s lawyers had the upper hand in a 5-day San Francisco court hearing that ended late last month. The proceeding showcased testimony by Microsoft Chief Executive Officer Satya Nadella and longtime Activision Blizzard CEO Bobby Kotick, who both pledged to keep Activision’s blockbuster game Call of Duty available to people who play it on consoles — particularly Sony’s PlayStation — that compete with Microsoft’s Xbox.
+“Our merger will benefit consumers and workers. It will enable competition rather than allow entrenched market leaders to continue to dominate our rapidly growing industry,” Kotick said in a written statement after Tuesday’s ruling.
+The FTC had asked Corley to issue an injunction temporarily blocking Microsoft and Activision from closing the deal before the FTC’s in-house judge can review it in an August trial.
+Both companies suggested that such a delay would effectively force them to abandon the takeover agreement they signed nearly 18 months ago. Microsoft promised to pay Activision a $3 billion breakup fee if the deal doesn’t close by July 18.
+The FTC hasn’t said whether it will appeal Corley’s ruling.
+“We are disappointed in this outcome given the clear threat this merger poses to open competition in cloud gaming, subscription services, and consoles,” FTC spokesperson Douglas Farrar said in a prepared statement. “In the coming days we’ll be announcing our next step to continue our fight to preserve competition and protect consumers.”
+The decision is a setback for the FTC’s heightened scrutiny of the technology industry under Chairperson Lina Khan, who was installed by President Joe Biden in 2021 because of her tough stance on what she sees as monopolistic behavior by tech giants such as Amazon, Google and Facebook parent Meta.
+Another judge rebuffed the FTC’s attempt earlier this year to stop Meta from taking over the virtual reality fitness company Within Unlimited. And on Thursday, Khan is expected to face tough questioning from Republicans in Congress who have called her to testify at a House hearing about the commission’s record of enforcement actions as well as her management of the agency staff.
+Corley, herself a Biden nominee, expressed skepticism about the FTC’s case during the proceedings, particularly about the hypothetical harms caused if Microsoft were to remove Call of Duty from rival platforms or offer a subpar experience on competing consoles.
+“The gist of the FTC’s complaint is Call of Duty is so popular, and such an important supply for any video game platform, that the combined firm is probably going to foreclose it from its rivals for its own economic benefit to consumers’ detriment,” Corley wrote in her ruling.
+But she said the FTC hadn’t make a strong case that Microsoft would likely pull Call of Duty from rival Sony’s PlayStation -- in fact, Microsoft executives have repeatedly pledged not to do so.
+As antitrust investigations and legal challenges mounted in the U.S. and around the world, Microsoft pledged that Call of Duty would appear on Nintendo’s Switch console, Nvidia’s cloud gaming service and other platforms for at least a decade.
+In that way, the “scrutiny has paid off,” Corley concluded in her ruling, repeating a message she relayed to regulators in the courtroom last month.
+“In many ways you won,” Corley had told the FTC’s lead trial attorney on the case, James Weingarten.
+“I don’t think we won,” Weingarten responded, saying there was no evidence that the “hastily agreed to” contracts would sufficiently protect the market.
+Shares of Activision Blizzard Inc. jumped more than 11% Tuesday on the ruling, a high for the year.
+The ruling removes the biggest, but not the only obstacle, to the merger.
+A number of other countries and the European Union have approved the Activision Blizzard takeover, but it still faces opposition from the U.K.’s Competition and Markets Authority. The company was set to challenge that decision at a tribunal hearing scheduled for later this month but the FTC’s ruling appeared to have forced a rethink.
+The British regulator and Microsoft both said Tuesday they have jointly applied to put the hearing on hold, saying a “stay of litigation” would be in the public interest while they work out a way to resolve their differences so that the deal can go ahead.
+“We stand ready to consider any proposals from Microsoft to restructure the transaction in a way that would address the concerns” outlined in the merger decision, the CMA said in a prepared statement.
+Microsoft President Brad Smith said in a statement that the company is looking to modify its transaction “in a way that is acceptable to the CMA,” though it disagrees with the agency’s concerns.
+Canadian regulators are also investigating the transaction and have concluded it is “likely to result” in preventing or lessening competition on gaming consoles, subscription services and cloud-based gaming, according to a letter to Microsoft filed in the U.S. case late last month that echoed the FTC’s concerns.
+Sign up for our weekly newsletter to get more English-language news coverage from EL PAÍS USA Edition

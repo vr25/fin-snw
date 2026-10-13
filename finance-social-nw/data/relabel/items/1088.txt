@@ -1,0 +1,16 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+THE NEWS CHRONICLES has confirmed that Qualcomm has inquired about a takeover from struggling chipmaker Intel.
+An individual with knowledge of the situation who wished to remain anonymous stated that it was unclear whether Intel and Qualcomm had discussed the parameters of the agreement.
+The issue was initially covered by The Wall Street Journal. Following the news, Intel shares soared higher and ended the day up roughly 3%, while Qualcomm shares decreased by almost 3%.
+Should the acquisition go through, it would rank among the biggest mergers in the history of technology. Intel is valued more than $90 billion on the market.
+Once the biggest chip manufacturer in the world, Intel has been declining for many years, and in 2024, this trend got worse. In August, the stock saw its largest one-day decline in more than 50 years following the company’s dismal earnings report. Investor skepticism regarding the company’s pricey plans to design and produce semiconductors has resulted in a 53% decline in Intel shares this year.
+Intel and Qualcomm are rivals in a number of sectors, including those for laptop and PC CPUs. But unlike Intel, Qualcomm doesn’t produce its own chips; instead, it outsources manufacturing to companies like Samsung and Taiwan Semiconductor Manufacturing Company.
+Intel CEO Patrick Gelsinger reaffirmed the company’s commitment to investing heavily in its foundry business in a note to staff on Monday following a board meeting to discuss strategy. The project is estimated to cost $100 billion over the next five years. It stated that it was considering outside funding as well.
+Additionally, Intel has been left out of the artificial intelligence explosion that has Wall Street’s attention. Instead of using Intel central processors, the majority of sophisticated AI systems, like ChatGPT, operate on Nvidia graphics processors. Analysts estimate that Nvidia holds more than 80% of the rapidly expanding market.
+Qualcomm’s revenue is lower than Intel’s. In the fiscal year 2023, it reported $35.8 billion in sales, whereas Intel made $54.2 billion in the same year.
+Concerns about national security and antitrust would complicate any possible agreement. Businesses Intel and Qualcomm operate in China, and both have experienced commercial transactions derailed by antitrust officials in China. Both Qualcomm’s attempt to purchase NXP Semiconductor and Intel’s attempt to acquire Tower Semiconductor failed.
+Massive purchases in the same field have also been shelved. Broadcom submitted a deal of more than $100 billion to acquire Qualcomm in 2017. Due to national security concerns, the Trump government opposed the deal the following year because Broadcom was then based in Singapore.
+Additionally, on antitrust grounds, the Federal Trade Commission filed a lawsuit in 2021 to thwart Nvidia’s intended acquisition of Arm. In 2022, the agreement was canceled as a result of further pressure from regulators in Asia and Europe.
+Both Qualcomm and Intel representatives declined to reply to any journalists or reporters.

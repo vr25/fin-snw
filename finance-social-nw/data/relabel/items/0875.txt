@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft hasn’t been shy about pushing first-party services and apps in Windows, but this time, it’s getting a little ridiculous. As reported by Windows Latest, the Microsoft application PC Manager claims you can “fix” your computer simply by changing Bing to be the default search engine.
+The change was spotted when using the Edge browser and having, for example, Google as the default search engine. After you run a health check, one of the suggested changes will be to set Bing as your default search engine. If that’s how you want to go, there’s a button to make it happen.
+Recommended Videos
+If you take its suggestion and set Bing as your default search engine, you’ll get a message letting you know you’re all set and that your PC is using recommended settings to be sure, fast, and efficient. But if you decide to ignore the recommendation, you’ll notice that your computer will continue to work as usual, just as mine did.
+Some may question Microsoft’s recommendation, especially since the default search engine has nothing to do with PC performance or security. It also feels particularly problematic because of the way PC Manager is positioned, which is to “safeguard your PC in a quiet and reliable way.” The app gives no reason for why Bing would be safer or faster to use than Google, making the change feel like nothing more than an attempt to trick people into switching.
+Of course, Microsoft isn’t the only company to do things like this. If you’re using Google Search in a Microsoft Edge browser, seeing a suggestion to use Chrome may not come as much of a surprise.
+This recent example from Microsoft feels particularly egregious though, and hopefully is something that Microsoft will address in the future.
+OpenAI AI agents bombarded the United Nations with aggressive tactics to extract data
+The latest incident adds the UN to a growing list of websites where OpenAI's agents allegedly pushed past limits while trying to complete their tasks.
+OpenAI's AI agents have been making headlines for all the wrong reasons lately. Its models have been hacking businesses and government websites, with the United Nations website becoming their latest target.
+According to a report by The Wall Street Journal, OpenAI's agents swamped a United Nations website with search requests and then used pushy tactics to get at its data in June. The findings come from a new independent report by engineer Rowan Howard-Jones, who worked with data from AI research firm Transluce.
+There’s another reason to scoff at AI: It’s hiking up your health insurance costs.
+AI hospital coding tools are adding millions to insurance claims.
+AI has already found plenty of ways to make life more expensive. Data centers are putting pressure on electricity bills, while the hardware feeding the AI boom has helped squeeze cheaper gadgets. Now healthcare may be joining that list.
+A new analysis from the Blue Cross Blue Shield Association (BCBSA) estimates that rising hospital coding intensity added about $942 million in healthcare spending for its companies between 2023 and 2025. Medical coding, in simple terms, turns diagnoses and treatment details into standardized codes that are used to calculate hospital reimbursements.
+OpenAI pauses advanced model development after AI agents bypass safeguards again
+OpenAI agents breached network restrictions and accessed third-party websites during training
+OpenAI says it is disposing of the development of its most powerful AI model, following multiple incidents of agents engaging in unexpectedly risky behavior. The announcement comes merely days after reports exposed how AI agents broke through the containment and went past the safety guardrails to access content on third-party websites.
+“The incident exposed a gap in our controls over network restrictions. We therefore stopped the affected training run and have subsequently decided to pause all other training, evaluation, and inference with tool-use (defined broadly) for our most capable models until we have both validated that the gap is resolved and performed additional red-teaming of the system,” the company said in a disclosure note.

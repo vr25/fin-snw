@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+By KELVIN CHAN
+LONDON (AP) — Facebook and Instagram owner Meta said Friday that it will stop all political advertising in the European Union by October, blaming legal uncertainty over new rules designed to increase transparency in election campaigns.
+The social media giant said in a blog post that it will no longer allow ads for political, electoral and social issues on its platforms, which also include Threads, starting in early October.
+The company said it was making the decision because of the 27-nation EU’s “unworkable” Transparency and Targeting of Political Advertising regulations.
+The rules introduce “significant operational challenges and legal uncertainties,” Meta said.
+It’s not the first Big Tech company to make such a move. Google said last year that it would stop serving EU users political ads before the rules take effect, in an announcement that cited similar reasons.
+Under the regulations, which are set to take effect on Oct. 10, platforms will have to label political ads, disclosing who paid for them, and what campaign, referendum or legislative process they’re connected to. Ads will have to be preserved in a database, and they can only be targeted to users under strict conditions.
+The rules introduce “significant, additional obligations to our processes and systems that create an untenable level of complexity and legal uncertainty for advertisers and platforms operating in the EU,” Meta said.
+Violations can be hit with fines worth up to 6% of a company’s annual global revenue.
+The rules are part of Brussels’ wider efforts to counter foreign influence and manipulation in elections, and dovetail with the bloc’s other regulations designed to protect citizens’ privacy and hold platforms more accountable for internet users’ online safety. But those moves clash with President Donald Trump’s administration, which has lashed out at the EU’s digital rulemaking.
+Meta said its decision won’t affect users who want to debate politics on its platforms or prevent politicians, candidates and officer holders from “sharing political content organically.”
+“They just won’t be able to amplify this through paid advertising,” it said.

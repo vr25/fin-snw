@@ -1,0 +1,17 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Some of Wall Street's biggest investors made new bets on technology giants in the fourth quarter, loading up on stakes in Amazon (AMZN), Alphabet (GOOG, GOOGL), Alibaba (BABA), and Nvidia (NVDA).
+Warren Buffett's Berkshire Hathaway (BRK), however, did not. The conglomerate trimmed its holdings in Apple (AAPL) and HP (HPE) while adding to its stakes in oil giants Chevron (CVX) and Occidental Petroleum (OXY). There was at least one additional investment Berkshire kept confidential for now.
+The details about these new bets made in the fourth quarter emerged this week in a series of filings to the Securities and Exchange Commission. Large institutional investors are required to make these disclosures on a quarterly basis, showing what they bought and sold.
+What the latest batch showed is that many piled into tech names at the end of 2023.
+A hedge fund run by Michael Burry — who famously shorted subprime mortgages during the 2008 financial crisis and became a central figure in Michael Lewis's 2010 book "The Big Short" — added 35,000 shares of Alphabet and 30,000 shares of Amazon. That fund, Scion Capital, also boosted bets on Chinese e-commerce giants Alibaba and JD.com.
+Many hedge funds also gravitated to the stock of Nvidia, the dominant artificial intelligence chipmaker.
+Bridgewater Associates, the world's biggest hedge fund firm, increased its stake in Nvidia by 458% as it added more than 220,000 shares.
+It also increased its position in Alphabet by more than 465,000 shares, making it the fund's 12th-largest position as of the end of December, and added a small stake in Apple.
+Another hedge fund, AQR, increased its stake in Nvidia by 22%. But it trimmed its holdings in Apple and Microsoft, its two largest positions, by 5% and 4%, respectively.
+Berkshire sold just 1% of its holdings in Apple, or 10 million shares, leaving it with a huge stake of more than 950 million shares.
+Apple has had a rough start to 2024 as it juggled downgrades to its stock price, major changes to its App Store policies, and a potential antitrust lawsuit that could target large swaths of its business. These challenges mounted as it launched the ambitious Vision Pro headset.
+One other notable investor pared back its exposure to Apple in the fourth quarter: the Soros Fund.
+The outfit started by billionaire investor George Soros and now run by his son closed out a short position and zeroed out of its underlying holdings in the tech giant.
+Some of these same investors made some notable bets on the banking industry, especially a regional lender that is currently under a lot of scrutiny: New York Community Bank (NYCB).

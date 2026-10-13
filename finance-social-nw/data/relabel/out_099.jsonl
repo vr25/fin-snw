@@ -1,0 +1,20 @@
+{"id": "1980", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Bengaluru (Karnataka) [India], March", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1981", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Lafayette Parish Leads Louisiana in", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1982", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "AI's arrival complicates Big Tech", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1983", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "AI's arrival complicates Big Tech", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1984", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "AI's arrival complicates Big Tech", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1985", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Now That's Minty. 13 Montana", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1986", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Malwarebytes Antivirus Pros & Cons", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1987", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Apple Testing Siri Upgrade to", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "1988", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Trump says the US could", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1989", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1990", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1991", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1992", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1993", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1994", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "SpaceX, the Elon Musk-owned rocket", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1995", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Will the Iran War Evaporate", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1996", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Will the Iran War Evaporate", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1997", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Will the Iran War Evaporate", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1998", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "More than 25 establishments across", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1999", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Facebook worker faces criminal probe", "relation": "co-hype", "sentiment_alignment": 0.2}

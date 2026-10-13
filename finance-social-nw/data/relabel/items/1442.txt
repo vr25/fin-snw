@@ -1,0 +1,22 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+Decades after Intel Corporation (NASDAQ:INTC) walked away from Morris Chang's pitch to co-invest in Taiwan Semiconductor Manufacturing Co. Ltd (NYSE:TSM), the Taiwanese chip giant has skyrocketed past Intel in market value.
+What Happened: In a 2014 lecture at Stanford University, Chang, the founder of TSMC, shared the remarkable backstory of how he secured funding for what would become the world's largest dedicated chip foundry.
+At the time, Chang was tasked with piecing together financing, with the Taiwanese government promising up to 50% of the initial investment — if Chang could secure the other half from private investors, ideally a major global tech partner.
+Chang approached several industry giants, including Intel, Toshiba, Hitachi, and Sony. While Intel initially showed some interest, the conversations ultimately ended in rejection.
+Chang recalled how Intel's then-executive Craig Barrett met with him twice but eventually said no, saying the company wasn't interested.
+"The only company that appeared to be genuinely interested was Philips," Chang recounted. While he had hoped for a stronger technology partner, Chang settled for Philips, which invested 28%. With the Taiwanese government's 48% and additional funds from local investors, TSMC was officially launched in 1987.
+Subscribe to the Benzinga Tech Trends newsletter to get all the latest tech developments delivered to your inbox.
+Why It's Important: Fast forward to today, and the contrast between TSMC and Intel's fortunes couldn't be starker.
+As of May 2025, TSMC boasts a market capitalization of $908.78 billion, ranking as the world's 11th most valuable company, while Intel lags far behind with a market cap of $91.60 billion, sitting at 206th place globally.
+TSMC, which went public as an ADR in the U.S. in 1997, now controls over 60% of the global chip foundry market. It counts powerhouse clients like Apple Inc., Advanced Micro Devices, and Nvidia Corporation, leveraging process technologies and benefiting from the fabless chip model that has reshaped the semiconductor landscape.
+Meanwhile, Intel has struggled to maintain its former dominance. Over the past five years, Intel's stock has fallen more than 64% (whereas TSMC has gained BY 231.17%), losing ground not only in its traditional x86 stronghold but also in emerging areas like smartphone chips and AI, where Nvidia has surged ahead.
+At Intel's first-quarter 2025 earnings call, new CEO Lip-Bu Tan admitted, "Clearly, there are no quick fixes," as the company works through a multi-year transformation plan aimed at regaining competitiveness in AI, GPUs, and edge computing.
+But the bigger story today is how TSMC has far outpaced Intel's market value and global influence.
+With TSMC sitting atop the global semiconductor supply chain and Intel working hard to stage a turnaround, the once-dismissed foundry model now stands as a defining force in the future of chips.
+Read Next:
+Photo Courtesy: jamesonwu1972 On Shutterstock.com
+Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

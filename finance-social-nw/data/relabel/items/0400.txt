@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+(This article is part of Today’s Cache, The Hindu’s newsletter on emerging themes at the intersection of technology, innovation and policy. To get it in your inbox, subscribe here.)
+India’s Personal Data Protection Act weakens RTI
+Activists have long warned of dilution of the Right to information and with the Digital Personal Data Protection Act, of 2023, the qualified prohibitions to certain right to information to be kept secret have turned into total prohibitions.
+RTI activists argue that under the new provision that prohibits the disclosure of personal data of citizens by the government, it would be impossible to carry out social audits of government aid. The provision could also be misused by public officials to evade accountability by invoking the blanket ban on disclosing personal information by the government. Additionally, activists are also complaining that data of past applications on the RTI portal are not showing up and the portal itself has become cumbersome to use.
+Google hit with copyright lawsuit
+Alphabet’s Google was hit with a lawsuit by online job-search rival Jobindex. The Danish company has accused Google of copying job ads to its own service without permission and wants compensation and damages for copyright violations.
+The lawsuit, alleging copyright violations, was filed by the Danish Media Association a year after Jobindex complained to EU antitrust regulators that the U.S. tech giant unfairly favoured its own job-search services. This is the first lawsuit in the Danish courts under the new EU copyright rules regarding platforms’ liability for content uploaded to their services that came into force in 2021.
+Microsoft unbundles Teams to avert fines
+Microsoft will unbundle its chat and video app Teams from its Office product and make it easier for rival products to work with its software, in a move aimed at staving off a possible EU antitrust fine.
+The announcement from Microsoft came a month after the European Commission launched an investigation into Microsoft’s tying of Office and Teams following a complaint Salesforce-owned workspace messaging app Slack. Microsoft’s preliminary concessions has failed to address the regulator’s concerns, and the EU competition enforcer said it has taken note of the company’s announcement but declined further comments.
+Published - September 01, 2023 04:33 pm IST

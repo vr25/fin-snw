@@ -1,0 +1,29 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+VANCOUVER, BC / ACCESS Newswire / March 13, 2026 / Battery X Metals Inc. (CSE:BATX)(OTCQB:BATXF)(FSE:5YW0, WKN:A41RJF)("Battery X Metals" or the "Company") an energy transition resource exploration and technology company, announces that it has granted stock options ("Stock Options") and restricted share units ("RSUs") to certain directors, officers, and consultants of the Company, effective March 12, 2026 (the "Grant Date"), in accordance with its Omnibus Equity Incentive Plan (OEIP) (the "Plan").
+Stock Options
+The Company granted a total of 197,500 Stock Options at an exercise price of $2.10 per share. The Stock Options vest immediately on the Grant Date and have a two-year term expiring on March 10, 2028.
+Restricted Share Units
+The Company also granted a total of 151,500 RSUs to directors, officers, and consultants of the Company. The RSUs shall vest as follows:
+- 25% on the date that is four (4) months and one (1) day from the Grant Date;
+- 25% on the date that is six (6) months from the Grant Date;
+- 25% on the date that is nine (9) months from the Grant Date; and
+- 25% on the date that is twelve (12) months from the Grant Date.
+All securities are subject to a statutory hold period of four months and one day from the Grant Date, in compliance with applicable stock exchange policies.
+In accordance with Section 6.5(6)(c) of Canadian Securities Exchange Policy 6, equity grants issued by the Company under the Plan will not be greater than (i) 5% of the issued and outstanding shares to any individual or (ii) 10% in total in the next 12 months.
+The Stock Option and RSU grants to Massimo Bellini Bressi, Dallas Pretty, Howard Blank, Martino Ciambrelli, and John Campbell (the "Insider Grants") are "related party transactions" within the meaning of Multilateral Instrument 61-101 - Protection of Minority Security Holders in Special Transactions ("MI 61-101"). The Insider Grants are exempt from the valuation requirement of MI 61-101 by virtue of the exemptions contained in section 5.5(b) of MI 61-101 as the Company's common shares are not listed on a specified market and from the minority shareholder approval requirements of MI 61-101 by virtue of the exemption contained in section 5.7(1)(a) of MI 61-101 in that the fair market value of the Insider Grants do not exceed 25% of the Company's market capitalization. As the material change report disclosing the Insider Grants is being filed less than 21 days before the transaction, there is a requirement under MI 61-101 to explain why the shorter period was reasonable or necessary in the circumstances. In the view of the Company, it is necessary to immediately close the Insider Grants and therefore, such shorter period is reasonable and necessary in the circumstances to improve the Company's financial position.
+About Battery X Metals Inc.
+Battery X Metals (CSE:BATX) (OTCQB:BATXF) (FSE:5YW0, WKN:A41RJF) is an energy transition resource exploration and technology company committed to advancing domestic battery and critical metal resource exploration and developing next-generation proprietary technologies. Taking a diversified, 360° approach to the battery metals industry, the Company focuses on exploration, lifespan extension, and recycling of lithium-ion batteries and battery materials. For more information, visit batteryxmetals.com.
+On Behalf of the Board of Directors
+Massimo Bellini Bressi, Director
+For further information, please contact:
+Massimo Bellini Bressi
+Chief Executive Officer
+Email: mbellini@batteryxmetals.com
+Tel: (604) 741-0444
+Disclaimer for Forward-Looking Information
+This news release contains forward-looking statements within the meaning of applicable securities laws. Forward-looking statements in this release include, but are not limited to, statements regarding: the Company's expectations regarding the vesting and settlement of the restricted share units; the exercise of the stock options granted under the Plan; the Company's ability to attract, retain, and incentivize directors, officers, employees, and consultants through equity-based compensation; and the Company's broader corporate strategy, business plans, and growth objectives. Forward-looking statements are based on management's current expectations, estimates, assumptions, and projections that are believed to be reasonable as of the date of this news release. However, such statements are inherently subject to known and unknown risks, uncertainties, and other factors that may cause actual results, performance, or achievements to differ materially from those expressed or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: changes in the Company's business plans or strategic priorities; fluctuations in capital markets; regulatory or stock exchange requirements affecting equity compensation plans; the ability of the Company to retain key personnel; general economic, market, and geopolitical conditions; and other risks disclosed in the Company's public disclosure filings. Forward-looking statements reflect management's beliefs, assumptions, and expectations only as of the date of this news release and are not guarantees of future performance. Except as required by applicable securities laws, the Company undertakes no obligation to update or revise any forward-looking information to reflect new information, future events, or otherwise. Readers are cautioned not to place undue reliance on forward-looking statements and are encouraged to consult the Company's continuous disclosure filings available under its profile at www.sedarplus.ca for additional risk factors and further information.
+SOURCE: Battery X Metals
+View the original press release on ACCESS Newswire:
+https://www.accessnewswire.com/newsroom/en/metals-and-mining/battery-x-metals-announces-equity-incentive-grants-1147354

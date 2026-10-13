@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The inaugural session of the 16th IEEE UEMCON organised by IEM and UEM commenced at the IBM Louis V. Gerstner, Jr. Centre for Learning, New York, USA, from 22 to 24 October, marking a vibrant start to the international conference.
+The session was inaugurated by General Chair – Dr Son Vuong (University of British Columbia), along with Technical Program co-chairs – Dr Phillip Bradford (The University of Connecticut) and Dr Rajashree Paul (University of Engineering and Management).
+Advertisement
+  
+They opened the conference by outlining its purpose, objectives, and vision—to unite researchers, academicians, and industry professionals to exchange innovations and advancements across the fields of artificial intelligence, engineering, electronics and mobile communication, and ubiquitous computing.
+The first keynote session was delivered by Prof Shree K Nayar (Columbia University, USA), who spoke on “Computational Imaging and Future Cameras.” Prof Nayar emphasised how computational imaging combines innovative optics and advanced algorithms to create rich, detailed, and interactive visual experiences that are revolutionising modern imaging technology.
+The second keynote session was presented by Prof Daniel Dongyuel Lee (Cornell University, USA) on the topic “Neural Representations and Geometry in Large Networks.” His talk focused on understanding and improving neural network models through the study of high-dimensional geometric structures and advanced statistical methods.
+The conference venue offered world-class infrastructure and exceptional hospitality, creating an inspiring environment for academic & industry idea exchange. Participants expressed their appreciation to the organising committee for the smooth and well-coordinated execution of the event.
+Prof Satyajit Chakrabarti, director of IEM UEM group said: “The UEMCON 2025 conference organised by IEM and UEM in collaboration with IEEE at the IBM learning center in New York USA gives huge opportunities for our faculty, researchers and students to present their research work on a global stage and collaborate with global industry, research community and academic community. Researchers have come from top Universities like Columbia, University of California, Harvard and MIT and Industry speakers have come from IBM, Google, Microsoft etc. Huge opportunities generated for thousands of IEM and UEM students in India”.

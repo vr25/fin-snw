@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Technology giants Amazon, IBM, Google, Intel and Microsoft are all working on quantum technology, as are various other companies like Rigetti, IonQ, Quantum Computing Inc. and D-Wave Quantum Inc.
+The latest entrant into the space is Nvidia, with CEO Jensen Huang announcing in March that the company will build a quantum computing research center in Boston.
+"The surge in excitement now is driven by a convergence of technological advancements, funding and clearer pathways to real world applications," said Matt Langione, managing director and partner at Boston Consulting Group. "By some estimates, greater than $50 billion have been pledged to quantum technologies, of which quantum computing is one, by governments around the world."
+Experts say quantum computing has the potential to efficiently solve problems that would be taxing if not impossible for classical computers, though this does not mean that the technology will replace classical computers entirely.
+"Quantum computing will actually drive more classical computing because they're very complementary," Langione said. "Future problems that are solved by quantum computers will always be solved by hybrid setups, where you have a classical computer doing the part of the algorithm where classical computers are more efficient, and a quantum computer performing the part of the algorithm where quantum computers are more efficient."
+For example, quantum systems could be more efficient for things like coming up with new drug therapies or materials for better batteries. Analysts at McKinsey and Company estimate that the four industries likely to see the earliest economic impact from quantum computing are mobility, chemicals, financial services and life sciences, which stand to gain up to $2 trillion in value by 2035.
+"It's a new class of computation that I think can dramatically change most aspects of industry, commerce and science," said Peter Barrett, founder and general partner at venture capital firm Playground Global, which is also a major investor in quantum computing startup PsiQuantum.
+Despite massive advancements in the field in recent years, quantum computers still aren't able to solve big real-world problems just yet.
+CNBC visited Silicon Valley startup PsiQuantum to find out how close we are to having a useful quantum computer and spoke to experts about the major challenges this tech still faces as engineers work to transition the tech from lab experimentation to commercial viability. Watch the video to find out more.
+CNBC's Kate Rooney contributed to this report.

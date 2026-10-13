@@ -1,0 +1,63 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- 
+						
+				Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiationsThe Microsoft co-founder said he believes governments should be involved in monitoring what AI does and that it won’t slow down the industry’s progress.
+- 
+						
+				OpenAI pauses training of latest models after agents probed U.S. government sitesIt is the second time in three months that OpenAI has halted development of its models.
+- 
+						
+				Bill Gates says AI companies self-regulating isn't enough and governments should be involvedThe Microsoft co-founder and billionaire philanthropist said AI is capable of helping bad actors harm billions of people.
+- 
+						
+				Pope Leo delivers stark AI warning as he opens France trip“There is an urgent need for education in ethical discernment and the capacity to acknowledge the moral good,” he said.
+- 
+						
+				What to know about Muse, Meta's new AI agentMeta’s Muse goes beyond a traditional chatbot. It can perform tasks such as sending emails, booking travel, filling out forms and making purchases, with approval required for sensitive actions.
+- 
+						
+				It's cute. It's cuddly. And it wants all your data.Meta is touting its new personal AI agent, Muse, as a product “built for everyone” — including those who lack experience with technology.
+- 
+						
+				Meta bets big on new AI agent and glasses as Zuckerberg pushes back against doomCEO Mark Zuckerberg has distanced himself and Meta from recent calls by rival companies for a coordinated slowdown in the development of advanced artificial intelligence.
+- 
+						
+				A look at AI doomsday scenarios that researchers say could put humanity at riskRecent warnings about AI have sparked debate about how the technology could wipe out humanity.
+- 
+						
+				Is it ‘killer robots' or ‘super intelligence'? At the U.N., leaders see bothU.N. Secretary-General Antonio Guterres kicked off the parade of world leaders speaking at the General Assembly by calling for more oversight of AI.
+- 
+						
+				Bill Gates pushes for ‘smart use' of AI as his foundation builds more representative language dataThe Gates Foundation touted its new coalition of Anthropic, Google, OpenAI Foundation and dozens of other organizations working to make AI more accessible in underrepresented languages.
+- 
+						
+				China and U.S. compete for AI dominance but have shared concerns over safetyTreasury Secretary Scott Bessent proposed a new “notification mechanism” between China and the U.S. for AI incidents that could impact national security.
+- 
+						
+				Trump says he's creating an AI force and appointing a czar amid concerns over the rapidly developing technologyResearchers and industry leaders have called for a slowdown in the technology’s development, leading Trump to call the concerns a “hoax.”
+- 
+						
+				Google says its AI model gained unauthorized access to three outside systemsThe company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet.
+- 
+						
+				Hackers breached OpenAI, adding to fever pitch of security and safety concernsResearchers from a small cybersecurity company gained access to employees’ ChatGPT accounts. OpenAI said the vulnerabilities have since been patched.
+- 
+						
+				Anthropic says its model Claude is helping to build itself as fears grow over an AI takeoverClaude is leading 26% of Anthropic’s model research and development. It comes as concerns grow over AI models working autonomously and possibly advancing beyond human control.
+- 
+						
+				‘Godfather of AI' warns Congress has ‘maybe a year' left to regulate AIThere appeared to be a lot of talk about artificial intelligence and little progress on Capitol Hill this week. But members remain hopeful that Congress can act.
+- 
+						
+				OpenAI reveals new instances of ‘concerning' AI behavior during testingThe company said it was introducing a new framework for tracking, probing and disclosing instances where AI models acted without authorization.
+- 
+						
+				Here's what top tech leaders say about AI dangers and guardrailsThere are divided opinions, with some tech leaders bristling at the idea that their companies could not ensure safety on their own.
+- 
+						
+				Trump calls AI risks a ‘hoax,' says there is a ‘sick conspiracy' against AITrump is pushing back against calls by tech leaders for greater government oversight of AI.
+- 
+						
+				Trump downplays the need to check AI development and says he doesn't want to cede edge to ChinaTrump spoke a day after Dario Amodei, CEO of Anthropic, said the industry should halt its fast-moving development to give safety measures time to catch up.

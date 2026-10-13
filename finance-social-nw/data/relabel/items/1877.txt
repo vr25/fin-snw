@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+STORY: Microsoft and Meta will kick off Big Tech earnings this week under pressure to prove their costly bets on AI can power another year of strong growth.
+That's as a resurgent Alphabet takes the lead in the high-stakes race.
+The companies, along with Amazon, are expected to lift their AI spending this year by 30% to more than $500 billion.
+It's an unprecedented outlay that will sharpen investor scrutiny.
+Some have expressed doubts over whether Microsoft squandered a first-mover advantage in AI it secured through its OpenAI investment.
+Meta too is under pressure to show payoffs from its expensive push into superintelligence.
+Both stocks declined more than 6% in the last three months of 2025.
+While Amazon saw a small 5% gain after its November deal with OpenAI signaled that the largest cloud-computing provider in the U.S. was no longer behind on AI.
+Alphabet shares though surged about 29% in that period.
+It followed a strong reception of Google's latest Gemini 3 model.
+The company also recently struck a deal to power Apple's revamped Siri.
+LSEG data showed that in the October-December quarter, Google Cloud revenue growth likely quickened to 35% from 33.5% in the previous three months.
+But doubts linger about the real-world benefits for the businesses adopting the technology.
+And feeding into bubble fears that hounded the technology industry for much of last year.
+Alphabet Inc. is a holding company organized around 6 areas of activities:
+- operation of a web-based search engine (Google). Additionally, the group runs a video hosting and broadcasting site (YouTube) as well as a free on-line messaging service (Gmail);
+- development and production of home automation solutions (Nest Labs): Wi-Fi networks synchronized with the control programs for thermostats, smoke detectors and security systems;
+- research and development into biotechnology (Calico): dedicated to treating aging and degenerative diseases;
+- research into artificial intelligence (Google X);
+- investment services: management of an investment fund devoted to young businesses that operate in the new technology sector (Google Ventures) and an investment fund intended for already developed companies (Google Capital);
+- operation of a fiber optic internet access network infrastructure (Google Fiber).
+Net sales are distributed geographically as follows: the United States (47.6%), Americas (6%), Europe-Middle East-Africa (29.6%) and Asia-Pacific (16.8%).
+This super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Investor
+Investor
+This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Global
+Global
+This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus (Composite) and Visibility (Composite). The company must be covered by at least 4 of these 5 ratings for the calculation to be carried out. We recommend that you carefully review the associated descriptions.
+Quality
+Quality
+This composite rating is the result of an average of rankings based on the following ratings: Returns (Composite), Profitability (Composite) and Quality of Financial Reporting (Composite), and Financial Health (Composite). The company must be covered by at least 2 of these 3 ratings for the calculation to be performed. We recommend that you carefully read the associated descriptions.
+ESG MSCI
+ESG MSCI
+The MSCI ESG score assesses a company’s environmental, social, and governance practices relative to its industry peers. Companies are rated from CCC (laggard) to AAA (leader). This rating helps investors incorporate sustainability risks and opportunities into their investment decisions.

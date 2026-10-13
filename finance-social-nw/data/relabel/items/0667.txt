@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Android has had its fair share of security issues, malicious apps, and trojans. The platform, like any other, is not invulnerable to malicious actors and it can be a headache dealing with these issues. According to Bleeping Computer, a remote access trojan known as VajraSpy, was found in 12 malicious apps and six of those apps were available on the Google Play Store from April 2021 through September 2023.
+Estimated reading time: 2 minutes
+The apps have since been removed from Google Play but they can be found on third-party app stores and are being disguised as messaging and news apps. Installing the apps on your Android device will infect that device with VajraSpy which can then steal personal data from the target device. This data includes contacts and messages and in some cases, even record phone calls on the device.
+According to Bleeping Computer; ESET researchers who uncovered the campaign report that its operators are the Patchwork APT group, which has been active since at least late 2015, primarily targeting users in Pakistan.
+Bleeping Computer went on to report; In 2022, the threat actor unintentionally revealed details of their own campaign when they accidentally infected their infrastructure with the ‘Ragnatela’ RAT, a tool they were employing at the time. This misstep provided Malwarebytes with a window into the Patchwork’s operations.
+The link between VajraSpy and the activity cluster that ESET identifies as Patchwork was first established by QiAnXin in 2022 (attributing to APT-Q-43), followed by Meta in March 2023, and Qihoo 360 in November 2023 (attributing to APT-C-52).
+Here are the apps that were part of this discovery:
+- The apps that were available on Google Play are: 
+  - Rafaqat رفاقت (news)
+  - Privee Talk (messaging)
+  - MeetMe (messaging)
+  - Let’s Chat (messaging)
+  - Quick Chat (messaging)
+  - Chit Chat (messaging)
+- VajraSpy apps available outside Google Play are all bogus messaging apps: 
+  - Hello Chat
+  - YohooTalk
+  - TikTalk
+  - Nidus
+  - GlowChat
+  - Wave Chat
+What do you think of this report? You may comment by using the social media buttons below. Please share on your favorite social media site and tag us on Facebook, X, MeWe, and LinkedIn. Or join our Telegram channel here.
+In some of our articles and especially in our reviews, you will find Amazon or other affiliate links. As Amazon Associates, we earn from qualifying purchases. Any other purchases you make through these links often result in a small amount being earned for the site and/or our writers. Techaeris often covers brand press releases. Doing this does not constitute an endorsement of any product or service by Techaeris. We provide the press release information for our audience to be informed and make their own decision on a purchase or not. Only our reviews are an endorsement or lack thereof. For more information, you can read our full disclaimer.

@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon, Apple, Google, Meta and Microsoft hold ‘gatekeeper’ status for consumers’ digital usage.
+The walled gardens of digital platform giants are the latest areas to come under regulatory scrutiny as part of the Digital Platform Services Inquiry.
+The Australian Competition and Consumer Commission is set to investigate the integration of cloud storage and other digital services by the likes of Amazon, Apple, Google, Meta and Microsoft.
+In particular, this will apply to digital platforms’ mass data collection and ‘gatekeeper’ status as providers of integrated cloud storage solutions.
+“Consumer cloud storage is commonly embedded within digital platform operating systems, devices and productivity suites and in some cases is no longer available as a standalone product,” the ACCC explained. “Consumers may use a bundled cloud storage service even when there are more innovative or high-quality alternatives available to them.”
+Although the ACCC highlights that integrated cloud storage services can be convenient for consumers, they also “also discourage consumers from purchasing new products and services outside the ecosystem”, decreasing competition.
+“When a digital platform holds a crucial ‘gatekeeper’ position between consumers and businesses, it has the opportunity and incentive to harm competition,” the ACCC added. “For example, certain digital platforms can exercise control through self-preferencing – favouring their own products and services over competitors who rely on the platform to reach consumers.”
+The ACCC cited that voice assistants like Google Assistant, Siri and Alexa may provide an opportunity for Google, Apple and Amazon to encourage users to buy their products and services to “the detriment of rivals”.
+Also under scrutiny are platforms’ greater “access to rich consumer data” gathered throughout their ecosystems of products and services.
+The ACCC claimed that consumers face the risk of losing control over their data if digital platforms continue to release new products.
+“Consumers who use multiple products from a single digital platform may be forced to agree to unfavourable terms and conditions and/or accept unpalatable data collection practices due to a lack of suitable alternatives or because it is simply too inconvenient or costly to move out of that ecosystem,” ACCC Chair Gina Cass-Gottlieb said.
+“This report is further evidence supporting our earlier recommendations that we should update our competition and consumer laws to ensure consumers and businesses continue to benefit from the opportunities created by digital platform services,” she added. “Our proposed reforms include a call for targeted consumer protections and service-specific codes to prevent anti-competitive conduct by particular designated digital platforms.”
+The ACCC added that “digital platforms have expanded beyond their original core offerings (for example, in search and social media) to other markets” including generative artificial intelligence, digital health services, information storage, education and financial products.
+The ACCC’s Digital Platform Services Inquiry has previously investigated mobile apps and e-commerce providers.

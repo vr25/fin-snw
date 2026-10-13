@@ -1,0 +1,36 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+OpenAI pauses training a second time as rogue agents hit U.S. government websites
+As the internet evolved into its current account-driven form, content aggregator sites replaced the chaotic, link-driven browsing of the early web with a structured experience defined by recommendations, feeds, and metrics.
+This is where Reddit positioned itself, offering a hybrid between a discussion forum and a content aggregator, striking a balance between user-driven submissions and algorithmic sorting. The network effect did the rest, establishing Reddit as the go-to supplement to Google queries, where algorithmic search met human judgment in the form of upvotes, comments, and collective filtering.
+Fast forward to Reddit’s initial public offering (IPO) and the rise of the AI hype cycle, the platform’s valuation now heavily relies on the immense training value of its user-generated discussions. This corpus transforms casual conversations into monetizable data.
+For Reddit stock investors, this represents lucrative exposure opportunities. Let’s examine how Reddit could benefit from current AI narratives in play.
+Reddit’s Slice of the Giant AI Pie
+According to June’s Semrush study, when users ask AI models a query, Reddit is the most likely source to be tapped, at a citation frequency of 40.11%. Founder-denounced Wikipedia is a distant second at 26.33%, while Alphabet’s YouTube and Google are tapped at around 23% each.
+Given that Big Tech has committed to AI investments of over $320 billion in 2025 alone, this gives Reddit significant leverage. In particular, when users interact with AI models, their thoughts and attitudes are shaped by those interactions, which ultimately translates to the behavior of the masses. Such granular control potential has never been seen before in human history.
+Every government understands how information gateways influence public opinion, and in the AI era, Reddit sits at a privileged choke point. If AI models are trained mainly on Reddit’s discourse, then the platform is not merely a repository of memes and arguments. Instead, Reddit becomes an invisible hand guiding the narratives that shape cultural and political momentum.
+We have already seen an unprecedented public-private partnership (PPP) push with President Trump’s visit to Saudi Arabia. Likewise, an AI-military-industrial complex has emerged, with Larry Ellison’s Oracle and Alex Karp’s Palantir at the center.
+Having not only funded the influential Tony Blair Institute for Global Change (TBI), Ellison, who is aligned with Israel, expanded its reach beyond its already substantial media holdings with the acquisition of TikTok. The most recent acquisition of Electronic Arts with the help of Saudi capital is just another hurried step in the rush to consolidate the content space.
+But where is Reddit in this push?
+Reddit and OpenAI
+According to Orca Research Pod, OpenAI’s ChatGPT-4o is the most adopted AI model at 44.72%, with Microsoft’s Azure cloud solution responsible for 30% supply of infrastructure for organizations.
+OpenAI is not only tied to Microsoft, but also to Oracle and Palantir. Shortly after President Trump’s inauguration, OpenAI and Oracle forged a strategic partnership within the Stargate AI infrastructure project, facilitated by SoftBank. Likewise, OpenAI partnered with Anduril Industries in late 2024, which is partnered with Palantir.
+Weaponization of AI became more direct with OpenAI’s $200 million contract with the US Department of War in June, for the purpose of “both warfighting and enterprise domains”. However, as this integration continues, it is likely that OpenAI shifts away from Reddit.
+After all, Reddit not only entails messy, user-driven content but AI bot spam as well. This has already been noticed by Andrea Bosoni, who charted a significant reduction of ChatGPT traffic to Reddit.
+In this light, Reddit’s current relevance to AI training may represent a peak rather than a sustainable trajectory. If OpenAI and its partners increasingly prioritize closed, curated datasets aligned with government and enterprise needs, Reddit could find itself sidelined.
+OpenAI and Google
+In the emerging AI-powered panopticon, Alphabet’s Google plays a key role, having recently crossed the $3 trillion valuation. Following the trend of systems integration to be harnessed by aligned governments, Google also ditched its prior commitment not to use AI for weapons and surveillance.
+In the current AI play, Google’s Gemini is having a transformational effect on the entire internet. Namely, its top-loaded “AI Overview” feature summarizes answers for user queries, which makes it less likely for users even to visit sites that contribute to providing those answers.
+Reddit becomes collateral damage in this shift. As Google rolls out AI Overviews at scale, the incentive for users to click through to Reddit threads – the very lifeblood of its traffic pipeline – diminishes.
+This is why Reddit is now in the process of shoring up its bottom line, following a data sharing agreement with Google in February 2024. According to Bloomberg, Reddit is trying to ink a more lucrative deal, potentially including dynamic pricing. A deal with OpenAI is also on the table for a similarly upgraded agreement from May 2024.
+Given that Google and Reddit are ideologically aligned, there is strong potential for synergistic growth. Google’s AI Overview could drive more targeted engagement, directing users to high-traffic discussions while reducing noise and enhancing content discoverability.
+This alignment also opens new revenue streams. Dynamic pricing and upgraded data-sharing agreements could allow Reddit to monetize its content more effectively. At the end of the line, the value of Reddit, as a platform for curated online discourse, is unlikely to diminish, as curation of AI models has been prioritized above all other concerns.
+Reddit’s Price Targets
+In July’s Q2 earnings report ending June, Reddit’s revenue increased by 78% year-over-year to $500 million, delivering net income of $89 million compared to a loss of $10 million in the year-ago quarter.
+Over the last three months, Reddit stock gained 36% value. Now in the price correction zone after a week’s drop of 11%, the value of $208 is in line with late August’s price level. Owing to AI narratives, Reddit’s price-to-earnings ratio is exceedingly high, presently at 174.88.
+Following the recent price correction, according to WSJ’s forecasting data, the average Reddit price target is now above the current price level, at $226.92 per share. The bottom outlook for Reddit stock is $110 while the ceiling price target is $303 per share. At the moment, 17 analysts recommend buying, only one is bearish, and 9 recommend holding.
+***
+Looking to start your trading day ahead of the curve?
+Get up to speed before the bell with Bull Whisper—a sharp, daily premarket newsletter packed with key news, market-moving updates, and actionable insights for traders.
+Start your day with an edge. Subscribe to Bull Whisper using this link.

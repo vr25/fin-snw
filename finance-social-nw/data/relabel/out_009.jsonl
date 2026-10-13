@@ -1,0 +1,20 @@
+{"id": "0180", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In today's digitally connected world,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0181", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Chink In The", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0182", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chokepoint Capitalism (nonfiction –", "relation": "causal-driver", "sentiment_alignment": -1}
+{"id": "0183", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Evidence of fake review", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0184", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Evidence of fake review", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0185", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The head of Italy's", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0186", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Lyft confirmed it", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0187", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Patented Progressive Web App", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0188", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Patented Progressive Web App", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0189", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Patented Progressive Web App", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0190", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "BEIJING – Asian stock", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0191", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Good afternoon, good evening", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0192", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Date\nA forecast deterioration", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0193", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Date\nA forecast deterioration", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0194", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Date\nA forecast deterioration", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0195", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The European Union has", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0196", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The European Union has", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0197", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The European Union has", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0198", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "LONDON (AP) â TikTok,", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0199", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The U.S. dollar declined", "relation": "co-hype", "sentiment_alignment": 1}

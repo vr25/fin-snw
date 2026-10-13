@@ -1,0 +1,7 @@
+{"id": "0808", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The uptrend is not", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0895", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Shares of HubSpot", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "1184", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Market Closed Tech", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1809", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "4 Cheap Stock Picks", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2047", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Home > Article VOL", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "2048", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Home > Article VOL", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "2049", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Home > Article VOL", "relation": "causal-driver", "sentiment_alignment": 0.5}

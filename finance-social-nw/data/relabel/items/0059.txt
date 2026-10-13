@@ -1,0 +1,34 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+AI race heats up! Microsoft invests '$10 BILLION' in ChatGPT-maker OpenAI to compete with Google
+- Microsoft announced it invested '$10 billion' into OpenAI, maker of ChatGPT
+- ChatGPT is an AI-powered chatbot with the ability to mimic human writing
+- The chatbot passed some of America's most challenging professional exams
+- See more Daily Mail on Google - save us as a Preferred Source
+The artificial intelligence race is heating up.
+Microsoft announced Monday that it is making a 'multiyear, multibillion-dollar investment' in the startup OpenAI, the maker of ChatGPT, to compete with Google in commercializing new AI breakthroughs.
+A Microsoft spokesperson declined to comment on the terms of the latest investment, which some media outlets reported would be $10 billion.
+The tech giant's new agreement is the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019.
+The partnership will help further the chatbot by providing OpenAI with the necessary resources.
+ChatGPT also made headlines Monday after it passed some of America's most challenging professional exams, showing it could obtain an MBA, and will soon pass difficult tests like the United States Medical Licensing Exam and the Bar.
+While an amount was not given, some speculate it was about $10 billion. The investment is to further the partnership between Microsoft and OpenAI
+OpenAI's free writing tool ChatGPT launched on November 30 and has brought public attention to the possibilities of new advances in AI.
+The chatbot is a large language model trained on massive text data, allowing it to generate eerily human-like text in response to a given prompt.
+It is part of a new generation of machine-learning systems that can converse, generate readable text on demand and produce novel images and video based on what they´ve learned from a vast database of digital books, online writings and other media.
+Microsoft's partnership enables it to capitalize on OpenAI's technology, while providing its resources to OpenAI - together, the pair have designed a supercomputer to power the technology.
+The tech giant is committing even more resources to keep the two companies at the forefront of artificial intelligence via so-called generative AI, technology that can learn from data how to create virtually any type of content simply from a text prompt.
+'In this next phase of our partnership,' said a statement from Microsoft CEO Satya Nadella, customers who use Microsoft's Azure cloud computing platform will have access to new AI tools to build and run their applications.
+OpenAI began as a nonprofit artificial intelligence research company in December 2015.
+With Tesla CEO Elon Musk as its co-chair and among its early investors, the organization's stated aims were to 'advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate a financial return.'
+That changed in 2018 when it incorporated a for-profit business Open AI LP, and it shifted nearly all its staff into the business after releasing its first generation of the GPT model for generating human-like paragraphs of readable text.
+OpenAI's free writing tool ChatGPT launched on November 30 and has brought public attention to the possibilities of new advances in AI
+Musk also left its board in 2018.
+Musk recently brought up the chatbot's abilities on Twitter, tweeting, 'It's a new world. Goodbye homework!'
+The post is about students using ChatGPT to write their essays.
+OpenAI's other products include the image-generator DALL-E, first released in 2021, the computer programming assistant Codex and the speech recognition tool Whisper.
+Microsoft said Monday its strengthened partnership can help 'to accelerate AI breakthroughs to ensure these benefits are broadly shared with the world.'
+The investment announcement came a day before Microsoft was scheduled to report its earnings from the October-December financial quarter and after disclosing last week its plans to lay off 10,000 employees, close to five percent of its global workforce.
+Late last week, The New York Times reported that Google executives are engaged in plans to 'demonstrate a version of its search engine with chatbot features this year' and unveil more than 20 projects powered by artificial intelligence.
+However, the news also broke as Google's parent company Alphabet cut about 12,000 jobs globally, citing a changing economic reality as it became the latest US tech giant to enact large-scale restructuring.
+The layoffs come a day after Microsoft said it would reduce staff numbers by 10,000 in the coming months, following similar cuts by Facebook owner Meta, Amazon and Twitter as the tech sector girds for the economic downturn.

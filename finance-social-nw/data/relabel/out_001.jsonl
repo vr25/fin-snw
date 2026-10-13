@@ -1,0 +1,20 @@
+{"id": "0020", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Grasping the Metaverse What is", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0021", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Grasping the Metaverse What is", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0022", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Grasping the Metaverse What is", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0023", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A new update to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0024", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A new update to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0025", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A new update to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0026", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "NJ cop hacked 2,800", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0027", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Cloud-Native Goes Mainstream as", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0028", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Cloud-Native Goes Mainstream as", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0029", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Cloud-Native Goes Mainstream as", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "0030", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "TechRadar Verdict As a", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "0031", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "DUBLIN, Dec. 9, 2022", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0032", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0033", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Israel is known for", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0034", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "PARIS, Dec. 14, 2022", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0035", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "News Regional News Election", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0036", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Hands-on with LG's 240Hz", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0037", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "China-owned TikTok will be", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0038", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "I've wiled away the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0039", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google has rolled out", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Vast cyber espionage campaign linked to China — report
+WASHINGTON, United States — Online attackers with clear links to China are behind a vast cyber espionage campaign targeting government agencies of interest to Beijing, Google subsidiary Mandiant said on Thursday.
+“This is the broadest cyber espionage campaign known to be conducted by a China-nexus threat actor since the mass exploitation of Microsoft Exchange in early 2021,” said Mandiant chief technology officer Charles Carmakal.
+The cyber attackers compromised computer defenses of hundreds of organizations, in some cases stealing “emails of prominent employees dealing in matters of interest to the Chinese government,” Carmakal added.
+Mandiant reported having “high confidence” that a group referred to as UNC4841 was behind a wide-ranging espionage campaign “in support of the People’s Republic of China.”
+The hackers targeted victims in at least 16 different countries, striking organizations in the public and private sectors worldwide, the report said.
+The targeting focused on issues of high policy importance to the Chinese government, particularly in the Asia-Pacific region and Taiwan, according to the report.
+Victims included foreign ministries as well as research organizations and foreign trade missions based in Hong Kong and Taiwan, Mandiant said in its findings.
+Cyber attacks involved email messages booby-trapped with malicious code and exploited a vulnerability in Barracuda software for screening such missives to make sure they are safe, according to the report.
+The cyber espionage activity was detected in May and is believed to have started as early as October of last year.
+“We continue to see evidence of ongoing malware activity” on some systems that were compromised, Barracuda told AFP.
+The 2021 hack of Microsoft Exchange, attributed by security researchers to a Beijing-backed hacker group, affected at least 30,000 organizations in the US including businesses and local governments.
+Several US federal agencies were fighting off a seemingly unrelated cyber attack on Thursday, according to CNN.
+RELATED STORIES
+4 common cybersecurity threats to watch out for
+At least 10 hacking groups using Microsoft software flaw — researchers

@@ -1,0 +1,27 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+OpenAI CEO Admits ‘People Are Worried’ About the Company’s Massive Infrastructure Projects: ‘Growing Faster Than Any Business’
+The project sites require as much electricity as it would take to power five million U.S. homes.
+Key Takeaways
+- OpenAI is building five new AI data centers in the U.S. over the next three years.
+- The company’s CEO Sam Altman acknowledged that “people are worried” about the scale of AI spending.
+- Altman says that the projects are necessary to keep pace with demand for AI.
+OpenAI CEO Sam Altman announced on Tuesday what he called the “largest infrastructure project of the modern Internet era” — an expansive AI project with building sites in Texas, Ohio, and New Mexico.
+OpenAI revealed on its blog that it plans to build a network of five AI data centers over the next few years through Stargate, a collaboration with Oracle, Nvidia, and SoftBank that was announced in January. The new structures will require seven gigawatts of electricity, which is about three-and-a-half Hoover Dams or enough power to fuel over five million U.S. homes. It requires about $400 billion in investment over the next three years.
+If this sounds big, even Altman acknowledges the scale of the investment.
+“People are worried,” Altman told CNBC on Wednesday. “I totally get that. I think that’s a very natural thing. We are growing faster than any business I’ve ever heard of before.”
+Altman said that there had been a tenfold increase in the number of ChatGPT users within the past 18 months. According to Bloomberg, 700 million people use ChatGPT every week. Building AI infrastructure is “what it takes to deliver AI,” Altman explained to CNBC. Unlike other technological revolutions, there is “so much infrastructure that’s required,” he noted.
+“This is a small sample of it,” Altman told the outlet.
+Critics have cautioned that there could be an AI spending bubble, and Altman himself has also warned of it. In August, at a press dinner, Altman said that investors were “overexcited” and that AI startups have achieved “insane” valuations.
+Related: Saying ‘Please’ and ‘Thank You’ to ChatGPT Costs OpenAI ‘Tens of Millions of Dollars’
+“Are we in a phase where investors as a whole are overexcited about AI?” he said at the dinner. “My opinion is yes.”
+Meanwhile, tech giants like Oracle, Nvidia, and Microsoft all depend heavily on OpenAI to help build AI and data center infrastructure.
+Earlier this week, Nvidia announced plans to invest up to $100 billion in OpenAI to build more data centers to develop and run AI models.
+Key Takeaways
+- OpenAI is building five new AI data centers in the U.S. over the next three years.
+- The company’s CEO Sam Altman acknowledged that “people are worried” about the scale of AI spending.
+- Altman says that the projects are necessary to keep pace with demand for AI.
+OpenAI CEO Sam Altman announced on Tuesday what he called the “largest infrastructure project of the modern Internet era” — an expansive AI project with building sites in Texas, Ohio, and New Mexico.
+OpenAI revealed on its blog that it plans to build a network of five AI data centers over the next few years through Stargate, a collaboration with Oracle, Nvidia, and SoftBank that was announced in January. The new structures will require seven gigawatts of electricity, which is about three-and-a-half Hoover Dams or enough power to fuel over five million U.S. homes. It requires about $400 billion in investment over the next three years.
+If this sounds big, even Altman acknowledges the scale of the investment.

@@ -1,0 +1,36 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+After remaining dormant for nearly 1½ years, the initial public offering (IPO) landscape is heating up as chip manufacturer Arm Holdings Ltd. plans for a multibillion-dollar listing.
+The British semiconductor designer, owned by Japanese investment holding company SoftBank Group, filed an application on Aug. 21 to list its shares on the tech-focused Nasdaq Stock Exchange in the U.S. The move places the company in a position to become publicly traded at a time when tech IPOs have been sluggish.
+Arm plans to raise between $8 billion and $10 billion from its IPO, giving it a valuation of $60 billion to $70 billion, according to reports. Slated to begin trading by September, Arm is poised to be one of the biggest IPOs in 2023 globally.
+Don’t Miss:
+- Until 2016 it was illegal for retail investors to invest in high-growth startups. Thanks to changes in federal law, this Kevin O’Leary-Backed Startup Lets You Become a Venture Capitalist With $100
+- Airbnb was worth $47 billion at IPO. This New ‘Airbnb For RV's' Platform Takes On The $540 Million RV Rental Market With 25% In Savings And $50,000 For Renters is open for anyone to invest.
+Capitalizing On The Semiconductor And AI Boom
+The semiconductor industry has remained resilient amid the continued tech rout over the last couple of years because of the heightened demand for chips created by the COVID-19 pandemic. Capitalizing on this trend, Arm quickly became an important player in the space, thanks to its licensing business.
+The company sells licenses for an essential instruction set that's the core of practically all mobile chips. It has extended its reach to encompass PC and server chips as well. Arm's chip framework is present in 99% of smartphones, which establishes the company as a critical technology supplier to tech giants worldwide. The British semiconductor manufacturer has been strategically shifting toward producing and manufacturing more comprehensive chip designs, which is expected to increase the company's revenue significantly.
+The AI boom has propelled rivals like Nvidia to astronomical heights. Nvidia Corp. is currently sitting at a $1.23 trillion market capitalization and up nearly 350% in the past ten months. Despite only roughly $32.5 billion in revenue in the past 12 months, optimism around artificial intelligence has propelled the company to a valuation of 38x the previous 12 months’ revenue.
+In the startups realm, AI startups are taking a massive portion of the current venture capital landscape. Companies like OpenAI famously raked in $10 billion from Microsoft Corp. Retail investing trends in the startups realm have followed suit with companies like Jurny, and AI automation platform for Airbnb, bringing in over $2.3 million from retail investors in its ongoing raise.
+Second IPO Rodeo
+This isn't the first time Arm has gone public. After its founding in 1990 as a joint venture, the company launched an IPO in 1998 and was traded on the London Stock Exchange (LSE) for 18 years before SoftBank acquired it for $32 billion in 2016.
+SoftBank had planned to sell Arm to U.S.-based chipmaker Nvidia in 2020 for $ 40 billion, which would have been one of the most significant deals in the semiconductor industry. But the acquisition was scrapped in 2022 because of "significant regulatory challenges," as the Federal Trade Commission (FTC) sued Nvidia to block the merger. Arm also faced substantial regulatory pressure from British authorities.
+Nonetheless, SoftBank's decision to list Arm in the U.S. has been a setback for the LSE, which competes with the U.S. market.
+"There was a difference between the demands of a listed company in the U.K. versus a listed company in the U.S., and that was one of the rationales why ultimately Arm chose to go to the U.S.," LSE CEO Julia Hoggett said.
+Rising costs and supply headwinds are the major reasons behind Arm's decision to go public.
+"Resources required to develop leading-edge products are significant and continue to increase exponentially as manufacturing process nodes shrink," the company stated.
+SoftBank will retain a majority stake in the company, according to the filing.
+"As long as SoftBank Group controls us and/or is entitled to certain rights under the Shareholder Governance Agreement, other holders of our ordinary shares and ADSs will have limited ability to influence matters requiring stockholder approval or the composition of our board of directors," Arm stated.
+Strong Financials
+Arm dispatched more than 30 billion chips in its fiscal 2023, which ended in March, according to a disclosure. The company traditionally receives a fee for each chip that integrates its technology and is shipped.
+In fiscal 2023, the company generated $2.68 billion in revenue, slightly down from the $2.7 billion reported in fiscal 2022. Arm disclosed net income of $524 million. The chip maker derived approximately 44% of its total revenue from its three most significant clients. Arm China, operating as an independent entity, represented 24% of the sales, while Qualcomm, currently entangled in a legal dispute with Arm over licensing infringements, contributed to 11% of the sales.
+The company is also encountering challenges stemming from decreasing demand for products like smartphones, a trend that has adversely impacted chip manufacturers across the industry. Arm experienced a 4.6% year-over-year decline in net sales during the second quarter, resulting in a deficit, according to SoftBank's financial report. Simultaneously, SoftBank's Vision Fund has incurred substantial losses because of unsuccessful technology investments in a high-interest-rate economic environment.
+Banking On Artificial Intelligence
+The rapid growth of artificial intelligence (AI) has spilled over to the semiconductor industry, with chip maker Nvidia's stock tripling so far this year. Arm expects to follow a similar trajectory. The company stated in its IPO filing that its technology is important for applications involving artificial intelligence, even though its focus is on central processing units (CPUs) rather than the graphics processing units (GPUs) crucial for developing extensive AI models.
+"The CPU is vital in all AI systems, whether it is handling the AI workload entirely or in combination with a coprocessor, such as a GPU or an NPU (neural processing unit)," Arm reported in its filing.
+Arm is entering the market when investor interest in next-generation semiconductors is surging because of demand fostered by artificial intelligence. The popularity of generative AI applications has sparked enthusiasm.
+See more on startup investing from Benzinga:
+- Consuming too much caffeine but still tired? This startup found The Secret Behind Why Your Coffee and CBD Might Not Be Working
+- Gamers are selling their old gaming items for millions. Learn why everyday gamers and investors are claiming a stake in their side hustles and how they invested over $1.2 million in this startup
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

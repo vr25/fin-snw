@@ -1,0 +1,30 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Gemini for Home will replace Google Assistant for home devices, with early access beginning in October, wrote Anish Kattukaran, chief product officer at Google Home and Nest, in a Wednesday (Aug. 20) blog post.
+“You still say ‘Hey Google’ to get started, but your interactions will feel fundamentally new,” the post said. “Gemini will understand the context and get it done, and we’re replacing rigid commands so you can use more nuanced or complex requests, too.”
+Examples include finding music by description, such as “Play the song of the year winner from 1990” or “Play that song from this year’s summer blockbuster about race cars,” according to the post.
+Gemini can also execute multiple commands at once, such as “Dim the lights and set the temperature to 72 degrees,” and interpret exceptions like “Turn off the lights everywhere except my bedroom,” per the post.
+The assistant can coordinate daily routines by creating shopping lists, setting cooking timers and adding calendar events, the post said. It can also answer open-ended questions, such as “How can I keep raccoons out of my backyard at night?” or “What’s the best time of year to visit the Greek islands?”
+Gemini Live will allow for ongoing conversations without repeatedly saying the wake phrase, according to the post.
+Users can launch the mode by saying, “Hey Google, let’s chat,” per the post. Gemini Live supports tasks such as step-by-step cooking help, troubleshooting home appliances, planning meals or brainstorming a bedtime story.
+“Gemini for Home uses the advanced reasoning, inference and search capabilities of our most capable models, making it both more powerful and easier to use than Google Assistant,” the post said.
+Read also: Amazon Plans to Release ‘Constellation’ of AI-Powered Devices
+Consumer Trust in Voice Assistants Drops
+The upgrade comes as trust in voice assistants has declined, according to the 2024 PYMNTS Intelligence report “GenAI and Voice Assistants: Adoption and Trust Across Generations.” The main reason for the decrease may be a perceived lack of improvement and reliability in voice assistants.
+      
+    We’d love to be your preferred source for news.
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+      
+ 
+While the report focused on trusting AI during unexpected events like changing one’s appointments due to a flight delay, it found that 60% of consumers said they believe in the future capabilities of voice assistants in 2024, down from 73% in 2023. Just  8% of those surveyed said voice assistants are currently as smart and reliable as humans. However, double that number of consumers said voice assistants would be as smart as humans within two years.
+“Consumers, especially younger ones, often have high hopes and lofty expectations for technological advancements,” the report said. “Early adopters and digital natives might even tolerate some flaws and inconsistencies as emerging technology matures. However, patience will wear thin when these issues persist over time, leading to decreased trust at scale.”
+Google’s upgrade of Google Assistant underscores its efforts to bring Gemini into more consumer products. The AI model already powers mobile apps and services, and its expansion into the home puts the company in direct competition with Amazon’s Alexa, which has also been updated with new AI capabilities.
+Meanwhile, Apple is testing a redesigned Siri powered by large language models, which could come to iPhones and iPads next year. The company is planning to unveil a multi-user home operating system called Charismatic with a Siri interface. Apple has been criticized for lagging behind its competitors in rolling out AI features.
+“Apple Intelligence doesn’t appear in any serious public gen AI rankings,” PYMNTS CEO Karen Webster wrote in a July column. “It lags behind even X.ai’s Grok. That’s not a public relations problem. It’s a strategic misstep. Maybe even a crater-sized hole that could prove Apple’s fatal flaw. Apple is 2025’s worst-performing Big Tech stock… Microsoft, Nvidia and Meta are all up. Even Amazon and Alphabet are outperforming. Only Tesla has done worse.”
+Gemini for Home will come to existing speakers and displays over time, with free and paid versions, Google’s blog post said. The company will share more details about the rollout in the coming weeks.
+For all PYMNTS AI coverage, subscribe to the daily AI Newsletter.
+Read more:
+GenAI and Voice Assistants: Adoption and Trust Across Generations
+Amazon’s Alexa+ Voice Assistant Draws 100,000 Users as Rollout Continues
+Apple’s Siri: Once a Pioneer, Now an AI Laggard

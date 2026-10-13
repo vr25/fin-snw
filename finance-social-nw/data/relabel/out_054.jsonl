@@ -1,0 +1,20 @@
+{"id": "1080", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Alphabet unit Google GOOGL-Q won a", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1081", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Outstanding Roadside Views of The Last", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1082", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By Katie Paul NEW YORK (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1083", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Katie Paul NEW YORK (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1084", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "By Katie Paul NEW YORK (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1085", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A false story about a violent", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1086", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Large and small language models continue", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1087", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The owner of the shuttered Three Mile", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1088", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "THE NEWS CHRONICLES has confirmed that", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1089", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Steve Cohen's Point72 Is Dumping These", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1090", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Meta Platforms (NASDAQ: META) Price Prediction", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1091", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "The Chinese central bank's largest stimulus", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1092", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The Chinese central bank's largest stimulus", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1093", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Chinese central bank's largest stimulus", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1094", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia (NASDAQ: NVDA) stock's generated mind-blowing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1095", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia (NASDAQ: NVDA) stock's generated mind-blowing", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1096", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia (NASDAQ: NVDA) stock's generated mind-blowing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1097", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Here is a roundup of stories", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1098", "ticker_a": "META", "ticker_b": "SMCI", "first_words": "NEW YORK, Sept. 26, 2024 (GLOBE", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1099", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "While there's no denying that artificial", "relation": "co-hype", "sentiment_alignment": 0.7}

@@ -1,0 +1,65 @@
+TICKER_A: AVGO
+TICKER_B: META
+POST:
+S&P 500 Hits All-Time High in Late-Day Advance: Markets Wrap
+(Bloomberg) — A rally in chipmakers drove stocks to all-time highs, while US-Russia talks raised hopes of an end to the war in Ukraine.
+The S&P 500 topped its January record.
+Equities have been stuck in a narrow range amid uncertainities including tariffs, inflation and the geopolitical scenario.
+To Matt Maley at Miller Tabak + Co., only a meaningful break of the S&P 500 above its record would be a compelling development.
+“The high in January was only a very mild move above the record high set in December, and it fell right back into its sideways range very quickly.”
+The S&P 500 rose 0.2%. The Nasdaq 100 added 0.2%. The Dow Jones Industrial Average wavered. A closely watched gauge of chipmakers gained 1.7%.
+Intel Corp. jumped amid breakup speculation. Super Micro Computer Inc. soared on a bullish outlook. Meta Platforms Inc. halted a 20-day rally.
+The yield on 10-year Treasuries rose seven basis points to 4.55%. A dollar gauge added 0.2%. Bitcoin sank 2.3%.
+“While we expect volatility to pick up in the near term amid a range of macro uncertainties, favorable fundamentals should continue to support global equities’ next leg up,” said Solita Marcelli at UBS Global Wealth Management.
+At Piper Sandler, Craig Johnson says the market’s resilience has been impressive year-to-date as investors refuse to “back down.”
+“We expect market conditions to remain choppy as investors rotate ‘down-cap’ amid declining Treasury yields, weakening crude oil, and a pullback in the US dollar.”
+Global stocks have become the most-popular asset class with investors, who are showing the biggest willingness to take risk in 15 years, according to a survey by Bank of America Corp.
+Fund managers’ cash levels fell to the lowest since 2010, while 34% of participants said they expect world equities to be the best-performing asset in 2025, the survey showed. A net 11% indicated they were underweight bonds.
+Investors are “long stocks, short everything else,” strategist Michael Hartnett wrote in a note. About 89% of respondents said US equities were overvalued, the most since at least April 2001.
+“Investors will want to see more ‘Goldilocks’ data to contradict last week’s ‘whiff of stagflation,’ and a less hawkish tone from Fed officials,” said Tom Essaye at The Sevens Report.
+“Additionally, stabilizing yields and solid earnings would offer added tailwinds for equity markets at the start of the holiday-shortened trading week,” he noted.
+Now beneath a solid fourth-quarter earnings season, there’s actually a worrisome development that may put a dent in the bull case for US stocks: Corporate America’s profit outlook is souring.
+A gauge of forward earnings that compares companies’ forecasts with analysts’ projections is the lowest in a year after plunging to a level last seen in 2016 earlier this month, data compiled by Bloomberg Intelligence show.
+With the vast majority of S&P 500 companies having reported so far this results cycle, earnings per share is up 13% on the year, highest since fourth quarter of 2021, BofA strategists including Ohsung Kwon and Savita Subramanian said.
+Yet guidance from companies has been weak even as BofA’s Corporate Sentiment Score — a measure of positive versus negative words on earnings calls — rose to a record.
+Corporate Highlights:
+- Elon Musk’s artificial intelligence startup xAI debuted its updated Grok-3 model, showcasing a version of the chatbot technology to challenge OpenAI days after the billionaire’s unsolicited cash bid to buy the company was rejected.
+- Walgreens Boots Alliance Inc. shares soared after CNBC said that a take-private deal with private equity firm Sycamore Partners is still possible.
+- Southwest Airlines Co. will cut about 1,750 jobs in its leadership ranks, a dramatic step to reduce expenses that mark the first layoffs in the carrier’s history.
+- Constellation Brands Inc. jumped after Berkshire Hathaway Inc. reported a new position in the Corona and Modelo maker.
+- Frozen food company Conagra Brands Inc. dropped after cutting its fiscal 2025 guidance.
+- Medtronic Plc slipped after the medical-device maker reported revenue for its fiscal third quarter that missed expectations.
+- United Rentals Inc. abandoned its plan to acquire H&E Equipment Services Inc., declining to increase its original offer of $3.4 billion for the rival construction equipment supplier.
+Key events this week:
+- New Zealand rate decision, Wednesday
+- Fed minutes, Wednesday
+- China loan prime rates, Thursday
+- Eurozone consumer confidence, Thursday
+- US initial jobless claims, Philadelphia Fed manufacturing index, Thursday
+- Fed’s Austan Goolsbee and Alberto Musalem speak, Thursday
+- Eurozone HCOB manufacturing & services PMI, Friday
+- US S&P Global manufacturing & services PMI, existing home sales, consumer sentiment, Friday
+Some of the main moves in markets:
+Stocks
+- The S&P 500 rose 0.2% as of 4 p.m. New York time
+- The Nasdaq 100 rose 0.2%
+- The Dow Jones Industrial Average was little changed
+- The MSCI World Index rose 0.2%
+Currencies
+- The Bloomberg Dollar Spot Index rose 0.2%
+- The euro fell 0.4% to $1.0447
+- The British pound fell 0.2% to $1.2606
+- The Japanese yen fell 0.4% to 152.05 per dollar
+Cryptocurrencies
+- Bitcoin fell 2.3% to $94,201.4
+- Ether fell 5.2% to $2,632.75
+Bonds
+- The yield on 10-year Treasuries advanced seven basis points to 4.55%
+- Germany’s 10-year yield was little changed at 2.49%
+- Britain’s 10-year yield advanced three basis points to 4.56%
+Commodities
+- West Texas Intermediate crude rose 1.5% to $71.77 a barrel
+- Spot gold rose 1.3% to $2,933.84 an ounce
+This story was produced with the assistance of Bloomberg Automation.
+–With assistance from Sujata Rao, Margaryta Kirakosian, Aya Wagatsuma and Rob Verdonck.
+©2025 Bloomberg L.P.

@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Pharrell Williams to bring star power to Web Summit tech event
+Singer Pharrell Williams is due to kick off one of Europe's biggest tech events on Monday, the Web Summit in Lisbon, with organizers keen to move on from last year's edition when several big firms pulled out.
+The event will bring together some 70,000 attendees with more than 3,000 startups and 1,000 investors, according to the organizers.
+Google, Meta and a string of other firms pulled out of last year's event after Web Summit chief executive Paddy Cosgrave wrote social media posts accusing Israel of war crimes in Gaza.
+He was forced to apologize and step down from his role, though he is now back in charge of the organization, which also holds events in other parts of the world.
+"Those cancellations revolved more around big tech," Web Summit's head of startups Ricardo Lima told AFP in an interview on Wednesday, stressing the focus on smaller firms and innovation.
+"It's safe to say the impacts were felt in 2023 but in 2024 (big tech firms) were all part of the events and part of the discussion."
+Google and Meta have a low-key presence this year in Lisbon.
+Microsoft President Brad Smith is the highest-profile big tech executive at the event.
+He is due to lay out how the software juggernaut envisages the next phase of its artificial intelligence strategy, after spending billions to infuse the technology into most of its products.
+AI is expected to be the central theme of the get together.
+The conference said in a statement there would be discussions on "the impact of AI on the planet, art, and social interactions, as well as the government's role in regulating technology and the responsibilities of tech giants".
+The re-election of Donald Trump as US president, with tech mogul Elon Musk expected to be given a key role in his administration, is also expected to be top-of-mind.
+Some of the sessions will deal directly with the election's impact on the tech industry but Lima said it was still too early to judge the reaction.
+"I think everyone is still digesting the news, I am also very curious to understand the impact," he said.
+The opening night on Monday broadens the agenda with a speaker list that this year includes Pharrell Williams, who is about to star in the latest Lego movie "Piece by Piece".
+The summit wrote on its X account that Williams would be talking about "the intersection of culture and commerce".
+"Discover how Pharrell's visionary approach has led to extraordinary success across multiple industries," the post said.
+© 2024 AFP

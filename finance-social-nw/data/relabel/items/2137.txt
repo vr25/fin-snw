@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Steve Ballmer called Google Chrome a "rounding error" — 17 years later, Internet Explorer is dead, and Microsoft Edge can barely catch up
+Google CEO Sundar Pichai admits that Ballmer's comments were "demoralizing," but they didn't give up on Chrome.
+We’ve been running our new Quote of the Day segment for a few weeks, but I recently came across an intriguing line from former Microsoft CEO Steve Ballmer, taken from a 2009 TechCrunch interview (via Fortune).
+"The most successful by far is Firefox," Ballmer indicated. "Chrome is a rounding error to date. Safari is a rounding error to date. But Firefox is not. The fact that there’s a lot of competitors probably is to our advantage."
+For context, Microsoft dominated the browser market at the time with Internet Explorer, which controlled about 74% of the global share. Google had only just launched Chrome in 2008, but competing was tough since Internet Explorer came pre‑installed as the default on Windows PCs, giving Microsoft an enormous advantage.
+“It could have been demoralizing,” Google CEO Sundar Pichai admitted at a commencement address at Stanford University. “But with that California optimism, I told the team that the fact he went out of his way to dismiss us meant we were doing something right.”
+The executive didn't discount that Chrome showed early success and momentum, but that triumph was short‑lived as user growth plateaued under various constraints. However, Pichai and his team didn't let up.
+Fast forward to 2026, Google now runs the browser show with a massive 70.25% hold of the market share. Microsoft Edge comes in at a distant third with 5.14% of the market share.
+Microsoft has been placed under fire by companies like Mozilla in the past for allegedly using "harmful designs and deceptive tactics" to give Edge a competitive advantage over other browsers on Windows 11.
+The Firefox maker recently accused Microsoft of using 'dark patterns' to force its Copilot AI on Windows 11 users. It outrightly suggested that Microsoft's "intentional" re-direction with Copilot was only prompted by overwhelming feedback from users. "They’re really admitting that they made repeated choices to serve their business over their customers," Mozilla added.
+Join us on Reddit at r/WindowsCentral to share your insights and discuss our latest news, reviews, and more.
+Kevin Okemwa is a seasoned tech journalist based in Nairobi, Kenya with lots of experience covering the latest trends and developments in the industry at Windows Central. With a passion for innovation and a keen eye for detail, he has written for leading publications such as OnMSFT, MakeUseOf, and Windows Report, providing insightful analysis and breaking news on everything revolving around the Microsoft ecosystem. While AFK and not busy following the ever-emerging trends in tech, you can find him exploring the world or listening to music.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

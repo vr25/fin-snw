@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has been testing a new Play Store ad slot ahead of its I/O developer conference in May, a report by TechCrunch revealed. This comes two years after Apple added a new slot on its Search tab.
+Yes.
+Google Play Store is showing ads in search bar. pic.twitter.com/Pmf0Q1EPb8
+The tech giant is also testing an ad slot that appears when Android users navigate to the Play Store’s search menu. This was first spotted by Android Police, which stated that Google has been testing app “recommendations” in this slot as of late last year. A Google spokesperson confirmed the experiment.
+“We regularly test new features and ad formats to improve app discovery for Play users and help developers reach their audience, but don’t have anything specific to announce right now,” the spokesperson told TechCrunch.
+The new ad slot in Play Store’s search would impact the company’s revenue when rolled out broadly. Data from Statista estimated that Google Play generated approximately ₹48 billion in 2021 through mobile apps. However, unsealed court filings in a Google antitrust case revealed Google Play app store revenue hit $11.2 billion in 2019.
+Recently, Shark Tank India judge and founder of Shaadi.com Anupam Mittal slammed Google for its new billing system and called it “illegal.”
+- Also read: How to send password-protected email
+More Like This
+Published on April 28, 2023

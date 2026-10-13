@@ -1,0 +1,22 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+It seems everyone wants to talk about the "Magnificent Seven." They're seven of the largest and most important stocks around: Apple, Microsoft, Nvidia, Alphabet, Amazon, Meta Platforms (META -3.33%), and Tesla.
+They've all, in their own ways, been excellent stocks to own. However, over the last 20 months, two have separated themselves from the pack. One is Nvidia; the other might come as a surprise.
+How the Magnificent Seven performed since 2023
+First, let's cover how the Magnificent Seven stocks have performed since the start of 2023. Given the absolute explosion in demand for artificial intelligence (AI) systems over the last few years, it's no surprise that Nvidia is the top-performing stock in the Magnificent Seven. However, it might be a surprise to see how far ahead Meta Platforms is, compared to the rest.
+Setting Nvidia to the side, Meta has dominated the rest of the Magnificent Seven. Over the last 20 months, shares of Meta increased by 334%. That's about 3 times as much as Amazon, the next best Mag 7 stock, with a gain of 113%.
+So, what's driving this divergence between Meta and the rest of the Magnificent Seven?
+What does Meta have that the rest lack?
+For starters, let's cover what Meta does and how it makes money. The company operates social networks like Facebook and Instagram. It sells ad space on those platforms to advertisers, generating about $150 billion per year in revenue.
+NASDAQ: META
+Key Data Points
+That contrasts with most of the other companies in the Magnificent Seven. Apple, for example, relies on iPhone sales and, to a lesser extent, services revenue. Microsoft is a technology conglomerate with a large cloud services business, an iconic software segment, and a large gaming unit. Amazon operates the world's largest cloud services provider, along with a massive e-commerce segment. Tesla sells electric vehicles.
+Only Alphabet operates in the same orbit as Meta with its Google Search and YouTube businesses. Yet, even with Alphabet, there are significant differences. Alphabet makes a ton of money from ad revenue, but it makes it by selling ads through its search functionality, rather than through a social media feed like Facebook or Instagram.
+The big difference, however, emerges when you look at a very important metric: free cash flow.
+As you can see above, both Alphabet and Meta expanded their free cash flow in impressive fashion over the last 10 years. Yet, over the last 18 months, Meta has truly separated itself. There are a few reasons for that.
+First, Meta is growing at a breakneck pace. In its most recent quarter (the three months ended June 30), Meta reported revenue growth of 22%. That's nearly double the pace of Alphabet, which grew at 13% over the same period.
+Second, Meta is scaling back some expensive projects. Spending on the company's Reality Labs, the segment tasked with building the company's version of the metaverse, is set to fall by around 20% this year.
+Finally, setting aside its revenue growth and cost-cutting, Meta's business is just extremely profitable. As shown below, it ranks third among Mag 7 businesses, behind Nvidia and Microsoft.
+Is Meta Platforms still a buy now?
+Granted, Meta Platforms isn't a stock for every investment portfolio. While the stock now pays a dividend, the stock's 0.4% dividend yield is hardly enough to satisfy value investors or those who need to generate significant sums of income from their investments. Nevertheless, Meta is an excellent stock -- particularly for investors who can hold the stock for years and benefit from its growing sales and free cash flow. For those reasons, Meta is an excellent stock that most investors should strongly consider.

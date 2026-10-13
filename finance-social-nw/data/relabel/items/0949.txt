@@ -1,0 +1,25 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+Stocks struggled to gain traction as an almost $400 billion plunge in Nvidia Corp. raised speculation that the rally in the industry that has powered the bull market was due for a breather.
+While several industries outside the technology world advanced on Monday, Nvidia extended a three-day rout to more than 10% — the technical threshold of a correction. The chipmaker at the heart of the artificial-intelligence revolution has recently become the most-expensive stock in the S&P 500. It remains up 140% this year, making it the second-best performer in the benchmark gauge, behind Super Micro Computer Inc., another favorite AI play.
+Following a tech-led rally, Deutsche Bank’s Binky Chadha said US equities are set to pause. There’s a lot of good news baked into markets, and if that optimism proves unjustified, there could be downside risks, Lori Calvasina at RBC Capital Markets noted. To John Stoltzfus at Oppenheimer, while the bull market appears sustainable, some profit-taking should be expected.
+“We remain concerned about a near-term unwind of many year-to-date leaders,” said Jonathan Krinsky at BTIG. “If the S&P 500 is going to avoid a bigger pullback into July, bulls need to see continued rotation below the surface.”
+The S&P 500 fluctuated near 5,460. Energy and financial shares rose as tech retreated. The Nasdaq 100 fell after coming very close to the 20,000 mark last week. Nvidia sank 5.5%. A gauge of chipmakers dropped 2%, with 28 of its 30 stocks down. The Dow Jones Industrial Average outperformed.
+Treasury 10-year yields were little changed at 4.26%. Bitcoin slumped below $60,000. Losses are piling up in the crypto market after its second-worst weekly decline of 2024, a reflection of cooling demand for Bitcoin exchange-traded funds and uncertainty over monetary policy.
+More than a quarter of respondents in the latest MLIV Pulse survey plan to cut their stock holdings over the next month. That compares to 19% who expect to add exposure, and the gap between the potential sellers and buyers in the largest since October.
+The S&P 500 is expected to close the year at 5,606, according to a median of 586 responses. That’s about 2.5% higher than Friday’s close, indicating that the rally has little left after an almost 15% gain so far this year. Additionally, almost half of survey participants expect a correction to begin later this year.
+To Matt Maley at Miller Tabak, if the weakness in a few big-cap tech names spills over into the rest of the group, it’s likely going to create some problems for the broad market. At least over the near-term.
+“A decline in the tech sector is certainly possible, even if the sector is going to do well during the summer months overall,” Maley noted. “Even if you agree with the most-bullish scenario for the AI phenomenon for the second half of 2024, no group moves in a straight line.”
+The strategist noted that the upcoming results from Micron Technology Inc. on Wednesday could be key on that front.
+“The stock market is not in a bubble, and while megacap growth stock valuations are stretched, stock prices have not decoupled from fundamentals as they did during the tech bubble of 2000,” said Emily Bowersock Hill at Bowersock Capital Partners. “Right now, the market is rewarding companies for delivering strong earnings, and punishing those that do not deliver.”
+Just a handful of “higher quality” megacaps driving the performance of US stocks shows the market is focusing more on softening economic growth, than on inflation and rates, according to Morgan Stanley strategists led by Mike Wilson. Stick to high quality large caps and defensives, they added.
+The team also highlighted that a “narrow breadth” is not necessarily a bad thing going by historic performance. Until growth slows in “a more meaningful way,” the team expects narrow market performance to persist.
+Some of the main moves in markets:
+Hendershott Wealth Management's Hilary Hendershott on turning a niche for women into an operating strategy, not a marketing pitch.
+Iowa's Greenwood Wealth Partners exits D.M. Kelly as UBS and Ameriprise win Merrill Lynch recruits in California and Florida
+Less than 1% of pool funds went to actual trading, CFTC says
+Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors.
+He owes $364 million but pays $100 a month
+As AI makes financial information more accessible than ever, Lana Hock explains why human judgment, trust, and empathy remain the qualities clients value most in a financial advisor
+Northern Trust’s Ken Lassner shows advisors how to convert volatility into after-tax portfolio gains

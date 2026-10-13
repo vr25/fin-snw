@@ -1,0 +1,12 @@
+{"id": "0255", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google announced several experimental search", "relation": "substitute-comparison", "sentiment_alignment": -0.1}
+{"id": "1182", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Dashed hopes and slashed jobs", "relation": "causal-driver", "sentiment_alignment": 0.85}
+{"id": "0254", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "LONDON(Reuters) Experienced tech investors are", "relation": "co-hype", "sentiment_alignment": 0.75}
+{"id": "0196", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The European Union has announced", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0808", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The uptrend is not 'dead',", "relation": "co-hype", "sentiment_alignment": 0.85}
+{"id": "1622", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Donald Trump said a new", "relation": "co-hype", "sentiment_alignment": 0.85}
+{"id": "1113", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "OpenAI has secured a new", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0718", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "MARKET WRAPS Watch For: Flash", "relation": "causal-driver", "sentiment_alignment": 0.85}
+{"id": "1147", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The S&P 500 (^GSPC +0.51%)", "relation": "co-hype", "sentiment_alignment": 0.85}
+{"id": "2188", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Broadcom Inc forecast second-quarter revenue", "relation": "co-hype", "sentiment_alignment": 0.85}
+{"id": "1111", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI has concluded a deal", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1698", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "VOL. 49 | NO. 44", "relation": "co-hype", "sentiment_alignment": -0.3}

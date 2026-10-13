@@ -1,0 +1,20 @@
+{"id": "2160", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This post contains affiliate links", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2161", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2162", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Boomi Named A Leader", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2163", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Boomi Named A Leader", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2164", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Boomi Named A Leader", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2165", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "TikTok To Kick Users", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2166", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "TikTok To Kick Users", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2167", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "TikTok To Kick Users", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2168", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The store that was", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2169", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chasing Microsoft, global tech", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2170", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Chasing Microsoft, global tech", "relation": "causal-driver", "sentiment_alignment": 0}
+{"id": "2171", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Chasing Microsoft, global tech", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2172", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Reason to trust How", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2173", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Things took a weird", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2174", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Things took a weird", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "2175", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Things took a weird", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2176", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Highest-Rated Wedding Venues", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2177", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Things took a weird", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2178", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Things took a weird", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "2179", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Things took a weird", "relation": "co-hype", "sentiment_alignment": 0}

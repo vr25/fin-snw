@@ -1,0 +1,7 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+January 20, 2024
+by
+STAN CHOE THE ASSOCIATED PRESS
+A security officer stands outside an entrance to the New York Stock Exchange on Friday, Jan. 19, 2024, in New York. Wall Street is rising Friday and may break past its all-time high set two years ago, before the highest inflation and interest rates in decades sent financial markets tanking worldwide. (AP Photo/Peter K. Afriyie)

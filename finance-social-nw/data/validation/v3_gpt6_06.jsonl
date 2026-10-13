@@ -1,0 +1,12 @@
+{"id":"0139","ticker_a":"GOOGL","ticker_b":"META","first_words":"ChatGPT: Who and what is","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0365","ticker_a":"GOOGL","ticker_b":"META","first_words":"Welcome to this month's issue","relation":"co-hype","sentiment_alignment":0.5}
+{"id":"1100","ticker_a":"AVGO","ticker_b":"SMCI","first_words":"While there's no denying that","relation":"co-hype","sentiment_alignment":-0.6}
+{"id":"2003","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Sundar Pichai’s biggest A.I. wins","relation":"substitute-comparison","sentiment_alignment":0.0}
+{"id":"2061","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Quick Read - Apple (AAPL)","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1790","ticker_a":"AVGO","ticker_b":"NVDA","first_words":"BNB drops nearly 3% to","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1617","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"As artificial intelligence has driven","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1731","ticker_a":"GOOGL","ticker_b":"META","first_words":"More South Australians are currently","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1055","ticker_a":"GOOGL","ticker_b":"META","first_words":"Artificial intelligence (AI) technology arrived","relation":"substitute-comparison","sentiment_alignment":1.0}
+{"id":"2149","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Intel is putting the pedal","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1974","ticker_a":"GOOGL","ticker_b":"META","first_words":"By Dawn Chmielewski, Courtney Rozen","relation":"substitute-comparison","sentiment_alignment":1.0}
+{"id":"0031","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"DUBLIN, Dec. 9, 2022 /PRNewswire/","relation":"unrelated-mention","sentiment_alignment":0.0}

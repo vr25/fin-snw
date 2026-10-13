@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+YouTube will pay $24.5 million to President Trump to resolve a 2021 lawsuit that claimed he was the victim of censorship when the site suspended his account following the Jan. 6, 2021 attack on the U.S. Capitol by Trump's supporters, according to federal court papers filed on Monday.
+YouTube parent company Google will dedicate $22 million of the settlement toward the construction of a $200 million Mar-a-Lago-style ballroom in the White House, according to the settlement documents, which state that a nonprofit called the Trust for the National Mall is being tapped to finance the renovations.
+It's the latest settlement reached by a tech company sued by Trump in the wake of the Capitol riots. In January, Meta paid the president $25 million over Facebook's and Instagram's decision to suspend Trump after Jan. 6. Elon Musk's X, formerly Twitter, paid out $10 million over similar allegations.
+Free speech experts have said the trio of suits brought by Trump did not raise credible legal claims, since First Amendment protections typically apply to government officials, not private companies, censoring speech. Yet the tech industry has lined up one by one to make public displays of their eight-digit deals to conclude the litigation.
+"This is straight influence-peddling," said Eric Goldman, a law professor at Santa Clara University and an expert on online speech. "This YouTube settlement is not a sign of any legal merit."
+The White House and Google did not return requests for comment.
+The payout comes days after YouTube said it was reinstating accounts that had been permanently banned for spreading COVID-19 and election-related falsehoods, the latest loosening of social media misinformation rules since Trump took office. Some of the accounts that were kicked off YouTube over such violations include those belonging to former Trump adviser Steve Bannon, Robert F. Kennedy Jr., who now runs the Department of Health and Human Services and right-wing podcaster Dan Bongino, who is now the deputy director of the FBI.
+Ponying up tens of millions of dollars to settle Trump's lawsuits alleging censorship is a striking about-face for Silicon Valley, which for years defended the right to police its own social media platforms.
+Legal protections, including a federal law known as Section 230, provide tech platforms with wide latitude to make their own content moderation decisions without being held liable for those actions, however controversial.
+Law professor Goldman said but for "an attempt to curry favor with the president," there is "absolutely no reason to believe Trump would have gotten anywhere with these suits."
+According to the settlement filing, $2.5 million will also be given to other plaintiffs, including the American Conservative Union and author Naomi Wolf, who was suspended from multiple social media platforms for sharing unfounded theories about COVID vaccines. 
+Copyright 2025 NPR

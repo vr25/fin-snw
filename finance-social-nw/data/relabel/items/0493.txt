@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+The shaky stock market is making Americans feel uneasy
+By Bryan Mena, CNN
+Washington, DC (CNN) — Americans’ moods soured this month, largely due to a wobbly stock market.
+The University of Michigan’s latest consumer survey showed that sentiment declined 6% this month, according to a final reading released Friday, though sentiment is 6.5% better than it was a year ago. The survey also showed that Americans became more pessimistic about the economy’s outlook for the year ahead.
+“This decline was driven in large part by higher-income consumers and those with sizable stock holdings, consistent with recent weakness in equity markets,” Joanne Hsu, the university’s Surveys of Consumers director, said in a release.
+The benchmark S&P 500 index is still down from its most recent peak in July. Investors have been spooked by the economy’s surprising resilience and fears that the Federal Reserve will keep interest rates higher for longer, which has sent Treasury yields surging. The yield on the ten-year US Treasury has been tiptoeing around 5%. August and September are typically rough months for equities.
+With third-quarter earnings season underway, companies’ results, especially those from big technology companies with an outsized influence, could make or break the stock market.
+So far, tech titans such as Amazon, Meta, Microsoft and Google parent Alphabet have all reported robust results, with a few areas of concern. The tech-heavy Nasdaq tilted into correction territory Thursday as shares of some Big Tech companies slipped.
+Apple, Amazon, Nvidia, Microsoft and Alphabet make up about a quarter of the S&P 500’s value, so Americans with investments are highly attentive to the health of those companies.
+Meanwhile, Americans’ inflation expectations for the year ahead worsened in October, jumping to 4.2% from 3.2% in September, the highest reading since May. The Federal Reserve pays close attention to inflation expectations, particularly longer-term expectations.
+Also, expectations for inflation rates in the next five to 10 years edged up to 3% this month, up slightly from 2.8% in September.
+If Americans don’t expect inflation to eventually come down, then that could usher in an era of permanently higher prices, making it extremely difficult for the Fed to bring inflation back down to its 2% target.
+The-CNN-Wire
+™ & © 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.

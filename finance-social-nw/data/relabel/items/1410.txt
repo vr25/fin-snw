@@ -1,0 +1,17 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+US stocks extend the fall
+Summary
+- NASDAQ down 2%
+The major US stock indices are continuing their early week fall.
+- The NASDAQ index is now down on his 2.34%.
+- The S&P index is down -1.84% and the
+- Dow industrial average is down -1.69%.
+The small-cap Russell 2000 is down -1.50%.
+Taking a look at some specific stocks:
+- Nvidia shares are down -4.75%
+- Amazon is down -3.36%.
+- Meta is down -3.40%
+- Microsoft is down -1.93%
+- Alphabet is down -2.77%

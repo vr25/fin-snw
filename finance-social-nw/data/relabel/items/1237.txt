@@ -1,0 +1,106 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+The Dow Jones Industrial Average entered the history books Tuesday with its first nine-day losing streak since 1978.
+The 30-stock average slid 267.58 points, or 0.61%, to settle at 43,449.90. The S&P 500 lost 0.39% and closed at 6,050.61, while the Nasdaq Composite dropped 0.32% to end at 20,109.06.
+Stream San Diego News for free, 24/7, wherever you are with NBC 7.
+The Dow's losing streak began the day after it closed above 45,000 for the first time ever earlier in the month.
+The Dow anomaly comes at a time when the broader market is doing well. The S&P 500 hit a new high on Dec. 6 and sits less than 1% from that level. The Nasdaq hit a record on Monday.
+Driving the Dow's losses has been a rotation into technology stocks and out of some of the more old-economy stocks that gained in November following the reelection of Donald Trump. Those stocks dominate the Dow, rather than tech.
+What's strange, however, is that Nvidia, a new tech member of the Dow that joined in November, has also struggled despite the tech sector's recent gains, slipping into correction territory Monday.
+Tesla was higher again on Tuesday, though Broadcom lost 3.9%.
+"Wall Street is waking up to the fact that a Trump presidency might not be as great for stocks as some people hoped," said David Russell, global head of market strategy at TradeStation. "Financials and industrials jumped on his win but now may have to face higher rates and trade uncertainties, and healthcare faces its greatest political risks in recent memory."
+Some of the concern driving some profit-taking in the nontechnology stocks centers around the upcoming Federal Reserve interest-rate decision Wednesday. Traders are pricing in a 95% chance of a quarter-point cut, according to CME Group's Fed Watch tool. However, there's concern among investors and economists that the central bank could be making a mistake and risking a stock market bubble or sparking more inflation.
+"The Mag 7 performance chasers are taking one last sprint towards 2024 year-end so far in December, leaving the rest of the S&P 500 stocks on the sidelines and kicking the Dow to the curb," said Jeff Kilburg, CEO of KKM Financial.
+November's retail sales figure came in better than economists expected Tuesday, adding to concern that the Fed may be taking unnecessary action.
+Stocks close lower
+Stocks closed higher on Tuesday, with the Dow Jones Industrial Average notching its ninth-straight losing session.
+The 30-stock Dow pulled back more than 267 points, or 0.61%, to finish the session at 43,449.90. The Nasdaq Composite fell 0.32% to 20,109.06, while the S&P 500 slipped to 0.39% to close at 6,050.61.
+— Brian Evans
+Beverage stocks face 'unprecedented' risk in 2025, Evercore ISI warns
+There's overhangs on beverage stocks heading into the new year, according to Evercore ISI.
+These names can face challenges from a strong U.S. dollar, said Robert Ottenstein, senior managing director at the firm.
+There's also political variables, he said, such as the potential for tariffs on exports proposed by President-elect Donald Trump. Ottenstein is also concerned about a push to move away from some beverages under Robert F. Kennedy Jr., President-elect Donald Trump's pick for Health and Human Services secretary.
+"We see an unprecedented amount of headline risk for Beverage stocks going into 2025," Ottenstein told clients. "While we suspect the headline 'bark' may be worse than the earnings 'bite,' we maintain a generally cautious stance going into 2025."
+— Alex Harring
+Teva Pharmaceuticals on track for best day since July 2022
+Shares of Teva Pharmaceuticals surged more than 26% in afternoon trading and had hit a new 52-week high during the session, putting it on pace for its best day in more than two years. If the stock closes around this level, it would post its best day since July 27, 2022, when it rose about 28.4%.
+The gains come on the heels of the announcement that duvakitug – its joint antibody treatment with pharma giant Sanofi for moderate-to-severe inflammatory bowel disease – showed positive results in a Phase 2b study. Pending regulatory discussions, both companies now plan to begin Phase 3 development of the "potential best-in-class" treatment.
+The stock has had a monster year, posting year-to-date gains of more than 99%. It has also risen around 20% in the past month.
+Meanwhile, shares of Sanofi advanced more than 7% following the announcement. That stock has fallen around 1% year to date, however.
+— Sean Conlon
+Cocoa prices hit record high levels on Tuesday
+Cocoa prices climbed to a fresh high on Tuesday.
+The New York Cocoa futures contract with March delivery was nearly 1% higher at $11,933 per metric ton in afternoon trading, after earlier climbing as high as $11,938 per metric ton. The benchmark contract is up over 180% year-to-date.
+The climb in cocoa prices, chocolate's key ingredient, comes amid warnings of price volatility and concerns about adverse weather conditions and supply tightness in West Africa, which is responsible for about three-quarters of global cocoa production.
+For more on the commodity's latest moves, read here.
+— Pia Singh, Sam Meredith
+S&P 500 advance-decline line on 11-day losing streak
+The Dow's nearly nine-day losing streak is not the only slump investors should be keeping an eye on.
+Larry Benedict of The Opportunistic Trader said the S&P 500's advance-decline line has fallen for 11 straight sessions, its longest streak since at least 2001. The A/D line is a market indicator that compares the number of S&P 500 stocks rising or falling each trading day.
+That sign of weak market breadth may be more of a warning sign for investors than the Dow's protracted slide.
+"[The Dow]'s only 30 stocks, and really it's not indicative. ... Really I think the A/D line is really a big deal, because that's 500 stocks. That's not 30. That's really much more broad based, and it's really telling the story of the market," Benedict said.
+— Jesse Pound
+See the stocks making midday moves
+Some stocks are making big moves in midday trading:
+- Teva Pharmaceuticals, Sanofi – Shares of Teva Pharmaceuticals and Sanofi rose more than 23% and 6%, respectively, after the companies announced positive Phase 2b results for duvakitug, their joint treatment of moderate-to-severe inflammatory bowel disease.
+- Pfizer – Shares traded around 4% higher on the heels of the biopharmaceutical company's 2025 outlook arriving in line with Wall Street expectations. Pfizer expects revenue to come in between $61 billion and $64 billion next year, on par with the consensus estimate of $63.22 billion, according to FactSet.
+- Quantum Computing – The stock soared more than 38%, hitting a new 52-week high, after NASA's Goddard Space Flight Center awarded the company a prime contract to support the agency's demands for advanced imaging and data processing by using Quantum's entropy quantum optimization machine known as Dirac-3.
+Read here for the full list.
+— Sean Conlon
+Dow tracks for longest losing streak since 1978
+The Dow is on pace to notch its longest losing streak since February 1978. The world looked a lot different nearly half of a century ago.
+For starters, Jimmy Carter was president of the U.S. The Dow, which now trades comfortably above 40,000, had never closed a session above 1,000 until earlier in the decade.
+The Bee Gees' "Stayin' Alive" song topped the Billboard Hot 100 during the month, while "Close Encounters of the Third Kind" led the box office. Actor Ashton Kutcher, known for his role in "That '70s Show," was born early in the month in Iowa.
+Unlike how 2024 is looking, 1978 turned out to be a weak year for the Dow. The blue-chip index finished 1978 lower by more than 3%, which marked its second down year in a row.
+— Alex Harring, Adrian van Hauwermeiren
+Retail sales were better than expected in November
+Consumers spent more than expected in November and kept ahead of inflation, the Census Bureau reported Tuesday.
+Retail sales rose a seasonally adjusted 0.7% for the month, an acceleration from the upwardly revised 0.5% in October and better than the Dow Jones estimate for 0.5%. Excluding autos, sales increased 0.2%, a touch below the 0.3% estimate. The numbers are not adjusted for inflation, so the spending pace was ahead of the 0.3% increase in the consumer price index.
+A 2.6% increase in motor vehicle and parts sales paced the spending, while online shopping rose 1.8%. Miscellaneous sales tumbled 3.5%.
+On a 12-month basis, receipts were up 3.8%, ahead of the 2.7% CPI inflation rate.
+—Jeff Cox
+Stocks fall, Dow headed for ninth-straight losing session
+Stocks opened lower on Tuesday while the Dow Jones Industrial Average pulled back for a ninth-straight session on the eve of the Federal Reserve interest rate decision.
+The 30-stock Dow pulled back 208 points, or 0.4%. The S&P 500 slipped 0.4%, while the Nasdaq Composite also fell 0.4%.
+— Brian Evans
+See the stocks moving in premarket trading
+These are some of the stocks moving before the bell:
+- Pfizer — The drugmaker climbed 2.4% after releasing a 2025 forecast that matched Wall Street expectations.
+- SolarEdge Technologies — The clean energy stock jumped 12% on the back of Goldman Sachs' double upgrade to buy from sell.
+- Tesla — Shares popped 2.3% after an upgrade at Mizuho, who said the electric vehicle maker can benefit from President-elect Donald Trump's proposed policies.
+— Alex Harring
+The first year of presidential terms have been the best for equities in recent history, says Strategas
+The first year of President-elect Donald Trump's term could be a boon for markets if recent history is any guide, according to Strategas.
+"Since 2005, the best year for market returns has been the first year of a presidential term and by an enormous margin," Strategas CEO Jason De Sena Trennert wrote in a Monday note.
+"It is more difficult to use historical analogs today than it was in the past given the ease with which politicians from both sides of the political aisle spend taxpayer's money — and then some," he said. "Perhaps all this will change in a new Trump administration purportedly focused on rooting excess government spending — but it won't be without a fight."
+— Brian Evans
+European stocks trade mostly lower — but France and Germany up despite uncertainty
+European markets traded mostly in negative territory Tuesday, France and Germany's stock markets were higher, despite political uncertainty in both countries.
+The pan-European Stoxx 600 index traded 0.4% lower by mid-morning, as most sectors lost ground. Most major European bourses were also lower.
+Germany's DAX index was trading 0.2% higher in the wake of Chancellor Olaf Scholz losing a confidence vote in the German parliament on Monday, which paves the way for a snap election on Feb. 23. Scholz had wanted to lose the vote in order for fresh elections to be triggered, following the collapse of his coalition government last month.
+A focal point for European markets is the Federal Reserve's policy meeting this week, as well as the Bank of England's meeting Thursday. Markets are so far pricing in only a slim chance of a final rate cut of the year from the British central bank.
+The U.K.'s FTSE 100 index was 0.8% lower after U.K. data showed wage growth accelerated by more than expected in the three months to October. The print prompted investors to rein in bets on BOE interest rate cuts next year.
+— Holly Ellyatt
+Market focus shifting away from Trump's 'virtues', says Vital Knowledge
+The initial excitement around Donald Trump's re-election is dissipating, according to Adam Crisafulli of Vital Knowledge.
+"The market's underlying mood has been deteriorating for a few days, and it crumbled further on Monday, with investors growing increasingly concerned about poor breadth and shifting their focus away from Trump's virtues (deregulation, tax relief) and toward his potential headwinds (higher deficits, tariffs, etc.)," he wrote in a note.
+"Meanwhile, the approaching pivot in Fed policy is another factor feeding into the more cautious narrative, with the market pricing in a dramatic slowdown in the pace of easing (with the 25bp cut due on Wed, the Fed will have slashed rates by 100bp since Sept, or an annualized pace of 300bp, but the Street is currently assuming just 50bp for all of 2025)," he said.
+— Fred Imbert
+German government failure and February snap election are headwinds for Eurozone stocks: Capital Economics
+The failure of German Chancellor Olaf Scholz's government in a parliamentary confidence vote and elections tentatively set for Feb. 23 mean more challenges for euro-zone stocks markets, according to Capital Economics senior economist Hubert de Barochez.
+The German DAX index has climbed 22% so far in 2024, but the economist entitled a research report after the Bundestag vote, "Headwinds to euro-zone stock markets to blow harder."
+"While equities in Germany have managed to ride out weak growth and political uncertainty this year, those in France have not. We suspect that they will all fare poorly next year, as those adverse conditions remain and a trade war takes a toll," the economist wrote.
+The European Central Bank can't undertake the policies necessary to revive the European economy, Capital Economics said. "Individual governments are arguably the best placed to drive a turnaround in the economy," de Barochez wrote. "But most of them seem either unable or unwilling to do so, and in particular those in the two biggest economies: Germany and France."
+— Scott Schnipper
+Risk commentary may overshadow Fed dot plot this week, State Street strategist says
+Wednesday's Fed decision will come with an updated summary of economic projections from FOMC members, including a new "dot plot" that projects the path of interest rate cuts.
+However, the more interesting output from the meeting could be commentary about how the central bank views the risks of inflation and a potential rise in unemployment, said Cayla Seder, macro multi-asset strategist at State Street.
+"The December SEP is interesting in that the soonest date is a whole year away. A lot can happen in a single year, so where I think we'll get a bit more color and a bit more clarity is actually in the text around the SEP as opposed to the dots themselves," Seder said.
+One area of the dot plot that could be impactful is the final point, representing the terminal rate. A move higher could indicate that Fed officials think the so-called neutral interest rate is higher than they previously thought.
+"We've consistently seen that rise. I think that's one thing that would hint at a hawkish cut," Seder added.
+— Jesse Pound
+Stock futures open little changed
+Stock futures opened little changed Monday evening.
+Futures tied to the Dow Jones Industrial Average dipped 45 points, or 0.1%. S&P 500 futures edged down 0.1%, while Nasdaq-100 futures hovered near the flatline
+— Samantha Subin

@@ -1,0 +1,31 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Grasping the Metaverse
+What is it and what can you do with it?
+The metaverse… can you tell me exactly what it is? We are told repeatedly that the metaverse is “the future of the internet.” Some say it’s hyper-real video games; others say it is a new way to experience music and sports; while others say it is the collaborative workplace of the future. But I have yet to hear a really clear definition of the metaverse.
+A year ago, Mark Zuckerberg changed the name of Facebook to “Meta,” a nod to focusing on the metaverse. Yet, even now, the definition of Zuckerberg’s grand vision has not gotten any sharper. From what I can find, metaverse still means very different things to different people.
+Matthew Ball, a theorist who has written about the metaverse, has a definition: “The metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds, which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications and payments.”
+Okay, got that! I can certainly see the metaverse with highly realistic video games. Roblox is working on this with its online game creation platform that allows users to program and play games created by other users.
+‘Fully Present’
+But what is Facebook’s (now Meta) description of the metaverse? The key to understanding the company’s vision is the new Meta Quest Pro headset ($1,499). It is billed as “a whole new way to work, create and collaborate.”
+With this headset, Meta is going beyond games with virtual reality designed to allow users to become part of events, such as concerts or sports, and to do actual work while staying grounded in the real world.
+The idea is, while wearing the goggles, users collaborate in mixed reality as they work on joint projects—such as designing cars or buildings; doing artwork; or even mixing audio with virtual screens. Users can walk around the inside of a house or building before it’s built or lift a skyscraper with one hand to examine its structural integrity.
+The professional video industry's #1 source for news, trends and product and tech information. Sign up below.
+“Authentic avatar expressions mimic your natural facial expressions, so you can be fully present in meetings and gatherings with friends and bring more of your true personality to life in VR,” Meta writes in its press material.
+Meta has created “Workrooms,” a virtual space that gives collaborators enhanced personal productivity, while “Workplace” is a business communication tool that uses Groups, Live Video, integrations and other familiar features to help workers share information. Perhaps most appealing to those who prefer working from home, it helps teams collaborate no matter where they are located.
+Of course, the metaverse is also about selling—everything from concerts and sports to furniture and virtual clothes. One can only imagine the new ways Meta will entice you to part with your money.
+If one replaces the word “metaverse” with “cyberspace,” what is the difference? Most of the time the two are essentially the same, though the metaverse probably has more realistic visuals. Those images are mainly virtual and augmented reality that combine parts of the digital and physical worlds.
+Some companies promote the metaverse as some sort of new digital economy, where users can create, buy and sell goods. Perhaps one day it will become that, but not yet.
+Big technology companies like Microsoft and Meta are already trying to interact with virtual worlds. Nvidia, Unity, Roblox and Snap are creating infrastructures to make virtual worlds more closely mimic physical life.
+Virtual Production 
+In the video industry, Epic’s Unreal Engine 5 platform (5.1 was released just last month, making the platform easier to use and more efficient) is being used in digital cinema for virtual production—an innovation that is already bringing down the cost and complexity of some projects. However, whether the metaverse becomes a key part of future television production or mostly a competitor remains an open question.  
+Today, the metaverse is such a loosely used term that anything from a virtual reality concert to a video game is grouped under the same category. There are no hard rules as to a definition.
+The future of the metaverse ranges from human pessimism to over-the-top fanaticism. Beyond all the hype, there are some very useful new technologies being developed for the metaverse. Things like mass connectivity of people and tracking tools that can follow a person’s eyes and hand movement. On their own, these new technologies show real promise for future innovation.
+But the headsets required for this experience are still bulky and expensive. They can cause motion sickness for some and physical pain if worn too long. Maybe over time this problem will be solved, but right now it is hard to see the mass adoption of such a clumsy contraption.
+Glossing over these limitations of the metaverse in the marketplace is pervasive. After so much hype, many industry figures are exhausted by the slow progress and so much wishful thinking. Progress is coming in incremental bits.
+Many compare these first days of the metaverse movement to the early years of the internet. The internet improved in technical quality with time and technical development. But even if metaverse technology is perfected, there is still no guarantee it will catch on with the masses. Will people even want to be in a virtual office, attend virtual concerts or play virtual games? It’s an open question.
+Apple’s CEO Tim Cook recently noted that it’s important that people have an understanding of a product before they will buy it. “I’m really not sure the average person can tell you what the metaverse is,” he said.
+Whatever the metaverse becomes, it is not here yet. Real people have always resisted wearing excessive gadgetry—much less bulky goggles. That alone is a real challenge.
+However, many of the technologies being developed from metaverse research will find valuable uses in daily life. But today, none of us can predict the future for this nascent new area of technical exploration.
+Frank Beacham is an independent writer based in New York.

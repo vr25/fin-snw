@@ -1,0 +1,20 @@
+{"id": "1660", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Representatives from Facebook,", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1661", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "SAN FRANCISCO (AP) —", "relation": "co-hype", "sentiment_alignment": 0.4}
+{"id": "1662", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "One of the best", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1663", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amaravati: The Andhra Pradesh", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "1664", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Anabelle Colaco 16 Oct", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "1665", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 16 Oct", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1666", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 16 Oct", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "1667", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 16 Oct", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1668", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 16 Oct", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "1669", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 16 Oct", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "1670", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The driverless vehicle market", "relation": "substitute-comparison", "sentiment_alignment": 0.9}
+{"id": "1671", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1672", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1673", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "substitute-comparison", "sentiment_alignment": -0.1}
+{"id": "1674", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1675", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1676", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1677", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ChatGPT, OpenAI's text-generating AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1678", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The technology sector has", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "1679", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Chip giant Broadcom laid", "relation": "causal-driver", "sentiment_alignment": 0.6}

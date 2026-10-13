@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+What’s Better Than OpenAI? Developers Shop For Alternatives
+Microsoft-backed OpenAI is no longer the only game in town for software developers looking to capitalize on an expected $90 billion market for artificial intelligence.
+Motivated by a wariness of relying on a single company, a desire for models tailored to specific tasks and the chance to cut costs, more than a dozen startups and investors said they are embracing competitors to industry leader OpenAI, casting a shadow on expectations that Microsoft Corp and OpenAI will dominate the young field.
+The shift by some software developers toward alternative AI foundation models shows how the next chapter of generative AI - defined as technology capable of generating text, images, or other media in response to prompts - might unfold.
+George Mathew, an AI investor at Insight Partners, compared the AI foundation models to other technological breakthroughs which spawned competition. Foundation models are AI systems that are trained on large sets of data with the ability to learn to perform a variety of tasks.
+"Did we only have a single internet service provider?" Mathew said. "In a similar manner, we will need multiple foundational model providers for a healthy functioning ecosystem."
+He added: "The current head start that OpenAI has will not make it the only choice."
+AI storytelling startup Tome, which helps users build slides faster, was originally built on GPT-3, a foundation model first released by OpenAI in 2020. Tome said it has hit 3 million users this month, and it started to experiment with other models.
+It has added a text model from OpenAI rival Anthropic to the mix, and plans to move from DALL-E, OpenAI's photo generation model, to open-source model Stable Diffusion, which is made by Stability AI.
+The goal is to find the model that works best for each action with the least delay and the best quality, said Keith Peiris, Tome's chief executive.
+AI developers and investors said there is a new industry consensus to reduce reliance on a single model, in a bid to provide more reliable services, rein in costs and take advantage of the specialization of different models.
+OpenAI shot to household-name status after its ChatGPT chatbot stunned many with its ability to answer complex questions in clear, grammatically correct language that appears human. It has attracted a $10 billion in investment from Microsoft, as big rivals including Alphabet Inc's Google as well as smaller firms are rushing to create new models.
+OpenAI's newly launched GPT-4 model is still the most powerful by many standards.
+OPENAI ALTERNATIVES
+The market for generative AI is expected to grow to $98.1 billion by 2026, according to PitchBook.
+As the infrastructural layer of AI applications, foundation models have attracted the most investment from venture capitalists and strategic investors. How these foundation models are used by applications, which pay for the services, is critical for players like OpenAI which has said it seeks to achieve $1 billion in revenue by 2024.
+OpenAI has projected $200 million in revenue this year. As an example of how it makes money, it charges 6 cents to process 1,000 tokens of prompts in its latest GPT-4 model, and has a subscription tier of ChatGPT that charges users $20 per month.
+Startups also worry that Microsoft could compete with its AI customers as the tech giant incorporates OpenAI models to products from search to Office Suites.
+"Some of these applications will use sensitive company data, and the foundation models will see these companies' interactions with their own customers," said Mike Volpi, partner at Index Ventures, which backs OpenAI competitor Cohere. "Many of these companies will feel uncomfortable being dependent on Microsoft or a company generally controlled by Microsoft."
+OpenAI and Microsoft declined to comment.
+Writing assistant Jasper.ai began with OpenAI's models, but does not want to rely on a single model, CEO Dave Rogenmoser told Reuters. It has added Cohere and Anthropic, two other large language model companies that have cloud computing partnerships with Google, and is launching an AI engine to help marketers customize voices by using a mix of models.
+HyperWrite, another AI copywriting app, matches each user actions with different models on a variety of considerations, said CEO Matt Shumer. For example, it uses OpenAI's model to generate long articles, and Cohere to auto-complete sentences at faster speed and lower cost.
+Others turned to alternatives simply because OpenAI has trouble keeping up with the rising demand.
+"OpenAI's servers are down a lot. We want our users to have a better experience, and using multiple models helps us to process inquiries at lower cost," said Srinath Sridhar, CEO at Regie.ai, a writing assistant serving sales team.
+To be sure, some startups, including customer-service software firm Intercom Inc, are still all-in with OpenAI. Fergal Reid, Intercom's director of machine learning, conceded that OpenAI's GPT-4 is "very expensive." But he added: "We currently believe we need to use GPT-4 in order to get the accuracy level that we need for customer service."
+© Copyright Thomson Reuters {{Year}}. All rights reserved.

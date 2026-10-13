@@ -1,0 +1,18 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Key Points
+-       Broadcom stock rose over 500% in the past five years.
+-       Broadcom's AI-specific backlog has increased to $73 billion.
+-       10 stocks we like better than Broadcom ›
+There are a lot of hyperscalers dominating the headlines as of late, but there's one tech company with an AI-driven backlog, multiple revenue streams, and a history of strong execution that could stand out from the rest in the coming years. That company is Broadcom (NASDAQ: AVGO), and it could be one of the best growth stocks to buy and hold for the next half-decade.
+A massive AI-related backlog
+Broadcom, the designer and maker of custom semiconductors and infrastructure software, has built an impressive backlog of about $73 billion for AI-specific projects. Broadcom's entire backlog is $162 billion, according to the company's CEO, Hock Tan. The backlog exceeds all of Broadcom's fiscal year 2025 revenue. Of the $73 billion in AI-related orders, $21 billion is from the AI research company Anthropic.
+Because Broadcom sells both chips and software solutions, it has diversified revenue streams that give it a competitive moat. Broadcom also has contracts with a few of the biggest and well-funded players in AI, including Alphabet's Google (NASDAQ: GOOG) (NASDAQ: GOOGL) and Meta Platforms (NASDAQ: META).
+Consider buying the dip
+There is some concentration risk, as much of Broadcom's revenue comes from a few major customers. The quickly expanding backlog should, for the most part, temper those concerns.
+Broadcom's stock is down over 7% to start 2026, and while timing the market isn't a sound strategy, if you're ready to buy and hold for the next five years, a small dip now is a good thing. The stock has been trading at a premium for the last several months. Broadcom is a compelling growth stock with a promising trajectory. The trillion-dollar-cap business is well positioned to remain a leader in AI infrastructure and chips for a long time to come.
+Should you buy stock in Broadcom right now?
+Before you buy stock in Broadcom, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Broadcom wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $464,439!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,150,455!*

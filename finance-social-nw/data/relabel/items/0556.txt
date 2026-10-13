@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Nikki Haley went after TikTok, but she may have flubbed her statistics
+Former South Carolina Gov. Nikki Haley accused TikTok of transforming young Americans into Hamas supporters as she renewed her call to ban the popular Chinese-owned video app at the Republican presidential primary debate late Wednesday. But when Haley cited a recent study on TikTok's influence, she appeared to flub its findings in a way that confused some viewers.
+Haley singled out TikTok for criticism during the debate, echoing previous calls from her and other politicians who argue TikTok is a security risk and a potential propaganda vehicle for the Chinese government.
+"We really do need to ban TikTok once and for all, and let me tell you why: For every 30 minutes that someone watches TikTok every day, they become 17% more antisemitic, more pro-Hamas based on doing that," she said in Tuscaloosa, Alabama.
+Some viewers said they found Haley's statement confusing because, by the logic of her statistic, anyone who uses TikTok would quickly become extremely antisemitic.
+"So you're saying my niece will become Hitler in a few hours?" a user joked on the social media app X.
+Matt Walsh, a far-right podcaster, called it "the fakest statistic I've ever heard in my life," and tech billionaire Elon Musk responded to Walsh, "Good grief."
+TikTok took the attack by a presidential candidate seriously, quickly firing back at Haley on X late Wednesday that her statement "is 100% false." On Thursday, a TikTok spokesperson said the study Haley was trying to cite relied on cherry-picked data points.
+Representatives for Haley did not immediately respond to a request for comment Thursday.
+Haley was apparently referring to research published Nov. 30 on X and GitHub by Anthony Goldbloom, a data scientist and tech entrepreneur in San Francisco who has been examining TikTok's Israel-related content. Goldbloom ran an analysis of TikTok hashtags and worked with the polling firm Generation Lab to survey young adults about their social media use and their views about Jews.
+Among Goldbloom's findings: a correlation between spending time on TikTok and holding antisemitic views or anti-Israel views, as defined by young adults' answers to a set of 12 questions. The questions asked people whether they agreed or disagreed with various statements, such as: "Jewish people can be trusted just as much as other American people in business."
+People who said they spent at least 30 minutes a day on TikTok were 17% more likely to hold antisemitic or anti-Israel views compared to those who don't use TikTok at all, he found.
+The finding went viral after Goldbloom published it, with 3.7 million views on X as of Thursday, according to X.
+Goldbloom said in an interview Thursday that Haley summarized his research incorrectly, though he said he didn't hold it against her. He said that her quote would have been accurate if she'd made clear that it was 30 minutes "a day."
+"There was a slight stumble in the way the research was described," he said. "No doubt she had a lot of facts and figures to remember, and so she was close."
+He added, "I put the data out there so it would get noticed, so to have someone with a high profile mention it is great."
+Generation Lab also said Haley was wrong. It conducted the survey for Goldbloom but wasn't involved in the post-survey analysis or the inferences Goldbloom drew.
+"Then, last night, we saw Amb. Haley twist those inferences beyond the point of recognition. What she said was incorrect," Generation Lab founder Cyrus Beschloss said in an email, referring to Haley by her former title as ambassador to the United Nations.
+Even as TikTok has grown in popularity, it has been in political limbo since 2020, when President Donald Trump tried to ban it but was blocked by the courts. The Biden administration this year tried to force TikTok's Chinese owners to sell their stakes, citing data privacy concerns, but TikTok has fought back in a lobbying push and a public relations campaign.
+Whether TikTok has an anti-Israel bias has become an urgent question among politicians, technologists and users over the past two months, since the Oct. 7 attacks in which Hamas killed more than 1,200 people in Israel and the ensuing war in Gaza, where the death toll has surpassed 17,000, according to Palestinian health officials.
+Young Americans increasingly tell pollsters they're more sympathetic to the Palestinian cause than their parents and grandparents are, and some of Israel's defenders allege that TikTok is the reason for the shift in public opinion, given the popularity of pro-Palestinian videos on the platform.
+Political scientists and public opinion experts have said a variety of factors are likely to be affecting Americans' shifting views toward Israelis and Palestinians: from images of injured Palestinian civilians that go viral on social media to the way the Black Lives Matter movement has galvanized left-wing demonstrators to the rightward lurch of Israel's government under Prime Minister Benjamin Netanyahu.
+Thomas Zeitzoff, an associate professor of public affairs at American University, said the research done by Goldbloom was tricky to evaluate. One reason for doubt, he said: People don't always give reliable answers when surveyors ask how much time they spend on an app like TikTok.
+"Self-reported social media data is a minefield," he said.
+It may also be that people who are already pro-Palestinian tend to cluster on TikTok, rather than that TikTok is shaping their views, Zeitzoff said.
+"The equivalent way of saying it is: 'Going to a Yankees game really makes people drunk.' Well, no, people who like to drink maybe go to Yankees games," he said.
+Goldbloom acknowledged in the interview that his data analysis hadn't shown a causal relationship between TikTok use and anti-Israel or antisemitic views — only a suggested correlation.
+"I haven't done a randomized control trial that starts off with someone having no view on Israel-Palestine and ends up with them beating up Jews on college campuses, but at some point, I think there are enough data points that I feel reasonably confident that TikTok is responsible for some amount of the antisemitism we're seeing," he said.
+Goldbloom, 40, said he started doing the research because he wanted his kids to be safe on college campuses when they're college-age. He and they are Jewish, he said.
+He declined to say what he thinks of Haley as a candidate. A native of Australia, he said that he only recently became a U.S. citizen and that next year's presidential election will be his first opportunity to vote for president. He said he doesn't identify with a political party.
+Goldbloom, who sold a startup to Google in 2017, said he hoped the added attention to his research from the Republican debate would push TikTok to make changes. He and several like-minded technologists — including a Tinder co-founder and a former Facebook executive — have met with TikTok to raise their concerns, but, he said, the response has been limited.
+"They've spoken to us enough to know that we're not a Mickey Mouse operation," Goldbloom said.
+TikTok said Thursday it still wasn't persuaded by Goldbloom's work.
+"We've engaged with Mr. Goldbloom in good faith, providing him with factual information and access to our senior executives on multiple occasions," TikTok spokesperson Alex Haurek said in an email.
+"Unfortunately, he is cherry picking data points to make inaccurate comparisons and draw false conclusions in support of a false narrative," he said.
+This article was originally published on NBCNews.com

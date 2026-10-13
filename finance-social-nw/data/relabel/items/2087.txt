@@ -1,0 +1,45 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+ANI
+                
+24 May 2026, 16:30 GMT+10
+            
+New Delhi [India], May 24 (ANI): Global hedge funds sharply increased their bets on artificial intelligence-linked companies at the start of the second quarter of 2026, with semiconductor and AI infrastructure firms emerging as the biggest beneficiaries, according to a latest Goldman Sachs Hedge Fund Trend Monitor report.
+'Hedge funds entered Q2 2026 doubling down on the AI trade,' Goldman Sachs said in the report.
+The report, which analysed holdings of 1,059 hedge funds with USD 4.6 trillion in gross equity positions, said funds 'lifted their net tilt to the Information Technology sector by +853 bp, the largest quarterly increase to the sector on record.'
+According to the report, hedge funds aggressively increased exposure to semiconductor companies, data centres, optical networking and other AI infrastructure-related businesses, while reducing exposure to most other sectors.
+'Hedge funds entered Q2 2026 with the most elevated long portfolio weight in Semiconductors on record, at 10 per cent,' the report said, adding that the '6 per cent weight in Software marks the lowest since 2019.'
+Goldman Sachs said semiconductor companies have become the preferred way for hedge funds to play the AI boom.
+'The largest increases occurred in Semiconductors (+428 bp), Systems Software (+167 bp), Tech Hardware (+147 bp), and Application Software (+133 bp),' the report stated.
+The report noted that hedge funds increased ownership across 'much of the AI infrastructure complex' during the quarter.
+Among the AI-linked companies witnessing the largest increase in hedge fund popularity were Lam Research, Applied Materials, Analog Devices, Micron Technology and Intel, according to the report.
+Goldman Sachs further said the strong rally in AI and technology stocks has significantly boosted hedge fund returns this year.
+'The most popular hedge fund long positions within Info Tech have returned 62 per cent YTD,' the report said.
+It added that the average equity long/short hedge fund has returned 7 per cent so far this year, supported largely by gains from popular technology positions.
+The report also highlighted that hedge funds are increasingly concentrating their portfolios around a smaller set of technology stocks.
+'The typical hedge fund holds 72 per cent of its long portfolio in its top 10 positions,' Goldman Sachs said.
+Mega-cap technology companies continue to dominate hedge fund portfolios, with Amazon, Nvidia, Alphabet, Microsoft and Meta Platforms emerging as the top five hedge fund long positions.
+'Mega-cap tech stocks remain the most popular hedge fund long positions,' the report stated.
+At the same time, Goldman Sachs flagged rising caution among investors despite the AI-driven optimism.
+The report noted that short interest for the median S&P 500 stock has climbed to the highest level since 2011.
+'Short interest for the median S&P 500 stock has continued to rise and now equates to 3 per cent of market cap, the highest level since 2011,' the report said.
+Goldman Sachs added that hedge funds have also raised their market exposure and leverage alongside the recent rally in technology shares.
+'Gross leverage ranks in the 94th percentile vs. the last 5 years,' the report stated.
+The report also said hedge funds are increasingly using exchange-traded funds (ETFs) to gain exposure to equities.
+'The 4.9 per cent ETF share of hedge fund long portfolios represents the highest level since the GFC,' Goldman Sachs said, referring to the Global Financial Crisis. (ANI)
+Get a daily dose of Afghanistan Sun news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Afghanistan Sun.
+More Information
+HELSINGBORG, Sweden: U.S. President Donald Trump's turnaround on sending 5,000 U.S. troops to Poland just weeks after ordering the...
+TEL AVIV/DUBLIN: The Israeli government said on May 21 that all the activists from a flotilla trying to break Israel's naval blockade...
+DAMMAM, Saudi Arabia: Iran has released a new map claiming control over the Strait of Hormuz, which could make things even harder for...
+DUBLIN, Ireland: Dozens of firefighters worked through the night on May 21 to control a huge fire at a major business in Donegal. ...
+KATHMANDU, Nepal: A record 274 climbers scaled Mount Everest on May 20, the highest number ever to reach the world's tallest peak on...
+DUBLIN, Ireland: Hundreds of people gathered outside Ireland's parliament on May 21 to protest the death of a Congolese-born man, which...
+Tirupati (Andhra Pradesh) [India], May 24 (ANI): Indian men's cricket team fielding coach T Dilip visited the Sri Venkateswara Swamy...
+(260524) -- TASHKENT, May 24, 2026 (Xinhua) -- A child learns traditional Chinese paper-cutting during a cultural traditions and national...
+TAIYUAN, May 24 (Xinhua) -- All-out rescues are still underway to reach the two people who remained unaccounted for following a deadly...
+(Photo credit: Susan Mullane-Imagn Images) A qualifier from Peru upset sixth-seeded Tommy Paul to win the Hamburg Open on Saturday....
+Countries around the world are interested in Russian expertise in technology, education, and other fields, Economic Development Minister...
+(260523) -- SHAMAKHI, May 23, 2026 (Xinhua) -- This photo taken on May 21, 2026 shows the Shirvan-Meysari Winery in Shamakhi, Azerbaijan....

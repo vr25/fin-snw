@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon shares plunged on Thursday night, continuing a tech industry sell-off, after it outlined a $200bn (£148bn) spending surge on artificial intelligence (AI) infrastructure.
+Andy Jassy, the company's chief executive, said the tech giant's capital expenditure would grow by around 60pc this year as its giant cloud computing business attempts to keep ahead of rivals.
+The spending plans came a day after Google said its AI spending would double this year to $185bn in an arms race between the major companies.
+Shares fell by as much as 10pc, wiping almost $250bn off the company's value, in after-hours trading.
+Amazon, controlled by billionaire Jeff Bezos, said profits grew by 31pc last year to $77.7bn, and annual sales grew 12pc to $717bn.
+However, it predicted that profits could fall in the first three months of 2026 due to higher costs. Mr Jassy has cut tens of thousands of jobs at Amazon in recent months, and said it would pay $730m in severance pay.
+"With such strong demand for our existing offerings and seminal opportunities like AI, chips, robotics, and low earth orbit satellites, we expect to invest about $200bn in capital expenditures across Amazon in 2026, and anticipate strong long-term return on invested capital," Mr Jassy said.
+In a call with investors, he said Amazon's spending plans were driven by "very high demand" for AWS, its cloud computing services.
+"Customers really want AWS for core and AI workloads, and we're monetising capacity as fast as we can install it," he said.
+Technology giants have significantly increased their spending on data centres, AI, semiconductors and energy infrastructure as they compete for dominance of the fledgling technology.
+The world's largest publicly listed tech groups are expected to spend an estimated $500bn on AI in 2026, with privately held companies, like OpenAI and Anthropic, likely to add billions more to that amount.
+The amount Amazon has committed to its AI spending growth has also surpassed that of Microsoft, where shares have declined more than 20pc since its latest results, wiping off about $1 trillion from its value.
+Sam Altman, the chief executive of OpenAI, said his start-up expects to spend half a trillion dollars on AI by 2030.
+Fellow rival Meta said its capital expenditures could increase by nearly double to between $115bn and $135bn, a move which also prompted a sharp decline in shares.
+Recent boosts to spending have worried investors, who fear the financial return on AI capital expenditure may not be as lucrative as predicted.

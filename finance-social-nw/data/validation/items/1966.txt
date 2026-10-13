@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The home of the world’s highest-flying social media companies is considering a measure to clip their wings.
+A bipartisan bill in California would establish a minimum age requirement for social media accounts, curtailing the access of minors to platforms such as TikTok, Alphabet Inc.’s YouTube and Meta Platforms Inc.’s Instagram. The bill’s author, Assemblymember Josh Lowenthal, says he’s looking to bar anyone under 16.
+The proposed rules — which would rank among the toughest in the world — are setting up a clash between prominent Democrats and some of Silicon Valley’s most powerful companies. Governor Gavin Newsom, a potential presidential contender in 2028, backs the bill. The proposed restrictions have also drawn interest from two of his would-be successors as governor: liberal billionaire Tom Steyer and San Jose Mayor Matt Mahan, darling of Silicon Valley’s elite.
+Related: Meta Trial in New Mexico Highlights Video Depositions by Top Executives
+“The fact that the most moderate and most progressive candidates for governor support delaying social media access proves the policy isn’t ideological,” Lowenthal said. “It’s common sense and long overdue.”
+The bill’s prospects of passing as is are murky. Meta declined to comment on the legislation, citing a lack of details. Representatives for TikTok, Alphabet, Snap Inc. and Elon Musk’s X didn’t respond to requests for comment.
+The California bill is fueling a broader debate with ramifications for politics and privacy. It’s also ramping up pressure just as Meta and Google have been attracting scrutiny during a high-profile trial over social media addiction in Los Angeles.
+While Meta has a rule to keep children under 13 off Instagram, Chief Executive Officer Mark Zuckerberg testified last month that enforcing the limit is “very difficult” because children often lie about their ages. In arguing against other bans, social-media companies have pointed to significant technological hurdles.
+The proposed California restrictions would mirror a policy that was recently implemented in Australia. Similar curbs are also gaining traction in Europe, where regulators have called such services harmful and addictive.
+Related: Google Gemini Accused of Coaching Florida Man to Suicide
+In the U.S., however, age restrictions would be legally vulnerable on free-speech grounds, said Eric Goldman, a law professor at Santa Clara University.
+Referring to concerns over mental health and excessive phone use, Goldman said “there are so many ways we can address that problem, all that are less than a ban.”
+Courts have temporarily blocked similar attempts to set age restrictions in states including Utah, Georgia and Virginia. Florida has been allowed to enforce its ban on social media accounts for children under 14 while a legal battle continues.
+NetChoice, a trade group that represents tech companies including Meta, TikTok and Google, has battled state social media restrictions in court. Zach Lilly, the group’s director of government affairs, said states should focus on educating parents on safety settings and healthier screen time habits rather than pushing “cartoonishly unconstitutional” age-verification laws.
+Related: Meta Loses Insurance for Defense in Major Social Media Addiction Litigation
+“There is nothing legally that would prevent a state from actually taking steps to teach parents, and yet, we’ve seen very few states take up the opportunity,” he said. “They have skipped all the way to censoring the platform or their citizens.”
+Data Risk
+The American Civil Liberties Union said restrictions violate free speech and endanger data privacy, since requiring increased age verification could mandate that adults who want to participate in online conversations submit personally identifiable information.
+That could put all users — not just parents or children — at risk of data breaches, said Rin Alajaji, associate director of state affairs at the Electronic Frontier Foundation, a nonprofit that defends civil liberties online. She also argued that requiring people to hand over identity documents before using social media could chill speech, particularly from whistleblowers or activists.
+“People who can’t share their identity online have been able to produce such critical information anonymously, which is why we fight so hard for the right to be anonymous online,” she said.
+But many Democrats have signaled a greater willingness to take a harder line on tech companies against a political backdrop in which key Silicon Valley leaders have moved to the right and courted President Donald Trump.
+“We have a generation that’s never been more anxious, less free, more stressed,” Newsom said in a recent press briefing. “We have to address this issue.”
+An overwhelming majority of US adults – 81% – support requiring social media companies to obtain parental consent for minors to make social media accounts, according to a 2023 study by Pew Research Center.
+Steyer, the billionaire who’s running a progressive platform to replace Newsom, said the age restrictions should go beyond social media and extend to artificial intelligence.
+“I’ll protect kids and families by making Big Tech get it right this time,” he said in a statement.
+Mahan, who’s pitching himself in the gubernatorial race as a centrist Democrat and favorite of Silicon Valley, is also on board with restrictions — at least in some form. He said in an interview that he wouldn’t necessarily go so far as banning 16-year-olds.
+But as the father of two young children — they’re 6 and 8 — he added that he wouldn’t want kids spending too much time online.
+“I am hesitant to say whether I know the exact age,” he said. “But I don’t think having young children, certainly children my kids’ age, glued to a screen is particularly helpful.”
+Top photo: Assemblymember Josh Lowenthal. Bloomberg.
+Topics California Digital Marketing
+Was this article valuable?
+Here are more articles you may enjoy.

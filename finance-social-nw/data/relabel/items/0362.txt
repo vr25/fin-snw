@@ -1,0 +1,22 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Chipmakers like Advanced Micro Devices (AMD +0.22%) have captured investor interest this year, with advances in artificial intelligence (AI) and cloud computing sending its stock soaring 76% since Jan. 1. The company is investing heavily in multiple markets, strengthening its long-term outlook and making its stock an attractive buy.
+As a leading name in chips, AMD is at the forefront of several high-growth sectors. Consequently, now is the perfect time to learn more about this tech giant before you miss out on its projected growth.
+So, here are three things about AMD that smart investors know.
+1. Expanding in a high-growth region
+On July 28, AMD announced it will invest about $400 million in India over the next five years. The company plans to build its largest-ever semiconductor design center in the country, expanding its position in one of the world's fastest-growing cloud markets. The design center will be located in the southern city of Bengaluru, which is striving to become a major hub for chip manufacturing.
+AMD's announcement comes after many of the biggest names in tech announced similar investment plans in the region. Microsoft and Amazon recently revealed commitments to invest heavily in India's cloud industry with increased data centers. Meanwhile, Apple is in the process of moving its product manufacturing to the country.
+AMD's expansion in India strengthens the company's long-term prospects as it seeks to become a leader in AI and other swiftly developing markets.
+2. Matching Nvidia's performance
+Last November, the launch of OpenAI's ChatGPT renewed interest in AI and sent many of the sector's stocks skyrocketing. With a 90% market share in AI chips, Nvidia's stock climbed 219% year to date. As a result, AMD has been left playing catch-up this year as it strives to match Nvidia in the industry.
+However, a recent study suggests AMD might not be too far behind Nvidia. Software firm MosaicML tested and compared the companies' previous-generation graphics processing units (GPUs) and found AMD's hardware provided 80% of the performance of Nvidia's. Meanwhile, MosaicML revealed software updates currently in the works will likely raise AMD's chip performance to soon match Nvidia's.
+Moreover, that research does not consider AMD's recently unveiled MI300X AI chip, which is said to be the company's most powerful GPU to date. If the new chip can live up to AMD's expectations, it may have closed the gap to Nvidia and have the hardware to compete for market share in the lucrative industry.
+3. Diversifying across tech
+While AMD has featured in countless headlines this year, thanks to its potential in AI, the company has a long history of succeeding in many other areas of tech.
+For instance, AMD holds an 83% market share in game console processors, with its role as the exclusive supplier of chips to Sony's PlayStation 5 and Microsoft's Xbox Series X|S. This solid position in gaming has diversified its business and bolstered its earnings.
+In 2022, while many tech companies suffered steep declines in income from reductions in consumer spending, AMD's gaming segment earned its largest portion of revenue and grew 21% in the fiscal year. The growth was mainly driven by the company's partnerships with Sony and Microsoft.
+NASDAQ: AMD
+Key Data Points
+Additionally, last year AMD acquired Xilinx for an estimated $50 billion. The company develops specialized processors for a variety of sectors, such as aerospace and defense, space, AI, and industrial. The purchase massively expanded AMD's embedded division and further diversified its earnings.
+Alongside strong positions in the consumer PC component market and data centers, AMD offers investors the opportunity to back multiple industries. The company's diverse business model has helped its stock soar around 500% over the last five years. With planned investment in India and a growing AI chip business, AMD's stock is a no-brainer in 2023 as it has the potential to continue on its current growth trajectory.

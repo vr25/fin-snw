@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The US Federal Trade Commission has filed an antitrust lawsuit against Amazon.com, charging the online retailer with harming consumers through higher prices.
+Subscribe now for unlimited access.
+or signup to continue reading
+The lawsuit had been expected after years of complaints that Amazon.com and other tech giants abused their dominance of search, social media and online retailing to become gatekeepers on the most lucrative aspects of the internet.
+The lawsuit, which was joined by 17 US state attorneys general, follows a four-year investigation and federal lawsuits filed against Alphabet's Google and Meta Platforms' Facebook.
+"The FTC and its state partners say Amazon's actions allow it to stop rivals and sellers from lowering prices, degrade quality for shoppers, overcharge sellers, stifle innovation and prevent rivals from fairly competing against Amazon," the agency said in a statement.
+The FTC said that it was asking the court to issue a permanent injunction ordering Amazon.com to stop its unlawful conduct.
+The lawsuit was filed in federal court in Seattle, where Amazon is based.
+Amazon shares were down 3.0 per cent.
+Amazon said that the FTC lawsuit was wrongheaded and would hurt consumers by leading to higher prices and slower deliveries.
+"The practices the FTC is challenging have helped to spur competition and innovation across the retail industry, and have produced greater selection, lower prices and faster delivery speeds for Amazon customers and greater opportunity for the many businesses that sell in Amazon's store," Amazon's general counsel David Zapolsky said.
+The FTC said that Amazon, founded in 1994 and worth more than $US1 trillion ($A1.6 trillion), punished sellers that sought to offer prices that were lower than Amazon's by making it difficult for consumers to find the seller on Amazon's platform.
+Other allegations include that Amazon gave preference to its own products on its platforms over competitors also on the platform.
+FTC chair Lina Khan said that Amazon had used illegal tactics to fend off companies that would have risen to challenge its monopoly.
+"Amazon is now exploiting that monopoly power to harm its customers, both the tens of millions of families that shop on Amazon's platform and the hundreds of thousands of sellers that use Amazon to reach them," she said.
+Khan, while a law student, wrote about Amazon.com's dominance in online retailing for The Yale Law Journal and was on the staff of the House committee that wrote a report issued in 2020 that advocated reining in four tech giants: Amazon.com, Apple, Google and Facebook.
+Amazon's critics welcomed the lawsuit.
+"No corporation has ever centralised this much power across so many crucial sectors. Left unchecked, Amazon's power to dictate and control threatens the rule of law and our ability to maintain open, democratically governed markets," said Stacy Mitchell of the Institute for Local Self-Reliance which has pushed for the US government to act against Amazon.
+The need to take action against large tech firms has been one of the few ideas that Democrats and Republicans have agreed on.
+During the administration of former US president Donald Trump which ended in 2021, the Justice Department and FTC opened probes into Google, Facebook, Apple and Amazon.
+The Justice Department has sued Google twice - once under Republican Trump regarding its search business and a second time on advertising technology since Democratic President Joe Biden took office.
+The FTC sued Facebook during the Trump administration and Biden's FTC has pressed forward with the lawsuit.
+Australian Associated Press

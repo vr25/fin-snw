@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta Platforms Inc (NASDAQ:META) and Alphabet Inc (NASDAQ:GOOGL) Google's billion-dollar subsea cable plans are hitting a wall in the Red Sea.
+Rising security threats are delaying the construction of vital infrastructure needed for global internet connectivity.
+Meta planned its 2Africa cable — a 45,000-kilometer system designed to loop around Africa and deliver high-speed connectivity — to be completed by 2025. Instead, the project is still unfinished five years later because the southern Red Sea segment hasn't been built, Bloomberg reported on Monday. Meta said operational challenges, regulatory hurdles, and geopolitical risks continue to delay progress.
+Google's Blue-Raman cable and other systems such as India-Europe-Xpress, Sea-Me-We 6, and Africa-1 are also behind schedule in the region.
+About 400 seabed cables carry more than 95% of global internet traffic, making the Red Sea — historically the most direct and cost-effective path between Europe, Asia, and Africa — a critical chokepoint. But ongoing conflict has disrupted construction. Iran-backed Houthi militants have launched repeated missile attacks over the past two years, forcing ships to reroute and preventing specialized cable vessels from operating safely.
+Also Read: Meta Weighs Sole Ownership Of A $10 Billion Subsea Cable Project
+These delays restrict broadband expansion in underserved countries, driving up consumer costs and slowing internet speeds. They also impose financial strain on cable investors, who must buy capacity from alternate routes while waiting to monetize their projects.
+Google stock gained 54% year-to-date backed by its core search and cloud businesses, and strategic AI investments. Meta is up just over 4% due to concerns over its capital expenditures on AI and the continued heavy losses in its Reality Labs (metaverse) division.
+In August 2021, Google and Meta said they are backing the new Apricot subsea cable to boost internet connectivity across Asia-Pacific. The cable will connect Japan, Taiwan, Guam, the Philippines, Indonesia, and Singapore to support demand for broadband and 5G.
+Both companies continue expanding global internet infrastructure, with Google committing $10 billion to accelerate India's digital growth.
+An April 2024 report indicated Google is investing $1 billion to build two new subsea cables — Proa and Taihei — strengthening digital connectivity between the U.S., Japan, and key Pacific islands.
+These projects support the Biden–Kishida push to deepen U.S.–Japan cooperation and ensure secure, resilient networks amid growing U.S.–China competition in the Pacific. Reportedly, Google is working with partners including KDDI, Arteria Networks, Citadel Pacific, and CNMI to expand regional infrastructure.
+Google and Meta are reportedly funding additional transpacific cables connecting Singapore to the U.S., and Google has also partnered with Chile to build the first subsea cable from South America to Asia Pacific.
+Price Actions: GOOGL shares traded higher by 6.02% at $293.09 at last check Monday. META is up 0.22%.
+Read Next:
+Image: Shutterstock
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

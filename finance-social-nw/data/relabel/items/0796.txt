@@ -1,0 +1,6 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Amazon stock is poised to get a boost from Amazon Web Services' growing ties to Nvidia (NVDA) whose "AI Woodstock" event underscored the rapid growth of artificial intelligence, especially in the enterprise, an analyst said Monday. Monness, Crespi, Hardt analyst Brian White wrote Monday that AWS is poised to benefit after the "masses flocked" to Nvidia's San Jose, Calif. developer…
+Amazon Poised To Benefit From AI After Nvidia's Conference, Analyst Says
+Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8

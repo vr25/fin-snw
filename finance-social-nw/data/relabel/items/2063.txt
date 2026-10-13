@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+iamchamp - stock.adobe.com
+AI cyber attack threatens global financial crisis, warns International Monetary Fund
+The IMF calls for stronger policy and international cooperation in the face of Mythos and artificial intelligence-powered cyber risks
+The International Monetary Fund (IMF) has said that artificial intelligence (AI)-powered cyber attacks could create a worldwide financial crisis.
+“AI-driven cyber risks could destabilise the financial system if not managed carefully,” the IMF warned, as AI cyber attacks risk disrupting payments, causing solvencies and straining liquidity.
+Financial systems’ dependence on shared cloud services made the threat of successful cyber attacks all the more worrying, senior IMF officials said in a blog post, and a single vulnerability could ripple out across many institutions.
+The warning follows Anthropic’s introduction of AI model Mythos, which sparked global concerns because of its potential to identify software vulnerabilities at scale.
+It’s not just the financial sector at risk. Financial services share “digital foundations” with energy, telecommunications and public sectors, all of which are threatened by the model’s rapidly evolving capacities. Using the same infrastructure means vulnerabilities can be exploited across many industries.
+The model could identify and exploit vulnerabilities “even when used by non-experts”, the IMF said.
+During a speech at Columbia University in April, Bank of England governor Andrew Bailey warned that Anthropic’s latest model might “crack the whole cyber risk world open”.
+Anthropic set up Project Glasswing to give Mythos to 40 companies they deemed critical to protect – such as Nvidia, Apple, Amazon Web Services (AWS) and Microsoft – rather than make it generally available.
+Anthropic’s CEO, Dario Amodei, said the company also intended to work with government officials to defend the US and its allies from the dangers of AI.
+The US company gave British banks access to the model at the end of April, and financial regulators rushed to assess its risks.
+Cross-border risk
+But the IMF warned that “cyber risk does not respect borders”, and that emerging economies are disproportionately exposed to attacks that could topple international services. It called for international collaboration and stronger regulation.
+Last month, Britain’s AI Security Institute published an independent report on Mythos’s capacities. Despite finding the AI to be a powerful tool for cyber risk detection, it claimed the biggest cause for concern is that “more models with these capabilities will be developed”.
+“Future frontier models will be more capable still, so investment now in cyber defence is vital,” the researchers wrote.
+As AI models become more powerful, experts are urging companies to develop their cyber defence, and using Mythos to identify issues.
+But if Mythos is to be useful, IMF said institutions must focus on “integration, governance and human oversight”, as well as building “business continuity and disaster recovery, cyber and quality assurance programmes, and good cyber hygiene practices”.
+“Without robust cyber resilience strategies and real-time visibility, the finance sector risks sleepwalking into deeper vulnerabilities,” said Andy Ward, international senior vice-president at Absolute Security, a cyber resilience platform.
+“Attackers are already leveraging AI to accelerate and scale threats, which can lead to major consequences for businesses,” he added. “Cyber defences must evolve with equal urgency, or risk being left dangerously exposed.”
+Read more about Mythos
+- UK financial regulators rush to assess risks of Anthropic AI model.
+- How Mythos changes the AI security threat matrix.
+- What happens when frontier AI and patch Tuesday collide.
+- Why security validation will be crucial in preparing for Mythos.

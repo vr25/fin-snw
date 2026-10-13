@@ -1,0 +1,25 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+(Reuters) – Tesla’s reported move to scrap plans for a low-cost car marks the latest disappointment for investors who have dumped shares of the automaker this year on worries over slowing demand, an aging vehicle line-up and rising Chinese competition.
+Reuters reported earlier on Friday that Tesla has canceled the long-promised inexpensive car but will continue developing self-driving robotaxis on the same small-vehicle platform.
+Shares of the electric-vehicle maker fell 4.7% on the news. They were already down nearly 32% this year, as of last close, making them among the worst performers on the S&P 500 index.
+Here are five charts on Tesla’s rocky ride in 2024:
+MAGNIFICENT SEVEN LAGGARD
+This year’s slump in Tesla stock has threatened its place in an elite grouping of companies that powered a surge in U.S. markets in recent years, several market experts have said.
+The so-called “Magnificent Seven” consists of Apple, Microsoft, Amazon.com, Alphabet, Meta Platforms, Nvidia and Tesla.
+But Tesla is no longer looking so magnificent, and some analysts say AI-linked names such as Advanced Micro Devices or Broadcom might be more appropriate as part of that group of big market gainers.
+SINKING MARKET VALUE
+Tesla has lost more than $250 billion in market value this year. While it remains the world’s most valuable automaker, Toyota Motor is slowly narrowing the gap as the Japanese company rides a boom in demand for hybrid vehicles.
+Toyota’s shares have risen nearly 40% this year, pushing its market value up by around $80 billion. But some analysts have warned Toyota remains a laggard in pure battery EVs, which are widely viewed as the long-term future of the auto industry.
+At its peak in late 2021, Tesla’s market cap surpassed more than $1 trillion in value, but the stock has lost more than half its value since then.
+DELIVERIES SLUMP
+Tesla posted a decline in quarterly deliveries for the first time since the second quarter of 2020, when the COVID-19 pandemic shut down a significant amount of production at its factories.
+Analysts have said that the effects of Tesla’s margin-sapping price cuts to boost demand have been waning with the company producing many more vehicles than it is handing over to customers.
+GLOBAL AUTOMAKERS SALES TOWER TESLA’S
+Automakers such as Volkswagen, Toyota and Honda sold far more vehicles than Tesla in 2023, yet the EV maker’s market capitalization eclipses that of Toyota, Mercedes-Benz and Porsche combined.
+MUSK’S PERSONA POLARIZES WOULD-BE BUYERS
+The number of would-be Tesla buyers in the U.S. is shrinking, according to a survey by market intelligence firm Caliber, which attributed the drop in part to CEO Elon Musk’s polarizing persona.
+Caliber’s “consideration score” for Tesla fell to 31% in February, less than half its high of 70% in November 2021 when it started tracking consumer interest in the brand.
+Reuters spoke to five marketing, polling and car experts who said controversies surrounding Musk’s increasingly right-wing politics and public statements are weighing on Tesla’s brand and demand.
+(Reporting by Aditya Soni, Akash Sriram and Zaheer Kachwala in Bengaluru; Editing by Sriraj Kalluvila)

@@ -1,0 +1,30 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The Pixel 9 'Add Me' feature is quintessentially Google. More like this, please
+It's AI that people can understand.
+The Google Pixel 9 is now available for pre-order and the company has spent the time and money telling us why we might want to buy one. The internet will debate its worth for a while because that's what the internet does, but the phones look like a fine upgrade for anyone who wants or needs something new.
+As expected, the hardware is not the selling point. Yes, the new processor has an NPU with a higher compute rate than anything else, and you should not care about that in the least. Yes, the Pixel 9 series promises better battery life, but you probably won't really notice. Generally, it's slightly better than the hardware from the Pixel 8.
+What "stole the show" was, of course, AI features. One in particular stood out to me: Add Me. It's a great example of something people can see and understand that Google can do very well. Most people won't buy a Pixel phone, but for a lot of people who do, the camera and its features are the reason.
+I have no idea how many people wanted something like Add Me. To be honest, it's something that I probably would never use after I tried it to see how it works. I do know that it's the kind of thing that AI should be really good at doing, that it should work very well, and that it will make people talk about Google's new phones.
+What it is, how it works
+Add Me isn't a new idea; it's a much easier way to do something people have been doing for years and years. Simply put, it's a way to paste a photo into another photo and seamlessly stitch everything together so it looks like an unaltered photo. You follow a few easy steps, and the Pixel 9 does the rest, so you don't have to learn how to do it yourself.
+You can always do this, and you don't even need expensive software like Photoshop to do it. Open a photo in a free editor like Paint.Net, add a layer, paste a second picture into it, and clean up what you don't want to see in the photos. If you're good at it, once you save the result, it looks like a genuine photo of your dog on the moon, you standing beside someone else, or some strange weather, even where it's raining grumpy old man BitMojis. The idea is easy, but the execution isn't, and that's why where the Pixel 9 comes in.
+AI is good at things like edge detection. Feed the camera the data it needs about the space around your photo, snap a pic of subject one, then subject two, and then let AI determine what should or shouldn't be there. No weird seven-finger hands or AI trickery is involved because it's two real photos blended into one.
+Get the latest news from Android Central, your trusted companion in the world of Android
+I'm sure a lot of work went into the feature, but this is pretty simple compared to some of the complex (and less relatable) things companies are doing with AI. The genius was thinking about how to make this a camera feature and refining it so it works great most of the time.
+Google knows AI. Every product the company offers uses it in some form, and most of them leaned on AI long before it became the tech buzzword it is today. Google has also failed at using AI on many occasions, just like its competition. The company knows what it can and can't do well, and lately, it has shown it knows how to present something it thinks is easy and fun to people like us who are buying products.
+I don't know how popular this feature will be; even Google isn't sure. But I do know it was presented in a way that has people curious enough to talk about it on social media. As expected, almost nobody has tried it, yet one half says it's great, the other says it's not, and it will be groundbreaking when that other company does it so people can argue about who did it first.
+All I can suggest is that you give it a try.
+What about misinformation?
+Any time you have built-in tools that make photo manipulation easy, you have to discuss ways they can be abused. Add Me is no different.
+As designed, you have to take photos yourself of real people in real places for it to work. You scan the area with the Pixel 9's camera, snap a photo of your friend (or your dog or a houseboat or whatever) positioned off to one side of the scene, then switch places, and they take a pic of you on the other side.
+Someone will work around these restrictions and find a way to stitch someone or something into a photo that already exists. People always find ways to do stupid and dishonest things.
+People who want to do something like this can already do it as described above. Being able to do it on a phone while they rage on social media will just make it easier.
+Hopefully, places like Facebook and Instagram will label Add Me photos as created with AI to try and prevent potential abuse but people will still find ways to spread them around. Use your brain and trust your instincts and you'll be fine.
+Is Add Me enough to make you buy a Pixel 9? I don't think so. It is another of those neat features Google is so good at building, and with the right messaging, it adds to a list of reasons why you might want one. We'll have to wait and see if people are using Add Me a year from now.
+The new Flagship in town
+The Pixel 9 Pro is the latest and greatest from Google, bringing a new design, upgraded camera sensors, and a new Tensor G4 chip capable of handling complicated AI tasks to help make your life easier. The phone has a host of fun imaging features that users are bound to love, such as Add Me, Reimagine, and more.
+Jerry is an amateur woodworker and struggling shade tree mechanic. There's nothing he can't take apart, but many things he can't reassemble. You'll find him writing and speaking his loud opinion on Android Central and occasionally on Threads.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

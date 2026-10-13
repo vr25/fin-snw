@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The European Union has announced stricter content rules for popular online platforms, including TikTok, Instagram, Twitter, Amazon and more.
+The list – on which services from Amazon, Google, Meta, Instagram and Microsoft also feature – all have more than 45 million monthly active users.
+That puts them in a category under a new EU law, known as the Digital Services Act (DSA), imposing measures from August such as annual audits and a duty to effectively counter disinformation and hate content.
+The European Commission announced in a statement that it has adopted its "first designation decisions under the Digital Services Act," an EU regulation for transparent advertising meant to help users erase illegal content and fight disinformation.
+Based on the data the platforms provided in February, the European Commission classified 17 online platforms and two search engines as "very large" since more than 45 million people use them each month.
+Social media giants like Facebook, Instagram, LinkedIn, Pinterest, Snapchat, TikTok, Twitter, and YouTube were designated as "very large online platforms."
+Shopping websites Alibaba, Amazon, Apple AppStore, Booking.com, Google Play, Google Shopping, and Zalando wew also tagged under the new classification besides Google Maps and Wikipedia.
+In addition, Google and Bing were registered as "very large online engines."
+The new rules seek to better protect personal data against aggressive advertisement tactics and will require companies to act more quickly against illegal content or disinformation.
+For example, ads cannot be displayed based on sensitive user data such as political views or sexual orientation.
+Targeted ads based on profiling children will also be banned.
+The platforms will also have to enable users to report illegal content more easily and will be obliged to moderate or erase them with very short notice.
+Within four months, the platforms will have to change their policies in order to meet the new obligations under the Digital Services Act.
+Obligations also include a tool to report illegal online content. Protocols must also be in place to address the spread of disinformation during a crisis like the COVID-19 pandemic.
+At the invitation of Twitter's owner, Elon Musk, the commission will conduct a test of the social media company's compliance in June, two months ahead of the deadline, Breton announced.
+If the companies fail to comply with the regulations, the EU can impose a penalty equal to 6% of their annual turnover, and ban their services if they repeatedly breach the rules.

@@ -1,0 +1,25 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+By Max A. Cherney
+TAIPEI (Reuters) -A two-year legal battle pitting two tech titans threatens to disrupt an emerging wave of new personal computers powered by artificial intelligence, tech industry executives and experts say.
+A parade of executives from Microsoft, Asus, Acer and others joined Qualcomm CEO Cristiano Amon on stage last week at the annual Computex trade show in Taipei to pitch a new generation of AI-powered PCs.
+But the main conversation among conference attendees was over how a contract dispute between Arm Holdings and Qualcomm, which work together to make the chips powering these new laptops, could abruptly halt the shipment of new PCs that industry leaders expect will make Microsoft and its partners billions of dollars.
+Rough projections suggest Microsoft expects to take roughly 5% of the market with the Arm-based laptops by the end of the year, selling about 1 million to 2 million units.
+Nearly two dozen models ranging from Microsoft, Dell and Samsung are expected to ship to consumers June 18.
+An Arm victory in the litigation could force Qualcomm and its roughly 20 partners, including Microsoft, to halt shipments of the new laptops.
+"It's definitely a real risk," said Doug O'Laughlin, the founder of chip financial analysis firm Fabricated Knowledge. "The more successful (the laptops are), the more fees Arm can get eventually."
+The British company, which is majority-owned by Japan's SoftBank Group, sued Qualcomm in 2022 for failing to negotiate a new license after it acquired a new company. The suit revolves around technology that Qualcomm, a designer of mobile chips, acquired from a business called Nuvia that was founded by Apple chip engineers and which it purchased in 2021 for $1.4 billion.
+Arm builds the intellectual property and designs that it sells to companies such as Apple and Qualcomm, which they use to make chips. Nuvia had plans to design server chips based on Arm licenses, but after the acquisition closed, Qualcomm reassigned its remaining team to develop a laptop processor, which is now being used in Microsoft's latest AI PC, called Copilot .
+Arm said the current design planned for Microsoft's Copilot laptops is a direct technical descendant of Nuvia's chip. Arm said it had cancelled the license for these chips.
+"Arm's claim against Qualcomm and Nuvia is about protecting the Arm ecosystem and partners who rely on our IP and innovative designs, and therefore enforcing Qualcomm's contractual obligation to destroy and stop using the Nuvia designs that were derived from Arm technology," an Arm spokesperson said.
+Qualcomm has said that its broad license for Arm technology already covers its PC chips, and a Qualcomm spokesperson said its position has not changed since Arm filed the suit in 2022.
+"Arm's complaint ignores the fact that Qualcomm has broad, well-established license rights covering its custom-designed CPUs, and we are confident those rights will be affirmed," Ann Chaplin, Qualcomm's general counsel, said in a 2022 statement.
+FRENEMIES
+On top of this legal dispute is another level of complexity because the exclusive deal to supply laptop builders with its chips expires this year, opening up the market to Qualcomm's competitors.
+Nvidia and Advanced Micro Devices are working on chips, Reuters reported last year. And other design companies will join the fray and make chips for Microsoft's new effort, industry executives have said.
+Yet, because the initial batch of Windows designs for Microsoft's new Copilot laptop program are based on Qualcomm's processors, the litigation is an undercurrent that exists but often goes unmentioned in public.
+Despite the public fight between two companies that rely on each other for revenue and profit, some investors and analysts believe they will reach a settlement well ahead of the trial, which is scheduled to begin in the federal court in Delaware in December.
+"There is a degree of absurdity of Arm suing its second-biggest customer, and Qualcomm being sued by its largest supplier," said Jay Goldberg, the CEO chief of D2D Advisory, a finance and strategy consulting firm.
+(Reporting by Max A. Cherney in San Francisco; editing by Kenneth Li, Paul Simao and Aurora Ellis)
+Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.

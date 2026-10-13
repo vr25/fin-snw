@@ -1,0 +1,20 @@
+{"id": "1840", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1841", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1842", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1843", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "substitute-comparison", "sentiment_alignment": -0.8}
+{"id": "1844", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1845", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1846", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1847", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1848", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1849", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "LAS VEGAS, Jan 5 (Reuters)", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1850", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 07 Jan", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1851", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By MARC LEVY The Associated", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1852", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MARC LEVY The Associated", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1853", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "By MARC LEVY The Associated", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1854", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Xinhua 09 Jan 2026,", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1855", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alison Wagonfeld, a long-time", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1856", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Instagram users are being", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1857", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In the fast-evolving world", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1858", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 12 Jan", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1859", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "For more than a", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

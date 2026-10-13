@@ -1,0 +1,20 @@
+{"id": "1020", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Microsoft (NASDAQ: MSFT) was founded", "relation": "unrelated-mention", "sentiment_alignment": 0.8}
+{"id": "1021", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft (NASDAQ: MSFT) was founded", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1022", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "On the DVD On the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1023", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Zack's Kernel News Zack Brown", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1024", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "UK riots: What is being", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1025", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "TikTok CMO on leading", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1026", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen & Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1027", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "This ancient browser security flaw", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1028", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "What Is Happening With Subway", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1029", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The NYC Sheriff's Office and", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1030", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Among cloud infrastructure providers, Oracle", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "1031", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "DOJ considers rare antitrust move:", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1032", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Pixel 9 'Add Me'", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "1033", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "California Journalism Preservation Act survives", "relation": "co-hype", "sentiment_alignment": -0.7}
+{"id": "1034", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New York State Ranks Top", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1035", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen & Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1036", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The US intelligence community has", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1037", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "TORONTO — Canada's main stock", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1038", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Iran was behind the recent", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1039", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "One of the biggest technology", "relation": "co-hype", "sentiment_alignment": 0.5}

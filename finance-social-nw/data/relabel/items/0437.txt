@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Hands-On With Microsoft Surface Laptop Studio 2 and Surface Laptop Go 3
+The Surface Laptop Studio 2 is getting much more power.
+Microsoft formally unveiled two new Surface devices at its New York City event today. Microsoft's Surface Laptop Studio 2 brings some much-needed performance upgrades and new ports, while the company also debuted the latest Surface Laptop Go 3. Notably, Microsoft has killed the 4GB variants of the Laptop Go. Both devices are set to go on sale on October 3 and are available for pre-order now.
+The Surface Laptop Studio 2 moves to 13th Gen Intel Core processors and offers Nvidia GeForce RTX 4060 graphics as an option. It will also be the first Surface device you can configure with up to 64GB of RAM. It will start at $1,999 with an Intel Core i7-13700H, 16GB of RAM and 512GB of storage with Intel Iris integrated graphics. There are also options for the Core i7-13800H in some business configurations. Both are using Intel's Gen3 Movidius 3700VC VPU AI Accelerator for AI. With all the talk of Microsoft Copilot, it makes sense the company wants a chip to offload AI on.
+The design is essentially the same, including the platinum color. The ports, however, have changed. While the previous generation had two Thunderbolt 4 ports, a Surface Connect port, and a headphone jack, the Surface Laptop Studio 2 also receives a USB Type-A port and a microSD card slot.
+Microsoft is sticking with the 14.4-inch, 2400 x 1600 display, but Microsoft claims that it's brighter than the previous version and offers HDR support. At the showcase, Microsoft has it playing Cyberpunk 2077: Phantom Liberty with DLSS 3.5, and it looks pretty good. I'm curious to see how it works under less optimized conditions.
+View Original
+View Original
+View Original
+View Original
+The company promises 19 hours of battery life on Iris Xe graphics models, 18 hours with Nvidia models, and 16 hours on Nvidia models with a 2TB SSD.
+In use, it largely feels the same. I didn't play too much with the new haptic touchpad, but it promises major accessibility features that are exciting to those who need them. There are no new color options, and the bezels are still kind of thick.
+On the budget side, Microsoft is also revamping the Surface Laptop Go 3 and Surface Go 4, but they are mostly spec bumps. The Laptop Go 3 jumps to a 12th Gen Intel Core i5-1235U, 8GB or 16GB of RAM (goodbye, 4GB configurations!) and will start at 256GB SSD storage. The Laptop Go 3 starts at $799 with four available colors.
+The Surface Go 4 wasn't mentioned on stage and is listed only as "For Business," so there is no consumer launch. A rep told me it will start at $579 withi 8GB of RAM. It was previously rumored to switch to Arm but is sticking with Intel with a bump to the 4-core, 4-thread Intel N200, a bump from the 10th Gen Y-series chip from the Surface Go 3. Like the Laptop Go 3, there's no 4GB model, thank goodness, but it will start with 64GB of storage and go up to 256GB.
+I did, however, happen to find it on the show floor. It looks identical to the previous model, but I'm told there will be far more repairable parts.
+These devices mark the first Surface devices announced since Panos Panay, the former Surface and Windows head, revealed on Monday that he was leaving Microsoft. Given the timeline for these sorts of devices, Panay definitely led their development. He's rumored to be going to Amazon, but that has yet to be confirmed by the company.
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+Andrew E. Freedman is a senior editor at Tom's Hardware focusing on laptops, desktops and gaming. He also keeps up with the latest news. A lover of all things gaming and tech, his previous work has shown up in Tom's Guide, Laptop Mag, Kotaku, PCMag and Complex, among others. Follow him on Threads @FreedmanAE and BlueSky @andrewfreedman.net. You can send him tips on Signal: andrewfreedman.01
+- 
+bigdragon Hey, this is good news! The pen/stylus support on the latest Surface tablets has gotten really good too. Glad to see Microsoft is updating these devices. The improved repairability is also great to see noted.Reply
+ 
+ The 80W GPU on the Surface Laptop Studio 2 is very nice to see. That's a good balance between performance, heat, and battery life. Much better than the underpowered 55W GPU on the MSI Summit E16 Flip or the fireball that is the 120W GPU on the Asus Flow x16. The launch price is too steep, but a Black Friday sale should make the SLS2 a serious competitor in this space. I think the build quality and support from Microsoft will exceed anything MSI or Asus can provide.
+ 
+Should be a lot of sales in October and November. One of these devices will be mine soon.
+- 
+thestryker I know Microsoft always runs a generation behind with the Surface devices, but this seems like a big missed opportunity given the longer release time on the studio. MTL ought to be a big improvement for battery life and the integrated graphics are a lot better as well. The 4060 model starting at $3300 is pretty atrocious as well.Reply

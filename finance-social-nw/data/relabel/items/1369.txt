@@ -1,0 +1,24 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+By STAN CHOE, Associated Press Business Writer
+NEW YORK (AP) — Renewed drops for Nvidia, Tesla and other former superstars are dragging Wall Street lower on Wednesday.
+The S&P 500 was down 1.3% in late trading to break what had been a mini- run of calmer trading. The Dow Jones Industrial Average swung from a gain of 230 points in the morning to a loss of 218 points, or 0.5%, with a little less than an hour remaining in trading. The weakness for Big Tech had the Nasdaq composite down a market-leading 2.2%.
+The group of dominant stocks known as the “Magnificent Seven” has been at the center of the U.S. stock market’s recent sell-off, which earlier this month took the S&P 500 10% below its all-time high for its first “correction” since 2023. Big Tech had rocketed in earlier years amid a frenzy around artificial-intelligence technology, and critics said their prices rose much too quickly compared with their already rapidly growing profits.
+Nvidia fell 6.1% to bring its loss for the young year so far to 15.6%. It was the single heaviest weight on the S&P 500 by far.
+Other AI-related stocks were also weak, including server-builder Super Micro Computer, which fell 9.3%, and power companies hoping to electrify AI data centers.
+Tesla has been contending with additional challenges, including worries that political anger at its CEO, Elon Musk, will hurt the electric-vehicle maker’s sales. Tesla dropped 6.2% to extend its loss for 2025 to 33.1%.
+Other U.S. automakers went on their own sharp swings after the White House said President Donald Trump would announce tariffs on auto imports at 4 p.m. Eastern time Wednesday, when the U.S. stock market closes.
+Such moves could hurt U.S. auto giants, which have spread production around North America following prior free-trade deals encompassing the United States, Canada and Mexico. General Motors sank 3.4%. Ford Motor went from an early gain to a loss and back before dipping 0.4%.
+The U.S. stock market had been steadying somewhat following its fall into a correction, and it had been on a three-day winning streak through Tuesday. But strategists along Wall Street have warned the sharp swings likely aren’t over yet, with a suite of U.S. tariffs scheduled to arrive early next month. Even if those end up less painful for the global economy than feared, all the talk about tariffs has already soured confidence among U.S. consumers and companies.
+Such weakening confidence and the threat of tariffs pushed Venu Krishna and other strategists at Barclays to cut their forecast for where the S&P 500 may end the year, down to 5,900 from 6,600. The new target suggests a 2% rise from Tuesday’s closing level instead of a 14% jump.
+The Barclays strategists also slashed their estimate for how much profit S&P 500 companies will make this year, though they don’t see a recession.
+Much still remains uncertain, and things will “hinge upon the final scope and severity of tariffs,” Krishna and the strategists wrote in a report. A walk-back in tariffs by Trump could send the S&P 500 up to 6,700, while more strict levies could send the index down to 4,400.
+So far, the economy and job market have appeared to remain solid despite the worsening moods of shoppers and businesses, and economists are looking for signals that the hit to confidence is translating into actual pain for the economy. Another report on Wednesday morning offered little clarity.
+Orders for machinery, airplanes and other long-lasting manufactured products unexpectedly grew last month, when economists were forecasting a contraction. But a subset of the data seen as an indicator for investment by businesses flipped from growth to contraction. That could be a signal businesses are holding back on spending to see how tariffs play out.
+Treasury yields in the bond market, which often move with expectations for the U.S. economy’s strength, swiveled up and down following the report. The yield on the 10-year Treasury was sitting at 4.33%, up from 4.31% late Tuesday.
+On Wall Street, GameStop jumped 11.2% after the video-game retailer reported better results for the latest quarter than analysts expected. It also said it would begin investing part of its treasury in bitcoin.
+Dollar Tree rose 2.4% after it said it’s selling Family Dollar to a pair of private equity firms for $1 billion after a decade of trying to make its acquisition of the bargain chain fit. Dollar Tree also reported stronger profit for the latest quarter than analysts expected.
+Cintas climbed 6.1% after the provider of work uniforms, restroom supplies and other equipment reported stronger profit for the latest quarter than analysts expected.
+In stock markets abroad, indexes were mixed across much of Europe and Asia. The FTSE 100 rose 0.3% in London after a report said U.K. inflation improved by a touch more than economists expected.
+AP Business Writers Matt Ott and Elaine Kurtenbach contributed.

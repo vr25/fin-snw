@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks
+NEW YORK (AP) — Wireless carrier T-Mobile said Thursday it plans to cut 5,000 jobs, or about 7% of its workforce.
+In email to employees shared in a regulatory filing, CEO Michael Sievert said the layoffs would come over the next five weeks and impact T-Mobile workers across the country — particularly those working in corporate and back-office roles, as well as some technology positions. Retail and customer service teams will not be part of the cuts.
+“This is a large change, and an unusual one for our company,” Sievert wrote. “Because of this, we do not envision making additional largescale reductions across the company again in the foreseeable future.”
+T-Mobile estimated it will book a pre-tax charge of about $450 million in the third quarter related to the job cuts. Laid-off employees will receive severance payments based on tenure, 60 days minimum of transition leave, career transition services and other benefits, Thursday’s announcement said.
+The layoffs at T-Mobile follow mass job cuts in the past year at a handful of companies — including Google, Meta, Amazon and Microsoft. Beyond the tech sector, layoffs have also hit Disney park employees, newspapers and some higher education jobs.
+Sievert said the T-Mobile jobs impacted by the upcoming layoffs “are primarily duplicative to other roles” or may not fit with current changes and priorities at the company. He also pointed to rising costs of attracting and retaining customers.
+The current restructuring is aimed at getting T-Mobile “efficiently focused on a finite set of winning strategies,” Sievert added — later noting that the company needs “to move at the speed of technology,” by using artificial intelligence and other tools to meet customer needs and stay competitive.
+Last month, T-Mobile reported a second-quarter profit of $2.22 billion — up from a $108 million loss seen for the same period of 2022. The Bellevue, Washington-based company, which became one of the country’s largest cellphone service carriers in 2020 after buying rival Sprint, posted total service revenues of $15.74 billion for this year’s second quarter.
+In May, T-Mobile also acquired Mint Mobile, partly owned by actor Ryan Reynolds, in a cash-and-stock purchase of Ka’ena Corp. worth as much as $1.35 billion.
+T-Mobile shares were down 2% in afternoon trading Thursday.
+Copyright 2023 The Associated Press. All rights reserved.

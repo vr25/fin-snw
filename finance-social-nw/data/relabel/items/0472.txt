@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+In courtroom drama that has captured the attention of the tech industry and regulators alike — despite the veil of secrecy imposed over the trial — Google finds itself in the halfway mark of a landmark antitrust trial. The case against Google centers on its monopolistic abuse of power over not only its search engine, but also its advertising business and massive payouts to device companies to maintain its stranglehold on the market.
+As the halfway mark approaches in the antitrust trial between the U.S. government and Google, the courtroom has been abuzz with revelations and defenses concerning Google’s alleged tactics to dominate online search and certain advertising aspects.
+The trial, which commenced on September 12 and is slated to extend until mid-November, has brought to light several pivotal points that could potentially reshape the future of online advertising and search engine monopolies. Although the trial has been under a shroud of secrecy, important details continue to reach the light of day.
+Here are five of the key takeaways from the trial:
+1) Google spends billions to safeguard its search monopoly:
+Google has been scrutinized for its hefty annual payments, estimated to be around $10 billion, to secure its position as the default search engine on smartphones and browsers. Testimonies from representatives of Verizon, Samsung, and Google have underscored the magnitude and impact of these payments. Furthermore, CEOs of privacy-centric search engines, DuckDuckGo and Neeva, have voiced how such defaults have detrimentally affected their operations, with Neeva ceasing its operations this year.
+2) Google’s dominance and price hikes in advertising:
+The trial has spotlighted Google’s dominance in the advertising space, particularly in ads placed alongside searches. Joshua Lowcock, global chief media officer for UM Worldwide, highlighted that Google has not only dominated this market but has also escalated prices over the past decade. Moreover, it was revealed that Google garnered more than $100 billion in 2020 from search ads alone.
+3) Google leverages search queries for AI supremacy:
+Microsoft CEO, Satya Nadella, underscored the potential of access to a massive scale of search queries, like those Google possesses, in not only enhancing its search engine, Bing, but also in potentially dominating the artificial intelligence sector by utilizing this data to train software, given sufficient computing power.
+4) Google’s first defense is that consumers love it:
+Google has staunchly defended its position, arguing that its substantial market share is not a result of illegal practices but is attributed to the superior quality of its search engine. The tech giant emphasized that its search engine has gained widespread popularity due to its usefulness and that users have the option to switch if they’re unhappy.
+5) Google’s second defense is that defaults don’t matter:
+Despite shelling out billions to be the default search engine on various devices, Google’s lawyers have argued that being the default does not necessarily ensure user retention if they are dissatisfied with the service. The defense highlighted instances where being the default search engine did not translate to user loyalty, citing Microsoft’s brief stint as the default on certain Verizon phones in 2008 and on BlackBerry and Nokia devices in 2011.
+The ongoing antitrust trial against Google has unveiled a number of insights into the tech giant’s practices, particularly in the areas of online search and advertising. The outcome of this trial continues to loom large as it potentially shapes the future landscape of online advertising, search engine monopolies, and regulatory practices in the tech industry.
+Read more of Breitbart News’ reporting on the trial here.
+Lucas Nolan is a reporter for Breitbart News covering issues of free speech and online censorship.

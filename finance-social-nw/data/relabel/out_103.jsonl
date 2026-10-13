@@ -1,0 +1,20 @@
+{"id": "2060", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "A top executive told ET", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "2061", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Quick Read", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2062", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Activists' appeals to destroy", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2063", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "iamchamp - stock.adobe.com AI cyber", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2064", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "KCHA News Podcast for Tuesday", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2065", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "One Prediction Market Pegs", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2066", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Ready Or Not, AI", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "2067", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Kids Apply First Paint", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2068", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Vancouver, British Columbia--(Newsfile", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2069", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Vancouver, British Columbia--(Newsfile", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2070", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Vancouver, British Columbia--(Newsfile", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2071", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Next Generation of Scientific", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2072", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Next Generation of Scientific", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "2073", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Next Generation of Scientific", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2074", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Indian-American exec Deedy", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2075", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Indian-American exec Deedy", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2076", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Indian-American exec Deedy", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2077", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "On Friday, billionaire investor Bill", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "2078", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 18 May", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "2079", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Have You Visited This", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

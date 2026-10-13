@@ -1,0 +1,20 @@
+{"id": "0500", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "LONDON (AP) — Facebook and", "relation": "causal-driver", "sentiment_alignment": 0.3}
+{"id": "0501", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "US President Joe Biden", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0502", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "From help desks to", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "0503", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MicroStrategy (MSTR -1.86%) Q3", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0504", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "NEW YORK, Nov. 3, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0505", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "British Prime Minister Rishi", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0506", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "10 Ancient Legends About", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "0507", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nextdoor to lay off", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "0508", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "ACCESS Newswire 08 Nov", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "0509", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "ACCESS Newswire 08 Nov", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0510", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ACCESS Newswire 08 Nov", "relation": "unrelated-mention", "sentiment_alignment": 0.2}
+{"id": "0511", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "TORONTO, Nov. 8, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0.2}
+{"id": "0512", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Starting next year, Facebook", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0513", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "An earlier version of", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0514", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "An earlier version of", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0515", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "An earlier version of", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0516", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0517", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "BBC - Israel must", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "0518", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "ASUS's flagship GeForce RTX", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0519", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft's Bing Search Loses", "relation": "substitute-comparison", "sentiment_alignment": -0.8}

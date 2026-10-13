@@ -1,0 +1,58 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Advertisement
+By ANNE ASHWORTH, BUSINESS WRITER AND COLUMNIST
+Updated:
+A new spectre has appeared over Wall Street. Fear is growing that the billions staked on technology companies at the forefront of the artificial intelligence (AI) revolution could be in jeopardy.
+Analysts are even talking about a repeat of the dotcom bust of 2000, when fortunes were lost as tech stocks tumbled. Some emerged from the wreckage. Others did not survive.
+It’s a moment in 21st-century stock market history that British investors should start recalling now – especially as comparisons are being drawn with earlier investment bubbles, such as 19th-century railway company mania. This episode impoverished the greedy and the unwary, on both sides of the Atlantic.
+The concerns were brought into sharp focus this week by the results from Nvidia, the $4.2trillion (£3.1trillion) Silicon Valley name behind the microchips that power game-changing AI system ChatGPT.
+Now the world’s largest company, Nvidia represents 8 per cent of the total value of the S&P 500 stock-market index. Its boss, the leather jacket-wearing Jensen Huang, unveiled a 50 per cent jump in sales and an upbeat outlook, despite the group’s problematic relationship with China.
+Yet Nvidia shares slipped, adding to doubt over the outlook for the share prices of other members of the ‘Magnificent Seven’ posse – Amazon, Apple, Microsoft, Tesla, Alphabet, the owner of Google and Meta – the Instagram and Facebook group.
+These mega corporations are spending fortunes to be the mightiest players in the AI revolution which is already changing the way we work, communicate and much else.
+Academics – and even the most well-known billionaire in this space – are beginning to ask when the much-vaunted economic transformation set to flow from AI will arrive.
+Nvidia's boss Jensen Huang has revealed a 50 per cent jump in sales for his company
+The multi-billionaire who has been speaking out may be the most influential in the AI sphere – Sam Altman, the 40-year-old boss of OpenAI. This company developed ChatGPT. Although launched only in November 2022, the system already has 700million users worldwide.
+Altman may think in the future we will be having more conversations with ChatGPT than with each other. Despite this confidence in his creation, he argues that everyone is getting overexcited about AI.
+‘I do think some investors are likely to lose a lot of money, and I don’t want to minimise that – that sucks. There will be periods of irrational exuberance,’ he noted.
+Respected Wall Street figures are also speaking out.
+Lisa Shalett, of Morgan Stanley, said: ‘The Magnificent Seven are now as expensive relative to all other S&P 500 stock market index constituents as the biggest stocks were at the peak of the dotcom bubble. This sort of concentration can lead to greater volatility – and the potential for significant drawdowns.’
+Eric Beiley, of New York wealth managers Steward, described the valuations of tech shares as being ‘at nosebleed levels’.
+Disenchanted dotcom investors felt considerable pain. But their losses would be insignificant compared with the fallout from a prolonged slump in the shares of the Magnificent Seven and others such as the defence analytics group Palantir.
+Thousands of private investors in the UK have savings stashed in these titans of tech, either directly or through Isa funds, having enjoyed heart-warming gains in recent years. Over the past decade, there has been a 34,000 per cent increase in the price of Nvidia shares.
+Open AI's co-founder Sam Altman, 40, helped his firm create ChatGPT which launched in 2022
+The complacency bred by such profits means some investors may be ill-prepared for the consequences of a gut-wrenching descent in the share prices of these stock-market stars.
+There is also the possibility that falls could be exacerbated by public anger over the AI strategy of the multi-billionaire tech bosses, including Meta’s Mark Zuckerberg and Microsoft’s Satya Nadella.
+Against the background of simmering anger against political and other elites, these executives are being accused of playing a game of roulette with people’s livelihoods.
+The US bank Goldman Sachs has calculated that as many as 300million jobs worldwide risk being replaced by AI, around 25 per cent of the total. In the UK the slowdown in the jobs market is already being attributed to AI, with fewer entry-level posts available.
+BT says it may now substitute AI for more than its previous estimate of 40,000 workers by 2030.
+This summer, as AI takes over elementary coding tasks, it is being reported that employers have less need for newly graduated computer scientists.
+The shock of share-price declines could be further aggravated by the potential emergence of problems in the US finance sector, which is enabling the Magnificent Seven to fund the building of data centres. These gigantic sheds, crammed with computers and cabling, provide the power for the AI revolution.
+Some of the cash for this $3trillion construction boom will be coming not from long-established banks, but from private equity and other funds which could prove vulnerable if the returns on their lending are not as generous as currently estimated.
+The AI software has 700 million users worldwide and is at the forefront of the tech revolution
+In recent weeks, there has been more volatility in the shares of Nvidia and the others as doubt grows over the size of the payback from their massive investment in AI.
+Patience is wearing thin, as the hyped productivity bounce seems elusive.
+Critics say Google’s new search system – which gives information on a subject or a product rather than directing users to other companies’ websites – is plundering these businesses’ copyright or denying them the right to sell their goods and services. As a result, the economy-wide boost to output may fail to materialise.
+Critics are also asking what happens when most businesses are equipped with AI. Companies, unable to charge more than their competitors for goods and services, could balk at the high cost of Nvidia’s super-fast chips.
+Late last year, the veteran British fund manager Terry Smith of Fundsmith was raising these issues but the euphoria continued.
+No-one can know whether the right stance is Smith’s scepticism or Altman’s faith in the capacity of AI to provide profits and benefits to mankind.
+But this adds to the argument that you should assess your portfolio now.
+Here’s your action plan.
+The bursting of the dotcom bubble was prolonged. The downturn lasted from April 2000 to October 2002, during which period the Nasdaq index – which is mostly made up of tech stocks – plummeted by 80 per cent before it began to stabilise.
+Subsequently the index has risen by about 1,500 per cent, despite the routs caused by the global financial crisis and pandemic.
+Shares in Amazon have gone up from $0.99 to $284. Cisco Systems was the poster boy for dotcom hype. It was not until this summer that the company’s shares returned to their peak of $56 reached back in 2000. The price is now $67.
+This is a reminder of the hazards inherent in investing in innovation of any kind. Maybe you should not stay on board unless you are ready for a thrill ride and can afford to be patient while the uses of AI evolve. It is too soon in the course of the revolution to know in which areas the most money will be made. At present the focus is on the replacement of routine tasks in the workplace. But the transformation of healthcare may be the field from where profits flow and mankind benefits.
+Lisa Shalett, of Morgan Stanley, suggests the Magnificent Seven's value can lead to volatility
+Ben Rogoff, manager of the Polar Capital Technology trust, says AI is an innovation of the same importance to the economy and society as steel or the internet but that there are sure to be upsets along the way. He comments: ‘When you are on a steep curve of disruption, there are going to be challenges.’
+Polar Capital Technology backs about 90 companies connected with the AI revolution, including the data centre building boom, as well as Rolls-Royce – which is planning to develop small nuclear reactors to supply energy to these vast warehouses crammed with computers and cables.
+Magnificent Seven corporations make up just 10 per cent of Polar Capital Technology’s portfolio, although Nvidia is the largest holding.
+This should come as no surprise given the trust’s bias. But thousands of Isa investors who have money in popular global funds may be unwittingly backing the US names in the AI revolution. For example, the top stakes at the F&C trust are Nvidia, Amazon, Microsoft, Alphabet, Apple and Meta.
+To check the shares that your fund or trust owns, consult the online factsheet and decide whether you are happy with this concentration of holdings. Diversification is back in fashion (actually, it never went away).
+Wall Street banks and brokers are already seeking balance in the other stocks in the S&P 500 and the SPDR S&P 500 exchange traded fund gives exposure to the whole index.
+Among Bank of America’s five stocks to watch now is Levi Strauss, which invented jeans to clad prospectors during the US gold rush of the 1850s. This was another episode that illustrates the dangers of placing your trust in something with an uncertain outcome.
+Wall Street is also looking across the Atlantic for opportunities with value. The London bank Schroders says US investors have since January committed at least $15billion (£11.1billion) to British shares – which are suffering from a lack of love from UK investors.
+The UK has its own tech posse poised to make the most of AI – the Magnificent Five. They are: AutoTrader, the used car website, Experian, the global credit information group, the London Stock Exchange, which runs the UK stock market and provides data to traders, Relx, the analytics specialist, and Rightmove, the top property portal.
+You could also back a broad range of UK companies through funds and trusts such as City of London, Temple Bar, Law Debenture, Fidelity Special Values, Ninety One UK Special Situations and Liontrust UK Growth.
+Rogoff rightly argues investing in AI gives you a front-row seat in the upheaval that looms ahead.
+But you will enjoy the spectacle more if you have allocated only a portion of your investment budget to this transformation, whatever ChatGPT tells you to the contrary.

@@ -1,0 +1,27 @@
+TICKER_A: AVGO
+TICKER_B: GOOGL
+POST:
+Many, if not most, of us would love to own some terrific growth stocks that could help our portfolios surge in value. It's smart when owning such stocks, though, to plan to hang on for lots of years, and to not get impatient. For example, Microsoft (MSFT +3.66%) shares have averaged only 10% annual gains over the past three years and are down 13% year to date as of May 22 -- but over the past decade, they have averaged annual gains of 24%. You never know which years will be boffo and which years will disappoint.
+Here's a quick look at three promising growth stocks, each of which seems reasonably-to-attractively valued. See if any or all pique your interest.
+1. Nvidia
+It's worth keeping up with Nvidia (NVDA +0.22%) because it's been a powerful performer and seems to have plenty of potential. It has averaged annual gains of 51% over the past 15 years -- and its stock price still doesn't seem too steep. Its recent forward-looking price-to-earnings (P/E) ratio of 26, for example, is well below the five-year average of 36.
+NASDAQ: NVDA
+Key Data Points
+What's so promising about Nvidia? Well, just look at its latest earnings report, which featured revenue that surged 85% year over year while management expects revenue growth to keep accelerating, without even counting sales to China. Oh, and the company also announced a dividend increase of 2,400%! Its dividend yield is still only around 0.5%, though.
+You may know about how Nvidia is supplying data centers, which are spreading like wildfire, but it has other booming businesses, too, such as artificial intelligence (AI) computing platforms for outer-space applications.
+2. Broadcom
+Broadcom (AVGO +0.70%) is less well known, but it's also been a phenomenal performer, with average annual gains of 38% over the past 15 years.
+NASDAQ: AVGO
+Key Data Points
+Broadcom is growing rather briskly, too, with its latest quarter featuring revenue of $19.3 billion, up 29% year over year and revenue from AI more than doubling, to $8.4 billion. Broadcom is a leader in custom AI accelerators, with customers including Google, and it specializes not only in semiconductors but also in software. CEO Hock Tan has projected that the company's custom AI chips will generate more than $100 billion in revenue by 2027.
+The stock doesn't exactly appear undervalued, but given its growth rate, buying at recent levels and holding on for a long time is likely to reward shareholders. (Note, though, that if the market retreats, growth stocks such as these can retreat more sharply, which is why it's smart to aim to hang on for a long time, through ups and downs.)
+Broadcom is also a dividend payer. Its recent yield of 0.6% isn't much, but its quarterly payout has been growing briskly, from $0.36 per share in 2021 to $0.46 in 2023 and to a recent $0.65.
+3. Arista Networks
+Arista Networks (ANET +0.41%) specializes in cloud networking technology, offering operating systems, switching and routing platforms, and support services, among other things. As Fool.com writer Micah Zimmerman has noted, "Arista is becoming one of the most important 'behind-the-scenes' AI companies because every massive GPU cluster still depends on ultra-fast networking to actually work efficiently." On top of that, it's expanding into broader AI operations.
+NYSE: ANET
+Key Data Points
+Arista has made many investors wealthier, with a 10-year average annual return of nearly 43%. (Over the past three years, it has averaged nearly 62%.)
+Those increases will explain why the stock doesn't look like a screaming bargain right now, though it doesn't look terribly overvalued, either, with a recent forward P/E of 42, versus the five-year average of 33. Its price-to-sales ratio was recently 20, which is steep.
+Such numbers can be justified if a company is growing briskly, and Arista Networks is. In the first quarter, it posted revenue of $2.7 billion, up 35% year over year, with $1.7 billion in cash flow from operations and net income rising by 26%. Management noted that "94% of customers are strongly positive about the company."
+It was a strong first-quarter report, but management noted that it expects pressured supply chains to result in some shortages, especially in data center components such as wafers and memory. With demand outstripping supply, near-term performance may be challenged. These are likely to be short-term challenges, though, and the long-term future for Arista looks bright.
+Give any or all of these companies a closer look. Each is likely to reward shareholders over the long-term, though the short term is far less predictable.

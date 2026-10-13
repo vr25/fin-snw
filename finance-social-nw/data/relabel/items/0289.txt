@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Reddit CEO Steve Huffman says a mass protest on Reddit did not change the company's plans to start charging for data, despite how it upended the popular site and turned thousands of discussion groups dark.
+"It's a small group that's very upset, and there's no way around that. We made a business decision that upset them," Huffman told NPR in his first interview since nearly 9,000 subreddits staged a 48-hour boycott. "But I think the greater Reddit community just wants to participate with their fellow community members."
+Reddit is used by some 57 million people every day to discuss all sorts of things, like news developments; share memes and favorite recipes; swap stock market tips; and chronicle public photos of bread stapled to trees.
+But on Monday, Reddit's unpaid volunteer moderators turned thousands of discussion groups private, making them inaccessible. It lasted for 48 hours, but some groups have extended the "blackout" period. The coordinated backlash had a rallying cry: "Don't Let Reddit Kill 3rd Party Apps!"
+Huffman said the action did not cost the company much, even though it managed to create "a fair amount of trouble," he said.
+Huffman characterized the Reddit protesters as a small but vocal cadre of angry users who are not in touch with the greater Reddit community.
+"The protest, what it really affects is the everyday users, most of whom aren't involved in this or the changes that spurred this," Huffman said.
+Huffman says he's willing to negotiate with third-party developers wanting to have "productive conversations"
+In April, Reddit announced new fees for allowing third parties to access the site's data. But this month, the company detailed what the cost would be, causing outcry among some of the third-party apps.
+While the fees will not hurt everyone, some third-party developers say the new bills from Reddit would be exorbitant. Christian Selig told NPR that the new charges could cost Apollo, which has just one part-time employee, around $20 million a year.
+Four of the most popular mobile Reddit apps, including Apollo, have announced they will be going out of business because of the new costly fees for accessing what is called the application programming interface (API), which allows different pieces of software to communicate with each other.
+Huffman said negotiations have broken down with two of the most popular apps, Apollo and Rif Is Fun (formerly Reddit Is Fun), but he said Reddit is willing to negotiate with most third-party developers. "The other third-parties apps we're in conversation with," Huffman said.
+"There are areas of opportunity to be more flexible, to give longer transition times," he said. "For folks who want to have productive conversations with us, we're here and we're having those conversations."
+Human beings talk about interesting things on Reddit. "We are not in the business of giving that away for free."
+Huffman said 97% of Reddit users do not use any third-party apps to browse the site. He said "the vast majority" of moderators also do not rely on third-party apps.
+Still, he said the company's plan was never to kill third-party apps. At the same time, Huffman acknowledged that if those users instead browsed with Reddit's own app, it would shore up the company's bottom line.
+"And the opportunity cost of not having those users on our platform, on our advertising platform, is really significant," he said. "At the end of the day, it's simply expensive to run an app like Reddit."
+Giving away a service for free, Huffman said, is not something Reddit would be able to do forever.
+"We've been subsidizing other business for free for a long time. We're stopping that. That is not a negotiable point," Huffman said. "We simply were in an unsustainable position."
+In some situations, it's a mutually beneficial arrangement, he said. For instance, Reddit results appearing in Google or Microsoft search results help drive traffic to Reddit, so both the search engines and Reddit get something out of it.
+But with artificial intelligence-powered large language models like Microsoft-backed ChatGPT and Google's Bard, a massive corpus of conversations is being hoovered up. And in return, Reddit receives very little, he said.
+"If they take our content and build businesses on it, that's an issue," Huffman said. "If they build businesses such that people come to Reddit less, that's an issue."
+Huffman said Reddit's back-end infrastructure includes separate server pools solely dedicated to handling the scraping that Google and Microsoft do from Reddit every day.
+"Reddit represents one of the largest data sets of just human beings talking about interesting things," Huffman said. "We are not in the business of giving that away for free."
+Huffman: We're 18 years old. It's time we grow up.
+Some subreddits, still upset that Huffman has not rolled back any of the announced changes or lowered the cost for accessing Reddit data, have extended the blackout beyond the initial 48-hour period.
+In their last update, organizers of the boycott wrote that "our core concerns still aren't satisfied," adding that "Reddit has been silent since it began, and internal memos indicate that they think they can wait us out."
+Huffman said that right now, 80% of the top 5,000 subreddits are back online.
+In 2021, Reddit filed paperwork for an eventual initial public offering but shelved those plans when technology stocks plummeted shortly afterward. Now, Reddit is reportedly eyeing an IPO for later this year.
+But Huffman said taking the company public was not part of the calculation that led to the new fees. He said it was more about survival. "It is essential for us to be a sustainable business, whether or not we go public," Huffman said.
+"Now, we would like to be a public company. Not the best market to be doing that. It's not top of our mind today as it has been in the past," he said. "We'll get there when we're ready, when the market is ready."
+Reddit, which was founded in 2005, has long relied on advertising. It, along with peer social media platforms Facebook, Instagram, Snap, YouTube and others, has been dealing with a slowdown in digital ad spending, which has pressured the companies to find new ways to generate revenue.
+Huffman said the reckoning that Reddit is now in the grips of has been long overdue.
+"We're 18 years old," Huffman said. "I think it's time we grow up and behave like an adult company."
+Copyright 2025 NPR

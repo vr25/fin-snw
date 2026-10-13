@@ -1,0 +1,20 @@
+{"id": "0260", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Want to keep track of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0261", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Want to keep track of the", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0262", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Want to keep track of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0263", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SANTA CLARA, California: As investors", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0264", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "SANTA CLARA, California: As investors", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0265", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "SANTA CLARA, California: As investors", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0266", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The nonprofit sector — which encompasses", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0267", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Oil rose more than 1% after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0268", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The requested article has expired,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0269", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The requested article has expired,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0270", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The requested article has expired,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0271", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Investor bullishness on artificial intelligence", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0272", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Stock market today: Wall Street drifts", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0273", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "After overcoming an initial stumble", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0274", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Ohio is fourth in the nation", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0275", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "The artificial intelligence story still", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0276", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "The artificial intelligence story still", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0277", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The artificial intelligence story still", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0278", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Since its public unveiling at the", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0279", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "How To Watch The Xbox Games", "relation": "unrelated-mention", "sentiment_alignment": 0}

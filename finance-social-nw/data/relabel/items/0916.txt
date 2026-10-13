@@ -1,0 +1,108 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Jensanity! Nvidia valuation tops $3T — until regulators and naysayers weigh in
+Have we reached peak AI? This was a week in which CEO Jensen Huang’s Nvidia hit $3 trillion in market capitalization, only to fall back below that mark on reports of an antitrust probe by the Justice Department. Easy come, easy go.
+Meantime, some people are questioning if generative AI will catch on quickly enough to justify all the money still flowing in, and policy arm-wrestling continues. But others such as McKinsey are more optimistic, and as Paul Gillin’s deep dive indicates, at least some companies are getting a handle on the all-important task of managing the data for AI.
+Speaking of which, at its Data Cloud Summit this past week in San Francisco, Snowflake made its case for an integrated data compute platform while opening up to more outside technology. But archrival Databricks, which photobombed the event with an announced acquisition, will make its own case for even more openness next week at its Data + AI Summit.
+Amid mixed enterprise tech provider earnings, HPE and CrowdStrike nonetheless beat estimates and investors cheered. Next week: Oracle and Broadcom, bellwethers in cloud — where Microsoft oddly laying off a lot of people from Azure — and in semiconductors. Plus Adobe, a software-as-a-service indicator.
+Also next week, Apple holds its Worldwide Developer Conference, likely revealing its AI cards, in particular a deal with OpenAI as well as Apple Intelligence.
+This weekend, don’t miss Dave Vellante’s weekly deep dive, Breaking Analysis, on top takeaways from Snowflake’s event and a look ahead to Databricks’ event next week.
+Here’s the most important news from this week on SiliconANGLE and beyond:
+In AI, it’s all about the data
+Call it Jensanity: Nvidia’s market cap passes $3 trillion, passing Apple and now behind only Microsoft (for now).
+Antitrust comes for AI giants: US regulators reportedly set stage for antitrust probes into Nvidia, Microsoft and OpenAI And down went AI stocks (for now).
+A deep dive by Paul Gillin into how some companies are starting to manage all that data they need for doing AI: How some enterprises have licked the AI data problem
+Another deep dive, a provocative (or maybe not so provocative) analysis by Tony Baer of how Nvidia has the lock-in of the classic IBM mainframe — and what that means for its future: Is Nvidia becoming the de facto AI mainframe?
+New questions are emerging over how quickly generative AI will catch on, especially in enterprises. The AI revolution is already losing steam, contends the WSJ’s Christopher Mims, who notes that the pace of innovation in AI is slowing, its usefulness is limited, and the cost of running it remains exorbitant. MongoDB’s Matt Asay joins in, saying AI supply is way ahead of AI demand, though he thinks there are signs that enterprises are starting to put AI to work. Then there’s the regulators starting to get in gear, though if they slow down the big guys, that may be a positive for AI startups. McKinsey is even more optimistic, contending that gen AI adoption is spiking in early 2024 and is starting to generate value. Indeed, Baris Gultekin, head of AI at Snowflake, told me at the Snowflake summit that “2023 was the year of proof-of-concepts. Now is the year of implementation.” So it seems too early to be all that negative about the market, but the bottom line is that ROI matters, and that’s going to be a real factor as the AI rubber hits the road this year.
+AI for humans
+I had the opportunity this week to attend the fifth-anniversary celebration of the formation of Stanford University’s Institute for Human-Centered Artificial Intelligence, which drew a large number of AI luminaries analyzing key topics and issues today. I’ll dig deeper on these in coming weeks and months, but here are a few takeaways for now:
+- The organization’s leaders, drawn from a wide range of academic disciplines, reemphasized their goal to make AI human-centered, by which they mean user-centered, community-centered and society-centered. Meaning: It shouldn’t be driven solely by the companies creating it.
+- They also have a strong bent toward augmenting rather than replacing human work, a point of view that goes back at least until the 1960s when Doug Engelbart, inventor of the mouse and just about every other connected desktop computer innovation we’ve seen since then, contended that should be the highest and best use of computers. The arguments have never stopped and now they’re landing on AI.
+- At times, though, that aim sounded like more of hope than reality, because one person’s efficiency is other people’s job, and for now, at least, efficiency is what’s driving the use of AI. “AI and other tech need to be about our everyday lives — not just productivity,” said Pattie Maes, a pioneering researcher at MIT. “We need to stop thinking about computers as productivity tools. They’re life tools.” The question raised here is whether productivity is the highest and best use of AI, but the other benefits remain more amorphous at least in terms of ROI. “We’re really in the early days to finding the systems to accomplish this,” said Stanford professor and HAI acting co-director James Landay.
+- There’s huge progress toward actually mapping the human brain to produce much more effective and efficient algorithms. It’s no secret that children can learn what a dog is with a couple of examples while current AI models require training on thousands of pictures and still sometimes don’t get it right. One leader here for decades has been onetime Palm Pilot creator Jeff Hawkins, whose company Numenta has been putting the theories outlined in his two books, “On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines” and the more recent “A Thousand Brains: A New Theory of Intelligence,” into practice. Essentially, he contends the human brain is a sensorimotor system, learning through moving through space and making models of what they sense. This week, Numenta said it will open-source the Thousand Brains Project. “This is the surest path to true artificial intelligence,” he said.
+- The ultimate solution may be a break from digital computing, said Surya Ganguli, an applied physics prof at Stanford. “The place where computing went wrong is the digital decision,” he said. “Every bit flip requires a large amount of energy. We have to rethink the entire technology stack from megawatts to algorithms. But that ship long ago sailed, and it’s tough to see a move to more analog computing anytime soon.
+- Venture capitalist Marc Andreessen got praise and criticism for writing The Techno-Optimist Manifesto last year, and he appeared onstage to defend his contention that basically everyone needs to get out of the way of AI entrepreneurs doing more or less whatever they want. But HAI co-director and pioneering AI researcher Fei-Fei Li, a friend of Andreessen’s, was having none of it, saying he’s “overindexing” on some of the more stringent AI regulations being considered. But they agreed that it won’t be a good thing if these regulations result in “regulatory capture” where the current large companies dominating AI get even more power.
+Arm wrestling in AI policy:
+Mark Albertson’s close look at the AI boom’s impact on open source: How the open-source world is wrestling with security and licensing issues for generative AI
+In public letter, former OpenAI researchers urge increased transparency on AI risks
+Meta faces backlash in Europe over training AI with Facebook and Instagram data
+At Snowflake’s Data Cloud Summit this past week in San Francisco, it was AI in everything everywhere all at once, with a clear focus on becoming the platform for building data apps. Our top news, interviews and analysis:
+- Next week Databricks will get another shot with its Data+AI Summit also in San Francisco. Wonder who Snowflake will acquire…. Sridhar vs. Ali is going to be an interesting battle.
+AI chip war heats up even more:
+- Intel debuts AI-optimized Lunar Lake laptop processor and Xeon 6 server chip series
+- AMD debuts ‘world’s fastest’ consumer desktop processor and AI-optimized server chips
+- Kneron launches edge ‘GPT in a box’ server and AI-embedded PCs with new chip
+- Raspberry Pi enhances AI capabilities with Hailo partnership
+Mike Lynch found not guilty of criminal charges that he fooled Hewlett-Packard into buying Autonomy for $11B in 2011
+Money matters
+LLM developer Cohere reportedly raises $450M at $5B valuation
+GPU cloud provider CoreWeave bid $1 billion to acquire cryptomining and high-performance computing hosting firm Core Scientific, but Core on Thursday rejected the unsolicited proposal.
+Cloudera acquires AI tooling startup Verta
+Twelve Labs raises $50M for multimodal AI foundation models
+Storyblok raises $80M to add AI content tools to its ‘headless’ CMS platform
+Cube reels in $25M for its semantic layer platform for data
+Tobiko Data raises $21.8M to transform data transformation
+New services
+Report: Apple will integrate ChatGPT into iOS 18 as opt-in feature
+AI accuracy startup Galileo’s new LLM family is designed to evaluate other LLMs
+Stability AI debuts open version of its Stable Audio music generator tool
+Zyphra debuts Zyda LLM training dataset with 1.3T tokens
+Qlik debuts new data integration and curation tools for generative AI systems
+Amazon’s Project P.I. uses generative AI to scan packages for defective products
+Check out more of our AI news and big data news
+Around the enterprise: Big spending on fabs and data centers
+News from Cisco Live:
+Cisco advances intelligent networking and security as it announces $1B AI investment fund
+Cisco Live Day 1 news brings together networking and security
+I’m not sure how this computes given enterprises are still flocking to migrate to the cloud: Microsoft reportedly plans layoffs at Azure cloud division amid cost-cutting measures
+And where that savings is going: Microsoft details $3.2B plan to expand its data center capacity in Sweden
+Is CEO Pat Gelsinger taking some financial engineering tips from former boss Michael Dell? Intel gets $11B from Apollo for stake in its Fab 34 chipmaking plant in Ireland
+And he’s not alone: NXP, chip foundry VIS to build $7.8B fab in Singapore
+Study finds fears of post-Broadcom VMware customer flight may be overblown
+Google acquires virtual app delivery platform Cameyo
+SAP acquires application usability specialist WalkMe for $1.5B
+HPE’s Aruba unit debuts platform for building private 5G networks And Zeus Kerravala’s analysis: HPE looks to speed up enterprise private cellular deployments with new Aruba Networking offering
+Salesforce is transforming Slack into a collaborative project management tool
+Earnings
+Check out the rest of our cloud news and infrastructure news
+Cyber beat: Microsoft sort of recalls Recall
+Tenable expands cloud data security capabilities with Eureka Security acquisition
+SpyCloud raises $35M to bolster its cybersecurity efforts against account takeovers
+Passwordless security company HYPR raises $30M to bolster defenses against AI security threats
+Vulnerabilities and attacks
+Lots of criticism emerges on Microsoft’s recent introduction of Recall, which records everything you do on your PC — what could go wrong? A couple of sample views, one from Ars Technica: Windows Recall demands an extraordinary level of trust that Microsoft hasn’t earned and another from security researcher Kevin Beaumont: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster. On Friday, Microsoft switched gears: Microsoft makes Windows’ Recall feature opt-in following cybersecurity concerns
+Major cyberattack causes chaos at London’s NHS hospitals
+Hackers steal and offer for sale 3TB of data from Advance Auto Parts
+Victims of LockBit ransomware urged to contact FBI for decryption assistance
+Leaked database reveals unreported Google privacy breaches from 2013 to 2018
+TikTok moves to block exploit after high-profile account takeovers
+New services
+Immuta releases new multilayer data security architecture for RAG-based AI solutions
+HackerOne launches partner program to leverage global ethical hacker community
+New Darktrace managed service combines AI and expert analysis for advanced threat containment
+AppSec platform Backslash unveils enterprise-grade security updates for its ‘reachability’ tools
+Check out all the rest of our cybersecurity news
+Elsewhere around tech: crypto-consolidation
+Robinhood agrees to acquire crypto exchange Bitstamp in global expansion effort
+X updates policies to allow some sexually explicit content and AI-generated porn
+Comings and goings
+As promised, new Amazon Web Services CEO Matt Garman made a raft of organizational changes — details at CRN.
+Alphabet named Eli Lilly CFO Anat Ashkenazi to be its CFO starting July 31. She replaces Ruth Porat, who last year took on the additional roles of president and chief investment officer of Alphabet and its Google unit.
+Google Chief Privacy Officer Keith Enright is leaving after 13 years, per Forbes. He won’t be replaced as Google restructures privacy and legal compliance teams. Matthew Bye, head of competition law, also will be leaving, after 15 years with Google.
+What’s next
+Events
+June 10-13, San Francisco: Databricks’ Data + AI Summit TheCUBE will be there and so will I for SiliconANGLE.
+June 10-14, virtual; livestream 10 a.m PDT Monday, June 10: Apple WWDC We’ll have all the news.
+Earnings
+Tuesday, June 11: Oracle, Autodesk and Rubrik
+Wednesday, June 12: Broadcom
+Thursday, June 13: Adobe
+Photo of Nvidia CEO Jensen Huang: Robert Hof/SiliconANGLE
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

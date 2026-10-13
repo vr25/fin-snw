@@ -1,0 +1,20 @@
+{"id": "1320", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Key topics:.Nvidia faces challenges from", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1321", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "U.S. Lawmakers question the EU's", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "1322", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In one of his first", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "1323", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "In one of his first", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1324", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "In one of his first", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1325", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "There were reports from people", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "1326", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Servers likely containing Nvidia chips", "relation": "causal-driver", "sentiment_alignment": -0.6}
+{"id": "1327", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1328", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1329", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1330", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1331", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1332", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Pat Gelsinger is the CEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1333", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen & Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1334", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "American asset management giant BlackRock", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1335", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "SINGAPORE, March 6, 2025", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1336", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Russian propaganda is being spread", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1337", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "To gain an edge, this", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1338", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "To gain an edge, this", "relation": "unrelated-mention", "sentiment_alignment": -0.1}
+{"id": "1339", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "To gain an edge, this", "relation": "unrelated-mention", "sentiment_alignment": 0.1}

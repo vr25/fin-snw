@@ -1,0 +1,29 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+While local authorities hope to reap the economic benefits of the ever-growing data demands of the artificial intelligence (AI) boom, environmentalists have criticised the vast quantities of water and power that data storage consumes.
+Until recently, Aragón "was not on the map of global connectivity. But today everyone knows where it is," said Manuel Giménez, executive director of an association grouping 170 data centre firms.
+At the end of May, Amazon said it was investing €15.7 billion ($17 billion) in the region through its AWS cloud computing division to expand its three existing data centres in Aragón, set up since 2022.
+In early July, Microsoft said it was investing €2.2 billion in a huge data centre project, raising its total investment in the region to 6.7 billion euros.
+And Spanish media reports said Meta, the parent company of Instagram and Facebook, would soon follow suit.
+These investments are part of a strategy by big tech companies to ramp up their storage capacities to meet the incessant demand for generative artificial intelligence, which has significant data requirements.
+'Europe's Virginia'
+"This is a great opportunity and we must make the most of it," said María del Mar Vaquero, the Aragón region's deputy leader.
+She believes that Aragón's success in the field is due to plenty of cheaply available land and good links to Spain's economic centres in Madrid, Barcelona and the northern Basque Country.
+READ ALSO: Why are the Basque Country and Catalonia so rich compared to the rest of Spain?
+This is complemented by the vast array of solar and wind farms dotted across its sunny but sparsely populated territory.
+For Amazon, the fact that all its power needs can be met "with 100 percent renewable sources" helps its sustainability goals, it said, while pointing to the "institutional confidence" offered by the Aragonese authorities.
+The regional government has created a dedicated department so that "red tape will not be an obstacle for these types of projects" and will establish "legal security" for companies, Vaquero said.
+The aim is to convert the region into a "European Virginia", she added, referring to the eastern US state that has established itself as a global data centre hub.
+Environmental impact
+However, the spread of data centres in the region also has detractors.
+Ecologists say such installations are very costly in terms of electricity to run the equipment and water to cool them down.
+While "it's difficult to have exact figures, we do know that consumption levels are huge", said activist Aurora Gómez, warning of the risks of "uncontrolled" development.
+Gómez is part of a protest platform called "Tu nube seca mi río" - "Your cloud is drying up my river" - flagging the environmental impact of data centres.
+"Spain is going to be one of the worst-hit countries in terms of climate change and desertification. We have to be very careful," she said.
+Other critics cast doubt on the economic benefits of these centres, which Giménez's data centre association rejects.
+"The positive impact of the data centre industry on GDP and employment is obvious," Giménez said, calling it "even larger than that of the aeronautical industry".
+With fierce competition for investment between Spain's 17 regions, the Aragonese government has launched a huge 42-hectare (104-acre) technology park project on the outskirts of Zaragoza.
+Although it has the sector heavyweights in mind, it is also designed to meet the needs of start-ups and public research institutions.
+"In Aragón, the leading sectors have traditionally been the agrifood business, logistics and the automotive industry," said Vaquero.
+But with investment pouring in, her vision is an Aragón where technology becomes "a motor for economic transformation".

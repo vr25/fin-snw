@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+China’s aggressive leap into artificial intelligence (AI) may secure its global leadership—or sink its economy, experts say.
+Powered by a vast data trove, hefty state funding, and a national goal to lead the world in AI by 2030, the country aims to push ahead. Meanwhile, Beijing’s ambition threatens millions of jobs domestically, heightens tensions with the United States, and sparks ethical concerns over how this technology is being built and used.
+Beijing has introduced a state-backed fund expected to bring in $138 billion from local governments and private sectors for AI projects over the next 20 years. The Chinese Communist Party (CCP) also added the “AI Capacity-Building Action Plan” to its 2024 agenda, aiming to integrate AI into manufacturing, health care, and public services.
+As of June 2024, according to data from China’s Ministry of Industry and Information Technology, there were more than 4,500 AI-related companies and 9.4 million software developers, driving a market worth 600 billion yuan ($82.6 billion).
+Jobs on the Line
+This AI boom, however, could come at a human cost.
+Cybersecurity expert Zeng Yishuo warns of “structural unemployment”—a mismatch between available jobs and workers’ skills as machines and computers take over.
+Zeng, a researcher at Taiwan’s Institute for National Defense and Security Research, recently told The Epoch Times that such a problem could be detrimental to China, as its vast population amplifies the effect of any unemployment spike. A small percentage affected could mean millions out of work.
+When large groups remain unemployed, consumer spending falls, and growth slows, creating a vicious cycle that continues to reduce investment and lower demand for new workers, he said.
+China’s youth unemployment hit a record high of 21.3 percent in June 2023, prompting the National Bureau of Statistics to halt reporting. When Beijing began publishing youth jobless data again in January 2024, officials introduced a new calculation method that excluded certain groups, including students, bringing December 2023’s official rate down to 14.9 percent. By August 2024, however, it had climbed again to 18.8 percent.
+Meanwhile, overall urban unemployment stayed slightly above 5 percent throughout 2024 and is projected by Beijing to reach 5.5 percent in 2025.
+In Shenzhen, more than 70 AI robots already handle hundreds of government services such as tax filings and license renewals, according to state media. As of February 2025, nearly 100 hospitals across China had adopted AI models to assist with tasks such as decision-making, medical imaging analysis, and medical record quality control.
+Hospitals in Guangdong have rolled out AI-assisted medical consultations, local authorities said.
+The private sector isn’t immune. A leaked memo from Chicmax Cosmetics, a major Chinese cosmetics brand, revealed plans to slash staff in some departments, such as customer service and legal, by up to 95 percent, with only those proficient in AI remaining.
+Though CEO Lu Yixiong later denied mass layoff plans and said headcount would grow, the fear is real.
+Meanwhile, in 2024, prominent Chinese economist Peng Wensheng predicted a 0.8-point GDP boost over a decade caused by AI but cautions that income inequality could widen as low-skill workers bear the brunt.
+Zeng said displaced workers face a bleak future in a country where their skill sets become obsolete without proper retraining.
+Research indicates a skills mismatch in China’s workforce as automation and AI widen gaps in advanced manufacturing. A recent report by Deloitte and Chinese firm Renrui Human Resources Technology warns that the workforce is unprepared for CCP leader Xi Jinping’s high-tech push, projecting a shortage of 5.5 million smart manufacturing workers by 2025.
+US–China Tech Rivalry
+Many governments have identified AI as a key indicator of future national power. AI is also a flagship investment area for President Donald Trump.
+In response to China’s rising AI influence, Washington has steadily expanded export controls on advanced AI chips and tightened licensing requirements for high-end computing equipment export.
+Lin Zongnan, an engineering professor at Taiwan National University, told The Epoch Times that DeepSeek could emerge as “the Huawei of AI,” a state-backed giant masquerading as a private entity, sparking security concerns. Originally founded as a private company, DeepSeek has increasingly drawn substantial state support and nationalist sentiment, fueling doubts about its independence.
+Chinese counterespionage laws mandate that domestic companies hand over user data on demand, fueling international scrutiny.
+Independent journalist Zhuge Mingyang calls China’s AI push an “AI Great Leap Forward”—bold but perilous, risking chaos as traditional industries already battered by e-commerce and unemployment swell. He references former Chinese leader Mao Zedong’s original Great Leap Forward campaign, an ambitious plan to rapidly industrialize China that ultimately caused severe famine, devastation, and tens of millions of deaths.
+China’s AI gamble could cement the country as a tech superpower, possibly outpacing rivals and reaping economic rewards. However, experts say the downsides—widespread job losses, deeper income inequality, and a simmering U.S. rivalry—loom large.

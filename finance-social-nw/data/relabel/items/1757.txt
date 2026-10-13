@@ -1,0 +1,34 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Equities in Canada’s largest centre made up mostly Monday for losses of last week, led for the most part by resource stocks. 
+The TSX leaped 433.70 points, or 1.5%, to conclude Monday at 30,604.35.
+The Canadian dollar slipped 0.5 cents to 70.90 cents U.S. 
+The index had fallen 0.5% the prior week following a global selloff in AI and technology stocks over concerns of stretched valuations and ambitious spending. 
+The gains followed comments from Fed policymaker John Williams, who stated on Friday that interest rates could fall "in the near term," boosting expectations for a rate cut at the Fed's December meeting.
+Among other developments, the Indian government said it has agreed with Canada to restart stalled talks for a new trade deal after a break of two years following a diplomatic tussle.
+Gold was brightest Monday, with Aris Gold jumping $1.70, or 10.4%, to $18.11, while Lundin Gold hiked $7.66, or 7.1%, to $115.42. 
+Barrick Mining and Mali's government have reached a verbal agreement in principle to settle a dispute over the Loulo-Gounkoto gold mining complex, sources familiar with the matter told Reuters. Barrick tacked on $4.40, or 8.5%, to $55.93. As well, Franco-Nevada bounced $12.93, or 4.8%, to $282.31. 
+In tech stocks, Bitfarms soared 53 cents, or 15.5%, to $$3.95, while Celestica jumped $59.66, or 15%, to $54.05. 
+Consumer staples took a pasting, however, with Premium Brands down $1.64, or 1.6%, to $90.46, while Metro lost $1.85, or 1.9%, to $98.34. 
+Among real-estate plays, FirstService sank $4.40, or 2%, to $213.90, while Crombie REIT units ditched 23 cents, or 1.5%, to $15.25. 
+In industrials, Canadian National Railways backtracked $3.03, or 2.3%, or 2.3%, to $128.08, while Thomson Reuters retreated $3.58, or 1.9%, to $186.90. 
+ON BAYSTREET 
+The TSX Venture Exchange gained 25.71 points, or 3%, to 880.47. 
+Eight of the 12 TSX subgroups held onto gains by the end of the sessions, with information technology zooming 4.9%, gold hiking 4.9%, and materials stronger by 4.4%.. 
+The four laggards were weighed most by consumer staples, off 1.9%, real-estate, backing up 0.7%, and industrials 
+worse off 0.2%. 
+ON WALLSTREET 
+Stocks rose on Monday, boosted by Alphabet, as the market rebounded into the Thanksgiving holiday week after a slide that’s knocked the air out of this year’s artificial intelligence bull run.
+The Dow Jones Industrials popped 202.82 points to 46,448.27.
+The S&P 500 added 102.13 points, or 1.6%, to 6,705.12.
+The NASDAQ reached skyward 578.92 points, or 2.7%, to 22,872.01 
+Shares of Alphabet saw gains Monday as investors grew optimistic about the company’s standing in the AI race. Google last week announced its upgraded AI model, Gemini 3, a move that comes nearly eight months following its unveiling of Gemini 2.5. The stock was last up 6%.
+The enthusiasm surrounding Alphabet extended to other names in the AI trade. Broadcom surged 11%, while Micron Technology grew 8%. Palantir Technologies and AMD each popped 6%. Meta, Nvidia and Amazon also advanced.
+Stocks built on a strong rebound that started on Friday, after the head of the New York Federal Reserve left the door open to a December interest rate cut. Major averages have still stumbled sharply since the month began, pressured by a reconsideration of sky-high valuations across artificial intelligence-linked names that had powered much of 2025's market gains.
+The stock market is closed on Thursday for Thanksgiving Day, and it shuts down early at 1 p.m. ET on Friday.
+Stocks are attempting to build on a strong rebound that started on Friday, after the head of the New York Federal Reserve left the door open to a December interest rate cut. 
+The final stretch of November may be no easier. With trading volumes expected to thin out in the coming days and few meaningful catalysts ahead of the Fed’s December policy meeting, volatility could pick up.
+Prices for the 10-year Treasury gained ground, lowering yields to 4.03% from Friday’s 4.06%. Treasury prices and yields move in opposite directions. 
+Oil prices eked up 97 cents to $59.03 U.S. a barrel. 
+Gold prices brightened $50.20 to $4,129.70 U.S. an ounce.

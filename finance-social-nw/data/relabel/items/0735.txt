@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Aylo, the operator of several popular pornographic sites, has violated Canadian privacy law, an investigation from Canada’s privacy watchdog concluded.
+One of the sites Montreal-based Aylo, formerly known as MindGeek, runs is PornHub. It’s reportedly the fourth most popular website in the world, outranked only by Google, YouTube, and Facebook.
+The investigation found that Aylo allowed users to share intimate images on its websites without obtaining proper consent. When individuals would ask the operator to remove such content, the company took part in an “extremely onerous and ineffective process.”
+The Office of the Privacy Commissioner (OPC) launched the investigation in 2020 after a woman complained an ex-boyfriend uploaded intimate content containing the woman to Aylo’s website without obtaining her consent. While the investigation noted Aylo made attempts to remove the content, it failed to provide proper privacy protection, leading users to upload the content on other Aylo websites. Some of the company’s other platforms include Youporn, Redtube, and Tube8.
+The investigation further found Aylo relied on the users uploading content to confirm it included proper consent. To check for non-consent, the operator relied on moderators reviewing upwards of 500 videos daily and AI tools, “even though the absence of [non-consent] did not establish that the individual had consented to the mass distribution of their intimate images.”
+The OPC has called on Aylo to stop collecting and using user-generated content until it has taken steps to comply with the Personal Information Protection and Electronic Documents Act (PIPEDA). The regulator also recommended Aylo delete content that lacks proper consent and take steps to create measures verifying user consent.
+“The inadequate privacy protection measures on Pornhub and other Aylo sites have led to devastating consequences for the complainant and other victims of non-consensual disclosure of intimate images,” Philippe Dufresne, the Privacy Commissioner of Canada, said in a press release.
+The OPC says it was ready to release its findings in May 2023, but legal action from Aylo delayed the release.
+Source: OPC

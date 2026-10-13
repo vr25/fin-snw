@@ -1,0 +1,30 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Nvidia became the first company to touch $4 trillion in market value on Wednesday, a new milestone in Wall Street's bet that artificial intelligence will transform the economy.
+Shortly after the stock market opened, Nvidia vaulted as high as $164.42, giving it a valuation above $4 trillion. The stock subsequently edged lower, ending just under the record threshold.
+"The market has an incredible certainty that AI is the future," said Steve Sosnick of Interactive Brokers. "Nvidia is certainly the company most positioned to benefit from that gold rush."
+Nvidia, led by electrical engineer Jensen Huang, now has a market value greater than the GDP of France, Britain or India, a testament to investor confidence that AI will spur a new era of robotics and automation.
+The California chip company's latest surge is helping drive a recovery in the broader stock market, as Nvidia itself outperforms major indices.
+Part of this is due to relief that U.S. President Donald Trump has walked back his most draconian tariffs, which pummeled global markets in early April.
+Even as Trump announced new tariff actions in recent days, U.S. stocks have stayed at lofty levels, with the tech-centered Nasdaq ending at a fresh record on Wednesday.
+"You've seen the markets walk us back from a worst-case scenario in terms of tariffs," said Angelo Zino, technology analyst at CFRA Research.
+While Nvidia still faces U.S. export controls to China as well as broader tariff uncertainty, the company's deal to build AI infrastructure in Saudi Arabia during a Trump state visit in May showed a potential upside in the U.S. president's trade policy.
+"We've seen the administration using Nvidia chips as a bargaining chip," Zino said.
+Nvidia's surge to $4 trillion marks a new benchmark in a fairly consistent rise over the last two years as AI enthusiasm has built.
+In 2025 so far, the company's shares have risen more than 21 percent, whereas the Nasdaq has gained 6.7 percent.
+Taiwan-born Huang has wowed investors with a series of advances, including its core product: graphics processing units (GPUs), key to many of the generative AI programs behind autonomous driving, robotics and other cutting-edge domains.
+The company has also unveiled its Blackwell next-generation technology allowing more super processing capacity. One of its advances is "real-time digital twins," significantly speeding production development time in manufacturing, aerospace and myriad other sectors.
+However, Nvidia's winning streak was challenged early in 2025 when China-based DeepSeek shook up the world of generative AI with a low-cost, high-performance model that challenged the hegemony of OpenAI and other big-spending behemoths.
+Nvidia's lost some $600 billion in market valuation in a single session during this period.
+Huang has welcomed DeepSeek's presence, while arguing against U.S. export constraints.
+In the most recent quarter, Nvidia reported earnings of nearly $19 billion despite a $4.5 billion hit from US export controls limiting sales of cutting-edge technology to China.
+The first-quarter earnings period also revealed that momentum for AI remained strong. Many of the biggest tech companies - Microsoft, Google, Amazon and Meta - are jostling to come out on top in the multi-billion-dollar AI race.
+A recent UBS survey of technology executives showed Nvidia widening its lead over rivals.
+Zino said Nvidia's latest surge reflected a fuller understanding of DeepSeek, which has ultimately stimulated investment in complex reasoning models but not threatened Nvidia's business.
+Nvidia is at the forefront of "AI agents," the current focus in generative AI in which machines are able to reason and infer more than in the past, he said.
+"Overall the demand landscape has improved for 2026 for these more complex reasoning models," Zino said.
+But the speedy growth of AI will also be a source of disruption.
+Executives at Ford, JPMorgan Chase and Amazon are among those who have begun to say the "quiet part out loud," according to a Wall Street Journal report recounting recent public acknowledgment of white-collar job loss due to AI.
+Shares of Nvidia closed the day at $162.88, up 1.8 percent, finishing at just under $4 trillion in market value.
+Published - July 10, 2025 10:27 am IST

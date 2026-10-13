@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The Paris stock exchange opened slightly higher on Thursday morning, following in the wake of Wall Street's rally after the U.S. Federal Reserve's decision to continue its cycle of interest rate cuts. The announcement was widely welcomed on Wall Street last night, though the mood was later dampened by Oracle's disappointing quarterly results. The CAC 40 index rose by 0.5% to around 8,055 points.
+After its final monetary policy meeting of the year, the Fed on Wednesday cut its benchmark interest rates by a quarter point as expected, but also lowered its inflation forecasts and announced an immediate return to balance sheet expansion through the purchase of Treasury Bills.
+While Fed Chair Jerome Powell did not adopt an especially dovish tone during his press conference, he also avoided sounding overly restrictive, emphasizing that a rate hike was not under consideration by any members of the FOMC.
+The institution also raised its growth forecasts, while noting a weakening labor market--a "goldilocks" scenario that could well justify further reductions in borrowing costs next year.
+"The Fed will therefore continue its rate cut cycle, and next week's inflation and employment figures will determine the scope and timing of the move," said Bastien Drut, Head of Strategy and Economic Research at CPRAM.
+Evidence that Jerome Powell succeeded in his communication effort came as the New York Stock Exchange closed sharply higher on Wednesday. The Dow Jones gained more than 1%, coming within about 200 points of its all-time record at 48,431.5 points. The broader S&P 500 rose 0.7% to 6,886.6, while the Nasdaq Composite advanced 0.3% at the close.
+Reflecting renewed risk appetite, the Wall Street VIX volatility index dropped 6% to 15.9--a "comfortable" zone where stress is no longer seen as a barrier to risk-taking.
+With the year-end traditionally a favorable period for equities, the outlook now appears clear, buoyed by hopes regarding monetary policy. This means that December's portfolio rebalancing is likely to regain momentum.
+"As I've said before--and at the risk of repeating myself--we are currently facing one of the most bullish cocktails imaginable for risk assets," said Michael Brown, market analyst at Pepperstone.
+"When you add in the fear of missing out (FOMO), an ultra-favorable seasonal effect, and massive corporate share buybacks, it's clear that the most obvious momentum remains firmly bullish," he added.
+"I remain calmly confident that the S&P 500 can reach the 7,000-point threshold by year-end," the strategist asserted.
+With the Fed hurdle now cleared, the S&P 500 appears well positioned to notch an eighth consecutive monthly gain in December--a feat not seen in over 25 years.
+As expected, U.S. yields fell after the Fed's decision, with the 10-year Treasury yield moving back toward 4.16%.
+The dollar declined against most currencies after the Fed's perceived dovish tone, allowing the euro to climb above $1.1690.
+Oil prices slipped slightly after reports of a smaller-than-expected drop in U.S. crude inventories. Brent crude fell 0.6% to $61.8 a barrel, while U.S. light crude (West Texas Intermediate, WTI) dropped 0.6% to $58.1.
+However, appetite for riskier assets was tempered by Oracle's weaker-than-expected quarterly results, which saw its shares tumble 11% in after-hours trading, dragging down other tech giants such as Nvidia (-2.7% after hours) and Microsoft (-1.2%).
+"It's not just Oracle's earnings that are concerning, but more so the scale of its debt and its inability to reassure the market about its capacity to finance its massive investment projects," commented one trader.

@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Quick Read
+-       Apple (AAPL) booked over 50% of TSMC's 2nm capacity for 2026 A20 and M5 chips and locked in multi-year HBM memory supplies through 2026 with its $123B cash position, while Google and partners compete for residual 3nm wafers and face 80-90% higher spot memory prices. Alphabet (GOOGL) reported 63% Cloud growth but Q1 CapEx jumped 107% YoY to $35.67B, with management targeting $180B in 2026 CapEx that will pressure free cash flow.
+-       Apple's control over advanced silicon and memory secures its margin advantage for the next decade of XR devices, while Google's open-platform approach and massive capital spending chase scale but sacrifice capital efficiency.
+-       The analyst who called NVIDIA in 2010 just named his top 10 stocks and Apple wasn't one of them. Get them here FREE.
+Apple (NASDAQ: AAPL) and Alphabet (NASDAQ: GOOGL) both just reported, and the contrast runs deeper than the headline numbers suggest. Apple posted its best March quarter ever. Alphabet delivered 63% Cloud growth. The real story sits one layer below: who controls the silicon underneath the next wave of AI hardware.
+Apple Locked the Foundry. Google Is Renting Time.
+Apple has booked more than 50% of TSMC's initial 2nm (N2) capacity for 2026 to feed next-generation A20 and M5 silicon. Google and its chip partners, including Samsung and Qualcomm, are left fighting over residual wafers or staying on 3nm. TSMC retains a yield advantage over Samsung Foundry through 2027, which translates into a measurable performance gap by the time XR devices ship in volume.
+Memory tells the same story. HBM3e and HBM4 production at SK Hynix and Micron is sold out through the end of 2026, with memory prices up 80-90% versus late 2025. Apple is using its $123B cash position to pre-pay multi-year supply deals. Smaller competitors are stuck on spot pricing.
+The analyst who called NVIDIA in 2010 just named his top 10 stocks and Apple wasn't one of them. Get them here FREE.
+Vertical Stack vs. Open Platform
+Smart glasses are the inflection category. Unit volumes scale from roughly 6M in 2025 to 20M in 2026, with Meta and Luxottica targeting 20M Ray-Ban Meta pairs by end of 2026. Whoever controls silicon and memory sets the margin profile for the next decade.

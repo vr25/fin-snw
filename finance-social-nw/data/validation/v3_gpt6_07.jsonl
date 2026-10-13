@@ -1,0 +1,12 @@
+{"id":"0668","ticker_a":"GOOGL","ticker_b":"META","first_words":"Meta's Ad Business Continues To","relation":"substitute-comparison","sentiment_alignment":-0.7}
+{"id":"0467","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Three-year memorandum of understanding –","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0809","ticker_a":"GOOGL","ticker_b":"META","first_words":"Closing speeches have been made","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0703","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Tech giants including Microsoft, Meta,","relation":"co-hype","sentiment_alignment":0.7}
+{"id":"0786","ticker_a":"GOOGL","ticker_b":"META","first_words":"French regulators announced on Wednesday","relation":"co-hype","sentiment_alignment":0.5}
+{"id":"0798","ticker_a":"GOOGL","ticker_b":"META","first_words":"Apple just announced that it","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"2008","ticker_a":"AVGO","ticker_b":"MSFT","first_words":"The Nasdaq-100 index typically outperforms","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0482","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"High-Performance Computing (HPC) Market To","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0688","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"\"A $1 trillion industry by","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0640","ticker_a":"META","ticker_b":"NVDA","first_words":"Nvidia's valuation passed the $1.5","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0436","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Alphabet Inc.’s Google can’t invoke","relation":"substitute-comparison","sentiment_alignment":0.0}
+{"id":"1183","ticker_a":"GOOGL","ticker_b":"META","first_words":"India stands out as a","relation":"co-hype","sentiment_alignment":0.9}

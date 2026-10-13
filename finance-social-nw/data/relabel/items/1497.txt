@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+The stakes are high. The South Korean company lost its global smartphone crown to Apple in 2023 and faces growing competition from Chinese rivals like Huawei and Honor.
+Meanwhile, Samsung's mainstay chip business has suffered a profit slump stemming in part from its delayed supply of artificial intelligence chips to Nvidia.
+Samsung's mobile president and chief operating officer, Choi Won-joon, said his most important mission was to make Samsung a leader in AI-powered smartphones.
+"I believe that foldable phones, integrated with AI features, are ready to become mainstream by offering a unique, differentiated experience," he told Reuters in his first media interview since being promoted in March.
+He said Samsung aims to take a leadership position in AI by enhancing cooperation with external partners like Google, unlike Apple, which has been using in-house AI technology that has faced delays in adding key features.
+Samsung also in New York unveiled its first smartwatches equipped with Google's AI voice assistant, Gemini, which can make recommendations to the owner such as good locations for a run.
+Premium halo
+Samsung said in April that it was pushing ahead with a premium product strategy as U.S. tariffs threatened to dampen demand and raise component costs.
+The smartphone maker increased the U.S. price of its Galaxy Z Fold 7 by 5% to $1,999 from its predecessor Fold 6, while introducing a less expensive version of its Galaxy Z Flip 7 clamshell phone, Flip 7 FE, priced at $899.
+Galaxy Z Fold 7 is equipped with Qualcomm's super-fast processor Snapdragon 8 Elite, while Galaxy Z Flip 7 is powered by Samsung's in-house Exynos chips.
+Analysts said Samsung's new models tackled some of the issues with foldable phones such as bulkiness, and would create a premium halo around the brand. The Galaxy Z Fold 7 weighs 10% less than its predecessor and is 26% thinner.
+But high prices and a lack of use cases mean foldable phones are likely to remain a niche segment, the analysts said, with data from research firm IDC showing they account for just 1.5% of the total smartphone market.
+Research firm Canalys predicts Samsung's foldable shipments, which peaked in 2022, will remain flat or slightly decline in 2025, in line with the broader market's flat growth, according to data provided to Reuters.
+Samsung's foldable smartphones account for 4% of its total phone sales but 16% of those priced over $800, Canalys said.
+Its data shows Samsung's dominance of the foldable phone segment is being eroded by Honor and Huawei, which are enjoying strong sales, especially in China.
+Samsung, which held its unveiling event in New York on Wednesday, will focus on the United States, Europe and South Korea for foldable phone sales, Choi said.
+At a press conference later on Wednesday following the launch event, TM Roh, president and acting head of Samsung's device experience division, said Samsung is working towards launching a tri-foldable phone, which users can fold three ways, by the end of the year.
+In the meantime, Choi said Samsung accelerated output and shipments of smartphones bound for the U.S. to mitigate the impact of looming U.S. tariffs, without giving details. Samsung produces its smartphones in Vietnam, which accounts for more than half of its phone output, as well as in South Korea and India.
+He also said Samsung has been tackling China's export curbs on rare earths and rare earth magnets by diversifying suppliers beyond the dominant supplier and significantly increasing its own internal stockpiles.

@@ -1,0 +1,14 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Facebook
+ parent Meta predicted a feeble holiday quarter in October. The social media giant is reportedly concerned that notably higher costs in 2023 may reduce $67 million from the companyâs stock market value. This deduction will add to the more than half a trillion dollar value that Meta has already lost in 2023. According to a report by The Wall Street Journal, now the company is planning to make large-scale layoffs in the upcoming days. These job cuts are expected to hit thousands of employees and the process is likely to start this week. Meta is yet to respond to these allegations and share an official statement regarding this matter.
+Why Facebook may plan layoffs
+Meta is currently struggling with multiple issues and that might be one of the reasons for these expected job cuts. Apart from the slow growth of the global economy, privacy changes from 
+Apple
+, Tiktokâs rivalry, massive Metaverse investment and the ever-looming threat of regulation concerns Meta. 
+The companyâs CEO, 
+Mark Zuckerberg
+ also doesnât expect to get returns from the metaverse investments before a decade. Meanwhile, to tackle the costs, he decided to resort to a firing freeze, shutting down projects and reorganising teams to reduce expenses. 
+In June, Zuckerberg reduced its plans for hiring engineers by at least 30% and warned employees to prepare for an âeconomic downturn.â A Meta shareholder named Altimeter Capital Management suggested that the company needs to cut jobs and capital expenditures to streamline the company's costs in an open letter. The company also mentioned that Meta started losing investor confidence when it increased its spending and planned the metaverse investment. 
+Apart from Meta, other tech giants like Microsoft, Twitter and Intel have also decided to cut jobs and reduce hiring. This is being done to adapt to the slow growth of the global economy, rising inflation, higher interest rates and Europeâs energy crisis.

@@ -1,0 +1,20 @@
+{"id": "0340", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Musk launches xAI to rival", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0341", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Elon Musk is finally starting", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0342", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Elon Musk broached the idea", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0343", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Joe Biden's Ministry of Truth", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0344", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Samsung, the South Korean giant", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0345", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Key takeaways - The 10", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0346", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "WRAL TechWire WRAL TechWire technology", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0347", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "WRAL TechWire WRAL TechWire technology", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0348", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "WRAL TechWire WRAL TechWire technology", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0349", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Nowadays, Artificial Intelligence (AI) has", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0350", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0351", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0352", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0353", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0354", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0355", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0356", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "LONDON — Elon Musk has", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0357", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "GLOBAL MARKETS-Shares rise after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0358", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "C3.ai (AI -1.02%) and Opera", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0359", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As you prepare to go", "relation": "unrelated-mention", "sentiment_alignment": 0}

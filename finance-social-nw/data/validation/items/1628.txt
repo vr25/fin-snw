@@ -1,0 +1,21 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Microsoft’s New ‘Microfluidic’ Tech Cools AI Chips From Within
+New AI-optimized cooling system etches liquid channels directly into silicon, potentially transforming data center efficiency and chip performance.
+Microsoft has unveiled a breakthrough cooling technology that could fundamentally transform how AI chips handle heat, potentially revolutionizing data center design and efficiency.
+The tech giant said it has achieved on-chip cooling using “microfluidics” – an AI-assisted technology that uses embedded liquid channels on the silicon itself. Microsoft said the technology results in a 65% reduction in maximum temperature for GPU silicon, which purportedly beats traditional cold plate cooling by three times.
+The cooling breakthrough could reduce operational costs and become a key metric for measuring data center energy efficiency, the company said.
+“Microfluidics would allow for more power-dense designs that will enable more features that customers care about and give better performance in a smaller amount of space,” Judy Priest, Microsoft’s corporate vice president and chief technical officer of cloud operations and innovation, said in a statement.
+Cooling Through Bio-Mimicry
+The microfluidics system uses tiny channels etched directly onto the back of a chip (see main image, above) that allows liquid to flow directly to remove heat at the source. The current industry standard for GPU cooling uses cold plates that are separated from the heat source by several layers, limiting the amount of heat removal. As chips get faster and more powerful, the heat created will also increase.
+“If you’re still relying heavily on traditional cold plate technology, you’re stuck,” Microsoft’s Sashi Majety, senior technical program manager for cloud operations and innovation, said in a blog post.
+While prototyping microfluidics, Microsoft collaborated with Swiss startup Corintis, using AI optimization on a biology-inspired design. The etched channels on the chip resemble leaf veins, which the company says produce more efficient cooling routes.
+“[Microsoft’s] work in microfluidics can change the way cooling is delivered to the chip significantly and be very disruptive,” Matthew Kimball, vice president and principal analyst at Moor Insights & Strategy, said in an email interview. “I’d love to see some kind of signals from the likes of Nvidia, AMD, Intel, and others to see that this is a bigger industry trend.”
+The company plans to spend $30 billion in the current quarter alone on infrastructure to meet AI demand, including developing its Cobalt and Maia chips for data center workloads. Microsoft hopes to incorporate microfluidic cooling technology into future generations of its in-house silicon.
+“If microfluidic cooling can use less power to cool the data centers, that will put less stress on energy grids to nearby communities,” Ricardo Bianchini, Microsoft technical fellow and corporate vice president for Azure, said.
+Max Zhang, CEO of Swiss IT consultancy CTOL Digital Solutions, called microfluidics “groundbreaking” in a LinkedIn post. “Microsoft’s approach not only boosts chips performance but also improves efficiency – offering potential heat removal that’s three times better than traditional systems,” he wrote. “This innovation could set industry standards and unlock denser, higher-performing chip designs… Investors should keep a close eye; the race to eliminate heat will define the next wave of tech giants.”
+Hollow Core Fiber Speed Advantage
+Microsoft also said it would expand availability for its new networking cable product that promises speedy AI and cloud connectivity. Hollow Core Fiber (HCF) delivers up to 47% faster data transmission with 33% lower latency compared to conventional single-mode fiber (SMF), the company said.
+Working with Corning and Heraeus, Microsoft is scaling up manufacturing for HCF to deploy across Azure’s global network – creating a new standard for its global internet infrastructure.
+“This milestone marks a new chapter in reimagining the cloud’s physical layer,” Jamie Guadett, Microsoft’s cloud network engineering manager, said in a statement.

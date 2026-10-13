@@ -1,0 +1,12 @@
+{"id": "0349", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Nowadays, Artificial Intelligence (AI) has", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1652", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Menai Bridge closure slammed with", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1647", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In 2007, Fortune magazine", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0822", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "PostcardMania, the $104 million", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2177", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Things took a weird", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "2172", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Reason to trust How", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0833", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) has", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "0917", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Jensanity! Nvidia valuation tops", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "1260", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "More Schwab clients net", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0471", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Bondi Bragged About Forcing", "relation": "unrelated-mention", "sentiment_alignment": 0.4}
+{"id": "0620", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Wall Street returned to", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0624", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "Artificial intelligence (AI) is", "relation": "unrelated-mention", "sentiment_alignment": 0.7}

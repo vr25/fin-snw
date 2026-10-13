@@ -1,0 +1,48 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+Servers likely containing Nvidia chips exported to Malaysia may have been bound elsewhere: Shanmugam
+If there are false representations within Singapore about the servers’ final destination, then an offence under local laws has been committed
+AN ANONYMOUS tip-off about computer servers that might contain Nvidia chips being exported to Malaysia, and possibly to an unknown final destination, sparked off a police investigation.
+This alert did not come from any country or sovereign entity, but the claim was serious enough to get the Singapore authorities to launch an independent investigation, said Home Affairs and Law Minister K Shanmugam at a media briefing on Mar 3 at the Treasury.
+Shanmugam said preliminary investigations show servers from US firms Dell and Supermicro were sent to Singapore-based companies. The servers were then exported to Malaysia.
+He said these servers likely contained items subjected to export controls by the US.
+But whether they ended up in Malaysia, or another country, is being looked into, he said.
+He was referring to a case allegedly linked to chipmaker Nvidia, which saw three men charged with fraud on Feb 27.
+Said Shanmugam: “The question is whether Malaysia was a final destination or, from Malaysia, it went to somewhere else, which we do not know for certain at this point.
+“But we assess that there may have been false representation on the final destination of the servers.”
+He said that if there were false representations within Singapore about the servers’ final destination, then an offence under Singapore laws has been committed.
+He added that Singapore has contacted Malaysia and the US for more information.
+Nvidia sales
+The Straits Times asked if the case was linked to questions posed surrounding Singapore’s role in Nvidia’s sales that were addressed in Parliament on Feb 18 following the release of the company’s latest financial report.
+Shanmugam said he could not reveal too much as investigations were ongoing.
+But he said: “We assess that the servers may contain Nvidia chips. I think that’s the highest I can put it at, at this point.”
+Shanmugam later said: “We will always be happy to work with any country that discloses information to us which suggests that our laws have been breached, and we will take firm and decisive action.”
+The US is looking into the potential circumvention of its export controls for advanced Nvidia chips, after China’s artificial intelligence (AI) firm DeepSeek launched a free AI tool in January that wiped around US$1 trillion off the value of US tech stocks.
+This comes despite the tight restrictions that the US had imposed on semiconductor firms’ exports to China.
+Lawmakers in the United States had singled out Singapore in a letter in January urging National Security Adviser Mike Waltz to subject countries to strict licensing requirements if they were not willing to crack down on shipments to China.
+Fraud charges
+On Feb 27, three men were each handed one count for fraud.
+Singaporeans Aaron Woon Guo Jie, 41, and Alan Wei Zhaolun, 49; and Chinese national Li Ming, 51, had allegedly committed the offences between 2023 and 2024.
+Shanmugam said Singapore will remain an open and inclusive business hub but local laws must be respected.
+He said: “We welcome reputable businesses to operate from here, to be part of our business environment, and to contribute to our growth.
+“But we will not tolerate individuals and companies violating our laws, or taking advantage of their association with Singapore to circumvent export controls of other countries.”
+The men who were charged on Feb 27 face a jail term of up to 20 years, a fine, or both.
+According to court documents, Chinese national Li had allegedly committed fraud in 2023 against an unnamed supplier of servers by lying that the procured servers would be going to a company called Luxuriate Your Life.
+Business records in Singapore show the company was incorporated in January 2021.
+An archived page of the company’s website, which has since been taken down, indicates it dabbled in network equipment sales, internet data centres, network communications and computing equipment.
+Wei and Woon were charged with conspiring to commit fraud against another unnamed supplier of servers by lying about where the procured servers would end up.
+Business records show Wei listed as the director of several firms in Singapore, including Achieva Tech Allianz, Altrics Global Services, Aperia Cloud Services and its subsidiaries, A-Speed Infotech and Aurica.
+Woon is listed as the director of car dealership Ace Autohaus. He also owns pet food shop Dane’s Cosmo.
+All three will return to the State Courts on Mar 7.
+Nvidia’s latest financial results showed that 22 per cent of its third-quarter billings were to Singapore, making the Republic the biggest buyer of its chips after the US.
+Singapore makes up less than 1% of Nvidia’s revenue
+On Feb 18, Second Minister for Trade and Industry Tan See Leng told Parliament that products sold by Nvidia to Singapore that were physically delivered here represent less than 1 per cent of the chipmaker’s overall revenue.
+Dr Tan added the remainder of Nvidia’s revenue billed to business entities in Singapore did not involve physical shipments into the country.
+He said Nvidia’s products are mainly deployed here for major enterprises and the Government.
+Dr Tan added: “If a company in Singapore is engaged in deceptive or dishonest practices to evade export controls that it is subject to, we will investigate, and we will take the appropriate action in accordance with Singapore laws.
+“It is in our national interest to secure access to leading-edge technology and to maintain the integrity of our business environment.”
+Foreign Minister Vivian Balakrishnan added during the same Parliament session that Singapore was not legally obliged to enforce the unilateral export measures of countries around the world.
+“But we will enforce the multilateral agreed-upon export control regimes,” he said.
+Decoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.
+Share with us your feedback on BT's products and services

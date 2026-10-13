@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google will spend $1.7 billion to expand three data centers in Central Ohio, on top of $2 billion the tech giant has already spent on those facilities.
+Google said the investment supports its work in artificial intelligence and on the capacity of server and storage resources for databases. The company didn’t say specifically what the money is going to or offer a breakdown of how it will be used at the three facilities in Columbus, New Albany and Lancaster.
+Vice President of Public Policy Mark Isakowitz said the company has a footprint of over 600 acres in Central Ohio, but he understands other parts the state want their share too.
+“Is Ohio on the map for high tech in the United States? Absolutely. Absolutely. And, you know, I'm sure others would would like to have the plants, too. And you never know what the future holds," Isakowitz said. “If I would have told somebody when I was growing up in Cleveland that decades hence that the biggest tech companies in the United States, the biggest tech companies in the world, would be making this kind of investment anywhere in Ohio, people would have been amazed and pretty excited about it.”
+Facebook and Amazon have also invested heavily in the region with new facilities. In addition, Intel has started construction the first phase of a $20 billion semiconductor manufacturing facility in Licking County.
+Each of the data centers has created about 1,200 construction jobs, with a few hundred permanent employees. Google has data centers in 13 states, but Ohio is one of only two states with three data centers – Nebraska is the other, though one of its data centers is over the state line in Iowa.
+Google’s data centers project already is receiving the Data Center Tax Exemption, but there are no other additional state incentives.

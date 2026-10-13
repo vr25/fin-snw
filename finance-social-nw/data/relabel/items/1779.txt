@@ -1,0 +1,32 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Published December 10, 2025
+ABU DHABI: Deep in the Abu Dhabi desert, a vast AI campus a quarter the size of Paris is starting to emerge, the oil-rich UAE's boldest bet yet on technology it hopes will help transform its economy.
+Towering cranes clank as long, low buildings take shape below, the eventual home of data centres powered by five gigawatts of electricity — the biggest such facility outside the United States.
+The campus will provide storage and computing capacity over a 3,200-kilometre (1990-mile) radius covering up to four billion people, said Johan Nilerud, chief strategy officer of Khazna Data Centres, a subsidiary of Emirati AI giant G42, which is spearheading the project.
+Since the 1960s, oil has fuelled the United Arab Emirates' rise from a desert outpost of nomadic tribes to a Middle East economic and diplomatic powerhouse.
+Now, the UAE is hoping that AI can help fill the gap when oil demand inevitably wanes.
+"The UAE is punching above its weight because it's a very small country that really wants to be at the forefront," said Nilerud.
+"The idea is obviously to bring in international partners... to be this AI-native nation," he added.
+Phase one of the AI campus — the G42-built, one-gigawatt Stargate UAE cluster — will be operated by OpenAI and is backed by other US tech giants such as Oracle, Cisco, and Nvidia.
+And last month, Microsoft announced more than $15.2 billion in investments in the UAE by 2029, after injecting $1.5 billion last year into G42.
+The UAE has been betting heavily on AI since 2017, when it named the world's first AI minister and became the second country after Canada to unveil a national AI strategy.
+A year later, G42 was founded with backing from Abu Dhabi-based sovereign wealth fund Mubadala. Chaired by the UAE president's brother, Sheikh Tahnoon bin Zayed Al Nahyan, it offers a range of AI products and employs more than 23,000 people.
+The UAE said it has pumped more than $147 billion into AI since 2024, including up to 50 billion euros ($58 billion) in a one-gigawatt AI data centre in France.
+"AI, like oil, is a transversal sector, which can potentially have a leverage effect and an impact on different activities," said Professor Jean-Francois Gagne of the University of Montreal.
+In 2019, Abu Dhabi opened Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), the world's first AI-dedicated university. Last August, AI became a core subject in the country's public schools from kindergarten up.
+MBZUAI and Abu Dhabi's Technology Innovation Institute (TII) have since launched generative AI models, including Falcon, which compared favourably with industry leaders and now has an Arabic version.
+Keen to cut reliance on imported hardware and expertise, the UAE has made large investments in research, development, and homegrown programmes.
+TII opened a research lab with Nvidia to "push the boundaries" of generative AI models and develop robotics systems, said executive director Najwa Aaraj.
+"Sovereignty and self-sustainability and domestic customisation of technology to local needs are all very, very important," Eric Xing, president of MBZUAI, told AFP.
+"And also difficult to achieve if you solely rely on importing and external... technical transfer."
+In the race for AI market share, the UAE is in the chasing pack behind the US and China, the clear leaders. But the small, desert country has its advantages, chiefly money and energy.
+With oil, gas and year-round sun for solar power, it can quickly build electricity stations to feed data centres — a major obstacle elsewhere.
+And as the region's business hub, with a population that is nearly 90% expatriate, the UAE has the edge compared to other nations in the region.
+All the while, the UAE has engaged in a balancing act between the US and China as it seeks imports vital for AI, including the specialist chips that make data centres work.
+Last month, intense lobbying bore fruit when the US approved the export of advanced Nvidia chips to both the UAE and Saudi Arabia.
+"They (UAE) clearly don't want to be dependent on China, but that doesn't mean they want to depend on the US either," said Gagne.
+But despite its progress and years of heavy investment, success in this complex, ever-changing sector is far from guaranteed.
+"Right now, we don't know what the right strategy is, or who the good players are," Gagne said.
+"Everyone is betting on different players, but some will lose, and some will win."

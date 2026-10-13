@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+What to know about the Amazon Web Services outage
+NEW YORK (AP) — A massive internet outage stemming from errors in Amazon cloud services on Monday morning demonstrated just how many people rely on the corporate behemoth’s computational infrastructure everyday — and laid bare the vulnerabilities of an increasingly concentrated system.
+But despite its omnipresence, most users don’t know what — or where — the cloud is.
+Here is what to know about the data centers in Northern Virginia where the outage originated, and what the malfunction reveals about a rapidly evolving industry.
+Renting internet infrastructure
+Cloud computing is a technology that allows companies to remotely access massive computing equipment and services without having to purchase and maintain physical infrastructure.
+In other words, businesses ranging from Snapchat to McDonald’s essentially rent Amazon’s physical infrastructure located in places all around the world to operate their own websites. Instead of building expensive computing systems in-house, companies rely on Amazon to store data, develop and test software and deliver applications.
+Amazon is the leading provider of cloud infrastructure and platform services, constituting over 41% of the market, according to market research group Gartner. Google and Microsoft are the next biggest competitors.
+Biggest and oldest hub
+Although the cloud sounds like an abstract, formless entity, its physical location matters: Proximity to cloud data centers determines how quickly users can access internet platforms.
+Amazon Web Services has just four cloud computing hubs in the U.S., according to their website. Those are strategically spread out in California, Ohio, Virginia and Oregon to deliver fast services to users across the country.
+A user’s distance from the hub affects how quickly they can access platforms.
+“If you’re waiting a minute to use an application, you’re not going to use it again,” said Amro Al-Said Ahmad, a lecturer in computer science at Keele University in England.
+The region in Northern Virginia where Monday’s problems originated is the biggest and oldest cloud hub in the country.
+In fact, the Virginia cluster known as US-East-1 region is responsible for “orders of magnitude” more data than its nearest cluster in Ohio, or even its big West Coast hubs, said Doug Madory, director of internet analysis at Kentik. The idea of a big cloud provider like Amazon is that organizations can split their workloads across multiple regions, so it doesn’t matter as much if one fails, but “the reality is it’s all very concentrated,” Madory said.
+“For a lot of people, if you’re going to use AWS, you’re going to use US-East-1 regardless of where you are on Planet Earth,” Madory said. “We have this incredible concentration of IT services that are hosted out of one region by one cloud provider, for the world, and that presents a fragility for modern society and the modern economy.”
+More than 100 warehouses
+The servers aren’t located in just one building.
+Amazon has “well over 100” of the sprawling computing warehouses in Virginia, mostly in the exurbs at the edge of the Washington metropolitan area, said Gartner analyst Lydia Leong.
+Leong said one reason why it’s Amazon’s “single-most popular region” is that it is increasingly becoming a hub for handling artificial intelligence workloads. The growing usage of chatbots, image generators and other generative AI tools has spiked demand for computing power and led to a construction boom of new data center complexes around the U.S. and world.
+A report Monday from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.
+Copyright 2025 The Associated Press. All rights reserved.

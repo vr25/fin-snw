@@ -1,0 +1,57 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+- Devices
+- 3 min read
+US Supreme Court to hear Nvidia bid to avoid securities fraud suit
+                    It is one of two cases to come before the Supreme Court this month that could lead to rulings making it harder for private litigants to hold companies to account for alleged securities fraud. The other one, involving Meta's Facebook, was argued on Nov. 6.
+                                    
+            
+        
+                    
+                    
+                    
+                                        By John Kruzel and Andrew Chung
+WASHINGTON: The U.S. Supreme Court is set on Wednesday to hear arguments in Nvidia's bid to torpedo a securities fraud lawsuit accusing the artificial intelligence chipmaker of misleading investors about how much of its sales depended on the volatile cryptocurrency market.
+The justices will hear arguments in Nvidia's appeal of a lower court's decision allowing a 2018 class action - litigation led by the Stockholm, Sweden-based investment management firm E. Ohman J:or Fonder AB - to proceed.
+It is one of two cases to come before the Supreme Court this month that could lead to rulings making it harder for private litigants to hold companies to account for alleged securities fraud. The other one, involving Meta's Facebook, was argued on Nov. 6.
+At issue in the Nvidia case is whether the plaintiffs cleared the heightened legal bar for bringing private securities fraud suits as set by Congress in a 1995 federal law called the Private Securities Litigation Reform Act that aimed to screen out frivolous lawsuits.
+The plaintiffs accused Nvidia and its CEO Jensen Huang of violating a 1934 federal law called the Securities Exchange Act by making statements in 2017 and 2018 that falsely downplayed how much of Nvidia's revenue growth came from crypto-related purchases.
+Beginning in 2017, as the price of certain cryptocurrencies rose, Nvidia's chips became increasingly popular for cryptomining, a process that involves performing complex math equations in order to secure cryptocurrencies such as bitcoin and ether.
+By late 2018, amid a decline in crypto profitability, Nvidia's revenue fell short of its projections, leading its stock price to fall in early November of that year.
+The plaintiffs accused Nvidia and its top officials of concealing the impact of cryptomining on its business. The suit seeks unspecified monetary damages in part to recoup the lost value of the Nvidia stock held by the investors.
+A federal judge dismissed the lawsuit but the San Francisco-based 9th U.S. Circuit Court of Appeals subsequently revived it. The 9th Circuit found that the plaintiffs had adequately alleged that Huang made "false or misleading statements and did so knowingly or recklessly," allowing their case to proceed.
+Nvidia argued in a filing to the Supreme Court that the plaintiffs had failed to adequately show that the disputed corporate statements were false, or the company had intentionally or recklessly misled investors, as required by law.
+The plaintiffs countered that their lawsuit contained strong enough allegations - gleaned from former employees, market analysis and expert opinion - to survive Nvidia's request for dismissal and proceed to the discovery stage of litigation.
+President Joe Biden's administration supported the shareholders in the case before the justices.
+Nvidia in 2022 agreed to pay $5.5 million to U.S. authorities to settle charges that it did not properly disclose the impact of cryptomining on its gaming business, but without admitting or denying the findings of federal regulators.
+The Facebook case argued before the justices last week involved a federal securities fraud lawsuit brought by shareholders, led by Amalgamated Bank, who accused the social media platform of misleading them about the misuse of its user data.
+The Supreme Court in prior rulings has limited the authority of the Securities and Exchange Commission, the federal agency that polices securities fraud. Its rulings in the Facebook and Nvidia cases - expected by the end of June - now could make it tougher for private litigants to hold companies liable for such conduct.
+                        
+                                                                
+                                        
+                    
+                    
+                                            
+                                        
+                    
+                    
+                        
+                    
+                    
+                
+            WASHINGTON: The U.S. Supreme Court is set on Wednesday to hear arguments in Nvidia's bid to torpedo a securities fraud lawsuit accusing the artificial intelligence chipmaker of misleading investors about how much of its sales depended on the volatile cryptocurrency market.
+The justices will hear arguments in Nvidia's appeal of a lower court's decision allowing a 2018 class action - litigation led by the Stockholm, Sweden-based investment management firm E. Ohman J:or Fonder AB - to proceed.
+It is one of two cases to come before the Supreme Court this month that could lead to rulings making it harder for private litigants to hold companies to account for alleged securities fraud. The other one, involving Meta's Facebook, was argued on Nov. 6.
+At issue in the Nvidia case is whether the plaintiffs cleared the heightened legal bar for bringing private securities fraud suits as set by Congress in a 1995 federal law called the Private Securities Litigation Reform Act that aimed to screen out frivolous lawsuits.
+The plaintiffs accused Nvidia and its CEO Jensen Huang of violating a 1934 federal law called the Securities Exchange Act by making statements in 2017 and 2018 that falsely downplayed how much of Nvidia's revenue growth came from crypto-related purchases.
+Beginning in 2017, as the price of certain cryptocurrencies rose, Nvidia's chips became increasingly popular for cryptomining, a process that involves performing complex math equations in order to secure cryptocurrencies such as bitcoin and ether.
+By late 2018, amid a decline in crypto profitability, Nvidia's revenue fell short of its projections, leading its stock price to fall in early November of that year.
+The plaintiffs accused Nvidia and its top officials of concealing the impact of cryptomining on its business. The suit seeks unspecified monetary damages in part to recoup the lost value of the Nvidia stock held by the investors.
+A federal judge dismissed the lawsuit but the San Francisco-based 9th U.S. Circuit Court of Appeals subsequently revived it. The 9th Circuit found that the plaintiffs had adequately alleged that Huang made "false or misleading statements and did so knowingly or recklessly," allowing their case to proceed.
+Nvidia argued in a filing to the Supreme Court that the plaintiffs had failed to adequately show that the disputed corporate statements were false, or the company had intentionally or recklessly misled investors, as required by law.
+The plaintiffs countered that their lawsuit contained strong enough allegations - gleaned from former employees, market analysis and expert opinion - to survive Nvidia's request for dismissal and proceed to the discovery stage of litigation.
+President Joe Biden's administration supported the shareholders in the case before the justices.
+Nvidia in 2022 agreed to pay $5.5 million to U.S. authorities to settle charges that it did not properly disclose the impact of cryptomining on its gaming business, but without admitting or denying the findings of federal regulators.
+The Facebook case argued before the justices last week involved a federal securities fraud lawsuit brought by shareholders, led by Amalgamated Bank, who accused the social media platform of misleading them about the misuse of its user data.
+The Supreme Court in prior rulings has limited the authority of the Securities and Exchange Commission, the federal agency that polices securities fraud. Its rulings in the Facebook and Nvidia cases - expected by the end of June - now could make it tougher for private litigants to hold companies liable for such conduct.

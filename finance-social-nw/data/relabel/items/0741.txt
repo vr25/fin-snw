@@ -1,0 +1,49 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Asus ROG Strix Scar 16 Review: Dominating Performance Meets Stunning Visuals
+Asus recently dropped new gaming laptops in its ROG Strix and Zephyrus line-ups in India. These powerhouse machines arrived with the latest Intel and Nvidia hardware to run even the most demanding of games.
+While the ROG Zephyrus G16 got an OLED upgrade, Asus sent us the more powerful ROG Strix Scar 16. With a starting price of Rs 2,89,999 and our model coming in at little over Rs 3,35,000, the Strix Scar 16 comes at a steep cost. But is it worth the price and can it deliver? Let us find out in our full Asus ROG Strix Scar 16 review.
+- Bright, Smooth, and Vibrant Display
+- Enthusiast-level Gaming Performance
+- Comfortable Keyboard & Trackpad
+- Runs Most AAA Titles in 4K
+- RGB Lighting Complements the Gaming Aesthetic
+- Sub-par Battery Life
+- Plastic Build
+- Underwhelming Webcam
+- Hefty Price Tag
+Design and Build
+Asus has not changed much in terms of the design of the new Strix Scar 16. There is an LED bar in the front that wraps around a part of the sides of the chassis, while a new set of RGB LED lights sit at the back of the chassis, right above the vents.
+The armor cap at the back is customizable like previous editions, although you can also 3D print them as opposed to opting for the traditional ones found online. The metallic RGB ROG logo on the lid also lights up and looks very slick. The aluminum lid also has smaller ROG logos emblazoned across its entire length.
+The laptop is equipped with a robust hinge that ensures the screen does not wobble. And while the chassis is made of plastic, it feels quite sturdy. The ROG Strix Scar 16 (2024) is on the chunky side, weighing 2.65 kg and measuring just under 23mm thick. However, that thicker body gives you more room for cooling, so it chunkier the better.
+Ports
+In terms of connectivity, the ROG Strix Scar 16 features two USB 3.2 Gen2 Type A ports on the right with everything else sitting on the left. These include - a USB Type-C port that supports PD up to 100W, a second USB Type-C port with Thunderbolt 4 support, a combo audio jack, an HDMI 2.1 port, an RJ-45 jack, and a power input port.
+For wireless connectivity, there's Wi-Fi 6E and Bluetooth 5.3 support. The new ROG Strix Scar 16 also has a sub-par 720p HD webcam, although it is better than not having one at all. The assortment of I/O on the Strix Scar 16 (2025) is average considering the size of this laptop.
+Keyboard & Touchpad
+The Strix Scar 16's chiclet-style keyboard comes with per-key RGB backlighting that is fully customizable through the Armory Crate app. I am not a huge fan of the Numpad, so the fact that Asus has left it out doesn't really bother me.
+However, there are some useful dedicated media buttons on the right and top of the keyboard. The keyboard itself also was solid for both gaming and typing with the keys offering a good amount of travel. Additionally, there was adequate spacing between the keys to offer a comfortable typing experience.
+The glass touchpad on the Strix Scar 16 (2024) has smooth surface that makes it easy for navigation. The touch response was quite good while there were no issues with palm rejection. The Strix Scar 16's touchpad also features an LED Numpad and Windows 11 gesture support. It did not take me long to get used to gaming and typing on the Scar 16's keyboard, giving it a solid 'A' in our book.
+Display
+Asus's Nebula HDR displays in these more premium laptops tend to offer the best of both worlds, content consumption and gaming. And the latest Strix Scar 16 is no exception. It sports a 16-inch QHD+ (2560 x 1600 pixels) Mini-LED screen with a 16:10 aspect ratio. The display has an impressive brightness of 500 nits, peaking at a whopping 1,110 nits.
+The panel boasts a 240Hz refresh rate and a 3ms response time to ensure you have the edge in first person shooters. The screen also supports Nvidia's G-Sync technology to eliminate tearing, stuttering, juddering and other visual artifacts while gaming.
+To improve your entertainment experience, the display here also supports Dolby Vision and is Pantone Validated out of the box with 100% DCI-P3 coverage for the content creator by day and gamer by night. The screen also has excellent viewing angles. The ROG Nebula HDR display here is a real stunner, capable of performing well above average for gaming, entertainment, and content creation.
+Performance
+The one area where the ROG Strix Scar 16 does not hold back is in the performance department. Fortified with an Intel Core i9-14900HX CPU paired with a power Nvidia GeForce RTX 4090 laptop GPU, there is little this laptop cannot do on the gaming front. Moreover, the CPU and GPU are paired with 32GB of DDR5 RAM clocked at 5600MHz RAM and 2TB of PCIe 4.0 SSD storage.
+The first title we tested was Call of Duty: Black Ops 2, which managed 190 fps on average on Ultra settings, although that dropped down to 145fps with ray tracing (high) turned on. Moving on to Battlefield 2042, which managed an average of 180 fps on Ultra settings without ray tracing. Overwatch 2 was tested on its highest presets, managing over 250 fps on average.
+A few titles we assessed on single player included Forza Horizon 5, which averaged 140 fps on Extreme settings. God of War was tested with all presets adjusted to Ultra, managing 110fps with DLSS turned off. Although turning it on saw a 20% bump in performance. We tested all titles on the laptop's Turbo mode, although reducing it to Performance mode drops fps by an average of around 20%.
+We also ran a few benchmarks on the Strix Scar 16 (2024). In Cinebench R23, the Scar 16 managed a single core score of 2119 points and a multi-core score of 28718 points. When turning on the 10-minute throttling test, the single core score remained unaffected, while the multi-core score dropped by around 1500 points.
+In Geekbench 6, the CPU managed a single-core of 2918 points and a multi-core score of 17855 points. In the OpenCL GPU test on Geekbench 6, we got a score of 184901 points. Finally, the GPU managed a Blender benchmarking score of 7367.12 points. It is worth noting that the screen's QHD+ resolution remained unchanged throughout our gaming and benchmarking tests.
+During our gaming tests, the CPU managed to stabilize at 95 degrees Celsius, while GPU temperature settled between 70 to 80 degrees Celsius. My hands were clear of any heat emitted from the laptop, offering an extremely comfortable gaming experience. Asus incorporates Intelligent Cooling technology in the Strix Scar 16 (2024).
+The cooling system includes exhaust vents on all sides, liquid metal applied on the CPU and GPU, and 84-blade fans with anti-dust technology. The one drawback of this cooling system is the noise from the fans, which can drown out the audio in Turbo mode, although it does not make a difference when using a headset or external speakers. On the flip side, the optimized cooling ensures that the new Strix Scar 16 can run games for several hours without throttling.
+Battery
+The new Stix Scar 16 (2024) packs a massive 90Whr battery and comes with a 330W charging adapter. In our YouTube test, the battery life on the Strix Scar 16 lasted little under four hours. This was with screen brightness at 50%, which was on the high side for a gaming laptop, and speaker volume at 50 percent.
+The Advanced Optimus also switches between the integrated and dedicated GPU to deliver better battery life. But we found permanently switching to the iGPU helps you squeeze out an hour to 90 minutes more. It also supports up to 100W power delivery through the USB Type-C port that can deliver a 50% charge in just 30 minutes.
+Audio
+The audio on the Strix Scar 16 is handled by quad speakers with Smart Amp technology and Dolby Atmos support. The speakers produce well-rounded audio with good bass but are not as loud as past Strix Scar models.
+Additionally, the Dolby Access app can further enhance the audio experience through the intelligent equalizer sound modes. Volume levels are on the lower side and the noisy fans can drown out the audio, making external audio a necessity on the new Scar 16.
+Verdict
+The Asus ROG Strix Scar 16 (2024) may not look and feel like a premium gaming laptops, particularly, considering its build and chunky design. However, what the Strix Scar 16 lacks in appearance, it more than makes up for in performance. Its chunky build might not appeal to all, but it leaves plenty of room for cooling, resulting in excellent peak sustained performance.
+Moreover, it can run every title on maximum settings without turning down the resolution, delivering crazy high frame rates and excellent visuals. Speaking of visuals, the Nebula HDR displays are the best we have seen on gaming laptops to date. The keyboard is well designed to offer a comfortable gaming experience, while the laptop does not shy away from its gamer DNA with its design and RGB lighting.
+The ROG Strix Scar 16 is not without its caveats with its plastic chassis and limited selection of ports. Moreover, the battery life was abysmal, even by gaming laptop standards, while audio quality was bang-on average. But here is the reason we would recommend the Asus ROG Strix Scar 16 (2024), despite these caveats. Then there is the Asus ROG Strix Scar (2024) hefty price tag.
+But here is the reason we would recommend the Asus ROG Strix Scar 16 (2024), despite these caveats. Despite its price tag, the new ROG Strix Scar 16 falls on the reasonable side, as far as RTX 4090 gaming laptops are concerned. Asus manages this by being the best in the two areas that matter the most, performance and visuals. And the caveats here were too far down our premium gaming laptop checklist to make any significant impact on our recommendation.

@@ -1,0 +1,20 @@
+{"id": "0800", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "You don't need a chest full", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0801", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Dynasty Warriors M adds bountiful", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0802", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Scathing federal report rips Microsoft", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0803", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Best Microsoft Office deals Get", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0804", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "While the gap between share", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0805", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google announced the discontinuation of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0806", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "(Reuters) – Tesla's reported move", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0808", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "QUICKTAKES TECH Tuesday, April", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0809", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Closing speeches have been made", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0810", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The governor of New York", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "0811", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The governor of New York", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "0812", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The governor of New York", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "0813", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Summary - Beeper, the universal", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0814", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Two tribal nations sue social", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0815", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "US Congressman Adam Schiff has", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0816", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Massive overseas and domestic investments", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0817", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Massive overseas and domestic investments", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0819", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google has largely been viewed", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0807", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "New Delhi: Recent regulations imposed", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0818", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Massive overseas and domestic investments", "relation": "co-hype", "sentiment_alignment": 1}

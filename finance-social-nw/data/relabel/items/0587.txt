@@ -1,0 +1,11 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+Shares of semiconductor companies closed out their best year in more than a decade, led by rallies in the chipmakers that are seen as the most immediate beneficiaries of artificial intelligence.
+The Philadelphia Stock Exchange Semiconductor Index rose 65 per cent this year, with 2023 representing the biggest one-year gain for the index since 2009, when it rose 70pc in the aftermath of the financial-crisis market bottom. The index fell 0.8pc on Friday, but recently traded near record levels.
+All but one of the stocks in the 30-member index rose in 2023, but among the gainers there was one standout: Nvidia, which saw explosive sales growth amid demand for the chips used to power AI computations.
+Shares more than tripled, resulting in Nvidia earning the title of the first chipmaker with a market capitalisation above $1 trillion.
+In second place among index components was Advanced Micro Devices, another major player within AI. The stock has climbed nearly 130pc this year.
+The outlier among chipmakers was Wolfspeed, which dropped 37pc over the course of the year.
+The company, which makes power modules used in electric vehicles, delivered a pair of disappointing forecasts in 2023 as it struggles with production problems at a new plant.
+Outside of the industry benchmark index, chip designer ARM Holdings went public in September. While early trading was rocky, it has been a strong performer of late, up almost 60pc since an October low.

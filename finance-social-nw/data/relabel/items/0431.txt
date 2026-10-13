@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft sees booming enterprise AI demand in Hong Kong amid US-China tech war that threatens cloud services
+- Microsoft says AI usage on its Azure cloud platform jumped sevenfold in Hong Kong in the past six months, with demand growing despite US-China tensions
+- The US tech giant has been pushing its generative AI products for use in areas such as regulatory compliance and fintech
+Microsoft is seeing booming demand for its artificial intelligence (AI) products in Hong Kong, where the US tech giant is the largest player in the space owing to the conspicuous absence of OpenAI’s ChatGPT and Google’s Bard.
+Microsoft said it has seen AI usage on its Azure cloud platform jump sevenfold in Hong Kong over the past six months, as it seeks to leverage its use of OpenAI’s Generative Pre-trained Transformer (GPT) models to improve education, healthcare and fintech in the city.
+Likening AI to momentous technological shifts in the past such as the printing press and the steam engine, Microsoft Asia president Ahmed Mazhari said the industry is just at the start of a marathon, and Hong Kong has some unique advantages.
+“We believe Hong Kong has that ability to pivot and innovate. Hong Kong is also one of the largest financial centres in the world,” Mazhari said. “Hong Kong is now trying to pivot to using technology to become even more relevant in the financial ecosystem.”

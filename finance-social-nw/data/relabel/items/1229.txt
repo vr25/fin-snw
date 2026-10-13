@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The Nasdaq Composite Index hit 20,000 for the first time on Wednesday, putting an exclamation point on a year in which excitement over artificial intelligence and expectations of falling interest rates fueled a searing rally in technology stocks.
+The tech-heavy index is up more than 33% on the year, driven by a cluster of giant technology-focused companies including Apple (AAPL-Q), Nvidia (NVDA-Q), Google-parent Alphabet (GOOGL-Q) and in recent weeks, electric carmaker Tesla (TSLA-Q). Wednesday’s gains came after a U.S. inflation report that cemented expectations of a Fed rate cut next week.
+The index closed on Wednesday at 20,034.89, up 1.8% on the day.
+While the rally has rewarded investors who went big on growth and tech, it has also stirred unease over rising valuations and the dominance of megacap stocks, which now have an increasingly heavier weighting in the index.
+“There is clearly an aspect of a chase into year-end, where the winners ... keep winning,” said Cameron Dawson, chief investment officer at NewEdge Wealth. “The question is if this momentum can persist into 2025, where stretched valuations, positioning, sentiment, and growth expectations could all present high bars to jump over to keep above-average returns going.”
+After plummeting in early 2020 when the pandemic brought global economic activity to a standstill, the index mounted a swift rebound as the Federal Reserve cut interest rates to near-zero and the U.S. unleashed waves of fiscal stimulus to help the economy.
+It endured a sharp drop in 2022, falling 33% as inflation surged to 40-year highs and the Fed was forced to deliver a series of jumbo rate cuts. But higher rates did not bring on a widely-expected recession, and the index has soared by about 90% since then, stoked in part by increasing excitement over the business potential of AI.
+Shares of Nvidia, whose chips are considered the industry’s gold standard, are up more than 1,100% from their October 2022 low.
+“The AI story still rings true and appeals to investors,” said Alex Morris, chief investment officer of F/m Investments. “These are the go-go stocks.”
+While the Nasdaq’s valuation has climbed, it is still far from levels it reached during the dot-com bubble more than two decades ago.
+The index trades at roughly 36 times earnings today, a three-year high and well above its long-term average of 27, according to LSEG Datastream. That is still well below the roughly 70 times the index’s P/E ratio reached in March 2000, bringing a measure of comfort to investors comparing the two periods.
+“The Nasdaq Comp’s latest rally pales in comparison to the late 90s/early 2000 experience, rising more gradually and does not yet look unsustainable as a result,” Jessica Rabe, co-founder of DataTrek Research, said in a note on Wednesday.
+Megacap stocks increasingly dominate the index. The top 10 companies by market value account for 59% of the Nasdaq, compared to 45% in 2020. The three biggest companies by weight are Apple, Microsoft and Nvidia, which account for 11.7%, 10.6% and 10.3% of the index respectively.
+While their surging share prices have buoyed the Nasdaq, the heavy concentration could present a problem for investors should Big Tech fall out of favor. The selloff in 2022, for instance, saw shares of index heavyweights Meta (META-Q) and Tesla fall 64% and 65% for the year respectively.
+The Nasdaq has topped the other major U.S. stock indexes this year, propelled by big gains in heavily weighted names such as Nvidia, Amazon and Meta Platforms. The tech-heavy index’s 33% climb in 2024 compares with over 27% for the S&P 500 and 17% for the Dow Jones Industrial Average.
+Over the past decade, the Nasdaq has gained more than 320%, against a 200% rise for the S&P 500 and a 150% increase for the Dow.
+Be smart with your money. Get the latest investing insights delivered right to your inbox three times a week, with the Globe Investor newsletter. Sign up today.

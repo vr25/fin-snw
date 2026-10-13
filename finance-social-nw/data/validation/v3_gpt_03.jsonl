@@ -1,0 +1,12 @@
+{"id": "1678", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The technology sector has been", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1611", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "WASHINGTON (dpa-AFX) - Alphabet shares", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2140", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A customer sends a WhatsApp", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "1301", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "- AMD reported better-than-expected revenue", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0501", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "US President Joe Biden has", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0502", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "From help desks to chatbots:", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1474", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "After stumbling out of the starting", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0035", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "News Regional News Election Video", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1854", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Xinhua 09 Jan 2026, 00:45", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0172", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Fantasy win for Jamaican-born artist", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0699", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Nvidia is now worth more", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1000", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Daily Market Reports | Jul", "relation": "co-hype", "sentiment_alignment": 1}

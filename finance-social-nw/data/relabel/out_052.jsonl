@@ -1,0 +1,20 @@
+{"id": "1040", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The latest skullduggery in the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1041", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "DOJ sues software company accused", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1042", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The same Iranian hacking group", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1043", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The same Iranian hacking group", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1044", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The same Iranian hacking group", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1045", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Indian benchmark indices opened flat", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1046", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "NSW Premier Chris Minns has defended", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1047", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microchip designer Nvidia more than doubled", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1048", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Microchip designer Nvidia more than doubled", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1049", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microchip designer Nvidia more than doubled", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1050", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As the News Media Bargaining Code", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1051", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "2 Large Blue Chip Stocks That", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1052", "ticker_a": "AMD", "ticker_b": "META", "first_words": "Rapper Fatman Scoop dead at 53", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1053", "ticker_a": "AMD", "ticker_b": "META", "first_words": "NEW YORK — Fatman Scoop, the hip-hop", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1054", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In a new report that confirms", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1055", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Artificial intelligence (AI) technology arrived in", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "1056", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta has a new plan to", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1057", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "(Bloomberg) -- Stocks saw their worst", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1058", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "It seems everyone wants to talk", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1059", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "It seems everyone wants to talk", "relation": "substitute-comparison", "sentiment_alignment": 1}

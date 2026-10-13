@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has announced the creation of a new AI-powered computer operating system designed to power new forms of headsets and smart glasses, and it says it will begin selling next year.
+The tech giant announced a new version of the Android operating system it uses to power smartphones and tablets had been built specifically for wearable computers, such as extended reality (XR) headsets and smart glasses that can add digital content over the real world that the user can see around them.
+Called Android XR, the US firm said it was partnering with chip maker Qualcomm and Korean tech giant Samsung on the first products for this new computing system – a headset codenamed Project Moohan and being built by Samsung – which Google said would be available for purchase next year.
+The announcement comes at the end of a year during which Apple launched its own “spatial computing” headset, the Apple Vision Pro.
+Meanwhile, Facebook parent company Meta has extended its range of virtual and mixed reality headsets with the Quest line of devices, introduced its first AI-powered Ray-Ban smart glasses which can respond to voice commands, and teased a pair of smart glasses called Project Orion which would add icons and content over a user’s field of view.
+Google’s vice president and general manager of XR, Shahram Izadi, said: “We started Android over a decade ago with a simple idea: transform computing for everyone. Android powers more than just phones — it’s on tablets, watches, TVs, cars and more.
+“Now, we’re taking the next step into the future. Advancements in AI are making interacting with computers more natural and conversational.”
+He added: “This inflection point enables new extended reality devices, like headsets and glasses, to understand your intent and the world around you, helping you get things done in entirely new ways.
+“With headsets, you can effortlessly switch between being fully immersed in a virtual environment and staying present in the real world.
+“You can fill the space around you with apps and content, and with Gemini, our AI assistant, you can even have conversations about what you’re seeing or control your device. Gemini can understand your intent, helping you plan, research topics and guide you through tasks.
+“Android XR will also support glasses for all-day help in the future. We want there to be lots of choices of stylish, comfortable glasses you’ll love to wear every day and that work seamlessly with your other Android devices.
+“Glasses with Android XR will put the power of Gemini one tap away, providing helpful information right when you need it — like directions, translations or message summaries without reaching for your phone. It’s all within your line of sight, or directly in your ear.”
+Google has previously created Google Glass, a wearable computer with a small screen sat in front of a user’s eyes that would show them notifications and other information, which first appeared in 2014.
+But the device never moved beyond a prototype and its already limited sales were suspended in 2023.
+Google said as well as building the headset with Samsung, it was to soon begin “real-world testing of prototype glasses running Android XR”.
+“This will help us create helpful products and ensure we’re building in a way that respects privacy for you and those around you,” the company said.
+Industry expert Leo Gebbie from CCS Insight said Google’s proposals were a “compelling vision” for extended or mixed reality devices.
+“Google’s Gemini AI is pitched as a central part of Android XR, with the promise of a conversational and contextual user interface.
+“This is a compelling vision – it’s part of the wave of progress we’re seeing towards software which is easier to interact with across a broad set of inputs.”
+“The central premise here is that Gemini AI on a head-worn device will be able to see what a user sees, hear their voice commands clearly and provide powerful responses in real-time.
+“This sort of multimodal approach has been a major focus for Google – as well as rivals like Apple, Meta and OpenAI – and baking it into the Android XR platform should provide a more natural way for users to engage with Gemini.
+“It’s notable that Apple is yet to promise any Intelligence features for Vision Pro, and Meta has said little about AI for its Horizon OS, so Google and Samsung seem to have grabbed a jumpstart on their rivals in terms of surfacing this approach.
+“That being said, Meta has been far clearer about its expectations for AI in products like its Ray-Ban smart glasses and its Project Orion device, where it evidently sees AI as a critical piece of the puzzle.”

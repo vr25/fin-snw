@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Follow ZDNET: Add us as a preferred source on Google.
+ZDNET’s key takeaways
+- The new Microsoft 365 Premium adds the full power of Copilot.
+- The Premium subscription costs $200 a year or $20 a month.
+- You get extensive but not unlimited use of most Copilot features.
+Microsoft 365 users who rely on Copilot for help with their documents, spreadsheets, and other files may want to check out a new plan that’s steeped in AI. Announced on Wednesday, Microsoft 365 Premium is the company’s latest subscription offering and one that adds a host of AI capabilities to Word, Excel, and the rest of the Office suite.
+Priced at $200 per year (or $20 per month), Microsoft 365 Premium is similar to Microsoft 365 Family, which costs $130 a year (or $13 per month).
+More from ZDNET
+Aimed at one to six people, both include Word, Excel, PowerPoint, OneNote, Access, Outlook, and other programs. Both offer each user 1TB of OneDrive storage. Both serve up access to Copilot so you can use the AI to generate, revise, or summarize content across the different applications. But where the Family edition limits your use of Copilot, the Premium flavor expands it to an nth degree.
+Also: Microsoft just added AI agents to Word, Excel, and PowerPoint – how to use them
+Beyond using Copilot in Word, Excel, and the other Office apps, Premium subscribers get access to Copilot Chat, which lets you converse with the AI directly in any application. You’ll be able to use Researcher and Analyst, two AI agents now available to commercial subscribers and coming soon to Word, PowerPoint, and Excel for individual users. Also on tap are Office Agent and Agent Mode, agentic features that will generate content based on your text descriptions.
+Next up, Premium users can generate images using GPT-4o and speak with the AI via Copilot Voice (coming soon). These two options are accessible in the Microsoft 365 Copilot app as well as in Word, Excel, PowerPoint, OneNote, and Outlook. Further, the Copilot app will offer access to several other features, including Deep Research mode, Copilot Vision, AI-generated podcasts, Actions, and the new Photos Agent.
+What happens to Copilot Pro?
+With all these Copilot features built into Microsoft 365 Premium, what does that mean for Copilot Pro? It means the Pro version is no more. By essentially bundling Copilot Pro into Microsoft 365, there’s no further need for it as a separate app. With the now-retired Copilot Pro and Premium, both priced at $20 per month, the cost is the same.
+Does this mean that all the capabilities of Copilot Pro are now in Microsoft 365 Premium? Hmm, not quite. One of the advantages of a Copilot Pro subscription was that you enjoyed an unlimited number of AI credits to use across the Office suite and such Windows apps as Notepad, Photos, and Paint.
+With the Family (and Personal) versions of Microsoft 365, you’re given 60 AI credits each month. Run out of credits, and you’ll have to wait until the next month to resume any AI-powered tasks. The Premium edition seems to dispense with that limitation, but there’s no mention of unlimited credits.
+Instead, Microsoft promises only that Premium subscribers will get “extensive use” or “extensive usage beyond standard credit limits” for certain key features and specific limits on time or monthly use for other features. If you’re expecting unlimited Copilot use with a Premium plan, you’re likely to be disappointed. Microsoft’s support page on “AI credits and limits for Microsoft 365 Personal, Family, and Premium” breaks down the vague details.
+Also: Microsoft Copilot now offers Claude models – how to try them
+“You may be able to use some features more frequently in the Microsoft Copilot app, such as Voice,” Microsoft says on the page. “These limits may vary based on the feature, entry point, and system conditions. Limits may also change over time as new AI models become available.”
+Who gets access to Copilot?
+Here’s another barrier. With Microsoft 365 Family, only the account owner gets access to Copilot. The other family members or users are excluded. That restriction also applies to the Premium version. So if you shell out the money for this new subscription, know that you won’t be able to share the AI benefits with any other people on the plan.
+As for me, I’m not a big fan of Copilot in Microsoft Office (oops, I mean Microsoft 365). As a writer, I don’t want an AI generating content for me. And I don’t use Excel or PowerPoint in ways that I need AI-powered assistance. For that reason, I disabled Copilot across the different Office applications so that it’s not staring me in the face.
+Of course, your mileage may vary. If you already have a Microsoft 365 Family or Personal plan, you may find distinct benefits to using AI across Word, Excel, and the other programs. The decision then is whether to stick with your current subscription or switch to the new Premium variant.
+If you’re on the fence here, you may be able to try Microsoft 365 Premium freely for a month. During that time, you’ll want to use Copilot as much as possible, not just to test the AI but to see if you bump into any limits or restrictions.
+Want to follow my work? Add ZDNET as a trusted source on Google.

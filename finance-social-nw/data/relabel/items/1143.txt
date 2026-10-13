@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+New power delivery tech could save Google, Microsoft tens millions of dollars annually; Vertical PD up to 3KA could enable 10% reduction in losses
+Empower’s new Crescendo platform uses proprietary FinFast technology
+It’s well known that traditional power delivery systems are struggling to keep up with the energy requirements of advanced AI chips. Existing architectures rely on bulky power stages and large capacitor banks that take up significant space on the PCB. This setup leads to high power losses and limits efficiency, creating a barrier to supporting the latest AI workloads. This issue is particularly relevant for tech behemoths like Microsoft and Google, which are heavily investing in AI and data center infrastructure.
+Empower Semiconductor has introduced a new Crescendo vertical power delivery platform to tackle these challenges by eliminating the need for capacitor banks and delivering energy directly to AI chips. By placing the PD system directly under the processor, power losses associated with traditional designs are reduced and overall efficiency improved.
+The new platform uses the company’s proprietary FinFast technology to provide scalable, on-demand power delivery for up to 3,000A power domains, making it well-suited for the growing demands of modern data centers.
+Just the beginning
+“AI’s accelerating power requirements far outpaces the capability of today’s lateral power solutions, both in scale and speed. In developing the Crescendo platform, Empower enables generations of new AI processors to hit their performance goals while running efficiently and cool,” said Tim Phillips, founder and CEO of Empower Semiconductor.
+“With this introduction we are enabling efficient true vertical power delivery for our customers – and this is just the beginning, as the Crescendo platform will allow the integration of power delivery directly into the processor at total power supply densities exceeding 5A/mm2, setting Empower apart as the technology leader.”
+Empower says its technology offers 5x higher power density and over 10% reduction in power delivery losses, cutting more than 8MW of power loss in data centers with 100,000 CPUs.
+More from TechRadar Pro
+- Data center demand is booming - but we don't have the power to deal with it
+- Google is spending billions on data centers and subsea cables to connect them
+- Why the data center of 2030 will look very different from today
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+Wayne Williams is a freelancer writing news for TechRadar Pro. He has been writing about computers, technology, and the web for 30 years. In that time he wrote for most of the UK’s PC magazines, and launched, edited and published a number of them too.

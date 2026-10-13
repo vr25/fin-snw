@@ -1,0 +1,18 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+OpenAI and Oracle announced Tuesday that they are planning to build five new data center sites as part of the “Stargate” project, a development that would significantly expand U.S. AI infrastructure and could affect the makeup of the grid in multiple states.
+Stargate — which is backed by President Donald Trump — now has $400 billion in planned investment over the next three years and roughly 7 gigawatts of planned capacity, said the companies, which are partnering with SoftBank. That puts the initiative close to its initial goal to develop 10 gigawatts of data center capacity and spend $500 billion on AI infrastructure through 2028.
+“AI can only fulfill its promise if we build the compute to power it. That compute is the key to ensuring everyone can benefit from AI and to unlocking future breakthroughs,” OpenAI CEO Sam Altman said in a statement.
+The plans constitute one of the first major expansions of Stargate in the U.S. since it was unveiled at the White House in January with Altman and other technology leaders.
+Data center development is being watched closely partly because of its energy use and potential to remake the electric grid. According to Lawrence Berkeley National Laboratory, AI build-out could consume roughly 12 percent of U.S. electricity by 2028.
+The bulk of the new capacity stems from an agreement inked by Oracle and OpenAI in July to spend more than $300 billion on data centers over the next five years. The companies said they are developing data center sites in Shackelford County, Texas; Doña Ana County, New Mexico; and a yet-to-be-named location in the Midwest.
+Shackelford County is about 157 miles west of Dallas and Dona Ana County is roughly 230 miles south of Albuquerque.
+Together with an operational Stargate site in Abilene, Texas, the new complexes are expected to create more than 25,000 jobs and generate more than 5.5 gigawatts of power capacity, the companies said. That’s more than double the electricity required to power San Francisco.
+The other two new Stargate sites, which are being developed by OpenAI and SoftBank, are in Lordstown, Ohio and Milam County, Texas. The Ohio complex has broken ground and is expected to be operational next year, while the Texas location is being supported by SB Energy, a SoftBank subsidiary. The companies said additional locations tied to Stargate could be announced soon.
+Oracle, OpenAI and SoftBank officials said they reviewed more than 300 proposals for data centers across the country to select the sites.
+Stargate did not fully detail the power sources planned at the new sites, although the existing Abilene location is using natural gas.
+Since Stargate’s launch, the company has set its sights overseas, including an announcement this month that it would expand AI development in the United Kingdom. The Trump administration also has pushed to expand data center development through an AI action plan released in July and a Department of Energy proposal to construct new data center sites at the national labs.
+Stargate is one of several AI initiatives from large technology companies poised to alter the electricity mix.
+Microsoft, OpenAI’s backer, is developing a $4 billion data center complex in Wisconsin and is partnering with Constellation Energy to restart the Three Mile Island nuclear reactor in Pennsylvania, for example. Meta is building an AI complex in Louisiana that will use Manhattan-size amounts of power. And Amazon is investing $20 billion to develop AI sites in Pennsylvania.
+Earlier this week, Nvidia said it would invest $100 billion in OpenAI and supply the tech giant with computer chips.

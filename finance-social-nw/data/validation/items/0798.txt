@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Apple just announced that it will be hosting its highly anticipated WWDC 2024 event on June 10 to announce a handful of new software updates for the iPhone, iPad, Apple Watch, Macs, and more. While the new software updates will pack a plethora of novel feature upgrades and design variations, we are looking forward to the upcoming AI utilities that will be part of the mix. After its announcement, a prominent Apple executive subtly hinted at the arrival of AI features in iOS 18.
+Apple will "break new ground" with AI in 2024, and WWDC seems to be the perfect venue
+Apple's WWDC 2024 event will begin on Monday, June 10, and last until June 14. While the company is heavily invested in bringing generative AI technology to the iPhone and other products, we are not quite familiar with the exact details regarding its application. However, what we know is that the company will enhance Siri with generative AI technology, which will allow it to compete better against Google Assistant and OpenAI's ChatGPT.
+After the announcement of its WWDC 2024 event dates, Apple executive Greg Joswiak made a subtle reference to AI and how it will be a big part of Apple's announcements in June. In his latest tweet, Joswiak stated:
+Mark your calendars for #WWDC24, June 10-14. It’s going to be Absolutely Incredible!
+While he asked readers to mark their calendars for WWDC 2024 dates, he deliberately capitalized the first letters of the phrase "Absolutely Incredible!" hinting that AI will be a major part of the forthcoming releases. Note that this is not the first time that we have heard details on Apple's efforts towards the development of AI technology for the iPhone and other products. We have covered in the past few months that Apple has been increasingly interested in bringing generative AI technology to the iPhone, and iOS 18 will be the first step towards it.
+Mark your calendars for #WWDC24, June 10-14. It’s going to be Absolutely Incredible! pic.twitter.com/YIln5972ZD
+— Greg Joswiak (@gregjoz) March 26, 2024
+The company has developed various AI tools that can even edit, manipulate, and animate still images based on natural language commands, a feature that could see daylight in the stock Photos app on the iPhone with the release of iOS 18. The company could follow Google's route in this regard and how it offers generative AI utilities in the Google Photos app.
+Apple CEO Tim Cook is also really excited about AI and how it will transform the user experience on the iPhone and other products. The CEO stated that Apple will "break new ground" with AI this year, and WWDC 2024 appears to be the perfect venue to showcase its efforts.
+Follow Wccftech on Google to get more of our news coverage in your feeds.

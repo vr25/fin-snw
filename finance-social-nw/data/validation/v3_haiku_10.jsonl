@@ -1,0 +1,12 @@
+{"id": "1602", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nearly five years ago, a", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0119", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft is holding a 'future", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1505", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Amazon's $8 billion Anthropic investment", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "2018", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "He's a maniac Just an", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0682", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Stocks are on a record-setting", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0069", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Cover Reveal – Resident Evil", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2063", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "iamchamp stock.adobe.com AI cyber attack", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2137", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Steve Ballmer called Google Chrome", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1917", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "It's hard not to marvel", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1777", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chechnya has been hit by", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1748", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI is partnering with Taiwan's", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1220", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Trillion-dollar gap shows diverging South", "relation": "co-hype", "sentiment_alignment": 0.8}

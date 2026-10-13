@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google is launching its own artificial intelligence (AI) chatbot following the success of Microsoft-backed ChatGPT.
+The company said the product, named Bard, will be released to the public in the coming weeks and will provide written answers to questions in split seconds.
+AI will also “soon” be integrated into the company’s search engine to provide written answers to search queries in addition to links to relevant webpages, images and videos.
+Chief executive Sundar Pichai said the tool would allow Google to answer questions in a more intelligent way that went beyond just providing basic factual information.
+“Bard seeks to combine the breadth of the world’s knowledge with the power, intelligence and creativity of our large language models,” he said.
+“It draws on information from the web to provide fresh, high-quality responses.
+“Bard can be an outlet for creativity, and a launchpad for curiosity, helping you to explain new discoveries from Nasa’s James Webb Space Telescope to a nine-year-old, or learn more about the best strikers in football right now, and then get drills to build your skills.”
+Mr Pichai insisted the bot would be both “bold and responsible”, but did not specify how the company would prevent it producing harmful or abusive content.
+He said: “One of the most exciting opportunities is how AI can deepen our understanding of information and turn it into useful knowledge more efficiently – making it easier for people to get to the heart of what they’re looking for and get things done.
+“When people think of Google, they often think of turning to us for quick factual answers, like ‘how many keys does a piano have?’
+“But increasingly, people are turning to Google for deeper insights and understanding — like, ‘is the piano or guitar easier to learn, and how much practice does each need?’”
+Bard will use the company’s existing Lamda software, which was described last year by an engineer as “sentient” and the intellectual equivalent of a human child.
+Blake Lemoine, 41, was sacked by the firm after making the claims, which it described as “wholly unfounded”.
+Microsoft has invested billions of dollars in OpenAI, the parent company of ChatGPT, and speculation of an incoming integration with its search engine Bing has been widespread.
+Some Bing users reported seeing a new chatbot-style section of the search engine last week.
+Microsoft, founded by Bill Gates and Paul Allen in 1975, announced a press conference for 6pm (GMT) on Tuesday just minutes after Google revealed Bard.
+It is being held the day before Google’s own launch event for Bard.

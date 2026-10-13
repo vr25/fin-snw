@@ -1,0 +1,12 @@
+{"id": "0744", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Sergey Nivens - stock.adobe.com", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0924", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oracle surges on mega-partnerships", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1180", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Dublin, Nov.  15, 2024", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1769", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Investing.com -- Apple Inc", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0940", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) has", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "2114", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Picking artificial intelligence (AI)", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0392", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This week in enterprise:", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1136", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "We recently compiled a", "relation": "substitute-comparison", "sentiment_alignment": 0.9}
+{"id": "1976", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Prime Minister Sir Keir", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "1612", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "WASHINGTON (dpa-AFX) - Alphabet", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "1743", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia's sales of the", "relation": "causal-driver", "sentiment_alignment": 0.9}
+{"id": "1104", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Choosing the Right Cloud", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

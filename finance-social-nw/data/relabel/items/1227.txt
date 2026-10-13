@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The Albanese government has unveiled a plan to hit social media companies Meta, TikTok and Google with a levy aimed at persuading them to put hundreds of millions of dollars a year back into news publishers.
+Create a free account to read this article
+or signup to continue reading
+Under the plan, large digital platforms that decline to pay media companies for news would be hit with a levy and the proceeds distributed among news publishers. Tech platforms that opt to strike or renew deals to pay for news content would be able to claim a "generous" tax offset. 
+If legislated, the new tax incentive would aim to return revenue media companies lost when tech giants opted not to renew expiring deals under the News Media Bargaining Code. The formula for distributing revenue to publishers if a levy is imposed would be subject to consultation. 
+Media organisations were paid up to $250 million a year under deals struck with social media platforms Facebook and Google in 2021. 
+Assistant Treasurer Stephen Jones and Communications Minister Michelle Rowland announced the News Media Bargaining Incentive, which would be applied from January 1.
+"The real objective is to incentivise agreement-making between platforms and news media businesses in Australia," Mr Jones told reporters on Thursday. "We hope not to raise any revenue." 
+Mr Jones said the legislation would need to be drafted in a way to ensure social media companies did not meet the requirement by doing a single deal with a large publisher, and that the government wanted to ensure regional journalism was supported.
+The distribution of any revenue would "have in mind the needs of small, medium and large publishers, and the need to support journalism for regional populations".
+He said the government wanted Australians to have access to quality news content on digital platforms, which had "social and economic responsibility to contribute to Australians' access to quality journalism".
+The levy would address loopholes in the existing News Media Bargaining code, which enabled platforms to "circumvent their responsibility to pay".
+It would apply to all digital platforms operating significant social media or search services that turn over $250 million or more annually in Australia. 
+ACM managing director Tony Kendall said the response was welcome after months of uncertainty following Meta's announcement in March that it would pull its support for Australian news.
+"Like other news providers, we have already been forced to make some difficult decisions about our newspapers in order to sustain our business," he said.
+"We are cautiously hopeful that this announcement will lead to more support for the news sources that Australians trust, but when those benefits will flow is the next question.
+"We will immediately begin discussions with Meta and TikTok to negotiate fair commercial terms for our trusted content.
+"And it's just one piece of the puzzle in sustaining regional journalism as we await the long-promised recommendations from the government's NewsMAP inquiry."
+The Coalition responded to the announcement by saying that the test would be "when will Australian media companies start being paid by the digital giants for the content from which they benefit?"
+In a joint statement, Opposition Ccmmunications spokesman David Coleman and shadow treasurer Angus Taylor questioned why it took the government more than nine months to "finally come up with a response to Meta thumbing its nose at paying for Australian news content".
+"The Coalition fundamentally believes that Australian journalism must be paid for," the statement said.
+"We've been calling for action all year - but the government has only announced a policy after Parliament has risen for the year." 
+News Corp Australasia executive chairman Michael Miller welcomed the news and said he would immediately contact Meta seeking to restart negotiations, after the social media company walked away from its previous deal last year, and approach TikTok for a deal.
+Mr Miller said the incentive approach recognised and would strengthen "the principle of commercial negotiations between tech platforms and Australian media companies".
+"This will provide a foundation for rebuilding the media industry after the loss of an estimated 1000 jobs this year, and ensuring Australian news media businesses will continue to deliver inquiring and professional journalism," he said. 
+A Meta spokesperson said the proposal "fails to account for the realities of how our platforms work, specifically that most people don't come to our platforms for news content and that news publishers voluntarily choose to post content on our platforms because they receive value from doing so."
+Mr Jones told reporters that, under deals with publishers, social media companies received a commercial benefit.
+The question of whether artificial intelligence companies would be covered was expected to be raised in the consultation process, he said. 
+The government has opted not to designate Meta under the code to force it to pay for news, a move that could prompt the tech company to withdraw services in Australia. 
+Ms Rowland said the government was "committed to a diverse and sustainable news media sector, given this is critical to the health of Australia's democracy".
+"Large digital platforms have an important role to play in providing access to news for all Australians, and contributing to the sustainability of public interest journalism," she said.
+The levy would apply to large digital platforms operating significant social media or search services irrespective of whether or not they carry news, with the final design of the scheme subject to consultation in early 2025.

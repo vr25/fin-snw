@@ -1,0 +1,30 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+New York state will set aside money to help local news outlets hire and retain employees
+ALBANY, N.Y. (AP) — New York is offering up to $90 million in tax credits for news outlets to hire and retain journalists in an effort to help keep the shrinking local news industry afloat.
+The U.S. newspaper industry has been in a long decline, driven by factors including a loss in advertising revenue as outlets have moved from primarily print to mostly digital. That prompted state lawmakers to help in a measure passed in the state budget.
+New York’s three-year program allows some news organizations to tap into refundable tax credits each year, with a single outlet able to receive tax credits of up to $320,000 annually.
+State Sen. Brad Hoylman-Sigal, a Democrat who sponsored the legislation, said preserving journalism jobs is vital for the health of democracy. As evidence, he cited the weakened New York news media's failure to research the background of George Santos, a Republican who fabricated many details of his life story, until after he had been elected to Congress.
+“Some of my colleagues have dubbed this credit the ‘George Santos Prevention Act’ because many believe it was the lack of local press coverage that enabled Santos to spin his web of lies undetected,” Hoylman-Sigal said.
+While it is intended to benefit small community news sites, larger media organizations could also potentially benefit. The tax credits would mostly only be available to news outlets that are not publicly traded, though there would be an exception for certain media businesses that can show a reduction in circulation.
+Hoylman-Sigal said he is open to making revisions to expand the legislation to include nonprofit news organizations and digital-only media outlets, which are currently left out of the program.
+RELATED: Rochester Democrat & Chronicle journalists head back to work but continue their fight
+“This is the first time in American history that we have created a tax credit structure to support journalism jobs,” Jon Schleuss, president of the NewsGuild-CWA, a labor union for journalists, said.
+Lawmakers in several states have weighed various approaches to help struggling news organizations.
+The state governments in California and New Mexico help fund local news fellowship programs.
+The California Legislature is considering a bill that would require tech giants like Google, Facebook and Microsoft to pay a percentage of advertising revenue to media companies for linking to their content. Google pushed back recently by temporarily removing California news websites from some people’s search results.
+In Illinois, lawmakers have proposed a journalism scholarship program, a tax credit and a requirement that news outlets notify the state of plans to sell their operations four months in advance. Bills in Connecticut and Illinois would direct that some money the state spends on advertising go to local outlets.
+Most of the measures advancing this year have been in Democrat-controlled states. But Anna Brugmann, director of policy at Rebuild Local News, which advocates for government help for journalism, said there is interest in the idea in red states, too. The hang-up, she said: The initiatives can be expensive.
+She noted that in Wisconsin, there were both Republican and Democratic news aid bills this year.
+“We’re certainly looking at red and purple states, for the next legislative session,” Brugmann said.
+About 203 counties across the U.S. do not have any local news outlets, according to a report last year from Northwestern University’s Medill School of Journalism. More than 1,500 – nearly half the counties – have only one.
+New York's program, which would start in 2025, will divide tax breaks into two pots, with about $4 million worth of credits available to help newsrooms hire staff and about $26 million in credits to help with staff retention.
+Newsrooms could receive $5,000 worth of tax credits for each new hire, with a cap at $20,000, or four new positions. Newsrooms could get up to $300,000 worth of tax credits to help retain staff.
+“In a day and age where there’s so much information, having trained journalists who can ask the tough questions and hold elected officials and other public figures accountable is critical to our democracy as a country,” said state Sen. Jeremy Cooney, a Democrat who represents parts of the Rochester area in Western New York.
+News businesses applying for the tax credit wouldn’t be evaluated based on whether government officials like their coverage, state officials said.
+Zachary Richner, the founder of Empire State Local News Coalition, said he hopes regulations for the program will be drafted in a way that prioritizes tax credits for “the news outlets that need it the most.”
+Tom Wiley, publisher at The Buffalo News, said the tax credit will help them invest in frontline journalism.
+“We think the tax credit will help us continue to be the key source for local news in Western New York," Wiley said. “Our work is what sustains an informed electorate in our environment of misinformation and falsehoods.”
+___
+Associated Press writer Geoff Mulvihill in Cherry Hill, New Jersey, contributed to this report.

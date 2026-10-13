@@ -1,0 +1,44 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Home > Article
+                    
+    
+        VOL. 50 | NO. 18 | Friday, May 1, 2026
+    
+    
+        
+	
+            
+            
+                US military reaches deals with 7 tech companies to use their AI on classified systems
+            
+            
+            
+            
+                
+            
+            
+            
+            
+        
+ 
+        WASHINGTON (AP) — The Pentagon said Friday that it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to help it fight wars.
+Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide their resources to help "augment warfighter decision-making in complex operational environments," the Defense Department said.
+The Defense Department has been rapidly accelerating its use of AI in recent years. The technology can help the military reduce the time it takes to identify and strike targets on the battlefield, while aiding in the organization of weapons maintenance and supply lines, according to a report in March from the Brennan Center for Justice.
+But AI has already raised concerns that its use could invade Americans' privacy or allow machines to choose targets on the battlefield. One of the companies contracting with the Pentagon said its agreement required human oversight in certain situations.
+Such concerns were raised by a company not on the list, Anthropic, and it is now battling the Pentagon in court. The tech company said it wanted assurances in its contract that the military would not use its technology in fully autonomous weapons and the surveillance of Americans. Defense Secretary Pete Hegseth said the company must allow for any uses the Pentagon deemed lawful.
+Anthropic sued after President Donald Trump, a Republican, tried to stop all federal agencies from using the company's chatbot Claude and Hegseth sought to label the company a supply chain risk, a designation meant to protect against sabotage of national security systems by foreign adversaries.
+OpenAI had announced a deal with the Pentagon in March to effectively replace Anthropic with ChatGPT in classified environments. OpenAI confirmed in a statement Friday that it was the same agreement it announced in early March.
+"As we said when we first announced our agreement several months ago, we believe the people defending the United States should have the best tools in the world," the company said.
+One company's agreement with the Pentagon included language that said there should be human oversight over any missions in which the AI systems act autonomously or semi-autonomously, according to a person familiar with the agreement who was not authorized to speak about it publicly. The language also said the AI tools must be used in ways that are consistent with constitutional rights and civil liberties.
+Those resemble sticking points for Anthropic, though OpenAI has previously said that it secured similar assurances when it made its own deal with the Pentagon.
+Emil Michael, the Pentagon's chief technology officer, told CNBC on Friday that it would have been irresponsible to rely on only one company, an acknowledgement of the friction with Anthropic.
+"And when we learned that that one partner didn't really want to work with us in the way we wanted to work with them, we went out and made sure that we had multiple different providers," Michael said.
+Some of the companies, including Amazon and Microsoft, have long worked with the military in classified environments and it was not immediately clear if the new agreements significantly altered their government partnerships. Others, such as chipmaker Nvidia and the startup Reflection, are new to such work. Both companies make open-source AI models, which Michael has described as a priority to provide an "American alternative" to China's rapid development of AI systems in which some key components are publicly accessible for others to build upon.
+The Pentagon said Friday that military personnel are already using its AI capabilities through its official platform, GenAI.mil.
+"Warfighters, civilians and contractors are putting these capabilities to practical use right now, cutting many tasks from months to days," the Pentagon said, adding that the military's growing AI capabilities will "give warfighters the tools they need to act with confidence and safeguard the nation against any threat."
+___
+O'Brien reported from Providence, Rhode Island.
+___
+Follow the AP's coverage of artificial intelligence at https://apnews.com/hub/artificial-intelligence.

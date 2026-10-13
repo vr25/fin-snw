@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Facebook worker faces criminal probe for ‘downloading 30,000 private pictures’
+A former worker at Meta is under criminal investigation after he was suspected of downloading around 30,000 private Facebook images.
+The engineer was employed by the social media giant when it is believed he designed a programme to be able to access the personal pictures while avoiding internal security checks.
+A specialist detective from the Metropolitan Police’s cybercrime unit is investigating the alleged mass invasion of Facebook users’ privacy.
+Meta has confirmed to the Press Association that the suspected breach was discovered more than a year ago and the company itself referred the matter to police in the UK.
+After discovering improper access by an employee over a year ago, we immediately terminated the individual, notified users, referred the matter to law enforcement and enhanced our security measures
+It added that affected Facebook users have been notified, the worker was sacked and it says it has upgraded its security systems.
+The engineer under suspicion, who lives in London, is currently on police bail while the criminal investigation continues.
+According to court papers seen by the Press Association, police say he “is alleged to have accessed and downloaded approximately 30,000 private images belonging to Facebook users whilst working for Meta”.
+“It is alleged that he created a script designed to circumvent Meta’s internal detection systems, allowing him to do so.”
+Two weeks ago, two magistrates agreed to vary the man’s police bail so that he must next report to Met officers in May and inform the force of any plans for foreign travel.
+A Meta spokesperson confirmed the existence of the criminal investigation, saying: “Protecting user data is our top priority.
+“After discovering improper access by an employee over a year ago, we immediately terminated the individual, notified users, referred the matter to law enforcement and enhanced our security measures.
+“We are co-operating with the ongoing investigation.”
+Facebook suffered a bug in 2018 which was believed to have affected up to 6.8 million people and given third-party apps wider access to user photos on the social network.
+In 2024, it was reported that Meta had been fined 91 million euro by the Data Protection Commission in Ireland over the way millions of Facebook and Instagram user passwords had been inadvertently stored in plaintext on its internal systems, meaning they were not protected by encryption.
+The latest security concern has emerged just after Meta, which also owns WhatsApp, suffered a landmark court defeat alongside Google last month after being accused of failing to protect its users from harm.
+A court in Los Angeles found the companies liable for a woman’s childhood social media addiction in a ruling which could have widespread ramifications for the way the platforms are operated in the future.
+Jon Baines, senior data protection specialist at law firm Mishcon de Reya, said: “When an employee accesses personal data, such as images of customers, without the employer’s authorisation, there is the potential for offences under data protection and computer misuse laws to be committed by that employee.
+“The general approach will be that, provided the employer – here, Meta – has appropriate technical and organisational measures in place to prevent, or at least detect, the unauthorised access, it will not itself be liable: the law doesn’t seek to punish responsible organisations for the actions of rogue employees.
+“That said, if the Information Commissioner – or a court – were to decide that Meta had not had appropriate technical and organisational measures in place to protect customer data, then Meta (or another organisation in similar circumstances) might potentially be liable to significant fines, or to legal claims for damages.”
+A spokesperson for the Information Commissioner’s Office (ICO) said: “We are aware of this incident. The ICO regularly engages with social media platforms, including Meta, regarding approaches to data protection to ensure that users rights and freedoms are being upheld.
+“Social media users should be able to trust that their personal information is handled responsibly.”

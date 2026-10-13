@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Now even the World Health Organization warns against artificial intelligence - says it's 'imperative' we pump the brakes
+- The WHO said it was enthusiastic about the 'appropriate use' and potential of AI
+- But warned that the risks of tools like ChatGPT must be assessed first
+- READ MORE: ChatGPT inventor Sam Altman admits A.I. could cause 'significant harm to the world' as he testifies in front of Congress
+Now even the World Health Organization (WHO) has called for caution in using artificial intelligence for public healthcare, saying it is 'imperative' to assess the risks.
+In a statement published Tuesday, the WHO said it was enthusiastic about the 'appropriate use' and potential of AI but had concerns over how it will be used to improve access to health information, as a decision-support tool and to improve diagnostic care.
+The agency added that the data used to train AI may be biased and generate misleading or inaccurate information and the models can be misused to create disinformation.
+It was vital to consider the potential issues of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human wellbeing and protect public health, the UN health body said.
+What are the dangers? Fears about AI come as experts predict it will achieve singularity by 2045, which is when the technology surpasses human intelligence and we cannot control it
+Geoffrey Hinton, 75, who is credited as the 'godfather' of artificial intelligence, issued a warning that 'scary' chatbots like the popular ChatGPT could soon be smarter than humans
+Its cautionary note comes as artificial intelligence applications are rapidly gaining in popularity, highlighting a technology that could upend the way businesses and society operate.
+The WHO warned: 'Precipitous adoption of untested systems could lead to errors by health-care workers, cause harm to patients, erode trust in AI and thereby undermine (or delay) the potential long-term benefits and uses of such technologies around the world.'
+Meanwhile, a study last month by the University of California San Diego found that ChatGPT provides higher quality answers and is more empathetic than a real doctor.
+A panel of healthcare professionals compared written replies from doctors and those from ChatGPT to real-world health queries to see which came out on top.
+The doctors preferred ChatGPT's responses 79 percent of the time and rated them higher quality in terms of the information provided and more understanding. The panel did not know which was which.
+ChatGPT recently caused a stir in the medical community after it was found capable of passing the gold-standard exam required to practice medicine in the US, raising the prospect it could one day replace human doctors.
+The artificial intelligence program scored between 52.4 and 75 percent across the three-part Medical Licensing Exam (USMLE). Each year's passing threshold is around 60 percent.
+Debate: The 'godfather' of artificial intelligence Geoffrey Hinton has tossed a grenade into the raging debate about the dangers of the technology — after sensationally quitting his job at Google and saying he regrets his life's work. Some of those who and against AI are pictured
+Researchers from tech company AnsibleHealth who did the study said: 'Reaching the passing score for this notoriously difficult expert exam, and doing so without any human reinforcement, marks a notable milestone in clinical AI maturation.'
+The 'godfather' of AI has also tossed a grenade into the raging debate about the dangers of the technology after sensationally quitting his job at Google and saying he regrets his life's work.
+British-Canadian pioneer Geoffrey Hinton, 75, issued a spine-chilling warning that 'scary' chatbots like the hugely popular ChatGPT could soon become smarter than humans.
+Some of the world's greatest minds are split over whether AI will destroy or elevate humanity, with Microsoft billionaire Bill Gates championing the technology and Tesla founder Elon Musk a staunch critic.
+The bitter argument spilled into the public domain earlier this year when more than 1,000 tech tycoons signed a letter calling for a pause on the 'dangerous race' to advance AI.
+They said urgent action was needed before humans lose control of the technology and risk being wiped out by robots.
+In the medical world, research has suggested a breakthrough AI model could determine a person's risk of developing pancreatic cancer with staggering accuracy.
+Using medical records and information from previous scans, the AI was able to flag patients at a high risk of developing pancreatic cancer within the next three years with great accuracy.
+There are currently no full-proof scans for pancreatic cancer, with doctors using a combination of CT scans, MRIs and other invasive procedures to diagnose it. This keeps many doctors away from recommending these screenings.
+The study has doctors hopeful because pancreatic cancer is notoriously hard to spot, making it one of the deadliest forms of the disease, killing more than half of sufferers within five years of diagnosis.
+Over time, they also hope these AI models will help them develop a reliable way to screen for pancreatic cancer — which already exists for other types of the disease.

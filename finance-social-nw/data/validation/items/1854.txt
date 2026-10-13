@@ -1,0 +1,48 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Xinhua
+                
+09 Jan 2026, 00:45 GMT+10
+            
+2025 saw the EU adjust its approach under U.S. pressure and amid growing recognition of Europe's digital weakness. The question is now how the bloc will uphold its ambition of "digital sovereignty" against headwinds in 2026.
+by Xinhua Writers Ding Yinghua, Zhang Xinwen
+BRUSSELS, Jan. 8 (Xinhua) -- After a year of sparring between the European Union (EU) and the United States over tech rules, Europe is entering 2026 faced with mounting transatlantic pressure and a capability and infrastructure gap at home.
+As Washington ended 2025 by imposing visa restrictions on pioneering European digital sovereignty advocates, it is a serious challenge for the EU to turn regulation into real advantage in the new year.
+TRANSATLANTIC TIT-FOR-TAT TECH SPATS
+Before Christmas Eve, 2025, the U.S. State Department dropped a diplomatic bomb, slapping visa restrictions on five individuals from the EU and Britain. These included former European Commissioner Thierry Breton, whom the U.S. side portrayed as "a mastermind of the Digital Services Act (DSA)." Breton, who left the Commission in 2024, later condemned the U.S. move as a "witch hunt."
+This latest flare-up of tensions came just weeks after the European Commission issued its first non-compliance decision under the DSA on Dec. 5, 2025. The Commission fined the social media platform X 120 million euros (about 141 million U.S. dollars) for the deceptive design of its blue checkmark, a lack of transparency in its advertising repository, and failing to provide researchers with access to public data.
+The DSA, alongside the Digital Markets Act (DMA) and other regulations, make up the EU's core rulebook aimed at reining in Big Tech through tighter accountability and transparency.
+As the EU gathered pace to implement the rules over the last two years, a transatlantic compliance dispute has also picked up steam. Apart from fining X, the European Commission opened two antitrust investigations into Google and Meta, and hit Google with a 2.95-billion-euro fine and Apple with a 500 million-euro penalty.
+Although U.S. President Trump has threatened to retaliate with additional tariffs if the EU keeps what he calls "discriminatory" digital rules and fines targeting U.S. tech companies, the transatlantic spat over digital sovereignty has not become personal, until now.
+"We are in a 'tit-for-tat' competition that will not stop during the Trump administration," said Nicolas Petit, professor of Competition Law at the Department of Law of the European University Institute.
+EUROPE'S DIGITAL ACHILLES' HEELS
+The threat of retaliation from the United States is only half the story. The EU entered this fight from a position of dependency, with insufficient control of its own digital economy and underdeveloped infrastructure.
+Miguel De Bruycker, director of the Centre for Cybersecurity Belgium Europe, commented recently that it is "currently impossible" to store data fully in Europe because U.S. companies dominate digital infrastructure. "We've lost the whole cloud. We have lost the internet, let's be honest," he told the Financial Times.
+According to a 2025 report from Synergy Research Group, a market intelligence firm, European cloud infrastructure providers account for just 15 percent of their own market. Synergy said the sheer scale of investment from U.S. tech giants such as Amazon, Microsoft and Google has made them the main beneficiaries of cloud growth, leaving European challengers with "an impossible hill to climb."
+Concerning artificial intelligence (AI), Europe is also lagging in the global race. Charlotte de Montpellier, a senior ING economist, said the continent hosts only a handful of AI models and remains far behind the United States, and, to a lesser extent, China, in innovation and deployment.
+The same gap exists for chips. The European Court of Auditors said in an April 2025 report that it is "very unlikely" that the EU will meet its Digital Decade target of reaching at least 20 percent of global production of cutting-edge and sustainable semiconductors by 2030. While the 2022 EU Chips Act has brought new momentum to the microchip sector, the investments driven by the Act showed that the EU's goal is a long shot, said the report.
+"Europe has a very limited position in most layers of the digital stack," commented Angela Garcia Calvo, assistant professor at the Henley Business School, University of Reading. "It can promulgate regulation, but it is unlikely to set the standard in areas in which it is dependent on others."
+BUMPY ROAD FOR 2026
+Building up capacity has become a top priority. The European Commission is set to launch proposals in early 2026 to establish EU "AI gigafactories," a key step in plans to build up to five large-scale computing facilities for developing and training next-generation AI models across the bloc.
+Europe is also seeking greater control in the cloud sector. The Commission plans to propose a Cloud and AI Development Act in 2026, aiming to triple EU data-centre capacity within five to seven years.
+Petit said the EU has realized that digital sovereignty cannot be achieved by regulation alone, but requires domestic technological capabilities and an innovation-driven economy. He warned, however, that: "It is very hard to make this vision of a competitive technological industry concrete because we lack the necessary economic instruments and resources."
+Simplifying rules to boost the industry has also been on the agenda. In November, the Commission proposed changes to the EU's AI Act through a "digital omnibus," part of a broader package to cut red tape.
+The package was welcomed by European industry as a competitiveness-oriented reset. While some analysts saw it as a signal of the EU's willingness to stabilize relations with the United States, many argue such de-escalation efforts are unlikely to resolve the underlying transatlantic dispute.
+"Every time the EU acts against an American company, the Trump administration will use it as leverage to extract something. Every fine by Brussels will be met with protests and used as justification for penalties on Europe through tariffs, export controls, or import controls," said Petit.
+The EU's path toward digital sovereignty is likely to remain bumpy. (1 euro = 1.17 U.S. dollar)
+Get a daily dose of Russia Herald news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Russia Herald.
+More Information
+WHIPPANY, New Jersey: Bayer has opened a new legal front in the long-running battles over COVID-19 vaccine technology, suing several...
+LAS VEGAS, Nevada: Nvidia is moving from hype to hardware in its next phase of the AI boom, with its chief executive saying the company's...
+LAS VEGAS, Nevada: While many automakers are scaling back electric vehicle plans, Sony Honda Mobility used the world's biggest tech...
+NEW YORK, New York - U.S. stock markets pulled back after the Dow Jones and S&P 500 notched up new all-time highs a day earlier. On...
+WASHINGTON, D.C.: A long-running global effort to curb corporate tax avoidance has taken a new turn, with the world's biggest economies...
+NEW DELHI, India: Air India's board has begun looking for a new chief executive, people with direct knowledge of the matter said, signalling...
+WASHINGTON, D.C.: U.S. President Donald Trump's ability to unilaterally impose far-reaching tariffs has given rise to skepticism among...
+PARIS, France: The government, on December 31, defended the granting of citizenship to actor George Clooney, his wife Amal, and their...
+2025 saw the EU adjust its approach under U.S. pressure and amid growing recognition of Europe's digital weakness. The question is...
+Aleppo [Syria], January 8 (ANI): Fierce clashes between the Syrian army and the Syrian Democratic Forces (SDF) have erupted for a third...
+Washington DC [US], January 8 (ANI): The US Senate on Thursday advanced a resolution that would prohibit President Donald Trump from...
+AMMAN, 8th January, 2026 (WAM) -- Jordan and the European Union have stressed that the catastrophic humanitarian situation in the Gaza...

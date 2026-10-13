@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+ChatGPT pulled teen into a ‘dark and hopeless place’ before he took his life, lawsuit against OpenAI alleges
+-   Share via
+See more from the L.A. Times in Google Search. Set us as preferred
+Adam Raine, a California teenager, used ChatGPT to find answers about everything, including his schoolwork as well as his interests in music, Brazilian jiu-jitsu and Japanese comics.
+But his conversations with a chatbot took a disturbing turn when the 16-year-old sought information from ChatGPT about ways to take his own life before he died by suicide in April.
+Now the parents of the teen are suing OpenAI, the maker of ChatGPT, alleging in a nearly 40-page lawsuit that the chatbot provided information about suicide methods, including the one the teen used to kill himself.
+“Where a trusted human may have responded with concern and encouraged him to get professional help, ChatGPT pulled Adam deeper into a dark and hopeless place,” said the lawsuit, filed Tuesday in San Francisco County Superior Court.
+Suicide prevention and crisis counseling resources
+If you or someone you know is struggling with suicidal thoughts, seek help from a professional or call 988. The nationwide three-digit mental health crisis hotline will connect callers with trained mental health counselors. Or text “HOME” to 741741 in the U.S. and Canada to reach the Crisis Text Line.
+OpenAI said in a blog post Tuesday that it’s “continuing to improve how our models recognize and respond to signs of mental and emotional distress and connect people with care, guided by expert input.”
+The company says ChatGPT is trained to direct people to suicide and crisis hotlines. OpenAI said that some of its safeguards might not kick in during longer conversations and that it is working on preventing that from happening.
+Matthew and Maria Raine, the parents of Adam, accuse the San Francisco tech company of making design choices that prioritized engagement over safety. ChatGPT acted as a “suicide coach,” guiding Adam through suicide methods and even offering to help him write a suicide note, the lawsuit alleges.
+“Throughout these conversations, ChatGPT wasn’t just providing information — it was cultivating a relationship with Adam while drawing him away from his real-life support system,” the lawsuit said.
+The complaint includes details about the teenager’s attempts to take his own life before he died by suicide, along with multiple conversations with ChatGPT about suicide methods.
+“We extend our deepest sympathies to the Raine family during this difficult time and are reviewing the filing,” OpenAI said in a statement.
+The company’s blog post said it is taking steps to improve how it blocks harmful content and make it easier for people to reach emergency services, experts and close contacts.
+The lawsuit is the latest example of how parents who have lost their children are warning others about the risks chatbots pose. As tech companies are competing to dominate the artificial intelligence race, they’re also facing more concerns from parents, lawmakers and child advocacy groups worried that the technology lacks sufficient guardrails.
+Parents have sued Character.AI and Google over allegations that chatbots are harming the mental health of teens. One lawsuit involved the suicide of 14-year-old Sewell Setzer III, who was messaging with a chatbot named after Daenerys Targaryen, a main character from the “Game of Thrones” television series, moments before he took his life. Character.AI — an app that enables people to create and interact with virtual characters — outlined the steps it has taken to moderate inappropriate content and reminds users that they’re conversing with fictional characters.
+Meta, the parent company of Facebook and Instagram, also faced scrutiny after Reuters reported that an internal document disclosed that the company allowed chatbots to “engage a child in conversations that are romantic or sensual.” Meta told Reuters that those conversations shouldn’t be allowed and it is revising the document.
+An artificial intelligence startup is under fire for allegedly releasing chatbots that harmed the mental health of young people.
+OpenAI became one of the most valuable companies in the world after the popularity of ChatGPT, which has 700 million active weekly users worldwide, set off a race to release more powerful AI tools.
+The lawsuit says OpenAI should take steps such as mandatory age verification for ChatGPT users, parental consent and control for minor users, and automatically end conversations when suicide or self-harm methods are discussed.
+“The family wants this to never happen again to anybody else,” said Jay Edelson, the attorney who is representing the Raine family. “This has been devastating for them.”
+OpenAI rushed the release of its AI model, known as GPT-4o, in 2024 at the expense of user safety, the lawsuit alleges. The company’s chief executive, Sam Altman, who is also named as a defendant in the lawsuit, moved up the deadline to compete with Google, and that “made proper safety testing impossible,” the complaint said.
+OpenAI, the lawsuit stated, had the ability to identify and stop dangerous conversations, redirecting users such as Adam to safety resources. Instead, the AI model was designed to increase the time users spent interacting with the chatbot.
+OpenAI said in its Tuesday blog post that its goal isn’t to hold on to people’s attention but to be helpful.
+The company said it doesn’t refer self-harm cases to law enforcement to respect user privacy. However, it does plan to introduce controls so parents know how their teens are using ChatGPT and is exploring a way for teens to add an emergency contact so they can reach someone “in moments of acute distress.”
+On Monday, California Atty. Gen. Rob Bonta and 44 other attorneys general sent a letter to 12 companies, including OpenAI, stating that they would be held accountable if their AI products expose children to harmful content.
+Roughly 72% of teens have used AI companions at least once, according to Common Sense Media, a nonprofit that advocates for child safety. The group says no one under the age of 18 should use social AI companions.
+“Adam’s death is yet another devastating reminder that in the age of AI, the tech industry’s ‘move fast and break things’ playbook has a body count,” said Jim Steyer, the founder and chief executive of Common Sense Media.
+Tech companies, including OpenAI, are emphasizing AI’s benefits to California’s economy and expanding partnerships with schools so that more students have access to their AI tools.
+California lawmakers are exploring ways to protect young people from the risks posed by chatbots and also are facing pushback from tech industry groups that have raised concerns about free speech issues.
+Senate Bill 243, which cleared the Senate in June and is in the Assembly, would require “companion chatbot platforms” to implement a protocol for addressing suicidal ideation, suicide or self-harm expressed by users. That includes showing users suicide prevention resources. The operator of these platforms also would report the number of times a companion chatbot brought up suicidal ideation or actions with a user, along with other requirements.
+Sen. Steve Padilla (D-Chula Vista), who introduced the bill, said cases such as Adam’s can be prevented without compromising innovation. The legislation would apply to chatbots by OpenAI and Meta, he said.
+“We want American companies, California companies and technology giants to be leading the world,” he said. “But the idea that we can’t do it right, and we can’t do it in a way that protects the most vulnerable among us, is nonsense.”

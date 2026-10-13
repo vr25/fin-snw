@@ -1,0 +1,20 @@
+{"id": "0820", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google has started blocking news", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0821", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In today's digital landscape, where", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0822", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "PostcardMania, the $104 million marketing", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0823", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "NEW YORK — With the", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0824", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Central Washington State", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0825", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Confirmed List of Products", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0826", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "On Fast Track Powers,", "relation": "co-hype", "sentiment_alignment": 0.95}
+{"id": "0827", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0828", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0829", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0830", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0831", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0832", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy &", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0833", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Artificial intelligence (AI) has", "relation": "substitute-comparison", "sentiment_alignment": 0.95}
+{"id": "0834", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Super Micro Computer (SMCI", "relation": "substitute-comparison", "sentiment_alignment": 0.4}
+{"id": "0835", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "(Bloomberg) -- Snap Inc.", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0836", "ticker_a": "AVGO", "ticker_b": "IONQ", "first_words": "IonQ (NYSE: IONQ), a", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0837", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "COLOGNE: Online translation platform", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0838", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "COLOGNE: Online translation platform", "relation": "unrelated-mention", "sentiment_alignment": 1.0}
+{"id": "0839", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "COLOGNE: Online translation platform", "relation": "unrelated-mention", "sentiment_alignment": 1.0}

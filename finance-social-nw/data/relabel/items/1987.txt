@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Apple Testing Siri Upgrade to Handle Multiple Requests at Once
+Posted March 31, 2026 at 5:11pm by 
+		Shalom Levytam
+		
+	
+Apple is testing a Siri feature that lets the digital assistant process multiple requests in a single query. The capability is in development for iOS 27, iPadOS 27, and macOS 27 later this year, according to people familiar with the matter.
+The update would let users combine requests in a single prompt, according to a Bloomberg report. For example, users could ask Siri to check the weather, create a calendar event, and send a message all at once. Siri currently requires each request to be handled individually.
+The capability is part of a broader effort to overhaul Siri and bring it closer to newer AI assistants. It is also key to more advanced upgrades in development, including features that rely on personal context and deeper app integration. Apple has shown examples of Siri handling tasks such as retrieving a photo, editing it, and sending it in a message from a single instruction. However, engineering snags have delayed the rollout.
+Apple is expected to unveil its latest progress at WWDC26 on June 8. The company is working to make Siri function more like a chatbot and plans to introduce a standalone app interface. The assistant is also set to gain a World Knowledge Answers feature that pulls and summarizes information from the web.
+Apple is also expected to use its partnership with Google to support some of these features.
+The overhaul also extends beyond Apple's own apps. Software teams are updating the Siri Extensions framework to let the assistant tap into third-party services installed through the App Store, expanding beyond its current integration with ChatGPT.
+Separately, Apple has explored a redesigned system keyboard that expands autocorrect by suggesting alternative wording, using an approach similar to tools like Grammarly. The company has not yet made a final decision on whether the feature will ship.
+In internal testing, some of these new Siri capabilities are labeled as a Preview, suggesting Apple may release them in a beta state while continuing to refine performance.
+Please download the iClarified app or follow iClarified on X, Facebook, YouTube, and RSS for more Apple Intelligence updates.
+The update would let users combine requests in a single prompt, according to a Bloomberg report. For example, users could ask Siri to check the weather, create a calendar event, and send a message all at once. Siri currently requires each request to be handled individually.
+The capability is part of a broader effort to overhaul Siri and bring it closer to newer AI assistants. It is also key to more advanced upgrades in development, including features that rely on personal context and deeper app integration. Apple has shown examples of Siri handling tasks such as retrieving a photo, editing it, and sending it in a message from a single instruction. However, engineering snags have delayed the rollout.
+Apple is expected to unveil its latest progress at WWDC26 on June 8. The company is working to make Siri function more like a chatbot and plans to introduce a standalone app interface. The assistant is also set to gain a World Knowledge Answers feature that pulls and summarizes information from the web.
+Apple is also expected to use its partnership with Google to support some of these features.
+The overhaul also extends beyond Apple's own apps. Software teams are updating the Siri Extensions framework to let the assistant tap into third-party services installed through the App Store, expanding beyond its current integration with ChatGPT.
+Separately, Apple has explored a redesigned system keyboard that expands autocorrect by suggesting alternative wording, using an approach similar to tools like Grammarly. The company has not yet made a final decision on whether the feature will ship.
+In internal testing, some of these new Siri capabilities are labeled as a Preview, suggesting Apple may release them in a beta state while continuing to refine performance.
+Please download the iClarified app or follow iClarified on X, Facebook, YouTube, and RSS for more Apple Intelligence updates.

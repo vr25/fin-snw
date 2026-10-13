@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Updated January 24, 2023 at 8:31 PM ET
+The Justice Department and eight states on Tuesday filed a lawsuit against Google over its digital advertising business, claiming the tech giant illegally monopolizes the market for online ads.
+It is the second antitrust suit federal authorities have brought against the company's advertising empire, which has for years been under scrutiny over allegations of self-dealing and choking off competitors.
+"For 15 years, Google has pursued a course of anticompetitive conduct that has allowed it to halt the rise of rival technologies, manipulate auction mechanics, to insulate itself from competition, and force advertisers and publishers to use its tools," said Attorney General Merrick Garland at a press conference announcing the lawsuit.
+In its 140-page suit filed in the Eastern District of Virginia, authorities say Google made acquisitions to boost its advertising division that effectively forced advertisers and publishers to use its products, to the detriment of rival advertising firms.
+"One industry behemoth, Google, has corrupted legitimate competition in the ad tech industry by engaging in a systematic campaign to seize control of the wide swath of high-tech tools used by publishers, advertisers, and brokers, to facilitate digital advertising," prosecutors wrote in the suit on Tuesday.
+The Justice Department also drew attention to something that has been a thorn in the side of many struggling online publishers: the 30% cut it takes on all digital ads placed through its exchanges.
+"On average, Google keeps at least thirty cents — and sometimes far more — of each advertising dollar flowing from advertisers to website publishers through Google's ad tech tools," the suit states.
+That forced 2 million advertisers, including parts of the U.S. government, such as the military, to allegedly pay higher rates for ads. According to the suit, federal agencies and departments have purchased more than $100 million in web advertising since 2019 that allegedly included "supra-competitive fees" and "manipulated advertising prices."
+While the litigation is expected to drag on for some time, prosecutors took the extraordinary step of asking a federal judge to force Google to break up its advertising segment from the rest of the company. Around 80% of Google's revenue comes from its advertising business.
+Bloomberg noted that it marks the first time the Justice Department has pursued a major company breakup since the 1980, when the federal government dismantled the Bell telecommunications business over allegations that it was a monopoly.
+Across all U.S digital advertising, Google commands about 29% of the market, according to research firm Insider Intelligence. Facebook parent company Meta controls nearly 20% and Amazon is the third-largest player in online advertising, with an 11% marketshare.
+In a statement, Google said the advertising sector has plenty of competition and that prosecutors' case against the tech giant will make buying advertisements more expensive.
+"Today's lawsuit from the DOJ attempts to pick winners and losers in the highly competitive advertising technology sector," a Google spokesperson said. "DOJ is doubling down on a flawed argument that would slow innovation, raise advertising fees, and make it harder for thousands of small businesses and publishers to grow."
+As if 'Goldman or Citibank owned the NYSE'
+Authorities allege that the world of online advertising has been slanted to favor Google "for reasons that were neither accidental nor inevitable."
+For instance, in 2017, Google purchased DoubleClick, which makes widely used advertising tools, for $3.1 billion.
+It gave Google direct access to the inventory of website publishers and the ad-serving technology used by those publishers.
+Google also controls a major online advertising exchange where companies bid in real time to reach an intended audience on the Internet.
+The DoubleClick purchase gave the company power on both sides of online advertising commerce: Selling ads to publishers and influence over the tools publishers use to display ads, not to mention the online auction house where the transactions take place.
+Prosecutors claim Google abused that power by essentially rigging the system in Google's favor.
+The acquisition gave Google "the unilateral power to implement a series of anticompetitive restraints," meaning it allowed Google to build up barriers by locking customers into its system and making it difficult to seek out alternative ways of advertising online. Google used "its dominance on both the publisher and advertisers of the market to inhibit competition across the entire tech stack," authorities wrote in the suit.
+The complaint cites internal communication from a Google advertising executive who compared the company's power in multiple parts of the ad-selling process this way: "The analogy would be if Goldman or Citibank owned the NYSE," a reference to the New York Stock Exchange.
+They also describe how Facebook shuttered its own advertising exchange when it realized it would be "subject to one bottleneck and intermediary — Google."
+The suit has allegations similar to those in a lawsuit brought by a coalition of states in 2020 targeting Google's advertising business. A federal judge in September allowed the case to move forward, while narrowing the scope of the allegations.
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

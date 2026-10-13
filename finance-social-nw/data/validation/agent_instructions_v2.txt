@@ -1,0 +1,16 @@
+You are an independent LLM annotator for a research study. Work in /Users/vipularawte/finance-social-nw.
+
+1. Read the annotation prompt in data/validation/prompt_v2.txt.
+2. The batch file named in your task lists 20 item files (paths relative to the repo root). Each item file has the form:
+   TICKER_A: <ticker>
+   TICKER_B: <ticker>
+   POST:
+   <article text>
+3. For EACH item, read the whole item file yourself (view tool) and answer the prompt in prompt_v2.txt with {text}, {ticker_a}, {ticker_b} filled in. Apply the definitions carefully.
+
+STRICT RULES:
+- Read and judge every article yourself. Do NOT write or run any script, keyword heuristic, regex, or program to produce labels.
+- Do NOT open any other files: never open anything under data/processed, and never open out_*.jsonl, v2_*.jsonl or other batch files in data/validation.
+- Judge each item independently. relation must be exactly one of: causal-driver, substitute-comparison, co-hype, unrelated-mention.
+- When done, create the output file named in your task with exactly 20 lines, in the same order as the batch file, each a JSON object: {"id": "<4-digit file stem>", "relation": "...", "sentiment_alignment": <number>}
+- Do not modify any other file. Final reply: "done" and the line count.

@@ -1,0 +1,72 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By Denis Rezendes, CFA, Partner, Portfolio Manager
+What makes these AI models so interesting is that they flip our traditional understanding of computing upside down. Traditional computing relies on explicit programming and algorithms to perform specific tasks, with results and operations that are deterministic, and rule based. In contrast, new AI models use machine learning to analyze and generate data, learning from examples rather than following strict rule sets. These AI models display a level of adaptability and creativity in their respective domains that traditional computing methods can’t match but do so at the detriment of the predictability and accuracy that we’ve come to expect.
+As you delve into AI, you’ll encounter plenty of technical terms. Instead of getting bogged down by how these models work technically, concentrate on what they can do for you.
+Integrating AI into Your Practice
+Before integrating AI into your practice, it’s important to consider the regulatory implications. For more information on this topic, please see our guide “AI and the SEC: 6 Steps to Get Ahead of the AI Rule.” It’s important to remember that these are cloud-based products, and any information that you provide them is sent to their servers for processing and storage. We recommend that you do not input any sensitive information, client or otherwise, into AI tools without explicit approval from your Chief Compliance Officer.
+Start Small: Begin by integrating AI tools into one aspect of your work, like generating a draft template for a generic communication to clients or generating meetings notes from an internal committee meeting. As you grow more comfortable, you can explore further applications.
+Training and Support: Leverage training resources offered by AI tool providers. Many companies provide webinars, tutorials, and customer support to help you get the most out of their products.
+Feedback Loop: Use client and team feedback to refine how you use AI tools. This will ensure that these technologies are adding value to your services.
+Embracing AI: ChatGPT & MidJourney
+- Understanding ChatGPT
+What is it good at?
+ChatGPT can analyze and generate human-like text, aiding in tasks like summarizing documents, translating languages, drafting reports, and enhancing customer communication through chatbots or personalized content. It can grasp the nuances of language and maintains a working “memory” that allows for context awareness.
+What is it bad at?
+ChatGPT has a bad habit of “hallucinating,” where the model generates incorrect, unrealistic, or nonsensical information that is not supported by the input data or known facts.
+What other tools use similar technology?
+ChatGPT is the chat-bot wrapper for OpenAI’s GPT model. This type of model is called a transformer model and GPT stands for “Generative Pre-trained Transformers.” OpenAI has partnered with Microsoft to incorporate GPT into their Office suite of productivity tools (Excel, Word, PowerPoint, etc.) as well as their search engine, Bing. In response, Google, a leader in the AI field, has provided public access to one of its transformer models called Bard. If any of the software tools that you currently use, such as Zoom, Hubspot, or Salesforce to name a few, introduce text-based AI features they’re likely powered by transformer models.
+A quick example…
+We used ChatGPT to generate a template email for distributing our quarterly commentary. First, we provided the quarterly commentary text and told ChatGPT to reference that text any time we referenced the quarterly commentary. Next, we input the following prompt:
+“Using the provided investment commentary, produce a short template email to clients. The email should include a couple of bullet points introducing key topics in the commentary. The full commentary will be attached, and you may reference it. Please do not include any references to investment performance.”
+One of the advantages of ChatGPT is that you can provide it with detailed instructions in plain English. If you don’t like the output for some reason, you can simply provide instructions on how to change it. You will likely still need to edit the final output before use, but being able to iterate through generated text quickly allows you achieve a final product much faster. In response to the above prompt, we received the following output:
+Subject: Insights from Our Latest Investment Commentary – Key Trends and Market Outlook
+Dear [Client’s Name],
+I hope this email finds you well. As part of our commitment to keeping you informed about the financial landscape, we have prepared our latest investment commentary, “BCM 3Q23 Strategy & Market Commentary,” which provides a comprehensive analysis of the market trends and economic indicators observed in the third quarter of 2023.
+Enclosed with this email, you will find the full commentary. To give you a snapshot of the key themes:
+- Market Dynamics: The recent quarter experienced notable shifts in the market, characterized by rising interest rates and a cautious outlook from investors.
+- Strategic Adjustments: We discuss tactical moves and strategic adjustments made in response to these evolving market conditions.
+- Future Outlook: Insights into potential risks and opportunities are highlighted, providing a balanced view of the current investment landscape.
+Please take the time to read through the attached commentary for a more detailed analysis. Understanding these trends is vital for staying informed and making well-considered investment decisions.
+Should you have any questions or wish to discuss any aspect in more detail, please do not hesitate to contact me. We are always here to provide the guidance and support you need.
+Thank you for your continued trust in our services.
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]
+We may have to change a word here or there and add additional specifics to the bullet points, but in under a minute we have an email template that is close to complete or at least a strong foundation to work from.
+- Understanding MidJourney
+What is it good at?
+MidJourney is like a digital artist, adept at creating visual content from descriptions. It can generate high-quality, original visual content from textual descriptions and modify existing images or text, making it particularly useful for creating unique marketing materials, data visualizations, and artistic designs.
+What is it bad at?
+MidJourney does not inherently understand context and cannot accurately generate text within images. It may struggle with highly specific or technical requirements, especially those that require adherence to strict guidelines or precision.
+What other tools use similar technology?
+MidJourney is powered by a diffusion model that is maintained by an independent research laboratory. OpenAI offers an image generation model called DALL-E, and another well-known image generation model is Stable Diffusion, maintained by Stability AI. Additionally, graphics software providers, such as Adobe and Canva, have embraced diffusion models to add AI based image generation and editing features to their software.
+A quick example…
+There is an art to generating image prompts for the best results, but often you can achieve good results for generic images with straightforward prompts. MidJourney doesn’t understand sentence structure, so try to describe the image concisely, focusing on keywords. For example, a lot of our imagery is centered around photographs of mountains. We used the prompt below to generate an image, adding “photorealistic” so we receive realistic looking images:
+Photorealistic climber hiking snowy mountain, struggling to reach the top. Another hiker who is ahead reaches out to lend a hand. Perspective of struggling hiker.
+By default, MidJourney returns four images inspired by the prompt and allows you to create further variations of the images until you find what you’re looking for.
+The two images on the right dropped the second hiker somewhere along the way, but the two on the left captured the basic idea of what we were going for. Advanced editing is beyond the scope of this guide, but MidJourney does provide a few default options that allow you to easily make variations of an image or to edit certain regions. In this case, we liked the upper left image but wanted to see a few variations of the background.
+Now we have a few more options to work with. They’re not perfectly photorealistic and may require some additional editing but we can continue to iterate with different prompts and keywords until we generate exactly what we’re looking for. Often the creative variations that are generated along the way spur additional ideas, enhancing the creative process.
+Conclusion
+Embracing AI doesn’t have to be a leap into the unknown. By understanding the basics of the tools that are available, you can start leveraging these tools to increase efficiency and enhance the services that you provide to your clients. Remember, the key is to use AI as an assistant that complements your expertise and leverages your ability to add value to your client relationships.
+Now that you have an idea of how you can start using AI in your practice, we wanted to remind you about our upcoming webinar next week that will give you a deeper understanding of how Asset Managers are using AI in their investment processes. Even if you can’t make the live webinar, register and we will be sure to send you the replay.
+Webinar: Demystifying AI in Asset Management and its Use in the Investment Process
+Date: Wednesday, December 6th
+Time: 11:00 AM EST
+As we’ve been talking about in our recent content, recent breakthroughs in Artificial Intelligence, and its use more broadly across asset management, have placed quantitative investment managers in the spotlight.
+This means, as an advisor or gatekeeper, there is an urgency to understand how asset managers you may be using are applying AI to their investment processes.
+Join us for a 45-minute webinar and you’ll walk away with a better understanding of:
+- AI and how it’s being applied to investing and asset management
+- Why its application to investing is more complicated than other everyday applications of AI
+- What to look for in an AI-based Asset Manager
+- How we are applying AI to our Machine learning-based investment solutions
+We look forward to seeing you there!
+Read more of our AI focused content on our blog: blog.investbcm.com
+Disclosures:
+Beaumont Capital Management, LLC is registered with the Securities and Exchange Commission (SEC). Registration does not imply any specific skill or training and does not constitute an endorsement of the firm by the commission.
+This material is provided for informational purposes only and does not in any sense constitute a solicitation or offer for the purchase or sale of securities nor does it constitute investment advice for any person or a recommendation to take any action. Investment themes and individual securities mentioned may or may not be held in any or all client accounts. The views expressed are subject to change based on the market and other conditions. The information presented in this report is based on data obtained from third party sources. Although it is believed to be accurate, no representation or warranty is made as to its accuracy or completeness.
+The commentary included is the opinion of the author and subject to change at any time. Any reference to specific securities, investments or strategies is for illustrative purposes only and is not intended as investment advice nor are they a recommendation to take any action. Past performance is no guarantee of future results.
+There is no guarantee that the investment objectives will be achieved.
+For more news, information, and analysis, visit the ETF Strategist Channel.

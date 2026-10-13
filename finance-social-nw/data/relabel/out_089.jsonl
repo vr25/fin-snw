@@ -1,0 +1,20 @@
+{"id": "1780", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ACCESS Newswire 10 Dec 2025,", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1781", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Paris stock exchange opened", "relation": "co-hype", "sentiment_alignment": -0.7}
+{"id": "1782", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "What Happened? Shares of computer", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1783", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Open AI, Microsoft face lawsuit", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1784", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Better Business Bureau warns holiday", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1785", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Both Microsoft (MSFT +3.66%)", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "1786", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Both Microsoft (MSFT +3.66%)", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1787", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Both Microsoft (MSFT +3.66%)", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1788", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Follow ZDNET: Add us as", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1789", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "NEW YORK – The U.S.", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1790", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "BNB drops nearly 3% to", "relation": "co-hype", "sentiment_alignment": -0.7}
+{"id": "1791", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "Asian stocks fell sharply on", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "1792", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Asian stocks fell sharply on", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "1793", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Asian stocks fell sharply on", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "1794", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In 2025, you'd be hard-pressed", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1795", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1796", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Quick Read - Elon Musk is", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1797", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Michael Burry Asks For Photos", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "1798", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1799", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Missing Winn Parish Man Found", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

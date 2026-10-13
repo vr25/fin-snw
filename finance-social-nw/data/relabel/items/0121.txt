@@ -1,0 +1,15 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+OKLAHOMA CITY, March 9, 2023 /PRNewswire/ -- In line with its push into the generative A.I. space, Microsoft will feature Tailwind Ghostwriter – an innovative A.I. copywriter for small business marketing– in its Edge extension store beginning March 8, 2023.
+Tailwind and Microsoft have partnered before with Tailwind serving as the exclusive content creator platform to supply Microsoft Start. Tailwind is a small business marketing suite making A.I. solutions viable and sustainable for its one-million plus user base.
+"Tailwind is an excellent partner for us at Microsoft," says Ashish Jaiman, product leader for Microsoft Bing. "They move quickly, come up with innovative solutions, and find paths to mutual value. Very impressive!"
+Having Tailwind Ghostwriter available in the Edge browser extension delivers on Tailwind's vision to help entrepreneurs, creators, sellers and marketers plan, create and execute world-class marketing campaigns.
+"With the Tailwind extension, we are bringing the tools that our users need to them, wherever they create digital marketng," says Daniel Maloney, Tailwind co-founder and CEO. "With the extension, our members can access powerful A.I. tools for email without leaving their email service provider, or use the A.I. blog post writer while still in Wordpress, or the A.I. caption creator while on Instagram."
+"The Ghostwriter extension makes it easy and quick to generate high-quality content from any webpage," says Lori Brasseur, Ta. "This extension takes the hassle out of having multiple programs and pages open to write your content because the extension is right there whenever you need it."
+Launched in 2015, Tailwind is a leading small business marketing platform that has helped over 1 million entrepreneurs, sellers, creators and marketers plan, create and execute world-class marketing campaigns across digital marketing platforms including Email marketing, Facebook, Instagram and Pinterest. Tailwind is a cutting edge provider of generative A.I. content for small business marketing.
+Enquiries
+For additional information on Tailwind or enquiries of your involvement in future fundraising activity, please email [email protected].
+View original content:https://www.prnewswire.com/news-releases/tailwind-ai-copywriter-is-editors-pick-for-microsoft-edge-extension-users-301768247.html
+SOURCE Bridesview Inc. dba Tailwind
+[ Back To TMCnet.com's Homepage ]

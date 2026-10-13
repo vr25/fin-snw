@@ -1,0 +1,20 @@
+{"id": "1400", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Apple stock dropped nearly 4% on", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1401", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "THE New York Times reported:", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1402", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Training & Security Leadership Targeted", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1403", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "How Sam Altman was fired", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1404", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1405", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1406", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1407", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1408", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1409", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Wall Street weakened Monday as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1410", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US stocks extend the", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1411", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "- CNBC's Jim Cramer on", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1412", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "NEW YORK, April 22, 2025", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1413", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Technology and Social Networks Remain", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1414", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Technology and Social Networks Remain", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1415", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Technology and Social Networks Remain", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1416", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Target, Nvidia and American", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1417", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Target, Nvidia and American", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1418", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Target, Nvidia and American", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1419", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "NEW YORK — Big Tech", "relation": "co-hype", "sentiment_alignment": 1}

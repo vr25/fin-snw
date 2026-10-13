@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By Katie Paul
+NEW YORK (Reuters) – U.S. lawmakers questioned tech executives on Wednesday about their preparations for battling foreign disinformation threats ahead of elections in November, with both the senators and executives identifying the 48 hours around Election Day as the most vulnerable time.
+“There is a potential moment of peril ahead. Today we are 48 days away from the election… the most perilous moment will come, I think, 48 hours before the election,” Microsoft President Brad Smith testified at the hearing, held by the U.S. Senate Intelligence Committee.
+Senator Mark Warner, who chairs the panel, agreed with Smith but said the 48 hours after the polls close on Nov. 5 could be “equally if not more significant,” especially if the election is close.
+Policy executives from Google and Meta, which owns Facebook, Instagram and WhatsApp, also testified at the hearing.
+Elon Musk’s X was invited to testify but declined, several senators said. An X spokesperson said the reason was that the company’s invited witness, former head of global affairs Nick Pickles, had resigned earlier this month.
+TikTok was not invited to participate, according to a company spokesperson.
+To illustrate his concern about the time immediately before people vote, Smith referred to a case from Slovakia’s 2023 election, in which a purported voice recording of a party leader talking about rigging the vote emerged shortly before the election and spread online. The recording was fake.
+Warner and other senators also pointed to tactics revealed in a U.S. crackdown on alleged Russian influence efforts earlier this month, involving fake websites made to look like real U.S. news organizations including Fox News and the Washington Post.
+“How does this get through? How do we know how extensive this is?” Warner asked the executives. He requested that the companies share data with the committee by next week showing how many Americans viewed the content and how many advertisements ran to promote it.
+Tech companies have largely embraced labeling and watermarking to address risks posed by new generative artificial intelligence technologies, which have made fake but realistic-seeming images, audio and video easy to produce and raised concerns about their impact on elections.
+Asked how the companies would react if such a deepfake of a political candidate were to surface immediately before the elections, Smith and Meta’s President of Global Affairs Nick Clegg both said their companies would apply labels to the content.
+Clegg said Meta also potentially would suppress its circulation.
+(Reporting by Katie Paul; editing by Diane Craft)

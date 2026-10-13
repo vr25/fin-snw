@@ -1,0 +1,25 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+By STAN CHOE, AP Business Writer
+NEW YORK (AP) — Another sudden reversal for high-flying artificial-intelligence stocks sent Wall Street reeling on Tuesday.
+The S&P 500 fell 0.3% after careening between an initial gain of 1% and a midday loss of 2.3%, pulling further from its all-time high set a week ago. After similar yo-yo moves, the Dow Jones Industrial Average added 86 points, or 0.2%, and the Nasdaq composite dropped 1%.
+Indexes swung lower after companies selling computer chips, memory and other building blocks of the AI boom broke from early gains to losses. Micron Technology went from a jump of 4% to a plummet of 10%, for example, before finishing with a drop of 1.4%. That’s a day after it soared 9.9% and two days after it plunged 13.3%.
+The computer memory company’s stock has already tripled so far this year, raising criticism that it’s gone too far, too fast. Following last week’s industrywide sell-off, the question is whether AI stocks broadly are heading for a long downturn or just needed a shake-out to get rid of excessive optimism.
+Marvell Technology dropped 7.6%, and Advanced Micro Devices sank 3% after both AI winners also erased early-morning gains.
+All the while, several big-name AI companies are racing to list their stocks on a U.S. exchange and sell them at high prices. OpenAI, the maker of ChatGPT, said Monday it was the latest to file confidential paperwork with U.S. regulators top open the door for an initial public offering. SpaceX’s IPO could happen later this week.
+The weakness for AI stocks drowned out the benefit Wall Street got from easing oil prices. Nearly three out of every four stocks within the S&P 500 rose, despite the sharp swings for the overall index, as the price for a barrel of Brent crude oil sank 3% to $91.45.
+Oil prices have been unsteady as hopes rise and fade that the United States and Iran can reach a deal to reopen the Strait of Hormuz. A reopening would allow oil tankers to resume delivering crude from the Persian Gulf to customers worldwide.
+Oil prices pared their losses, though, after President Donald Trump said Iran was responsible for downing an American military helicopter near the Strait of Hormuz and that the United States “must” respond to the attack.
+High oil prices caused by the war with Iran have already created a painful acceleration of inflation for U.S. shoppers. They have also pushed bond yields higher worldwide, raising the pressure on stock prices.
+Treasury yields eased Tuesday with the fade in oil prices, relaxing some of that pressure. The yield on the 10-year Treasury fell to 4.52% from 4.56% late Monday, though it’s still well above its 3.97% level from before the war with Iran.
+The latest monthly updates on U.S. inflation will arrive later in the week, with one on consumer prices coming Wednesday and one on wholesale prices coming Thursday.
+Inflation is high enough, and the U.S. job market looks strong enough, that traders on Wall Street largely expect the Federal Reserve will have to raise its main interest rate at least once by the end of this year. Higher interest rates would keep a lid on inflation, but they would also threaten to slow the economy and undercut prices for stocks and all kinds of other investments.
+The average long-term U.S. mortgage rate recently hit its highest level in nine months, and high costs to borrow money could discourage the building of AI data centers that are fueling the U.S. economy’s growth.
+On Wall Street, airline stocks flew higher after the drop in oil prices hinted at less pressure on their fuel bills. American Airlines rose 3.6%, and Delta Air Lines gained 3.8%.
+J.M. Smucker jumped 10.4% after reporting a stronger profit for the latest quarter than analysts expected. The company behind the Folgers, Hostess and other brands benefited from higher prices charged for coffee and sweet baked goods. It joined a long list of U.S. companies delivering stronger profit growth than analysts expected, which has helped drive the S&P 500 to record after record this year.
+Nuvalent soared 39.3% after GSK agreed to buy the biotech company for $10.6 billion. The shares of U.K.-based GSK that trade in New York added 1.2%.
+All told, the S&P 500 slipped 19.08 points to 7,386.65. The Dow Jones Industrial Average added 86.10 to 50,872.11, and the Nasdaq composite fell 250.84 to 25,678.82.
+In stock markets abroad, indexes dipped in Europe following bigger moves in Asia.
+South Korea’s Kospi jumped 8.2% and nearly recovered Monday’s plunge of 8.3%. It’s been beholden to the performance of big tech stocks like SK Hynix and Samsung Electronics.
+AP Business Writers Matt Ott and Elaine Kurtenbach contributed to this report.

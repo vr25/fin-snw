@@ -1,0 +1,40 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Welcome back to Lately, The Globe’s weekly tech newsletter.
+In this week’s issue:
+🛍️ Shein, Temu and the rise of ultra-cheap e-commerce
+🥷 What took Ticketmaster so long to notify customers about their hack?
+🤥 AI is better at detecting lies than humans
+🎙️ A must-listen podcast for tech types and entrepreneurs
+Ticketmaster finally notifies Canadians customers about data breach
+Nearly two months after a user going by “ShinyHunters” posted on a hacker forum that they were selling the personal data of millions of Ticketmaster accounts, the company has finally notified Canadian customers potentially affected by the breach. Better late than never, I guess.
+In an e-mail on Monday, Ticketmaster said that, on May 23, it learned that some customers’ personal data may have been stolen, such as names, e-mail addresses, phone numbers or encrypted credit-card information. Affected customers can register for a 12-month free identity monitoring service that will send alerts if any of their personal information ends up on the dark web.
+That’s a small consolation for customers, many of whom took to social media to express their frustrations about having to cancel credit cards, and other evergreen gripes such as exorbitant fees and glitchy presales.
+Shein, Temu and the rise of super-cheap online shopping
+Are you looking for crocheted bikini tops or fuzzy cat ears for your motorcycle helmet? Or how about Scandinavian minimalist silicone utensil sets – or a mushroom-shaped table lamp? And do you want to spend less than $20 on all of the above? No problem: Shein and Temu have you covered.
+The Chinese e-commerce sites have become hugely popular in the past few years by offering a massive inventory, dirt cheap prices and a gamified shopping experience. (See: flashy countdown clocks for sales and spinning roulette wheels for coupon codes.)
+One-third of Canadians have shopped on Shein or Temu in the past year, according to a survey by marketing platform Omnisend. In a bid to fend off its competitors, Amazon plans to launch its own discount store with no-name products shipped directly from China. But these ultra-cheap e-commerce platforms also also raise a flurry of ethical questions. On this week’s episode of Lately, journalist Louise Matsakis dives into the secretive world of made-in-China e-commerce, the stakes for competitors and the ethical concerns for consumers who want to shop responsibly and affordably.
+The Star Trek-inspired Vancouver company making 3-D printed live tissue
+For Vancouver-based bioscience company Aspect Biosystems, it all started on the USS Enterprise. Back in 2011, Tamer Mohamed and his other co-founders were researching ways to create advanced printing technology that could “print” biological structures, when they remembered the replicator, a machine in the Star Trek universe that could instantly produce food and drinks on demand.
+That sparked an a-ha moment, and the team started developing specialized 3-D printers that could create synthetic live tissues that can be implanted in damaged livers and pancreas to repair functions – a game changer for treating diseases like Type 1 diabetes.
+Last year, the company inked a blockbuster US$75-million development deal with Novo Nordisk – the Danish company behind Ozempic – to fund its research and take an undisclosed ownership stake. And this week, Aspect received $73-million in government funding to build a biomanufacturing facility in B.C.
+As my colleague, Sean Silcoff, explains, Aspect is part of a group of up-and-coming Vancouver-area companies bent on establishing the city as a major player in the global pharmaceutical industry.
+Polygraph test, meet artificial intelligence
+What else we’re reading this week:
+‘We’re living in a nightmare:’ Inside the health crisis of a Texas Bitcoin town (TIME)
+Could AIs become conscious? Right now, we have no way to tell (Ars Technica)
+Thermonuclear blasts and new species: Inside Elon Musk’s plan to colonize Mars (New York Times)
+Soundbite:
+“Shein and Temu are coming from this place of: what if shopping were a form of entertainment?” – Tech journalist Louise Matsakis on the rise of ultra-cheap e-commerce, as heard on this week’s episode of Lately.
+Adult Money
+FoodCycler, $800
+Kitchen compost bins can be a smelly business, which is why a slew of new companies are offering high-tech machines that can turn food scraps into garden fertilizers. One of these gadgets is from the Canadian company FoodCycler, which dries and grinds food waste and uses carbon filters to minimize foul odours.
+The end result looks similar to coffee grounds, and can be either added to gardens or disposed of in regular compost bins. These machines aren’t cheap at $800, so if you’re not ready for the splurge, allow me to introduce my method: Keep the compost bin in the freezer. It traps in the stink, and since you’re forced to use a small bin, you can’t let it get overloaded.
+Culture radar:
+In this week’s Culture Radar, Silcoff makes a special guest appearance to recommend a must-listen podcast, The Acquired. (Want more podcast recommendations from Globe staffers? Head here.)
+“Want to listen to two venture capitalists chit-chat about the history of Nvidia for seven hours or Berkshire Hathaway for nine? The Acquired podcast is a favourite of CEOs and tech types with hosts Ben Gilbert and David Rosenthal digging into the histories of storied corporate institutions, ranging from Costco and Lockheed Martin to the NFL.
+“Their deeply researched but engaging, casually conversational explorations of origin stories, personalities and strategies can stretch for hours and multiple episodes, but it’s a novel and accessible form of business narrative. I recently spent half a trip to Boston listening to the fascinating history of Ozempic maker Novo Nordisk and much of the return trip learning about Microsoft’s first 20 years. Next up for me is a tossup between Visa and Porsche.”
+Other tech and telecom news:
+Microsoft ditches OpenAI board observer seat to stave off antitrust scrutiny
+China leads the world in adoption of generative AI, survey shows

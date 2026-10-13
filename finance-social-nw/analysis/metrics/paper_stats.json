@@ -1,0 +1,1279 @@
+{
+ "corpus": {
+  "articles": 1496,
+  "unique_urls": 1496,
+  "relations": 2193,
+  "first_relation": "2022-11-01",
+  "last_relation": "2026-06-22",
+  "tickers_in_relations": [
+   "AMD",
+   "AVGO",
+   "GOOGL",
+   "IONQ",
+   "META",
+   "MSFT",
+   "NVDA",
+   "PLTR",
+   "SMCI"
+  ],
+  "post_keys": [
+   "created_at",
+   "domain",
+   "source",
+   "text",
+   "tickers",
+   "url"
+  ]
+ },
+ "mentions_by_ticker": {
+  "GOOGL": 1387,
+  "MSFT": 1138,
+  "META": 864,
+  "NVDA": 718,
+  "AVGO": 154,
+  "AMD": 80,
+  "SMCI": 29,
+  "PLTR": 10,
+  "IONQ": 6
+ },
+ "relation_distribution": {
+  "all": {
+   "causal-driver": 127,
+   "substitute-comparison": 237,
+   "co-hype": 889,
+   "unrelated-mention": 940
+  },
+  "early": {
+   "causal-driver": 11,
+   "substitute-comparison": 27,
+   "co-hype": 102,
+   "unrelated-mention": 119,
+   "total": 259
+  },
+  "late": {
+   "causal-driver": 116,
+   "substitute-comparison": 210,
+   "co-hype": 787,
+   "unrelated-mention": 821,
+   "total": 1934
+  },
+  "pre_launch": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 6,
+   "unrelated-mention": 14,
+   "total": 20
+  }
+ },
+ "sentiment": {
+  "early": {
+   "n": 259,
+   "mean": 0.031,
+   "std": 0.403,
+   "median": 0.0
+  },
+  "late": {
+   "n": 1934,
+   "mean": 0.208,
+   "std": 0.499,
+   "median": 0.0
+  }
+ },
+ "sentiment_by_relation": {
+  "causal-driver": {
+   "n": 127,
+   "mean": 0.489,
+   "std": 0.536,
+   "median": 0.7
+  },
+  "substitute-comparison": {
+   "n": 237,
+   "mean": 0.007,
+   "std": 0.584,
+   "median": 0.0
+  },
+  "co-hype": {
+   "n": 889,
+   "mean": 0.371,
+   "std": 0.564,
+   "median": 0.5
+  },
+  "unrelated-mention": {
+   "n": 940,
+   "mean": 0.018,
+   "std": 0.24,
+   "median": 0.0
+  }
+ },
+ "sentiment_by_sector_pair": {
+  "GPU-GPU/early": {
+   "n": 1,
+   "mean": 0.8,
+   "std": null,
+   "median": 0.8
+  },
+  "GPU-GPU/late": {
+   "n": 140,
+   "mean": 0.281,
+   "std": 0.598,
+   "median": 0.35
+  },
+  "Cloud-Cloud/early": {
+   "n": 233,
+   "mean": -0.006,
+   "std": 0.384,
+   "median": 0.0
+  },
+  "Cloud-Cloud/late": {
+   "n": 1116,
+   "mean": 0.141,
+   "std": 0.469,
+   "median": 0.0
+  },
+  "GPU-Cloud/early": {
+   "n": 22,
+   "mean": 0.327,
+   "std": 0.447,
+   "median": 0.3
+  },
+  "GPU-Cloud/late": {
+   "n": 675,
+   "mean": 0.302,
+   "std": 0.507,
+   "median": 0.0
+  },
+  "GPU-Speculative/early": {
+   "n": 1,
+   "mean": 0.5,
+   "std": null,
+   "median": 0.5
+  },
+  "GPU-Speculative/late": {
+   "n": 1,
+   "mean": 1.0,
+   "std": null,
+   "median": 1.0
+  },
+  "Cloud-Speculative/early": {
+   "n": 2,
+   "mean": 0.5,
+   "std": 0.0,
+   "median": 0.5
+  },
+  "Cloud-Speculative/late": {
+   "n": 2,
+   "mean": 0.15,
+   "std": 0.212,
+   "median": 0.15
+  }
+ },
+ "sector_network": {
+  "GPU": {
+   "early": {
+    "edges": 1,
+    "density": 0.167,
+    "avg_clustering": 0.0
+   },
+   "late": {
+    "edges": 6,
+    "density": 1.0,
+    "avg_clustering": 1.0
+   }
+  },
+  "Cloud": {
+   "early": {
+    "edges": 4,
+    "density": 0.667,
+    "avg_clustering": 0.583
+   },
+   "late": {
+    "edges": 6,
+    "density": 1.0,
+    "avg_clustering": 1.0
+   }
+  },
+  "Speculative": {
+   "early": {
+    "edges": 0,
+    "density": 0.0,
+    "avg_clustering": 0.0
+   },
+   "late": {
+    "edges": 0,
+    "density": 0.0,
+    "avg_clustering": 0.0
+   }
+  },
+  "Control": {
+   "early": {
+    "edges": 0,
+    "density": 0.0,
+    "avg_clustering": 0.0
+   },
+   "late": {
+    "edges": 0,
+    "density": 0.0,
+    "avg_clustering": 0.0
+   }
+  }
+ },
+ "full_network": {
+  "early": {
+   "active_nodes": 7,
+   "edges": 13,
+   "density_active": 0.619,
+   "betweenness": {
+    "META": 0.333,
+    "NVDA": 0.111,
+    "MSFT": 0.111,
+    "GOOGL": 0.111,
+    "AVGO": 0.0,
+    "IONQ": 0.0,
+    "PLTR": 0.0
+   },
+   "degree": {
+    "NVDA": 5,
+    "MSFT": 5,
+    "GOOGL": 5,
+    "META": 4,
+    "AVGO": 3,
+    "IONQ": 3,
+    "PLTR": 1
+   }
+  },
+  "late": {
+   "active_nodes": 9,
+   "edges": 30,
+   "density_active": 0.833,
+   "betweenness": {
+    "AVGO": 0.065,
+    "MSFT": 0.065,
+    "GOOGL": 0.065,
+    "NVDA": 0.006,
+    "AMD": 0.006,
+    "META": 0.006,
+    "SMCI": 0.0,
+    "PLTR": 0.0,
+    "IONQ": 0.0
+   },
+   "degree": {
+    "AVGO": 8,
+    "MSFT": 8,
+    "GOOGL": 8,
+    "NVDA": 7,
+    "AMD": 7,
+    "META": 7,
+    "SMCI": 6,
+    "PLTR": 6,
+    "IONQ": 3
+   }
+  }
+ },
+ "cross_sector_relations": {
+  "GPU-GPU/early": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 1,
+   "unrelated-mention": 0,
+   "total": 1
+  },
+  "GPU-GPU/late": {
+   "causal-driver": 11,
+   "substitute-comparison": 38,
+   "co-hype": 56,
+   "unrelated-mention": 35,
+   "total": 140
+  },
+  "GPU-GPU/all": {
+   "causal-driver": 11,
+   "substitute-comparison": 38,
+   "co-hype": 57,
+   "unrelated-mention": 35,
+   "total": 141
+  },
+  "Cloud-Cloud/early": {
+   "causal-driver": 5,
+   "substitute-comparison": 27,
+   "co-hype": 91,
+   "unrelated-mention": 110,
+   "total": 233
+  },
+  "Cloud-Cloud/late": {
+   "causal-driver": 14,
+   "substitute-comparison": 137,
+   "co-hype": 428,
+   "unrelated-mention": 537,
+   "total": 1116
+  },
+  "Cloud-Cloud/all": {
+   "causal-driver": 19,
+   "substitute-comparison": 164,
+   "co-hype": 519,
+   "unrelated-mention": 647,
+   "total": 1349
+  },
+  "GPU-Cloud/early": {
+   "causal-driver": 6,
+   "substitute-comparison": 0,
+   "co-hype": 7,
+   "unrelated-mention": 9,
+   "total": 22
+  },
+  "GPU-Cloud/late": {
+   "causal-driver": 90,
+   "substitute-comparison": 35,
+   "co-hype": 302,
+   "unrelated-mention": 248,
+   "total": 675
+  },
+  "GPU-Cloud/all": {
+   "causal-driver": 96,
+   "substitute-comparison": 35,
+   "co-hype": 309,
+   "unrelated-mention": 257,
+   "total": 697
+  },
+  "GPU-Speculative/early": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 1,
+   "unrelated-mention": 0,
+   "total": 1
+  },
+  "GPU-Speculative/late": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 1,
+   "total": 1
+  },
+  "GPU-Speculative/all": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 1,
+   "unrelated-mention": 1,
+   "total": 2
+  },
+  "Cloud-Speculative/early": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 2,
+   "unrelated-mention": 0,
+   "total": 2
+  },
+  "Cloud-Speculative/late": {
+   "causal-driver": 1,
+   "substitute-comparison": 0,
+   "co-hype": 1,
+   "unrelated-mention": 0,
+   "total": 2
+  },
+  "Cloud-Speculative/all": {
+   "causal-driver": 1,
+   "substitute-comparison": 0,
+   "co-hype": 3,
+   "unrelated-mention": 0,
+   "total": 4
+  },
+  "GPU-Control/early": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  },
+  "GPU-Control/late": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  },
+  "GPU-Control/all": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  },
+  "Cloud-Control/early": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  },
+  "Cloud-Control/late": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  },
+  "Cloud-Control/all": {
+   "causal-driver": 0,
+   "substitute-comparison": 0,
+   "co-hype": 0,
+   "unrelated-mention": 0,
+   "total": 0
+  }
+ },
+ "homophily_gpu_cloud": {
+  "early": {
+   "causal": 6,
+   "substitute": 0,
+   "H=causal/(sub+1)": 6.0
+  },
+  "late": {
+   "causal": 90,
+   "substitute": 35,
+   "H=causal/(sub+1)": 2.5
+  }
+ },
+ "pairs": {
+  "GOOGL-META": {
+   "early": 95,
+   "late": 487,
+   "early_causal": 1,
+   "late_causal": 6,
+   "late_sub": 37
+  },
+  "GOOGL-MSFT": {
+   "early": 97,
+   "late": 481,
+   "early_causal": 3,
+   "late_causal": 8,
+   "late_sub": 93
+  },
+  "MSFT-NVDA": {
+   "early": 9,
+   "late": 301,
+   "early_causal": 3,
+   "late_causal": 49,
+   "late_sub": 18
+  },
+  "GOOGL-NVDA": {
+   "early": 8,
+   "late": 187,
+   "early_causal": 3,
+   "late_causal": 23,
+   "late_sub": 14
+  },
+  "META-MSFT": {
+   "early": 40,
+   "late": 143,
+   "early_causal": 1,
+   "late_causal": 0,
+   "late_sub": 7
+  },
+  "META-NVDA": {
+   "early": 3,
+   "late": 81,
+   "early_causal": 0,
+   "late_causal": 7,
+   "late_sub": 3
+  },
+  "AVGO-NVDA": {
+   "early": 1,
+   "late": 72,
+   "early_causal": 0,
+   "late_causal": 1,
+   "late_sub": 18
+  },
+  "AVGO-MSFT": {
+   "early": 1,
+   "late": 39,
+   "early_causal": 0,
+   "late_causal": 2,
+   "late_sub": 0
+  },
+  "AMD-NVDA": {
+   "early": 0,
+   "late": 36,
+   "early_causal": 0,
+   "late_causal": 2,
+   "late_sub": 17
+  },
+  "AVGO-GOOGL": {
+   "early": 1,
+   "late": 18,
+   "early_causal": 0,
+   "late_causal": 4,
+   "late_sub": 0
+  },
+  "AMD-MSFT": {
+   "early": 0,
+   "late": 18,
+   "early_causal": 0,
+   "late_causal": 4,
+   "late_sub": 0
+  },
+  "NVDA-SMCI": {
+   "early": 0,
+   "late": 17,
+   "early_causal": 0,
+   "late_causal": 8,
+   "late_sub": 2
+  },
+  "AMD-AVGO": {
+   "early": 0,
+   "late": 13,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 1
+  },
+  "AMD-GOOGL": {
+   "early": 0,
+   "late": 8,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AVGO-META": {
+   "early": 0,
+   "late": 6,
+   "early_causal": 0,
+   "late_causal": 1,
+   "late_sub": 0
+  },
+  "MSFT-SMCI": {
+   "early": 0,
+   "late": 5,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "META-PLTR": {
+   "early": 1,
+   "late": 2,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AMD-META": {
+   "early": 0,
+   "late": 3,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "META-SMCI": {
+   "early": 0,
+   "late": 3,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "GOOGL-IONQ": {
+   "early": 1,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 1,
+   "late_sub": 0
+  },
+  "IONQ-MSFT": {
+   "early": 1,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "GOOGL-SMCI": {
+   "early": 0,
+   "late": 2,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "MSFT-PLTR": {
+   "early": 0,
+   "late": 2,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "NVDA-PLTR": {
+   "early": 0,
+   "late": 2,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "IONQ-NVDA": {
+   "early": 1,
+   "late": 0,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AVGO-IONQ": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AMD-SMCI": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AVGO-SMCI": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "GOOGL-PLTR": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AVGO-PLTR": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  },
+  "AMD-PLTR": {
+   "early": 0,
+   "late": 1,
+   "early_causal": 0,
+   "late_causal": 0,
+   "late_sub": 0
+  }
+ },
+ "price_window": [
+  "2022-11-01",
+  "2026-09-25",
+  978
+ ],
+ "total_return_pct": {
+  "AMD": 957.04,
+  "AVGO": 699.603,
+  "BBAI": 122.222,
+  "GOOGL": 283.765,
+  "IONQ": 710.695,
+  "KO": 65.43,
+  "META": 697.121,
+  "MSFT": 133.757,
+  "NVDA": 1567.875,
+  "PG": 19.548,
+  "PLTR": 2092.717,
+  "RGTI": 786.17,
+  "SMCI": 502.004,
+  "SOUN": 131.801,
+  "XOM": 63.591
+ },
+ "return_to_end2023_pct": {
+  "AMD": 147.083,
+  "AVGO": 146.031,
+  "BBAI": 69.841,
+  "GOOGL": 54.405,
+  "IONQ": 120.856,
+  "KO": 2.65,
+  "META": 271.807,
+  "MSFT": 66.737,
+  "NVDA": 265.921,
+  "PG": 11.403,
+  "PLTR": 98.497,
+  "RGTI": -47.606,
+  "SMCI": 295.575,
+  "SOUN": -18.774,
+  "XOM": -6.866
+ },
+ "corr_full_period": {
+  "GPU-GPU": 0.502,
+  "Cloud-Cloud": 0.397,
+  "Speculative-Speculative": 0.379,
+  "Control-Control": 0.269,
+  "GPU-Cloud": 0.342,
+  "GPU-Speculative": 0.231,
+  "Cloud-Speculative": 0.213,
+  "GPU-Control": -0.078,
+  "Cloud-Control": 0.0,
+  "Speculative-Control": -0.024
+ },
+ "corr_by_period": {
+  "early": {
+   "GPU-GPU": 0.543,
+   "Cloud-Cloud": 0.568,
+   "Speculative-Speculative": 0.27,
+   "Control-Control": 0.386,
+   "GPU-Cloud": 0.453,
+   "GPU-Speculative": 0.172,
+   "Cloud-Speculative": 0.181,
+   "GPU-Control": 0.276,
+   "Cloud-Control": 0.221,
+   "Speculative-Control": 0.064
+  },
+  "late": {
+   "GPU-GPU": 0.5,
+   "Cloud-Cloud": 0.361,
+   "Speculative-Speculative": 0.475,
+   "Control-Control": 0.253,
+   "GPU-Cloud": 0.33,
+   "GPU-Speculative": 0.274,
+   "Cloud-Speculative": 0.25,
+   "GPU-Control": -0.118,
+   "Cloud-Control": -0.039,
+   "Speculative-Control": -0.035
+  }
+ },
+ "corr_matrix": {
+  "NVDA": {
+   "NVDA": 1.0,
+   "AMD": 0.578,
+   "AVGO": 0.601,
+   "SMCI": 0.482,
+   "MSFT": 0.477,
+   "GOOGL": 0.393,
+   "META": 0.428,
+   "PLTR": 0.389,
+   "BBAI": 0.157,
+   "IONQ": 0.302,
+   "RGTI": 0.225,
+   "SOUN": 0.203,
+   "KO": -0.144,
+   "PG": -0.119,
+   "XOM": -0.008
+  },
+  "AMD": {
+   "NVDA": 0.578,
+   "AMD": 1.0,
+   "AVGO": 0.496,
+   "SMCI": 0.457,
+   "MSFT": 0.373,
+   "GOOGL": 0.383,
+   "META": 0.367,
+   "PLTR": 0.335,
+   "BBAI": 0.146,
+   "IONQ": 0.326,
+   "RGTI": 0.263,
+   "SOUN": 0.172,
+   "KO": -0.128,
+   "PG": -0.082,
+   "XOM": 0.014
+  },
+  "AVGO": {
+   "NVDA": 0.601,
+   "AMD": 0.496,
+   "AVGO": 1.0,
+   "SMCI": 0.399,
+   "MSFT": 0.375,
+   "GOOGL": 0.356,
+   "META": 0.346,
+   "PLTR": 0.357,
+   "BBAI": 0.16,
+   "IONQ": 0.326,
+   "RGTI": 0.275,
+   "SOUN": 0.228,
+   "KO": -0.149,
+   "PG": -0.114,
+   "XOM": 0.0
+  },
+  "SMCI": {
+   "NVDA": 0.482,
+   "AMD": 0.457,
+   "AVGO": 0.399,
+   "SMCI": 1.0,
+   "MSFT": 0.252,
+   "GOOGL": 0.165,
+   "META": 0.215,
+   "PLTR": 0.259,
+   "BBAI": 0.194,
+   "IONQ": 0.271,
+   "RGTI": 0.248,
+   "SOUN": 0.202,
+   "KO": -0.131,
+   "PG": -0.072,
+   "XOM": 0.0
+  },
+  "MSFT": {
+   "NVDA": 0.477,
+   "AMD": 0.373,
+   "AVGO": 0.375,
+   "SMCI": 0.252,
+   "MSFT": 1.0,
+   "GOOGL": 0.43,
+   "META": 0.459,
+   "PLTR": 0.384,
+   "BBAI": 0.123,
+   "IONQ": 0.295,
+   "RGTI": 0.197,
+   "SOUN": 0.187,
+   "KO": 0.018,
+   "PG": 0.035,
+   "XOM": -0.008
+  },
+  "GOOGL": {
+   "NVDA": 0.393,
+   "AMD": 0.383,
+   "AVGO": 0.356,
+   "SMCI": 0.165,
+   "MSFT": 0.43,
+   "GOOGL": 1.0,
+   "META": 0.469,
+   "PLTR": 0.305,
+   "BBAI": 0.052,
+   "IONQ": 0.277,
+   "RGTI": 0.211,
+   "SOUN": 0.126,
+   "KO": 0.01,
+   "PG": 0.055,
+   "XOM": -0.029
+  },
+  "META": {
+   "NVDA": 0.428,
+   "AMD": 0.367,
+   "AVGO": 0.346,
+   "SMCI": 0.215,
+   "MSFT": 0.459,
+   "GOOGL": 0.469,
+   "META": 1.0,
+   "PLTR": 0.332,
+   "BBAI": 0.121,
+   "IONQ": 0.285,
+   "RGTI": 0.161,
+   "SOUN": 0.152,
+   "KO": -0.049,
+   "PG": 0.049,
+   "XOM": -0.022
+  },
+  "PLTR": {
+   "NVDA": 0.389,
+   "AMD": 0.335,
+   "AVGO": 0.357,
+   "SMCI": 0.259,
+   "MSFT": 0.384,
+   "GOOGL": 0.305,
+   "META": 0.332,
+   "PLTR": 1.0,
+   "BBAI": 0.21,
+   "IONQ": 0.422,
+   "RGTI": 0.279,
+   "SOUN": 0.302,
+   "KO": -0.072,
+   "PG": -0.045,
+   "XOM": 0.06
+  },
+  "BBAI": {
+   "NVDA": 0.157,
+   "AMD": 0.146,
+   "AVGO": 0.16,
+   "SMCI": 0.194,
+   "MSFT": 0.123,
+   "GOOGL": 0.052,
+   "META": 0.121,
+   "PLTR": 0.21,
+   "BBAI": 1.0,
+   "IONQ": 0.284,
+   "RGTI": 0.259,
+   "SOUN": 0.35,
+   "KO": -0.059,
+   "PG": -0.057,
+   "XOM": 0.038
+  },
+  "IONQ": {
+   "NVDA": 0.302,
+   "AMD": 0.326,
+   "AVGO": 0.326,
+   "SMCI": 0.271,
+   "MSFT": 0.295,
+   "GOOGL": 0.277,
+   "META": 0.285,
+   "PLTR": 0.422,
+   "BBAI": 0.284,
+   "IONQ": 1.0,
+   "RGTI": 0.616,
+   "SOUN": 0.369,
+   "KO": -0.106,
+   "PG": -0.037,
+   "XOM": 0.053
+  },
+  "RGTI": {
+   "NVDA": 0.225,
+   "AMD": 0.263,
+   "AVGO": 0.275,
+   "SMCI": 0.248,
+   "MSFT": 0.197,
+   "GOOGL": 0.211,
+   "META": 0.161,
+   "PLTR": 0.279,
+   "BBAI": 0.259,
+   "IONQ": 0.616,
+   "RGTI": 1.0,
+   "SOUN": 0.399,
+   "KO": -0.086,
+   "PG": -0.043,
+   "XOM": 0.026
+  },
+  "SOUN": {
+   "NVDA": 0.203,
+   "AMD": 0.172,
+   "AVGO": 0.228,
+   "SMCI": 0.202,
+   "MSFT": 0.187,
+   "GOOGL": 0.126,
+   "META": 0.152,
+   "PLTR": 0.302,
+   "BBAI": 0.35,
+   "IONQ": 0.369,
+   "RGTI": 0.399,
+   "SOUN": 1.0,
+   "KO": -0.062,
+   "PG": -0.014,
+   "XOM": 0.062
+  },
+  "KO": {
+   "NVDA": -0.144,
+   "AMD": -0.128,
+   "AVGO": -0.149,
+   "SMCI": -0.131,
+   "MSFT": 0.018,
+   "GOOGL": 0.01,
+   "META": -0.049,
+   "PLTR": -0.072,
+   "BBAI": -0.059,
+   "IONQ": -0.106,
+   "RGTI": -0.086,
+   "SOUN": -0.062,
+   "KO": 1.0,
+   "PG": 0.577,
+   "XOM": 0.159
+  },
+  "PG": {
+   "NVDA": -0.119,
+   "AMD": -0.082,
+   "AVGO": -0.114,
+   "SMCI": -0.072,
+   "MSFT": 0.035,
+   "GOOGL": 0.055,
+   "META": 0.049,
+   "PLTR": -0.045,
+   "BBAI": -0.057,
+   "IONQ": -0.037,
+   "RGTI": -0.043,
+   "SOUN": -0.014,
+   "KO": 0.577,
+   "PG": 1.0,
+   "XOM": 0.07
+  },
+  "XOM": {
+   "NVDA": -0.008,
+   "AMD": 0.014,
+   "AVGO": 0.0,
+   "SMCI": 0.0,
+   "MSFT": -0.008,
+   "GOOGL": -0.029,
+   "META": -0.022,
+   "PLTR": 0.06,
+   "BBAI": 0.038,
+   "IONQ": 0.053,
+   "RGTI": 0.026,
+   "SOUN": 0.062,
+   "KO": 0.159,
+   "PG": 0.07,
+   "XOM": 1.0
+  }
+ },
+ "corr_log_returns": {
+  "GPU-GPU": 0.506,
+  "Cloud-Cloud": 0.402,
+  "Speculative-Speculative": 0.434,
+  "Control-Control": 0.269,
+  "GPU-Cloud": 0.345,
+  "GPU-Speculative": 0.25,
+  "Cloud-Speculative": 0.229,
+  "GPU-Control": -0.079,
+  "Cloud-Control": -0.0,
+  "Speculative-Control": -0.026
+ },
+ "corr_rolling_mean": {
+  "30": {
+   "GPU-GPU": 0.527,
+   "Cloud-Cloud": 0.41,
+   "Speculative-Speculative": 0.511,
+   "Control-Control": 0.265,
+   "GPU-Cloud": 0.361,
+   "GPU-Speculative": 0.291,
+   "Cloud-Speculative": 0.264,
+   "GPU-Control": -0.077,
+   "Cloud-Control": -0.009,
+   "Speculative-Control": -0.022
+  },
+  "60": {
+   "GPU-GPU": 0.519,
+   "Cloud-Cloud": 0.4,
+   "Speculative-Speculative": 0.498,
+   "Control-Control": 0.271,
+   "GPU-Cloud": 0.36,
+   "GPU-Speculative": 0.282,
+   "Cloud-Speculative": 0.255,
+   "GPU-Control": -0.073,
+   "Cloud-Control": -0.008,
+   "Speculative-Control": -0.019
+  },
+  "90": {
+   "GPU-GPU": 0.514,
+   "Cloud-Cloud": 0.401,
+   "Speculative-Speculative": 0.466,
+   "Control-Control": 0.272,
+   "GPU-Cloud": 0.368,
+   "GPU-Speculative": 0.257,
+   "Cloud-Speculative": 0.246,
+   "GPU-Control": -0.056,
+   "Cloud-Control": -0.006,
+   "Speculative-Control": -0.009
+  }
+ },
+ "six_month_windows": [
+  {
+   "start": "2022-11-01",
+   "n": 259,
+   "causal_share": 0.042,
+   "gpu_density": 0.167,
+   "cloud_density": 0.667,
+   "gpu_cloud_causal": 6,
+   "gpu_cloud_sub": 0,
+   "gpu_cloud_total": 22,
+   "nvda_mentions": 22,
+   "corr_gpu_cloud": 0.453,
+   "corr_gpu": 0.543
+  },
+  {
+   "start": "2023-05-01",
+   "n": 294,
+   "causal_share": 0.041,
+   "gpu_density": 0.667,
+   "cloud_density": 0.5,
+   "gpu_cloud_causal": 8,
+   "gpu_cloud_sub": 1,
+   "gpu_cloud_total": 77,
+   "nvda_mentions": 71,
+   "corr_gpu_cloud": 0.424,
+   "corr_gpu": 0.523
+  },
+  {
+   "start": "2023-11-01",
+   "n": 340,
+   "causal_share": 0.053,
+   "gpu_density": 0.667,
+   "cloud_density": 0.5,
+   "gpu_cloud_causal": 15,
+   "gpu_cloud_sub": 7,
+   "gpu_cloud_total": 101,
+   "nvda_mentions": 103,
+   "corr_gpu_cloud": 0.31,
+   "corr_gpu": 0.575
+  },
+  {
+   "start": "2024-05-01",
+   "n": 319,
+   "causal_share": 0.072,
+   "gpu_density": 1.0,
+   "cloud_density": 1.0,
+   "gpu_cloud_causal": 18,
+   "gpu_cloud_sub": 6,
+   "gpu_cloud_total": 113,
+   "nvda_mentions": 118,
+   "corr_gpu_cloud": 0.35,
+   "corr_gpu": 0.54
+  },
+  {
+   "start": "2024-11-01",
+   "n": 260,
+   "causal_share": 0.019,
+   "gpu_density": 0.5,
+   "cloud_density": 0.833,
+   "gpu_cloud_causal": 4,
+   "gpu_cloud_sub": 1,
+   "gpu_cloud_total": 95,
+   "nvda_mentions": 99,
+   "corr_gpu_cloud": 0.54,
+   "corr_gpu": 0.53
+  },
+  {
+   "start": "2025-05-01",
+   "n": 285,
+   "causal_share": 0.095,
+   "gpu_density": 0.667,
+   "cloud_density": 0.5,
+   "gpu_cloud_causal": 22,
+   "gpu_cloud_sub": 6,
+   "gpu_cloud_total": 109,
+   "nvda_mentions": 118,
+   "corr_gpu_cloud": 0.276,
+   "corr_gpu": 0.43
+  },
+  {
+   "start": "2025-11-01",
+   "n": 339,
+   "causal_share": 0.056,
+   "gpu_density": 0.667,
+   "cloud_density": 0.5,
+   "gpu_cloud_causal": 13,
+   "gpu_cloud_sub": 10,
+   "gpu_cloud_total": 137,
+   "nvda_mentions": 141,
+   "corr_gpu_cloud": 0.326,
+   "corr_gpu": 0.456
+  },
+  {
+   "start": "2026-05-01",
+   "n": 97,
+   "causal_share": 0.124,
+   "gpu_density": 0.5,
+   "cloud_density": 0.5,
+   "gpu_cloud_causal": 10,
+   "gpu_cloud_sub": 4,
+   "gpu_cloud_total": 43,
+   "nvda_mentions": 46,
+   "corr_gpu_cloud": 0.094,
+   "corr_gpu": 0.515
+  }
+ ],
+ "pair_level_late": {
+  "linked": {
+   "n": 30,
+   "mean_corr": 0.367
+  },
+  "unlinked": {
+   "n": 75,
+   "mean_corr": 0.122
+  },
+  "causal": {
+   "n": 13,
+   "mean_corr": 0.405
+  },
+  "linked_noncausal": {
+   "n": 17,
+   "mean_corr": 0.338
+  },
+  "p_linked_vs_unlinked": 1.973339536979422e-08,
+  "p_causal_vs_linked_noncausal": 0.0655516775995184
+ },
+ "pair_level_sector_fe": {
+  "linked_coef_raw": 0.245,
+  "linked_coef_fe": 0.032,
+  "linked_p_fe": 0.07406302851626591,
+  "r2_blocks_only": 0.891,
+  "n_pairs_linked_varies_within_block": 4,
+  "causal_coef_fe": 0.063,
+  "causal_p_fe": 0.001911374425912926,
+  "causal_perm_p": 0.0027994401119776045
+ },
+ "framing_tests_late": {
+  "gpu_cloud_vs_cloud_cloud": {
+   "chi2": 111.939,
+   "p": 3.685177903362891e-26,
+   "odds_ratio": 25.163
+  },
+  "gpu_cloud_vs_gpu_gpu": {
+   "p_fisher": 4.929760426639047e-09,
+   "odds_ratio": 8.883
+  }
+ },
+ "ablation": [
+  {
+   "variant": "co_mention",
+   "n": 4620,
+   "spearman_rho": 0.243,
+   "spearman_p": 0.0,
+   "auc": 0.5627
+  },
+  {
+   "variant": "narrative",
+   "n": 4620,
+   "spearman_rho": 0.2261,
+   "spearman_p": 0.0,
+   "auc": 0.5526
+  },
+  {
+   "variant": "price_correlation",
+   "n": 4830,
+   "spearman_rho": 0.1898,
+   "spearman_p": 0.0,
+   "auc": 0.5868
+  },
+  {
+   "variant": "sentiment_coocc",
+   "n": 4620,
+   "spearman_rho": 0.193,
+   "spearman_p": 0.0,
+   "auc": 0.5417
+  }
+ ],
+ "gkg_full": {
+  "n_hits": 29690,
+  "pre": {
+   "hits": 328,
+   "nvda_share": 0.104,
+   "gpu_cloud_share": 0.141,
+   "gpu_gpu_share": 0.025,
+   "spec_any_share": 0.0
+  },
+  "early": {
+   "hits": 2930,
+   "nvda_share": 0.077,
+   "gpu_cloud_share": 0.102,
+   "gpu_gpu_share": 0.009,
+   "spec_any_share": 0.007
+  },
+  "late": {
+   "hits": 26432,
+   "nvda_share": 0.335,
+   "gpu_cloud_share": 0.32,
+   "gpu_gpu_share": 0.084,
+   "spec_any_share": 0.002
+  },
+  "windows_gpu_cloud_share": [
+   {
+    "window": 0,
+    "pairs": 4288,
+    "gpu_cloud_share": 0.106
+   },
+   {
+    "window": 1,
+    "pairs": 7215,
+    "gpu_cloud_share": 0.18
+   },
+   {
+    "window": 2,
+    "pairs": 5921,
+    "gpu_cloud_share": 0.306
+   },
+   {
+    "window": 3,
+    "pairs": 5911,
+    "gpu_cloud_share": 0.35
+   },
+   {
+    "window": 4,
+    "pairs": 4760,
+    "gpu_cloud_share": 0.347
+   },
+   {
+    "window": 5,
+    "pairs": 4798,
+    "gpu_cloud_share": 0.342
+   },
+   {
+    "window": 6,
+    "pairs": 5374,
+    "gpu_cloud_share": 0.395
+   },
+   {
+    "window": 7,
+    "pairs": 3781,
+    "gpu_cloud_share": 0.395
+   }
+  ]
+ }
+}

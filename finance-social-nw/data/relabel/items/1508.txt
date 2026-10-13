@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Three weeks ago, an engineer named Calvin French-Owen, who worked on one of OpenAI’s most promising new products, resigned from the company.
+He just published a fascinating blog post on what it was like to work there for a year, including the sleepless sprint to build Codex. That’s OpenAI’s new coding agent that competes with tools like Cursor and Anthropic’s Claude Code.
+French-Owen said he didn’t leave because of any “drama,” but because he wants to get back to being a startup founder. He was a co-founder of customer data startup Segment, which was bought by Twilio in 2020 for $3.2 billion.
+Some of what he revealed about the OpenAI culture would surprise no one, but other observations combat some misconceptions about the company. (He could not be immediately reached for comment.)
+Fast growth: OpenAI grew from 1,000 to 3,000 people in the year he was there, he wrote.
+The LLM model maker certainly has reasons for such hiring. It is the fastest-growing consumer product ever, and its competitors are also growing fast. In March, it said that ChatGPT had over 500 million active users and climbing quickly.
+Chaos: “Everything breaks when you scale that quickly: how to communicate as a company, the reporting structures, how to ship product, how to manage and organize people, the hiring processes, etc.,” French-Owen wrote.
+Like a small startup, people there are still empowered to act on their ideas with little to no red tape. But that also means that multiple teams are duplicating efforts. “I must’ve seen half a dozen libraries for things like queue management or agent loops,” he offered as examples.
+Coding skill varies, too, from seasoned Google engineers who write code that can handle a billion users, to newly minted PhDs who do not. This, coupled with the flexible Python language, means that the central code repository, aka “the back-end monolith,” is “a bit of a dumping ground,” he described.
+Stuff frequently breaks or can take excessive time to run. But top engineering managers are aware of this and are working on improvements, he wrote.
+“Launching spirit”: OpenAI doesn’t seem to know yet that it’s a giant company, right down to running entirely on Slack. It feels very much like move-fast-and-break-things Meta in its early Facebook years, he observed. The company is also full of hires from Meta.
+French-Owen described how his senior team of around eight engineers, four researchers, two designers, two go-to-market staff, and a product manager built and launched Codex in only seven weeks, start to finish, with almost no sleep.
+But launching it was magic. Just by turning it on, they got users. “I’ve never seen a product get so much immediate uptick just from appearing in a left-hand sidebar, but that’s the power of ChatGPT.”
+Secretive fishbowl: ChatGPT is a highly scrutinized company. This led to a culture of secrecy in an attempt to clamp down on leaks to the public. At the same time, the company watches X. If a post goes viral there, OpenAI will see it and, possibly, respond to it. “A friend of mine joked, ‘this company runs on twitter vibes,’” he wrote.
+Biggest misconception: French-Owen implied that the biggest misconception about OpenAI is that it isn’t as concerned about safety as it should be. Certainly a lot of AI safety folks, including former OpenAI employees, have criticized its processes.
+While there are doomsayers worrying about theoretic risks to humanity, internally there’s more focus on practical safety like “hate speech, abuse, manipulating political biases, crafting bio-weapons, self-harm, prompt injection,” he wrote.
+OpenAI isn’t ignoring the long-term potential impacts, he wrote. There are researchers looking at them, and it’s aware that hundreds of millions of people are using its LLMs today for everything from medical advice to therapy.
+Governments are watching. Competitors are watching (and OpenAI is watching competitors in return). “The stakes feel really high.”

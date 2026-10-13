@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Iran was behind the recent hack of Donald Trump's presidential campaign, US intelligence officials have confirmed.
+The FBI and other federal agencies said in a joint statement that Iran had chosen to interfere in the US election "to stoke discord and undermine confidence in our democratic institutions".
+The Trump campaign pointed the finger at Iran on 10 August for hacking its internal messages. Iranian officials denied it.
+Sources familiar with the investigation told the BBC's US partner, CBS News, that they suspect Iranian hackers also targeted the campaign of Democratic presidential contender Kamala Harris.
+“The [intelligence community] is confident that the Iranians have through social engineering and other efforts sought access to individuals with direct access to the Presidential campaigns of both political parties,” US intelligence officials said in the statement.
+"Such activity, including thefts and disclosures, are intended to influence the US election process."
+The Trump campaign was reportedly sent a spear-phishing email – a message designed to look trustworthy in order to get the target to click on a malicious link.
+The Harris campaign said last week it had also been the target of a spear-phishing attack, though it was unsuccessful.
+The agencies that released Monday's statement, including the FBI, the Office of the Director of National Intelligence, and the Cybersecurity and Infrastructure Security Agency, said the tactics were "not new" and noted that Russia and Iran had employed such methods during previous US elections.
+It remains unclear what information, if any, was stolen during the hack. Trump said the hackers were only able to obtain publicly available information.
+The New York Times, Politico and The Washington Post said they were leaked confidential information from inside the Trump campaign, including on its vetting of his running mate, JD Vance. The outlets have so far declined to offer specifics.
+US officials said it was clear Iran wanted to shape the outcome of elections it believes are "particularly consequential in terms of the impact they could have on its national security interests".
+The American intelligence agencies added that they had "observed increasingly aggressive Iranian activity during this election cycle".
+There has been growing concern about potential Iranian hackers.
+Recently, Microsoft said it had seen "the emergence of significant influence activity" by groups linked to Iran.
+Before he dropped out of the White House race last month, President Joe Biden's campaign was targeted by Iranian hackers, as was Trump's, according to Google.

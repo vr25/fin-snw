@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Featured Story
+Airspan swoops in to rescue Cambium Networks
+Just days after troubled Cambium announced a huge layoff and a possible asset sale, Airspan is acquiring the bulk of Cambium's product lines and hiring more than 135 of its people.
+ByteDance plans to expand its data center facilities in Johor as part of a $2.13 billion AI deal, while Singtel is reportedly in talks with Malaysian authorities about establishing a data center in the country's southern state.
+ByteDance, Tiktok's parent company, intends to expand its data center facilities in Malaysia's Johor state with an additional 1.5 billion Malaysian ringgit (US$317.58 million) investment, as the company earmarks RM10 billion ($2.13 billion) to set up an artificial intelligence hub in the country.
+Tengku Zafrul Aziz, Malaysia's investment, trade and industry minister, shared the news on X on Friday after a meeting with Helena Lersch, vice president of TikTok.
+"This additional investment by ByteDance will undoubtedly help Malaysia achieve its target of growing the digital economy to 22.6% of Malaysia's Gross Domestic Product (GDP) by 2025," Zafrul wrote on the social media platform.
+ByteDance is an anchor tenant at Bridge Data Centres' MYO6 facility, a 110MW hyperscale data center located in Sedanak Tech Park in Johor. The facility opened in October 2022.
+In a separate development, Singtel is reportedly in talks with the Malaysian authorities to establish a data center in Iskandar Puteri in the southern state.
+Citing unnamed sources, The Edge Malaysia said Wednesday that Singtel – via its data center business unit Nxera – is currently exploring the opportunity to set up a facility in Johor as the Singaporean operator seeks to expands its data center footprint across Southeast Asia.
+At present, Singtel is building two data centers in Thailand and Indonesia respectively, which will increase its total pipeline capacity beyond 200MW from its current operational capacity of 62MW in Singapore. It is chiefly for this goal of regional expansion that Singtel sold in September 2023 20% stake of its data center business to investment firm KKR for $1.1 billion Singapore dollars (US$807million).
+Johor as a data center hub
+Johor has become a data center hotspot in Malaysia, with 12 companies – including Equinix, Airtrunk, Princeton Digital Group and GDS – operating 14 facilities across the state, according to data center information portal Baxtel.
+In recent years, Johor has been reaping spillover data center business from Singapore as the Malaysian government supported the state's data center ecosystem by building industrial parks with suitable infrastructure. Two of the biggest are the 745-acre Sedenak Tech Park and 509-acre Nusajaya Tech Park. Johor is also an ideal data center site because land, water and power are cheaper there than they are in Singapore.
+Quoting Malaysian property agency Zerin Properties, Channel News Asia said Johor is expected to attract RM17 billion ($3.6 billion) in new data center investments this year, building on the RM51.1 billion in investments it achieved in 2022.
+Meanwhile, more land in Johor is now being made available to support the growing demand for data center sites.
+Real estate firm UEM Sunrise announced Wednesday that it is selling two parcels of land in Iskandar Puteri, Johor, to a leading global data center player for RM144.9 million ($30.68 million). The company said its two subsidiaries – UEM Land and Nusajaya Rise – have entered a conditional sale and purchase agreement to sell 28.9 acres to the unnamed data center operator.
+"Our southern landbanks being strategically positioned next to Singapore, shall benefit from the growing investments in Iskandar Puteri Johor, as well as spillover effects for demand on our residential and commercial spaces. As we re-evaluate our remaining landbank potential, this divestment and monetisation strategy sets the groundwork for substantial technological, economic and community advancements in Johor," Sufian Abdullah, UEM Sunrise CEO, said in a press release.
+This latest announcement comes nearly two weeks after UEM Sunrise inked an agreement with real estate counterpart LOGOS Infrastructure to develop a data center campus in Gerbang Nusajaya. The 30-hectare data center campus is planned to carry up to 360MW of capacity.
+Outside of Johor, other parts of Malaysia have attracted data center investments from global tech giants.
+On May 30, Google said it has earmarked $2 billion to build its first data center and cloud region in Malaysia. The data center will power Google's digital services, such as Search, Maps, and Workspace, while the cloud region will provide services to companies and organizations in the public and private sectors.
+On May 2, Microsoft also announced its $2.2 billion investment over the next four years to advance new cloud and AI infrastructure in Malaysia. Besides building digital infrastructure, parts of the investment will be spent creating AI skills, establishing a national AI Center of Excellence, and enhancing Malaysia's cybersecurity capabilities.
+Read more about:
+Asia

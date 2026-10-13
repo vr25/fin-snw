@@ -1,0 +1,49 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+A 4-year-old startup just got Elon Musk to agree to fork out up to $60 billion.
+On Tuesday, Musk's SpaceX announced that it struck a deal with Cursor, giving it the right to acquire the AI coding startup for $60 billion or pay $10 billion for Cursor's work if it's not acquired.
+The deal lets the space and AI company put its own horse in the AI coding race. SpaceX, which owns AI assistant Grok, competes with Anthropic's Claude Code, OpenAI's Codex, and, now, vibe-coding startups such as Lovable, Emergent, and Bolt.
+"The combination of Cursor's leading product and distribution to expert software engineers with SpaceX's million H100 equivalent Colossus training supercomputer will allow us to build the world's most useful models," SpaceX said.
+For Cursor, the deal gives it access to SpaceX's massive computing resources, including Colossus, a supercomputer powered by 200,000 Nvidia GPUs.
+"Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our path to build the best place to code with AI," said Cursor's cofounder and CEO, Michael Truell.
+Take a look inside the San-Francisco-based startup, which quickly became a household name in the software development and AI communities.
+Born out of a frustration with Copilot
+Cursor, the AI coding editor built by parent company Anysphere, was founded by four MIT classmates — Truell, Sualeh Asif, Arvid Lunnemark, and Aman Sanger.
+The 20-somethings set out to make coding feel less like manual editing and more like a collaboration with AI.
+On a 2024 Lex Fridman podcast, the founders described Cursor as a code editor that puts AI inside the software development process. They said they did not want a product like Microsoft's VS Code or Copilot — a chat window bolted on an existing editing tool.
+"When we started Cursor, you really felt this frustration that models, you could see models getting better, but the Copilot experience had not changed," Asif said. "It was like, 'Man, the ceiling is getting higher, why are they not making new things?' They should be making new things."
+Top-tier investors
+The fledgling company raised a pre-seed round in 2022 and an $8 million seed round led by OpenAI's Startups Fund in 2023. In 2024, the startup closed its first major funding round: a $60 million Series A at a $400 million valuation with marquee investors including Andreessen Horowitz, Thrive Capital, and founders from Stripe and OpenAI.
+In November 2025, Cursor announced a $2.3 billion Series D with existing backers Accel, Thrive, and A16z, joined by Coatue, Nvidia, and Google. The round — its last disclosed valuation — valued the startup at $29.3 billion.
+Cursor has offices in San Francisco and New York and about 400 employees.
+Execs have said that they pulled off "crazy recruiting stunts" to nab the best talent, especially the first 10 employees.
+On a November podcast, Truell said that quirky hiring practices included "flying across the world to the person after they say no" — and even making up a dinner with researchers to lure them back into conversation.
+"They end up being one of the best people on the team," he added.
+Customer list
+Cursor's customer list is another key marker of its rapid growth.
+Its public client list is a who's who of tech: Stripe, Coinbase, Discord, Salesforce, Neuralink, and Nvidia.
+Nvidia's Jensen Huang has been an especially strong advocate for Cursor.
+In an October talk, Huang said that 100% of Nvidia's software engineers and chip designers use Cursor.
+"We now have AIs for all of our engineers," he said. "Productivity gains, the work that we do is so much better."
+At a conference last month, the Nvidia CEO gave Cursor prime advertising real estate by wearing a leather jacket adorned with a giant Cursor logo on the back.
+In June 2025, Business Insider reported that Amazon was in talks with Cursor to adopt the AI coding tool internally after employees demanded it.
+Comparisons with Claude Code
+But it hasn't been all smooth sailing for the company.
+After Anthropic released its latest model, Opus 4.6, in February, founders and developers said on X that they were ditching Cursor for Anthropic's Claude Code.
+Writing code by hand was walking
+Using Cursor was getting in a car
+Claude Code in an existing repo is an airplane
+Claude Code in a new repo is getting in a rocket
+In early March, Chamath Palihapitiya, a venture capitalist and the founder of software incubator 8090, said that Cursor was one of his company's biggest AI costs.
+"We need to migrate off of Cursor," he wrote on X. "It's just too expensive vs Claude Code. The latter is equivalent, and if you use the Pro plan, you eliminate huge Cursor bills for token consumption."
+On a podcast released in late February, Insight Partners cofounder Jerry Murdock, who left the firm in 2011, said that Cursor is behind its peers.
+"Most of the companies I mentioned, their view is that Cursor is obsolete today," he said. "I think those guys are going to have to quickly embrace autonomous agents."
+Anthropic's last model releases were widely seen as a wake-up call to the company and have spurred its push to expand beyond code completion.
+Earlier this month, Cursor announced the launch of Cursor 3, a product that allows users to create AI coding agents to complete tasks on their behalf.
+SpaceX partnership
+Before Tuesday's announcement, the two companies had already started showing signs of a partnership.
+Last week, Business Insider reported that SpaceX-owned xAI was planning to provide Cursor with computing power.
+Cursor plans to train its latest AI coding model, Composer 2.5, on xAI infrastructure, people familiar with the matter said. Cursor will use tens of thousands of xAI's graphic processing units, the chips used to train AI models, they said.
+Earlier this month, Business Insider reported that xAI hired two former Cursor product engineering leads, Andrew Milich and Jason Ginsburg, to oversee the product team. They report to Musk and xAI president Michael Nicolls.
+The Cursor partnership is the latest bang in a year of big announcements for the space company. In February, it acquired xAI, Musk's AI startup and the maker of Grok. In early April, SpaceX confidentially filed for an IPO, setting the stage for a potential public market debut later this year.

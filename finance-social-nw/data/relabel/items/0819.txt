@@ -1,0 +1,33 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google has largely been viewed as getting a late start in integrated
+generative artificial intelligence (GAI) into search. It had been thought that Microsoft initially took the lead by funding the startup OpenAI.
+Sundar Pichai, Google CEO, has long said AI is
+more profound than fire or electricity -- but what excites him about AI is how one technology can improve search, business, YouTube and Waymo -- and putting it in the cloud to customers.
+  
+Pichai recently spoke at the 2024 Business, Government & Society Forum at Stanford University, where he said Google has used AI in search for years, but in the past 18
+months it has really accelerated.
+Leadership at Google has always had a sense of the projectory ahead and in many ways, he said, the company has been preparing for the future.
+advertisement
+advertisement
+Google’s research and development (R&D), one of the largest in the world, has been working with AI for a long time, and Pichai believes the company is positioned well for what’s to
+come.
+“We are still in the early days, and people will be surprised at the progress we will see,” Pichai said.
+Organizing the world’s information on the internet
+through 10 blue links had been Google’s original focus maybe 15 years ago. Now GAI gives those seeking answers online an answer without having to search for it, which also means directing
+consumers to advertisers’ sites.
+The arrival of AI-generated answers and Google Search Generative Experience (SGE) had many marketers concerned, thinking that consumers would no longer
+need to click on websites because they could get the answers from GAI.
+Large language models and GAI have provided more powerful tools, and the summary in SGE can still point people to the
+source of the information, he said.
+Using the tools to provide more than one viewpoint are evolutions to the product. Pichai said the “North Star” for Google is making sure the
+company does right by users, and users come from all over the world.
+“When mobile came, we knew Google Search had to evolve a lot,” he said. “We call it featured snippets,
+but for almost 10 years now you go to Google for many questions. We kind of use AI to answer them. We call it web answers internally.”
+Pichai said Google search always answers questions
+where it can, but always felt when people come and look for information, in certain cases they want answers, but they also want the diversity of what’s out there in the world. That make a good
+balance, he said, adding that the evolution of search has been underway for a long, long time.
+“We’ve done all this in Google Search for a long time and people like it, people
+engage with it, people trust it. I view it as a natural continuation. With LLMs and AI, I think you have a more powerful tool to do that, which is what we are putting in Search with Search Generative
+Experience and so we’ll continue evolving it in that direction, too.”

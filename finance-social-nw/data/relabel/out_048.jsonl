@@ -1,0 +1,20 @@
+{"id": "0960", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Photo: Nvidia CEO Jensen Huang in", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0961", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Photo: Nvidia CEO Jensen Huang in", "relation": "causal-driver", "sentiment_alignment": 0}
+{"id": "0962", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "McYikes! Michigan Has the Worst-Rated", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0963", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Despite AI's explosive growth, the", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0964", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Child safety and privacy are", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0965", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Multifaith alliance of global religious", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0966", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Long Island schools sue social", "relation": "co-hype", "sentiment_alignment": -0.75}
+{"id": "0967", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft defends iPhone-only order for", "relation": "causal-driver", "sentiment_alignment": 0}
+{"id": "0968", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Nvidia supplier TSMC reports higher", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0969", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Welcome back to Lately, The", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0970", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "This article was originally published", "relation": "substitute-comparison", "sentiment_alignment": -0.25}
+{"id": "0971", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Created in 1896, the Dow", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0972", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Created in 1896, the Dow", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0973", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Created in 1896, the Dow", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0974", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In January, the internet was", "relation": "co-hype", "sentiment_alignment": -0.25}
+{"id": "0975", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "David Shapiro forecasts resource revival", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0976", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "While local authorities hope to", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0977", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By Lewis Krauskopf NEW YORK", "relation": "unrelated-mention", "sentiment_alignment": -0.25}
+{"id": "0978", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Axios reports that \"a significant", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0979", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Axios reports that \"a significant", "relation": "substitute-comparison", "sentiment_alignment": 0}

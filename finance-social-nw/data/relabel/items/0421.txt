@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Big tech companies like Google and Facebook’s parent company Meta know us well. And based on our viewing behavior, our search history, and how we scroll and like on Facebook, they (often) collect a lot of information without anyone noticing. Not for nothing, of course: this is how tech giants make their money.
+Terwijl je als gebruiker op een van de platforms zorgeloos aan het scrollen bent, worden achter de schermen data verzameld.
+Zo meet Facebook hoelang je naar berichten kijkt, onthoudt TikTok welke video’s je uitkijkt en welke reacties je leest en weet Google Maps waar je veel komt.
+Door al deze informatie te verwerken, kennen de bedrijven jouw voorkeuren en kunnen ze je dingen laten zien die bij jouw interesses passen.
+Hoe kan de big tech deze data verzamelen?
+De bedrijven maken het de gebruikers erg lastig om achter hun strategie te komen, zegt data-ethicus Piek Visser-Knijff. “Het is belangrijk om als consument te weten dat de bedrijven twee gezichten hebben”, vertelt Visser-Knijff. “Enerzijds een gratis sociaal platform zijn en anderzijds een enorme advertentiemarkt runnen.”
+Tijdens het installeren van verschillende apps krijg je als gebruiker een hoop vragen. De makers willen dat je de algemene voorwaarden accepteert, vragen of ze je pushberichten mogen sturen en willen je locatiegegevens inzien.
+De bedrijven hopen dat je akkoord gaat met de algemene voorwaarden, je locatiegegevens deelt en cookies accepteert. Zo help je de bedrijven om je gegevens bij te houden.
+Ontvang meldingen bij belangrijke ontwikkelingen
+Why is this data valuable?
+This data is stored in huge data centers. By combining information from different users, big tech companies can very accurately estimate what content to show to whom.
+Algorithms are trained using this data. You can see the algorithm as an intelligent mathematical formula that determines what you see and where it is in your timeline. For example, a user who is very interested in sports and sportswear will see ads and messages related to sports more than others. Algorithms can guide consumers in (purchasing) behavior.
+It is very useful for technology companies to be able to show users relevant ads and messages. Then there is a greater opportunity to entice consumers with advertisements. Furthermore, users stay on the platform longer if they identify themselves with what is being offered.
+Is it bad for this to happen?
+It might be a good idea to have a page designed entirely according to your desires and scroll past messages where you introduce yourself. But on the other hand, technology platforms are constantly monitoring you.
+“It is important to create sufficient awareness among users,” says Sander Klos, professor of big data ecosystems. Not everyone has the same knowledge about the locus of power and working methods at big tech companies. In addition, reading the general terms and conditions takes a lot of time.
+Last month, the Digital Services Act (DSA) took a major step in curbing the power of big tech. As a result, companies are no longer allowed to use sensitive data from visitors for personalized advertising. They also need to explain more about the ads to their visitors.
+Cohen is a contributor at Houstonian Online, covering a variety of topics including news, politics, business, technology, sports, entertainment, and lifestyle. With a focus on clear reporting and useful information, Cohen helps readers stay informed about current affairs, emerging trends, and stories that are relevant to their daily lives.

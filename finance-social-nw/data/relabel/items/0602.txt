@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Glassdoor names the best places to work for 2024
+Glassdoor has released its list of the best places to work heading into 2024, with Bain & Company, NVIDIA and ServiceNow coming in the top three spots respectively as the best employers, as evaluated by employees.
+Glassdoor's top 100 list of big employers, characterized by more than 1,000 employees, features the technology industry prominently, as well as finance, real estate, consulting, retail and others.
+The "winning employers," according to Glassdoor's survey of employee feedback, are those with flexible work arrangements, strong support from leadership and collaborative environments. Employees also value transparent leadership, opportunities for growth and an openness to feedback.
+"The key to their success has been prioritizing employee feedback and acknowledging their thoughts in ways that make them feel supported, heard, and valued," Glassdoor's announcement read.
+Heading into 2024 with a strong economy, Glassdoor said it's clear successful employers are those that evolve with the changing needs of their employees.
+"The future of work is being written right now, and workers are holding the pen," Glassdoor's announcement read. "This year's list proves that leading employers are taking note and pivoting to meet these changing needs."
+"The shifts are here to stay, and companies on our Best Places to Work '24 list are transforming to get it right, according to their employees," the announcement continued.
+This year, two consulting firms made the top 10 list: Bain, in first place, and 2020 Companies, in ninth place. One restaurant/bar and food services company made the list: IN-N-Out Burger, in sixth place. One finance corporation made the list: Fidelity Investments in tenth place.
+The rest of the top ten list were tech companies — in addition to NVIDIA in second place and ServiceNow in third place, MathWorks ranked No. 4, Procore Technologies ranked No. 5, VMware ranked No. 7 and Deltek ranked No. 8.
+Other high-profile companies took a dip in their ratings, compared with last year.
+Google dropped from No. 8 to No. 26, Microsoft dropped from No. 13 to No. 18, consulting firm Boston Consulting Group (BCG) dropped from No. 7 to No. 91 and consulting firm McKinsey & Company dropped from No. 4 to No. 31.
+For the latest news, weather, sports, and streaming video, head to The Hill.

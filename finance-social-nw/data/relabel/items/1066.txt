@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon To Build Data Centers In UK With $10.45 Billion Investment
+Amazon Web Services, the cloud computing arm of e-commerce giant Amazon, announced plans to build and operate data centers in the U.K. with a $10.45 billion investment over a period of five years.
+CNBC reported that cloud players have been talking about the benefits of artificial intelligence (AI), as several companies consider integrating AI into their business infrastructures, ushering in ripe ground for the investment.
+"We've seen a real uptake of cloud computing and AI technology by British businesses, and we know the U.K. has a very ambitious digital plan," Tanuja Randery, a managing director at AWS, was quoted as saying by CNBC.
+"So this will go toward helping our customers to really be able to harness cloud computing, because you need the data centers to be able to actually provide cloud computing for our customers," Randery added.
+Amazon expects that its investment in the U.K. will contribute approximately 14 billion pounds to the country's gross domestic product by the end of 2028. Additionally, it is expected to support over 14,000 jobs across various businesses in the region.
+"Our team that builds our data centers globally take into account multiple levers that they have to look at before they can decide where to put data centres ... from power to water to the local environment," Randery told Reuters.
+British finance minister Rachel Reeves, who has actively been courting foreign investors ahead of the Oct. 14 investment summit, welcomed the AWS investment.
+According to the British government, the AWS data centers would support the demand in London as well as areas in the west. However, the exact location of the data centers was disclosed by Amazon due to security reasons.
+Britain's finance ministry said that the government is "also actively engaged in conversations with the company about investments in other parts of the UK."
+AWS is competing with Google and Microsoft in the United Kingdom, and this billion-dollar investment is a part of its ongoing efforts to expand in Europe. Aside from the U.K., AWS has revealed plans to invest 8.8 billion euros in Germany's existing cloud infrastructure.
+© Copyright IBTimes 2026. All rights reserved.

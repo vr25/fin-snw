@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+NEW YORK, Sept. 4 (Xinhua) -- U.S. stocks ended higher on Thursday, as investors weighed softening labor market data that reinforced expectations for a September rate cut.
+The Dow Jones Industrial Average rose 0.77 percent to 45,621.29. The S&P 500 added 0.83 percent to 6,502.08, while the Nasdaq Composite Index increased 0.98 percent to close at 21,707.69.
+Ten of the 11 primary S&P 500 sectors finished in positive territory, led by consumer discretionary and communication services, which rose 2.25 percent and 1.12 percent, respectively. The utilities sector dropped 0.16 percent.
+Private-sector job growth in the United States slowed sharply in August, with Automatic Data Processing (ADP) reporting just 54,000 new jobs in the sector, below forecasts. Weekly jobless claims came in higher than expected, reaching the highest level since June.
+A separate survey from the Institute for Supply Management showed services-sector activity expanding faster than anticipated, but hiring in the industry contracted for a third straight month.
+The data followed July's weaker-than-expected job openings, adding to signs of cooling in the labor market. Traders now see a 97 percent chance of a September Fed rate cut.
+"The Federal Reserve's free pass on the labor market has ended," said James Cox, financial advisor at Harris Financial Group. "ADP data continue to reinforce the narrative that the rate of positive change in the labor market has slowed significantly, so you can expect the Fed to tilt its balance of risks to cut rates in September."
+Big tech shares provided strong support for the market. Amazon surged 4.29 percent to lead Dow advancers, while chipmaker Broadcom added more than 1 percent ahead of its quarterly earnings release after the bell. Meta Platforms and Tesla each gained more than 1 percent, while Nvidia, Microsoft, Apple and Alphabet also edged higher.
+Attention turns to Friday's official August jobs report, which could strengthen the case for even deeper policy easing if further weakness emerges.
+Meanwhile, U.S. President Donald Trump's push to reshape the Federal Reserve came under scrutiny at a Senate hearing for Fed board nominee Stephen Miran. Lawmakers raised concerns over central bank independence after Miran indicated he would keep his White House post if confirmed.

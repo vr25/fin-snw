@@ -1,0 +1,20 @@
+{"id": "2140", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A customer sends a WhatsApp message to", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2141", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Wall Street has found a new way", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "2142", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon said on Friday its Indian operations", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2143", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chinese surveillance became a buzzword in early", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2144", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Digital strategist Nic Newman talks AI and", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2145", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The public battle to dominate the AI", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2146", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "When Sir Thomas More wrote his socio-political", "relation": "unrelated-mention", "sentiment_alignment": -1}
+{"id": "2147", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "13 Suggestions to Fill Flint's Empty Sears", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2148", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Will ChatGPT be the disrupter academia", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2149", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Intel is putting the pedal to the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2150", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ChatGPT Will Command More Than 30,000 Nvidia", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "2151", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "ChatGPT Will Command More Than 30,000 Nvidia", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "2152", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ChatGPT Will Command More Than 30,000 Nvidia", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "2153", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Please state the location and include REMOTE", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2154", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Best deals at Walmart this weekend: Save", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2155", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Gonzalez v. Google tests the limits of", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "2156", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Trulieve Held Fireside Chat with Civil Rights", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2157", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Get ready for spring with these ultra-affordable", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2158", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Best online clearance deals at Walmart: Last", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "2159", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google has brought a new feature to", "relation": "unrelated-mention", "sentiment_alignment": 0}

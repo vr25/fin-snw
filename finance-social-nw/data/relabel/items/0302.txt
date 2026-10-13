@@ -1,0 +1,42 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Malaysia to Take Legal Action Against Meta Over ‘Harmful’ Posts
+Malaysian authorities said they are taking legal action against Meta Platforms Inc. after it failed to remove “harmful” and “undesirable” content from Facebook despite the government’s requests.
+Malaysian authorities said on Friday they will take legal action against Facebook parent company Meta Platforms for failing to remove "undesirable" content on the social media platform.
+Facebook has recently seen a significant volume of undesirable content relating to race, royalty, religion, defamation, impersonation, online gambling and scam advertisements, the Malaysian Communications and Multimedia Commission said in a statement.
+It also said Meta had failed to take sufficient action despite its repeated requests and that legal action was necessary to promote "accountability for cybersecurity" and for "enhancing consumer protection".
+Meta did not immediately respond to a request for comment. The commission also did not immediately respond to a request for comment on what legal action might be taken.
+Big social media firms such as Meta, Google's YouTube and TikTok are often under regulatory scrutiny over content posted on their platforms.
+Some Southeast Asian governments have frequently requested that content be taken down.
+In 2020, Vietnam threatened to shut down Facebook in the country if it did not bow to government pressure to censor more local political content on its platform. It said last year that social media platforms operating in Vietnam removed more than 3,200 posts and videos in the first quarter that contained false information and violated the country's law.
+In Indonesia, Facebook in 2019 took down hundreds of local accounts, pages and groups linked to a fake news syndicate.
+Meta's Oversight Board asks Facebook owner to evaluate election integrity efforts
+(Reuters) - Meta Platforms' Oversight Board has asked the social media firm to evaluate efforts to prevent promotion of political violence on its platforms, after it allowed a video calling for violence post the 2022 Brazilian election to stay online.
+The board said on Thursday that Meta's original decision to leave up the Facebook video, which featured a Brazilian general calling people to "hit the streets," raised concerns about the effectiveness of the company's election integrity efforts.
+"In this case, the speaker's intent, the content of the speech and its reach, as well as the likelihood of imminent harm ... all justified removing the post," said the Oversight Board, whose recommendations are not binding on Meta.
+After initially letting the video stay up, Meta took it down on Jan. 20, after the board selected the case.
+The company's election preparedness efforts are in focus as the United States prepares for the presidential elections next year.
+Meta's Facebook and Instagram, two of the most popular social media sites in the world, have been in the past used to spread misinformation and incite violence on the ground.
+In 2020, the company said that its platforms were used by certain Russian groups to influence U.S. voters during the 2016 elections, where Republican Donald Trump emerged victorious.
+The company was also among the social media platforms that suspended Trump in 2021 after the deadly Jan. 6 Capitol Hill riot, determining he had incited violence. The former U.S. president was reinstated earlier this year.
+Meta, in a response to the board, said that it does not currently have metrics for measuring the success of its election integrity efforts generally.
+The Oversight Board was created in late 2020 to review Facebook and Instagram's decisions on taking down or leaving up certain content and make rulings on whether to uphold or overturn the social media company's actions.
+Facebook to end news access in Canada over incoming law on paying publishers
+OTTAWA (Reuters) - Meta Platforms Inc plans to end access to news on Facebook and Instagram for all users in Canada once a parliament-approved legislation requiring internet giants to pay news publishers comes into effect, the company said on Thursday.
+The legislation, known as the Online News Act, was approved by the Senate upper chamber earlier on Thursday and will become law after receiving royal assent from the governor general, a formality.
+The legislation was proposed after complaints from Canada's media industry, which wants tighter regulation of tech companies to prevent them from elbowing news businesses out of the online advertising market.
+"Today, we are confirming that news availability will be ended on Facebook and Instagram for all users in Canada prior to the Online News Act taking effect," Meta said in a statement.
+Facebook had telegraphed such a move for weeks, saying news has no economic value to the company and that its users do not use the platform for news.
+The act outlines rules to force platforms such as Facebook and Alphabet's Google to negotiate commercial deals and pay news publishers for their content, a step similar to a groundbreaking law passed in Australia in 2021.
+The U.S. technology companies have said the proposals are unsustainable for their businesses. Google has argued Canada's law is broader than those enacted in Australia and Europe, saying it puts a price on news story links displayed in search results and can apply to outlets that do not produce news.
+The search engine giant proposed that the bill be revised to make the displaying of news content, rather than links, as basis for payment and to specify that only businesses that produce news and adhere to journalistic standards are eligible.
+A spokesperson Google said on Thursday that the bill remains "unworkable" and that the company was urgently seeking to work with the government "on a path forward."
+Canada's federal government has so far pushed back against suggestions to make changes. Earlier this month, Prime Minister Justin Trudeau said Meta and Google were using "bullying tactics" as they campaign against the legislation.
+Google and Facebook had also threatened to curtail their services in Australia when a similar rules were passed into law. Both eventually struck deals with Australian media companies after amendments to the legislation were offered.
+Heritage Minister Pablo Rodriguez, who introduced the bill last year, said on Thursday that the government "will engage in a regulatory and implementation process" after the legislation comes into effect.
+"If the government can't stand up for Canadians against tech giants, who will?" Rodriguez said in a statement.
+The heritage ministry has had meetings with Facebook and Google this week, and it looks forward to further discussions, a government spokesperson said.
+Danielle Coffey, president of the News Media Alliance global industry group, said the Canadian Parliament "should be applauded for standing up to Big Tech" after the bill's approval in the Senate.
+"We are encouraged by the increasing recognition of the need for legal action to ensure just compensation, both in Canada and abroad, and hope to see the United States follow suit," Coffey said.
+Catch all the Latest Tech News, Mobile News, Laptop News, Gaming news, Wearables News , How To News, also keep up with us on Whatsapp channel,Twitter, Facebook, Google News, and Instagram. For our latest videos, subscribe to our YouTube channel.

@@ -1,0 +1,43 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+- Devices
+- 2 min read
+AI chipmaker AMD unveils $6 billion buyback plan
+                    The buyback, which boosts its total repurchase authority to about $10 billion, comes just a day after AMD announced a deal with Humain, saying it has formed a $10 billion collaboration, following in the footsteps of a number of U.S. technology firms that struck AI deals in the Middle East.
+                                    
+            
+        
+                    
+                    
+                    
+                                        Advanced Micro Devices on Wednesday announced a new $6 billion stock buyback plan, joining a string of chipmakers that are looking to reduce their float as the AI trade that has powered their shares shows some signs of slowing.
+Shares of the Santa Clara, California-based company rose as much as 6.4%. Its shares have fallen more than 6% so far this year, compared with a less than 1% drop for the benchmark Philadelphia Semiconductor Index.
+The buyback, which boosts its total repurchase authority to about $10 billion, comes just a day after AMD announced a deal with Humain, saying it has formed a $10 billion collaboration, following in the footsteps of a number of U.S. technology firms that struck AI deals in the Middle East.
+While the chip sector at large has been pressured by fears around artificial intelligence-linked spending and the impact of a global trade war, AMD has still underperformed peers as concerns emerge around its competitiveness in the AI market.
+AMD has been lauded as the most formidable competitor to AI front-runner Nvidia's dominance, but the company now faces tough competition from custom processors and the larger rival's industry stronghold.
+AMD's shares fell 18% last year, while Nvidia shares rose above 170%. Custom AI chipmaker Broadcom's shares doubled in value in 2024 and the Philadelphia Semiconductor Index had risen close to 20%.
+"Our expanded share repurchase program reflects the Board's confidence in AMD's strategic direction, growth prospects, and ability to consistently generate strong free cash flow," AMD Chief Executive Lisa Su said in a statement.
+However, AMD's free cash flow in the three months ended March fell more than 33% to $727 million. As of March 29, its cash and cash equivalents were $6.05 billion while current liabilities stood at $7.70 billion.
+Among other major chipmakers repurchasing their stock, Broadcom announced a $10 billion buyback in April, while smartphone chipmaker Qualcomm unveiled a $15 billion stock buyback in November.
+                        
+                                                                
+                                        
+                    
+                    
+                                            
+                                        
+                    
+                    
+                        
+                    
+                    
+                
+            Shares of the Santa Clara, California-based company rose as much as 6.4%. Its shares have fallen more than 6% so far this year, compared with a less than 1% drop for the benchmark Philadelphia Semiconductor Index.
+The buyback, which boosts its total repurchase authority to about $10 billion, comes just a day after AMD announced a deal with Humain, saying it has formed a $10 billion collaboration, following in the footsteps of a number of U.S. technology firms that struck AI deals in the Middle East.
+While the chip sector at large has been pressured by fears around artificial intelligence-linked spending and the impact of a global trade war, AMD has still underperformed peers as concerns emerge around its competitiveness in the AI market.
+AMD has been lauded as the most formidable competitor to AI front-runner Nvidia's dominance, but the company now faces tough competition from custom processors and the larger rival's industry stronghold.
+AMD's shares fell 18% last year, while Nvidia shares rose above 170%. Custom AI chipmaker Broadcom's shares doubled in value in 2024 and the Philadelphia Semiconductor Index had risen close to 20%.
+"Our expanded share repurchase program reflects the Board's confidence in AMD's strategic direction, growth prospects, and ability to consistently generate strong free cash flow," AMD Chief Executive Lisa Su said in a statement.
+However, AMD's free cash flow in the three months ended March fell more than 33% to $727 million. As of March 29, its cash and cash equivalents were $6.05 billion while current liabilities stood at $7.70 billion.
+Among other major chipmakers repurchasing their stock, Broadcom announced a $10 billion buyback in April, while smartphone chipmaker Qualcomm unveiled a $15 billion stock buyback in November.

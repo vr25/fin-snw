@@ -1,0 +1,7 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+On Tuesday (October 28), Apple Inc. became the third company in history to surpass a $4 trillion market value. The tech giant's shares rose slightly in early trading, pushing its valuation over the historic threshold. This achievement follows Nvidia and Microsoft, which both crossed the $4 trillion mark in July. Nvidia's market valuation has since grown to $4.71 trillion.
+Apple's recent success can be attributed to several factors. The company's shares have surged over 56% since April, adding approximately $1.4 trillion in market value. This growth is largely driven by optimism surrounding Apple's updated iPhone lineup and easing tariff pressures. The release of the new iPhone Air, which sold out quickly in China, has further boosted investor confidence.
+Additionally, a federal judge's ruling in September allowed Google to continue paying Apple to have its search engine preloaded on devices, benefiting Apple's financial position. Analysts have upgraded Apple's stock, noting strong demand for the latest iPhone models. As reported by NBC News, Evercore ISI analysts commented, "Our checks suggest this may be more than the average iPhone refresh cycle."
+Despite lagging behind some tech peers earlier this year, Apple's fortunes have improved significantly. The company's shares have gained over 5% in the past month, outpacing Amazon and Meta Platforms. Apple is set to report earnings on Thursday, with Wall Street expecting over $100 billion in quarterly revenue.

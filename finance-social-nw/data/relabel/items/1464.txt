@@ -1,0 +1,42 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+A week of hell with my Windows 11 PC really makes me appreciate the simplicity of Google's Chromebook laptops
+I'm reasonably proficient at building and maintaining a Windows 11 PC, but the past week has pushed me to the brink of insanity.
+It's certainly been a week for me. My PC woes began almost immediately after trying to make DOOM: The Dark Ages work at all, then work without crashing.
+The end result was a PC that would not boot. The first warning sign that something was wrong was when the Windows 11 Start Menu wouldn't open, an inconvenience to shutting down said PC.
+But the following morning it wouldn't boot at all, and through everything I spent about 5 days on and off trying various tactics to get back up and running, and running stable.
+In that time, so I could actually get some work done, I reached for my (not that) old trusty Lenovo IdeaPad Gaming Chromebook. Once again, with a newfound appreciation for the simplicity of ChromeOS in a world where Windows 11 is full of potential pain points.
+A week where my PC nearly beat me
+I'm not going to go through every single point step by step; nobody wants to read that. But I can trace it all back to fudging around with NVIDIA drivers to get DOOM: The Dark Ages to play nicely on my system powered by an Intel Core i7-14700K and NVIDIA RTX 5080.
+Issues with the drivers and the RTX 50 Series were documented, but I must have tried at least three older drivers, and then the latest update after the one with issues, but none could stop DOOM from crashing on my PC.
+What followed was total annihilation, the MIA Start Menu followed by a refusal to boot. My boot SSD is in good health, so it wasn't that dying that was at fault.
+All the latest news, reviews, and guides for Windows and Xbox diehards.
+As I had only a USB handy with a Linux installer on, I figured at least for now I'd toss that on so I could finish the work week.
+It worked to an extent, but even now that NVIDIA drivers on Linux are better, I was experiencing crashes in games and even on the desktop. And any touching of the drivers seemed to break things entirely. Good old RTX 50 series, it seems(?)
+So I dug out a Windows laptop, built a USB installer, and tried and failed multiple times to even get it to install at all. So I gave up and started using my Chromebook so I could get something done.
+Too many points of complication
+Right from the beginning, it looks like my USB stick, which I chose to install Windows 11, wasn't formatted correctly.
+It took multiple failed attempts and some top-level Googling to figure out that unless I formatted it as exFAT, it wouldn't work. Was this a secret change or just something I've been lucky with in the past?
+In case you wondered, exFAT is not the default option when you format a USB stick on Windows 11.
+This is but one example of complications in installing and using Windows that aren't obvious and can cause significant problems.
+What followed, though, were multiple days of reinstalling Windows in the hopes of having a stable experience.
+Each minute, I would get an error saying the Recycle Bin has been corrupted. Every fresh boot, I couldn't save files to my Downloads folder or write to my Steam library.
+Why? For some reason, every directory had been set to read-only permissions. I've never seen that one before.
+What seems to have worked in the end is completely nuking both SSDs in my PC, setting up fresh partitions, and accepting all the telemetry, all the stuff Microsoft wants you to enable, but that you don't necessarily want to. Literally making it as close to something I just pulled out of a box as I could.
+Why did I do that? Some helpful tips on the Internet suggested that they've seen issues with some aspects of Windows when opting out of telemetry.
+Others warned against using debloat tools (which, full disclosure, I did as I have always done on my first attempt) because stuff will break.
+Between all of this, all the drivers you have to install, all the potential points of failure, it's a lot. It really puts into perspective just how massive, bloated, and potentially complicated Windows 11 can be.
+There is a huge market for Chromebooks that are potentially using the wrong OS right now
+Despite Windows 11 being my main platform (partly because of my job, partly for gaming), I've always made sure I use others. I'm a firm believer in understanding the competition and what else is out there.
+But I also still use a Chromebook anytime I leave the house with a laptop because I enjoy using one. It's a perfect antidote to the last week of cursing and installing Windows 11 (and Linux) more times than any sane person should have to.
+It has hooks into the Microsoft 365 ecosystem now, with the Office suite of web apps and integration of OneDrive into the ChromeOS Files app.
+It's still based on the most used web browser on the planet, you can game on it through Steam or the cloud, and Google even has some AI tidbits if you just have to have them.
+But most of all, using a Chromebook is simple. So many apps now have web clients, including Photoshop. You can edit videos using something like Microsoft Clipchamp. The Play Store will even offer developers the opportunity to Chromebook-optimize versions of their Android apps.
+If you need something not on Android or the web, you can fire up the Linux environment.
+However, it's mostly the simplicity that draws me to ChromeOS. Updates are regular and fast to install. If something does go wrong, it takes mere minutes to reset and be back with all your stuff synced to your machine again. But there's not a lot to go wrong in the first place.
+I wish beyond all else that Microsoft had a real competitor. A stripped-back version of Windows for the hundreds of millions of more casual users out there. Hell, we're crying out for a lighter version of Windows to run on gaming handhelds as it is.
+I'm not getting rid of my Windows 11 PC, but even more so, I won't be getting rid of my Chromebook. It's the backup that I now have a greater appreciation for.
+Richard Devine is the Managing Editor at Windows Central, where he combines a deep love for the open-source community with expert-level technical coverage. Whether he’s hunting for the next big project on GitHub, fine-tuning a WSL workflow, or breaking down the latest meta in Call of Duty, Forza, and The Division 2, Richard focuses on making complex tech accessible to every kind of user. If it’s happening in the world of Windows or PC gaming, he’s probably already knee-deep in the code (or the lobbies). Follow him on X and Mastodon.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

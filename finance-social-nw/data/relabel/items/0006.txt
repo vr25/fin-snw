@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Several large U.S. corporations have launched an advertising campaign to protect the Deferred Action for Childhood Arrivals (DACA) program, whose more than 600,000 beneficiaries are called "Dreamers." They argue in an open letter that they "face another crisis if Congress fails to act on an issue that has strong bipartisan support from the American people." The letter states:
+The recent ruling by the U.S. 5th Circuit Court of Appeals declaring DACA illegal puts all of these individuals, their families, and their employers at risk. Each DACA recipient will soon face the threat of losing their work authorization and protection from deportation, while our businesses face the threat of losing critical employees.
+The worker shortage will get worse for the United States if hundreds of thousands of critical workers are stripped of their legal ability to support themselves and their families. That is the situation we currently face if this ruling becomes final, and it is the reason for our request today.
+Given that DACA applications and renewals were granted on a rolling basis, the end of this program means that an estimated 22,000 jobs would be lost every month for two years. That is roughly 1,000 job losses per business day at a time when the U.S. economy already faces significant workforce shortages.
+When the last DACA recipient's work permit expires, the U.S. will have lost more than 500,000 jobs, and the U.S. economy will lose as much as $11.7 billion annually—or roughly $1 billion monthly—in wages from previously employed DACA recipients. (To put this into perspective, in Texas alone, 400 healthcare workers and 300 teachers will be forced out of their jobs each month.)
+Signers of the letter include, among others, Amazon, Apple, Google, Meta, MGM Resorts, Microsoft, Starbucks, and Target. The ads are running in various major newspapers, including the Wall Street Journal, the Dallas Morning News, and the Charlotte Observer.
+The ad campaign follows a decision by the U.S. Court of Appeals for the Fifth Circuit that ruled the program illegal but allowed current recipients to maintain status during a lower court's review. The lower court is likely to rule against DACA, according to observers. Further action in Congress is uncertain.
+Details:
+- Letter to Congress, Coalition for the American Dream, Oct. 20, 2022. https://www.coalitionfortheamericandream.us/daca-fifth-circuit-response/
+- "With DACA on Life Support, Microsoft, Apple, and Other Big U.S. Firms Launch Ad Campaign to Protect 'Dreamers'," NBC News, Oct. 20, 2022. https://nbcnews.to/3SnDZtg
+- "Federal Judge Temporarily Allows DACA Protections to Continue," NBC News, Oct. 14, 2022. https://www.nbcnews.com/politics/immigration/federal-judge-temporarily-allows-daca-protections-continue-rcna52339
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

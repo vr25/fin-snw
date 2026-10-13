@@ -1,0 +1,35 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+While artificial intelligence (AI) applications have been in development for decades, 2023 will likely go down as a breakthrough year for the technology. It's certainly been a breakout year for AI stocks. The excitement surrounding the tech has powered many of this year's biggest market success stories.
+But as impressive as the rise of AI has been this year, the revolutionary shift is still just heating up. With that in mind, read on for a look at seven AI stocks that can deliver wins for investors looking to capitalize on the future of AI.
+1. Microsoft
+Microsoft's (MSFT +3.66%) Azure cloud infrastructure service is at the heart of the company's AI empire. Azure offers customers tools for building, launching, running, and scaling AI operations. As more AI software is launched and scaled, Microsoft stands to be one of the biggest beneficiaries.
+NASDAQ: MSFT
+Key Data Points
+But the software giant's strengths are hardly limited to the cloud infrastructure space. As a leading provider of operating systems, enterprise productivity software, video games, and other products and services, Microsoft has an impressive ecosystem of offerings that stand to benefit from AI. The company also holds a substantial investment stake in OpenAI and has a close partnership with the ChatGPT creator.
+2. Nvidia
+Thanks to its role in pushing AI forward, Nvidia (NVDA +0.22%) has been one of 2023's hottest stocks. The semiconductor specialist's share price is up roughly 220% year to date -- a performance that has pushed the company's market capitalization to roughly $1.15 trillion and made it the world's sixth-largest public company.
+Nvidia is the leader in the graphics processing unit (GPU) hardware used to run advanced AI applications. When it comes to GPUs used for AI, data centers, and accelerated computing applications, the company controls roughly 90% of the market.
+Nvidia is also building a software component for its business, offering specialized tools and AI computations as a service. Between surging demand for its processors and the rise of the company's service-based offerings, Nvidia is on track to continue recording stellar sales growth and impressive margins.
+3. Amazon
+Amazon's (AMZN +0.12%) position as the market leader in cloud infrastructure service has the business on track to continue facilitating and benefiting from the rise of AI. Amazon Web Services (AWS) provides key tools that make it possible to develop, run, and scale AI software, and demand for these services is already driving strong performance for the segment.
+NASDAQ: AMZN
+Key Data Points
+Amazon's e-commerce business also has the potential to benefit from the AI revolution. Through increased warehouse and delivery automation, AI technologies will likely lead to some powerful efficiency improvements for the company's market-leading online retail business. Such efficiency improvements could push margins for Amazon's e-commerce segment much higher and power big earnings growth.
+4. Palantir
+Palantir (PLTR -1.52%) is an analytics and AI specialist that helps customers generate actionable insights and make sense of data. The company has contracts with multiple organizations within the U.S. Department of Defense and other government agencies, but it's also been quickly building its base of private-sector customers.
+In May, the company launched Artificial Intelligence Platform (AIP), a suite of tools and services rapidly attracting new clients. By the time the company reported its third-quarter earnings results in November, nearly 300 organizations had used the platform.
+Thanks to the general momentum behind the business and the excitement surrounding the new AI service, Palantir closed out Q3 with 34% more customers than it had at the end of the previous year's quarter.
+5. Alphabet
+Alphabet (GOOGL +0.46%)(GOOG +0.61%) is the world's largest digital advertising company. Thanks to the strengths of its Google Search platform, Android mobile operating system, cloud infrastructure service, YouTube, Gmail, and other offerings, the company has an impressive ecosystem of products and services that stand to benefit from AI technologies.
+NASDAQ: GOOGL
+Key Data Points
+The company's Google DeepMind unit is an entire arm of the business dedicated to pushing AI forward and finding new applications for the tech. Alphabet recently announced that DeepMind had been used to formulate the structures of more than 2 million new materials, and there's a good chance the tech giant will continue to make breakthroughs in the broader AI space.
+6. Meta Platforms
+With more than 3 billion daily active users across Facebook, Instagram, WhatsApp, and other services, Meta Platforms (META -3.33%) stands as the world leader in social media. Like Alphabet, the company is a leader in the digital ads space, with access to massive troves of data.
+These strengths have already helped Meta deliver highly targeted ads to users and build an advertising empire, and the company's impressive tech resources and infrastructure position the company to have a leading position in the evolution of AI.
+Improved ad targeting through AI should help power sales growth across its Facebook and Instagram platforms, and the social media titan has just started to leverage AI chatbots as a sales driver on WhatsApp and other services.
+7. CrowdStrike
+CrowdStrike (CRWD -2.90%) is a cybersecurity company that uses AI and machine learning to protect hardware devices and networks from attacks. In an age of bad actors increasingly turning to generative AI and other advanced technologies to carry out cybercrimes, the company's Falcon platform offers adaptive protections capable of guarding large businesses and organizations.
+As Falcon encounters new forms of cyberattacks, it updates and expands its threat-detection and defensive capabilities. CrowdStrike is already the top provider of cloud-based protections for computers, mobile devices, servers, and other hardware, and the company's competitive advantages stand to become even more pronounced as its AI-powered systems soak up more data.

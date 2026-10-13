@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon.com Inc has reported sales growth and profit ahead of Wall Street's expectations, as the company delivered goods faster and cheaper to shoppers and as recent cloud-computing headwinds began to subside.
+Amazon's shares surged nearly 7%, extending its stock market value by $90 billion (€82.2 billion) in after-hours trading.
+Facing an array of challenges, Amazon has aimed to keep its mantle as the world's biggest cloud provider and online retailer.
+The company answered AI front-runners Google and Microsoft with rival services of its own, drawing thousands of customers and touting the breadth of technology it has an offer, similar to what's powering the human-like chatbot ChatGPT.
+In retail, Amazon reorganised its delivery network and opened warehouses for same-day shipping closer to big metro areas, saving time and costs on delivery.
+'Putting Off Discretionary Purchases'
+But the boost that Amazon's cloud could reap from powering businesses' AI demand has yet to materialise in full, while those same customers had whittled down spending wherever they could. Consumers for months have acted with similar reserve, putting off discretionary purchases and shopping for value.
+"Going forward, one of the main questions for Amazon will be its capacity to push AI into its core and cloud businesses," Thomas Monteiro, senior analyst at Investing.com said.
+"While CEO Andy Jassy did mention the topic in his comments, I think investors are yet to see the practical applications of AI in Amazon's operation. In Q3, it is likely that companies will have to start showing results on that front."
+Still, Amazon's revenue grew 11% to $134.4 billion (€122.8 billion), compared to estimates of $131.5 billion (€120.1 billion) from analysts polled by Refinitiv.
+The company's fortunes in particular have been tied to those of its cloud-computing division. Long a major source of profit, Amazon Web Services (AWS) has seen growth slowdown in recent quarters, turbulence that CEO Andy Jassy said was starting to fade.
+'Strong Quarter Of Progress For Amazon'
+"Our AWS growth stabilised as customers started shifting from cost optimisation to new workload deployment," he said in a statement. "It was another strong quarter of progress for Amazon."
+AWS beat estimates of around $21.7 billion (€19.8 billion) in second-quarter cloud sales, increasing them 12% to $22.1 billion (€20.2 billion). That lagged the 28% growth in Alphabet's June-quarter cloud revenue and Microsoft Azure's 26% quarterly increase.
+Amazon has aimed to operate more leanly in the meanwhile, with 27,000 people affected by layoffs or what had been 9% of its roughly 300,000-person staff. It recently revealed more role reductions at Amazon Fresh stores after months of searching for a better grocery strategy.
+The company reported a quarterly profit of $6.7 billion (€6.1 billion), nearly double what analysts expected.
+Amazon now is expecting a further summer revenue bump. It said its biggest sales day ever was part of last month's marketing blitz for loyalty shoppers known as Prime Day.
+The company forecast current-quarter net sales in the range of $138 billion (€126.1 billion) and $143 billion (€130.6 billion). Analysts polled by Refinitiv were expecting revenue of $138.25 billion (€126.3 billion).

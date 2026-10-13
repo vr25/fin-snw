@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft follows AWS and Google, ends cloud egress fees for good
+Azure egress fees are gone, sort of
+In the wake of similar moves by rival companies Google Cloud and Amazon Web Services (AWS), Microsoft has announced that it will now be scrapping certain egress fees for its Azure cloud computing service.
+The news was confirmed in a company blog post, which states: “We support customer choice, including the choice to migrate your data away from Azure.”
+The company emphasized that Azure now offers free egress for customers transitioning their data out of the platform, be it to another rival cloud provider or an on-premises data center.
+Azure removes cloud egress fees
+As with its rival companies, the decision isn’t one of goodwill. Rather, it aligns with the impending enforcement of provisions within the European Data Act, aimed at dismantling contractual terms that prevent and hinder competition through vendor lock-in.
+Microsoft is already under a lot of pressure across Europe, with the UK’s CMA investigating its egress fees and other antitrust cases continue to develop, including unfair licensing that has led Microsoft to have dominance over the market.
+However, although the impending regulations are set to affect business across Europe, like Google and Amazon, Microsoft has confirmed that it will remove egress fees for “all Azure customers globally and from any Azure region.”
+Up until now, customers have been limited to the company’s 100GB-per-month free limit, and in a way, that will still apply. Rather than totally scrapping the fees, customers seeking to migrate must obtain credit to cover the cost of exiting. Microsoft’s guidance points to this support page for further guidance.
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+The announcement reads: “Azure Support will apply the credit when the data transfer process is complete and all Azure subscriptions associated to the account have been canceled.”
+Microsoft declined to add any further comment.
+More from TechRadar Pro
+- These are the best cloud hosting providers
+- Microsoft issued cloud pricing ultimatum by EU states
+- Store your data in the best cloud storage or the best cloud backup tools
+With several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!

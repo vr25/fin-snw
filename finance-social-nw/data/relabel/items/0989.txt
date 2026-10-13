@@ -1,0 +1,29 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Tech titans are under pressure to better tackle online child sexual abuse content after an internet safety watchdog found their approaches were "alarming but not surprising".
+The eSafety Commissioner has been closely monitoring online giants for several years.
+Apple and Microsoft in 2022 told the watchdog they did not proactively detect child abuse material stored on iCloud or OneDrive, even though these services were well-known for harbouring troubling content.
+Video and audio calling platforms Skype, Microsoft Teams, FaceTime and Discord similarly did not have measures to detect live-streamed child sexual abuse.
+And Meta, the parent company of several social media platforms, did not always share information between services when an account was banned, meaning offenders blocked on Facebook could continue perpetuating abuse on Instagram.
+The watchdog has not seen meaningful improvements in recent years, and eSafety Commissioner Julie Inman Grant will require the tech giants to report back on their child abuse content measures every six months.
+"Some of their answers were alarming but not surprising as we had suspected for a long time that there were significant gaps and differences across services' practices," she said.
+"They're taking an element of wilful blindness.
+"They're not detecting, they're not looking under the hood to see what might be hosted or shared on their platforms, and then they're also not allowing people to report child sexual abuse or terror content as they come across it."
+The commissioner found eight Google services, including YouTube, failed to block links to sites known to contain child abuse material, while Snapchat did not have technology to detect grooming in chats despite the proliferation of sexual extortion on the app.
+There were also wide disparities on how quickly these platforms respond to user reports of child sexual abuse content.
+In 2022, Microsoft took two days on average or as long as 19 days if a re-review was required while Snapchat responded within four minutes.
+By issuing reporting notices, the watchdog will know whether improvements have been made and be able to hold companies accountable for perpetrating harm against children.
+Google, Meta and Microsoft will be forced to report measures they have in place to tackle online sexual abuse.
+Discord, Snap, Skype and Whatsapp must go further and explain how they are addressing livestreamed abuse, online grooming, sexual extortion and the production of deepfake child sexual abuse material created using generative AI.
+Companies must provide their first round of responses by 15 February 2025.
+The commissioner has called for more powers to tackle deepfakes, where AI is used to generate an image based on a photo or superimpose faces onto pornographic material.
+Though the technology has been used since the late 2010s, its evolution has made it more threatening.
+"What used to be required to create a credible, realistic, deepfake were thousands of images, a high level of technological expertise and also a lot of computing power," Ms Inman Grant told ABC radio.
+"Now you've got these powerful AI apps that don't have safety guardrails contained.
+"There's very little, if no cost to a perpetrator ... but the cost to the victim-survivor is lingering and incalculable."
+Lifeline 13 11 14
+beyondblue 1300 22 4636
+1800 RESPECT (1800 737 732)
+National Sexual Abuse and Redress Support Service 1800 211 028
+Australian Associated Press

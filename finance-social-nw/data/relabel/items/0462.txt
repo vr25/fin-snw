@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Apple is apparently working on its own search engine internally which could possibly one day take on Google Search, the search engine is called ‘Pegasus” internally at Apple, the news comes from Bloomberg’s Mark Gurman in his weekly PowerON newsletter.
+According to the report, Apple has a team working under John Giannandrea, who was a former Google executive working on AI at Apple and also working on search as well, more details are below.
+John Giannandrea, a former Google executive who now oversees machine learning and AI at Apple, has a giant search team under him. Over the past few years, his group developed a next-generation search engine for Apple’s apps codenamed “Pegasus.” That technology, which more accurately surfaces results, is already available in some Apple apps, but will soon be coming to more, including the App Store itself.
+But the best evidence of Apple’s search efforts can be seen in Spotlight, which helps users find things across their devices. A couple of iOS and macOS versions ago, Apple started adding web search results to this tool, pointing users directly to sites that might answer their questions. During different points in time, those results were powered by either Microsoft Corp.’s Bing or Alphabet Inc.’s Google. Siri also uses that technology to offer up web results. – Bloomberg
+Apple and Google have a partnership for search on Apple’s devices and Google pays Apple billions of dollars each year for this, if Apple can create a viable alternative then it would be able to make considerably more money from its own search on the iPhone and other devices.
+Source Bloomberg
+Disclosure: Some of our articles include affiliate links. If you buy something through one of these links, Geeky Gadgets may earn an affiliate commission. Learn about our  Disclosure Policy.

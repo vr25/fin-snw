@@ -1,0 +1,31 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+WASHINGTON — The Biden administration is poised to open up a new front in its effort to safeguard US AI from China and Russia with preliminary plans to place guardrails around the most advanced AI models, Reuters reported on Wednesday.
+Government and private sector researchers worry US adversaries could use the models, which mine vast amounts of text and images to summarise information and generate content, to wage aggressive cyber attacks or even create potent biological weapons.
+Here are some threats posed by AI:
+Deepfakes and misinformation
+Deepfakes - realistic yet fabricated videos created by AI algorithms trained on copious online footage — are surfacing on social media, blurring fact and fiction in the polarised world of US politics.
+While such synthetic media has been around for several years, it's been turbocharged over the past year by a slew of new "generative AI" tools such as Midjourney that make it cheap and easy to create convincing deepfakes.
+Image creation tools powered by artificial intelligence from companies including OpenAI and Microsoft, can be used to produce photos that could promote election or voting-related disinformation, despite each having policies against creating misleading content, researchers said in a report in March.
+Some disinformation campaigns simply harness the ability of AI to mimic real news articles as a means of disseminating false information.
+While major social media platforms like Facebook, Twitter, and YouTube have made efforts to prohibit and remove deepfakes, their effectiveness at policing such content varies.
+For example, last year, a Chinese government-controlled news site using a generative AI platform pushed a previously circulated false claim that the United States was running a lab in Kazakhstan to create biological weapons for use against China, the Department of Homeland Security (DHS) said in its 2024 homeland threat assessment.
+National Security Advisor Jake Sullivan, speaking at an AI event in Washington on Wednesday, said the problem has no easy solutions because it combines the capacity of AI with "the intent of state, non-state actors, to use disinformation at scale, to disrupt democracies, to advance propaganda, to shape perception in the world."
+"Right now the offence is beating the defence big time," he said.
+Bioweapons
+The American intelligence community, think tanks and academics are increasingly concerned about risks posed by foreign bad actors gaining access to advanced AI capabilities. Researchers at Gryphon Scientific and Rand Corporation noted that advanced AI models can provide information that could help create biological weapons.
+Gryphon studied how large language models (LLM) — computer programmes that draw from massive amounts of text to generate responses to queries — could be used by hostile actors to cause harm in the domain of life sciences and found they "can provide information that could aid a malicious actor in creating a biological weapon by providing useful, accurate and detailed information across every step in this pathway."
+They found, for example, that an LLM could provide post-doctoral level knowledge to trouble-shoot problems when working with a pandemic-capable virus.
+Rand research showed that LLMs could help in the planning and execution of a biological attack. They found an LLM could for example suggest aerosol delivery methods for botulinum toxin.
+Cyberweapons
+[[nid:680403]]
+DHS said cyber actors would likely use AI to "develop new tools" to "enable larger-scale, faster, efficient, and more evasive cyber attacks" against critical infrastructure including pipelines and railways, in its 2024 homeland threat assessment.
+China and other adversaries are developing AI technologies that could undermine US cyber defences, DHS said, including generative AI programmes that support malware attacks.
+Microsoft said in a February report that it had tracked hacking groups affiliated with the Chinese and North Korean governments as well as Russian military intelligence, and Iran's Revolutionary Guard, as they tried to perfect their hacking campaigns using large language models.
+New efforts to address threats
+A bipartisan group of lawmakers unveiled a bill late Wednesday that would make it easier for the Biden administration to impose export controls on AI models, in a bid to safeguard the prized US technology against foreign bad actors.
+The bill, sponsored by House Republicans Michael McCaul, John Molenaar, Max Wise and Democrat Raja Krishnamoorthi, would also give the Commerce Department express authority to bar Americans from working with foreigners to develop AI systems that pose risks to US national security.
+Tony Samp, an AI policy advisor in Washington, said policymakers in Washington are trying to "foster innovation and avoid heavy-handed regulation that stifles innovation" as they seek to address the many risks posed by the technology.
+But he warned that "cracking down on AI development through regulation could inhibit potential breakthroughs in areas like drug discovery, infrastructure, national security, and others, and cede ground to competitors overseas."
+ALSO READ: Fake videos of Modi aides trigger political showdown in India election

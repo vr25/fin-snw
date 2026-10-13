@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+'I’m a Silicon Valley titan at NVIDIA and this is my career advice for kids'
+To code or not to code 🤔
+- A fourth industrial revolution is nearing and you might be wondering how best to steer your kids in regards to their futures.
+- Should they all be learning to code or will AI-powered computers replace that?
+- A top Silicon Valley executive has given us advice for workers of the future.
+The world continues to evolve and change at an unprecedented pace. Just a few years ago if you thought about artificial intelligence at all it was probably in the context of science fiction films.
+Fast forward to 2024 and we’re probably all using advanced AI-tools on a regular basis, even if you don’t realise it. If you’ve upgraded your phone recently it will likely have some snazzy features utilising machine learning - the magic eraser for photos on Google devices, is just one example.
+As the future continues to charge headlong towards us, you may be wondering what the jobs market will look like for your children when that time comes - and want to future proof them, especially as the age of robotics may be closer than you think. If you are reading this from the UK you may remember that ill-advised campaign encouraging people in the arts (such as ballet) to retrain to a career in “cyber”.
+Well, according to a top executive from one of the most high profile tech companies in the world, NVIDIA, the future for kids may be far more open than you expect. I’m at the World Congress on Innovation and Technology in Yerevan, Armenia, and this is what that Silicon Valley titan had to say:
+Should your kids learn how to code?
+Rev Lebaredian, NVIDIA’s vice president of omniverse and simulation, spoke at length about the fourth industrial revolution and the dawn of robotics on a mass-scale. In a follow up interview with us, he offered his advice for children starting to think about their future careers.
+He told us: “You know in the past people would ask me what should my kid do and it was for most of my life, the answer has been well, whatever they do they should also learn how to code. Because if you can combine coding with whatever is your domain expertise thing, it'll be really valuable for you to bridge these worlds together.
+“That may not be so true now because we now have software that can write software, it can actually interpret your intentions from natural language and create software. They're not great at it yet they're actually better than a lot of real human coders already and we have every reason to believe that they're going to get much better very fast, it's happening as we speak.”
+‘Everybody is a coder’
+If you are reading this wondering whether you should stop your kids learning to code at all, the NVIDIA executive explained: “I think the way to look at it is essentially because we have this new technology that can go from natural language into software, it's almost like we've added a new layer of our compiler stack.
+“The history of computing, we started with programming them just by flipping switches physically, and then we would type assembly or hexadecimal and then assembly. And then we had languages like BASIC and stuff that were more English-like and so on and so forth.
+“Now we've taken all the way to the end, to natural language. You can program a computer just by talking in your language, whatever it happens to be. And so in some sense, it's not that there's no job for coders, it's that everybody is a coder.”
+What does it mean if ‘everybody is a coder’
+Discussing the implications of his vision of the future where advances in AI and its enabling everyone to become a coder, he added: “Well, before we had a small number of people who can actually write good code, and it takes a lot of work to do that.
+“So they go build these applications. They try to make them as general as possible so as many users as possible can take advantage of it. But that tool that they build is not necessarily perfect for each one of those people.
+“It's even worse if your domain, if your particular domain is something that's kind of a niche, a very important one, but a very small number of people really understand it. It might be, you know, the language of molecules, knowing how to put molecules together, or genes, or I don't know, material science, something in particular.
+“Now you have to find some computer scientist somewhere who you can explain enough of your problem to for that person to turn it into a tool that you could use in your field and most of the time we just end up not using computing there because we couldn't but now that person that is the expert in that domain can become a programmer and build a tool that's perfect for them for that moment.”
+He continued: “So what I would recommend to any young person is, I mean, if you're really interested in building computers and computer science and stuff, then this is still a great thing. Go do that.
+“But if you have an interest in things related to the physical world, you are interested in how materials work. If you're interested in how cells work, go study that and don't worry about the coding part of that. The computer scientists are going to take care of that for you.
+“They're going to give you a compiler stack that makes it so that you could write your own programs. It's the same way you would by telling a really intelligent computer scientist what to do, but this one will probably listen to you better than the programmer.”
+I am at the World Congress on Innovation and Technology from 4 October to 7 October. You can find all my stories from the event here. You can get in touch with me by emailing: [email protected].

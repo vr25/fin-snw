@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Indian-American exec Deedy Das paints bleak picture of Silicon Valley's AI boom: ‘Rich aren’t happy either’
+Indian-origin venture capitalist Deedy Das has painted a bleak picture of life inside San Francisco’s AI boom, referring to the widening wealth gap
+Indian-origin venture capitalist Deedy Das has painted a bleak picture of life inside San Francisco’s AI boom, saying the widening wealth gap and fears around artificial intelligence are leaving even highly paid tech workers “psychologically tormented”.
+In a widely circulated social media post, Das said Silicon Valley currently feels “pretty frenetic”, with a small group of AI insiders amassing enormous wealth, while many software engineers live in fear layoffs and stagnating careers.
+The divide in Silicon Valley
+“The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen,” wrote Das, a partner at Menlo Ventures and former tech lead at Google and Facebook.
+(Also read: Who is Deedy Das? Ex-Google and Facebook techie becomes partner at Menlo Ventures)
+Das claimed that the AI boom has made millionaires out of a select few. Meanwhile, others in the IT industry are rueing ‘bad timing’ while battling anxiety about AI-driven layoffs.
+“Over the last 5yrs, a group of ~10k people - employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders - have hit retirement wealth of well above $20M (back of the envelope AI estimation),” he said.
+According to Das, many professionals outside that elite circle feel increasingly disillusioned. The Kolkata-born, California-based venture capitalist contrasted the 10,000 millionaires of Silicon Valley with the ‘outside group’ that’s battling low wages and layoff anxiety.
+“Everyone outside that group feels like they can work their well-paying (but <$500k) job for their whole life and never get there,” said Das.
+The role of AI
+Das argued that traditional career paths no longer seem attractive to many workers in Silicon Valley, thanks to AI and AI-driven layoffs.
+“Worse yet, layoffs are in full swing. Many software engineers feel like their life's skill is no longer useful. The day to day role of most jobs has changed overnight with AI,” he claimed.
+“The corporate ladder looks like the wrong building to climb,” he wrote, adding that workers are now scrambling to align themselves with new AI-focused opportunities.
+“Everyone's trying to align with a new set of career ‘paths’: should I be a founder? Is it too late to join Anthropic / OpenAI? should I get into AI? what company stock will 10x next?”
+According to him, employees are increasingly switching jobs and demanding higher salaries amid fears that they may miss out on the AI wealth boom.
+‘A deep malaise about work’
+The investor also described what he called a “deep malaise” around the future of work.
+“Why even work at all for ‘peanuts’? Will my job even exist in a few years?” he wrote, alluding to the prevailing sentiment among tech workers.
+Das said conversations around a “permanent underclass” had become increasingly common among younger workers, many of whom feel helpless watching a small group accumulate massive fortunes through AI.
+“It’s hard to focus on doing good work when you think ‘man, if I joined Anthropic 2 years ago, I could retire’,” he added.
+In the current scenario, mid- to senior-level managers were especially vulnerable as several companies have started hollowing out their roles.
+“Many have families and don't feel like they have the energy or network to just ‘start a company’. They don't particularly have any AI skills,” he wrote.
+‘The rich aren’t particularly happy either’
+Das argued that the AI boom has not only destabilised workers struggling to keep up, but has also left many sudden millionaires grappling with a loss of direction and purpose.
+According to him, some employees and founders who became extraordinarily wealthy through AI companies experienced life-changing financial success so quickly that they were psychologically unprepared for it.
+“Some have gone from <$150k to >$50M in a few years with no ramp. It flips your life plans upside down,” he wrote.
+Das suggested that for some people, financial freedom did not necessarily translate into fulfilment. “I once asked a post-economic founder friend why they didn't just sell the company and they said ‘and do what? Right now, everyone wants to talk to me. If I sell, I will only have money.’”
+Deedy Das concluded by saying that unlike many other places, people in Silicon Valley generally believe that intelligence, hard work and years of experience are rewarded with success. However, the AI boom has shaken that belief because a small group of people became extraordinarily wealthy in a very short period of time simply by being at the right companies at the right moment.
+“It psychologically torments many who have moved here in search of ‘success,” he said.
+- ABOUT THE AUTHORSanya JainSanya Jain is an Assistant Editor with Hindustan Times Digital. She has nearly a decade of experience in covering offbeat stories that speak to the everyday experience -- from viral videos to human interest copies that spark a conversation. Her interests stretch across business, pop culture, social media trends, entertainment and global affairs. Before joining Hindustan Times, Sanya spent two years with Moneycontrol and five years with NDTV. She holds an undergraduate degree in English literature from St Stephen’s College, Delhi, and a master’s in journalism from the Xavier Institute of Communications, Mumbai. Sanya has a sharp eye for spotting emerging trends and finding newsworthy angles in viral content. She writes about a wide range of topics, from business leaders and social issues to everyday people and internet trends. She enjoys speaking to content creators, newsmakers and entrepreneurs and turning their experiences and stories into engaging, relatable articles.Read More

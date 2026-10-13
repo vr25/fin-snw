@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Microsoft wants to ditch NVIDIA and AMD chips for in-house custom silicon
+Microsoft may be shifting away from NVIDIA and AMD, betting on its own AI data center chips to power its future in the landscape.
+Over the past few months, Microsoft has been doubling down on its efforts to become more independent in the AI landscape. The tech giant is OpenAI's largest backer with a $13 billion investment. It has heavily integrated the ChatGPT maker's technology across its products and services.
+Microsoft CEO Satya Nadella indicated that the company is moving away from Bill Gates' rigid software factory vision by diversifying its portfolio into intelligence, integration, and AI.
+At the beginning of the year, OpenAI unveiled its $500 billion Stargate project designed to facilitate the construction of data centers across the United States for its sophisticated AI advances. Consequently, Microsoft lost its exclusive cloud provider status, though it still holds the right of first refusal.
+Salesforce CEO Marc Benioff predicted that Microsoft won't use OpenAI's technology in the future. More recently, Microsoft AI CEO Mustafa Suleyman confirmed that the company was developing its own off-frontier AI models, but admitted they'll be 3 or 6 months behind OpenAI. "Our strategy is to really play a very tight second," added Suleyman.
+Building further upon this premise, Microsoft Chief Technology Officer Kevin Scott recently revealed that the company wants to use its own AI chips across data centers, potentially moving away from an over-reliance on AMD and NVIDIA (via CNBC).
+According to Scott:
+“We’re not religious about what the chips are. And ... that has meant the best price performance solution has been Nvidia for years and years now. We will literally entertain anything in order to ensure that we’ve got enough capacity to meet this demand.”
+All the latest news, reviews, and guides for Windows and Xbox diehards.
+Every major tech corporation is trying to tap into the AI hype, creating a high demand for chips to foster the development of AI, which explains why NVIDIA's market valuation has been on an upward trajectory (up to $4 trillion).
+Scott revealed that Microsoft intends to predominantly use its own chips across its data centers. Perhaps more interestingly, the executive revealed that the tech giant is already using its own chips right now.
+Microsoft AI CEO Mustafa Suleyman recently highlighted the company's plan to build and develop its own AI chip cluster to unlock self-sufficiency in AI.
+For context, the software giant launched the Azure Maia AI Accelerator in 2023 for AI workloads. And now, it is reportedly developing in-house next-gen chips. This will make it easy for the company to develop an entire system that goes in the data center, which meets a specific need.
+According to Scott:
+“It’s about the entire system design. It’s the networks and the cooling and you want to be able to have the freedom to make the decisions that you need to make in order to really optimize your compute to the workload.”
+Elsewhere, Microsoft's multibillion-dollar partnership with OpenAI has seemingly been fraying. The tech giant reportedly wiggled out of two mega data center deals because it did not want to provide additional training support for ChatGPT. However, Sam Altman indicated that OpenAI is no longer compute-constrained.
+Follow Windows Central on Google News to keep our latest news, insights, and features at the top of your feeds!
+Kevin Okemwa is a seasoned tech journalist based in Nairobi, Kenya with lots of experience covering the latest trends and developments in the industry at Windows Central. With a passion for innovation and a keen eye for detail, he has written for leading publications such as OnMSFT, MakeUseOf, and Windows Report, providing insightful analysis and breaking news on everything revolving around the Microsoft ecosystem. While AFK and not busy following the ever-emerging trends in tech, you can find him exploring the world or listening to music.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Michael Burry Asks For Photos Of Warehoused Nvidia GPUs After Analyst Questions Jensen Huang's Blackwell Shipment Numbers (UPDATED)
+Editor's Note: This story has been updated to provide additional clarity on Nvidia GPU dies shipped in 2025.
+Over the weekend, Michael Burry, the investor made famous by "The Big Short" for forecasting the 2008 housing collapse, asked for evidence of stockpiled Nvidia Corp (NASDAQ:NVDA) GPUs.
+This development came after an analysis on X questioned whether Jensen Huang's statement about Blackwell shipments aligns with the company's reported revenue and U.S. data-center capacity.
+Burry Joins Debate Over Nvidia's Blackwell Shipments
+Burry's statement came after a detailed thread on X from a user known as Kakashii ignited fresh scrutiny around Nvidia's latest GPU generation.
+The user, who introduced themselves as an attorney on social media, questioned Huang's statement that six million Blackwell GPUs have already shipped.
+Huang said in October 2025 that demand for Nvidia's chips is still surging, noting that the company has shipped 6 million Blackwell GPUs over the past four quarters, reported CNBC.
+Don't Miss:
+-       Missed Nvidia and Tesla? RAD Intel Could Be the Next AI Powerhouse — Just $0.85 a Share
+-       An EA Co-Founder Shapes This VC Backed Marketplace—Now You Can Invest in Gaming's Next Big Platform
+At the time, he also stated that Nvidia expects a combined $500 billion in GPU sales across the Blackwell line and next year's Rubin generation.
+According to the analysis shared by Kakashii on X, Nvidia's reported $111 billion in data-center revenue since Blackwell launched does not appear to support that shipment volume.
+Even after factoring in the more than $10 billion Nvidia disclosed in the 2024 fourth-quarter Blackwell revenue, the thread argues the numbers only account for roughly 4 million units, leaving a potential gap of hundreds of thousands to millions of GPUs.
+Power and Data-Center Capacity Add Another Layer Of Questions
+The thread also pointed to the enormous energy requirements of running Blackwell chips.
+If 6 million GPUs shipped and 65% to 70% were deployed in U.S. data centers, they would require 8.5 to 11 gigawatts of power — roughly equivalent to the electricity capacity of Singapore, the analyst said.
+However, the U.S. only added an estimated 8.5 gigawatts of data-center-usable capacity between 2024 and 2025, the user noted. That assumes every new facility uses only Nvidia hardware and no Advanced Micro Devices, Inc. (NASDAQ:AMD) or Alphabet Inc.'s (NASDAQ:GOOG) (NASDAQ:GOOGL) Google chips.
+Even then, the user argued, the power supply barely matches the stated GPU shipment volume.

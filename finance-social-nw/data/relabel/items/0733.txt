@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft is facing another major EU investigation - this time around blocking security software purchases
+More EU investigations into Microsoft
+Regulators in the European Union are once again taking aim at Microsoft, this time concerning its security software practices.
+Microsoft has been on the regulatory radar for some time over non-competitive practices, and is now being investigated for restricting its customers from using rival security software.
+The company is also being investigated for its investments in Mistral AI, a relatively small but incredibly buzzworthy company that builds AI models.
+Regulatory hurdles for tech giant
+The Information says the European Commission is investigating claims that Microsoft is restricting competitor security software, specifically customers of Office 365 being unable to use alternative security products.
+Google’s investments in AI company Mistral AI are also apparently on the books to be investigated by the European Commission. Google’s Cloud President Amit Zavery recently criticized Microsoft’s cloud business practices, stating that Microsoft “are creating this whole walled garden, which is completely controlled and owned by Microsoft, and customers who want to do any of this stuff, you have to go to Microsoft only.”
+"We worry about Microsoft wanting to flex their decade-long practices where they had a lot of monopoly on the on-premise software before and now they are trying to push that into cloud now."
+A statement by European Commission spokesperson Lea Zuber remarked that, “The Commission is looking into agreements that have been concluded between large digital market players and generative AI developers and providers. In this context, we have received the mentioned agreement, which we will analyze.”
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+Microsoft has been under increasing regulatory pressure after the UK’s Competition and Markets Authority and the US Federal Trade Commission launched similar investigations into Microsoft’s OpenAI partnerships.
+Amazon is also facing investigations in the UK, EU and US, and it's lobbyists have been banned from the European Parliament after MEPs called for their removal due to alleged breaches of labour laws at Amazon sites in the European Union.
+More from TechRadar Pro
+- These are the best cloud computing and best cloud storage providers
+- Intel ushers in the enterprise AI PC era with new vPro platform
+- Take a look at our guide to the best AI tools
+Benedict is a Senior Security Writer at TechRadar Pro, where he has specialized in covering the intersection of geopolitics, cyber-warfare, and business security.
+Benedict provides detailed analysis on state-sponsored threat actors, APT groups, and the protection of critical national infrastructure, with his reporting bridging the gap between technical threat intelligence and B2B security strategy.
+Benedict holds an MA (Distinction) in Security, Intelligence, and Diplomacy from the University of Buckingham Centre for Security and Intelligence Studies (BUCSIS), with his specialization providing him with a robust academic framework for deconstructing complex international conflicts and intelligence operations, and the ability to translate intricate security data into actionable insights.

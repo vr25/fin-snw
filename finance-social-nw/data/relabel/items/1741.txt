@@ -1,0 +1,23 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+By STAN CHOE, AP Business Writer
+NEW YORK (AP) — The U.S. stock market is swinging through another unsettled day of trading on Wednesday, as a huge couple of tests loom on Wall Street.
+The S&P 500 added 0.1% in afternoon trading after veering earlier between a loss of 0.2% and a jump of 1.1%. The index is coming off a four-day losing streak, its longest in nearly three months, and has been shaky recently because of worries that stock prices have shot too high and that the Federal Reserve may not deliver as many revitalizing cuts to interest rates as expected.
+The Dow Jones Industrial Average was down 76 points, or 0.2%, as of 12:48 p.m. Eastern time, and the Nasdaq composite was 0.1% higher.
+Constellation Energy helped lead the market and rallied 5.6% after the U.S. Department of Energy said it’s lending $1 billion to help restart Constellation’s nuclear power plant at Three Mile Island. Lowe’s rose 5.3% after the home-improvement retailer reported a stronger profit for the summer than analysts expected.
+They helped work against a 2.2% dip for Target, which reported a stronger profit but also weaker revenue for the latest quarter than analysts expected. The retailer hinted that challenges may continue through the critical holiday shopping season.
+The market’s focus, though, remained on Nvidia. Wall Street’s most influential stock climbed 1.6% to recover some of its loss for the month so far, which topped 10% on Tuesday. Traders are making their final moves before the chip company reports how much profit it made during the summer after trading ends for the day.
+Much is riding on it.
+Nvidia has grown to become the largest stock on Wall Street and briefly topped $5 trillion in value. That means its movements have more of an effect on the S&P 500 than any other stock, and it can single-handedly steer the index’s direction some days.
+One way Nvidia can quiet criticism that it shot too high, which led to this month’s struggles, is to keep delivering bigger profits because stock prices tend to track profits over the long term.
+Nvidia has also become a bellwether for the broader frenzy around artificial-intelligence technology, because other companies are using its chips to ramp up their AI efforts. Palantir Technologies, Amazon, Microsoft and other AI-linked stocks have been a major reason the U.S. stock market has been setting records, with the latest for the S&P 500 coming late last month.
+Worries have been rising, though, that all the investment may not produce as much profit and productivity for the economy as earlier hoped. Critics have been suggesting AI’s surge is similar to the bubble that enveloped dot-com stocks, which ultimately imploded in 2000 and dragged the S&P 500 down by nearly half.
+Traders are also making their final moves ahead of a jobs report coming from the U.S. government on Thursday.
+It will show many jobs employers created and destroyed in September, which earlier got delayed because of the federal government’s shutdown. Even though the data may be stale, it could sway Wall Street because of how closely traders are paying attention to the job market’s strength.
+The job market has been slowing enough this year that the Fed has already cut its main interest rate twice. Lower rates can give a boost to the economy and to prices for investments, and the expectation on Wall Street had been for more cuts, including at the Fed’s next meeting in December.
+But some Fed officials have hinted that they should take a pause next month, in part because inflation has stubbornly remained above the Fed’s 2% target. Lower interest rates can worsen inflation.
+What the Fed does is critical for the stock market because prices ran to records in part because of expectations for continued cuts to rates.
+Treasury yields have been swinging in the bond market as traders rejigger their forecasts for the Fed’s overnight interest rate. The yield on the 10-year Treasury eased to 4.11% from 4.12% late Tuesday.
+In stock markets abroad, indexes were mixed amid mostly modest movements across Europe and Asia.
+AP Business Writers Yuri Kageyama and Matt Ott contributed.

@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google has brought a new feature to its Pixel Watch, namely the ability to detect if the wearer has taken a tumble.
+The watch uses its motion sensors combined with AI smarts to determine if a fall has occurred, and can differentiate between a hard fall, and say a more natural jolt or stumble. (It'll also pull in other data from the watch, presumably like your heart rate, which will doubtless spike in a nasty fall).
+Then, if you aren't moving after the fall has happened for a certain length of time, the Pixel Watch can automatically call the emergency services, so you'll get the attention you need as quickly as possible.
+Google explains that following what the Pixel Watch detects as a hard fall, it'll wait for around 30 seconds and if you aren't moving by then, a notification will pop up (plus an alarm sound, and vibration, to make sure you can't miss it). You can use that to tell the watch you're fine if it's a false alarm, or there's another option to confirm you've had a fall and need help.
+If you don't respond, the alarm will increase in volume and go on for a minute, and assuming you remain unresponsive, the watch will call the emergency services itself using an automated message to bring help to your current location.
+It's a neat additional feature, and one that brings Google's smartwatch up to parity with the Apple Watch, which already offers fall detection.
+If you wish to make use of the feature, you'll have to enable it first. Check out the Personal Safety app on the Pixel Watch to do that.
+As the CDC in the US makes clear, falls are the most common cause of injury-related death for those aged 65 and over (with accidents placing fourth in the overall rankings of the leading causes of death, behind heart disease, cancer and Covid).
+Anything that might help to decrease those numbers is clearly a good thing.

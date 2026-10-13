@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft said Thursday that it's contributing $1 million to President-elect Donald Trump's inauguration fund.
+The software maker is now more closely aligned with its highly valued peers in the technology industry. Google said earlier Thursday that it's donating $1 million to the Trump fund, and Meta offered the same amount in December. Amazon was reportedly looking to make a similar contribution.
+OpenAI CEO Sam Altman said in December that he would contribute $1 million individually, and Axios reported last week that Apple CEO Tim Cook will do the same.
+Elon Musk, Tesla's CEO and the world's richest person, has been advising Trump as he prepares to return to the White House following the inauguration later this month.
+Microsoft also contributed $500,000 to the first inauguration fund for Trump's first term and gave the same amount to President Joe Biden's fund, a Microsoft spokesperson told CNBC.
+Satya Nadella, Microsoft's CEO, has met with Trump on multiple occasions, including over negotiations surrounding a possible acquisition of TikTok in the U.S. in 2020. Nadella also joined a Trump roundtable of technology executives from around the country in 2017.
+Microsoft is hoping that under Trump, the U.S. will push artificial intelligence policy in a favorable direction.
+"The United States needs a smart international strategy to rapidly support American AI around the world," Brad Smith, Microsoft's vice chair and president, wrote in a blog post last week.

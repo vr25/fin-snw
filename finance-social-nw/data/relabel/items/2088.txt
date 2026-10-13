@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Big technology and artificial intelligence (AI) firms earn up to £194,000 from using the data of each UK internet user over their lifetime, according to new analysis.
+Some of the world’s biggest and most powerful companies collect and monetise personal data to power the internet, Web3 Foundation found in a report.
+The study looked at a vast range of ways that people leave a digital footprint, from search queries, clicks and location signals, through to online purchases, messages, uploaded images and social media posts.
+Typically, this information has been collected through technology like cookies and used to help companies create targeted adverts.
+But the research found that people’s data is increasingly being collected, aggregated and analysed for newer forms of monetisation like building AI systems and training models.
+It estimates that each UK and European internet user contributes up to £194,000 in inflation-linked commercial value over their digital lifetimes.
+Rather than pointing to a specific amount of money that people contribute, the modelling aims to demonstrate the scale at which the internet is powered by people’s data, according to the report.
+Bill Laboon, vice president of technical operations for Web3 Foundation, told the Press Association: “People should be aware that their data is being used and monetised by all kinds of other entities.
+“It’s a privacy issue. Likely people do not understand or realise that whenever they’re asking a question on ChatGPT, when they are selecting a spell check correction… that’s being used.”
+He said targeted advertising was the more “classic” way that people understand their data is used, but they may be less aware that it is becoming the “lifeblood” of AI training models.
+Web3 Foundation, an internet challenger which aims to replace the current web with a new user-led system, said people may be being excluded from the AI systems that their information helped to build.
+Technology giants Amazon, Alphabet, Anthropic, Microsoft and Meta are estimated to earn up to £1,000 annually on a single internet user, the report found.
+This means that other growing AI firms are “doing the heavy lifting” when it comes to using personal data and potentially earning more.
+US chip-maker Nvidia was the first company in the world to reach a market value of five trillion US dollars (£3.72 trillion) last year, having struck deals with AI giants like OpenAI and Oracle.
+Microsoft and Apple have also recently surpassed the four trillion US dollar (£2.98 trillion) valuation mark.
+“As AI accelerates and data becomes even more valuable, building a more transparent, user-led internet is becoming increasingly urgent,” Mr Laboon added.

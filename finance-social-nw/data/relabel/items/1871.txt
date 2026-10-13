@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Andrew Bosworth, the company’s chief technology officer, told Reuters Wednesday (Jan. 21) that the models created by Meta’s Superintelligence Labs team showed promise.
+“They’re basically six months into the work, not quite even,” said Bosworth, who spoke with Reuters at the World Economic Forum in Davos, Switzerland. He added that the team’s AI models were “very good.”
+The news follows reports from last month that Meta was developing a text AI model codenamed Avocado scheduled for a first-quarter debut, as well as a n image and video-focused model codenamed Mango. Bosworth did not specify which models were delivered, Reuters added.
+The report notes that Meta’s AI efforts are being watched closely in the wake of CEO Mark Zuckerberg’s moves in the last year, which saw the company overhaul its AI leadership, start a new lab and recruit talent with multi-million dollar compensation offers.
+      
+    We’d love to be your preferred source for news.
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+      
+ 
+Meta, Reuters added, has been criticized for the performance of its Llama 4 model amid launches by rivals such as Google. Bosworth told the news outlet that the technology was still being worked on.
+“There’s a tremendous amount of work to do post-training” for AI, “to actually deliver the model in a way that’s usable internally and by consumers,” he said.
+Bosworth’s comments came a little more than a week after reports that Meta was planning to cut 10% of the jobs in its 15,000-person Reality Labs unit, part of a larger plan to shift its focus on virtual reality products as it concentrates on other AI wearables.
+Writing about Meta’s AI projects last year, PYMNTS contrasted the company’s efforts with those of rivals Amazon, Google and Microsoft. Where those companies pair their AI investments with clear paths to revenue, Meta has concentrated on building for internal use.
+The report cited the example of Microsoft monetizing OpenAI’s models via subscriptions to Azure and Copilot, and Google selling Gemini and Vertex AI access through its cloud division, while also building a burgeoning TPU business. And Amazon’s Bedrock and SageMaker platforms transform infrastructure into recurring enterprise revenue.
+“Meta, by contrast, uses its AI for engagement, recommendation engines, ad ranking, and tools like Meta AI and Reels,” PYMNTS wrote. “Those may improve user metrics, but it’s not clear how they will contribute to the bottom line.”
+For all PYMNTS AI coverage, subscribe to the daily AI Newsletter.

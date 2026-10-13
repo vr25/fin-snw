@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+It's time to pump the brakes on talk of a mega nuclear energy buildout, experts warn
+HUNT VALLEY, Md. (TNND) — Big technology companies are turning their focus toward nuclear energy to power data centers required to train artificial intelligence tools, but experts are warning the industry might be moving too quickly on that front given the risks involved.
+Google and Microsoft are among those hammering out deals to buy nuclear power from suppliers, recent reports show. While Google plans on purchasing power from small modular reactor developer Kairos Power, Microsoft inked a deal last year with energy firm Constellation to resurrect a defunct reactor at the Three Mile Island plant in Pennsylvania.
+The most serious nuclear meltdown and radiation leak in U.S. history occurred at the Three Mile Island plant back in 1979.
+Amazon has also announced a $500 million deal with Dominion Energy to build out a small modular nuclear reactor near one of the company's nuclear power stations. All three companies are trying to satisfy the demand for generative AI applications, which results in huge spikes in the amount of energy required.
+Electricity consumption from data centers, AI and the cryptocurrency sector are expected to double from an estimated 460 terawatt-hours in 2022 by 2026, according to data from the International Energy Agency.
+Global electricity consumption from data centers, artificial intelligence and the cryptocurrency sector is expected to double from an estimated 460 terawatt-hours (TWh) in 2022 to more than 1,000 TWh in 2026, according to a research report from the International Energy Agency.
+The U.S.' roughly 2,700 centers sucked up more than 4% of the country's electricity just two years ago, according to the IEA. That number will jump to 6% in less than two years.
+Cryptocurrency mining is proving a major drag on energy grids as well.
+Worldwide Bitcoin mining used 121.13 terawatt-hours of electricity in 2023, according to the University of Cambridge's Bitcoin Electricity Consumption Index. That is comparable to the Netherlands, which consumed 121.6 terawatt-hours in 2022, the IEA reports.
+Using nuclear energy to power these demands is not without its controversy, especially from climate activists who cite concerns regarding their hazardous environmental and safety risks.
+“It is often referred to as ‘clean’ energy because it doesn’t produce carbon dioxide or other greenhouse gases when electricity is generated," climate group Greenpeace states on its website, noting nuclear waste is harmful to the environment.
+But there are other problems as well, in particular costs of nuclear plants relative to long-term investments in AI, according to Henry Sokolski, executive director at the Nonproliferation Policy Education Center, a nonprofit promoting a better understanding of strategic weapons.
+"We don't know if our cars will plug into our houses, or our houses will plug into our cars," Sokolski told The National Desk, referring to where the industry is in terms of determining the end game of AI and the Internet of things.
+If the economy slows down or the gains turn out to be smaller than the industry anticipates or their algorithms become more efficient over time, then less energy will be needed, he said. And because most benefits from nuclear energy come over several decades rather than a few years, there could be sunk costs.
+The cost of constructing nuclear power plants can run in the billions. Two reactors being built in Georgia are expected to cost twice their initial estimates, and a pair of reactors in South Carolina were canceled after costs exploded from $9.8 billion to $25 billion.
+Much of the reason for the balloon in costs comes from regulatory burdens as well as the time it takes to build. The longer construction takes, the more costs go up, reports show.
+Another problem involves the country's electric grid and whether it is capable of holding up to the capacity loads required to keep data centers running. Some areas of the country are experiencing what is called distorting electricity flows, a recent Bloomberg analysis shows.
+Bloomberg's report refers to distortions as "bad harmonics," which can lead to damaged appliances, electricity arcing and home fires. More than three-quarters of highly distorted power readings across the country occur within 50 miles of significant data center activity, according to the report.
+"You need to fix that. Which has to do with the grid. Who's going to pay for that? Regulatory headache." Sokolski said, referring to the challenges to determine the costs of updating the electric grid.
+The speed with which industry and policymakers are going on nuclear energy is also a problem, according to Victor Gilinsky, a physicist and former commissioner on the U.S. Nuclear Regulatory Commission. He helped clean up the mess left in the wake of the Three Mile Island accident.
+Gilinsky is a critic of the ADVANCE Act, which Congress passed last year meant to accelerate licensing of advanced reactors.
+The law directs the Nuclear Regulatory Commission to modify its approach to safety reviews by adding a provision in its mission statement stating reviews will "not unnecessarily limit the benefits of nuclear energy to society," Gilinsky wrote in an editorial last November in Bulletin of the Atomic Scientists.
+"This sort of pressure spells trouble. The safety of complex systems with inherent dangers is a subtle trade and requires unbiased attention to avoid serious errors," Gilinsky wrote, arguing that the phrase forces regulators into Sophie's choice: choosing safety over speed.
+Sokolski agrees.
+"Congress has already told the nuclear regulatory commission: back off; we want you to be more efficient, which is pretty close to saying we want you to speed up the process and not get in the way," he told The National Desk. "How's that work? We'll find out."

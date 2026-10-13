@@ -1,0 +1,20 @@
+{"id": "1280", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Bayer AG Enterprise Digital Transformation Strategy", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1281", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Noida (Uttar Pradesh) [India], January", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1282", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Artic Blast Brings Sustained Freezing Temperatures", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1283", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Harnessing technology in schools can", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1284", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In this podcast, Motley Fool analyst", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1285", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Thanks largely to OLX and", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1286", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "March 6 (Reuters) – Wall", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1287", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen & Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1288", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "PALM SPRINGS, CA -- AI", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1289", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "By MATT O'BRIEN, Associated Press", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1290", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In today's digital-first world, SEO", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1291", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Subscribe Sign In Donate Manage", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1292", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "WASHINGTON – Meta has agreed", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1293", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- For two consecutive days,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1294", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Donald Trump Is No Warrior", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1295", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Instagram tests much-requested Reels feature", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1296", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Editorial: Push back news desert", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1297", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Editorial: Push back news desert", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1298", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Editorial: Push back news desert", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "1299", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AI without data is meaningless:", "relation": "co-hype", "sentiment_alignment": -1}

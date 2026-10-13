@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta AI: Zuckerberg's company has unveiled their Meta AI chatbots
+The company has said different AI chatbots will be used for different subjects
+Meta has announced a series of new AI chatbots to be used in its Messenger service, joining the likes of Microsoft, Google and Amazon.
+The chatbots have the unique feature of specialising in certain subjects like holidays or providing cooking advice. The virtual assistant can even answer queries or craft responses in a fashion similar to ChatGPT and other programmes.
+Meta has also announced plans to launch an AI studio where users could custom build their own AIs.
+At its annual Meta Connect conference, the US tech giant unveiled Meta AI, a new assistant users will be able to “interact with like a person” by answering prompts or offering suggestions in response to queries around tasks or ideas, much like many of its rivals.
+However, users will be able to access the assistant and any created within its new AI studio from within any of Meta’s messaging platforms.
+The company said it did not believe there will be “one single super-intelligent AI that everyone uses”, but rather “different AIs for different things” which led to the company allowing users to “create your own AI that’s aligned with your goals, whether you’re a small business, a creator, or anyone really”.
+The company demonstrated several AIs it had created already, including a sous chef who could offer meal suggestions and a “personal editor and writing partner” called Lily.
+Meta said these different chatbots would be given their own profiles on its platforms to enable users to interact with them.
+Elsewhere at the conference, Meta boss Mark Zuckerberg unveiled the newest version of the company’s virtual reality headset – the Meta Quest 3 – and reiterated his belief that the future of the internet would be based in the virtual world of the metaverse.
+In this space, users in such headsets will be able to interact with avatars of others as well as AI bots.
+Mr Zuckerberg said the metaverse would see the “physical and digital world come together”.
+The Facebook founder also unveiled a new pair of Meta smartglasses made by Ray Ban, which will be powered by the new Meta AI.
+“Smart glasses are the ideal form factor for you to let an AI assistant see what you are seeing and hear what you are hearing,” Mr Zuckerberg said.
+Over the last week, both Microsoft and Amazon have used live events to demonstrate their latest innovations in AI, with Microsoft announcing a new tool called Copilot is coming to Windows which users can call up at any time to help them with any computing, work or social task.
+While Amazon used its product event last week to unveil improvements to voice-based AI assistant Alexa that make it more natural and conversational, and better at understanding context and inference to help users complete tasks.

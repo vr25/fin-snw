@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The US intelligence community has said that Iran is to blame for the hack of Donald Trump’s presidential campaign.
+The joint statement from the FBI and other federal agencies was the first formal attribution of the hack to a foreign entity.
+The Trump campaign had previously said Iran was responsible.
+The FBI and other federal agencies said Iran perceived this year’s US presidential election to be particularly consequential and was determined through the hacking operation and other activities to interfere in American politics and “to stoke discord and undermine confidence in our democratic institutions”.
+A joint statement from the FBI, the Office of the Director of National Intelligence and the Cybersecurity and Infrastructure Security Agency said: “We have observed increasingly aggressive Iranian activity during this election cycle, specifically involving influence operations targeting the American public and cyber operations targeting Presidential campaigns.”
+The statement added that Iranian hackers have “sought access to individuals with direct access to the presidential campaigns of both political parties”.
+The FBI has also been investigating other attempts to gain access to Democrat Kamala Harris’ campaign.
+The multi-agency statement also confirms findings made by private tech companies like Microsoft. The computing giant shared a report only weeks ago that detailed foreign agents’ attempts to interfere in this year’s presidential election.
+The confirmation of Iranian involvement also backs up previous statements by Google, which separately said that an Iranian group linked to the country’s Revolutionary Guard has tried to infiltrate the personal email accounts of roughly a dozen people linked to US President Joe Biden and Republican presidential candidate Donald Trump since May.

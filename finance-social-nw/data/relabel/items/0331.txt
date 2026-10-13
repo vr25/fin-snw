@@ -1,0 +1,167 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+DUBLIN, July 11, 2023 /PRNewswire/ -- The "U.S. Corporate Wellness Market - Industry Outlook & Forecast 2023-2028" report has been added to ResearchAndMarkets.com's offering.
+The U.S. corporate wellness market is expected to reach a value of $25 billion by 2028 from $12.12 billion in 2022, growing at a CAGR of 12.83%
+The U.S. corporate wellness market is highly fragmented, with several top vendors. However, the industry witness consolidation, albeit at a slow pace. Some prominent U.S. corporate wellness market players include COMPSYCH, Labcorp, Virgin Pulse, and Quest Diagnostics. Most vendors offer wellness portals, wellness management services, and incentive programs.
+However, over the past couple of years, the industry has witnessed the entry of many external players, such as in-house services by large businesses and other entities in the health and fitness space that offer membership discounts to drive up their share in the market.
+The media & technology segment dominated the U.S. corporate wellness market share in 2022. The pandemic has accelerated the need for a digitally connected world, driving the media, technology, and telecommunication sectors at a high-growth pace. The industry is already anticipated to witness long-term increased spending.
+The need for businesses in every sector to adopt high resilience and innovative strategies is bolstering the sector's growth and, in turn, leaving more profits aside for the wellness of employees. The media and technology industry largely constitute high-profile companies such as Apple, Google, and Microsoft with innumerable wellness offerings.
+It is common for employers to associate with third-party vendors to plan and implement their wellness programs despite having the resources to hold these programs, a simple reason being certain fringe benefits. Vendors in the U.S. corporate wellness market offering and implementing these programs for large employers receive a program management fee that is structured based on the type of wellness program segments.
+Vendors must maintain the back-end aspects of wellness program services, including technical, administrative, IT resources, and data analytics. The front-end aspects include offering educational programs and doling out newsletters.
+Vendors in the U.S. corporate wellness market must assemble a team that includes licensed healthcare practitioners, paraprofessionals, support staff, administrators, vendors for diagnostics and clinical lab tests, and delegated third-party vendors for digital applications, among others, to facilitate these programs.
+Employers further add to this complicated system by offering easy access to healthcare services through health clinics instead of wellness programs to solve high deductible health plan choices. These health clinics include wellness programs as part of a more all-inclusive set of healthcare services ranging from first aid to special care to auxiliary services.
+WORKPLACE MENTAL HEALTH & WELLBEING
+Workplace mental health & wellbeing acts as one of the critical priorities for public health. It consists of various impacts on the health of individual workers and their families, organizational productivity, and bottom-line for businesses and the economy.
+In the US, more than 160 million people are a part of the workforce. Usually, people succeed by contributing positively to the workplace and maintaining their overall physical and mental well-being. This creates a huge responsibility and an opportunity for organizations or leaders to support the health and well-being of their workers.
+MARKET TRENDS & OPPORTUNITIES
+Mental & Physical Health Awareness on social media
+The way social media has evolved over the last couple of years and subsequently deepened its roots in various sectors is commendable. Social media is now synonymous with wide reach and spreading awareness regarding various issues. It has become a widely used platform for a wide and varied population due to its popularity and ease of use. It is one of the fastest ways to reach the masses and spread the word.
+Several social media platforms fit various purposes and people. If Snapchat is widely popular amongst youngsters, LinkedIn can connect to a clan of professionals. Nevertheless, certain topics are relevant to the entire population irrespective of profession, background, interests, or culture, such as wellness, be it mental, physical, or both.
+Given the popularity amassed and the amount of time an average individual spends in a day scrolling through social media, it has become the best and the fastest way to spread awareness regarding mental and physical wellness. Using relevant hashtags can turn a discussion into a trending topic, thus gaining popularity and the necessary attention from corporate wellness vendors.
+Broad Shift in Wellness Perspectives
+Employees in the U.S. have changed the way they think about wellness. As new generations enter the workforce and technology advances, a new perspective is evolving wherein making healthy choices is not restricted outside work hours. Incorporating workplaces' gyms, games, and nap rooms reflects the changing attitude.
+The office has changed from a traditional utilitarian space to an environment where employees thrive and bring out their best. Once constricted to the home environment, wellness is increasingly a part of the workspace that promotes long-term health solutions as people spend a good portion of their day at work.
+Employees are growing more aware of what work does to them regarding burnout and are looking within the workspace to control stress levels. Many employees look for inspiration at work to stay fit, make new healthy habits, and alter old unhealthy ones. The office provides structural support that is more difficult to attain at home, so wellness programs have good scope for growth.
+MARKET RESTRAINTS
+Remote Work and Increased Surveillance by Employers
+As the pandemic rolled around and remote working became commonplace, most wellness programs usually built around employee presence in the office began to fail.
+Since a lot of the wellness culture is built on-site, wellness programs for remote employees did not succeed during the pandemic and impacted the growth of the U.S. corporate wellness market. Many employers were unprepared to manage their remote workforce. Another issue has been that many programs are casual and ad hoc, allowing employees to engage with them to varying degrees.
+Since organizational culture is tied to morale, flexibility, cooperation, and collaboration, this has increased the lack of trust among employers. This, in turn, keeps employees from setting work boundaries for themselves and prioritizing self-care.
+MARKET DYNAMICS
+Market Opportunities & Trends
+- Role of Wellness Champions
+- Wellness Driven by Data Analytics
+- Use of Technology to Improve Outcomes
+- Reign of Artificial Intelligence
+- Extension of Wellness Programs to Families
+- Offering Multiple Solutions Under One Roof
+- Incorporation of Social Connectedness
+- Increased Penetration of Telehealth
+- Mental & Physical Health Awareness on Social Media
+Market Growth Enablers
+- Improvements in Employee Wellbeing Due to Covid-19
+- Increased Individualized Selfcare
+- Rise of Information Economy
+- Evolution of Value Proposition
+- Increased Working Hours
+- Broad Shift in Wellness Perspectives
+- Reduction of Load on US Healthcare Systems by Corporate Wellness Programs
+- Hike in Attrition
+- Health Issues Due to Work Stress
+Market Restraints
+- Remote Work & Increased Surveillance by Employers
+- Constant Struggle for Employee Engagement & Participation
+- Perceived Expensiveness of Wellness Programs
+- Wariness Regarding Misuse of Data
+- False Promises of Wellness Programs
+- Increased Sense of Anxiety
+- Singular Approach to Wellness
+- Lack of Gender-Specific Approach
+- Dearth of Cultural Support
+Key Company Profiles
+- Compsych
+- Labcorp
+- Virgin Pulse
+- Quest Diagnostics
+Other Prominent Vendors
+- Active Wellness
+- Aduro
+- Alyfe Wellbeing Strategies
+- American Specialty Health
+- Aquila
+- AYCO
+- Bank of America Merill Lynch
+- BaySport
+- Beacon Health Options
+- Best Money Moves
+- Brightdime
+- Brightside
+- BSDI
+- Castlight Health
+- Ceridian
+- Corporate Fitness Works
+- DHS Group
+- Edukate
+- Elite Wellness
+- Enrich
+- Even
+- EXOS
+- Financial Fitness Group
+- Financial Knowledge
+- FlexWage
+- GoPlan 101
+- HealthCheck360
+- HealthFitness
+- HealthTrax
+- Holberg Financial
+- Health Advocate
+- Integrated Wellness Partners
+- Karelia Health
+- Kersh Health
+- Kinema Fitness
+- LearnLux
+- LifeCents
+- LifeDojo
+- LifeStart
+- Limeade
+- LIVunLtd
+- Marino Wellness
+- Marathon Health
+- Mercer
+- Midtown Athletic Club
+- Money Starts Here
+- My Secure Advantage
+- NIFS
+- OptumHealth
+- Orriant
+- Payactiv
+- Power Wellness
+- Premise Health
+- Privia Health
+- Professional Fitness Management
+- Prudential Financial
+- Purchasing Power
+- Ramsey Solutions
+- Reach Fitness
+- Sonic Boom Wellness
+- Sprout
+- StayWell
+- Transamerica
+- Vantage Circle
+- Vitality Group
+- Wellable
+- Wellness Coaches USA
+- Wellsource
+- WellSteps
+- Wisdom Works Group
+- Woliba
+- Workstride
+- WTS International
+- Origin
+- BrightPlan
+- Savology
+- Sqwire
+- FinFit
+- Pro Financial Health
+- FutureFuel.io
+- Salary Finance
+- SoFi
+- Sum180
+- The Financial Gym
+- PDHI
+- Novant Health
+For more information about this report visit https://www.researchandmarkets.com/r/ydg3n9
+About ResearchAndMarkets.com
+ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends.
+Media Contact:
+Research and Markets
+Laura Wood, Senior Manager
+[email protected]
+For E.S.T Office Hours Call +1-917-300-0470
+For U.S./CAN Toll Free Call +1-800-526-8630
+For GMT Office Hours Call +353-1-416-8900
+U.S. Fax: 646-607-1907
+Fax (outside U.S.): +353-1-481-1716
+Logo: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg
+SOURCE Research and Markets

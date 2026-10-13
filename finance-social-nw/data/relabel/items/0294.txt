@@ -1,0 +1,52 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Bull market or fool’s market? Investors say it’s likely the latter
+The stock market has made incredible strides since its downturn last year – so much so, it’s difficult to believe the economy could be on the verge of recession.
+Related video above: Analyst discusses what lies ahead in the market as Fed pauses rate hikes
+At the market’s close on June 16, 2022, the S&P 500 index was at about 3,666.77, beaten down by persistent inflation, the Federal Reserve’s interest rate hikes and geopolitical tensions.
+The broad-based index is at 4,409.59 as of the close on June 16, 2023 – marking a roughly 20% gain from a year earlier despite collapses of regional banks, an only narrowly avoided debt default and the Fed’s continued battle against inflation.
+Mega-cap tech stocks that were battered by rising interest rates in 2022 have also seen a huge boost this year. Shares of Apple notched an all-time high close of $186.01 last Thursday, compared to $135.43 a year before.
+For the year, the S&P 500 is up roughly 15%, the Dow has gained 3.5% and the Nasdaq Composite has risen 30.8%.
+But the rally’s recent acceleration foreshadows some pain ahead, investors say.
+“The market is behaving pretty delusionally,” said Amanda Agati, chief investment officer at PNC Financial Services Asset Management Group. “Much of what’s going on right now may very well be that it’s sort of the last hurrah, the last gasp before we tip into contraction.”
+Already, there are signs that cracks are forming and could soon widen. The Federal Reserve on Wednesday held interest rates steady but indicated that it could hike rates twice more this year. That initially triggered a steep sell-off before investors quickly shrugged off the Fed’s hawkish signal, and stocks marched up again by Wednesday’s close. Stocks fell slightly on Friday, but still ended the week up.
+There are several signs that the market is, at least for now, on a tear.
+S&P 500 reaches bull market territory and new highs
+In late May, Congress’s passage of the debt ceiling deal (later signed into law by President Joe Biden) and a blowout quarter from chipmaker Nvidia pushed mega-cap tech names higher, helping stocks break through the trading range they had been stuck in for months.
+Then, the S&P 500 earlier this month entered a bull market, up over 20% off its low from last October. The broad-based index on Thursday closed at its highest level since April 2022.
+Market breadth improving
+Market breadth has improved recently, as the S&P 500’s rally has widened from tech stocks to other parts of the market including the industrial, materials and financial sectors.
+That’s an encouraging sign for investors worried that the S&P 500’s gains this year have largely been dominated by mega-cap tech stocks, boosted by a flight to safety ahead of economic uncertainty and by artificial intelligence excitement.
+Tech stocks’ record run
+Apple shares closed at a record high on Thursday, creeping closer to reaching a $3 trillion market capitalization. That comes after the stock a week earlier hit an intraday record high, the day the company unveiled its mixed reality headset Vision Pro at its annual developers’ conference.
+Shares of the tech behemoth are up about 42% for the year.
+Dan Ives, an analyst at Wedbush Securities, expects Apple shares to hit a price target of $240 by next summer and the company to reach a $4 trillion market capitalization closer to 2025, citing the hype surrounding AI and the potential for a record-breaking product cycle for a new iPhone model expected for release this fall.
+“There’s no better stock to own in tech than Apple… despite an economy that is still a bit cloudy,” Ives said.
+Meanwhile, Microsoft shares also quietly notched an all-time high, closing at $348.10 on Thursday.
+The rally’s next test
+Despite some bullish signs in the market, investors say the math isn’t adding up to a sustained rally — especially considering a possible recession looms on the horizon.
+And while the market’s breadth has broadened in recent weeks, mega-cap tech stocks are still responsible for the lion’s share of gains, potentially leaving the rally on shaky legs. Concerns also remain on Wall Street that the market’s run is overdone.
+“The valuation of some of these moves is like Icarus flying too close to the sun,” said Richard Steinberg, chief market strategist at The Colony Group.
+Moreover, the 2-year and 10-year Treasury yields remain inverted, a phenomenon that has historically preceded economic downturns.
+The next test for stocks will likely be the Fed’s next interest rate decision, according to Agati. Chair Jerome Powell said last Wednesday that the July meeting will be “live,” meaning the decision will be up for debate.
+“We think the Fed will take another step to tighten policy further in July, and that may ultimately be the catalyst that creates a market correction,” said Agati.
+Still, some investors remain bullish, even if they expect some short-term pain ahead.
+“I think that we’re likely to end the year up versus down,” said Sylvia Jablonski, chief executive and chief investment officer of Defiance ETFs. However, “I don’t necessarily think we’re going to get another 20%, 30% or something like this out of the Nasdaq.”
+Stocks rally despite hawkish Fed
+The Federal Reserve was more hawkish than expected at its June meeting. Investors didn’t seem to care.
+The central bank last Wednesday paused interest rates and indicated that it could raise rates two more times this year. Investors largely ignored the message, with stocks continuing to rally in the days after.
+Then, Fed Governor Christopher Waller and Richmond Fed President Thomas Barkin said last Friday that the central bank needs to hike interest rates more to tame inflation.
+“We’re seeing policy rates having some effects on parts of the economy. The labor market is still strong, but core-kind of inflation is just not moving, and that’s going to require probably some more tightening to try to get that going down,” Waller said during an event held in Oslo.
+The tough Fed-speak on Friday shook investors somewhat, sending stocks lower. But all three major indexes still gained for the week.
+There are two reasons why the market’s rally continued this week despite the Fed’s hawkish signals, says Sarah Henry, portfolio manager at Logan Capital Management. First, Wall Street has decided there isn’t much of a difference between one or two additional rate hikes.
+Whether the Fed raises rates one or two more times will be less relevant than the increases markets have already seen, Henry said. “Predictability (of the Fed’s rate decisions) is going to be more important than incrementality at this point.”
+Moreover, a slate of recent robust economic readings has investors convinced that even if the economy does tip into a recession, it’ll be short and shallow, says Henry.
+Here’s some of that data:
+- A hot May jobs report. The unemployment rate rose more than expected, to 3.7% from 3.4%. Still, the labor market remains sizzling hot — employers added 339,000 jobs last month, surging past the 190,000 economists expected.
+- Cooldown in May’s Consumer Price Index report. The CPI rose 4% for the year ending in May, which is the slowest annual pace since March 2021. That’s a steep drop from April’s 4.9% and is slightly below economists’ expectations of 4.1%, according to Refinitiv.
+- Cooldown in May’s Producer Price Index report. The PPI showed that annual inflation for producers measured 1.1% for the 12 months ended in May, cooling for the 11th straight month. Prices fell 0.3% on a monthly basis, better than economists’ expectations of 0.1%, according to Refinitiv.
+- Strong sentiment in the University of Michigan’s consumer expectations survey. Consumers’ inflation expectations for the year ahead fell for the second straight month, sliding to 3.3% in early June from 4.2% last month.
+The rally’s momentum also stems from positive investor sentiment, especially from secular trends like artificial intelligence that have driven mega-cap stocks to stratospheric heights this year, according to Paul Eitelman, chief investment strategist for North America at Russell Investments.
+“It almost seems like all news is good news right now for the last few weeks — we rallied on a hawkish Fed,” Eitelman said. “We’re seeing market psychology shifting pretty notably.”
+Still, investors could be getting ahead of themselves. “The message that we’re getting from the Federal Reserve should be sending a cautious tone to equity markets,” he said.

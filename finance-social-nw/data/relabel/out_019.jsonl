@@ -1,0 +1,20 @@
+{"id": "0380", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "âThere's a lot of conversation about specific selective", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0381", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Roger's Market In Hudson Changing Hands", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0382", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Deachman: If you're in Canada, you", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0383", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Stock market today: Asian shares are", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0384", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- The share price performance of", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0385", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Meta has developed an AI model", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0386", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New artificial intelligence tools that write", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0387", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "T-Mobile will lay off 5,000 employees,", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0388", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Beyond cloud: theCUBE analyst panel", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0389", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "This week in enterprise: Tech IPOs", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0390", "ticker_a": "AVGO", "ticker_b": "META", "first_words": "This week in enterprise: Tech IPOs", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0391", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "This week in enterprise: Tech IPOs", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0392", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This week in enterprise: Tech IPOs", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0393", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "This week in enterprise: Tech IPOs", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0394", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "This week in enterprise: Tech IPOs", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0395", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dropbox was the first ever cloud-based", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0396", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Need to know about lifesaving CPR?", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0397", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google will spend $1.7 billion to", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0398", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "After remaining dormant for nearly", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0399", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "August has been a choppy month", "relation": "co-hype", "sentiment_alignment": 1}

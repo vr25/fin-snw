@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon said on Friday its Indian operations had reached a major milestone in water conservation, at a time when global tech giants face increasing pressure over their expansion of resource-hungry AI data centres.
+The U.S.-based company announced it had turned “water positive” in India this year, meaning it returns more water to communities than it uses across its operations, which include data centres, corporate offices and warehouses.
+It said it accomplished the goal a year earlier than planned, both by reducing water use at its facilities and through projects such as watershed restoration and efficient irrigation.
+Amazon, Microsoft and Alphabet’s Google are among companies that are facing shareholder and activist pushback over the environmental impact of data centre projects, Reuters reported earlier this year.
+Amazon has set a goal to become water positive globally in its data centre operations by 2030. The company said it does not use water to cool its Indian data centres.
+The issue of water is particularly acute in India, which is home to 18% of the global population but only 4% of the world’s freshwater resources.
+The summer generally brings shortages and rationing, and this year is particularly severe, with a strong El Nino resulting in weak monsoon rains.
+Among the hardest hit states are Karnataka, home to tech-hub Bengaluru, and Maharashtra, where financial capital Mumbai is located. Mumbai, with a population of 13 million, has just 40 days’ worth of water left, authorities said this week.
+Amazon is expanding its footprint in India, where it plans to invest more than $35 billion by 2030 to boost AI capabilities and exports.
+Its cloud services provider, Amazon Web Services, plans to invest about $8.2 billion in Maharashtra, India’s information technology ministry said last year.
+Microsoft and Google have also announced sizeable data centre investments in India over the past year.
+Published - June 22, 2026 09:48 am IST

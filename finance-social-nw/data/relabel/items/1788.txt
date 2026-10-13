@@ -1,0 +1,47 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Follow ZDNET: Add us as a preferred source on Google.
+ZDNET’s key takeaways
+- RAM allows computers to run fast and optimally.
+- 16GB is now the standard for PCs and laptops.
+- Heavy users may need more RAM. Know when to upgrade.
+I used to struggle when shopping for a new computer — there’s a lot to consider. Over time, I learned to narrow it down to what I call the “performance trifecta” — three main components you should be mindful of: processor, storage drive, and RAM. A good processor is the brain of the computer, and a lot of local storage means you’ll have plenty of room for all your files.
+Also: Apple jacks up prices on its MacBooks and iPads – here’s how much more you’ll pay
+More from ZDNET
+Then there’s memory — a component widely discussed but often misunderstood. Think of RAM (Random Access Memory) as your computer’s short-term memory. Instead of pulling everything from your permanent storage (like an SSD), your system parks active files in the RAM for instant access, which keeps everything running fast. Naturally, more gigabytes (GB) means more room to multitask.
+But how much do you actually need? The internet is full of conflicting advice, leaving many people torn between upgrading to 32GB of snappy LPDDR5X RAM or sticking with a standard 16GB. Let’s cut through the noise and figure out exactly how much memory is right for you.
+How much RAM do you need in 2026?
+The short answer: it depends on the operating system. For Windows machines, 16GB of RAM has become the operational minimum on new consumer laptops. Modern workloads have ramped up to such a degree that less RAM on a Windows device is fine, but it will limit you to everyday tasks like writing emails, internet browsing or watching YouTube videos.
+But let’s be real here: the average worker is probably running dozens of tabs in their browser, a handful of apps in the background, and (possibly) generative AI, all of which demand memory power. In that sense, most people using their Windows laptops for work will want at least 16GB (for a value-driven, future-proof option) for a smooth user experience.
+Also: Skipping this PC maintenance step could cost you – here’s the right way to clean your system
+If you’re upgrading to Windows 11, Microsoft says the minimum requirements are 4GB of RAM, but I’d still recommend 16GB as the baseline standard. If you have more than that, even better, but for most PCs, Windows 11 should run about the same as older operating systems.
+When it comes to MacBooks, things are a little bit different. Because Apple’s machines are so optimized to handle daily workflows, 8GB of RAM goes a bit further than a stock laptop running Windows. In fact, it wasn’t until last year — that Apple made 16GB the starting point with the MacBook Air M4. The MacBook Air M5 just launched with a similar configuration.
+MacBooks, such as the new Neo model with 8GB, are still solid machines for daily use, while more powerful models like the MacBook Pro and MacBook Pro Max offer substantial power with 24GB, 36GB, or more, making them some of the most powerful laptops on the market (and some of the priciest).
+Besides Windows and Macs, Chromebooks are a third category of consumer laptops that have seen a spike in popularity over the last few years due to their lower average price and lightweight operating system, ChromeOS.
+Also: Is 8GB of RAM really enough for a Mac in 2026? Short answer: Yes
+Because ChromeOS is so streamlined, Chromebooks can get along just fine with 8GB or even less, making them great machines for handling the basics like working out of the browser and having your Google Suite at your fingertips with snappy performance and a low price. The trade-off, however, is that you’ll have less access to apps you’d otherwise find on Windows.
+All in all, it’s true to say that the more memory you have, the better your computer should perform. But having too much RAM can also be a poor return on investment, because you end up spending money on a resource you hardly ever use to its full potential. It’s like owning a big house but only using a few of the rooms.
+When buying a new laptop, I just recommend having a clear understanding of what you want to use it for — that way, you can set realistic expectations about how much RAM you need.
+M5 MacBook Air
+Apple’s M5 MacBook Air raises the bar for ultraportable laptops with more default memory, better external display support, and higher overall performance.
+Lenovo Chromebook Plus 14
+Lenovo’s Chromebook Plus 14 brings an OLED display and marathon battery to the Chromebook line.
+What does DDR5 mean?
+Sometimes, when shopping for a computer, you’ll see the letters “DDR” followed by a number. This is an acronym that stands for “double data rate.” Without getting too deep into the weeds, DDR is a type of technology that improves the data transfer speed from RAM to other components, such as the processor. There have been five main DDR generations so far, with the latest and fastest standard being DDR5.
+Similar to 16GB of memory, DDR technology has effectively become the new standard for RAM as users demand faster speeds. There are also variations of the technology. A notable version is LPDDR5X, which stands for low-power double data rate 5X, a more energy-efficient version of DDR5 designed specifically for mobile devices.
+Also: My proven way to speed up Linux when RAM upgrades aren’t worth it (and it’s free to do)
+Don’t expect DDR6 RAM to be released for a computer near you anytime soon. We saw the JEDEC (Joint Electron Device Engineering Council) announce the release of LPDDR6 back in early July. The JEDEC is the organization that established DDR as a computer standard. The technology is available for manufacturers to implement in their devices, but whether or not it’ll happen — or how soon — is yet to be seen.
+When should you upgrade?
+16GB is fine for most cases, but if you’re a gamer or creative professional, you should consider 32GB of RAM. More RAM will ensure that the games you play and the video editing apps you use for work run more smoothly. I have that amount for my personal computer, and I’m very happy with that setup because I don’t just write.
+Also: I recommend this older Windows 11 laptop over some newer models – here’s why
+I also play games on my desktop, edit photographs and videos, and run virtual machines, among other things. It’s a heavy workload that requires the correct amount of resources to operate; even then, I am considering upgrading my PC to have more. It’s not uncommon for me to see my workload take up over 70% of my computer’s total RAM.
+I consider anything above 32GB of memory excessive unless you’re a specific type of user. If you’re editing 8K videos or running heavy apps simultaneously, then you’ll probably need 48GB or 64GB of RAM. A good laptop that can deliver would be something like the M5 MacBook Pro or the Dell Premium 16. These are solid, top-of-the-line machines capable of tackling tough workloads.
+I’m not the only one who recommends 32GB for gaming. Back in November 2025, Microsoft published a handy guide on how to optimize your gaming PC setup, and the post includes a recommendation for how much memory you should have. And wouldn’t you know it — Microsoft recommends 32GB of RAM for users who play resource-demanding titles or mod-heavy games.
+Dell Premium 16
+Built for demanding workloads, the Dell Premium 16 is especially well-suited for creative tasks like graphic design and 3D modeling.
+Why should you trust me?
+I’ve been writing about both software and consumer electronics for almost 10 years now, and in that time, I’ve worked in many different settings, from the traditional office to the home office, and even someone’s backyard. The remote experience has made me extremely selective about what I choose to make my main computer, as I want to ensure the devices I use can handle my day-to-day tasks. I’m on my computer all day, practically every day of the week.
+Also: I tested several AIO computers in 2026, and these are the best for your office setup
+I’m also at a point where I’ve tried just about every type of laptop on the market. I know which features and specs you should look out for when purchasing a new computer — and which ones are not worth your time.
+The advice I have given is not a set of hard and fast rules. I just aim to provide a foundation of what you should look for in a laptop. What is best for you depends on your unique needs.

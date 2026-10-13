@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Good morning. Stopped by San Francisco last night to participate in a panel discussion about AI and the future of work—as a rare panelist, rather than as a moderator.
+The discussion covered questions about growth vs. efficiency, the ROI of AI, and the underreported stories (hmm!) about our looming Age of Intelligence.
+My contribution to the conversation? Recalling that nearly a decade ago, Fortune Brainstorm Tech participants including Marissa Mayer, Bonny Simi, Jake Schwartz, and Michael Kassan sat in a circle in Aspen talking about upskilling, reskilling, and retaining talent. (Retaining! Imagine!) These days, it seems like everyone’s just hanging onto their gigs before our new intelligent overlords devour them.
+Same ‘skilling, different context, I suppose. Today’s tech news below; have a great weekend. —Andrew Nusca
+Want to send thoughts or suggestions to Fortune Tech? Drop a line here.
+Tim Cook’s advice for Apple’s next CEO
+Apple’s incoming CEO introduced himself to Wall Street on Thursday in a brief earnings-call debut in which he emphasized his commitment to continuity at the $4 trillion company.
+John Ternus, who will officially replace CEO Tim Cook in September, promised to continue the “deep thoughtfulness, deliberateness, and discipline” in financial decision-making that has marked Cook’s 15-year tenure leading Apple.
+Shares of the company barely budged during Ternus’s comments or those of Cook, who called Ternus “the right leader to step into the role.”
+But when Apple CFO Kevan Parekh provided a much stronger-than-expected revenue forecast for the current quarter, Apple shares sprang to life and rose more than 4%. Sales of iPhones in fiscal Q3 should increase between 14% and 17% year-over-year, Parekh said, compared to the 9% increase that analysts were expecting.
+During the call, an analyst cited Tim Cook’s anecdote about the advice he received from Apple cofounder Steve Jobs: Don’t ask what I would do, just do the right thing.
+What advice is Cook giving CEO-in-waiting Ternus, the analyst asked?
+“My advice,” Cook said, “is that one of the most important decisions he’ll make is where to spend his time. And I would spend it where the greatest benefit to the company and the users are.” —Alexei Oreskovic
+Meta threatens to quit New Mexico over child safety spat
+New Mexico Attorney General Raúl Torrez filed for injunctive relief against Meta on Thursday, seeking sweeping court-ordered changes to how the company operates its platforms for children.
+Meta responded by threatening to pull Facebook, Instagram, and WhatsApp from the state entirely.
+“Meta is showing the world how little it cares about child safety,” Torrez said Thursday. “Meta’s refusal to follow the laws that protect our kids tells you everything you need to know about this company and the character of its leaders.”
+Ahead of the bench trial that begins May 4, Meta responded to Torrez’s statement on Thursday, calling the state’s demands “technically impractical” and “impossible for any company to meet.”
+The confrontation this week is the latest chapter in a case that began with a fake teenage girl. In 2023, New Mexico investigators created a social media profile posing as a 13-year-old, and found the account was almost immediately flooded with communications from adults seeking to exploit a child. The investigators said no algorithm flagged the contact and no safety system caught it.
+The undercover operation became the foundation of a lawsuit against Meta. Today, more than 40 state attorneys general have filed suits against Meta over child safety. —Catherina Gioino
+Google and Amazon’s biggest profit driver: Anthropic
+Four of the largest U.S. tech companies reported earnings on Wednesday, confirming an AI capital expenditure buildout without modern precedent.
+Combined, they spent $130.65 billion on capex in the first three months of 2026—more than three times the inflation-adjusted cost of the Manhattan Project. They plan to spend nearly $700 billion this year alone, as much as the U.S. government spends on Medicare.
+The headline profits suggest that the bet is paying off; Google parent Alphabet’s profit jumped 81% to $62.6 billion last quarter, while Amazon Web Services delivered its fastest growth in 15 quarters.
+Yet a footnote in Google’s earnings release, and a bullet point under the net-income section of Amazon’s, tells a different story about where those profits came from.
+Nearly half of Alphabet’s record $62.6 billion profit—about $28.7 billion—came from Alphabet updating the value of the equity it owns in private companies, primarily Anthropic, in which Alphabet holds an estimated 14% stake.
+Amazon disclosed a similar figure. Its earnings release stated that first-quarter net income “includes pre-tax gains of $16.8 billion included in non-operating income from our investments in Anthropic”—more than half of Amazon’s pre-tax income (or profit) for the quarter.
+This isn’t the first time Big Tech profits were substantially shaped by markups on private AI investments. In Q1 2025, Alphabet booked an $8 billion unrealized gain that drew eyebrows until a report attributed it to SpaceX. —Eva Roytburg
+More tech
+—Did xAI use OpenAI models to train its own? “Partly,” Elon Musk says under oath.
+—The most dangerous Linux threat in years, CopyFail, remains significantly unpatched.
+—April: Intel’s best month on record. Shares up 114%, market cap beyond $470 billion.
+—Meta reportedly “can't rule out further layoffs” as its CEO says AI automation isn’t the reason for them.
+—Roblox shares drop 16% after Q1 daily active user totals underwhelm.
+—The U.S. Senate passes a rule barring senators from trading on prediction markets like Kalshi and Polymarket.
+—Google deploys Gemini to cars that have Google built in, replacing Google Assistant.

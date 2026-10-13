@@ -1,0 +1,49 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Updated November 16, 2022 at 1:31 PM ET
+For more than two decades, the U.S. tech industry has been a reliable source of booming stocks and cushy, high-paid jobs. In the span of weeks, the sheen has faded and the ax has fallen.
+More than 35,000 tech workers across 72 companies have been laid off this month, adding to a total of 120,000 tech jobs lost this year, according to layoffs.fyi, which tracks job cuts in the tech industry. It's safe to say a reckoning is underway, even as each company is grappling with its own challenges. (See: Twitter.)
+Many of the companies making public statements have cited at least one of two primary causes:
+First, they hired a lot of employees during the pandemic, when people were extremely online. Now, the internet boom has faded, offline life has picked up, and those new employees seem too expensive.
+Second, broader economic wobbles have made brands more reluctant to spend on digital ads–a source of revenue for many tech companies. High interest rates have put an end to the cheap-money era of venture capital.
+Here are some of the companies that have announced the biggest job cuts.
+Amazon: a reported 10,000 jobs
+Amazon said Wednesday that layoffs had begun, though it did not state the number of employees affected.
+The online retail and cloud computing behemoth plans to lay off some 10,000 employees in corporate and technology jobs, The New York Times was the first to report on Monday.
+"After a deep set of reviews, we recently decided to consolidate some teams and programs. One of the consequences of these decisions is that some roles will no longer be required," wrote Dave Limp, Amazon's senior vice president of devices and services, in a memo shared on the company's website.
+As of this fall, Amazon employed more than 1.5 million full- and part-time workers around the world, many in warehouses. The 10,000 expected layoffs would comprise about 3% of Amazon's corporate employees, according to the Times, and a significantly smaller share of its overall workforce.
+The cuts reportedly will focus on Amazon's devices division, including Alexa, the company's virtual assistant technology, as well as its retail and human resources divisions.
+Earlier this month, the company announced a hiring freeze on corporate jobs. "We're facing an unusual macro-economic environment, and want to balance our hiring and investments with being thoughtful about this economy," wrote Beth Galetti, Amazon's senior vice president of people experience and technology.
+Meta: 11,000 jobs
+Facebook and Instagram's parent company, Meta, laid off 11,000 people last week – about 13% of its staff.
+CEO Mark Zuckerberg attributed the cuts to overhiring during the pandemic. In a letter to staff posted to the corporate website, he cited a decline in e-commerce, the wider economic downturn, increased competition, and a decline in ad sales–the primary way the company makes money.
+"I got this wrong, and I take responsibility for that," he wrote.
+The layoffs come as the company has invested billions in the so-called metaverse, pitched as a virtual-reality future in which people will work, mingle, exercise and go to concerts. But it's an unproven bet on the future, and not all everyone is convinced it should be the social media company's focus.
+Zuckerberg said the workforce cuts would affect the whole organization, with recruiting staff disproportionately affected due to fewer hires anticipated in the coming year. A hiring freeze through the first quarter of 2023 will continue.
+Twitter: about 3,700 jobs
+Billionaire Tesla and SpaceX CEO Elon Musk bought the social media platform at the end of October and wasted no time slashing its workforce. He immediately ousted the company's leadership, including its CEO, CFO, and top lawyer. Mass layoffs were announced on November 4, with about 50% of the staff cut.
+"Regarding Twitter's reduction in force, unfortunately there is no choice when the company is losing over $4M/day," Musk tweeted.
+Co-founder and former CEO Jack Dorsey tweeted that he accepted blame for hiring too many workers in recent years.
+"I own the responsibility for why everyone is in this situation: I grew the company size too quickly. I apologize for that," he wrote.
+Musk's $44 billion purchase of Twitter – which he tried to get out of for several months – has saddled the company with $13 billion of new debt.
+His short tenure at the top of Twitter has been marked by hasty changes quickly halted, including his plan for a revamped Twitter Blue verification service, which charged $8 a month to get a blue checkmark on one's account. Accounts impersonating celebrities, major corporations, and Musk himself proliferated immediately, spurring Twitter to halt Twitter Blue signups twice within a week.
+Key executives who were not fired, including Twitter's head of content moderation and safety on the platform, and the company's chief privacy officer and compliance officer, resigned last week.
+Stripe: about 1,000 jobs
+Payment processing platform Stripe announced on November 3 that it was cutting 14% of its workforce.
+Stripe CEO Patrick Collison wrote in an email to employees that the pandemic pushed the world toward e-commerce, spurring the company's growth.
+The CEO said he and his brother and co-founder John Collison had made "two very consequential mistakes": being too optimistic about the internet economy's near-term growth, and growing Stripe's operating costs too quickly.
+"We are facing stubborn inflation, energy shocks, higher interest rates, reduced investment budgets, and sparser startup funding. ... [M]any parts of the developed world appear to be headed for recession. We think that 2022 represents the beginning of a different economic climate," Collison wrote.
+Salesforce: hundreds of jobs
+Salesforce, which makes cloud-based business software, laid off some of its employees last week, CNBC reported.
+Salesforce said in a statement to NPR: "Our sales performance process drives accountability. Unfortunately, that can lead to some leaving the business, and we support them through their transition."
+A source familiar with the cuts said they affected hundreds of employees in the sales organization.
+Microsoft: fewer than 1,000 jobs
+The software company made cuts across its divisions last month, Axios reported. Fewer than 1,000 jobs were cut, a source told Axios.
+A request for confirmation of the layoffs was not immediately returned.
+Zillow, Snap and Robinhood
+Zillow, the online real estate marketplace, laid off 300 of its employees late last month, TechCrunch reported. The company laid off 25% of its workforce a year ago as it shuttered its instant buying service.
+Snap, the company behind Snapchat, said at the end of August that it was cutting its workforce by 20%. The layoffs affected some 1,200 employees, with the company's full-time workforce about 6,400 as of June.
+Robinhood, the brokerage app company, laid off 23% of its workforce in August. That amounted to 780 employees, according to Bloomberg. The company had already reduced its staff by 9% in April. "This did not go far enough," wrote Robinhood CEO Vlad Tenev.
+NPR's Alina Selyukh contributed to this story.
+Copyright 2022 NPR. To see more, visit https://www.npr.org.

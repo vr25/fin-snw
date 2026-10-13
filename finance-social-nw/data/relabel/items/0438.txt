@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+YouTube has unveiled a suite of creator-focused products and features, including the generative artificial intelligence tool Dream Screen for Shorts, its short-form videos that compete with TikTok and Instagram Reels.
+The feature, announced on Thursday, will be available to some creators later this year and more broadly in 2024. It will allow you to whip up AI-generated video or image backgrounds by typing ideas into a prompt, according to a blog post from YouTube.
+YouTube’s move comes as more and more companies and services integrate AI features. For instance, Microsoft is introducing an AI companion called Copilot to Windows 11.
+More from CNET
+More AI-related tools are coming to YouTube next year, according to Google. It’s introducing generative AI-powered suggested video topics in YouTube Studio and debuting assistive search in Creator Music, which enlists AI to suggest music for a video.
+YouTube is also launching a mobile app that would simplify the video production process and make it easier for first-timers to create and share videos. The new app, YouTube Create, gives people access to video editing tools like precision editing and trimming, automatic captioning and more from their phones. The free app is currently in beta on Android in select markets, according to YouTube.
+Editors’ note: CNET is using an AI engine to help create some stories. For more, see this post.

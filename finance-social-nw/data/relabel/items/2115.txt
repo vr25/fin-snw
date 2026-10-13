@@ -1,0 +1,27 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Elizabeth Warren Warns AI Could Disrupt 'Half The Workforce,' Says 'Can't Wait Until People Lose Their Jobs'
+Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.
+Sen. Elizabeth Warren (D-Mass.) warned that rapid advances in artificial intelligence could reshape or eliminate a large share of jobs, arguing that policymakers must act now rather than wait for widespread layoffs to hit workers.
+AI Job Disruption Warning And Data Center Tax
+On Wednesday, in a post on X, Warren said, "If AI could disrupt half the workforce, we can't wait until people lose their jobs to act."
+She added that companies benefiting from AI should help offset the impact, saying, "The companies profiting from AI should help cushion the disruption."
+Don't Miss:
+-       A single bad hire can set a startup back years. Here are the 5 hires founders most often misjudge — and why
+-       Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast
+Warren also proposed targeting the infrastructure behind AI, calling for taxes on data centers that power AI systems.
+      If AI could disrupt half the workforce, we can't wait until people lose their jobs to act.
+The companies profiting from AI should help cushion the disruption. That starts with taxing the data centers powering it. pic.twitter.com/0sGWl78FmF  
+— Elizabeth Warren (@SenWarren) June 3, 2026
+AI Job Loss Fears Overstated, Experts Say
+Earlier, Apollo Global Management Chief Economist Torsten Sløk said there was "zero evidence" AI had caused job losses in the U.S., pointing to strong hiring in AI-related roles and data center construction.
+He said the AI boom had supported jobs and inflation and argued efficiency gains often increase overall demand.
+David Sacks also backed an argument from Goldman Sachs CEO David Solomon that AI would transform work rather than eliminate it.
+Trending: Avoid the #1 Investing Mistake: How Your 'Safe' Holdings Could Be Costing You Big Time
+Solomon said AI could automate parts of work but would also create new jobs, with labor shifting rather than disappearing, as in past technological changes.
+SkyBridge Capital founder Anthony Scaramucci added that AI would reward workers who learn to use it, saying it could boost productivity and even enable shorter workweeks over time.
+US Job Cuts Rise
+U.S. employers announced 83,387 job cuts in April, up 38% from March, according to Challenger, Gray & Christmas.
+Meta Platforms Inc. CEO Mark Zuckerberg said AI investment had contributed to planned layoffs as the company shifted spending toward infrastructure, forcing workforce reductions.
+Last year, Microsoft Corp. also cut about 9,000 jobs as part of broader cost-control measures.

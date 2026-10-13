@@ -1,0 +1,6 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Dow Jones futures, along with S&P 500 futures and Nasdaq 100 futures, were lower ahead of Tuesday's stock market open. Meanwhile, the Federal Reserve's two-day policy meeting looms over Wall Street this week. Late Monday, Lattice Semiconductor (LSCC), MicroStrategy (MSTR) and NXP Semiconductor (NXPI) reported their earnings results. Lattice shares declined nearly 4% after the market close, while bitcoin leader…
+Dow Jones Futures: Fed Meeting, Powell Loom; Bitcoin Leader MicroStrategy Dives On Earnings
+Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8

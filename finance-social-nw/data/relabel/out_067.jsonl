@@ -1,0 +1,20 @@
+{"id": "1340", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "To gain an edge, this is", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1341", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "To gain an edge, this is", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1342", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "To gain an edge, this is", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1343", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "I think it's a great", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1344", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By WILL WEISSERT, Associated", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1345", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "As the United States prepares", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1346", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "As the United States prepares", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1347", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "As the United States prepares", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1348", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "What Happened? Shares of fabless", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1349", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SUSECON 2025: An evolved portfolio", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1350", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "When I was a teenager", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1351", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Shashank is the CEO &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1352", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Shashank is the CEO &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1353", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Shashank is the CEO &", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1354", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MICHAEL LIEDTKE and WYATTE", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "1355", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Elon Musk's AI Start-Up and", "relation": "causal-driver", "sentiment_alignment": 0.85}
+{"id": "1356", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Palantir Technologies (PLTR -1.52%)", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1357", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Technology giants Amazon, IBM,", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1358", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Technology giants Amazon, IBM,", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1359", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Technology giants Amazon, IBM,", "relation": "co-hype", "sentiment_alignment": 0.5}

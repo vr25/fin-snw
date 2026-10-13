@@ -1,0 +1,17 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The future for ETFs is bright. That’s my takeaway after reading State Street Global Advisors’ just-released 2024 ETF Impact Survey. VettaFi has a strong understanding about what financial advisors think about ETFs and how they use the products.
+However, the Impact Study also got insights in April 2024 from 319 high net worth investors and 100 institutional decision-makers. This is in addition to 201 advisors with more than $25 million under management.
+Diversification Is Key
+In this sample, 45% of individual investors and 67% of institutions recommend ETFs to their clients always or often, compared to 70% of financial advisors. We believe there is tremendous room for growth. While cost efficiency was the top reason for institutions and advisors using ETFs, it barely edged out diversification benefits. Meanwhile, diversification was much more important to individuals.
+Source: State Street Global Advisors 2024 ETF Impact Study
+“There is still growing confidence that ETFs should be a core part of a diversified portfolio,” said Anna Paglia, chief business officer for State Street Global Advisors. “The rapid growth and low cost of ETFs since their introduction over 30 years ago has made it easier for people from all walks of life to become investors.”
+The SPDR Portfolio S&P 500 ETF (SPLG) is a $42 billion ETF that charges a miniscule fee of 0.02%. While information technology stocks (32% of assets) like Microsoft and Nvidia represent the largest positions, the ETF offers exposure to 10 other sectors and exposure to unrelated stocks like Exxon Mobil and JPMorgan Chase. Meanwhile, there are strong ETFs for those wanting exposure to emerging markets, high yield bonds, small-caps, and many other investment styles.
+What Matters Most to Institutions
+ETF liquidity was highly important to institutional investors, particularly those that used ETFs extensively or frequently. However, it was encouraging to see that 80% said they are likely to consider actively managed ETFs.
+While index-based S&P 500 and Bloomberg Barclays Aggregate ETFs typically have strong liquidity, trading volume is usually significantly lower for active ETFs. For example, the SPDR Portfolio Aggregate Bond ETF (SPAB) trades daily much more on average than the SPDR DoubleLine Total Return Tactical ETF (TOTL).
+Younger But Wiser Investors
+Not surprisingly, the younger the investor, the more likely they were to invest in ETFs. In the U.S., 58% of millennials used ETFs the most, while 47% and 37% of millennials and boomers, respectively, did so. Overall, 65% of individuals agreed in April 2024 that “ETFs have improved the overall performance of my portfolio.” This was an increase from the 59% who felt this way when the survey was conducted in late 2022.
+Younger investors are still gaining comfort in ETFs. They will benefit from further education about the range of products available. As they do, and as institutions further tap into ETF liquidity, we believe asset growth industrywide will rise significantly. VettaFi is excited to consistently help connect asset managers and end-investors.
+For more news, information, and analysis, visit VettaFi | ETF Trends.

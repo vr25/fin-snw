@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Subscribe now for unlimited access.
+or signup to continue reading
+University of New South Wales Associate Professor Katharine Kemp is calling for privacy law reform to improve privacy protection in connected cars. 
+It follows her review of privacy terms by 15 car brands that offer connected cars in Australia and where data went, detailed in the newly released report Driving Blind: The Unexamined Privacy Risk of Connected Cars.
+"Connected cars can serve as sophisticated and comprehensive surveillance devices," Professor Kemp said.
+"The data collected via connected cars and related apps can potentially reveal extensive information about the driver, their family or passengers in real-time and over a period of time."
+Information collected could include the car's real-time location, internal audio data including voice, internal and external video and image data, voice and text communications with others, and - particularly for the driver - heart rate, iris scans, and head and eye movements.
+"Some brands also give themselves extraordinarily broad permissions to disclose consumers' personal information to data brokers, digital platforms, advertising technology (adtech) suppliers and/or AI developers," Professor Kemp said.
+"Brands collect extensive personal information about the consumer from these kinds of firms."
+Among the third parties mentioned that manufacturers shared data with included Google, Meta, Facebook, Tealium, Cerence and The Trade Desk.
+Tesla was one of the manufacturers identified in the report. In another study, consumer group Choice said the brand gathers voice command data as well as "short video clips and images" captured from the camera inside the vehicle.
+"Tesla operates according to its Privacy From Day One commitment and we don't sell customer data, period," a spokesperson for the company told The Senior.
+"Our privacy protections aim to go beyond industry standard, ensuring that customer personal data is never sold, tracked or shared without permission or knowledge."
+Read more in The Senior
+What is a connected car?
+In her report, Professor Kemp referred to connected cars as passenger vehicles that can send real-time data about a vehicle and its driver via the internet to the manufacturer and/or other companies. 
+She said such cars often have an embedded SIM card and modem - installed on the assembly line - that allows this to happen.
+Among the safety features connected services may offer are SOS or emergency calls, the ability to see outside or inside the car to identify threats to property or people, and the ability to detect if a driver is drowsy or distracted.
+Convenience features include live traffic updates, remote locking and taking photos inside the car for selfies. 
+It can also help car manufacturers give 'over the air' software updates to the car's systems.
+Aside from manufacturers not always being upfront about data being collected, she had concerns about "commercial misuse" of the information. 
+She also identified potential risks to national security, for example espionage and access by foreign governments, state surveillance, plus issues between people including domestic violence, stalking, kidnap, robbery, and blackmail. 
+Richard Vines, who splits his time between Melbourne and Gippsland, owns a Tesla Model 3 and a Model Y.
+Data-based tools onboard the cars that made his life easier included scheduling the cars to charge according to the best electricity rates or solar input and using the in-built navigation and mapping functions.
+"If I chose to share my calendar, they can automatically set navigation to my next appointment or to work or home based on time," he said.
+"I use the live camera feed frequently, particularly in low light scenarios such as dusk, dawn and fog."
+Mr Vines said he was comfortable sharing data with Tesla. 
+"I am aware of the purpose and the anonymous nature of it," he said.
+"The opt in/out options screen is routinely shown after software updates affecting data collection. It's also easily found on the Tesla screen under software options. Opting out of data collection with Tesla does not change or restrict any functions."

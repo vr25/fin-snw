@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Artificial intelligence (AI) has taken the tech world by storm over the past 18 months or so. Brought to the mainstream by the popularity of OpenAI's ChatGPT and other generative AI tools, it has become an unavoidable topic in tech and business.
+The biggest beneficiary of this newfound AI hype is Nvidia (NVDA +0.22%). Its stock has been on one of the best runs you'll ever see from a company of its size. It is up nearly 620% in the past two years and over 160% this year, making it the world's third-most-valuable company, with a market capitalization of over $3.2 trillion as of June 17.
+Nvidia's impressive rally has been great news for its investors, but with its lofty valuation surpassing even the most optimistic fundamentals, the stock could be due for a correction. Don't worry, though. There are plenty of companies dealing with AI that make for great investments.
+Here are three to consider now:
+1. Taiwan Semiconductor Manufacturing
+Taiwan Semiconductor Manufacturing (TSM -0.12%), or TSMC for short, is the world's largest semiconductor foundry and a company that I'd argue flies under the radar regarding its importance to the tech world.
+While Nvidia has received much attention, it can't be overstated how vital TSMC is to its business. People have been flocking to Nvidia because of its high-performance GPUs, which are needed to train and power AI applications. However, TSMC manufactures the advanced chips Nvidia uses for its GPUs.
+NYSE: TSM
+Key Data Points
+Could Nvidia and others purchase chips from another manufacturer? Sure. Will those chips be as advanced and efficient as TSMC's? Not likely. Its chips are essentially the foundation of the AI ecosystem. Take them away, and every part of the AI pipeline becomes less effective.
+The company's CEO said it expects revenue from some of its AI processors to more than double this year and account for a low-teens percentage of its total revenue. That's great news after it saw its revenue and operating income decline last year due to a weak smartphone and PC market.
+2. Amazon
+Amazon (AMZN +0.12%) has been using AI for a while for everything from Alexa to shopping recommendations to tailoring its logistics for its supply chain.
+Its true profit maker is its cloud platform, Amazon Web Services (AWS). Although it only generated close to 16% of the company's revenue in the first quarter, it accounted for over 61% of its operating income. AWS also stands to gain the most from AI advancements.
+It's the leading cloud platform, with a 31% market share, topping second-place Azure from Microsoft (MSFT +3.66%) at 25%. While Amazon has been enhancing AWS with AI features, how it uses the platform to enable businesses to develop and scale their own AI applications could be a huge growth driver for the foreseeable future.
+NASDAQ: AMZN
+Key Data Points
+Amazon SageMaker, for example, allows businesses to build, train, and deploy machine learning (ML) models for virtually any purpose. Amazon Bedrock allows businesses to build and scale generative AI applications that transform their operations and customer experiences.
+3. Microsoft
+Microsoft, maybe more so than any other tech company, has done a great job diversifying its business and building a comprehensive suite of products and services. That's largely why it has had so much sustained success over decades and now sits as the world's most valuable public company.
+NASDAQ: MSFT
+Key Data Points
+The tech powerhouse has its hand in many aspects of the business world. Companies rely on it for productivity tools (including Excel, Word, and Teams), enterprise software (Dynamics365), cloud services (Azure), recruiting (LinkedIn), operating systems (Windows), and other vital business applications.
+After signing a partnership with OpenAI that gives Microsoft exclusive licenses to OpenAI's large language models (LLMs), the company has the chance to bolster its suite of products and maintain its stronghold in the enterprise technology world.
+Microsoft's stock seems like a no-brainer for long-term investors, even with its relatively expensive valuation. The stock is priced well above its average for the past few years, but AI -- and the efficiency boost that should come with it -- should give the company newfound growth areas and continue its strong rise with its cloud platform.
+Microsoft is a stock you can feel comfortable buying and holding for the long haul. It has excellent financial health, a history of consistent growth, and its importance to the business world ensures it won't easily be replaced. It's a trifecta you can't go wrong with today.

@@ -1,0 +1,26 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Steve Cohen’s Point72 Is Dumping These AI Stocks
+Legendary hedge-fund pioneer Steven Cohen is best known for founding SAC Capital Advisors, one of the most successful hedge funds ever created. However, it was forced to shut down in 2013 after the firm pleaded guilty to securities fraud involving…
+This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
+Legendary hedge-fund pioneer Steven Cohen is best known for founding SAC Capital Advisors, one of the most successful hedge funds ever created. However, it was forced to shut down in 2013 after the firm pleaded guilty to securities fraud involving insider trading charges. Cohen ended up paying $1.8 billion in penalties.
+Point72 Asset Management was founded in its wake as a family office that invests on behalf of Cohen, his relatives, and friends. It has more than $35 billion in assets under management (AUM).
+In a surprise announcement, though, Cohen just said he will be stepping down from trading at the hedge fund. According to Reuters, a spokeswoman for Point72 said, “He is taking a break from trading his own book and he feels he can have a greater impact by focusing on running the firm, driving strategic initiatives, and mentoring and coaching to the next generation of talent.”
+That makes it instructive to see the puts and takes in Cohen’s portfolio. Below are the two stocks that saw the biggest selloff in shares from the hedge fund’s portfolio.
+Key Points About This Article:
+- Steve Cohen had an illustrious career on Wall Street that was upended when his SAC Capital was charged with insider trading and fined nearly $2 billion.
+- The hedge fund operator had to shut down his fund, but sprung back with the creation of Point72 Asset Management, a family office fund that manages Cohen’s personal money as well as for select wealthy individuals.
+- If you’re looking for some stocks with huge potential, make sure to grab a free copy of our brand-new “The Next NVIDIA” report. It features a software stock we’re confident has 10X potential.
+Broadcom (AVGO)
+Easy come, easy go. That’s the case for Cohen’s position in mobile chipmaker Broadcom (NASDAQ:AVGO | AVGO Price Prediction). The hedge fund operator went from having essentially no skin in the chip stock’s game to amassing a 4.7 million-share position worth $632 million in just one quarter. Now he’s gone back to essentially nothing one quarter later.
+Well, not nothing. Cohen still owns 1.5 million shares valued at $246 million, but it represents a 67% decline in his position. It went from his second largest position to his eighth, but as Cohen owns over 1,100 stocks, it is still rather large. But it is still a rather curious investment decision.
+Broadcom is quickly becoming an important need-to-own artificial intelligence stock. While industry peer Nvidia (NASDAQ:NVDA) continues to suck the oxygen out of the room when it comes to discussing chipmakers and AI, Broadcom’s data center infrastructure business could supplant simple chips as the critical growth component.
+AI has been the driving force behind the industry’s growing demand for Broadcom’s networking, Ethernet switches, and routing silicon solutions. It estimates its AI custom chips will bring in $11 billion in sales this year, or 25% of total sales, compared to 15% a year ago.
+The chipmaker’s custom AI accelerators and merchant networking chips contributed to a 35% increase in AI chip sales last quarter.
+Cohen seems to be leaving a lot of money on the table as AVGO stock is up 50% in 2024 and has doubled over the past year. The stock is up 4% since the end of the second quarter.
+ASML Holding (ASML)
+Netherlands-based semiconductor equipment manufacturer ASML Holdings (NASDAQ:ASML) got swept up in the tech sector selloff that began in July. Its shares have lost a quarter of their value over the past two months after having doubled from when the sector rally began in late 2022. Cohen seems to have gotten out just before the carnage began.
+His Point72 hedge fund unloaded nearly half his stake in ASML in the second quarter. His portfolio had built up a 258,000 share position in the equipment maker, which would have been worth $145 million at its peak, but sold nearly 116,000 shares, or 44% of the total. It suggests he saved about $16 million in profits from being evaporated.
+Yet ASML is also a stock with a long runway. It has a monopoly on the critical equipment chipmakers need to make AI chips. Its extreme ultraviolet lithography (EUV) machines are needed by the semiconductor industry to clean the wafers to a pristine condition before manufacturing begins. Because demand for AI chips is accelerating, it should be able to keep expanding.
+Contact [email protected] for any questions or corrections.

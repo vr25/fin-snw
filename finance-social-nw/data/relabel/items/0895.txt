@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Shares of HubSpot (HUBS -3.53%) were rallying on Tuesday, up 8.9% as of 3:24 p.m. ET.
+Today, CNBC's David Faber reported that the recent rumors of acquisition talks between HubSpot and Google parent Alphabet (GOOG +0.61%) (GOOGL +0.46%), which have been circulating for about a month, were true.
+Moreover, the potential acquisition would be an all-stock deal. That's interesting and somewhat surprising, and could result in an even bigger benefit for HubSpot shareholders.
+NYSE: HUBS
+Key Data Points
+Why Google wants HubSpot
+HubSpot's core software product helps small and medium-size businesses produce, track, and analyze "inbound marketing," or when a customer uses search or clicks a social media post. In recent years, the company has also developed a full customer relationship management platform (CRM) that aims to go head-to-head with big tech giants such as Salesforce and Microsoft Dynamics 365.
+So not only would the marketing analytics engine be highly synergistic with Alphabet's Search and YouTube digital advertising franchises, but the HubSpot CRM product could also make Alphabet a more formidable player in enterprise software and cloud. Currently, Google Cloud is a third-place player behind Microsoft, which can currently bundle many different aspects of the enterprise software "stack" together in a comprehensive offering. The addition of HubSpot would potentially allow Alphabet to match Microsoft's full stack to a greater degree.
+Also according to Faber, the deal would be an all-stock deal. That's somewhat surprising; HubSpot's market cap was about $30 billion at the beginning of the day, and Alphabet had $108 billion in cash on its balance sheet at the end of last quarter.
+It's possible that in order to consummate a deal, HubSpot insisted on receiving Alphabet stock in return, rather than cash. That would make sense, as Alphabet's stock appears undervalued and the company just initiated a dividend.
+Alphabet stock is up, too
+Alphabet's stock was also slightly up today. That's actually a bit surprising. Usually when a company acquires another company, especially using its own shares, the stock goes down. And that would especially seem true of this deal; Alphabet's multiple is much lower than HubSpot's, and Alphabet would be using its stock, diluting shareholders. Moreover, there is a high degree of regulatory risk, as the current administration is generally resistant to large companies getting bigger, even if the acquired business is in a different field.
+That perhaps lends credence to the potential business synergies and benefits of Alphabet acquiring HubSpot. Should the deal be consummated, the enterprise software industry could see a significant shakeup.

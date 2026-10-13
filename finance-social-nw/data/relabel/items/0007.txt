@@ -1,0 +1,25 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+NEW DELHI: Meta Platforms Inc said on Wednesday it will let go of 13% of its workforce, or more than 11,000 employees, in one of the biggest tech layoffs this year as the Facebook parent battles soaring costs and a weak advertising market.
+The broad job cuts, the first in Meta's 18-year history, follow thousands of layoffs at other major tech companies including Elon Musk-owned Twitter and Microsoft Corp.
+Read Mark Zuckerberg's message on laying off 11,000 Meta employees
+The pandemic boom that boosted tech companies and their valuations has turned into a bust this year in the face of decades-high inflation and rapidly rising interest rates.
+I got this wrong: Zuckerberg
+âUnfortunately, this did not play out the way I expected,â Chief Executive Officer Mark Zuckerberg said in a prepared statement.
+"Not only has online commerce returned to prior trends, but the macroeconomic downturn, increased competition, and ads signal loss have caused our revenue to be much lower than I'd expected," he said in a message to employees.
+"I got this wrong, and I take responsibility for that."
+The Facebook founder said that je knows that the decision is tough for everyone. "I'm especially sorry to those impacted," he said.
+Zuckerberg stressed on the need to become more capital efficient and said the company would shift resources to "high priority growth areas" such as its AI discovery engine, ads and business platforms, as well as its metaverse project.
+Meta said it would pay 16 weeks of base pay plus two additional weeks for every year of service as a part of the severance package and all remaining paid time off.
+Employees will get cost of healthcare for six months and those impacted will receive their Nov. 15 vesting, according to the company.
+Meta said it also plans to cut discretionary spending and extend its hiring freeze through the first quarter.
+The company's shares, which have lost more than two-thirds of their value, were up about 3% in pre market trading.
+Meta's woes
+Meta, like other social media companies, enjoyed a financial boost during the pandemic lockdown era because more people stayed home and scrolled on their phones and computers. But as the lockdowns ended and people started going outside again, revenue growth began to falter.
+Explained: Why Mark Zuckerberg's Metaverse still leaves a lot to the imagination
+An economic slowdown and a grim outlook for online advertising â by far Metaâs biggest revenue source â have contributed to Meta's woes. This summer, Meta posted its first quarterly revenue decline in history, followed by another, bigger decline in the fall.
+Some of the pain is company-specific, while some is tied to broader economic and technological forces.
+Last week, Twitter laid off about half of its 7,500 employees, part of a chaotic overhaul as Musk took the helm. He tweeted that there was no choice but to cut the jobs âwhen the company is losing over $4M/day," though did not provide details about the losses.
+Meta has worried investors by pouring over $10 billion a year into the âmetaverseâ as it shifts its focus away from social media. Zuckerberg predicts the metaverse, an immersive digital universe, will eventually replace smartphones as the primary way people use technology.
+Meta and its advertisers are bracing for a potential recession. Thereâs also the challenge of Apple's privacy tools, which make it more difficult for social media platforms like Facebook, Instagram and Snap to track people without their consent and target ads to them.

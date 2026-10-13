@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+DUBLIN, Dec. 9, 2022 /PRNewswire/ -- The "USA Freedom Act Security Bundle" report has been added to ResearchAndMarkets.com's offering.
+The USA Freedom Act places new mandates on how corporations collect, process, and store data and at the same time allows investigators to use the tools that were already available under the USA Patriot Act to monitor the flow and retrieval of data.
+U.S. law enforcement could use the USA Freedom Act on a U.S. based organization - like Microsoft, Google, Intel or Amazon, for example - to force its local subsidiary companies across the world into handing over user data to US authorities. At the same time this has put the onus on US corporations to comply with the mandates of the law.
+EU data once may have 'had to stay in Europe', but this is on the most part untrue. The Safe Harbor framework, designed to protect EU data in the United States, protects merely the transfer of data from Europe to US soil. But as soon as it arrived on U.S. soil, Safe Harbor can be superseded by America's counter-terrorism law.
+U.S. corporations survive by having subsidiary or smaller companies in foreign locations, to communicate and collaborate with their clients on the ground in their locale. These subsidiary companies are wholly owned and controlled by their U.S. parent. If a U.S. parent company receives a request from the US government to inspect data held by a subsidiary company in a foreign location, the subsidiary would therefore have no choice but to hand over the data to their US based parent.
+As a result, universities, businesses and organizations which hold vast quantities of student and citizen data in the European cloud, are not protected against the US . counter-terrorism laws, which arguably infringe the freedoms and liberties of non-US citizens.
+No company or organization can wholly guarantee that data in Euroean data centers will under no circumstances leave European soil. Until a company comes forward and unequivocally states otherwise, then this series of posts stands true.
+The USA Freedom Act Security Bundle contains the Security Manual Template, all of the procedures and electronic forms in the CIO Infrastructure policy bundle, 17 key security job descriptions and the Disaster Recovery Business Continuity Template.
+The USA Freedom Act Security Bundle has been updated to reflect all of the legislation that has be enacted by the US Congress. Plus you have the option to order this bundle with 12 months of update service so that as interpretations of the law are made you will receive updates to the bundle as they are made.
+Policies included in the USA Freedom Act Security Bundle are:
+Key Topics Covered:
+The USA Freedom Act Security Bundle contains the tools you need to comply with the USA Freedom Act and to protect your most valuable assets. Each product comes in MS WORD format and the bundle contains:
+For more information about this report visit https://www.researchandmarkets.com/r/id29pb
+Media Contact:
+Research and MarketsLaura Wood, Senior Manager[email protected] For E.S.T Office Hours Call +1-917-300-0470For U.S./CAN Toll Free Call +1-800-526-8630For GMT Office Hours Call +353-1-416-8900 U.S. Fax: 646-607-1907Fax (outside U.S.): +353-1-481-1716
+Logo: https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg
+View original content:https://www.prnewswire.com/news-releases/usa-freedom-act-security-policies-bundle-2022-the-tools-you-need-to-comply-with-the-usa-freedom-act-and-to-protect-your-most-valuable-assets-301699175.html
+SOURCE Research and Markets
+[ Back To TMCnet.com's Homepage ]

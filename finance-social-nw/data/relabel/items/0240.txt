@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+TikTok hasn’t exactly got Facebook dancing in the streets.
+The Chinese-owned social media app is rapidly eating away at Facebook’s user base, especially among the under-30s crowd, which seems to think that Facebook is for the over-the-hill crowd.
+Many are understandably concerned about TikTok‘s Chinese ownership — and what kids especially might be doing (and seeing) on the app. But they might also be concerned about Facebook’s tactics.
+Rather than do what it did to become successful, Facebook is looking to government to prevent its rival from becoming too successful for Facebook’s own good. (READ MORE: TikTok Needs to Be Destroyed)
+Facebook’s familiar playbook began with hiring a group of Washington insiders to portray its rival as a threat. Which it is, but not in the sense you’ve probably been reading about. According to a piece in the Washington Post, Facebook hired a prominent D.C. firm “to undermine TikTok through a nationwide media and lobbying campaign” designed to portray the app “as a danger to American children and society.”
+If you were wondering where you’ve heard bad things about TikTok, now you know who paid for them.
+Of course, a good publicity campaign isn’t enough. It also helps to have public policy officials parroting the same arguments.
+One of the five commissioners at the Federal Communications Commission, Brendan Carr, has called for TikTok to be banned. “Carr sent letters to Apple and Google in June asking the companies to remove the apps from their stores due to concerns about data flowing back to China,” Axios reported last year.
+Interestingly, the FCC does not have jurisdiction over TikTok, so it’s odd for the commissioner to send letters demanding the removal of the app from stores where people are free to buy it (or not). According to the site Techdirt, “It’s extremely easy for U.S. companies like Facebook or Cisco to use politicians as marionettes to create or feed moral panics about China. But the underlying motivations usually have absolutely nothing to do with a genuine interest in US consumer privacy or security.”
+We’ve seen this sort of crony capitalism over and over in many different industries. An innovative company gets large, then gets soft, and then gets protected. It uses its money to buy laws and regulations that insulate it from competition, often by hobbling it. For example, the major car companies, all of which once opposed the federal regulation requiring air bags in new cars, now vehemently support the regulations that require them because they can afford the R&D costs that go into designing a new car around the air bag system while a would-be start-up company cannot.
+TikTok worries Facebook because it is better at what they both do.
+But while users, especially younger ones, are flocking to watch videos and post their own on TikTok, they seem bored with Facebook. The company “has been struggling to maintain its position among the Top 10 apps on the U.S. App Store,” TechCrunch reported. “April [2022] was Facebook’s worst month so far, as the app’s rank fell into the 30s on April 18, and then reached as low as No. 44 on April 21.”
+This isn’t surprising given how quickly things get old online. Facebook ought to know. It became the dominant social media app when people got tired of MySpace — if anyone remembers that. MySpace went the way of the VCR.
+Facebook’s health depends on views and clicks. These, in turn, depend on content, much of it provided by the users of the apps. Fewer people using an app means less information coming in. Since Facebook’s business model involves collecting user data and selling it, less of it is bad for business. Facebook knows it must do something to prevent its users from abandoning the app in favor of another.
+It could try to offer users something they want in order to persuade them to stay.
+Like Reels, for instance — which is Facebook’s version of TikTok. It features “short-form” videos “complete with music, audio, AR effects and other options.”
+It sounds good. But the problem — for Facebook — is that people tend to like the real thing rather than an imitation thing. Think Concordski vs. Concorde and Jolt Cola vs. Coke and Pepsi. Besides, it’s harder to revamp a stale — and stagnating — business model than it is to pay the government to force a rival off the market.
+That latter being almost as worrying as a Chinese-owned app becoming the most popular social media app among the under-30 crowd.
+READ MORE:
+TikToker Who Is a Mormon ‘Swinger’ Epitomizes the Dark Side of ‘Influencer’ Culture

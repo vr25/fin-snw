@@ -1,0 +1,38 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+NEW YORK (AP) — The typical CEO compensation package rose nearly 6% in 2025 to $17.7 million, as company boards rewarded their top executives for bigger profits and higher stock prices, and gave them incentives to stick around and make even more money for shareholders.
+The median employee at companies in the S&P 500 earned $89,744, reflecting a 4.7% increase year over year. While that gain outpaced the rate of inflation in 2025, many workers were still feeling pinched by the accumulation of higher prices over the past few years and had to cut corners to make ends meet and run up credit card debt to pay for everyday necessities.
+The Associated Press’ CEO compensation survey, which uses data analyzed for The AP by Equilar, included pay data for 337 executives at S&P 500 companies who have served at least two full consecutive fiscal years at their companies, which filed proxy statements between Jan. 1 and April 30.
+Here’s a look at some highlights from the survey.
+The pay gap
+At half the companies in AP’s survey it would take the worker at the middle of the company’s pay scale 200 years to make what the CEO did in one, up from 192 years in last year’s survey. Companies have been required to disclose this so-called pay ratio since 2018.
+While the biggest gaps occur at companies where the CEO received compensation loaded with one-time awards of stock, the pay ratio also tends to be highest at companies in industries where wages are typically low. For instance, at Coca-Cola, its CEO earned nearly 1,739 times the median pay of $17,947 for its workers. The CEO at the retailer TJX Cos. makes about 1,774 times what a worker making the company’s median pay does.
+Sarah Anderson, who directs the Global Economy Project at the progressive Institute for Policy Studies, noted in an email that there are ballot initiative campaigns in San Francisco and Los Angeles to raise taxes on companies with sizable gaps between CEO and worker pay.
+“At a time when working families are struggling with rising costs, it’s obscene to see CEO pay continuing to skyrocket,” Anderson wrote.
+Overall, wages and benefits netted by private-sector workers in the U.S. rose 3.4% through 2025, according to the Labor Department. The average worker in the U.S. makes $67,000 a year. That figure rises to $96,000 when benefits such as health care and other insurance are included.
+The nature of CEO pay
+While many people may think of a pay package as consisting of salary, bonus and some perks, those components make up only a small percentage of pay for the modern CEO.
+Many companies have heeded calls from shareholders to tie CEO compensation more closely to performance. As a result, a large proportion of pay packages consist of stock awards, which the CEO often can’t cash in for years, if at all, unless the company meets certain targets, typically a higher stock price or market value or improved operating profits. And if the CEO delivers on those metrics, companies often give them one-time rewards as incentives to stay on and not look for a bigger payday elsewhere.
+Shareholders can weigh in on a CEO’s pay package through “say on pay” votes at a company’s annual meeting. But the votes are non-binding and most pay plans pass with overwhelming support. The average “yes” vote at companies in this year’s survey was around 90%.
+Big rewards, lofty goals
+As CEO pay has grown significantly over the past few decades, criticism of the lofty payouts has largely come from worker advocates and certain members of Congress.
+Elon Musk’s pay package is so extraordinary that even the pope weighed in.
+Musk, the CEO of Tesla, received compensation valued at $132.3 billion, all in the form of stock awards. To actually get the shares, Musk must meet ambitious targets over the next 10 years for the company’s market value and Tesla’s electric vehicles, as well as his futuristic goals of developing a fleet of robotaxis and an army of humanoid robots.
+Tesla did not immediately respond to a request for comment.
+Shankh Mitra of Welltower received the second-largest compensation package in the survey at $821.1 million, the bulk of it in stock awards. Since October 2020, when he became CEO of the healthcare real estate investment trust, and October 2025, Welltower’s stock price tripled. Mitra can only receive the full compensation, beyond a $110,000 annual salary, after a 10-year period.
+CEO Hock Tan’s pay package at Broadcom, valued at $205.3 million, covers the years 2028-2030 — companies assign a value at the time the package is awarded — and is tied to Tan’s ability to greatly increase the revenue Broadcom generates from artificial intelligence, making it one of the few companies at this time to use AI as a benchmark in its compensation plans.
+“Use of AI considerations or metrics in incentive plans has not yet taken hold as a majority practice,” said Kelly Malafis, founding
+partner at Compensation Advisory Partners, in an email, although she expects that could change going forward.
+David Zaslav was at the center of a takeover battle that ended with him selling Warner Bros. to Paramount Skydance for $31 a share, up from $12.54 before reports of Paramount’s interest in a deal came out. For negotiating the deal at a premium and also exceeding certain financial and strategic goals, Warner gave Zaslav a pay package valued at $165 million, fourth largest in the survey. Since becoming CEO in 2007, Zaslav’s compensation has totaled $1.1 billion, according to Equilar.
+Big payouts for bankers
+CEOs of three the nation’s biggest banks got rewarded for yearslong efforts to retool their companies and revive a stagnant stock price.
+Goldman Sachs’ David Solomon’s pay package totaled almost $119 million — including stock valued at $80 million he can receive after five years. Goldman’s board pointed to the 57% gain in the company’s shares, as well as a hefty increase in its earnings per share. Solomon also sold off the company’s Apple Card portfolio after an unsuccessful effort to expand Goldman’s consumer-focused business.
+Jane Fraser of Citigroup received a pay package valued at $95.8 million — tops among the 27 women CEOs in this year’s survey and the highest-ever for a woman CEO in the survey’s history. Fraser received a one-time award valued at $25 million in restricted stock and options after being elected Citi’s chairman. She also got a one-time award for overseeing a wholesale reorganization of Citi into a leaner company, including laying off thousands of workers.
+Overall, the median compensation for women CEOs in the survey fell 2.6% to $18.1 million, compared to a 6.4% increase for their male counterparts to $17.7 billion.
+Wells Fargo gave CEO Charles Scharf a pay package worth $94.5 million after his yearslong effort to lead the bank back from a scandal involving fake bank accounts that landed Wells under federal supervision. And new scandals emerged along the way. The Federal Reserve finally let Wells leave the penalty box last year.
+Other notables
+In his last year as CEO of the conglomerate Berkshire Hathaway, Warren Buffett received compensation worth $389,488 — down 4% from the year prior.
+Meta Platforms CEO Mark Zuckerberg’s compensation was valued at $25.1 million and almost all of it involved costs for the company to provide security for him and his family, as well as the use of corporate aircraft.
+Jensen Huang of Nvidia, the most valuable publicly traded company, got a pay package valued at $36.3 million. He didn’t make the AP survey because Nvidia filed its proxy after April 30.
+Editors Dorothea Degen and Paul Harloff, and reporters Bernard Condon, Matt Ott, Alex Veiga, Ken Sweet and Chris Rugaber contributed.

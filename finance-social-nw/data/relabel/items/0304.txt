@@ -1,0 +1,21 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+- Microsoft evaluated a takeover of Zynga but opted not to go forward, said Phil Spencer, Microsoft's CEO of gaming.
+- Spencer's comments on Friday came in a federal court hearing over Microsoft's effort to complete its Activision Blizzard acquisition.
+- Over a decade ago, Microsoft made prior efforts acquire Zynga, the publisher of FarmVille.
+As Microsoft attempts to convince regulators to approve its $68.7 billion acquisition of Activision Blizzard, the company is revealing some of the other ways it's looked to expand in the video game industry.
+Stream Los Angeles News for free, 24/7, wherever you are.
+Microsoft Gaming CEO Phil Spencer testified in San Francisco on Friday that the company previously opened up talks with mobile game developer Zynga but ended up not consummating a deal.
+The hearing, which began on Thursday and will continue next week, came after the Federal Trade Commission gained a temporary restraining order to keep Microsoft from closing the Activision purchase. The court agreed to maintain the status quo as it reviewed the FTC's request for a preliminary injunction for the deal.
+"A lot of respect for people at Zynga and what they built," Spencer said at the hearing. "In the end, for our opportunity, we thought we needed to have something that was even bigger than what Zynga was, given our very small starting space in the mobile gaming business."
+Take Two Interactive, the publisher of Grand Theft Auto titles and other games, ended up acquiring Zynga, in May of last year for $12.7 billion. Zynga was originally for the Facebook hit social game FarmVille, before eventually expanding into mobile games, largely through acquisitions.
+Prior to the Microsoft offer, Activision met with a financial firm to work on topping Take-Two's purchase of Zynga, CNBC reported at the time.
+Spencer didn't say when Microsoft was in talks with Zynga, and the company wouldn't provide further comment. However, Zynga said in a filing last year that executives met in September 2021 with representatives from an unnamed "strategic acquirer," which "expressed non-specific interest in an acquisition of Zynga."
+It wasn't the the first time Microsoft showed such interest. The company reportedly tried to buy Zynga in 2010.
+In trying to the get Activision deal over the finish line, Microsoft says that even if the two companies combine, the joint entity would be smaller than Sony, whose PlayStation console competes with Microsoft's Xbox, as well as China's Tencent.
+Spencer said on Friday that mobile games represent a faster opportunity for growth than PC games and consoles, where Microsoft gets the bulk of its gaming revenue. Microsoft has tried to boost cloud-based game streaming on mobile devices, but that effort has challenges. They include the smaller typefaces on phone screens and the fact that smartphones don't come with controllers, Spencer said.
+Additionally, Apple has stood in the way of bringing Microsoft's Game Pass library of video games to its App Store, he said.
+Spencer said that after the company went to Zynga, he worked with Microsoft finance chief Amy Hood to look for mobile opportunities. Activision was the biggest publisher of mobile content, and it was already a longtime Microsoft partner, he said.
+Activision grew its portfolio of mobile games with the 2016 acquisition of King, publisher of Candy Crush Saga. About 35% of the company's $8 billion in 2022 revenue came from its King segment.
+WATCH: Microsoft-Activision Blizzard five-day hearing begins

@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Common Sense Media creates independent watchdog to test AI safety for kids
+(TNND) — Common Sense Media has launched the Youth AI Safety Institute, an effort the organization's founder called their "biggest undertaking" ever, but one vital to addressing the "incredible damage" that could be done to children by artificial intelligence.
+“There's no question that AI is the single most powerful technological platform that we have ever experienced as a society, and therefore its impact on kids and families and education, and quite frankly, broader society, will be social media on steroids,” Common Sense Media Founder and CEO Jim Steyer said.
+The institute will provide independent testing, evaluation and broad public awareness of AI products used by young people.
+Steyer said the findings will be shared with families clearly and simply, and AI developers will be held accountable for the safety of their platforms.
+“We want to create a race to the top, if you will, among the big frontier labs, the big platforms, and the folks who are making AI products, particularly those specifically targeting young people,” Steyer said.
+This is the first standalone institute under Common Sense Media. The new test lab was born from years of previous studies about how kids and families are experiencing AI.
+Common Sense Media has published AI risk assessments, found widespread chatbot use by teenagers, warned of unacceptable risks to youth mental health, and raised safety concerns over AI-enabled toys.
+Steyer said study after study painted a picture of a “potential catastrophe” facing kids from AI, and he said Common Sense Media had to step up to the plate as the biggest organization in the world that focuses on the impact of media and tech on young people.
+“And that is the reason why we launched the Youth AI Safety Institute,” he said. “Period. Full stop.”
+Steyer likened the Youth AI Safety Institute to the Consumer Product Safety Commission. And he compared its upcoming work to the independent crash test ratings put out by the Insurance Institute for Highway Safety that show consumers how safe cars are to drive.
+“And, as you know, and as the public knows, that pushed automakers to compete on safety and product quality,” he said. “It led to dramatic improvements in vehicle design. We believe that's a very good example for what we're looking at here with AI, because AI is here to stay. It's going to have a dramatic impact on all of our lives, and you have to get in front of it.”
+Steyer said the AI developers know a watchdog is necessary, but they don’t have the credibility to handle it on their own.
+“You had to have an independent, trusted third-party lead this,” he said.
+But Steyer said the AI developers must buy in, and he’s confident they will.
+“We're working with Anthropic and the OpenAI Foundation, and we have been meeting with the heads of companies such as Apple, Google, Microsoft, etcetera. I have personally been meeting with the people at the CEO level of all of those companies. And we will continue to, because you can't really do this without working with the companies to some degree,” Steyer said. “But having said it, they have no influence over what we said, no influence over the standards or the evaluations, or the product testing, just like the car companies can't influence the crash tests. That had to be independent.”
+RELATED STORY: Parents and kids weigh in on AI's impact, from schoolwork to future job opportunities
+The Youth AI Safety Institute will be guided by a board of advisors featuring experts in AI, youth development, child safety, mental health, and education. A former surgeon general of California, a former U.S. secretary of education, and Apple’s former senior vice president for machine learning and AI strategy are among the board members.
+And former U.S. surgeon general Dr. Vivek Murthy, a Common Sense Media board member, will serve in a liaison capacity to the institute’s advisory board.
+“You can see the scale at which AI is starting to affect our society,” Steyer said. “Any parent knows this. Any teacher knows this. All the policymakers at federal and state levels should know this unless their heads are buried in the sand, deeply in the sand. But the problem is there was no body set up to do this, and our government has failed to lead on these issues.”

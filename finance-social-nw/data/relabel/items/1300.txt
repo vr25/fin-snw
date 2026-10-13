@@ -1,0 +1,37 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+DeepSeek, Nvidia and the AI race that’s shaping the future
+The artificial intelligence (AI) revolution is well under way and two companies, DeepSeek and Nvidia, stand out among those competing to lead it.
+Outside the financial world, the story might seem distant — but it really does have consequences for everyone. It comes down to why investors are paying so much attention to AI, and how this competition could affect the technology we use daily.
+Developments in AI investment will shape the capabilities of the next generation of apps, smart assistants, self-driving technology and business practices.
+DeepSeek, the new player on the scene, is a Chinese company that has been making huge waves in AI development.
+Its powerful technology could change things such as healthcare, finance – and even the way we interact with the internet. Investors are excited because they see DeepSeek as a potential leader in shaping the next generation of AI tools.
+Meanwhile, Nvidia has long been a giant in AI hardware, producing the graphics processing units (GPUs, or chips) that power many AI applications.
+However, the rise of DeepSeek has made some investors rethink their bets, leading to a sell-off in Nvidia shares, and wiping almost $300bn off the company’s value.
+Why does this matter?
+To put it simply, the AI race isn’t just about corporate profits. The technology developed by companies such as DeepSeek and Nvidia is what powers voice assistants, recommendation systems on streaming platforms, self-driving car software and even medical breakthroughs.
+As investment flows into AI, it means that innovation could become more advanced and accessible — much faster than we previously expected. When investors hear about a new company like DeepSeek making big advances, they often react by shifting their investments. This is what happened with Nvidia.
+Some investors sold their shares, fearing that DeepSeek might take away some of Nvidia’s dominance in AI. This does not necessarily mean the company is struggling — only that markets move based on expectations, rather than just current success.
+Speculation — where investors accept uncertainty and high risks in return for potentially big returns — plays a key role in these shifts.
+Investors do not always wait for solid proof that a company will succeed, instead they often act based on excitement, predictions or just fear of missing out. This can cause rapid changes in stock prices, even before new technology is widely available.
+Speculation can sometimes lead to instability, but it also helps to drive innovation.
+When investors put money into AI companies, it allows those companies to develop technology that could improve people’s daily lives. This has happened before — during the dotcom boom of the 1990s, investment rushed into internet start-ups. While many companies failed, others like Amazon and Google became global leaders.
+Similarly, cryptocurrency investment surged in the past decade.
+While the hype led to many failures, blockchain technology — one of its key innovations — has since become a major part of modern finance and security systems.
+With so much excitement around AI, some experts worry that the industry is experiencing a speculative bubble. A bubble happens when investors pour money into a sector too quickly, driving up prices beyond their real value.
+This happened in the early 2000s with the dotcom crash that followed the boom years of the previous decade. Many internet companies received huge investments, but when they failed to deliver on their promises markets crashed.
+Could the same happen with AI?
+It’s possible — but unlike some past bubbles, AI is already being widely used in everyday life. The key question is not whether AI is important, but whether current investments reflect realistic long-term growth or over-optimistic speculation.
+The sell-off of Nvidia shares does not necessarily mean it is losing its place in AI. Instead, it could reflect investors trying to hedge their bets, moving some of their money to newer companies such as DeepSeek while still keeping Nvidia in their portfolios.
+In other words, investors are looking into the potential “next big thing” (Chinese e-commerce giant Alibaba, for example, is touting a new AI model that claims to be superior to those of DeepSeek and Meta).
+Savvy investors often shop around like this to spread risk to avoid relying too much on a single company to bring them returns. Beyond Nvidia and DeepSeek, there is a larger global race for AI dominance.
+Countries, including the US, China, and some European states, are investing heavily in AI research because they recognise how much power and influence this technology could bring. Governments are funding AI initiatives, and businesses are pouring resources into being the first to create groundbreaking AI systems.
+But while speculation and innovation drive growth, regulation is needed to prevent market and financial instability.
+The history of economic crashes shows that unchecked hype can lead to over-investment and eventual collapse. Regulators need to ensure that AI companies and investors operate responsibly, balancing growth with stability.
+For example, regulators should provide clear AI investment guidelines, endorse transparency around the financial risks of investing, and be on the lookout for possible AI investment bubbles.
+Importantly, they should also introduce consumer protection policies to shield retail (non-professional) investors. And they should encourage international cooperation around regulation, working towards common principles.
+The battle between DeepSeek and Nvidia is a sign of how AI is transforming the world. Investors, regulators and everyday consumers all have a stake in how this technology develops.
+While financial speculation can be unpredictable, it is also one of the driving forces behind the innovation that’s shaping the future.
+- Daniele D'Alvia is a lecturer in banking and finance law at Queen Mary University of London. This article appeared on The Conversation, a news and analysis website written by academics.
+<img src="https://counter.theconversation.com/content/248626/count.gif?distributor=republish-lightbox-advanced" alt="The Conversation" width="1" height="1" style="border: none !important; box-shadow: none !important; margin: 0 !important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0 !important" referrerpolicy="no-referrer-when-downgrade" />

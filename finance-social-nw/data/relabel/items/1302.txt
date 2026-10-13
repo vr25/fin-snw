@@ -1,0 +1,14 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+- Advanced Micro Devices shares fell more than 6% on Wednesday after the chipmaker under-delivered on Wall Street's estimates for its important data center business.
+- The chipmaker reported better-than-expected results on the top and bottom lines but fell short of Wall Street expectations for its data center sales.
+Advanced Micro Devices shares slumped 6.3% on Wednesday after the chipmaker under-delivered on Wall Street's estimates for its important data center business.
+Shares closed at $112.01 per share and at their lowest level since November 2023.
+Watch NBC 4 free wherever you are
+AMD reported better-than-expected results on the top and bottom lines, but it also reported data center sales of $3.86 billion. That reflected 69% growth from a year ago but fell short of the $4.14 billion in sales expected by analysts polled by LSEG.
+The key unit, responsible for selling advanced chips for data centers, has benefited in recent years from growing demand for its graphics processing units, as megacap technology companies race to develop advanced artificial intelligence tools.
+Data center revenue grew 94% for the full year to $12.6 billion, with $5 billion of those sales stemming from AMD's AI-focused Instinct GPUs. The company is the second-largest producer for gaming after Nvidia, which has triumphed as the market leader in AI chips and ballooned in value to a nearly $3 trillion market value.
+"We believe this places AMD on a steep long-term growth trajectory, led by the rapid scaling of our data center AI franchise from more than $5 billion of revenue in 2024 to tens of billions of dollars of annual revenue over the coming years," AMD CEO Lisa Su said on the earnings call with analysts.
+Several Wall Street firms trimmed their price targets on shares amid the disappointing data center results and expectations for a weak first half. Citi downgraded shares to neutral from a buy rating, while JPMorgan its target to $130 from $180. Bank of America's Vivek Arya said the company has yet to "articulate how it can carve an important niche" relative to Nvidia.
+Morgan Stanley highlighted AI expectations as the most significant pressure point, saying that "visibility likely needs to improve for the stock to find its footing."

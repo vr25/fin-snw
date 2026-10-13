@@ -1,0 +1,42 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+July 5 (Reuters) - Telecom and media firm Quebecor
+said on Wednesday it will pull its ads from Facebook
+and Instagram, following Meta Platforms' decision to
+stop access to news on both the social media platforms in Canada
+over a law requiring payments to local news publishers.
+The "Online News Act", or House of Commons bill C-18,
+introduced in April last year laid out rules to force companies
+such as Meta and Alphabet-owned Google to negotiate
+commercial deals and pay news publishers for their content.
+Google and Meta previously said they would block access to
+news articles in Canada if the legislation is passed.
+Quebecor, which also owns media outlets and newspapers, did
+not immediately respond to a request for comment on how much it
+spends on advertisements on Facebook and Instagram.
+Meta did not immediately respond to a request for comment.
+Canada's media industry has called for tighter regulation of
+internet giants to allow news businesses to recoup financial
+losses suffered in the years that Facebook and Google gained a
+greater share of the online advertising market.
+(Reporting by Tiyashi Datta in Bengaluru; Editing by Shounak
+Dasgupta)
+Meta Platforms, Inc. specializes in online social networking services. Net sales break down by activity as follows:
+- operation of social networking, messaging, photo and video sharing platforms (98.9%): operation of the Facebook, Instagram, Messenger, Threads and WhatsApp platforms (3.58 billion daily active users in 2025);
+- sale of virtual and augmented reality products, software and devices (1.1%): virtual reality headsets (Meta Quest), connected screens (Facebook Portal), wearable devices, etc.
+Net sales break down by source of income into advertising spaces (98.7%) and other (1.3%).
+Net sales are distributed geographically as follows: the United States and Canada (39.2%), Asia/Pacific (26.8%), Europe (23.2%) and other (10.8%).
+This super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Investor
+Investor
+This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Global
+Global
+This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus (Composite) and Visibility (Composite). The company must be covered by at least 4 of these 5 ratings for the calculation to be carried out. We recommend that you carefully review the associated descriptions.
+Quality
+Quality
+This composite rating is the result of an average of rankings based on the following ratings: Returns (Composite), Profitability (Composite) and Quality of Financial Reporting (Composite), and Financial Health (Composite). The company must be covered by at least 2 of these 3 ratings for the calculation to be performed. We recommend that you carefully read the associated descriptions.
+ESG MSCI
+ESG MSCI
+The MSCI ESG score assesses a company’s environmental, social, and governance practices relative to its industry peers. Companies are rated from CCC (laggard) to AAA (leader). This rating helps investors incorporate sustainability risks and opportunities into their investment decisions.

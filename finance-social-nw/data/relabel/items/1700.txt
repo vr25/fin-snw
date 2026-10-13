@@ -1,0 +1,8 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Uber announced its plans to begin offering autonomous taxi rides in the San Francisco Bay Area in late 2026 on Wednesday (October 29) via ABC News.
+The San Francisco-based ride-hailing company had previously revealed it was developing a robotaxi with the electric car company Lucid based on its Gravity SUV, and the self-driving technology company Nuro Inc., in July. Uber confirmed that Lucid recently delivered test vehicles to Nuro and it plans to have 100 test vehicles on the road in the coming months, with a long-term estimated goal of 20,000 deployed within the next six years in various locations accessible through the Uber app.
+On Tuesday (October 28), Uber confirmed that it was working with multiple companies to speed the process of its autonomous taxi development, which included the tech company Nvidia and the automaker Stellantis, with the intention of having Stellantis produce at least 5,000 vehicles powered by Nvidia software in 2028. The company had previously started offering autonomous taxi rides in Saudi Arabia as part of its partnership with the Chinese tech company WeRide as of last week.
+Uber is the world's most popular ride-hailing serve with a presence in 15,000 cities and more than 70 countries as of 2025. Waymo, owned by Google's parent company, Alphabet, has been testing autonomous taxis for several years and offers service in Phoenix, San Francisco, Los Angeles, Atlanta and Austin, with plans to expand to London next year.
+Uber announced its partnership with Waymo to offer autonomous taxis in Austin in March.

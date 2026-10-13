@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By Isabelle Lee and Lu Wang | Bloomberg
+For years now, way before artificial intelligence became the hot new thing on Wall Street, Daniel Mahr has been making money on stocks, courtesy of his machine-learning model.
+These days, that AI-powered model is blaring relentless warnings against loading up on companies that lie at the very center of the AI boom.
+Mahr’s trading program, which drives his flagship Federated Hermes fund, has been flashing negative signals on Nvidia Corp. and other technology megacaps since 2023. That’s still the case today, even after the group’s $2 trillion plunge since February draws in dip buyers on less-demanding valuations.
+Mahr is a rarity by virtue of his market-beating returns in recent years — despite being underweight Big Tech — in an industry where AI-equipped strategies have a mixed track record at best.
+“The decline hasn’t turned any of them into cheap companies; they’re all still fairly expensive,” said the 43-year-old money manager. “Something that we generally don’t like about a lot of them is volatility and they certainly haven’t become less volatile in the last few weeks.”
+The aversion to so-called Magnificent Seven — also including Apple Inc., Microsoft Corp., Amazon.com Inc., Meta Platforms Inc., Alphabet Inc. and Tesla Inc. — hasn’t hurt Mahr.
+His $1.6 billion Federated Hermes MDT All Cap Core Fund (QIACX) has returned 26% annually in the past five years, beating the Russell 3000 Index by almost 5 percentage points and putting it ahead of 98% of its peers — even as the disruptive post-pandemic market cycle has bedeviled money managers of all stripes.
+Down 1.4% year-to-date, its loss is less than the broader market in the tariff-fueled upheaval.
+The Boston-based manager is at the heart of an investment trend where AI is increasingly relied upon to process data, help allocate portfolios and manage risk. Some hedge funds also use chatbots for research during the investment process.
+Mahr’s other mutual funds harness the power of machine-learning, too. Among them, the $2.8 billion mid-cap growth fund (FGSIX) and the $2.3 billion large-cap growth fund (QILGX) have also outperformed their benchmarks during the past five years, each returning at least 24% annually.
+By contrast, the Eurekahedge AI Hedge Fund Index, which tracks the performance of AI-driven strategies, is up roughly 4% a year over the same stretch.
+His funds seek to stay broadly sector neutral by going overweight certain stocks within the same industry, while holding a corresponding underweight in peers. While QIACX owns fewer Magnificent Seven stocks in aggregate than its benchmark, it currently favors less-known tech firms such as Qualcomm Inc. and Fortinet Inc. One area where his model is now flashing a buy is the industrials space.
+Mahr started his career at MDT Advisers as a quant equity analyst in 2002 after graduating from Harvard University with a bachelor’s and master’s degree in computer science. Four years later, he joined Federated Hermes after the firm acquired MDT.
+In his view, what sets his model apart from the crowd is its so-called decision tree analysis. This supervised learning algorithm dissects historic data to predict future stock performance. Each branch represents an investment factor to figure out if a company should be favored or avoided, in a process that mimics the way humans think.
+Twenty years ago, the model had six factors. Now, there are 16, ranging from fundamental ones, such as valuations and the use of external financing, to something technical like the momentum of a stock. Recently, it added another factor called “economic moat” to gauge a company’s competitive advantage.
+Different industries and companies are examined against a distinct set of factors. The flexible approach not only allows the model to quickly adapt to new information but also to spit out a diversified portfolio, Mahr said.
+“The goal of the process is consistent performance as opposed to trying to hit home runs,” he said. Most of AI-powered strategies “have much more of a cookie-cutter type approach where it’s like you have some kind of formula that you apply to all stocks and say, ‘well this is the magic formula for outperformance.’”
+The decision-tree analysis, which allows a money manager to tell which factors are working or not working, is not widely adopted in the equity mutual-fund world, according to Jack Shannon, a principal of equity strategies at Morningstar Inc. Still, the broad AI approach has its limitations.
+“It is ultimately all using backward-looking data,” he said. “The good quants understand that there is some model risk, so to speak. And so the ones who I think do best are the ones who understand that and are more willing to adapt with the times and have more humility.”
+While Donald Trump’s disruptive policy agenda, from trade to government spending, has prompted investors to pick new winners and losers, Mahr is reluctant to place big bets that have an unpredictable fate.
+“We’re really not trying to position the portfolio for one outcome or the other on tariffs,” he said. “We want to have stuff in the portfolio that will work if it’s all smoke and mirrors and nothing actually happens, or if we get into a giant trade war. We don’t want that sort of binary outcome to be making or breaking our portfolio.”
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.

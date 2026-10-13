@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Federal judge blocks enforcement of law barring kids from social media
+- A federal judge blocked Florida from enforcing a 2024 state law requiring social media platforms to delete accounts of kids 15 years old and younger, citing First Amendment concerns.
+The Joseph Woodrow Hatchett U.S. Courthouse and Federal Building in Tallahassee, Sept. 27, 2022. Credit: Michael Moline
+A federal judge blocked on Tuesday the state's enforcement of a 2024 state law requiring social media platforms to delete accounts of kids 15 years old and younger.
+The preliminary victory for the two trade associations representing social media giants comes after U.S. District Judge Mark Walker had dismissed the suit in March because the companies had not proven they would be affected. However, Walker barred the state from enforcing the law on Tuesday (HB 3), writing that it stifled minors' First Amendment rights and that there were other avenues to combat mental health concerns associated with the use of social media.
+"Assuming the significance of the State's interest in limiting the exposure of youth to websites with 'addictive features,' the law's restrictions are an extraordinarily blunt instrument for furthering it," Walker wrote.
+NetChoice and Computer & Communications Industry Association, representing companies including Google, Facebook, Instagram, Snapchat, and YouTube, filed the suit against the law in October and the former Attorney General Ashley Moody had agreed not to enforce it while the parties waited for a decision from Walker on whether to temporarily block it or allow fines of up to $50,000 per violation.
+The attorney general's office will appeal Walker's block to the Eleventh Circuit Court of Appeals, said Jeremy Redfern, the attorney general's director of communications, in an email to Florida Phoenix.
+"Florida parents voted through their elected representatives for a law protecting kids from the harmful and sometimes lifelong tragic impacts of social media," Redfern wrote. "These platforms do not have a constitutional right to addict kids to their products."
+Walker disagreed with the state's argument that parental control features weren't enough to protect kids from addictive features and that the law only prohibits kids from having accounts and doesn't restrict access to the content altogether.
+"While it is true that at least one of these platforms, YouTube, does not require users to be account holders to passively view some content, all require users to hold accounts in order to share one's own content—in other words, to speak," Walker wrote.
+CCI's president and CEO, Matt Schruers, celebrated the ruling.
+"This ruling vindicates our argument that Florida's statute violates the First Amendment by blocking and restricting minors—and likely adults as well—from using certain websites to view lawful content," he wrote in a press release.
+SUBSCRIBE: GET THE MORNING HEADLINES DELIVERED TO YOUR INBOX

@@ -1,0 +1,33 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+One month after a judge declared Google's search engine an illegal monopoly, the tech giant faces another antitrust lawsuit that threatens to break up the company, this time over its advertising technology.
+The Justice Department, joined by a coalition of states, and Google each made opening statements Monday to a federal judge in Alexandria, Virginia, who will decide whether Google holds a monopoly over online advertising technology.
+Watch NBC Bay Area News free wherever you are
+The regulators contend that Google built, acquired and maintains a monopoly over the technology that matches online publishers to advertisers. Dominance over the software on both the buy side and the sell side of the transaction enables Google to keep as much as 36 cents on the dollar when it brokers sales between publishers and advertisers, the government contends.
+They allege that Google also controls the ad exchange market, which matches the buy side to the sell side.
+“One monopoly is bad enough. But a trifecta of monopolies is what we have here,” Justice Department lawyer Julia Tarver Wood said during her opening statement.
+Google says the government's case is based on an internet of yesteryear, when desktop computers ruled and internet users carefully typed precise World Wide Web addresses into URL fields. Advertisers now are more likely to turn to social media companies like TikTok or streaming TV services like Peacock.
+In her opening statement, Google lawyer Karen Dunn likened the government's case to a "time capsule with a Blackberry, an iPod and a Blockbuster video card.”
+Local
+Dunn said Supreme Court precedents warn judges about “the serious risk of error or unintended consequences” when dealing with rapidly emerging technology and considering whether antitrust law requires intervention. She also warned that any action taken against Google won't benefit small businesses but will simply allow other tech behemoths like Amazon, Microsoft and TikTok to fill the void.
+According to Google's annual reports, revenue has actually declined in recent years for Google Networks, the division of the Mountain View, California-based tech giant that includes such services as AdSense and Google Ad Manager that are at the heart of the case, from $31.7 billion in 2021 to $31.3 billion in 2023.
+The case will now be decided by U.S. District Judge Leonie Brinkema, who is best known for high-profile terrorism trials including that of Sept. 11 defendant Zacarias Moussaoui. Brinkema, though, also has experience with highly technical civil trials, working in a courthouse that sees an outsize number of patent infringement cases.
+The Virginia case comes on the heels of a major defeat for Google over its search engine. A judge in the District of Columbia declared the search engine a monopoly, maintained in part by tens of billions of dollars Google pays each year to companies like Apple to lock in Google as the default search engine presented to consumers when they buy iPhones and other gadgets.
+And in December, a judge declared Google's Android app store a monopoly in a case brought by a private gaming company.
+In the search engine case, the judge has not yet imposed any remedies. The government hasn't offered its proposed sanctions, though there could be close scrutiny over whether Google should be allowed to continue to make exclusivity deals that ensure its search engine is consumers' default option.
+Peter Cohan, a professor of management practice at Babson College, said the Virginia case could potentially be more harmful to Google because the obvious remedy would be requiring it to sell off parts of its ad tech business that generate billions of dollars in annual revenue.
+“Divestitures are definitely a possible remedy for this second case,” Cohan said “It could be potentially more significant than initially meets the eye.”
+Google is also facing intensifying pressure over its ad tech business across the Atlantic. British competition regulators last week accused the company of abusing its dominance in the country’s digital ad market and giving preference to its own services. European Union antitrust enforcers carrying out their own investigation suggested last year that breaking up the company was the only way to satisfy competition concerns about its digital ad business
+In the Virginia trial, the government's witnesses will include executives from newspaper publishers that the government contends have faced particular harm from Google's practices.
+“Google extracted extraordinary fees at the expense of the website publishers who make the open internet vibrant and valuable,” government lawyers wrote in court papers.
+The government's first witness was Tim Wolfe, an executive with Gannett Co., a newspaper chain that publishes USA Today as its flagship. Wolfe said Gannett feels like it has no choice but to continue to use Google's ad tech products, even thought the company keeps 20 cents on the dollar from every ad purchase, not even accounting for what it takes from the advertisers. He said Gannett simply can't give up access to the huge stable of advertisers that Google brings to the ad exchange.
+On cross-examination, Wolfe acknowledged that despite Google's supposed monopoly, Gannett was able to work with other competitors to sell its available inventory to advertisers.
+The government's case also attempts to use the words of Google's own employees against them. In openings, Justice Department lawyers cited an email sent by a Google employee wondering whether Google's control of the technology on all three sides presented “a deeper issue” to consider.
+“The analogy would be if Goldman or Citibank owned the NYSE (New York Stock Exchange),” wrote the employee Jonathan Bellack.
+Google asserts the integration of its technology on the buy side, sell side and in the middle assures ads and web pages load quickly and enhance security.
+Google says the government's case is improperly focused on display ads and banner ads that load on web pages accessed through a desktop computer and fails to take into account consumers' migration to mobile apps and the boom in ads placed on social media sites over the last 15 years.
+The government's case “focuses on a limited type of advertising viewed on a narrow subset of websites when user attention migrated elsewhere years ago,” Google's lawyers wrote in a pretrial filing.
+The trial is expected to last several weeks.
+___
+AP Business Writer Kelvin Chan contributed to this report from London.

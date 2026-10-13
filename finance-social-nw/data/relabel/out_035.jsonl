@@ -1,0 +1,20 @@
+{"id": "0700", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia is now worth more", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "0701", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Magnificent Seven stocks", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0702", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Tech giants including Microsoft", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0703", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Tech giants including Microsoft", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0704", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Tech giants including Microsoft", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0705", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Tech companies vow to", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0706", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Tech companies vow to", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0707", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Tech companies vow to", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0708", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The so-called Magnificent 7", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0709", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft has fixed an", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0710", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Hacker News new past", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0711", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Mark Zuckerberg may be", "relation": "unrelated-mention", "sentiment_alignment": 0.4}
+{"id": "0712", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Indonesia issues regulation requiring", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0713", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia reported earnings after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0714", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia reported earnings after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0715", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia reported earnings after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0716", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MARKET WRAPS Watch For", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0717", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "MARKET WRAPS Watch For", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "0718", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "MARKET WRAPS Watch For", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "0719", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "India's demand to block", "relation": "co-hype", "sentiment_alignment": 0.5}

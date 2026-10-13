@@ -1,0 +1,30 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+"A $1 trillion industry by the end of the decade." That's what global consulting firm McKinsey & Company projects for semiconductors. It's not an outlandish prediction at all, considering that the semiconductor market already tops $500 billion.
+Unsurprisingly, McKinsey ranks artificial intelligence (AI) as one of the top growth drivers for semiconductors in the coming years. Investors have plenty of ways to profit from the rapidly growing semiconductor market. Here are three top stocks to buy now.
+1. Advanced Micro Devices
+Nvidia is, without question, the 800-pound gorilla making AI chips right now. But don't overlook Advanced Micro Devices (AMD +0.22%).
+NASDAQ: AMD
+Key Data Points
+The company launched its Instinct MI300 graphics processing units (GPUs) in December 2023. AMD CEO Lisa Su claimed the new chips "are the highest-performance accelerators in the world for generative AI." Three tech giants are already planning to use the MI300 chip -- Microsoft, Meta Platforms, and Oracle.
+While AMD hopes to gain on Nvidia in the server market, the company also has great expectations for its AI personal computer (PC) chips. AMD president Victor Peng told CNBC earlier this month, "We are seeing AI PCs becoming a bigger factor." He added that the company has "a good lead in AI PCs," thanks to its recent product announcements.
+Some investors were disappointed with AMD's guidance for 2024 first-quarter revenue. However, it's shortsighted to focus on just one quarter. AI is still only in its early innings, and AMD appears to be well-positioned to deliver strong long-term growth.
+2. Applied Materials
+Back in the gold rush days, the providers of picks and shovels often profited more than the gold miners themselves. I think that Applied Materials (AMAT +2.27%) is a great example of a "picks-and-shovels" play in the semiconductor market.
+NASDAQ: AMAT
+Key Data Points
+Applied Materials makes semiconductor fabrication equipment and provides services and consulting to support chipmakers. In addition, the company sells equipment used to manufacture displays for electronic devices.
+CEO Gary Dickerson believes that there are four components to Applied Materials' growth thesis:
+- The semiconductor market will grow faster than overall gross domestic product (GDP).
+- The wafer-fabrication market will grow as fast or faster than the semiconductor market.
+- Applied Materials' wafer-fab growth will be higher than the wafer-fab market growth.
+- Applied Materials' service business will grow as fast or faster than its equipment business.
+I think that Dickerson is spot on with all four of these assumptions. Applied Materials should therefore be a great pick for investors seeking to profit from the growth of the semiconductor market -- and especially for those who don't want to pick individual chipmaker stocks.
+3. Broadcom
+Broadcom (AVGO +0.70%) is the third-largest chipmaker in the world, based on market cap, trailing behind only Nvidia and Taiwan Semiconductor Manufacturing. It's also a major player in the infrastructure software market.
+NASDAQ: AVGO
+Key Data Points
+The AI boom should provide a huge tailwind for Broadcom over the next decade and beyond. Generative AI already accounts for 15% of the company's semiconductor revenue. Broadcom expects that number to jump to over 25% in 2024.
+Broadcom should also benefit from AI with its recent acquisition of VMware. Organizations will continue to shift their apps and data to the cloud to harness the power of AI. VMware's products help them move to the cloud more quickly.
+In addition to strong growth prospects, Broadcom also offers something extra to investors -- a dividend. The company's dividend yield currently stands at nearly 1.7%. Broadcom has increased its dividend payout for 13 consecutive years.

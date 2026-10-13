@@ -1,0 +1,24 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Cooler-than-expected inflation data and upbeat corporate earnings lifted all three major US stock indexes to all-time closing highs on Friday, setting the stage for next week's earnings reports and an expected interest rate cut by the Federal Reserve.
+The S&P 500 and the Nasdaq recorded their largest weekly percentage gains since August, while the blue-chip Dow logged its biggest Friday-to-Friday jump since June.
+The Labor Department's Consumer Price Index remained elevated in September but was a bit cooler than analysts had expected, calming fears of an outsized impact of tariffs on inflation and all but locking in a 25-basis-point rate cut at the conclusion of the Fed's monetary policy meeting next week.
+The CPI report provided a rare set of official US data as releases have generally ground to a halt during the current government shutdown driven by a congressional budgetary impasse.
+"We got some good news on the inflation front as the benign CPI data opened the door for Fed rate cuts next week and likely in December," said Ryan Detrick, chief market strategist at Carson Group in Omaha.
+Third-quarter earnings season has shifted into overdrive, with 143 of the companies in the S&P 500 having reported, according to LSEG data.
+Analysts now expect third-quarter S&P 500 earnings growth of 10.4 per cent year-on-year in aggregate. That marks a robust improvement over the 8.8 per cent annual growth expectations as of October 1, per LSEG.
+"It's been a spectacular start to earnings season," Detrick said.
+"We've seen 87 per cent of companies beat on earnings and 83 per cent on revenue, justifying the rally we've seen this year and likely opening the door for a strong end-of-year rally as well."
+Next week's earnings roster is packed with high-profile results from Meta Platforms, Microsoft, Alphabet, Amazon.com and Apple - five of the "Magnificent Seven" group of megacap momentum stocks. Additional market movers include industrial firms Caterpillar and Boeing.
+The Dow Jones Industrial Average rose 472.51 points, or 1.01 per cent, to 47,207.12, the S&P 500 gained 53.25 points, or 0.79 per cent, to 6,791.69 and the Nasdaq Composite gained 263.07 points, or 1.15 per cent, to 23,204.87.
+Alphabet gained ground after Anthropic expanded its deal with Google to use as many as one million of the tech giant's artificial intelligence chips to train its Claude chatbot. Its shares advanced 3.1 per cent.
+Coinbase Global got a 9.8 per cent boost after JPMorgan upgraded the stock to "overweight" from "neutral".
+Deckers Outdoor forecast full-year sales below Wall Street estimates, sending shares of the Hoka sneakers maker down 15.2 per cent.
+Ford jumped 12.2 per cent after beating third-quarter profit expectations. General Dynamics also surpassed estimates, sending its shares up 2.7 per cent.
+Alaska Air slid 6.1 per cent after the airline cut its annual forecast.
+Advancing issues outnumbered decliners by a 2.18-to-1 ratio on the NYSE. There were 540 new highs and 53 new lows on the NYSE.
+On the Nasdaq, 3,193 stocks rose and 1,450 fell as advancing issues outnumbered decliners by a 2.2-to-1 ratio.
+The S&P 500 posted 34 new 52-week highs and 4 new lows while the Nasdaq Composite recorded 124 new highs and 44 new lows.
+Volume on US exchanges was 19.04 billion shares, compared with the 20.75 billion average for the full session over the last 20 trading days.
+Australian Associated Press

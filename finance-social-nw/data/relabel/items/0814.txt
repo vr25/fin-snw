@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Two tribal nations sue social media companies over Native youth suicides
+(AP) - Two tribal nations are accusing social media companies of contributing to the disproportionately high rates of suicide among Native American youth.
+Their lawsuit filed Tuesday in Los Angeles County court names Facebook and Instagram’s parent company Meta Platforms; Snapchat’s Snap Inc.; TikTok parent company ByteDance; and Alphabet, which owns YouTube and Google, as defendants.
+Virtually all U.S. teenagers use social media, and roughly one in six describe their use as “almost constant,” according to the Pew Research Center.
+But Native youth are particularly vulnerable to these companies’ addictive “profit-driven design choices,” given historic teen suicide rates and mental health issues across Indian Country, chairperson Lonna Jackson-Street of the Spirit Lake Tribe in North Dakota said in a press release.
+“Enough is enough. Endless scrolling is rewiring our teenagers’ brains,” added Gena Kakkak, chairwoman of the Menominee Indian Tribe of Wisconsin. “We are demanding these social media corporations take responsibility for intentionally creating dangerous features that ramp up the compulsive use of social media by the youth on our Reservation.”
+Social media companies accused of ‘deliberate misconduct’
+Their lawsuit describes “a sophisticated and intentional effort that has caused a continuing, substantial, and longterm burden to the Tribe and its members,” leaving scarce resources for education, cultural preservation and other social programs.
+A growing number of similar lawsuits are being pursued by U.S. school districts, states, cities and other entities, claiming that TikTok, Snapchat, Instagram and YouTube exploit children and adolescents with features that keep them constantly scrolling and checking their accounts.
+New York City, its schools and public hospital system accuse the platforms of fueling a childhood mental health crisis that’s disrupting learning and draining resources. School boards in Ontario, Canada, claim teachers are struggling because platforms designed for compulsive use “have rewired the way children think, behave, and learn.”
+The Associated Press reached out to the companies for comment. Google said “the allegations in these complaints are simply not true.”
+“Providing young people with a safer, healthier experience has always been core to our work,” Google spokesperson José Castañeda said in a statement. “In collaboration with youth, mental health and parenting experts, we built services and policies to provide young people with age-appropriate experiences, and parents with robust controls.”
+Snap Inc. said it provides an alternative to a feed of online content.
+“We will always have more work to do, and will continue to work to make Snapchat a platform that helps close friends feel connected, happy and prepared as they face the many challenges of adolescence,” the company’s statement said.
+Native children are uniquely stressed out
+Native Americans experience higher rates of suicide than any other racial demographic in the U.S., according to the Centers for Disease Control and Prevention, jumping nearly 20% from 2015 to 2020 compared with a less-than 1% increase among the overall U.S. population.
+Mental health care is already difficult to access from remote locations, and generations of colonization and social stigma create more barriers, particularly when the care isn’t culturally appropriate, advocates say.
+About 87% of people who identify as Native American don’t live on an Indian reservation, according to the 2020 U.S. Census, and social media can help them connect with tradition, culture and other tribal communities.
+But “they also might experience discrimination online. And social media companies don’t always have great, helpful policies for managing that,” said Andrea Wiglesworth, an enrolled member of the Seneca-Cayuga Nation and Shawnee Tribe who researches stress in Native populations at the University of Minnesota.
+Native American identity is a complex mix of political and cultural experiences that varies from tribe to tribe and within Indigenous communities, adding a unique layer of stress onto other social pressures, Wiglesworth said.
+“I won’t speak for all Native people, but from my lived experience there is this sense of shared responsibility for the well-being of our community and community members,” she added. She said Indigenous people need to think about how they carry that commitment into the digital world.
+The teenage brain is wired for compulsive responses
+The science is still emerging about how social media affects teenagers’ mental health. Psychologists and neuroscientists note the potential for both positive and negative side effects, and researchers have yet to draw a direct link between screen time alone and poor mental health outcomes, according to Mitch Prinstein, chief science officer at the American Psychological Association.
+What researchers do know is that as an adolescent’s brain develops, it builds and strengthens the connections that guide responses for a variety of human interactions while it creates more receptors for oxytocin and dopamine. This is the brain’s reward system, Prinstein said, and it manifests in adolescents a need for both positive feedback and concern about social punishments.
+“In the 1980s that meant that we were suddenly talking about who’s in which clique and who sits at which lunch table and are you wearing the right clothes to get positive feedback when you go to school. In 2024, we’re now making it possible to kind of feed that with 24/7, 365 button-pressing for feedback and input from peers,” he said.
+Prinstein called for new legislation in Senate testimony last year, saying federal regulators should have more power to prohibit exploitative business practices and require social media companies to protect the well-being of children on their platforms.
+Regulatory efforts focus on TikTok
+A nationwide investigation by a bipartisan coalition of attorneys general is focusing on whether TikTok is harming the mental health of children and young adults by promoting content and boosting engagement. Meanwhile, some Republican-led states have pursued their own lawsuits.
+Utah accused TikTok in October of baiting children into excessive social media use. Indiana’s lawsuit accusing TikTok of deceiving users about inappropriate content and insecure personal information was dismissed in November. Arkansas has two lawsuits pending, against TikTok and ByteDance.
+And in Congress, a bipartisan group of senators is supporting the Kids Online Safety Act, which in part would require platform design changes to prevent harm. Tech industry groups have opposed the bill, and the American Civil Liberties Union has raised censorship concerns.
+Graham Lew Brewer, who covers Indigenous Affairs for the AP’s Race and Ethnicity, reported from Oklahoma City. AP writers Haleluya Hadero and Shawn Chen reported from New York.
+Copyright 2024 The Associated Press. All rights reserved.

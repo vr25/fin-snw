@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+One of the biggest technology trends in the last few years is the rapid development and adoption of artificial intelligence (AI) technologies, capturing investors' attention and resources.
+However, when asked to name the leading AI companies, most investors will repeat the few leading names, such as Nvidia, Palantir, Microsoft, and Alphabet. While these companies are front runners in the AI revolution, they are not the only companies with massive bets in this sector.
+This article will focus on one of the leading technology companies in China that has positioned itself early on to leverage the AI wave to greater heights: Baidu Inc. (BIDU -0.85%).
+AI-powered products and services
+Founded in 2000, Baidu is one of the earliest Chinese tech companies that has grown to become a conglomerate with businesses covering search, advertising, cloud computing, entertainment, and others.
+Like most technology companies, Baidu's long-term growth and expansion resulted from its massive investment in emerging technologies to continuously improve its product offerings. And among all these different technologies, AI is probably the core of Baidu's focus.
+For example, using AI and machine learning technologies, Baidu offers a more personalized experience to users of its search engine app. Doing that helps users get the most relevant search outcome, improving user experience and engagement over the long run. It also helps explain how Baidu could keep its search engine relevant after more than two decades despite the intense competition in the Chinese tech sector. For perspective, the number of Baidu App's monthly active users (MAUs) was 667 million in 2023, covering almost half the Chinese population.
+Another example of how AI helps improve Baidu's offerings is by incorporating AI-powered voice recognition into the search engine, which massively improves user experience, especially when using mobile devices for search. Likewise, AI helps advertisers get better returns on their advertising budget with better-targeted advertising, ensuring that advertisements reach the right audience at the right time. Moreover, it allows advertisers to do more with less since they can use Baidu's automation tools to manage their advertising campaigns.
+In short, Baidu has been an early adopter and massive benefactor of AI.
+NASDAQ: BIDU
+Key Data Points
+AI-related investments that could fuel future growth
+AI might have helped improve Baidu's existing core offerings, but the most significant potential probably lies in its newer ventures in areas like AI Cloud and autonomous driving.
+Take AI Cloud, for example. Baidu is one of China's leading cloud-computing players, offering a wide range of services, including computing, storage, AI Cloud, internet of things, etc. The rapid adoption of AI in the business sector provides enormous opportunities for Baidu to attract new customers and offer new services.
+For example, Baidu's generative AI product Ernie Bot (ChatGPT-like service) generated a few hundred million yuan (200 million yuan equals $28 million) in revenue in the fourth quarter of 2023 and is expected to reach several billion yuan (1 billion yuan equals $.14 billion) in 2024. Since ChatGPT is inaccessible in China, the tech company will have one less formidable competitor against which to compete. If Baidu can continue releasing valuable AI-related services as AI technologies mature, it is well positioned to grow its AI Cloud business for years, if not decades.
+As for autonomous driving, Baidu has been one of the early movers in China to research and develop its autonomous-driving offerings. As such, its autonomous-driving service (Apollo Go) has reached enormous milestones in recent years. For instance, Apollo Go provided 826,000 rides in Q1 2024, up 25% year over year. The cumulative rides provided until April 19, 2024, were more than 6 million.
+Given the immense opportunities in these two areas, Baidu could potentially grow its revenue multiple times its current scale.
+What it means for investors?
+Most investors looking for AI companies pay most of their attention to companies listed in the U.S. While that makes sense since the U.S. is a leader in many technological fronts, those willing to venture beyond the U.S. and the West might find companies like Baidu interesting.
+In particular, given the considerable attention that the Chinese government has put into developing its AI technologies and the massive investments that Baidu has made over the years, investors should not miss out on the opportunity to participate in the AI sector in this part of the world.
+All said, investors should closely watch Baidu in the coming years.

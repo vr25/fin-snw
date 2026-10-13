@@ -1,0 +1,36 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google answers ChatGPT challenge with Bard expansion
+The company's AI efforts would be carried out in a "bold and responsible" way, senior product director Jack Krawczyk said during a briefing.
+Google on Wednesday said it is opening Bard, a rival to Microsoft-backed ChatGPT, to 180 countries as it expands use of artificial intelligence across its platform.
+Executives at an annual Google developers conference in Silicon Valley said that generative AI will also be used to supercharge the tech giant's leading search engine.
+"We have been applying AI for a while, with generative AI we are taking the next step," Google chief executive Sundar Pichai told thousands of developers gathered for the event.
+"We are reimagining all our core products, including search," he said.
+Google is racing to catch up with rival Microsoft, which has rushed to integrate ChatGPT-like powers in a wide array of its products, including the Bing search engine.
+Microsoft's dash into AI came despite fears about the technology's potential threat to society, including its impact on the spread of disinformation and whether it could make whole categories of jobs obsolete.
+Cathy Edwards of Google Search said the new experience would be akin to a search that is "supercharged" by a conversational bot.
+Other Google executives laid out how generative AI is being woven into Gmail, photo editing, online work tools and more.
+The company's AI efforts would be carried out in a "bold and responsible" way, senior product director Jack Krawczyk said during a briefing.
+Google's expansion meant it removed a waitlist for Bard, letting users around the world engage with it in English after months of testing it out in the US and Britain.
+Bard will be modified to support 40 languages in coming months, according to Krawczyk.
+"We're excited to get Bard into more people's hands," Krawczyk said.
+"We're pretty fired up about where Bard is going."
+Google also announced browser "extensions" that will imbue apps and services such as Gmail and Maps with AI features.
+Bard technology will enable features such as filling in text to help draft emails and suggesting ideas for artwork by scrutinizing a picture of available supplies.
+Google is also letting partners build such extensions, including one from Adobe that will let users generate images, Krawczyk said.
+The tech titan also unveiled new Pixel devices including a $1,799 foldable smartphone with a bendable screen that is the size of a tablet computer when opened.
+"You're getting the best of both worlds," Google senior vice president of devices Rick Osterloh said of the Fold.
+"It's a powerful smartphone when it's convenient and an immersive tablet when you need one."
+Google also added a new tablet and a lower-priced version of its flagship smartphone to the Pixel lineup.
+Google's announcements came a week after rival Microsoft expanded public access to its generative artificial intelligence programs, which are powered by models made by OpenAI, the company behind ChatGPT.
+"This could be a defining moment in the AI battle with Google and Microsoft going head-to-head for market share," Wedbush analyst Dan Ives said in a note to investors.
+Microsoft's early investment in OpenAI gave it a head start "in this Game of Thrones Battle for Big Tech with Google now playing major catchup mode," the analyst added.
+AI-enhanced features of Microsoft's Bing search engine and Edge internet browser recently became open for anyone.
+The services have been enhanced with the ability to work with images as well as text, and Microsoft intends to add video to the mix.
+Despite the rollouts by two of the world's biggest companies, risks from AI include its potential uses for disinformation, with voice clones, deep-fake videos and convincing written messages.
+A range of experts in March urged a pause in the development of powerful AI systems to allow time to make sure they are safe.
+Their open letter, signed by more than 1,000 people, including billionaire Elon Musk and Apple cofounder Steve Wozniak, was prompted by generative AI technology from Microsoft-backed firm OpenAI.
+A prominent computer scientist often dubbed "the godfather of artificial intelligence" recently quit his job at Google to speak out about the dangers of the technology.
+Geoffrey Hinton, who created some of the technology underlying AI systems, maintained that the existential threat from AI is "serious and close."
+© Copyright AFP 2026. All rights reserved.

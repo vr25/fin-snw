@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Billionaire tech CEO says Meta and Google over-hired so much they didn't have enough work for employees: 'They really were doing nothing'
+- The CEO of C3.ai said Google and Meta over-hired staff and didn't have enough work for them to do.
+- Thomas Siebel said that if you want to work remotely "in your pajamas," you should work at Facebook.
+- Siebel is one of several executives to express concern about remote work.
+Thomas Siebel, a billionaire tech CEO, says the "craziness" has finally gone out of the market when it comes to over-hiring at companies like Meta and Google.
+"This whole thing just has to clear itself out," Siebel told Insider, saying that it's "weird" that Google and Meta hired employees when they "didn't have jobs for these people."
+"They really were doing nothing working from home," said Siebel, who runs the enterprise AI company C3.ai and has a net worth of $3.5 billion, according to Forbes.
+Companies like Meta and Google went on hiring sprees during the onset of the pandemic, but in more recent months the companies have laid off tens of thousands of workers amid fears of a recession.
+Siebel said that his software company, which has about 1,000 employees, takes a more cautious approach when it comes to bringing in new workers. He said that C3.ai subjects candidates to a highly competitive interview process, filtering potential hires by whether they fit the company's hard-driving culture — and out of some 4,000 interview candidates over the last year, the company hired just 300 employees, he said.
+"I'm not suggesting that we're in any way superior in our work ethic, but there are people who like to work together in teams, and have a book in their hand, and like to work on really hard problems," Siebel said.
+"That's who we are and if that's the kind of person you are, you'll like it at C3," he added. "If you want to work from home, like four days of work in your pajamas, go to work for Facebook."
+The billionaire joked that his company instituted a "voluntary" work-from-office policy in 2021.
+"You're either voluntarily at your desk or you voluntarily went to work someplace else," Siebel said, referencing his company's firm return-to-office mandate.
+He took a veiled jab at Google, showing a picture he said was taken on Friday, February 24 at 3:30 p.m. that showed C3.ai's parking lot was full, while the parking lot for a high-tech company he declined to name was virtually empty. Using Google Maps, Insider was able to identify the nearby parking lot as belonging to one of Google's offices in California.
+Spokespeople for Meta and Google did not respond to a request for comment ahead of publication.
+On Saturday, Britney Levy, a former Meta worker, said in a TikTok that she was "put into a group of individuals that was not working" before she was laid off earlier this year.
+"You had to fight to find work," Levy said. "It was a very strange environment and it kind of seemed like Meta was hiring us so other companies couldn't have us and then they were just kind of hoarding us like Pokémon cards."
+Siebel is far from the first tech executive to express concern that employees aren't doing enough work. Earlier this month, Keith Rabois, a member of the so-called PayPal Mafia, said Google and Meta hired thousands of staff who do "fake work' — a view that has gained some traction with several Silicon Valley investors and founders.
+Last year, Satya Nadella, the CEO of Microsoft, said he thought that remote work has spurred "productivity paranoia" among managers.
+"Leaders think their employees are not productive, whereas employees think they are being productive and in many cases even feel burnt out," Nadella said.
+The New York Times reported in August that companies are increasingly turning to worker surveillance measures amid the office landscape which has become focused on remote and hybrid work environments. The publication detailed multiple methods companies had employed to measure workers' productivity, including tracking mouse clicks and keystrokes while also having staff take random photos to insure the workers were at their computers.
+Read the original article on Business Insider

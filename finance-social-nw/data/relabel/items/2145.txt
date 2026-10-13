@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The public battle to dominate the AI technology space kicked off late last year. Meta Platforms Inc. is creating a new top-level product group focused on generative artificial intelligence. File picture: Lionel Bonaventure AFP
+Meta Platforms Inc. is creating a new top-level product group focused on generative artificial intelligence (AI), chief executive Mark Zuckerberg said on Monday, as the AI race among Big Tech firms hots up.
+AI has emerged as a bright spot for investments in the tech industry, which has been struggling with slowing growth, and has cut thousands of jobs as well as dialled down on experimental bets to beat the downturn.
+“We’re starting by pulling together a lot of the teams working on generative AI across the company into one group focused on building delightful experiences around this technology,” Zuckerberg said in an Instagram post.
+“Over the longer term, we’ll focus on developing AI personas that can help people in a variety of ways,” Zuckerberg said, but for now “we’re exploring experiences with text (chat in WhatsApp and Messenger), with images (creative Instagram filters and ad formats), and with video and multi-modal experiences.”
+The new product team will report to Chris Cox, Meta's chief product officer, a company spokesperson confirmed. This will enable Meta to more rapidly implement the AI research team’s findings in Meta’s products, the spokesperson said.
+The public battle to dominate the AI technology space kicked off late last year with the launch of Microsoft-backed OpenAI’s ChatGPT, which has since prompted tech heavyweights from Alphabet Inc. to China’s Baidu Inc. to announce their own offerings.
+Last week, Facebook parent Meta said it was releasing a new large language model LLaMA, the core software of a new AI system which would be available under non-commercial licence to researchers and entities affiliated with government, civil society and academia.
+Shares of Meta Platforms closed down 0.5% on Monday.
+Reuters

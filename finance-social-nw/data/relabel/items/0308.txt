@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+According to Insider's report, Google has shifted its focus from hardware to software. The company is now concentrating on developing a "micro XR" platform that could be licensed to other manufacturers of headsets. This strategy is reminiscent of Google's approach with Android, where the operating system is provided to a wide range of smartphone manufacturers.
+Interestingly, Insider suggests that the ski goggle-like headset initially mentioned may still be on the horizon, albeit with a twist. Google is no longer pursuing the development of this headset independently. In February, Google, Samsung, and Qualcomm made a rather ambiguous announcement about their collaboration on a new mixed-reality platform. Although little information has emerged since then, sources cited by Insider indicate that Google's goggles served as the foundational basis for Samsung's upcoming headset.
+Watch BT Visual Story How to spot AI-generated images from real ones!
+This collaboration between Samsung and Google is not unprecedented. The two companies previously worked together to modify Android to support Samsung's Galaxy Fold line of folding phones, well before Google introduced its own folding device, the Pixel Fold, earlier this year.
+Initially, reports suggested that Google aimed to launch an AR headset by 2024. However, during Google I/O 2023 held last month, Sameer Samat, Google's Vice President, hinted that more information about the Samsung collaboration would be revealed later this year.
+Watch BT Visual Story 10 Hidden iPhone and Android Smartphone Features You Probably Didn't Know About
+Insider sources reveal that Project Iris faced numerous challenges during its development, including layoffs and shifting strategies. Notably, Clay Bavor, Google's head of VR/AR, departed the company four months ago. Kurt Akeley, a distinguished engineer associated with the project, is now listed as "retired" on his LinkedIn profile. However, Mark Lucovsky, the company's senior director of operating systems for AR, along with two others, remains listed as being involved with AR projects at Google.
+In 2020, Google acquired North, a company specializing in AR glasses, although the financial details of the acquisition were undisclosed. A quick check on LinkedIn reveals that many former North employees, including co-founders Stephen Lake, Matthew Bailey, and Aaron Grant, continue to work for Google to this day.
+Also Read
+'Buying Netflix at $4 billion would've been better instead of...': Former Yahoo CEO Marissa Mayer
+ChatGPT beats top investment funds in stock-picking experiment

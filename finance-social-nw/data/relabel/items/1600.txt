@@ -1,0 +1,36 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Forget the iPhone 17 Air. I just want Apple to release something worthwhile for the budget market.
+Of all the adjectives one could assign to Apple products, “cheap” comes quite far down the list. It’s never been a company with a strong interest in the bargain basement, preferring to sell a smaller number of premium devices at a hefty margin.
+But this enduring truism, that Apple products tend to sit in the upper price brackets, masks a more complex, shifting philosophy. The devices have always been expensive, but the reasons have changed. And the company’s devices have become more and more exclusive as it’s abandoned budget buyers and even, seemingly, the lower mid-market.
+Apple’s high prices used simply to be a function of its uncompromising approach to industrial design. The company made the best products it could and then priced and marketed them accordingly. And so, while the products were expensive, they were very rarely overpriced. And there were options for those with a little less cash: the standard iPad; the Mac mini and HomePod mini; the iPhones 5c, XR, and SE.
+At some point, like a social media website entering phase two of its sinister business plan, Apple’s priority shifted from customers to profit. Baseline products became ever more blatantly underpowered to encourage upsell; storage tiers were cynically calculated to force customers to choose between too little and too much; dongles became a major revenue stream. It was a strategy that made Apple the first-ever three-trillion-dollar company, but the resentment began to build up.
+More recently, things have gotten really silly. Earlier this year I reviewed the iPhone 16e, which replaced the 3rd-gen iPhone SE as Apple’s cheapest smartphone… except that the SE cost $429 and the 16e costs $599. For reasons unknown (it may be Apple Intelligence’s fault), Apple no longer sells a budget smartphone. It’s simply given up on people with less than $500 to spare.
+We certainly wouldn’t expect a sub-$500 phone to make an appearance at tomorrow’s “Awe-Dropping” press event, because it’s the premium handsets that get refreshed in the fall. (The iPhone 17e will probably launch next spring.) Nevertheless, it’s worrisome to read reports that the iPhone 17 Pro is likely to cost $200 more than the 16 Pro, and that the 17 Air will start at $1,099 despite a decidedly non-Pro feature set.
+I don’t want to put these changes down to naked corporate greed, because there are legitimate reasons why the prices might go up: the smaller Pro model is expected to come with twice the storage, the Air has a frankly ridiculous design that complicates everything, and tariffs exist. It’s also worth pointing out that this is merely a last-minute rumor from a source with at least one blemish on its predictive record. But it has made me wonder if Apple has any interest in making its technology available to a large audience.
+The best chance for budget buyers is the Apple Watch SE, which we expect to get its 3rd-gen model this week. But the waters are muddied by the rumor that Apple plans to make the SE substantially better, with a larger screen and a new look for 2025, as well as an upgraded processor. Will Apple value the budget market enough to keep the device at $249, or will it repeat its policy with the iPhone 16e? We’ll have to wait and see, but I’m struggling to feel especially optimistic.
+Steve Jobs once persuaded a Pepsi exec to join Apple by asking him, “Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?” That’s a good line. But you can’t change the world if your products are out of reach for most of the people in it. And at least sugar water is cheap.
+Foundry
+Welcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.
+iPhone event special!
+Can’t wait for Apple’s iPhone 17 event? We’ve got the full keynote script right here!
+Here’s what to expect at Apple’s ‘Awe Dropping’ iPhone 17 event.
+Alex Blake offers a brief history of the iPhone event: Every keynote invite and the secrets they revealed.
+If you want these Apple products, sorry, they’re not coming at tomorrow’s event.
+Switching or upgrading to an iPhone 17? Here’s how to make sure you’re ready.
+Podcast of the week
+Apple’s “Awe Dropping” event is on September 9. In the latest episode of the Macworld Podcast, we talk about the products we expect to see: the iPhone 17 lineup, new Apple Watches, the new AirPods Pro 3, and more.
+You can catch every episode of the Macworld Podcast on YouTube, Spotify, Soundcloud, the Podcasts app, or our own site.
+The rumor mill
+iPhone 17 Pro case leaks paint a peculiar picture of Apple’s design plans.
+The upcoming AirPods Pro 3 will reportedly be missing one key feature.
+Get ready for a packed month of Apple releases with a new iPhone and a whole lot more.
+Report: Apple is building an AI-powered web search for Siri.
+Video of the week
+Wouldn’t it be nice if Jony Ive made a cameo at tomorrow’s iPhone event? We discuss the idea in our latest short. Enjoy all our short-form video on TikTok or Instagram.
+Software updates, bugs, and problems
+New ‘sophisticated’ malware threat may already be hiding on your Mac.
+WhatsApp warns iPhone and Mac users to update ASAP.
+Security expert details how a simple Microsoft tool led to the discovery of a serious macOS flaw.
+And with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.

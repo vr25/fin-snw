@@ -1,0 +1,16 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+The US Supreme Court is allowing a class-action lawsuit that accuses Nvidia of misleading investors about its past dependence on selling computer chips for the mining of volatile cryptocurrency to proceed.
+The court’s decision on Wednesday comes in the same week that China said it is investigating the microchip company over suspected violations of Chinese anti-monopoly laws.
+The justices heard arguments four weeks ago in Nvidia’s bid to shut down the lawsuit, then decided that they were wrong to take up the case in the first place. They dismissed the company’s appeal, leaving in place an appellate ruling allowing the case to go forward.
+At issue was a 2018 suit led by a Swedish investment management firm. It followed a dip in the profitability of cryptocurrency, which caused Nvidia’s revenues to fall short of projections and led to a 28% drop in the company’s stock price.
+Nvidia had argued that the investors’ lawsuit should be thrown out because it does not measure up to a 1995 law, the Private Securities Litigation Reform Act, that is intended to bar frivolous complaints.
+A district court judge had dismissed the complaint before the federal appeals court in San Francisco ruled that it could go forward. The Biden administration backed the investors at the Supreme Court.
+“This is a win for corporate accountability. When corporations mislead shareholders, they undermine trust in our markets. Ensuring that investors can seek justice is essential to preserving fairness and transparency,” Deepak Gupta, who represented the investors at Supreme Court, said in a statement.
+In 2022, Nvidia, which is based in Santa Clara, California, paid a 5.5 million-dollar (£4.32 million) fine to settle charges by the Securities and Exchange Commission that it failed to disclose that cryptomining was a significant source of revenue growth from the sale of graphics processing units that were produced and marketed for gaming.
+The company did not admit to any wrongdoing as part of the settlement.
+Nvidia’s recent performance has been spectacular. Even after the news of the China investigation, its share price is up 180% this year.
+Nvidia has led the artificial intelligence sector to become one of the stock market’s biggest companies, as tech giants continue to spend heavily on the company’s chips and data centres needed to train and operate their AI systems.
+The lawsuit is one of two high court cases that involved class-action lawsuits against tech companies.
+The justices also dismissed an appeal from Facebook parent Meta that sought to end to a multibillion-dollar class action investors’ lawsuit stemming from the privacy scandal involving the Cambridge Analytica political consulting firm.

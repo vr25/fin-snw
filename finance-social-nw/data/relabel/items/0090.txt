@@ -1,0 +1,20 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Senators from both parties are once again taking aim at big tech companies, reigniting their efforts to protect children from "toxic content" online.
+At a Senate Judiciary Committee hearing on Tuesday, they said they plan to "act swiftly" to get a bill passed this year that holds tech companies accountable.
+Last year, Sen. Richard Blumenthal, D-Conn., and Sen. Marsha Blackburn, R-Tenn., introduced the Kids Online Safety Act, which made it out of committee with unanimous support, but didn't clear the entire Senate.
+"Big Tech has relentlessly, ruthlessly pumped up profits by purposefully exploiting kids' and parents' pain," Blumenthal said during the hearing. "That is why we must — and we will — double down on the Kids Online Safety Act."
+Popular apps like Instagram and TikTok have outraged parents and advocacy groups for years, and lawmakers and regulators are feeling the heat to do something. They blame social media companies for feeding teens content that promotes bullying, drug abuse, eating disorders, suicide and self-harm.
+Youth activist Emma Lembke, who's now a sophomore in college, testified on Tuesday about getting her first Instagram account when she was 12. Features like endless scroll and autoplay compelled her to spend five to six hours a day "mindlessly scrolling" and the constant screen time gave her depression, anxiety and led her to disordered eating, she said.
+"Senators, my story does not exist in isolation– it is a story representative of my generation," said Lembke, who founded the LOG OFF movement, which is aimed at getting kids offline. "As the first digital natives, we have the deepest understanding of the harms of social media through our lived experiences."
+The legislation would require tech companies to have a "duty of care" and shield young people from harmful content. The companies would have to build parental supervision tools and implement stricter controls for anyone under the age of 16.
+They'd also have to create mechanisms to protect children from stalking, exploitation, addiction and falling into "rabbit holes of dangerous material." Algorithms that use kids' personal data for content recommendations would additionally need an off switch.
+The legislation is necessary because trying to get the companies to self-regulate is like "talking to a brick wall," Blackburn said at Tuesday's hearing.
+"Our kids are literally dying from things they access online, from fentanyl to sex trafficking to suicide kits," Blackburn said. "It's not too late to save the children and teens who are suffering right now because Big Tech refuses to protect them."
+Not all internet safety advocates agree this bill would adequately shield young people online.
+In November, a coalition of around 90 civil society groups sent a letter to Senate Majority Leader Chuck Schumer, D-N.Y., opposing the legislation. They said it could jeopardize the privacy of children and lead to added data collection. It would also put LGBTQ+ youth at risk because the bill could cut off access to sex education and resources that vulnerable teens can't find elsewhere, they wrote.
+Lawmakers should pass a strong data privacy law instead of the current bill, said Evan Greer, director of Fight for the Future, which headed the coalition, adding that she sees the current bill as "authoritarian" and a step toward "mass online censorship."
+None of the big tech companies attended Tuesday's hearing, but YouTube parent Alphabet, Facebook and Instagram parent Meta, TikTok parent ByteDance, Twitter and Microsoft all have lobbyists working on this legislation, according to OpenSecrets.
+As Congress debates passing a bill, California has already tightened the reins on the way tech provides content to children. Last fall, it passed the California Age-Appropriate Design Code Act, which prohibits data collection on children and requires companies to implement additional privacy controls, like switching off geolocation tracking by default. New Mexico and Maryland introduced similar bills earlier this month.
+Copyright 2023 NPR. To see more, visit https://www.npr.org.

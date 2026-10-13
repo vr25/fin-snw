@@ -1,0 +1,32 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+The technology sector is currently experiencing something of a renaissance as breakthroughs in artificial intelligence (AI) have ignited newfound interest from investors.
+Among the top AI opportunities are a small cohort of megacap tech companies collectively referred to as the "Magnificent Seven." Over the last year and a half, semiconductor company Nvidia (NASDAQ: NVDA) has returned 628% -- more than any other member of the Magnificent Seven.
+Nvidia is undoubtedly playing a big role in the AI revolution, and its near-term prospects look very strong. But what about the long term?
+Among its Magnificent Seven peers, I see Amazon (NASDAQ: AMZN) as the superior investment opportunity. Let's explore why Nvidia is currently on a roll, and assess the long-term prospects of the chipmaker versus Amazon.
+Nvidia is supercharged, but competition lingers
+Generative AI applications, such as training large language models, machine learning, and accelerated computing, rely on a couple of key components. Namely, sophisticated semiconductor chips known as graphics processing units (GPUs), as well as data center network services, are integral for AI use cases.
+Right now, Nvidia sits conveniently at the intersection of GPUs and data center operations. Currently, the company is estimated to have 80% of the addressable market for AI chips.
+This commanding lead has translated into record revenue, margins, and cash flow.
+The slope of the lines in the chart above underscores Nvidia's dominance. Demand for the company's chips and data center services is robust, and has provided Nvidia with a lucrative source of pricing power. However, Advanced Micro Devices and Intel are developing a suite of alternative GPUs.
+Although neither company has anywhere near the market share of Nvidia today, the longer-term secular tailwinds fueling AI suggest that there could be an opportunity to make up ground as Nvidia faces the challenge of matching customer demand trends with supply output.
+Although I don't see either company migrating from Nvidia anytime soon, the longer-term picture suggests that some of Nvidia's major customers could be a less significant source of growth several years from now.
+Why I see Amazon as the better investment
+Today, Amazon is best known for its e-commerce marketplace and cloud computing infrastructure -- Amazon Web Services (AWS). However, Amazon has a number of other opportunities in its ecosystem, including streaming, grocery delivery, and advertising.
+This diversified business is what has me most bullish on Amazon's long-term prospects, because the company has a unique opportunity to amplify its reach by integrating AI across its entire operation.
+One of the most lucrative moves Amazon has already made is its $4 billion investment into AI start-up Anthropic. Anthropic uses AWS as its primary cloud provider, and is training its generative AI models on Amazon's homegrown chips.
+Moreover, Amazon also recently committed $11 billion to build out data centers -- a move I see as a major validation that the company is serious about moving away from Nvidia in the long run.
+While the long-term gains from these projects are likely years in the future, I'm optimistic that Amazon is laying the groundwork for sustained growth. Looked at a different way, while Nvidia is currently enjoying triple-digit revenue and profit growth, I'm skeptical that the company can keep up such momentum. On the other hand, I think Amazon is just scratching the service of a new wave fueled by aggressive ambitions featuring AI.
+The bottom line
+When it comes to choosing between Nvidia and Amazon, I don't think you can go wrong. Both companies are operating from positions of strength, and each represents compelling investment prospects.
+With that said, Nvidia's stock price has risen sharply over the last couple of years. Given that competition lingers across both data center services and AI-powered chips, I don't see Nvidia sustaining its lead. Eventually, I think customers will broaden their AI infrastructure and complement existing Nvidia services with those from other vendors.
+In turn, this dynamic would result in decelerating revenue and profitability for Nvidia in the coming years. By contrast, Amazon already boasts over $50 billion in free cash flow and $84 billion of cash and equivalents on its balance sheet.
+Amazon is in a really good spot, financially speaking, and has the flexibility to continue doubling down on its AI efforts. As a result, I think Amazon will eventually surpass Nvidia in terms of value as it grows into a more sophisticated enterprise.
+Considering the disparity between valuation multiples, I'd scoop up shares of Amazon and plan to hold them for the long run. Nvidia is trading at a noticeable premium, thereby suggesting some future growth may be priced into the stock. To me, Amazon's position in the AI realm is underappreciated, and the stock looks dirt cheap right now. I'd encourage investors to take advantage of this discount and continue monitoring the company's progress.
+Should you invest $1,000 in Amazon right now?
+Before you buy stock in Amazon, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Amazon wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $671,728!*
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Adam Spatacco has positions in Amazon, Meta Platforms, and Nvidia. The Motley Fool has positions in and recommends Advanced Micro Devices, Amazon, Meta Platforms, and Nvidia. The Motley Fool recommends Intel and recommends the following options: long January 2025 $45 calls on Intel and short May 2024 $47 calls on Intel. The Motley Fool has a disclosure policy.

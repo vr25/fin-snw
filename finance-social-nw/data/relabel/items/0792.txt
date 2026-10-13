@@ -1,0 +1,33 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+TikTok's owner is once again navigating troubled waters in the United States, where the US House of Representatives has issued an ultimatum: divest or face shutdown within six months.
+Subscribe now for unlimited access.
+or signup to continue reading
+Opposition Leader Peter Dutton and Senator James Paterson, the home affairs spokesperson, want Australia to follow suit.
+TikTok, owned by the Beijing-based tech giant ByteDance, has been here before. It fought off a similar order by the Trump administration banning the video-creating and sharing app in the United States several years ago.
+In a bid to mollify US security concerns about user data potentially being handed over to the Chinese Communist Party, TikTok pledged to migrate American user data to US-based Oracle Cloud. However, TikTok has reportedly struggled to live up to this promise.
+TikTok's growing resistance to US pressures
+The platform's survival in Western markets depends on its ability to navigate these geopolitical complexities. This situation will test TikTok's adaptability and strategic approach, as well as the power of its user base.
+In the past four years, TikTok has seen tremendous growth in both its user base and advertising revenue, though this has started to slow somewhat in the US. Last year, ByteDance was valued at US$220 billion (A$337 billion), which was down from US$500 billion (A$766 billion) in 2021, but still ranked as the world's most valuable non-public startup.
+This valuation not only highlights its worldwide appeal, but also uniquely equips it to deal with US regulatory hurdles.
+Indeed, TikTok's response to the latest attempted US ban has demonstrated the power of its resistance. On March 7, the platform engaged its users directly with a pop-up message urging them to contact Congress to complain. In doing so, it shifted the narrative from a direct confrontation between itself and Washington to a broader conflict between the US government and American citizens over freedom of expression.
+The bill that would force ByteDance to sell the app or face a nationwide ban must still pass the Senate, so public pressure may come to bear. President Joe Biden has said he would sign the bill if it's passed.
+Although the bill has widespread support on both sides of the political spectrum, senators from both parties will need to consider the potential backlash from young people in a pivotal election year. Already, former president Donald Trump - the Republican nominee in the 2024 presidential contest - has backflipped on a potential TikTok ban, which underscores ByteDance's growing political leverage.
+Should the bill become law, civil liberty groups could also challenge it in US Federal Court as an infringement on TikTok users' First Amendment rights to free speech. Some groups are already mobilising for action.
+Federal judges have struck down attempted bans in the US in the past, but on different grounds. (One of these cases was brought by TikTok users, but was reportedly orchestrated by TikTok and its Chinese parent company.)
+A new challenge on free speech grounds, which have yet to be tested in court, could lead to an eventual appeal to the US Supreme Court.
+Other ways China could retaliate
+Although US national security officials were briefing US senators on the risks posed by TikTok this week, this isn't the sole reason the social media app has run into problems in Washington.
+TikTok has also been targeted because of the burgeoning tech rivalry between the US and China, where many fear the spectre of a far-reaching tech decoupling between the countries or even an outright tech cold war.
+Facing potential pressure to sell at a reduced value, ByteDance might decide to exit the US market altogether, considering the challenges faced by other Chinese tech companies in Western countries, like Huawei.
+Such a decision could prompt retaliatory trade restrictions or other actions by the Chinese government due to nationalistic pressures. This could boost ByteDance's stature in China - similar to what happened to Huawei after it was banned in the US.
+China already blocks many US media outlets, social media platforms and other websites, such as Facebook, Twitter and Google. But it could retaliate with sanctions, as it has in the past against US data firms, officials and researchers (with limited impact).
+The Chinese government has also said any sale of TikTok would have to comply with its law on tech exports, which requires licenses for the export of certain technologies. It's not entirely clear how the law would apply to TikTok, but some experts believe it could encompass the algorithm that powers the app. This means, theoretically, China could prevent ByteDance from selling this technology to a foreign company.
+TikTok's predicament in the US also could set a precedent for other Chinese tech companies, like the e-commerce platforms Temu and Shein. Both companies are also under increasing congressional scrutiny, which likely makes them apprehensive about potential mandates for divestment or other regulatory hurdles they could face in the future.
+Could Australia be next?
+In Australia, TikTok is already banned on government-issued devices. Now, there is renewed momentum for a nationwide ban as well.
+As a close ally of the US and a major trading partner of China, Australia is in a particularly vulnerable position. It could be forced to choose between a US strategy of decoupling its tech industry from China's, or prioritising its improving relationship with Beijing.
+As the debate in the US drags on, the point of difference between the two major parties in Australia will likely become more defined. Prime Minister Anthony Albanese said his government has no plans - at this stage - to follow the US lead on a TikTok ban, but this could change as the next federal election gets closer.
+Politicians on both sides will need to take into account the impact of a potential ban among TikTok supporters, as well as the Chinese-Australian community. Many Chinese-Australians would see a ban as yet another slap in the face to their country of origin and further evidence of anti-China foreign policy.
+- Marina Yue Zhang is an associate professor at the University of Technology Sydney and Wanning Sun is a professor of media and cultural studies there. This article was first published on the Conversation.

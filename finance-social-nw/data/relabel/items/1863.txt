@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The biggest mobile network in the United States, Verizon, experienced a huge outage on Wednesday, leaving at least tens of thousands of customers without cell service for much of the day.
+An update on Verizon's website Thursday said the outage had been resolved. "We are sorry for what you experienced and will continue to work hard day and night to provide the outstanding network and service that people expect from Verizon," it said.
+What happened?
+It's still unclear. Verizon has not posted details or an explanation of the cause of the outage on its website. In an email to NPR, a company spokesperson wrote that the problem stemmed from "a software issue" and that Verizon is conducting a full review. And while Verizon hasn't released a figure for how many customers were affected, the staff at the Downdetector website — where users go to report service outages — posted on Facebook that it received 2.3 million outage reports for Verizon throughout the day. (That doesn't necessarily translate to 2.3 million affected customers.)
+Cell networks experience small outages fairly regularly, though, and sizable ones are not uncommon. Verizon had a disruption across several major cities in September 2024, and competitor AT&T was hit by a large outage in February 2024, affecting more than 125 million registered devices, and customers in all 50 states.
+Sanjoy Paul, a wireless network expert at Rice University, says telecommunications systems have become more complex over the past decade and a half as they've moved from physical infrastructure — wires and cables — and into the cloud.
+"What used to be a completely hardware-dependent network transformed into a complete software-dependent network," he said. That shift has given operators more flexibility to add services or tweak products, but, he said, it has come at the expense of reliability.
+With cloud- and software-based networks, there are more opportunities for glitches and attacks, he said. Small issues with computer code buried inside these systems can have big consequences.
+What have been some consequences of the outage?
+Users had no connectivity for much of the day and were able to access only "SOS" mode during the outage.
+Verizon, which has styled itself as America's best and most reliable network, has been in damage control mode. The company has issued instructions for customers to restart their devices to reconnect to the network if they are still having problems. It also pledged $20 credits as "a way of acknowledging your time and showing that this matters to us," according to Verizon's website.
+The Federal Communications Commission said in a statement that it was "continuing to actively investigate and monitor the situation to determine next steps."
+Could it happen again?
+Yep — to Verizon or any of its competitors.
+Since the cause of this latest outage remains unclear, it's too early to say whether this exact thing could happen again. But Lee McKnight, an associate professor in the School of Information Studies at Syracuse University, told NPR's Morning Edition that outages are "a fact of life these days for major telecommunications firms."
+"Modern telecom networks are cloud networks. 5G networks are mainly, like, hundreds of different cloud services," he said. "The telecom companies haven't yet adjusted their training to that reality — that their staff have to be expert not just in cell towers and wireless, like we think about, but about cloud services, like AWS or Microsoft or Google."
+At the end of the day, experts say, consumers should consider having a plan B for connectivity. That may mean a land line for your house or getting a second phone on a different cell network.
+Copyright 2026 NPR

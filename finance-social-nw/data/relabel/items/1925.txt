@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Mark Zuckerberg questioned on Meta's under-13 users and usage goals in landmark social media trial
+Meta CEO Mark Zuckerberg faced questioning in a Los Angeles courtroom on Wednesday about Instagram's under-13 users and Meta's efforts to boost engagement, as a trial examines whether the company knowingly offered an addictive and harmful product to children and teens.
+The landmark trial against Meta and YouTube kicked off in late January. It centers on allegations brought by a plaintiff identified as "KGM," who claims that using social media from a young age caused her to become addicted and harmed her mental health.
+KGM, who is now 20 years old, alleges that Facebook, Instagram and YouTube — with their recommendation algorithms and infinite scrolling — are designed to be addictive.
+In the courtroom on Wednesday, Zuckerberg faced questions from KGM's lawyer Mark Lanier over Meta's policy for allowing children under 13 to access Instagram. KGM started using Instagram at 9 years old, according to Lanier.
+Zuckerberg said users under 13 are not allowed on the platform, but added that it is a difficult rule to enforce because there are "a meaningful number of people who lie about their age to use our services."
+The Free Press: Can You Really Be 'Addicted' to Social Media?
+Lanier also pressed Zuckerberg about whether one of the company's goals is to increase the time users spend on Instagram. Zuckerberg said Meta uses time spent on the app as a proxy to measure its performance against competitors like TikTok.
+"It's different than us trying to just increase time," he said. "Just us trying to see how we're stacking up in the industry."
+Zuckerberg also addressed Instagram's beauty filters, which Meta temporarily shut down after concerns surfaced that they changed people's appearance in a way that seemed to promote plastic surgery. Zuckerberg said the company decided to allow beauty filters in support of free expression, but said that "we shouldn't create them ourselves or recommend them."
+This marks the first time Zuckerberg is defending his company before a jury, although he has previously testified before Congress regarding youth safety on Meta's platforms.
+Trial carries implications for similar cases
+The outcome of the lawsuit could shape how thousands of similar cases brought against social media giants play out. TikTok and Snapchat were originally part of the lawsuit, but they settled before the trial started.
+Some experts have drawn comparisons between the social media trial and the tobacco industry lawsuits of the 1990s, which sought to hold companies accountable for their products and how they were marketed.
+"A trial like this one will hopefully uncover the disconnect between what companies say publicly to drive up business and engagement and what is actually going on behind the scenes," UCLA law professor and tech justice attorney Melodi Dinçer told CBS News senior business and technology correspondent Jo Ling Kent.
+Prior to Zuckerberg's testimony, Meta told CBS News that it strongly disagrees with the allegations and that it is committed to supporting young people who use its platforms. The company also claims that KGM faced mental health struggles before she used social media.
+A spokesperson from Google, the parent company of YouTube, also denied the allegations, calling them "simply not true."
+Zuckerberg's appearance in the LA courtroom follows that of Instagram CEO Adam Mosseri, who testified in the trial last week. While on the stand, Mosseri said he does not believe people can be clinically addicted to social media platforms, instead referring to what he calls "problematic use," when people spend more time on Instagram than they feel good about.
+Prosecutors also pressed Mosseri over whether Instagram is prioritizing growth and profit over safety. In response, Mosseri said Instagram makes "less money from teens than from any other demographic on the app," adding that teens don't tend to click on ads.

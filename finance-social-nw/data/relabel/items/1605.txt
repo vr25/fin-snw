@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+AI-linked stocks rallied Wednesday, fueled by investor optimism that artificial intelligence will power earnings growth after Oracle Corp. (NYSE:ORCL) revealed a massive backlog of AI-related orders.
+Oracle shares skyrocketed more than 40% – the company’s strongest single-day rally since December 1992 – despite missing Wall Street forecasts on both revenue and earnings last quarter. Investors instead focused on the company's multi-cloud database business, which exploded 1,529% year-over-year thanks to partnerships with Amazon.com Inc. (NASDAQ:AMZN), Alphabet Inc. (NASDAQ:GOOGL) and Microsoft Corp. (NYSE:MSFT).
+The rally pushed Oracle closer to the rarefied $1 trillion market cap club, making it the ninth most valuable U.S. company, right behind Tesla Inc. CEO Larry Ellison's fortune swelled by more than $100 billion in a single session, lifting his net worth toward $400 billion — less than $40 billion shy of Elon Musk, who remains the world's wealthiest person.
+The enthusiasm spilled over into the broader AI sector, with the Global X Artificial Intelligence & Technology ETF (NYSE:AIQ) climbing 1.5%, on track for a sixth consecutive gain and a new record highs.
+Major indices also hit milestones, with the S&P 500 gaining 0.4% to a record above 6,545, while the Nasdaq 100 hovered just shy of fresh highs.
+On the macro side, inflation data delivered another surprise. The Producer Price Index slipped 0.1% in August, defying expectations for a 0.3% increase. Wholesale inflation slowed sharply on a yearly basis as well, falling from 3.3% to 2.6%.
+A 25-basis-point interest rate cut next week is now fully priced in. Treasury yields fell, with the 30-year dipping to 4.70%.
+Commodities were higher: crude oil surged 2% above $63 per barrel after Poland said it shot down Russian drones violating its airspace, a move later confirmed by President Donald Trump who commented by saying “Here we go.”
+Gold gained 0.5% to $3,645 an ounce, while Bitcoin (CRYPTO: BTC) advanced 2% to $113,800.
+Wednesday’s Performance In Major US Indices, ETFs
+According to Benzinga Pro data:
+- The Vanguard S&P 500 ETF (NYSE:VOO) rose 0.4% to $600.34.
+- The SPDR Dow Jones Industrial Average (NYSE:DIA) slipped 0.4% to $456.16.
+- The tech-heavy Invesco QQQ Trust Series (NASDAQ:QQQ) rose 0.2% to $581.75.
+- The iShares Russell 2000 ETF (NYSE:IWM) held steady at $236.68.
+- The Technology Select Sector SPDR Fund (NYSE:XLK) outperformed, up 2.1%; the Consumer Staples Select Sector SPDR Fund (NYSE:XLP) lagged, down 1.2%.
+S&P 500’s Top 5 Gainers
+S&P 500’s Top 5 Losers
+Read now:
+Photo: Shutterstock
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+LONDON (AP) — Facebook and Instagram users in Europe are getting the option to pay for ad-free versions of the social media platforms as a way to comply with the continent’s strict data privacy rules, parent company Meta said Monday.
+Starting in November, users on desktop browsers can pay about 10 euros ($10.50) a month while iOS or Android users will pay roughly 13 euros. The higher prices reflect commissions charged by the Apple and Google app stores on in-app payments, the company said in a blog post.
+The fee will cover all linked Facebook and Instagram accounts until March, when Meta will start charging 6 euros for each additional account. The Wall Street Journal reported on the plan earlier this month.
+The U.S. tech giant is rolling out the subscription option after the European Union’s top court ruled that under strict EU data privacy rules, Meta must first get consent before showing ads to users. The ruling jeopardizes the company’s ability to make money by tailoring advertisements for individual users based on their online interests and digital activity.
+The company said while it believes in an “ad-supported internet,” it respects “the spirit and purpose of these evolving European regulations,” and is committed to complying with them.
+The paid option “balances the requirements of European regulators while giving users choice and allowing Meta to continue serving all people,” Meta said.
+Users aged 18 and older in the EU’s 27 member countries, plus Switzerland, Norway, Iceland and Liechtenstein will still have the choice of continuing to use Facebook or Instagram with ads.
+Meta said it’s looking into how how to “provide teens with a useful and responsible ad experience” given the Europan privacy ruling.

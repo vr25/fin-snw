@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Photo Credit: Getty Images
+We all spend a lot of time online, but what are we clicking and scrolling on most? New research from Visual Capitalist analyzes Internet use to find the most visited websites in the world and how long we spend on each of them.
+- Unsurprisingly, Google is the world’s most visited website, but people spend nearly double the amount of time on YouTube, which is second on the list.
+- On average, people spend 20-minutes 47-seconds on YouTube, the highest amount of time of any of the top 20 most visited websites worldwide.
+- When it comes to social media platforms, people spend more time on X (12-minutes 37-seconds) than Facebook (10-minutes 59-seconds) and Instagram (eight-minutes 41-seconds).
+- ChatGPT users spend nearly seven-minutes per visit, on average, which is more than both Reddit (six-minutes seven-seconds) and Wikipedia (three-minutes 18-seconds).
+- Amazon is 13th on the list overall, with the average visit lasting five-minutes 51 seconds
+- TikTok is 14th, with average visits lasting four-minutes nine-seconds.
+The Top 10 Most Visited Websites Worldwide
+- Google - 10-minutes 47-seconds (average visit duration)
+- YouTube - 20-minutes 47 seconds
+- Facebook - 10-minutes 59-seconds
+- Instagram - eight-minutes 41-seconds
+- X - 12-minutes 37-seconds
+- Whatsapp - 12-minutes 26-seconds
+- ChatGPT - six-minutes 47-seconds
+- Wikipedia - three-minutes 18-seconds
+- Reddit - six-minutes seven-seconds
+- Yahoo - seven-minutes 43-seconds
+Source: Visual Capitalist

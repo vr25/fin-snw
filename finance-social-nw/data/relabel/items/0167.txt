@@ -1,0 +1,8 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+About our PS5 news
+Latest news on the PlayStation 5 (PS5), the latest video game console released by Sony. It was first released on November 12, 2020 in certain countries, and was later released on November 19, 2020 in other parts of the world. The PS5 is the successor to the PlayStation 4 (PS4), and it is the fifth major console release by Sony.
+The PS5 features a custom AMD Zen 2-based CPU with 8 cores running at a variable frequency up to 3.5 GHz, and a custom AMD RDNA 2-based GPU with 36 compute units running at a variable frequency up to 2.23 GHz. It also has 16 GB of GDDR6 memory and a custom solid-state drive (SSD) with 825 GB of storage capacity.
+The PS5 supports 4K resolution gaming at up to 120 frames per second, and also supports ray tracing, a technique used in computer graphics to produce more realistic lighting and reflections. It also has a built-in Ultra HD Blu-ray disc drive for playing physical game discs and media.
+The PS5 comes with a new DualSense controller, which features haptic feedback and adaptive triggers that can adjust resistance based on in-game actions. The console also has a redesigned user interface with new features such as the ability to join game sessions directly from the console's dashboard.

@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Summary Google had asked for summary judgment on all the government's claims in the case
+WASHINGTON (Reuters) - A U.S. judge hearing the Justice Department's antitrust lawsuit accusing Google of unlawfully maintaining monopolies in the internet search market let stand key claims made by the federal government.
+Google, a unit of Alphabet (GOOGL.O), had asked for summary judgment on all the government's claims in the case.
+U.S. Judge Amit Mehta, in a decision made public in Washington on Friday, granted Google's request on some grounds but allowed the remainder of the claims to proceed to trial next month.
+The Justice Department sued Google in 2020, accusing the $1.6 trillion company of illegally using its market muscle to hobble rivals in the biggest challenge to the power and influence of Big Tech since it sued Microsoft Corp (MSFT.O) in 1998.
+Mehta is also hearing a case brought against Google by the attorneys general of 38 states and territories.
+Mehta tossed out accusations brought by the states that Google made it harder for internet users to find specialized search engines, like Expedia for travel or OpenTable for restaurants, saying the states "have not demonstrated the requisite anticompetitive effect in the relevant market."
+Google said Friday it appreciated the court's "careful consideration and decision to dismiss claims regarding the design of Google Search" in the case brought by the states.
+"We look forward to showing at trial that promoting and distributing our services is both legal and pro-competitive," added Kent Walker, Google's chief legal officer.
+Google has denied any wrongdoing in both cases.
+Colorado Attorney General Phil Weiser said he was pleased with Mehta's opinion, adding: "We will continue to evaluate how to best press forward and establish Google’s pattern of illegal conduct that harms consumers and competition."
+Mehta noted Google LLC operates the largest U.S. internet general search engine whose "brand name has become so ubiquitous that dictionaries recognize it as a verb." He noted Google in 2020 had nearly 90% market share and advertisers spend over $80 billion annually alone to reach general search users.
+"A company with monopoly power acts unlawfully only when its conduct stifles competition," Mehta wrote.
+Mehta also said that the government would have to show that each particular action - for example how Google handles search advertising - is a violation of antitrust law. This means that the government cannot show a string of actions and argue that these cumulatively break antitrust law.
+The government, which filed its lawsuit in the waning days of the Trump administration, has argued that Google illegally paid billions of dollars each year to smartphone makers like Apple, LG, Motorola and Samsung, carriers like Verizon and browsers like Mozilla to be the default search for their customers. Mehta declined to throw out that argument.
+The Justice Department did not immediately comment.
+In late April, a U.S. judge in Virginia denied Google's motion to dismiss a separate Justice Department antitrust case focused on advertising technology, saying the government's case was strong enough to go forward.
+The government has argued that Google should be forced to sell its ad manager suite. Google has also denied any wrongdoing in this case.

@@ -1,0 +1,26 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Musk launches xAI to rival OpenAI, Google
+Elon Musk on Wednesday launched his own artificial intelligence company, xAI, as he seeks to compete with OpenAI, the creator of ChatGPT -- a program he accuses of being politically biased and irresponsible.
+The xAI website said the Tesla tycoon would run the company separately from his other companies but that the technology developed would benefit those businesses, including Twitter.
+"The goal of xAI is to understand the true nature of the universe," the website said.
+Musk on Twitter added that the new company's aim was to "understand reality" and answer life's biggest questions.
+The startup is staffed by former researchers from OpenAI, Google DeepMind, Tesla and the University of Toronto.
+The team is to be advised by Dan Hendrycks, who currently leads the Center for AI Safety, a San Francisco-based organization that warns against developing AI too quickly.
+Hendrycks also initiated the open letter to global leaders in June that warned AI was a risk to human existence on par with pandemics and nuclear war.
+Musk has repeatedly warned about the dangers of AI, having called it "our biggest existential threat," and saying that moving too fast was like "summoning the demon."
+He has claimed to have cofounded OpenAI in 2015 because he regarded the dash by Google to make advances in artificial intelligence as reckless.
+He left OpenAI in 2018 to focus on Tesla and later said he was also uncomfortable with the profit-driven direction the company was taking under the stewardship of CEO Sam Altman.
+Musk also argues that OpenAI's large language models -- on which ChatGPT depends on for content, as is the case with other AI programs -- are overly politically correct.
+Musk in April shared details of his plans for a new AI tool called "TruthGPT" in an interview with Fox News, the conservative broadcaster.
+In the interview he said his new AI company would come very late after OpenAI and Google DeepMind, both of which have made great strides in recent years.
+"I think I will create a third option, although it's starting very late in the game. Can it be done? I don't know, we'll see," he said.
+The launch of an AI company on the scale of OpenAI or Google DeepMind would come at an enormous expense, especially in regards to the necessary semiconductors, known as GPUs, which are mainly built by California company Nvidia.
+ Legal Disclaimer:
+ MENAFN provides the
+              information âas isâ without warranty of any kind. We do not accept any
+              responsibility or liability for the accuracy, content, images, videos,
+              licenses, completeness, legality, or reliability of the information
+              contained in this article. If you have any complaints or copyright issues
+              related to this article, kindly contact the provider above.

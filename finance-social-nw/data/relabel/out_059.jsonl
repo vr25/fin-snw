@@ -1,0 +1,20 @@
+{"id": "1180", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Dublin, Nov.  15, 2024  (GLOBE", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1181", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Update: Red flag warning canceled", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1182", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Dashed hopes and slashed jobs", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1183", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "India stands out as a compelling", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1184", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Tech Tests All-Time Highs Ahead", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1185", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Europe's venture-backed startups are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1186", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Europe's venture-backed startups are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1187", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Europe's venture-backed startups are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1188", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Japan Ramps Up Tech Ambitions", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1189", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Artificial Intelligence, the technology that", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1190", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Justice Department wants Google", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1191", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Asian semiconductor-related stocks mostly", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1192", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By — Michael Liedtke, Associated", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1193", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "On November 21, 2024, the", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1194", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Share Market Highlights 22nd November", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1195", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "CNBC's Jim Cramer previewed next", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1196", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1197", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In an era where technology", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1198", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The memory chips market research", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1199", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Outer Front Cover Contents", "relation": "unrelated-mention", "sentiment_alignment": 0}

@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+It may come as a surprise to some investors that year to date, the FTSE 100 has outperformed the S&P 500. Is it a blip, or is there something more fundamental at play here?
+American exceptionalism
+Since the global financial crash of 2008, US stocks have sometimes seemed to be the only place to be for those seeking growth. Over the past 15 years the S&P 500 has returned 642%, compared to only 136% for the FTSE 100. Yes, the latter index has returned significantly more in dividends during that timeframe, but that fact hardly makes a dent in the difference.
+Driving the divergence has been unprecedented advances in technology powered by mass adoption of the internet.
+Fuelling the rise of big tech has been an ultra-low interest rate environment, benign inflation and a strengthening US dollar. This has made the US stock market a magnet for global investors.
+What a lot of investors forget, though, is that in the past the US has gone through long periods when it has significantly underperformed. This includes during the entire decades of the 1970s and 2000s.
+Valuations matter
+Today, on several metrics, the US stock market looks expensive. One metric I like is the Buffett indicator. Dividing the total US stock market value by gross domestic product, the ratio comes out at over 200%. The last time it reached such a level back in 2021, the likes of Nvidia got crushed.
+Using more conventional metrics, the price-to-earnings ratio currently stands at 22.5 times projected earnings. This is significantly higher than its long term average of 17. The FTSE 100 is considerably cheaper at 13.8 times.
+On a price to sales basis, valuations are now more extreme than at the height of the dotcom bubble. Investors are forking out $3.23 for every $1 of revenue the index’s members generate.
+Concentration risk
+Many investors will argue that such premium valuations are worth every cent. As AI goes mainstream the likes of Nvidia, Microsoft and Meta are set to profit handsomely. The problem is that it is the Magnificent 7 stocks that have been doing all the heavy lifting lately.
+The 10 largest companies in the S&P 500 now account for 40% of the index, a record high. Worse still, 70% of the MSCI World Index is composed of US stocks, especially the Magnificent 7. To me, that makes the FTSE 100 more compelling for investors looking to get out of an overcrowded US stock market.
+Stock picking
+But if an investor is willing to do research, I think they can outperform either index. One FTSE 100 stock I have been actively looking into is speciality chemicals producer, Croda (LSE: CRDA). Its price has plummeted 77% from its Covid highs, after lipid sales used in vaccines all but dried up.
+However, the industry as a whole is on the cusp of a major revolution. Driven by the rise of AI, demand for sustainable products together with advances in biotechnology, a fundamental change across its core markets of agriculture, consumer care and pharmaceuticals is unfolding.
+As a small, niche player, supplying mission-critical novel ingredients, I see the business as well placed to profit handsomely as the chemicals industry transitions over the next decade. That is why it is now on my watchlist.

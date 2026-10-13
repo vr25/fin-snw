@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The same Iranian hacking group believed to have targeted both the Democratic and Republican presidential campaigns tried to go after the WhatsApp accounts of staffers in the administrations of President Joe Biden and former president Donald Trump, Meta Platforms said on Friday.
+Meta said it discovered the network of hackers, who posed as tech support agents for companies including AOL, Microsoft, Yahoo and Google after individuals who received the suspicious WhatsApp messages reported them.
+Meta’s investigators linked the activity to the same network blamed for the hacking incident reported by Donald Trump’s campaign.
+The FBI this week said a hack by Iran of the Trump campaign and an attempted breach of the Biden-Harris campaign was part of a broader Iranian effort to interfere with the US presidential election.
+A statement on Friday from Meta, the parent of Facebook and Instagram, said that the hackers had tried to target the WhatsApp accounts of individuals in the Middle East, the United States and the United Kingdom, as well as political and diplomatic officials — including unidentified officials associated with the Trump and Biden administrations.
+A “small cluster” of accounts was blocked by Meta, the company said.
+“We have not seen evidence of the targeted WhatsApp accounts being compromised, but out of an abundance of caution, we’re sharing our findings publicly, in addition to sharing information with law enforcement and our industry peers,” Meta said in a statement.
+In a report this month, Google’s threat intelligence arm said the same Iranian group, which it linked to the country’s Revolutionary Guard, had tried to infiltrate the personal email accounts of roughly a dozen people linked to Joe Biden and Donald Trump since May.
+That report expanded on a separate study released days earlier by Microsoft that revealed suspected Iranian cyber intrusion in this year’s presidential election.
+US intelligence officials say Iran’s increasingly aggressive use of cyberattacks and disinformation has several motives: to confuse and polarise voters to undermine confidence in US democracy, to erode support for Israel, and to oppose candidates that it believes will increase tension between Washington and Iran.
+Iran has vowed revenge against Mr Trump, whose administration ended a nuclear deal with Iran, reimposed sanctions and ordered the killing of Iranian General Qassem Soleimani.
+In July, director of national intelligence Avril Haines said Iran’s government gave covert support to American protests against Israel’s war against Hamas in Gaza.
+Groups linked to Iran posed as online activists encouraged campus protests and provided financial support to some protest groups, Ms Haines said.
+Messages left with the Trump and Harris campaigns by the Associated Press were not immediately returned on Friday.

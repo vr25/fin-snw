@@ -1,0 +1,20 @@
+{"id": "1220", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Trillion-dollar gap shows diverging South", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1221", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MIDDLETOWN, Pennsylvania — Standing in", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1222", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In the old ranchlands of South", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1223", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Internet 2 min read", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1224", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In addition to public figures,", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1225", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The US Supreme Court is", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1226", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "NEW CANAAN, CT / ACCESSWIRE", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1227", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Albanese government has unveiled", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "1228", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "MELBOURNE, Australia: The Australian", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1229", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Nasdaq Composite Index hit", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1230", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Summary - Microsoft is testing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1231", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google has announced the creation", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1232", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Michigan is poised to give", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1233", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1234", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As 2024 unfolds, companies across", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1235", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As 2024 unfolds, companies across", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1236", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "As 2024 unfolds, companies across", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1237", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Dow Jones Industrial Average", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1238", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The active or passive debate", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1239", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "At this stage, the motive", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

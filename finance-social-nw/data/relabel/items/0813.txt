@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Summary
+- Beeper, the universal chat app, has been acquired by Automattic, promising a new era of collaboration.
+- The new Beeper app integrates messages from 14 different chat apps, and is available to download for free.
+- Beeper, now under Automattic, envisions 'building the best chat app on earth.'
+Today is a big day for Beeper, the universal chat app first announced back in 2021. The company has confirmed that it's been acquired by Automattic, creator of WordPress. Beeper has also announced the general availability of its new app across all major platforms, which until now has been in beta testing under the Beeper Cloud name.
+What Beeper is saying about the acquisition
+"Given the state of the messaging world, we’ve long felt the need for a strong ally with the resources to support us on our quest. Automattic has a long history of putting user control and privacy first with open-source, and great bilateral relationships with Meta, Apple, Microsoft, Google, Matrix and others that we hope can usher in a new era of collaboration," Beeper CEO Eric Migicovsky said in a press release.
+The new Beeper app's claim to fame is its promise of integrating messages from across 14 different chat apps. It serves as a universal messaging inbox, and it's built on the open-source chat protocol known as Matrix.
+Beeper leaves beta
+With 466,000 users getting access, today
+The app until now has been in beta testing, with the company confirming a wait list of 466,000 users. With it reaching general availability, anyone can now try out the app for free. An optional paid subscription will be available down the road that offers extra perks, according to Beeper.
+The entire Beeper team will be migrated over to Automattic, but will continue to operate as an independent entity.
+By joining forces with Automattic, which has its hand in WordPress, WooCommerce, Pocket Casts and more, both parties have the stated aligned goal of 'building the best chat app on earth.' The entire Beeper team will be migrated over to Automattic, but will continue to operate as an independent entity. Beeper CEO Migicovsky will assume the title of Automattic Head of Messaging under this new structure.
+"It will take a bit of time for us to integrate and combine forces under the Beeper brand. We’ve got big plans! I’m really excited about the future of chat," says Migicovsky.
+Beeper, reborn for a new age
+It's come full circle
+Beeper first came into the public eye with the launch of its Beeper Mini app in late 2023. The app was successful in bringing Apple's iMessage service to Android users, which stoked a fierce back-and-forth between both companies.
+The service was short-lived, with Beeper finally throwing in the towel in late January. Where Apple may have won the battle, it can be argued that Beeper has won the war -- having undoubtedly contributed to the mounting antitrust pressure Apple is currently embroiled in.
+While the new Beeper app doesn't boast iMessage support, it might not matter that much. The allure of a universal messaging inbox, as well as the promise of putting an end to the constant juggling of texting apps, is a potent force if there's ever been one.
+The kindling has already been laid, and the new Beeper app might just be the spark that ushers in a new era of messaging. That's the hope, at least. The new app is available to download on Beeper's website, and is compatible across iOS, MacOS, Windows, Android, ChromeOS, and Linux.

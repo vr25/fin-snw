@@ -1,0 +1,15 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Intel's new CEO said the company had fallen short of expectations recently and asked for customer feedback in his first public appearance since taking over the chip giant.
+"We had been too slow to adapt and to meet your needs," Lip-Bu Tan said about customers on Monday at an Intel event in Las Vegas. "You deserve better, and we need to improve, and we will. Please be brutally honest with us."
+The keynote was Tan's first since taking over as CEO on March 18. Tan walked the audience through his upbringing in Asia and career milestones and said he learned the importance of customer feedback in his previous CEO role.
+Tan's appointment comes after former CEO Pat Gelsinger's sudden departure in December. Tan has over 16 years of experience leading the electronics and system design company Cadence and joined Intel's board in 2022, serving on the mergers and acquisitions committee. He left the board in August, citing "demands on his time."
+Tan is the chairman of Walden International, a venture capital firm, and has served on the boards of SoftBank Group and Hewlett Packard Enterprise.
+Turnaround plans
+On Monday, Tan also said that Intel would spin off non-core businesses to improve its bandwidth. He did not specify which parts of the company may get divested. He also hinted at developments in the robotics space.
+"I love this company. It was hard for me to watch it struggle," he said about joining Intel at this stage in his career. "I simply cannot stay on the sideline knowing that I could help turn things around."
+Intel was Silicon Valley's dominant chipmaker in the 2000s. But it lost ground to Nvidia, Samsung, and several Taiwanese and American players, missing out on key tech developments like the rise of the iPhone and, more recently, skyrocketing artificial-intelligence demand. Companies such as Microsoft and Google have been designing their own chips, further limiting Intel's customer base.
+Intel's share price dropped almost 50% in 2024 as the company faced challenges, including billions of dollars in losses. Gelsinger responded with sweeping layoffs and buyouts.
+In December, the company's chief global operations officer outlined a similar strategic shift: moving from "no wafer left behind" to a "no capital left behind" mindset to minimize waste and prioritize efficiency.
+Intel is up 13% so far this year, partly because of Tan's appointment as CEO and because of reports that the company could be partnering with leading chipmakers Nvidia and Broadcom for manufacturing.

@@ -1,0 +1,28 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Canada's main stock index slid on Wednesday after a flare-up in the Middle East conflict dampened hopes for progress in efforts to end the
+months-long war.
+The TSX Composite Index decreased 203.97 points to stop for lunch Wednesday at 34,965.49 
+The Canadian dollar declined 0.22 cents to 72 cents U.S. 
+Canada had a positive meeting with the U.S. on the review of their free trade deal, Federal Trade Minister Dominic LeBlanc said in Washington on Tuesday, but declined to provide many details.
+Meanwhile, Shopify said on Tuesday its board had approved an additional $3-billion share buyback program, bringing the Canadian e-commerce company's total repurchase authorization to $5 billion.
+Shares in Shopify dumped $3.98, or 2.5%, to $157.97. 
+The U.S. military on Wednesday said it has thwarted Iranian missile attacks on Bahrain, Kuwait and other regional targets.
+ON BAYSTREET 
+The TSX Venture Exchange demurred 23.55 points, or 2.3%, to 1,009.55. 
+The 12 TSX subgroups were evenly divided by noon hour EDT.  Materials skidded 2.6%, information technology jettisoned 2.5%, and gold dulled 2.3%. 
+The half-dozen gainers were led by energy, barreling 1.8%, while consumer staples soared 1.2%, and utilities gained 1%. 
+ON WALLSTREET
+Stocks fell on Wednesday as oil prices and Treasury yields moved higher amid worries the U.S.-Iran conflict could keep lifting inflation.
+The Dow Jones Industrials were clobbered 417.14 points to 50,890.65. 
+The S&P 500 faded 42.81 points to 7,566.97.
+The NASDAQ slipped 224.45 points to 26,869.45.
+Declines in artificial intelligence-related stocks also weighed on the broader market. Nvidia lost more than 2%, while Dell Technologies and Oracle lost 5.5%. Microsoft also shed 2%.
+Shares of U.S. private equity firms were a sore spot of the day, falling after Swiss-based private equity firm Partners Group announced it was capping investor withdrawals from one of its funds. KKR dropped 5%, while Blackstone declined 3%.
+Late Tuesday, the Kuwait army said in a social media post that air defense systems were “intercepting hostile targets.” 
+U.S. Central Command later said that American forces defeated Iranian ballistic missiles and drones, and they also carried out “self-defense strikes” on Qeshm Island “in response to attempted attacks by Iran across the Middle East.”
+President Donald Trump also said Iran agreed to not having nuclear weapons, but added “they can change their mind.”
+Prices for the 10-year Treasury listed lower, raising yields back to Tuesday’s 4.50%. Treasury prices and yields move in opposite directions.  
+Oil prices strengthened $2.18 to $95.94 U.S. a barrel. 
+Gold prices plummeted $51.00 to $4,468.90 U.S. an ounce.

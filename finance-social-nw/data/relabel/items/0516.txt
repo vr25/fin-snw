@@ -1,0 +1,87 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+AGB
+Allgemeine Geschäftsbedingungen der Firma Funky Taurus Media
+Präambel
+Mit Betreten der website(s) https://www.FunkyTaurusMedia.com stimmen Sie ( Kunde ) den Allgemeinen Geschäftsbedingungen zu , inklusive aller damit verbundenen Gesetzen und Regularien der Bundesrepublik Deutschland. Ohne Zustimmung ist jede Nutzung der Website(s) und des Shops unzulässig. Der Inhalt der Website unterliegt den weltweiten und auch deutschen Copyright - und Trademarkbestimmungen.
+§1 Geltung gegenüber Unternehmern und Begriffsdefinitionen
+(2) Verbraucher im Sinne dieser Geschäftsbedingungen ist jede natürliche Person, die ein Rechtsgeschäft zu einem Zwecke abschließt, der weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann, sowie alle Verbraucher, Firmen oder allgemeine Medien die ein Rechtsgeschäft zu einem Zwecke abschließen, das der gewerblichen oder freiberuflichen oder selbständigen beruflichen Tätigkeit zugerechnet werden kann
+§2 Zustandekommen eines Vertrages, Speicherung des Vertragstextes
+(2) Im Falle des Vertragsschlusses kommt der Vertrag mit
+Heinrich
+Halkettstr.12
+D-30165 Hannover
+zustande.
+(3) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot ( es sei denn Sie sind Material Lieferant nach Paragraf 8 dieser Allgmeinen Geschäftsbedingungen ) unsererseits dar, sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.
+(4) Bei Eingang einer Bestellung in unserem Internetshop gelten folgende Regelungen: Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.
+Die Bestellung erfolgt in folgenden Schritten:
+Passwort) als Neukunde oder Gast.
+2.) Auswahl der gewünschten Ware ggf. in der gewünschten Spezifikation (Größe, Farbe, Anzahl)
+3.) Einlegen des Angebots in den Warenkorb
+4.) Betätigen des Buttons 'bestellen'
+5.) Eingabe der Rechnungs- und Lieferadresse
+6.) Auswahl der Bezahlmethode
+7.) Überprüfung und Bearbeitung der Bestellung und aller Eingaben
+8.) Betätigen des Buttons 'kostenpflichtig bestellen'
+9.) Verbindliche Absendung der Bestellung.
+10.) Bestätigungsmail, dass Bestellung eingegangen ist
+Mit der Zusendung der Bestellbestätigung kommt die Bestellung rechtskräftig zustande.
+Der Gebrauch des Widerrufsrechts (§ 312g Abs. 1 i.V.m. § 355 Abs. 1 BGB n.F.) ist binnen 14 Tage, nachdem der Besteller bzw eine von ihm ausdrücklich ernannte Person, die Ware erhalten hat, dem Verkäufer durch den Besteller anzuzeigen. Dieses Formular
+kann genutzt werden
+Die Bestellung ist rechtskräftig, da auch das notwendige Bestätigen der Hinweise zum Widerrufsreht der Allgemeinen Geschäftsbedingungen durch Anklicken von Ihnen getätigt und zur Kenntnis genommen wurde.
+Mit der Zusendung der Bestellbestätigung kommt die Bestellung rechtskräftig zustande.
+Der Gebrauch des Widerrufsrechts (§ 312g Abs. 1 i.V.m. § 355 Abs. 1 BGB n.F.) ist binnen 14 Tage, nachdem der Besteller bzw eine von ihm ausdrücklich ernannte Person, die Ware erhalten hat, dem Verkäufer durch den Besteller anzuzeigen. Dieses Formular Widerrufsrecht-Formular kann genutzt werden
+Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betätigen der in dem von ihm verwendeten Internet-Browser enthaltenen „Zurück“-Taste nach Kontrolle seiner Angaben wieder zu der Internetseite gelangen, auf der die Angaben des Kunden erfasst werden und Eingabefehler berichtigen bzw. durch Schließen des Internetbrowsers den Bestellvorgang abbrechen. Wir bestätigen den Eingang der Bestellung unmittelbar durch eine automatisch generierte E-Mail („Auftragsbestätigung“). Mit dieser nehmen wir Ihr Angebot an.
+Die Bestellung ist rechtskräftig, da auch das notwendige Bestätigen der Hinweise zum Widerrufsrecht der Allgemeinen Geschäftsbedingungen durch Anklicken von Ihnen getätigt und zur Kenntnis genommen wurde.
+(5) Speicherung des Vertragstextes bei Bestellungen über unseren Internetshop : Wir senden Ihnen die Bestelldaten und unseren Widerrufsrechthinweis per E-Mail zu. Die AGB können Sie jederzeit auch unter https://www.FunkyTaurusMedia.com einsehen. Ihre Bestelldaten sind aus Sicherheitsgründen nicht mehr über das Internet zugänglich. Die Bestellung ist rechtskräftig, da auch das notwendige Bestätigen der Hinweise zum Widerrufsreht der Allgemeinen Geschäftsbedingungen durch Anklicken von Ihnen getätigt und zur Kenntnis genommen wurde.
+§3 Preise, Versandkosten, Rücksendekosten, Zahlung, Fälligkeit
+(1) Die angegebenen Preise enthalten die gesetzliche Umsatzsteuer und sonstige Preisbestandteile. Hinzu kommen etwaige Versandkosten.
+(2) Pro Bestellung fallen einmalig folgende Versandkostenpauschalen an:
+Deutschland: € 3.99
+EU: € 7.99
+International: € 15,00.
+Für den Versand fallen keine weiteren Kosten an. Dies gilt ab einem Betrag von 1€ .
+(3) Der Verbraucher hat die Möglichkeit der Zahlung per Vorkasse-Vorabüberweisung, Lastschrifteinzug, Zahlungsdienstleister (PayPal). Für Kunden ausserhalb Deutschlands gilt generell die Zahlung per PayPal. Haben Sie als ausländisches Unternehmen eine gültige Umsatzsteuer-Identnummer, so werden wir den in Deutschland gültigen Mehrwertsteuersatz von Ihrem Zahlbetrag abziehen.
+Weitere Zahlungsarten werden nicht angeboten und werden zurückgewiesen.
+Der Rechnungsbetrag ist nach Zugang der Rechnung, die alle Angaben für die Überweisung enthält und mit E-Mail verschickt wird, auf das dort angegebene Konto vorab zu überweisen. Der Rechnungsbetrag wird vom Anbieter mittels Lastschriftverfahren auf Grundlage der Einzugsermächtigung durch den Kunden von dessen angegebenem Konto eingezogen. Bei Verwendung eines Treuhandservice/ Zahlungsdienstleisters ermöglicht es dieser dem Anbieter und Kunden, die Zahlung untereinander abzuwickeln. Dabei leitet der Treuhandservice/ Zahlungsdienstleister die Zahlung des Kunden an den Anbieter weiter. Weitere Informationen erhalten Sie auf der Internetseite des jeweiligen Treuhandservices/ Zahlungsdienstleisters. Der Kunde ist verpflichtet innerhalb von 7 Tagen nach Erhalt der Rechnung den ausgewiesenen Betrag auf das auf der Rechnung angegebene Konto einzuzahlen oder zu überweisen. Die Zahlung ist ab Rechnungsdatum ohne Abzug fällig. Der Kunde kommt erst nach Mahnung in Verzug.
+(4) Hat der Verbraucher die Zahlung per Vorkasse-Vorabüberweisung gewählt, so verpflichtet er sich, den Kaufpreis unverzüglich nach Vertragsschluss zu zahlen.
+(1) Sofern wir dies in der Produktbeschreibung nicht deutlich anders angegeben haben, sind alle von uns angebotenen Artikel sofort versandfertig.Die Ware wird umgehend nach bestätigtem Zahlungseingang versandt. Der Versand erfolgt durchschnittlich spätestens nach 2 Tagen. Der Unternehmer verpflichtet sich zur Lieferung bis zum maximal 14 Tag nach Bestelleingang. Die Regellieferzeit beträgt 5 Tage, wenn in der Artikelbeschreibung nichts anderes angegeben ist. Der Anbieter versendet die Bestellung aus eigenem Lager, sobald die gesamte Bestellung dort vorrätig ist. Der Kunde wird über Verzögerungen umgehend informiert.
+(2) Hat der Verbraucher die Zahlung per Vorkasse oder Paypal gewählt, so versenden wir die Ware nicht vor Zahlungseingang.
+(3) Gewährleistung
+Ist der Kunde Unternehmer, wird für Neuwaren die Gewährleistungsfrist auf ein Jahr beschränkt. Dem Anbieter wird zuerkannt, dass er bei einer Nacherfüllung selbst zwischen Reparatur oder Neulieferung wählen kann, wenn es sich bei der Ware um Neuware handelt und der Kunde Unternehmer ist. Ist der Kunde Unternehmer, wird für Gebrauchtwaren die Gewährleistung ausgeschlossen. Ist der Kunde Verbraucher, wird für gebrauchte Waren die Gewährleistungsfrist auf ein Jahr beschränkt. Dies gilt nicht für Schadensersatzansprüche des Kunden wegen Verletzung des Lebens, des Körpers, der Gesundheit oder wesentlicher Vertragspflichten, welche zur Erreichung des Vertragszieles notwendigerweise erfüllt werden müssen. Ebenso gilt dies nicht für Schadensersatzansprüche nach grob fahrlässiger oder vorsätzlicher Pflichtverletzung des Anbieters oder seines gesetzlichen Vertreters oder Erfüllungsgehilfen. Im Übrigen gelten die gesetzlichen Regelungen.
+(4) Vertragsgestaltung
+Der Kunde hat keine Möglichkeit selbst direkt auf den gespeicherten Vertragstext zuzugreifen. Der Kunde kann Fehler in der Eingabe während des Bestellvorganges korrigieren. Hierzu kann er folgendermaßen vorgehen indem er den Zurück Button betätigt, oder neu bestellt nach Abbruch des ersten Bestellvorgangs.
+§5 Eigentumsvorbehalt
+Wir behalten uns das Eigentum an der Ware bis zur vollständigen Bezahlung des Kaufpreises vor.
+****************************************************************************************************
+§6 Widerrufsrecht
+Sie können Ihre Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen in Textform (z. B. Brief, E-Mail) oder – wenn Ihnen die Sache vor Fristablauf überlassen wird – auch durch Rücksendung der Sache widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform, jedoch nicht vor Eingang der Ware beim Empfänger (bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten Teillieferung) und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Abs. 1 und 2 EGBGB sowie unserer Pflichten gemäß § 312g Abs. 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs oder der Sache. Dieses Formular Widerrufsrecht-Formular kann genutzt werden
+Der Widerruf ist zu richten an:
+Heinrich
+Halkettstr.12
+D-30165 Hannover
+E-Mail contact@FunkyTaurusMedia.com
+Widerrufsfolgen
+Wenn Sie diesen Vertag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahmen der zusätzlichen Kosten, die sich daraus ergeben, dass Sie einer andere Art der Lieferung als die von uns angebotene, günstige Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.
+Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an uns Funky Taurus Media , Heinrich,Halkettstr.12
+D-30165 Hannover,E-Mail contact@FunkyTaurusMedia.com
+zurückzusenden oder zu übergeben.
+Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.
+Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.
+Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.
+Ende der Widerrufsbelehrung
+****************************************************************************************************
+ 
+§7  Haftungsausschluss
+Schadensersatzansprüche  des Kunden sind ausgeschlossen, soweit sich aus   den nachfolgenden  Gründen nicht etwas anderes ergibt. Dies gilt auch   für den Vertreter und  Erfüllungsgehilfen des Anbieters, falls der  Kunde  gegen diese Ansprüche  auf Schadensersatz erhebt. Ausgenommen  sind  Schadensersatzansprüche des  Kunden wegen Verletzung des Lebens,  des  Körpers, der Gesundheit oder  wesentlicher Vertragspflichten,  welche zur  Erreichung des Vertragszieles  notwendigerweise erfüllt  werden müssen.  Ebenso gilt dies nicht für  Schadensersatzansprüche nach  grob  fahrlässiger oder vorsätzlicher  Pflichtverletzung des Anbieters  oder  seines gesetzlichen Vertreters oder  Erfüllungsgehilfen.
+§8 Sprache, Gerichtsstand und anzuwendendes Recht
+Der  Vertrag wird in Deutsch abgefasst. Die weitere Durchführung der    Vertragsbeziehung erfolgt in Deutsch. Es findet ausschließlich das Recht    der Bundesrepublik Deutschland Anwendung. Für Verbraucher gilt dies   nur  insoweit, als dadurch keine gesetzlichen Bestimmungen des Staates    eingeschränkt werden, in dem der Kunde seinen Wohnsitz oder  gewöhnlichen   Aufenthalt hat. Gerichtsstand ist bei Streitigkeiten mit  Kunden, die   kein Verbraucher, juristische Person des öffentlichen  Rechts oder   öffentlich-rechtliches Sondervermögen sind, Sitz des  Anbieters.
+Als Vertragssprache steht ausschließlich Deutsch zur Verfügung. Der Gerichtsstand ist Hannover
+§91  Datenschutz
+Im Zusammenhang mit  der Anbahnung, Abschluss, Abwicklung und   Rückabwicklung eines  Kaufvertrages auf Grundlage dieser AGB werden vom   Anbieter Daten  erhoben, gespeichert und verarbeitet. Dies geschieht im   Rahmen der  gesetzlichen Bestimmungen. Der Anbieter gibt keine   personenbezogenen  Daten des Kunden an Dritte weiter, es sei denn, dass   er hierzu  gesetzlich verpflichtet wäre oder der Kunde vorher   ausdrücklich  eingewilligt hat. Wird ein Dritter für Dienstleistungen im   Zusammenhang  mit der Abwicklung von Verarbeitungsprozessen  eingesetzt,  so werden die  Bestimmungen des Bundesdatenschutzgesetzes  eingehalten.  Die vom Kunden  im Wege der Bestellung mitgeteilten Daten  werden  ausschließlich zur  Kontaktaufnahme innerhalb des Rahmens der   Vertragsabwicklung und nur zu  dem Zweck verarbeitet, zu dem der Kunde   die Daten zur Verfügung gestellt  hat. Die Daten werden nur soweit   notwendig an das Versandunternehmen,  das die Lieferung der Ware   auftragsgemäß übernimmt, weitergegeben. Die  Zahlungsdaten werden an das   mit der Zahlung beauftragte Kreditinstitut  weitergegeben. Soweit den   Anbieter Aufbewahrungsfristen handels- oder  steuerrechtlicher Natur   treffen, kann die Speicherung einiger Daten bis  zu zehn Jahre dauern.   Während des Besuchs im Internet-Shop des Anbieters  werden anonymisierte   Daten, die keine Rückschlüssen auf  personenbezogene Daten zulassen  und  auch nicht beabsichtigen,  insbesondere IP-Adresse, Datum, Uhrzeit,   Browsertyp, Betriebssystem und  besuchte Seiten, protokolliert. Auf   Wunsch des Kunden werden im Rahmen  der gesetzlichen Bestimmungen die   personenbezogenen Daten gelöscht,  korrigiert oder gesperrt. Eine   unentgeltliche Auskunft über alle  personenbezogenen Daten des Kunden   ist möglich. Für Fragen und Anträge  auf Löschung, Korrektur oder   Sperrung personenbezogener Daten sowie  Erhebung, Verarbeitung und   Nutzung kann sich der Kunde an folgende  Adresse wenden: Funky Taurus  Media , Heinrich,Halkettstr.12,D-30165 Hannover
+E-Mail contact@FunkyTaurusMedia.com   
+Die Ungültigkeit einer Bestimmung dieser Bedingungen hat keinen Einfluss auf die Gültigkeit der übrigen Bestimmungen.
+Letzte Nutzungsbedingungen bis Januar 2024
+(c) 2026 Funky Taurus Media
+Preise inkl. Mehrwertsteuer mit separaten Versandkosten

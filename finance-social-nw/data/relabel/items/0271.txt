@@ -1,0 +1,12 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Investor bullishness on artificial intelligence stocks may be fueling another "Mother of All Melt-ups," according to Yardeni Research President Ed Yardeni.
+Yardeni Research coined the term in 2013, when it predicted a massive market upswing fueled by central bank liquidity. That so-called MAMU ended as the pandemic hit in February 2020.
+A new MAMU began soon after that in March 2020 as the Federal Reserve unleashed another round of monetary stimulus. But it ended in January 2022, when "investors started to conclude that nothing is forever in the stock market," Yardeni wrote in a Sunday blog post.
+"Now that the latest fiscal cliff has been averted, is another MAMU underway led by stocks that are AI frenzy plays? Maybe," he said
+That's as the S&P 500 has jumped 19.7% after bottoming in October, while the Nasdaq 100 is up 29.6% after a December low, he added.
+That rally has been led by eight mega-cap stocks — Alphabet, Amazon, Apple, Meta, Microsoft, Netflix, Nvidia, and Tesla — which soared 58.1% from a January low.
+To varying degrees, most of those companies have a focus in AI, whether creating the computer chips to develop the technology or implementing AI into their existing services.
+And after reaching a combined market cap of $10.7 trillion through Friday's close, those eight stocks alone account for a record 26.6% of the S&P 500, Yardeni noted.
+"Since the start of this year, we have been targeting 4600 on the S&P 500 by the end of this year," he said. "That was and still is a contrary call. We sure hope this bull market doesn't get there too far ahead of schedule. Past MAMUs have always occurred at the end of bull markets, not when they are just starting."

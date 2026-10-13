@@ -1,0 +1,43 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+SOON you may notice something a bit different about other people’s profile pictures on WhatsApp.
+That’s because the popular messaging app is working on a huge new update that will allow you to have an avatar there instead.
+Users will be able to create their own cartoon character avatars.
+These can be used as stickers in chats but also to replace your profile photo.
+It’s pretty much like the avatars we’ve already seen on Facebook.
+Which is no surprise, seeing as they’re both owned by the same company, Meta.
+Read More on The Sun
+Mark Zuckerberg has been integrating similar features across from his various apps for sometime now – which also includes Instagram don’t forget.
+WABetaInfo shared a leaked screenshot of the new avatar update from iOS.
+“As you can see in this screenshot, you can open WhatsApp Settings to quickly discover if the feature is enabled for your WhatsApp account: in case the feature is available for your account, you can start setting up an avatar today,” the site says.
+“After setting up your avatar, you can start sending stickers by using your configuration and you can also choose an avatar to use as a profile photo.”
+Most read in Tech
+This doesn’t mean normal photo profiles will be replaced completely – apparently avatars are completely optional.
+Beta testers have been trying out the new feature.
+As always with early developments, there’s no guarantee WhatsApp will go ahead with it.
+So we’ll have to wait and see until a full public update is made available before getting too excited about avatars coming.
+If you want to try all of the latest WhatsApp features first, follow our guide on how to join the beta below.
+How to get WhatsApp beta
+To download WhatsApp beta for your smartphone you need to go to Google Play on your Android and search for WhatsApp.
+Scroll down the page until you see “Become a Beta Tester”.
+Tap the “I’m In” button and then click “Join” to confirm.
+Now all you have to do is wait for the update to the beta version of the app.
+Read more on WhatsApp
+Joining the WhatsApp beta on iOS for iPhone is more difficult, and has limited capacity.
+Follow Apple’s guide here.
+Latest tips and tricks for social media apps
+Social media apps like Facebook, TikTok and WhatsApp have become vastly popular - but are always hiding new features or leading viral trends. So here are some of the best things to know...
+- How do you go live on TikTok?
+- How to know if someone blocked you on WhatsApp?
+- How do you deactivate your Instagram account?
+- How do you download a Facebook video?
+- How do you get dark mode on Snapchat?
+- How do you delete a Twitter account?
+- What does one tick mean on WhatsApp?
+- What does the Medusa tattoo mean on TikTok?
+- What are Snapchat streaks?
+- How do you change your name on Facebook?
+- How do you change your Instagram password?
+- Who owns Twitter?
+We pay for your stories! Do you have a story for The Sun Online Tech & Science team? Email us at tech@the-sun.co.uk

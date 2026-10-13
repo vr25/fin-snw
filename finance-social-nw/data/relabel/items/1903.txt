@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+This year’s Safer Internet Day (SID) comes amid heightened interest in the development of tailor-made laws to combat social media harms, with Australia’s Online Safety Amendment serving as an example.
+Commemorated globally on the second Tuesday of February, SID was started as an initiative of the EU SafeBorders project in 2004. It is now commemorated in around 150 countries worldwide, including South Africa.
+For this year, the event is themed: “Smart tech, safe choices: Exploring the safe and responsible use of artificial intelligence (AI)”. SID serves to educate children, parents, educators and stakeholders about the risks associated with the online space, with a focus on making the internet a safer and better place for all.
+Spring to action
+In SA, organisations and companies are getting involved this year, with a focus on educational efforts and parental guidance to protect children online.
+The Internet Service Providers’ Association (ISPA) says protecting children from harmful online content, particularly on social media, remains a priority in SA and globally.
+Citing the introduction of Australia’s social media minimum age law, ISPA chairperson Sasha Booth-Beharilal notes that while bans highlight the urgency of addressing online harms, they can introduce challenges.
+“History shows us that bans are blunt instruments, often carrying sharp consequences, from privacy concerns associated with age verification, to minors exploiting easily available workarounds. Australia adopting this approach speaks volumes about the urgency of taking steps in the face of growing evidence of harms relating to social media use,” states Booth-Beharilal.
+On 10 December 2025, Australia implemented a ban preventing minors under 16 from holding accounts on specified platforms − such as TikTok, Instagram, YouTube and Facebook − citing exposure to harmful content, as well as mental health concerns and cyber bullying.
+Even though there are several legal challenges to Australia’s approach that will need to work themselves through the system, says ISPA, governments in France, the UK, Malaysia and New Zealand are also working to introduce similar prohibitions.
+ISPA maintains that parental guidance remains critical. It encourages parents and guardians to use available technical tools, such as content filters and monitoring apps, while also having age-appropriate conversations with children about online risks.
+“This SID, all of us can help others become more resilient against those that would do us harm online,” states Booth-Beharilal.
+The Film and Publication Board (FPB), in partnership with the Mahikeng Local Municipality, hosted a series of awareness-raising activities to commemorate SID.
+The engagements involved learners, law enforcement agencies, community members and digital content creators, focusing on online safety, responsible digital behaviour and child protection.
+As internet access continues to expand across SA, children face increasing exposure to online risks, including harmful and age-inappropriate content, cyber bullying, online grooming, sexual exploitation and the circulation of child sexual abuse material, emphasises the FPB.
+It states that emerging technologies, including generative AI, have further intensified these risks, making public awareness, education and coordinated action more critical than ever.
+“While digital technologies offer immense opportunities for learning, creativity and connection, if not properly managed, they also expose children to serious online harms,” says FPB CEO Norman Gidi.
+“Safer Internet Day serves as a vital platform to raise awareness, empower communities and strengthen digital citizenship to ensure children are protected in the digital space.”
+Meanwhile, search engine giant Google has shared tips that aim to promote online safety.

@@ -1,0 +1,53 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Date
+Las Vegas, Jan 9 (IANS) From smart rings for women that will reveal their health to smart dog collar, several futuristic technologies and next-generation gadgets were exhibited at the Consumer Electronics Show (CES) 2023
+This year, more than 3,200 exhibitors showcased their products at the event attended by over 115,000 people.
+Over 40,000 international attendees from more than 140 countries participated in the annual event that came back in the physical form after two virtual years in the pandemic.
+The companies included Abbott, Amazon, Bosch, BMW, Canon, Delta, Google, Hisense, John Deere, LG Electronics, Microsoft, Qualcomm, Panasonic, Samsung, Sony and Stellantis, among others.
+Here are eight top gadgets and innovations showcased at the world's largest consumer electronics extravaganza.
+1. Evie ring from Movano
+Healthcare solutions company Movano Health revealed its smart ring, Evie, which is designed specifically for women, providing them with their health data such as heart rate and oxygen level.
+'The company plans to file for Food and Drug Administration (FDA) clearance of a new wearable that provides women with medical grade data and personalised actionable insights to track and manage overall health,' Movano Health said in a statement.
+Evie is expected to combine health and wellness metrics to give a full picture of one's health including resting heart rate, heart rate variability, SpO2, respiration rate and skin temperature variability.
+'The smart ring is expected to cost under $300 with no added monthly subscription fees and will be available in 2023,' the company said.
+2. Smart dog collar from Invoxia
+French consumer electronics company Invoxia had unveiled a smart dog collar, which can track the heart activity of a dog, at CES 2023.
+The collar comes with an advanced heart tracking technology on par with human electrocardiograms. It can detect and monitor a dog's breathing and heartbeat using sensors and artificial intelligence (AI) to give a 360-degree picture of the dog's health and well-being.
+The collar will be available in quarter three of 2023 for $149, with data subscriptions starting from $8.25 per month.
+3. i Vision Dee from BMW, a colour-changing car
+Luxury car maker BMW showcased its new concept car, i Vision Dee, which can change colours on demand. It is made up of 240 E Ink e-paper segments, which can be controlled individually.
+'This allows an almost infinite variety of patterns to be generated and varied within seconds,' BMW said in a statement.
+A film coating on the car has tiny microcapsules whose pigments change when electricity is applied. According to the company, this car is unique to the automotive sector, and is developed and programmed by in-house engineers.
+4. Wireless TV from Displace
+An in-home entertainment startup based in the US, Displace, had unveiled the world's first truly wireless TV, which sticks to the wall without a mount, at CES this year.
+The 55-inch TV comes with a 4K display and is powered by a proprietary hot-swappable battery system. It is also transportable and can be easily secured to any surface with no mounting required, using Displace TV's proprietary active-loop vacuum technology.
+'The Active Loop Vacuum technology will reinforce itself ever so often to keep the TV in place,' Balaji Krishnan, CEO of Displace, said in a statement.
+The product will be released in late 2023 at $2,999 per unit, according to the company.
+5. SleepSure from Halo-- Wearable for babies
+Baby-sleep experts Halo showed off a wearable for babies, which can track four measurements in real-time-- heart rate, rollover, skin temperature and movement, at CES 2023.
+The company claimed that 'SleepSure' is the first smart monitor that allows parents to customise alerts to deliver the information they find most helpful through their baby's developmental stages.
+'Our deep expertise in the sleep category has allowed us to really understand parents' everyday struggles when it comes to helping their baby sleep,' said Doug Gillespie, CEO, Halo.
+'SleepSure's skin temperature measurement is designed to directly address this universal pain point and make it easier for parents to understand how to help their baby,' Gillespie added.
+This wearable is developed for babies from 0 to 18 months age and costs around $250.
+6. Aeo from Aeolus Robotics-- A humanoid robot
+Robotics company Aeolus Robotics unveiled a humanoid robot, Aeo, that is meant to help out at schools and hospitals by disinfecting, delivering food and doing basic patrolling.
+Aeo has autonomous navigation and can move around a space and use its manoeuvrable right arm to open doors and ride elevators, while disinfecting surfaces using the ultraviolet (UV) light on its left.
+7. LG Display's autonomous concept car with futuristic displays
+South Korean panel maker LG Display Co showed off futuristic panels at CES 2023, including a clear-as-glass OLED screen, which it said could be commercialised in just a few years.
+LG Display's self-driving concept car is fitted with an 18-inch slidable automotive OLED panel, a 55-inch transparent OLED panel on the side window and the world's largest 57-inch automotive LCD display that covers the full dashboard. Its plastic OLED reduces power consumption and weight, the company said, making it a perfect component for electric vehicles.
+8. Haptic sensors for video gamers
+The video game industry showed off how lifelike gaming can be made with new vests, head cushions and other simulation products.
+Haptics demonstrated its haptic vest which simulates the sense of action taking place in virtual worlds and haptic gloves which provides a feeling of touch, reported the South China Morning Post.
+'People are not just using our vest for getting shot, but they can feel the wind or rain or even bees in virtual reality,' said Kiuk Gwak, CEO, bHaptics.
+Meanwhile, gaming hardware company Razer showed off surround-sound audio and haptics head cushions called Project Carol, which allows 'gamers to feel everything behind them, placing them firmly in the middle of the action.'
+--IANS
+aj/na/vd
+MENAFN09012023000231011071ID1105401219
+MENAFN09012023000231011071ID1105401219
+Legal Disclaimer: MENAFN provides the information âas isâ without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.
+Tags
+Comments
+Category
+Date

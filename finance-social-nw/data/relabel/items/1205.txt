@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Elon Musk is asking a federal court to stop OpenAI from converting into a fully for-profit business.
+Attorneys representing Musk, his AI startup xAI, and former OpenAI board member Shivon Zilis filed for a preliminary injunction against OpenAI on Friday. The injunction would also stop OpenAI from allegedly requiring its investors to refrain from funding competitors, including xAI and others.
+The latest court filings represent an escalation in the legal feud between Musk, OpenAI and its CEO Sam Altman, as well as other long-involved parties and backers including tech investor Reid Hoffman and Microsoft.
+Musk had originally sued OpenAI in March 2024 in a San Francisco state court, before withdrawing that complaint and refiling several months later in federal court. Attorneys for Musk in the federal suit, led by Marc Toberoff in Los Angeles, argued in their complaint that OpenAI has violated federal racketeering, or RICO, laws.
+In mid-November, they expanded their complaint to include allegations that Microsoft and OpenAI had violated antitrust laws when the Chat GPT-maker allegedly asked investors to agree to not invest in rival companies, including Musk’s newest startup, xAI.
+Microsoft declined to comment.
+In their motion for preliminary injunction, attorneys for Musk argue that OpenAI should be prohibited from “benefitting from wrongfully obtained competitively sensitive information or coordination via the Microsoft-OpenAI board interlocks.”
+“Elon’s fourth attempt, which again recycles the same baseless complaints, continues to be utterly without merit,” an OpenAI spokesperson said in a statement.
+OpenAI has emerged as one of the biggest startups in recent years, with ChatGPT becoming a major hit that has helped usher massive corporate enthusiasm over AI and related large language models.
+Since Musk announced xAI’s debut in July 2023, his newer AI business has released its Grok chatbot and is raising up to $6 billion at a $50 billion valuation, in part to buy 100,000 Nvidia chips, CNBC reported earlier this month.
+“Microsoft and OpenAI now seek to cement this dominance by cutting off competitors’ access to investment capital (a group boycott), while continuing to benefit from years’ worth of shared competitively sensitive information during generative AI’s formative years,” the lawyers wrote in the filing.
+The attorneys wrote that the terms OpenAI asked investors to agree to amounted to a “group boycott” that “blocks xAI’s access to essential investment capital.”
+The lawyers later added that OpenAI “cannot lumber about the marketplace as a Frankenstein, stitched together from whichever corporate forms serve the pecuniary interests of Microsoft.”
+In July, Microsoft gave up its observer seat on OpenAI’s board, although CNBC reported that the Federal Trade Commission would continue to monitor the influence of two companies over the AI industry.
+FTC Chair Linda Khan announced at the beginning of the year that the federal agency would initiate a “market inquiry into the investments and partnerships being formed between AI developers and major cloud service providers.” Some of the companies that the FTC mentioned as part of the study included OpenAI, Amazon, Alphabet, Microsoft and Anthropic.
+In the filing, attorneys for Musk also argue that OpenAI should be prohibited from “benefitting from wrongfully obtained competitively sensitive information or coordination via the Microsoft-OpenAI board interlocks.”
+OpenAI originally debuted in 2015 as a non-profit and then in 2019, converted into a so-called capped-profit model, in which the OpenAI non-profit was the governing entity for its for-profit subsidiary. It’s in the process of being converted into a fully for-profit public benefit corporation that could make it more attractive to investors. The restructuring plan would also allow OpenAI to retain its non-profit status as a separate entity, CNBC previously reported.
+Microsoft has invested nearly $14 billion in OpenAI but revealed in October as part of its fiscal first-quarter earnings report that it would record a $1.5 billion loss in the current period largely due to an expected loss from OpenAI.
+In October, OpenAI closed a major funding round that valued the startup at $157 billion. Thrive Capital led the financing while investors, including Microsoft and Nvidia, also participated.
+OpenAI has faced increasing competition from startups such as xAI, Anthropic and tech giants such as Google. The generative AI market is predicted to top $1 trillion in revenue within a decade, and business spending on generative AI surged 500% this year, according to recent data from Menlo Ventures.
+CNBC reached out to attorneys for Musk on Saturday. They did not respond to requests for comment.
+— CNBC’s Hayden Field contributed reporting

@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+NEW YORK (Reuters) -U.S. stocks rallied on Thursday, with the Dow and S&P 500 posting their eighth straight session of gains after strong results from megacaps Microsoft and Meta eased concerns about artificial intelligence spending.
+              Microsoft surged and hit its highest level since late January, driven by an upbeat quarterly growth forecast for its cloud-computing business Azure. Microsoft briefly surpassed Apple to become the world's most valuable company.
+              Meta Platforms rallied and reached a five-week high during the session after posting higher-than-expected revenue on the back of a strong advertising performance.
+              The results helped allay fears the massive spending on AI in recent years would not be rewarded, and eased concerns that President Donald Trump's tariffs could dent economic growth.
+              "It's nice that the day is being carried by earnings rather than just talking about tariffs for a second, so it's a little refreshing in that regard that we're talking about economic data and earnings," said Lamar Villere, Portfolio Manager with Villere & Co in New Orleans.
+              "Certainly when you see a company of Microsoft's size, Meta's size, putting up great earnings, you would believe that their run is not over."
+              According to preliminary data, the S&P 500 gained 33.25 points, or 0.60%, to end at 5,602.31 points, while the Nasdaq Composite gained 254.04 points, or 1.46%, to close at 17,700.38. The Dow Jones Industrial Average rose 70.05 points, or 0.17%, to 40,739.41.
+              Repercussions from frequent shifts in U.S. trade policy have hung over a solid earnings season so far, with many companies slashing or withdrawing their profit outlooks. S&P 500 first-quarter earnings are seen growing 12.9% on an annual basis, per LSEG data, up from the 8% growth rate seen on April 1.
+              Results from fellow heavyweights and "Magnificent Seven" companies Amazon.com and Apple are due after the closing bell. Amazon shares closed with solid gains on the session.
+              Apple shares alternated between modest gains and losses after a federal judge ruled the iPhone maker had violated a U.S. court order to reform its App Store.
+              Eight straight sessions of gains were the longest run for the Dow in a year and the longest for the S&P since August. 
+              With the gains in Microsoft and Meta, tech and communication services led sector gains, up 3.2% and 2.1%, respectively.
+              Economic data on the session painted a mixed picture.
+              Weekly jobless claims, the latest in a string of labor market data this week ahead of Friday's key government payrolls report, showed layoffs increased more than expected last week, potentially hinting at a pick-up in job cuts following tariffs. 
+              ISM PMI data showed U.S. manufacturing contracted further in April, though slightly less than expected by economists polled by Reuters, while input prices were elevated.   
+              That followed Wednesday's data showing the U.S. economy contracted for the first time in three years in the last quarter.
+              Eli Lilly reported quarterly results that topped expectations, but tumbled after CVS Health's  decision to drop Lilly's obesity drug Zepbound from some lists of medicines it covers for reimbursement. The healthcare sector slumped as the worst performer on the session.
+              McDonald's also reported earnings and shares declined to cap gains on the Dow after posting a surprise drop in first-quarter global sales.
+              Mobile chip designer Qualcomm tumbled after it forecast a hit to revenue from the trade war. 
+               (Reporting by Chuck Mikolajczak, addiitonal reporting by Lisa Mattackal and Purvi Agarwal in Bengaluru; Editing by David Gregorio)
+            By Chuck Mikolajczak

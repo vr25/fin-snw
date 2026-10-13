@@ -1,0 +1,39 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+REUTERS
+November 5, 2025 at 17:45 JST
+The Nvidia logo and a Chinese flag are seen in this illustration taken on Aug. 27. (REUTERS)
+The Chinese government has issued guidance requiring new data center projects that have received any state funds to only use domestically-made artificial intelligence chips, two sources familiar with the matter told Reuters.
+In recent weeks, Chinese regulatory authorities have ordered such data centers that are less than 30% complete to remove all installed foreign chips, or cancel plans to purchase them, while projects in a more advanced stage will be decided on a case-by-case basis, the sources said.
+The move could represent one of China’s most aggressive steps yet to eliminate foreign technology from its critical infrastructure amid a pause in trade hostilities between Washington and Beijing and achieve its quest for AI chip self-sufficiency.
+China’s access to advanced AI chips, including those made by Nvidia, has been a key point of friction with the U.S., as the two wrestle for dominance in high-end computing power and AI.
+U.S. President Donald Trump said in an interview aired on Sunday following talks with Chinese President Xi Jinping last week that Washington will “let them deal with Nvidia but not in terms of the most advanced” chips.
+The latest move by Beijing, however, would dash Nvidia’s hopes of regaining Chinese market share, while giving local rivals, including Huawei, yet another opportunity to secure more chip sales.
+It is unclear whether the guidance applies nationwide or only to certain provinces, sources said. The sources did not identify which Chinese regulatory bodies had issued the order. They declined to be named due to the sensitivity of the matter.
+Besides Nvidia, other foreign chipmakers that sell data center chips to China include AMD and Intel.
+The Cyberspace Administration of China and the National Development and Reform Commission, two of Beijing’s most powerful regulators, did not respond to requests for comment. Nvidia and AMD did not respond, while Intel declined to comment.
+NVIDIA THE BIGGEST CASUALTY
+AI data center projects in China have drawn over $100 billion in state funding since 2021, according to a Reuters review of government tenders. Most data centers in China have received some form of state funding to aid their construction, but it is not immediately clear how many projects are subject to the new guidance.
+Some projects have already been suspended before breaking ground as a result of the directive, including a facility in a northwestern province that had planned to deploy Nvidia chips, one of the sources said.
+The project, being developed by a private technology company that received state funding, has been put on hold, the source said.
+Beijing has long been irked by Washington’s export controls aimed at impeding China’s tech progress and has taken a series of measures, including retaliatory moves, to wean itself off U.S. technology.
+The U.S. has justified its restrictions by alleging the Chinese military would use the chips to increase its capabilities.
+China discouraged local tech giants from purchasing advanced Nvidia chips over security concerns this year, while showing off a new data center powered solely by domestic AI chips.
+And in 2023, Beijing banned the use of Micron’s products in its critical infrastructure, which paved the way for a decision this year by the largest U.S. memory chipmaker to exit the server chip market in China, Reuters reported last month.
+Nvidia CEO Jensen Huang has repeatedly lobbied Trump and his cabinet to allow the sale of more AI chips to China, arguing that keeping its superpower rival’s AI industry dependent on U.S. hardware was good for America’s interests.
+Its current share of the Chinese AI chip market is zero, compared to 95% in 2022, according to the company.
+Excluding foreign chipmakers like Nvidia from big state projects would eliminate a significant portion of their China revenue, even as a deal is agreed to allow the resumption of advanced chip sales to China.
+The new guidance on data centers covers Nvidia’s H20 chips, the most advanced AI chip the U.S. firm is allowed to sell to China, but also more powerful processors such as the B200 and H200, the sources said.
+While the B200 and H200 are barred from being shipped to China by U.S. export controls, they remain widely available in China through grey-market channels.
+BOON AND RISKS FOR DOMESTIC FIRMS
+With the latest directive, the Chinese government is carving out even more market share for domestic chipmakers. China has a range of AI chip companies, from the most prominent, Huawei Technologies, to smaller players such as Shanghai-listed Cambricon and startups including MetaX, Moore Threads, and Enflame.
+Products from these Chinese companies already rival some of Nvidia’s offerings, but they have struggled to crack the market. Developers used to Nvidia’s reliable software ecosystem have been reluctant to adopt domestic alternatives.
+While the move would help boost sales of domestically developed chips, it also risks widening the U.S.-China gap in AI computing power.
+U.S. tech giants like Microsoft, Meta, and OpenAI have spent or allocated hundreds of billions of dollars to build data centers powered by Nvidia’s most advanced chips.
+Meanwhile, leading Chinese chip manufacturers like SMIC are facing supply constraints due to U.S. sanctions on semiconductor manufacturing equipment that have hit advanced chip production capacity.
+A peek through the music industry’s curtain at the producers who harnessed social media to help their idols go global.
+A series based on diplomatic documents declassified by Japan’s Foreign Ministry
+Here is a collection of first-hand accounts by “hibakusha” atomic bomb survivors.
+Cooking experts, chefs and others involved in the field of food introduce their special recipes intertwined with their paths in life.
+A series about Japanese-Americans and their memories of World War II

@@ -1,0 +1,20 @@
+{"id": "1000", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Daily Market Reports | Jul", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1001", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1002", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "1003", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1004", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1005", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1006", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft's artificial-intelligence ambitions are", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1007", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "VANCOUVER – USA News Group", "relation": "causal-driver", "sentiment_alignment": -1}
+{"id": "1008", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Former President Donald Trump", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1009", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Kristin Bride lost her 16-year-old", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "1010", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Funeral professionals across the country", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1011", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "All that and we're still", "relation": "unrelated-mention", "sentiment_alignment": 1}
+{"id": "1012", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "All that and we're still", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "1013", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "All that and we're still", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1014", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A judge on Monday ruled", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "1015", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia's Next-Generation AI Chip", "relation": "causal-driver", "sentiment_alignment": 0}
+{"id": "1016", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Skip to content TOP HEADLINES", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1017", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Skip to content TOP HEADLINES", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1018", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Skip to content TOP HEADLINES", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1019", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "Microsoft (NASDAQ: MSFT) was founded", "relation": "causal-driver", "sentiment_alignment": 1}

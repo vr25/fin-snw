@@ -1,0 +1,60 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Turing AGI Icons: AI Leaders And Ceos, Adam D'angelo And Jonathan Siddharth Discuss Rapid AGI Advancements
+PALO ALTO, Calif., July 26, 2024 /PRNewswire/ -- Turing , the world's fastest-growing AI-powered tech services company, hosted the second installment in its AGI Icons thought-leadership series on July 24 at SHACK15, San Francisco's exclusive hub for entrepreneurs and tech innovators. As the centerpiece of the event, Turing Chief Executive Officer and Co-founder, Jonathan Siddharth joined Quora Chief Executive Officer, Adam D'Angelo for a deep discussion on the future of artificial general intelligence (AGI) and the critical role of human knowledge in its ongoing development. The informative and thought-provoking fireside chat, moderated by Anita Ramasway, financial analysis columnist at The Information, provided a roadmap for future AI advancements and highlighted insights for building responsible AGI.
+Continue Reading
+Fireside chat with Anita Ramaswamy (The Information), Adam D'Angelo (Quora), and Jonathan Siddharth (Turing)
+The road to AGI is complex, and Turing AGI Icons offers a unique opportunity to connect with the people driving rapid innovation and advancements. By bringing together global leaders in AI and understanding the iterative improvements of AGI development, more people and businesses can responsibly adopt this evolving technology. The Turing AGI Icons series has launched alongside the company's rise as the leading resource for LLM training services and generative AI solutions
+"Our Turing AGI Icons series brings together visionary leaders who are shaping the future of AGI and its impact on society," shared Jonathan Siddharth, Turing's CEO and Co-founder. "We were delighted to have Adam D'Angelo join us for this event. His insights on integrating human knowledge with AI are invaluable in our mission to accelerate AGI advancement and deployment."
+D'Angelo, who launched Poe-a platform connecting users with diverse intelligent chatbots-shared his unique perspective on AI assistants and their potential in advanced reasoning, problem-solving, coding, and perhaps even making tasks more enjoyable. He also discussed the future of AGI, including where the most value will be created and advice for those building AGI models and products.
+Key insights and takeaways from Turing's second AGI Icons event:
+  
+1. Defining
+AGI and its progression from narrow AI  
+-  
+  D'Angelo defined the concept of AGI as, "software that can do everything a human can do." He envisions a future where AI improves itself, eventually taking over complex human-tasks handled by machine learning researchers.
+Siddharth views AGI as an "artificial brain" capable of diverse tasks like "machine translation, complex queries, and coding". He adds, "That's the distinction between AGI and more predictive AI and narrow forms of ML that came before it. It feels like emergent behavior."
+  
+2. AGI promises revenue and productivity improvements for knowledge workers  
+-  
+  Siddharth emphasized the broader impact of AGI, "This era of AI is closer to biology than physics. All types of knowledge work will improve. There's going to be so much more productivity unlocked from this human population that we have."  
+  Siddharth speaks from experience, sharing a 10-fold personal productivity increase when using AI tools. He also added, "At Turing, we've rolled out copilots that saw a 33% lift in developer productivity," hinting at even more significant potential.  
+  D'Angelo predicts that AGI will shift human roles rather than eliminate them, leading to faster economic growth. "As this technology gets more powerful, we'll get to a point where 90% of what people are doing today is automated, but everyone will have shifted into other things." He noted, "Right now, much of the world economy is constrained by the number of people. Once we have AI at the [AGI] level, we can grow the economy much faster."
+  
+3. We're entering the golden era of software development
+  
+-  
+  One of the most promising applications of AGI lies in software development. "We're entering a golden era where one software engineer can be ten times more productive, create more, and the world will benefit more," Siddarth shared.  
+  He added, "Software engineering, marketing, finance, and product management will see significant boosts from AI, giving humans leverage across different industries like healthcare, life sciences, retail, etc."  
+  But D'Angelo cautions that large language models (LLMs) and AGI won't write all the code. Understanding software fundamentals remains crucial, just as calculators didn't eliminate the need to learn arithmetic. "Developers become more valuable when using these models. The presence of LLMs is a positive for developer jobs and there's going to be a lot of gains for developers."
+  
+4. AGI requires robust frameworks to balance innovation with public safety  
+-  
+  "We must address AGI challenges head-on by focusing on capabilities over processes, generality and performance, and potential rather than deployment," shared Siddharth  
+  Siddharth highlighted that the bottleneck for AGI progress is now human intelligence rather than computing power or data. Human expertise is crucial for fine-tuning and customizing AI models, which is why Turing focuses on sourcing and matching top-tier tech professionals to balance models with human intelligence.
+  
+5. Building in the era of
+AGI: Advice for AI leaders  
+-  
+  As AI research accelerates, the focus remains on balancing ambition with realistic expectations.
+Siddharth and D'Angelo stressed improving human-AGI interactions by learning how to use AI models effectively, understanding the fundamentals, and viewing them as learning devices rather than workforce replacements. Siddharth envisions everyone becoming a power user of LLMs, believing that LLMs can make complex information accessible to all, enhancing productivity across various fields. He outlined a phased approach: starting with AI copilots assisting humans, then moving to agents with human supervision, and eventually achieving fully autonomous agents in well-evaluated tasks.
+At the conclusion of the fireside chat, Siddharth announced the expansion of Turing's service offerings that align with the future of AGI advancements. These include:
+Multimodality
+- Enhancing AI models' abilities to handle different types of data and interactions with right-fit tools STEM Domain Knowledge
+- Applying advanced science, technology, engineering, and mathematical knowledge to improve model performance in scientific and technical domains Industry Domain Knowledge - Utilizing PhD-level experts in specific industries to create contextually relevant and effective AI solutions
+Siddharth continued, "As we explore AGI's possibilities, it's crucial to stay informed and committed to responsible development. By focusing on capabilities, performance, and ethical considerations, we can ensure AGI's benefits are realized while mitigating potential risks."
+  About Turing  
+Based in Palo Alto, California, Turing is the world's fastest growing AI-powered tech services company. The company provides expert model training, post-training services, and specialized AI applications and solutions to effectively improve and deploy AGI-led by the AI technology experts behind Silicon Valley's most successful companies.
+Founded in 2018, the company has experienced tremendous growth with over three million technical professionals in its talent network and 1,000+ clients, including the world's leading AI labs and Fortune 500 Companies. Turing has received numerous awards, including Forbes's "One of America's Best Startup Employers," #1 on The Information's annual list of "Most Promising B2B Companies," and Fast Company's annual list of the "World's Most Innovative Companies." Turing's most recent private fundraising round was oversubscribed and valued the company at $1.1 billion. Subsequent oversubscribed SAFEs were completed on a $4 billion valuation cap. Turing's leadership team seamlessly integrates AI technologists from industry giants like Meta, Google, Microsoft, Apple, Amazon, Twitter, Stanford, Caltech, and MIT with seasoned tech consulting veterans from Accenture, Cognizant, Capgemini, McKinsey, Bain, and others to harness unparalleled strength and deliver maximum value. For more information on Turing, visit . For information on upcoming Turing AGI Icons events, visit href="" rel="nofollow" turing/agi-icon .
+  Media Contact:
+  John OrdonÌa
+[email protected] 
+SOURCE Turing
+ Legal Disclaimer:
+ MENAFN provides the
+              information âas isâ without warranty of any kind. We do not accept any
+              responsibility or liability for the accuracy, content, images, videos,
+              licenses, completeness, legality, or reliability of the information
+              contained in this article. If you have any complaints or copyright issues
+              related to this article, kindly contact the provider above.

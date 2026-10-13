@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has started blocking news articles for some people in California, the company announced on Friday.
+Stories from California-based news organizations will not be available for an unspecified number of state residents who use Google to search the web, in a show of its might as Google attempts to quash a state proposal it has been fighting for years.
+It is an approach Google has deployed before in the face of laws forcing the company to pay for journalism. Critics of the tech giant's hardball tactics have compared it to blackmail.
+In California, the pending law in question would force tech companies like Google and Meta to pay publishers for news content.
+Supporters say it would offer a lifeline to California's news organizations, which have long been shedding jobs.
+But Google has been resisting the bill, arguing that being subject to what it calls "a link tax" for connecting California residents with news articles is "unworkable."
+In its blog post, Google executive Jaffer Zaidi said the pending legislation, the California Journalism Preservation Act, is the wrong approach to supporting journalism.
+"If passed, CJPA may result in significant changes to the services we can offer Californians and the traffic we can provide to California publishers," Zaidi wrote.
+According to Zaidi, the blackout of California news articles is in anticipation of the bill passing. He said the move was temporary and would affect "a small percentage of California users."
+In 2023, Google made $307 billion, mostly through digital advertising.
+Google and Meta have developed something of a playbook in response to efforts requiring tech giants to financially support the ailing news industry.
+A spokesperson for Meta did not reply to questions about whether it too would begin restricting California news. Previously, Meta had promised to do so.
+In Canada, Google threatened to pull all news links in the country after the passage of a law that made the company compensate media outlets for content. But Google hammered out a deal with government officials there before ever yanking news articles. Meta, meanwhile, continues to block news articles in Canada on Instagram and Facebook.
+Canada's law was patterned after similar legislation in Australia, where Meta also blocked news stories before tense negotiations led Meta and Google to eventually strike deals with news publishers.
+Under the California measure, Google and Meta would have to pay news outlets for selling advertising against news links.
+Democratic Assemblymember Buffy Wicks, who sponsored the bill, said at least 100 news organizations in the state have closed in the past decade.
+"This is a bill about basic fairness — it's about ensuring platforms pay for the content they repurpose," Wicks said in a statement.
+Wicks argues the bill would infuse California's news industry with much-needed support in a moment in which publishers have seen subscriptions and advertising revenue precipitously decline.
+Nationwide, more than 20,000 media jobs were slashed last year alone, according to the firm Challenger, Gray and Christmas, which tracks employment figures. It was the highest figure since since 2020, when news outlets laid off some 30,000 workers during the pandemic.
+At least 70% of digital advertising revenue has been collected by Google and Meta, according to Insider Intelligence.
+The Department of Justice has sued Google over its grip on digital advertising, with federal officials alleging it amassed such power by violating U.S. competition laws.
+In California, advocates of the bill say Silicon Valley has a responsibility to pay news publishers for the astronomical profits it has reaped from serving people news articles.
+Yet Big Tech companies have not been the only ones critical of the push. Other skeptics said if a fee for displaying links were applied to the rest of internet, it would break "the open web" by making information less accessible.
+In a post on X, formerly Twitter, Christina Warren, an outspoken advocate for software engineers, called payments for hyperlinks "obscene," since they are "antithetical to the open web and everything it stands for."
+Nonetheless, advocates of the bill, which was also introduced last year but did not gain traction, are hoping it advances and reaches Gov. Gavin Newsom, who has not yet weighed in the legislation.
+"For more than a decade, tech giants built the world's most valuable companies off the backs of journalists while siphoning off revenue from news publishers by creating digital advertising monopolies," wrote Courtney Radsch, who leads the Center for Journalism and Liberty at the Open Markets Institute.
+She said the legislation "is not just legislation for the media industry; it is a crucial step toward preserving the public interest in California."
+Copyright 2024 NPR. To see more, visit https://www.npr.org.

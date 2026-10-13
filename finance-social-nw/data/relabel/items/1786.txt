@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Both Microsoft (MSFT +3.66%) and Alphabet (GOOGL +0.46%) (GOOG +0.61%) continue to grow as they solidify their positions in the artificial intelligence (AI) industry. Amid a recent surge, Alphabet's market cap has reached almost $3.9 trillion, while Microsoft's has pulled back slightly to $3.6 trillion.
+What's unusual is that the Google parent was substantially smaller than the software giant until recently, when Alphabet pulled ahead. Considering that surge by Alphabet, is it the better investment among multitrillion-dollar companies in the AI realm, or should investors stick with Microsoft?
+The case for Microsoft
+Microsoft has long been a leading cloud company, but it stood out in the AI race because early on it took what is now a 27% ownership stake in OpenAI. Thus, upon the release of GPT-4, that partnership appeared to put Microsoft stock in a strong position as the frenzy around generative AI began to take hold.
+To this end, it has developed its own AI engine, called Copilot, which stands out within Microsoft's ecosystem. Still, Microsoft has likely drawn the most investor attention from its partnerships. Despite its OpenAI stake, both companies are free to partner with other AI companies. More recently, Microsoft made an agreement with Anthropic to scale Claude AI on Azure servers powered with Nvidia chips.
+Microsoft can also afford such investments. Over the last 12 months, it generated almost $78 billion in free cash flow, and that does not include the $69 billion in capital expenditures (capex) invested over that time.
+NASDAQ: MSFT
+Key Data Points
+Moreover, with the earlier ties to OpenAI, Microsoft rose significantly in prior years, so year-to-date gains have slowed to about 14%. It also trades at a P/E ratio of 34, though it is not far above the S&P 500 average of 31. Ultimately, given its continued progress in AI, that slightly above-average valuation is unlikely to stop the steady rise of Microsoft stock.
+Why investors might choose Alphabet
+After ChatGPT came on the scene, investors began to question whether Alphabet's Google Search engine was on the way to obsolescence. Its AI-enabled queries bypassed the ads that have long been the source of most of Alphabet's income.
+However, Alphabet launched Google Gemini to compete with ChatGPT. At first, it seemed like just another AI engine, but over the last few months, it has emerged as the site of choice for real-time information, video generation, and unstructured prompts thanks to the improvements in Gemini 3.
+Additionally, even amid the skepticism, Alphabet's revenue grew, and it continued to generate massive free cash flows. This has funded Gemini's improvements, along with its other AI-related businesses, such as Google Cloud and the autonomous driving platform Waymo.
+Furthermore, investors should expect continued improvements as the company plans to spend $91 billion to $93 billion on capex this year alone. Despite that spending, its free cash flow was just under $74 billion over the last 12 months, an indication it can afford these massive outlays.
+NASDAQ: GOOGL
+Key Data Points
+Also, despite gaining around 70% so far this year, Alphabet stock trades at a 32 P/E ratio, close to the S&P 500 average. When one also factors in the increasing strength of its AI-related businesses, such conditions could make the Google parent an attractive choice.
+Microsoft or Alphabet?
+Both stocks have shown they are industry leaders in AI, and thus, it is likely that both stocks will continue moving higher. However, if you're choosing between the two, Alphabet likely holds the edge.
+Indeed, investors should commend Microsoft for its early moves in AI and its ability to make itself essential to more than one major AI engine.
+Still, both the stock price and valuation seem to already reflect that growth. Conversely, Alphabet investors may still benefit from a delayed reaction to the Google parent's AI.
+Alphabet has spent more than Microsoft on capex, and it has overcome perceptions that AI was passing it by. When also considering its slightly lower valuation, Alphabet should remain in a stronger position to drive higher returns over time.

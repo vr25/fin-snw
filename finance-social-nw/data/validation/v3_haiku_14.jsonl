@@ -1,0 +1,12 @@
+{"id": "1966", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The home of the world's", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1717", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI and Amazon.com Inc", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "1414", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Technology and Social Networks", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1593", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "NEW YORK, Sept. 4", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0960", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Photo: Nvidia CEO Jensen", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "2075", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Indian-American exec Deedy Das", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0477", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SAN FRANCISCO — Netflix on", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1099", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "While there's no denying", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "2094", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ANI 29 May 2026,", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0728", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Southern Living Names Louisiana", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0456", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Entrepreneurs have changed the", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1745", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "For many investors, earnings", "relation": "causal-driver", "sentiment_alignment": -0.3}

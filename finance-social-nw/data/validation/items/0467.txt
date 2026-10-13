@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Three-year memorandum of understanding – which has supported hundreds of millions of pounds of spending – is due to end next month, but PublicTechnology understands government is seeking to renew commercial arrangement
+PublicTechnology understands that government is hoping to renew its three-year memorandum of understanding with Amazon Web Services – which has supported hundreds of millions of pounds of spending since being introduced in 2020.
+The One Government Value Agreement (OGVA) between the tech firm and the Crown Commercial Service was first announced in November 2020 and was one of a series of similar arrangements with a range of cloud vendors. Each of the memoranda – which, alongside AWS, also included agreements with IBM, Microsoft, Oracle, Google, HPE and the now-defunct UKCloud – was intended to offer public sector buyers standardised discounts and other benefits by, effectively, treating them as a single customer.
+The OGVA – which, as exclusively revealed by PublicTechnology, offers a baseline discount on hosting services of 18% – was used far more than all the other arrangements put together. Spending via the Amazon agreement has totalled hundreds of millions of pounds. In the weeks and months immediately following the introduction of the OGVA, many government departments replaced existing deals with AWS with new contracts signed under the approved terms offered by the MoU.
+Related content
+- CCS signs £900k deal to help move services from decommissioned government hosting platform into AWS
+- Home Office keeps 250 sets of applications in AWS or Azure
+- Government agrees cross-public sector deal with Google Cloud
+Spending across just eight of the very largest of these deals – including HM Revenue and Customs, the Home Office, Ministry of Justice, and Department for Work and Pensions – totalled £313.14m. Based on the terms of the OGVA his equates to cumulative savings of almost £70m when compared with full price.
+With just a few weeks left until the initial three-year term of the memorandum expires – and with many large government departments approaching the renewal date for deals signed in the wake of its introduction – PublicTechnology asked CCS and AWS what the future might hold, and whether the two parties were seeking to, effectively, extend the arrangement.
+Although precise details are not yet available, the procurement agency confirmed that it is hoping to renew the MoU and indicated that it will publish more information on the agreement in due course.
+AWS declined to comment.
+With departments’ use of cloud already totalling hundreds of millions of pounds per year and still increasing significantly, a renewal would surely be welcomed by procurement teams across Whitehall – and the Treasury.
+Although public sector customers of Amazon can choose to sign deals under the terms of various discount schemes offered by the vendor, the savings offered by the OGVA are likely to comfortably outstrip other programmes.
+For example, in 2021 the Government Digital Service awarded a two-year deal with AWS – one year short of the 36-month term required by the OGVA – under the terms of the vendor’s UK Volume Commitment Programme. This £12m contract offered a discount of 11% – a figure which can almost be doubled under the MoU, which enables savings of 20% on cloud-hosting services for customers that pay upfront and in full. The agreement also offers savings of 15% on professional services.

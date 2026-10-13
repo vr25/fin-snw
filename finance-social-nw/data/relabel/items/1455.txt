@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+(Reuters) -The U.S. Justice Department is probing whether Alphabet's Google violated antitrust law in its agreement with Character.AI that allows the tech giant to use the AI startup's technology, Bloomberg Law reported on Thursday.
+Antitrust enforcers have recently told Google they are examining whether the company structured the agreement with Character.AI to avoid formal government merger scrutiny, the report said, citing people with knowledge of the matter.
+Google last year signed a licensing deal with Character.AI that granted the search engine giant a non-exclusive license to the chatbot maker's large language model technology.
+The company also hired Character.AI co-founders Noam Shazeer and Daniel De Freitas, both former Google employees.
+"We're always happy to answer any questions from regulators," a Google spokesperson said. "We're excited that talent from Character.AI joined the company but we have no ownership stake and they remain a separate company."
+Character.AI did not immediately respond to a Reuters request for comment, while the DOJ declined to comment.
+The DOJ can scrutinize whether the deal itself is anti-competitive even if it did not require a formal review, the report said, adding the antitrust probe was in the early stages and may not lead to an enforcement action.
+Other tech giants have struck similar deals in the past year in their push for growth in the heated generative AI race.
+Microsoft struck a $650 million deal with Inflection AI in March 2024, to use the AI startup's models and hire its staff, while Amazon hired AI firm Adept's co-founders and some of its team last June. Both deals had drawn regulatory scrutiny.
+Google is already under pressure from regulators, with the DOJ seeking to break up the company's dominance in the online search market and in digital advertising technology in two separate cases.
+Earlier this month, the U.S. Federal Trade Commission backed the DOJ's proposal to make Google share search data with competitors.
+(Reporting by Deborah Sophia in Bengaluru; Editing by Pooja Desai, Sriraj Kalluvila and Devika Syamnath)

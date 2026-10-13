@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta has failed to disclose what it knows about the harmful effect of its platforms on children in violation of New Mexico’s consumer protection laws, a state prosecutor said Monday as a trial began over the dangers of child sexual exploitation on social media.
+It’s the first stand-alone trial from state prosecutors in a stream of lawsuits against major social media companies, including Meta, over harm to children, and one that is likely to highlight explicit online content and its effects.
+Related: Instagram, YouTube Addiction Trial Kicks Off in Los Angeles
+In his opening statement, prosecution attorney Donald Migliori said Meta, which owns Facebook, Instagram and WhatsApp, has misrepresented the safety of its platforms, engineering its algorithms to keep young people online while knowing that children are at risk of sexual exploitation on social media.
+Migliori said state prosecutors will present evidence that Meta CEO Mark Zuckerberg and Adam Mosseri, the head of Instagram, have emphasized profits over safety.
+“Meta clearly knew that youth safety was not its corporate priority … that youth safety was less important than growth and engagement,” Migliori told the jury.
+Related: Move to Ban Social Media for Kids Gains Traction Across Europe
+Meta attorney Kevin Huff pushed back on those assertions in his opening statement, highlighting an array of efforts by the company to weed out harmful content from its platforms while warning users that some dangerous content still gets past its safety net. He repeated the refrain that “Meta disclosed, it didn’t deceive.”
+“The state cannot win this case by showing there is bad content on Facebook and Instagram,” he told the jury. You must “instead focus on whether Meta disclosed risks to user. … And the evidence will show that Meta did disclose that.”
+More than 40 state attorneys general have filed lawsuits against Meta, claiming it is deliberately designing features that addict children to its platforms and failed to protect children and their mental health. Most filed their lawsuits in federal court.
+Also Monday, trial began in a separate case in California accusing Meta and Google of deliberately making their social media platforms addictive.
+State Says Zuckerberg And Others Understood The Risks
+It’s unclear whether Zuckerberg will testify. New Mexico limits the ability to compel out-of-state witnesses to testify in person. Prosecutors on Monday did preview a video deposition of Zuckerberg that might figure prominently in the trial.
+Other current and former Meta employees are expected to testify that the company has misrepresented what it knows about the effects its platforms have on teenagers and preteens. The state’s witness list includes Arturo Béjar, an engineering director at Facebook from 2009 to 2015, who testified to Congress about his daughter confronting harassment on Instagram.
+Prosecutors say they’ll present evidence that Meta knew that some 500,000 inappropriate interactions with children take place daily on its platforms, and that the company doesn’t adequately track those interactions.
+Lawsuits Across The Country
+In California, opening statements began Monday in a separate case against Meta and Google’s YouTube alleging their platforms are deliberately addictive and harm children.
+The outcome there and in New Mexico could challenge the companies’ First Amendment shield and Section 230 of the 1996 Communications Decency Act, which protects tech companies from liability for material posted on their platforms.
+A team led by New Mexico Attorney General Raúl Torrez, who sued Meta in 2023, built their case by posing as children on social media, then documenting sexual solicitations as well as Meta’s response.
+Torrez — a Democrat seeking reelection this year to a second term — wants Meta to implement more effective age verification and do more to remove bad actors from its platform.
+He also is seeking changes to algorithms that can serve up harmful material, and has criticized end-to-end privacy encryption that can prevent the monitoring of communications with children for safety. Meta has noted that encrypted messaging is encouraged in general as a privacy and security measure by some state and federal authorities.
+Meta Says Investigation Is ‘Ethically Compromised’
+Meta says prosecutors are cherry-picking evidence to make sensationalist arguments. Meta spokesperson Andy Stone posted online Sunday that the state’s investigation is “ethically compromised” by its use of child photos on proxy accounts, delays by prosecutors in reporting child sexual abuse material and the disposal of data from devices used in the investigation.
+“The evidence will show that the state rigged this investigation to get a fake result,” Huff told the jury Monday. “We think you will reject the reliability and fairness of the state’s fake-account investigation.”
+Was this article valuable?
+Here are more articles you may enjoy.

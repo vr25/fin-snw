@@ -1,0 +1,61 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+The Nasdaq Composite has been gaining ground for more than two years now. Its rise was driven by the dawn of artificial intelligence (AI), a U.S. Presidential election, declining inflation, and the beginning of long-awaited interest-rate cuts. After jumping 43% in 2023, the tech-focused index has gained 33% in 2024, as of this writing.
+Yet history suggests the market likely has further to climb. Going back to 1972 -- the first full year in which the Nasdaq traded -- in each year following gains of 30% or more, the tech-centric index has climbed 19%, on average, which suggests the rally could continue well into 2025.
+Recent advances in AI get at least part of the credit for investors' bullish sentiment. The economic impact of generative AI is expected to be as much as $15.7 trillion by 2030, according to Big Four accounting firm Price Waterhouse Coopers. This could result in a veritable profit windfall for the leading players in the field.
+Here are my top 10 AI stocks to buy for 2025 before the Nasdaq climbs to new heights.
+1. Nvidia
+No conversation about AI would be complete without a nod to Nvidia (NVDA +0.22%), which quickly cornered the market for AI processing. Its graphics processing units (GPUs) were already the gold standard for gaming, cloud computing, data centers, and machine learning, but it was the rapid adoption of generative AI that really sent the company's stock soaring.
+Even after two years, Nvidia is still scrambling to keep up with the demand -- which shows no signs of easing. The launch of the company's next-generation Blackwell processors is imminent, and CEO Jensen Huang said demand is "insane." The company has pivoted to a one-year product-release cadence, showcasing its relentless pace of innovation.
+After five consecutive quarters of triple-digit year-over-year growth, Nvidia is facing tougher comps, but Wall Street is still predicting 50% growth next year. Despite the vast opportunity, the company's stock remains attractively priced, selling for just 31x next year's expected earnings.
+2. Palantir
+With more than 20 years of AI experience under its belt, Palantir Technologies (PLTR -1.52%) was prepared when generative AI went viral. The fruit of its labor is its Artificial Intelligence Platform (AIP), which hit the ground running. The company offers boot camps that pair customers with Palantir engineers to get their AI efforts up and running quickly, and deal conversions following these boot camps have taken off.
+The company's U.S. commercial segment -- which includes AIP -- grew 54% year over year and 13% sequentially, fueling a 73% increase in its remaining deal value (similar to backlog). At the same time, the segment's customer count jumped 77%.
+All in all, Palantir closed 104 deals worth at least $1 million. Of those, 36 were worth more than $5 million, and 16 clocked in at $10 million or more. The company noted multiple instances of "seven-figure deals" signed within weeks of boot-camp attendance.
+Given the magnitude of the opportunity, Palantir remains reasonably priced, with a forward price/earnings-to-growth (PEG) ratio of 0.65, when any number less than 1 suggests an undervalued stock.
+3. Microsoft
+Microsoft (MSFT +3.66%) gets at least partial credit for sparking the AI revolution. Its investment in ChatGPT creator OpenAI and its subsequent integration shined a spotlight on generative AI -- and the race was on.
+Its flagship AI offering is its productivity-enhancing suite of AI assistants, dubbed Copilot, which could generate as much as $100 billion in incremental revenue by 2027, according to some on Wall Street. Microsoft's Azure Cloud is already reaping the rewards of its AI strategy, generating 30% growth in its fiscal 2024 (ended June 30), outpacing that of its rivals.
+The company just released tools to track return on investment (ROI) in AI spending and is working to bring down the cost of adopting AI, removing two key hurdles. Microsoft is also working to develop AI agents that would focus on mission-critical issues.
+NASDAQ: MSFT
+Key Data Points
+The stock is selling for 33 times forward earnings, which is a slight premium, compared to the price-to-earnings (P/E) ratio of 31 for the S&P 500. That's a reasonable price, given Microsoft's growth potential.
+4. Broadcom
+Broadcom (AVGO +0.70%) supplies a wide variety of chips and accessories that are critical components in data center infrastructure and the overall internet ecosystem. That put the company in the hot seat when AI caught on, as most AI processing takes place in data centers.
+In its recently completed quarter, Broadcom delivered results that beat expectations, but the headliner was its long-range guidance. Management is calling for AI revenue to grow by 500% at the midpoint of its guidance by 2027. Additionally, Broadcom just added two new hyperscale customers -- not included in its forecast -- to develop custom AI accelerators, so its guidance could well be conservative.
+Despite its accelerating growth, Broadcom is attractively priced, with a PEG ratio of 0.09, when any number less than 1 suggests an undervalued stock.
+5. Arm Holdings
+While Arm Holdings (ARM +1.30%) may not have the name recognition of some other AI stocks, its contribution is no less crucial. The company licenses the blueprints for the "cores" that make up a broad cross section of CPUs and GPUs that are fundamental to AI processing. The company notes it's responsible for a "significant proportion of all chips with embedded processors."
+Take Nvidia's GH200 Grace Hopper Superchip, for example. It uses 144 Arm version 9 (V9) CPU cores. The V9 provides greater computing power at twice the royalty rate of its predecessor.
+Estimates suggest Nvidia will sell roughly 4 million GPUs this year -- and that's just one of Arm's many customers. This helps illustrate the magnitude of the opportunity.
+Arm is also reasonably priced, with a PEG ratio of 0.87.
+6. Taiwan Semiconductor Manufacturing
+Taiwan Semiconductor Manufacturing (TSM -0.12%), commonly called TSMC, is the "world's largest and best semiconductor foundry," according to the company, which illustrates why it's a key player in the adoption of AI. In fact, Nvidia, Arm, and Broadcom are all customers.
+Management expects revenue from AI processors to triple this year, accounting for roughly 15% of revenue. To meet the surging demand, TSMC is building three semiconductor fabrication facilities, which will bring greater economies of scale.
+The first facility will begin volume production beginning early next year. The company goes on to note that "almost every AI innovator" is working with them, which represents a sizable opportunity.
+At just 28x next year's earnings, TSMC stock is attractively priced.
+7. Alphabet
+Alphabet (GOOGL +0.46%) (GOOG +0.61%) was among the early adopters of AI, deploying these sophisticated algorithms to improve the relevance of both its search results and the resulting digital advertising. The company was also fast off the mark to leverage generative AI and offer these breakthroughs to its Google Cloud customers.
+Just this month, Alphabet introduced Gemini 2.0, a large language model (LLM) enabling the next generation of AI agents:
+- Jules helps developers with coding.
+- Mariner interacts with web browsers to type, scroll, and click to accomplish complex tasks.
+- Astra is designed as a universal agent, interacting with Search, Lens, and Maps.
+The biggest opportunity is the increasing demand for the company's Google Cloud, one of the fastest-growing cloud infrastructure providers. Its Vertex AI provides access to 160 foundational models that help users get up and running with AI quickly.
+At 25x earnings, Alphabet is arguably the most reasonably priced of all the major AI players.
+8. Amazon
+Until recently, Amazon (AMZN +0.12%) has largely been the Rodney Dangerfield of AI -- not getting any respect. But that perception is beginning to change. The company has a long track record of using AI to make its operations more efficient, but its generative AI strategy is coming into view.
+NASDAQ: AMZN
+Key Data Points
+CEO Andy Jassy recently revealed, "In the past 18 months, Amazon Web Services (AWS) has released nearly twice as many machine learning and generative AI features as the other leading cloud providers combined [emphasis by author]."
+The cloud leader also provides customers access to all the most in-demand generative AI models via its Bedrock AI. Furthermore, Amazon offers its Inferentia and Trainium purpose-built AI chips as a more cost-effective alternative to high-end GPUs.
+Amazon will also benefit from the improving economy, boosting its e-commerce and digital advertising businesses. At roughly 3x forward sales, it's fairly inexpensive.
+9. Meta
+Meta Platforms (META -3.33%) has long used AI to surface relevant content on its multiple social media platforms and inform its targeted advertising. However, its treasure trove of user data provided the foundation for its LLaMA AI, which has joined the ranks of the top foundational AI models. While hyperscalers and cloud operators pay to use LLaMA, it's free to most individual users.
+The most recent version, LLaMA 3.1, is "in a class of its own," according to Meta. The system will help developers create a variety of AI agents -- or autonomous AI models designed to complete specific tasks without human intervention.
+Meta's digital advertising will also benefit from the improving economy. At just 28x earnings, the stock is a steal.
+10. Tesla
+Tesla (TSLA -1.54%) stock has been on a tear in recent months, and the biggest catalyst is the incoming Trump administration, as the policies of the President-elect are expected to favor Tesla. The end of rebates and tax incentives for electric-vehicle (EV) customers would benefit Tesla as the industry leader.
+Wedbush analyst Dan Ives remains bullish and expects Tesla's market cap to hit $2 trillion in 2025, saying the coming four years will be a "total game changer" for Tesla. He expects the Trump administration to fast-track full self-driving (FSD), paving the way for the company's robotaxi agenda.
+After the recent run-up, Tesla is expensive relative to its AI peers, with the stock selling for 173x forward earnings and 12x next year's sales. That said, Cathie Wood's Ark Invest estimates the robotaxi market could be worth as much as $28 trillion over the next decade.
+As one of the expected robotaxi industry leaders -- if it comes to pass (and that's a big if) -- Tesla could well be a bargain at this price.

@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+AI without data is meaningless: Rahul Gandhi speaks for data localisation in Parliament
+New Delhi [India], February 3 (ANI): India lacks data that can be fed to an AI system, Leader of Opposition in Lok Sabha, Rahul Gandhi said on Monday in Parliament asserting that data fuelled the emerging Artificial Intelligence technology.
+The Congress MP from Rai Bareilly was participating in the Motion of Thanks on the President's Address in the Lower House during the ongoing Budget Session.
+"People talk about AI, but it's important to understand that AI on its own is absolutely meaningless, because AI operates on top of data," the Congress leader said.
+"Without data, AI means nothing," he said, alluding that most of the Indian data are stored abroad.
+"If we look at data today, there is one thing which is very clear, every single piece of data that goes that comes out of the production system in the world. The data that was used to make a phone, the data that is used to make electric cars, the data that is used to make basically all electronics on the planet today is owned by China, and the consumption data is owned by the United States," he said.
+Whereas in China, he said the consumption data is owned by their own country.
+"In India, companies like Google, Facebook, Instagram X, they own our consumption data. So if India wants to talk about AI, it has to first answer the question, what data is going to power that AI?" Gandhi said stressing for the need for an indigenous database souces that can feed AI.
+According to him, India does not have that data.
+"Neither does India have production data, neither does India have consumption data. We have handed our consumption data to big American companies, and the production data, we don't, we don't have any way. So what would that vision look like?" he asked.
+India constitutes 20 per cent of the world's population produces 20 per cent of the world's digital data. But only a small portion of it is stored here and the remaining data is offshore.
+Most of the Indian data is stored in global data centres owned by big technological giants.
+India has been working to increase data localisation. Data localization refers to the practice of storing and processing data within a specific geographic location. (ANI)
+AI without data is meaningless: Rahul Gandhi speaks for data localisation in Parliament
+AI without data is meaningless: Rahul Gandhi speaks for data localisation in Parliament
+ANI
+3rd February 2025, 22:18 GMT+11
+New Delhi [India], February 3 (ANI): India lacks data that can be fed to an AI system, Leader of Opposition in Lok Sabha, Rahul Gandhi said on Monday in Parliament asserting that data fuelled the emerging Artificial Intelligence technology.
+The Congress MP from Rai Bareilly was participating in the Motion of Thanks on the President's Address in the Lower House during the ongoing Budget Session.
+"People talk about AI, but it's important to understand that AI on its own is absolutely meaningless, because AI operates on top of data," the Congress leader said.
+"Without data, AI means nothing," he said, alluding that most of the Indian data are stored abroad.
+"If we look at data today, there is one thing which is very clear, every single piece of data that goes that comes out of the production system in the world. The data that was used to make a phone, the data that is used to make electric cars, the data that is used to make basically all electronics on the planet today is owned by China, and the consumption data is owned by the United States," he said.
+Whereas in China, he said the consumption data is owned by their own country.
+"In India, companies like Google, Facebook, Instagram X, they own our consumption data. So if India wants to talk about AI, it has to first answer the question, what data is going to power that AI?" Gandhi said stressing for the need for an indigenous database souces that can feed AI.
+According to him, India does not have that data.
+"Neither does India have production data, neither does India have consumption data. We have handed our consumption data to big American companies, and the production data, we don't, we don't have any way. So what would that vision look like?" he asked.
+India constitutes 20 per cent of the world's population produces 20 per cent of the world's digital data. But only a small portion of it is stored here and the remaining data is offshore.
+Most of the Indian data is stored in global data centres owned by big technological giants.
+India has been working to increase data localisation. Data localization refers to the practice of storing and processing data within a specific geographic location. (ANI)

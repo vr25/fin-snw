@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By MICHELLE CHAPMAN, AP Business Writer
+Amazon will cut about 14,000 corporate jobs as the online retail giant ramps up spending on artificial intelligence while cutting costs elsewhere.
+Teams and individuals impacted by the job cuts will be notified on Tuesday. Most workers will be given 90 days to look for a new position internally, Beth Galetti, Senior Vice President of People Experience and Technology at Amazon, wrote in a letter to employees on Tuesday. Those who can’t find a new role at the company or who opt not to look for one will be provided transitional support including severance pay, outplacement services and health insurance benefits.
+Amazon has about 350,000 corporate employees and a total workforce of approximately 1.56 million. The cuts announced Tuesday amount to about a 4% reduction in its corporate workforce.
+In June CEO Andy Jassy, who has aggressively sought to cut costs since becoming CEO in 2021, said that he anticipated generative AI would reduce Amazon’s corporate workforce in the next few years.
+Jassy said at the time that Amazon had more than 1,000 generative AI services and applications in progress or built, but that figure was a “small fraction” of what it plans to build.
+Amazon has announced plans to invest $10 billion building a campus in North Carolina to expand its cloud computing and artificial intelligence infrastructure.
+Since 2024 started, Amazon has committed to about $10 billion apiece to data center projects in Mississippi, Indiana, Ohio and North Carolina as it builds up its infrastructure to try to keep up with other tech giants making leaps in AI. Amazon is competing with OpenAI, Google, Microsoft, Meta and others. In a conference call with industry analysts in May, Jassy said that the potential for growth in the company’s AWS business is massive.
+“If you believe your mission is to make customers’ lives easier and better every day, and you believe that every customer experience will be reinvented with AI, you’re going to invest very aggressively in AI, and that’s what we’re doing. You can see that in the 1,000-plus AI applications we’re building across Amazon. You can see that with our next generation of Alexa, named Alexa+,” he said.
+Amazon’s workforce doubled during the pandemic as millions stayed home and boosted online spending. In the following years, big tech and retail companies cut thousands of jobs to bring spending back in line.
+The cuts announced Tuesday suggests Amazon is still trying to get the size of its workforce right and it may not be over. It was the biggest culling at Amazon since 2023, when the company cut 27,000 jobs. Those cuts came in waves, with 9,000 jobs trimmed in March of that year, and another 18,000 employees two months later. Amazon has not said if more job cuts are on the way.
+Yet the jobs market which has for years been a pillar in the U.S. economy, is showing signs of weakening. Layoffs have been limited, but the same can be said for hiring.
+Government hiring data is on hold during the government shut down, but earlier this month a survey by payroll company ADP showed a surprising loss of 32,000 jobs losses in the private sector in September.
+Many retailers are pulling back on seasonal hiring this year due to uncertainty over the U.S. economy and tariffs. Amazon Inc. said this month, however, that it would hire 250,000 seasonal workers, the same as last year’s holiday season.
+Neil Saunders, managing director of GlobalData, said in a statement that the layoffs “represent a deep cleaning of Amazon’s corporate workforce.”
+“Unlike the Target layoffs, Amazon is operating from a position of strength,” he said. “The company has been producing good growth, and it still has a lot of headroom for further expansion in both the U.S. and overseas.”
+But Saunders noted that Amazon is not immune to outside factors, as global markets tighten and underlying costs climb.
+“It needs to act if it wants to continue with a good bottom-line performance. This is especially so given the amount of investment the company is making in areas like logistics and AI. In some ways, this is a tipping point away from human capital to technological infrastructure,” he said.
+Amazon will post quarterly financial results on Thursday. During its most recent quarter, the company reported 17.5% growth for its cloud computing arm Amazon Web Services.

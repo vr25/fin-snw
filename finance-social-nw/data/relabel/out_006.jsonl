@@ -1,0 +1,20 @@
+{"id": "0120", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A new deepfake app that allows", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0121", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "OKLAHOMA CITY, March 9, 2023", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0122", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Ahead of its crucial meeting", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0123", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Billionaire tech CEO says Meta", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0124", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Facebook's parent company Meta is", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0125", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Facebook's parent company Meta is", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0126", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Facebook's parent company Meta is", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0127", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The startup OpenAI yesterday said", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0128", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "When four leading artificial intelligence", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0129", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Watch: China's alternative to ChatGPT,", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0130", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "SAN FRANCISCO, March 16, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0131", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Why is there a Chinese", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0132", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Tulsa, OK - (NewMediaWire)", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0133", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia Corp Chief Executive Jensen", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0134", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia Corp Chief Executive Jensen", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0135", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia Corp Chief Executive Jensen", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0136", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google announced Tuesday it's allowing", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0137", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Social media marketing is a", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0138", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Lisa Wood, President of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0139", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ChatGPT: Who and what is", "relation": "unrelated-mention", "sentiment_alignment": 0}

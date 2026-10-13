@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Netherlands-based biotech startup Cradle has raised $24 million in Series A funding as it looks to boost its protein design and engineering process.
+What Happened: Cradle's $24 million Series A funding was led by Index Ventures, with Kindred Capital also participating in the round.
+Tom Glocer, former lead director of Merck and CEO of Thomson Reuters, and Chris Gibson, co-founder of Recursion, also participated in the fundraise.
+Cradle is engaged in biotech engineering. More specifically, it designs and engineers new proteins using generative artificial intelligence (AI) and machine learning (ML).
+Scientists can use Cradle's software to design improved variants of proteins to undertake sequencing much faster than traditional testing methods.
+The company has so far raised $33 million, and it is currently working on over 12 research and development projects, including vaccines, peptides, and antibodies.
+See Also: This Spanish AI Model Is Earning Up To $11,000 A Month, And Celebrities Are Sliding In Her DMs
+"Most projects progress two times faster using Cradle's platform compared to industry benchmarks," the company says.
+While Microsoft Corp.-backed (NASDAQ:MSFT) OpenAI has popularized generative AI thanks to tools like ChatGPT and Dall-E, among others, pharmaceutical giants like Johnson & Johnson (NYSE:JNJ) and others are deploying this technology to engineer new products.
+For instance, Cradle has used its generative AI technology to produce an alternate version of the T7 RNA polymerase that is more resistant to higher temperatures.
+Stef van Grieken, Cradle's co-founder and CEO says that the company's technology has allowed for fewer yet more successful experiments. He has previously led product development at Google Brain, a deep learning AI research division at Alphabet Inc.'s (NASDAQ:GOOG) (NASDAQ:GOOGL) Google.
+Cradle says it will use the fresh funds to expand its machine learning and biotech teams, apart from investing in product development and sales capabilities.
+Read Next: This SEO Heist Using AI Shows How Easy It Is To Game Google Search
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

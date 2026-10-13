@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By MICHAEL LIEDTKE and WYATTE GRANTHAM-PHILIPS, Associated Press
+SAN FRANCISCO (AP) — Google has struck a deal to buy cybersecurity firm Wiz for $32 billion in what would be the biggest acquisition in the tech giant’s 26-year history.
+The proposed takeover announced Tuesday is part of Google’s aggressive expansion into cloud computing during an artificial intelligence boom. The frenzied push into AI is driving demand for data centers and Google is going up against two other tech powerhouses, Microsoft and Amazon.
+If the all-cash transaction is approved by regulators, Wiz will join Google Cloud — an increasingly important part of its business separate from its search and advertising operations that account for most of annual revenues of $350 billion at Google’s parent company, Alphabet.
+With the advent of AI, however, the cloud division has become a rising star at Google. Annual revenue in the division that was $26.3 billion in 2022, soared 64% to $43.2 billion last year.
+“Wiz and Google Cloud are both fueled by the belief that cloud security needs to be easier, more accessible, more intelligent, and democratized, so more organizations can adopt and use cloud and AI securely,” Wiz CEO Assaf Rappaport wrote in a blog post.
+Together, Google CEO Sundar Pichai added in a statement, Google Cloud and Wiz “will turbocharge improved cloud security and the ability to use multiple clouds.”
+Wiz, based in New York, was founded in 2020 and makes security tools designed to protect information stored in remote data centers. Its customers range from small startups to larger governmental organizations.
+Google has eyed Wiz for some time. The sale price announced this week is much richer than the reported $23 billion buyout that Wiz rejected last July — when it opted to instead pivot back to a previously-planned initial public offering. But recent volatility in the stock market has chilled the IPO market, and now Rappaport said Wiz expects to “innovate even faster” by becoming a part of Google.
+Wedbush analysts called Google’s move to buy Wiz “a shot across the bow” at other tech giants, particularly Microsoft and Amazon, who have already made big bets on cyber security as the fight to dominate cloud computing intensifies. Google had fallen behind its competition in the cloud space, Wedbush said, but the acquisition of Wiz could alter the parameters.
+The bid Tuesday easily eclipses what had been Google’s largest acquisition — a $12.5 billion takeover of Motorola Mobility in 2012 that didn’t pay off the way that the Mountain View, California, company had hoped.
+Google’s other forays have turned into gold mines, however, most notably its $1.76 billion acquisition of online video pioneer YouTube in 2006 and its $3.1 billion purchase of advertising technology platform DoubleClick in 2008.
+The DoubleClick deal is now part of an antitrust case filed the U.S. Justice Department targeting Google’s technology for distributing ads across the internet. A ruling in that case, involving allegations that Google has illegally abused its power to manipulate digital ad prices, is expected this year.
+Google’s bid for Wiz arrives as it fends off attempts by regulators at home and abroad to break up the company’s internet empire.
+A federal judge in a separate case brought the Justice Department last year concluded Google had turned its ubiquitous search engine into an illegal monopoly. The penalization phase of that trial begins next month.
+The Justice Department is seeking a rebuke that would include a requirement for Google to sell its Chrome web browser and would ban the company from making agreements with Apple and other companies to make its search engine the default tool for finding online information on the iPhone and other devices.
+The Wiz deal will also get a close look from antitrust regulators. While many expect the Trump administration to be more friendly to business deals, it has also shown itself to be leery of big tech.
+The Wiz deal raises antitrust concerns due to the potential impact on standalone cyber security vendors, as well as potential disruption for bigger rivals. Still, Wedbush’s analysts note the industry is “ripe for consolidation” — which could pose “massive growth opportunities on the horizon heading into this AI Revolution.”
+Wiz and Google say that Wiz’s products will continue to work across all major clouds — including Amazon Web Services, Microsoft Azure, and Oracle Cloud, as well as through other security partners.
+Subject to the regulatory greenlight and other closing conditions, Google and Wiz expect the deal to close in 2026.
+Shares for Google owner Alphabet fell by about 3% during Tuesday’s late morning trading.
+Grantham-Philips reported from New York.

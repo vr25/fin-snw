@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Harnessing technology in schools can help to tackle the “crisis of belonging” among pupils and help to reduce teacher shortages, the Education Secretary has said.
+Bridget Phillipson has set out plans to use technology, such as artificial intelligence (AI) as a “positive, radical, modernising force” in the education system to support staff and “deliver” for pupils.
+Speaking at tech event The British Educational Training and Technology (Bett) Show in London on Wednesday, Ms Phillipson spoke of a system where teachers are “set free” by AI, meaning “less marking, less planning and less form planning”.
+She went on: “Using AI to reduce workload will help unlock the recruitment and retention crisis that we face so that once again teaching can be a profession that sparks joy, not burnout, where teachers can focus on what really matters, teaching our children.”
+The Education Secretary also wants schools to use data to tackle the “absence epidemic” and “get our kids back into school”.
+Ms Phillipson announced that every secondary school trust and local authority in the country can now view, download and share a new attendance data summary.
+She said: “Ultimately, our absence epidemic signals a crisis of belonging. Far too many children feel that they simply don’t belong in school. So it comes back to that precious relationship between teachers and students.”
+The Department for Education (DfE) has said that tech firms – including Google, Microsoft, Adobe and Amazon Web Services – have helped to develop a set of expectations which AI tools should meet to be considered safe for classroom use.
+The AI Product Safety Expectations in Education framework sets out safeguards, including enhanced filtering of harmful content.
+The DfE also announced that all new teachers will be trained on the effective use of assistive technology to support children with special educational needs and disabilities (Send).
+Ms Phillipson said: “The world of even five years ago is gone forever, now we must seize the opportunities of the future.
+“We can hope for a brighter future for our children – delivered by a digital revolution in education.
+“I will take up this great new technological era to modernise our education system, to back our teachers and to deliver better life chances for our children across the country.”
+Sarah Hannafin, of school leaders’ union NAHT, said: “While AI has huge potential benefits for schools and children’s learning, it is important that these are harnessed in the right way, and that teachers retain professional oversight of learning. Such tools cannot replace the judgment and deep subject knowledge of a human expert.
+“It’s vital that teachers and school leaders receive high-quality funded training and the guidance needed to feel confident using AI themselves as well as teaching pupils about how to use AI tools appropriately in their learning and wider lives.
+“Teachers are struggling with unsustainable levels of workload, so it makes sense to explore AI’s potential to reduce this, However, it alone will not be enough to address the severe recruitment and retention crisis facing schools, with other measures, including action on pay, fundamental reform of inspection, and more flexible working, all crucial.”
+Daniel Kebede, general secretary of the National Education Union, said the “positives around digital technology are obvious” but that “no screen can replicate the human connection between teachers and students”.
+He added that teacher workload is “unacceptably high” and that technology itself “must not be seen as the solution nor a distraction from the urgent talks that are needed to address it”.

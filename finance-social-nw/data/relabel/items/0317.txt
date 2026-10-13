@@ -1,0 +1,26 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Why Risk-Averse Investors Are Wary of the New Bull Market
+Commitment to Our Readers
+GOBankingRates' editorial team is committed to bringing you unbiased reviews and information. We use data-driven methodologies to evaluate financial products and services - our reviews and ratings are not influenced by advertisers. You can read more about our editorial guidelines and our products and services review methodology.
+20 Years
+Helping You Live Richer
+Reviewed 
+by Experts
+Trusted by 
+Millions of Readers
+The stock market is always a tug-of-war between the bulls and the bears. While even bears know to get out of the way of a stock market on the run, the amazing performance some stocks have put in through the first half of 2023 has been nothing short of astonishing. In fact, a number of factors are flashing warning signs for more conservative investors, who worry that the market as a whole — and some individual stocks in particular — have gone too far, too fast.
+While momentum players and “fast-money” traders love a market that only seems to go straight up, risk-averse investors are getting wary of the new bull market. Here’s why.
+Many Stocks Have Already Posted Triple-Digit Returns in 2023
+We’re only at the midpoint of 2023 and a number of stocks have already posted returns in excess of 100% year-to-date. Some analysts view this as the sign of a frothy market, as no stock can sustain a 100%-plus move without giving some back at some point. In fact, many of the market leaders in 2023 were absolutely decimated in 2022, and some analysts worry that this could happen again.
+Nvidia, for example, is already up nearly 190% YTD in 2023, but that’s on the back of a more than 50% loss in 2022. Meta Platforms, and a host of other tech winners in 2023, all dropped by roughly 50% or more in 2022 as well. While these stocks may not give back all of their gains, now is not the time that many risk-averse investors are looking to pick up shares in these big winners.
+Market Breadth Is Narrow
+Market breadth refers to the number of stocks that are leading the way in terms of a market rally as opposed to those that are falling. Although market breadth has widened in recent weeks, it still remains quite narrow. Tech stocks in particular have led the way, with names like Nvidia, Apple and Microsoft carrying the market on its back. In fact, as of June 1, just seven stocks — Nvidia, Meta, Tesla, Apple, Microsoft, Amazon and Alphabet — have provided more than 100% of the S&P 500’s YTD gains, meaning that index would actually be negative without those market leaders.
+Without a broadening of stocks participating in the rally, it might not have much longer to run. If profit-taking were to hit some of the market leaders — which would not be surprising given their huge runs over the past few months — the market as a whole could suffer tremendously.
+The Fed Remains Hawkish
+The Fed has aggressively raised interest rates in 2022 and 2023 to help combat 40-year highs in inflation. While inflation has indeed fallen significantly to start the year, the CPI still remained at 4% as of May 2023, exactly double the Fed’s stated target rate. Although interest rates are also very high on a relative basis, the Fed has indicated that there’s likely still more work to be done, meaning that rates are likely to go even higher still. This would affect both the cost of doing business and the amount of interest that consumers pay on everything from credit cards and auto loans to home mortgages.
+The fact remains that the combination of high interest rates and high inflation may dampen spending and consumer demand, factors that would potentially translate into depressed corporate earnings — which in turn typically drag down stock prices.
+The Yield Curve Is Still Inverted
+If you watch the financial news, you’ve likely heard the phrase “the yield curve is inverted” quite frequently. Many analysts and economists view an inverted yield curve as a sign of an oncoming recession. But what exactly does it mean?
+In simple terms, an inverted yield curve occurs when long-term bonds pay less than short-term bonds. Specifically, the difference in yield between the 10-year U.S. Treasury bond and the two-year U.S. Treasury bond is the most commonly used indicator. As of June 16, 2023, the two-year Treasury bond paid a full percentage point more than the 10-year, marking a decidedly inverted yield curve. This suggests that a recession is potentially looming, which typically coincides with a market correction or even a full-blown bear market.

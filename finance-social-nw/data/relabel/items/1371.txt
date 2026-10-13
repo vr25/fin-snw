@@ -1,0 +1,50 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Updated September 25, 2025 at 12:09 PM MST
+In the global race for critical minerals, one little-known international agency has long held the keys to a potential motherlode — vast quantities of metals located on the remote seafloor.
+The International Seabed Authority (ISA) has worked for more than a decade to draw up regulations for a future deep-sea mining industry. Those efforts continued this week as negotiators from around the world convened at ISA headquarters in Kingston, Jamaica.
+Now, though, one mining firm says it plans to move forward — with or without that rulebook in place.
+The Metals Company, a Canadian startup, says it will seek approval this year to launch the world's first deep-sea mine in the eastern Pacific Ocean, by working with one of the few countries that never joined the ISA: the United States.
+Some delegates and observers at the ISA meeting in Kingston condemned the move, saying it could lead to poorly regulated mining and harm ocean health.
+"This is a desperate, very dangerous announcement," said Louisa Casson, an activist with Greenpeace International. "It's a slap in the face to international cooperation."
+Gerard Barron, CEO of The Metals Company, said he made the controversial decision after the ISA missed deadlines for finalizing its regulations. He hopes the Trump administration can provide a quicker path to mining approval.
+"The U.S. is showing very strong leadership at a time when industrialization and jobs have left the U.S.," Barron said. "They need to rebuild. They need metals to do that."
+Why mine the ocean floor?
+Scientists know little about the deep seabed. Most of the ocean floor hasn't been mapped. Researchers believe most species living there remain unidentified. But one thing is certain: There's a lot of metal down there, including key materials used in technology like electric car batteries.
+The U.S. Geological Survey has estimated that a single swath of the Eastern Pacific, known as the Clarion Clipperton Zone, contains more nickel, cobalt and manganese than all combined terrestrial reserves. These metals (plus copper) are bound up in potato-shaped deposits called polymetallic nodules, which form over millions of years as minerals in the seawater accrete around bits of organic matter. Those nodules are scattered across the sandy seabed of the Clarion Clipperton Zone, an area about half the size of the contiguous U.S. that sits between Hawaii and Mexico.
+Those nodules have tempted would-be miners for decades. Mining firms claim the deep seabed could provide a major new source of minerals independent of China, which controls the supply of many critical minerals.
+How would deep-sea mining work?
+To retrieve the nodules, mining firms plan to send uncrewed collector vehicles down to the bottom of the ocean. The Metals Company vehicle, which is about the size of a school bus, would crawl along the seabed, hoovering up nodules and sending them through a miles-long vertical tube to a ship waiting on the surface. (Some observers describe this system as the world's longest vacuum cleaner — but for critical minerals instead of dust bunnies.)
+In 2022, The Metals Company completed a field test of this system in the Clarion Clipperton Zone, which the firm deemed successful. Next, the company wants permission to begin commercial production in the region.
+After working through the ISA for years, The Metals Company now says it will apply for "exploration licenses and commercial recovery permits" from the United States by the end of June.
+Congress passed a law in 1980 to regulate seabed mining, but The Metals Company would be the first firm to apply for a commercial mining license under it.
+What are the environmental impacts?
+Nobody knows for sure, since deep-sea mining has never been done at commercial scale.
+Supporters of seabed mining claim it will be less destructive than mining on land.
+Barron, The Metals Company CEO, points to Indonesia, the world's leading nickel producer, where mining happens in biodiverse rainforest regions. In contrast, he argues, the vast, sandy plains of the deep seabed harbor far less life.
+"For some reason, people think it's OK to go digging up rainforests to get the metals underneath them, yet we're debating whether we should be going to pick up these rocks that sit on the abyssal plain? Something has got screwed up here," Barron said in an interview with NPR earlier this month.
+Many marine scientists and policymakers disagree.
+Researchers say they've identified more than a dozen ways seabed mining could damage ocean ecosystems. Animals including sea sponges and anemones grow on the nodules, so removing nodules would destroy that habitat. Sediment plumes released from mining operations may harm creatures adapted to the clear waters of the deep ocean. Noise pollution from seabed mining could interfere with animal navigation and communication.
+"Ecosystems will be deeply harmed," said Gina Guillén-Grillo, an ISA delegate from Costa Rica. "Species that we don't even know will be eliminated, because we don't even know what's down there."
+Costa Rica is one of about three dozen ISA countries that have called for a precautionary pause on mining activity, at least until regulations are complete. Hundreds of researchers have also called for a pause on deep-sea mining until scientists learn more, which could take years. Some companies — including automakers and tech firms like BMW, Volkswagen, Volvo, Google and Samsung — have pledged not to use seabed minerals.
+Some mining companies say damage could be mitigated with new technology. One startup, Impossible Metals, is developing a fleet of underwater robots that would hover above the seabed, instead of crawling along it. The robots would use mechanical arms to pluck nodules that have no visible life on them. The company claims this method would eliminate sediment plumes and reduce noise pollution, though the technique hasn't been tested at the extreme depths where mining would occur.
+Who decides if mining happens?
+Individual countries regulate mining within their Exclusive Economic Zones, generally extending 200 miles from the coast. A handful have begun permitting the exploration for seafloor minerals, including Japan, the Cook Islands, Papua New Guinea and Norway (though Norway paused its permitting process late last year).
+But most of the seabed lies beneath the High Seas, beyond the control of any country. That's where the ISA has traditionally had jurisdiction.
+The ISA was launched in 1994 by the United Nations Convention on the Law of the Sea, a treaty colloquially dubbed the Constitution for the Oceans. It includes every major economy with a coastline except the United States, which never ratified the treaty.
+The ISA has granted 31 contracts allowing member countries (and partnered companies) to explore for seabed minerals, mostly in the Clarion Clipperton Zone. China has snapped up five of these exploration contracts — more than any other country.
+But nobody has moved from exploration to exploitation. That's in part because the ISA hasn't finalized regulations for commercial-scale extraction. ISA negotiators have spent more than a decade drafting the mining rulebook, which will cover everything from environmental rules to royalty payments.
+ISA countries set a goal of finalizing the regulations this year. But key issues in the draft rulebook remain unresolved, and negotiators appear unlikely to meet that deadline.
+What could happen next?
+It's unclear. The Metals Company previously said it would apply for a commercial mining license from the ISA on June 27. Thursday's announcement throws that application into jeopardy.
+Some observers had questioned whether such a move would even be legal.
+"I'm deeply concerned with the prospect of unsanctioned mining taking place in areas beyond national jurisdiction," said Liz Karan, director of ocean governance at The Pew Charitable Trusts, a research nonprofit, in an interview earlier this month. "That would be contrary to international law."
+Guillén-Grillo, the delegate from Costa Rica, told NPR that the ISA has sole authority over mining on the international seabed: "This belongs to us, and the decisions should be made by us."
+The United States has traditionally respected the ISA process as customary international law, and the State Department sends representatives to observe ISA meetings. Multiple U.S. government agencies did not immediately respond to requests for comment for this story.
+After The Metals Company's announcement on Thursday, Barron told NPR that the ISA's incomplete mining rulebook, after more than a decade of negotiations, was evidence that multilateralism had failed.
+"The world needs strong leadership and the U.S. has that right now. What's happening in Kingston," said Barron, referring to the ongoing ISA meetings, "is not working."
+"By all means, go ahead and sign your treaty," said Barron. "We'll be out there."
+Travel for this reporting was supported by a grant from the Institute for Journalism & Natural Resources.
+This story was edited by Rachel Waldholz.
+Copyright 2025 NPR

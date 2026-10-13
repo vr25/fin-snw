@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+By KELVIN CHAN (AP Business Writer)
+LONDON (AP) — The European Union on Monday approved Microsoft’s $69 billion purchase of video game maker Activision Blizzard, deciding the deal won’t stifle competition for popular console titles like Call of Duty and accepting the U.S. tech company’s remedies to boost competition in cloud gaming.
+But the blockbuster deal is still in jeopardy because British regulators have rejected it and U.S. authorities are trying to thwart it.
+The acquisition, sweetened by Microsoft’s promises to automatically license Activision games to cloud gaming platforms, “would no longer raise competition concerns and would ultimately unlock significant benefits for competition and consumers,” said the European Commission, the 27-nation bloc’s executive arm and top antitrust watchdog.
+The commission’s approval “has removed one potential major roadblock for this deal” but “it doesn’t necessarily mean they’re in a stronger position” to overturn the U.K.’s rejection, said Liam Deane, a game industry analyst for tech research and advisory firm Omdia.
+The all-cash deal announced more than a year ago has been scrutinized by regulators around the world over fears that it would give Microsoft and its Xbox console control of Activision’s hit franchises like Call of Duty and World of Warcraft.
+Fierce opposition has been driven by rival Sony, which makes the PlayStation gaming system.
+Microsoft sought to counter the resistance by striking a deal with Nintendo to license Activision titles like Call of Duty for 10 years and offering the same to Sony if the deal went ahead.
+Following its review, the European Commission dismissed the possibility that Microsoft would cut off its games from PlayStation, saying that excluding the most popular gaming console would put a big dent in its profits.
+The emerging cloud gaming market received closer scrutiny from Brussels. Cloud gaming frees players from buying expensive consoles and gaming computers by allowing them to stream games they own to tablets, phones and other devices, typically through a cloud platform that may charge a fee.
+The commission approved the deal after accepting Microsoft’s offer to modify its licensing agreements to allow users and cloud gaming platforms to stream its titles without paying royalties for 10 years.
+The licenses “will apply globally and will empower millions of consumers worldwide to play these games on any device they choose,” Microsoft President Brad Smith said in a statement.
+Microsoft has already announced deals to bring Xbox PC games to cloud gaming platforms operated by chipmaker Nvidia and independent player Boosteroid.
+Activision games aren’t available on cloud services, but the commission noted that the licensing commitments could expand the cloud gaming market “by bringing Activision’s games to new platforms, including smaller EU players, and to more devices than before.”
+The EU decision might help Microsoft’s chances as it faces down regulators in the U.S., where the Federal Trade Commission is taking the company to court to block the deal. A trial before the FTC’s in-house judge set to begin Aug. 2.
+But Brussels’ approval is at odds with the stance taken by British antitrust regulators, who last month upended the biggest tech deal in history over concerns it would hurt competition in the small but rapidly growing cloud gaming market.
+Britain’s Competition and Markets Authority said in a statement Monday that it “stands by its decision,” an unusual move that highlights the more muscular approach London has taken.
+“Microsoft’s proposals, accepted by the European Commission today, would allow Microsoft to set the terms and conditions for this market for the next ten years,” authority chief executive Sarah Cardell said. “They would replace a free, open and competitive market with one subject to ongoing regulation of the games Microsoft sells, the platforms to which it sells them, and the conditions of sale.”
+The companies are appealing the U.K. decision to a tribunal, but history doesn’t bode well.
+The watchdog previously denied Facebook parent Meta’s purchase of Giphy over concerns it would limit innovation and competition. The social media giant was ultimately forced to sell off the GIF-sharing platform after it lost an appeal.
+If Microsoft’s appeal fails, the company would be forced to either scrap the deal or carve out the U.K. as a separate market, which appeared to be an unfeasible option, said Deane, the game analyst.

@@ -1,0 +1,15 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History
+Although most investors are laser-focused on the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) hitting all-time highs on the heels of artificial intelligence (AI) euphoria, 2026 is also shaping up to be the year of the mega-initial public offering (IPO).
+Possibly within the next two months, investors will be privy to the largest-ever IPO, SpaceX. Reports have pointed to SpaceX kicking off its IPO roadshow during the week of June 8, placing the debut of Elon Musk's conglomerate in late June, or shortly thereafter.
+Prediction markets expect SpaceX to top $2 trillion on its IPO day
+SpaceX ties two of the stock market's hottest trends together under one company: space and AI. McKinsey & Company estimates the global space economy will be worth $1.8 trillion by 2035, while PwC analysts foresee AI creating $15.7 trillion in worldwide economic value by 2030.
+The various puzzle pieces that comprise SpaceX, including Falcon rockets, Starlink, AI start-up xAI, and social media platform X, should yield superior sales growth for the foreseeable future.
+According to Polymarket, the world's largest prediction market for real-time events, there's now a 62% chance (as of May 10) of SpaceX trading above a $2 trillion valuation at the close of its first trading day. The likelihood of SpaceX topping a $2 trillion market cap on Polymarket has climbed steadily from 45% in early April.
+But even if Polymarket's bettors and retail investors are right on day one, it's fair to question whether they've become a bit overzealous about SpaceX.
+Chasing the SpaceX IPO can cause a world of hurt for retail investors
+To begin with, history shows that many of Wall Street's largest IPOs stumbled out of the gate after their debut. For instance, social media titan Facebook (now Meta Platforms) lost 38% of its value in the six months following its debut. Saudi Aramco, the world's largest IPO, based on total cash raised ($29.4 billion), also tumbled 15% in the six months after its first trading day.
+What this data shows is that retail investors commonly overestimate the growth potential of major IPOs and the staying power of emotion-driven share price movements on Wall Street.
+Retail investors are also likely to regret chasing the SpaceX IPO because of its exorbitant valuation. Although SpaceX has yet to make its registration statement (S-1) public, Reuters reported in January that the company generated $15 billion to $16 billion in sales last year. Keep in mind this figure doesn't account for SpaceX's merger with xAI earlier this year (xAI also owned X).

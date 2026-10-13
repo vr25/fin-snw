@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+AI developers should counter misinformation and protect fact-based news, global media groups say
+GENEVA (AP) — A global group of broadcasters and publishers is calling on artificial intelligence developers to make sure their technology serves the public by helping to counter misinformation and protect the value of fact-based news.
+The Geneva-based European Broadcasting Union, an association of public broadcasters that's also known for running the popular Eurovision Song Contest, says it and the World Association of News Publishers and other partners want to cooperate with tech companies behind AI.
+The group says thousands of public and private media in broadcast, print and online formats have joined the "News Integrity in the Age of AI" initiative, whose five core steps were announced Monday at the World News Media Congress in Krakow, Poland.
+The initiative is calling for news content to only be used in generative AI models with the authorization of the content originator, and for clarity about attribution and accuracy. It says the original news source behind AI-generated material must be "apparent and accessible."
+"Organizations and institutions that see truth and facts as the desirable core of a democracy and the foundation of an empowered society should now come together at one table to shape the next era," said Ladina Heimgartner, president of the publishers association and CEO of Switzerland's Ringier Media.
+Among the media affiliates along with EBU and WAN-IFRA — as the association of news publishers is known — are Latin American broadcasters association AIL; the Asia-Pacific Broadcasting Union; and the North American Broadcasters Association, which counts Fox, Paramount, NBC Universal and PBS among its members.
+Since AI surged into public awareness with the launch of OpenAI's ChatGPT in November 2022, legacy media have grappled with how best to use the technology, and whether to cooperate with or even combat the companies behind it.
+The New York Times and other newspapers have filed a copyright lawsuit against OpenAI and business partner Microsoft. The Times has said the tech companies have threatened its livelihood by effectively stealing billions of dollars' worth of work by its journalists.
+Many news outlets have struck deals with OpenAI, including the Associated Press. which has a licensing and technology deal with it as well as with Google for delivery of news through its Gemini AI chatbot.
+In the U.S., leading tech companies like Google, Microsoft and OpenAI have told the Copyright Office that their training of AI models fits into the "fair use" doctrine that allows for limited uses of copyrighted materials. That includes teaching, research or transforming the copyrighted work into something different.

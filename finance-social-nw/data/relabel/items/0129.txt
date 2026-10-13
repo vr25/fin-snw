@@ -1,0 +1,57 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Watch: China's alternative to ChatGPT, what we know so far | The Crypto Mile
+Baidu (BIDU) has launched China's domestic generative AI tool to rival Microsoft's (MSFT) ChatGPT, its successor GPT-4, and Google's (GOOG) Bard.
+World-powers have been escalating the AI race — "In 2021, the US government spent $10.8bn (£8.95bn) on artificial intelligence reseach and development, $9.3bn of which came from the Department of Defense, and Chinese public expenditure on AI is less transparent, but analysts estimate that it is roughly comparable," according to research from Harvard's Kennedy School of Government.
+Yahoo Finance UK speaks to artificial intelligence author Pete Huang to investigate how China's alternative compares to existing chatbots.
+What is Baidu's Ernie chatbot?
+Thursday saw the launch of Baidu's large language model (LLM) 'Ernie', also called Weixin in Chinese.
+LLM's are artificial intelligence tools that can read, summarise and translate texts and predict future words in a sentence, letting them automatically generate everything from academic papers and social media posts to business proposals.
+At a livestreamed press conference, Baidu CEO Robin Li said the new chatbot was the result of "decades of Baidu's hard work and efforts".
+Li said: "In two rounds of conversation, the Ernie bot presented its capability of mathematical logic reasoning.
+"It does not only know whether the question itself is correct or not, it also provided answers and specific steps to figure out the answer."
+The tool could answer questions about a Chinese science fiction novel and provide a summary of the book's storyline.
+On this week's episode of Yahoo Finance UK's The Crypto Mile, AI educator and founder of The Neuron newsletter Pete Huang discussed China's AI advances and the proliferation of deepfake technology.
+China's AI industry
+Huang said that big tech firms such as Alibaba (BABA), Tencent (TCEHY), Baidu, JD.com (JD) were all involved in building their own Beijing-approved alternatives to ChatGPT.
+"So whatever versions come out of China, the chief difference that will be interesting to watch is what the chatbot takes in and what spits out," he said.
+"There is less high quality Chinese language data on the internet, so the chatbot could be less powerful."
+Chatbots under the watchful eye of the politburo in Beijing
+Baidu's Ernie is the first Chinese chatbot to rival ChatGPT, but its service will have to comply with Chinese laws and regulations, including data collection and processing, as well as the state's strict internet censorship rules.
+"China's censorship practices are going to restrict what users will be able to ask the chatbot to say or do", Huang said.
+"Teasing out all these cultural nuances and then reflecting them back in a chat-bot, which actually doesn't know what it is saying, will be really interesting. It will also be interesting to see what the effect state-censorship has on the capabilities of the Chinese chat bot.
+"Overall the politburo in Beijing would definitely want to tailor its capabilities.
+"If you can generate enough training data you can make a AI say anything you want.
+"In some ways the chatbot will be forced to say certain things, because of the way China is moderating online content.
+"That online content, which is the filtered version that the Chinese government wants their citizens to see, will be fed into all of the Chinese chat-bots."
+Huang said skewed information could be magnified when AI chat bots feed off information that is generated not by humans, but by other chatbots that have been tailored to output state propaganda.
+"You can actually just create an AI model to create content, then feed that data into another AI models, then all of a sudden you have computers teaching computers, and if one of them is seeded with government sanctioned speech and views, this could go in a whole wide variety of directions", Huang said.
+Baidu plans to integrate AI tool into its online search engine
+Baidu plans to integrate the new chatbot into its online search engines, in much the same way that Microsoft has incorporated ChatGPT into its Bing search engine, according to the Wall Street Journal.
+In February, China's minister of science and technology Wang Zhigang said that developing a ChatGPT-like product would be challenging, adding that, "playing soccer is just a matter of dribbling and shooting, but it's not easy to be as good as Messi, so we will have to wait and see whether China can attain results like OpenAI's".
+The rise of deepfakes
+Now that chatbot technology is becoming open-source, deepfakes have garnered widespread attention for their potential use in creating fake news, hoaxes, bullying, and even financial fraud.
+A deepfake is created when a person in an existing image, video or piece of audio is imitated or replaced with someone else's likeness.
+Huang said: "Given the attention on AI tools right now, anything that could be remotely used for deepfakes will be tried.
+"This is for both good and bad, entertainment, advertising and consumer apps on the good side, and you can use your imagination on the bad side.
+"This is already happening outside of China. There have been tools that could have been used for voice cloning, and laying that on to existing videos.
+"Those companies had to shut down access again in a matter of hours, simply because the internet had already seized upon those capabilities for deep-fake like out-puts."
+Blockchain meets robotics and AI
+As world powers are locked in an AI race, many technology developers argue that this new technology should not be exclusively controlled by nation states or private corporations.
+They argue for artificial intelligence to be open source, meaning that the underlying code is available for others to use, learn, and adapt.
+Blockchain technology can be used to distribute ownership and control of AI systems on a global scale.
+This month saw the release of the world's first decentralised, blockchain-based marketplace for "buying and selling artificial intelligence models, such as brains for robots".
+The Roko Network is built on the Ethereum blockchain (ETH-USD) and has been named after 'Roko's Basilisk', described as the most terrifying thought experiment ever, which describes a future in which an all powerful AI punishes those who did not help bring it into existence.
+The Roko Network has so far made a strategic partnership with Point Blank, a robotics and aerospace company that supported the of launch of the DOGE-1 moon mission satellite.
+In 2021, Elon Musk revealed SpaceX plans to launch the DOGE-1 satellite on a moon mission in partnership with Point Blank, Unizen, ZenX Labs, and energy tech firm Geometric Energy Corporation (GEC).
+GPT-4 has accelerated the capabilities of artificial intelligence
+AI developments are heating up, with Tuesday's release of the successor to ChatGPT, GPT-4.
+Ulrik Stig Hansen, co-founder and president at Encord told Yahoo Finance UK: "When it comes to AI, we haven't seen anything yet. The hype didn't reach its peak with GPT3.
+"GPT-4 has the same number of parameters as the number of neurons in the human brain, meaning that it will mimic our cognitive performance much more closely than GPT3 because this model will have nearly as many neural connections as the human brain has.
+"Now that they've overcome the obstacle of building robust models, the main challenge for machine learning engineers is to ensure that models like ChatGPT perform accurately on every problem they encounter.
+"That means machine learning teams have to think carefully about the model training process. For foundation models like ChatGPT to reach their full potential, they'll need to leverage active learning.
+"With active learning, the model identifies where it's struggling and asks for the specific data it needs to improve its performance.
+"By retraining the model with this missing subset of data, machine learning teams can close the performance gap for outlier scenarios so that the model predicts accurately even when it encounters very specific and unusual problems."
+Watch: How ChatGPT could lead to 'mass technological unemployment' – The Crypto Mile
+Download the Yahoo Finance app, available for Apple and Android.

@@ -1,0 +1,7 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta will soon offer paid versions of Facebook and Instagram in the UK that will remove advertising from both platforms.
+In the coming weeks, users will be given the choice to pay £2.99 (A$6.12) a month to access ad-free versions of either service on the web, or £3.99 for the iOS or Android apps. Meta said it was charging more for access on apps because of subscription fees levied by Apple and Google on their respective app stores.
+Loading...
+Bloomberg

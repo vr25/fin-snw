@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.
+Instead of simply buying as many AI chips as possible, Apple buys computing capacity from outside partners, finance chief Kevan Parekh explained Thursday on the company's fourth quarter earnings call.
+When Apple does build servers for its AI software, the company is using its own chips — not those from Nvidia or AMD — to power a service it calls Private Cloud Compute.
+"I don't see us moving away from this hybrid model, where we leverage both first-party capacity as well as leverage third-party capacity," Parekh said.
+Apple's results on Thursday closed out a busy week of earnings for the tech industry. Alphabet, Microsoft, and Meta reported on Wednesday, while Amazon reported on Thursday.
+All of the companies said they planned to boost spending on capital expenditures to secure the computing capacity needed to develop next-generation AI and serve users.
+Alphabet said it expects to spend about $92 billion on capital expenditures this year. Microsoft said it spent about $34.9 billion on capex during the September quarter and will spend more in capex for its fiscal 2026 than it did the year prior.
+Meta stock got whacked after CEO Mark Zuckerberg defended the company's plan to spend about $71 billion on AI chips and other expenses in 2025. On Thursday, Amazon raised its 2025 spending forecast 6% to $125 billion.
+Compared to them, Apple's barely spending at all.
+In its fiscal 2025, which ended in September, Apple spent $12.72 billion on capital expenditures.
+And yet, that's up 35% from what it spent last year, a significant increase. Parekh said Apple is expecting further increases. Analysts expect Apple's capex to increase to $14.3 billion this year, according to FactSet.
+"In '25 we did have capex costs associated with building out our Private Cloud Compute environment in our first party data centers," Parekh said. Earlier this month, Apple announced that it was starting to ship those servers from a factory in Houston.
+Last year, the company released Apple Intelligence, a suite of AI tools that runs on the company's chips that can summarize notifications, generate images like new emojis, and pass complicated queries to OpenAI's ChatGPT.
+Apple Intelligence has received mixed reviews from critics, and one of its centerpieces, an improved Siri assistant, was delayed by the company in May until 2026. The improved Siri is on track to come out next year, Apple said Thursday.
+But if Apple's decision to take a different approach to AI puts the company's hardware sales at risk, it hasn't happened yet.
+Apple CEO Tim Cook told CNBC's Steve Kovach that the consumer response to the company's iPhone 17 models was "off the chart," and the company said that overall sales would rise between 10% and 12% in the company's December quarter. Apple executives were effusive on a call with analysts about the new iPhone's popularity.
+Still, Apple executives are aware that that AI features like Apple Intelligence are a factor in smartphone purchasing decisions.
+"We're very bullish on it becoming a greater factor," Cook said.
+Apple's "hybrid" approach means that some of what the company spends on compute for AI ends up as an operating expense, instead of a capital expense. Analysts pressed Apple executives that the company's operating expenses rose 11% in the past year to $15.91 billion.
+"We are increasing our investments in AI, while also continuing to invest in our product roadmap," Parekh said. "The vast majority of the increase to our operating expenses are driven by R&D."
+WATCH: Apple will outperform Amazon from tomorrow to end of year, says Deepwater's Gene Munster

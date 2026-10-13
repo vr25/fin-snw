@@ -1,0 +1,55 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Updated April 29, 2026 at 11:05 AM CDT
+A courtroom brawl between two of the tech industry's most powerful leaders, Tesla CEO Elon Musk and OpenAI CEO Sam Altman, is underway in Oakland, California in a case that could transform one of the world's most important artificial intelligence companies.
+"Ladies and gentlemen, we are here today because the defendants in this case stole a charity," Steve Molo, an attorney for Musk, said in his opening statement.
+In his lawsuit, Musk has argued that Altman steered the company they cofounded a decade ago, ChatGPT creator OpenAI, away from its original mission as a nonprofit meant to develop advanced AI for the benefit of humanity and free of profit motives.
+The case hinges on a decision early on by OpenAI's founders that they needed to create a for-profit entity to tap capital markets for funding on a scale necessary to build advanced AI. When discussions about who would run the for-profit business broke down in 2018, Musk left.
+The following year, OpenAI launched a for-profit division, which has since ballooned in value; at the end of March, the company said it was worth $852 billion.
+Now, Musk's lawyers argue that Altman and others profited illegally through that for-profit conversion.
+"They enriched themselves, they made themselves more powerful, and they breached the very basic principles on which the charity was founded," Molo said in court.
+According to his suit, Musk is seeking a rollback of that change, and wants Altman, OpenAI President Greg Brockman and financial backer Microsoft to "disgorge" tens of billions of dollars in "ill-gotten gains" that have flowed from it.
+Musk is also seeking Altman's ouster as a director of OpenAI's nonprofit board, and removal of both Altman and Brockman as officers of the for-profit company.
+As part of his opening statement, Molo asked Musk to stand up, which he did — waving to the people in the courtroom.
+"Everybody seems to know Mr. Musk and everybody seems to have an opinion about Mr. Musk," Molo said. But he reminded the jury that they took an oath to put their opinions aside, and thanked them for it. "The case isn't about Mr. Musk, it's about the defendants," he said.
+He also filled the jury in on Musk's personal and business history; growing up in South Africa, immigrating to Canada and the United States, and giving a brief overview of Musk's companies including SpaceX, Tesla, and Neuralink.
+Molo said that since college Musk has been concerned about what could happen when computers become smarter than people, and that over the course of the trial, his attorneys would call experts to testify about some of those risks, including the possibility that an AI could manipulate financial markets or disseminate misinformation, or that there could be a "concentration risk" caused by one powerful corporation or small group of people controlling a superpowerful AI.
+"As AI became more advanced, Elon became more worried," Molo said, particularly about the idea that the government was not doing enough to curtail these risks. That led him to develop OpenAI along with Altman, Molo said, as a nonprofit intended to develop safer AI. "It wasn't a vehicle for people to get rich," Molo said. "And they wanted the technology to be open."
+Musk poured about $38 million into the nonprofit over the course of about 5 years, Molo said. "Without Elon Musk there would be no OpenAI, pure and simple," he said.
+Over time, Molo said, Musk and OpenAI's other leaders discussed creating a for-profit entity to support the nonprofit — he compared it to the way a museum store supports a museum.
+Initially, Molo said, Musk would have majority control of the for-profit subsidiary, but eventually that would be diminished over time. But the partners could never come to an agreement, and Musk ended negotiations and later resigned from the OpenAI board.
+The crux of his dispute with OpenAI, Molo said, is that OpenAI later did a $10 billion deal with Microsoft. At this point, Molo said, OpenAI "was no longer operating for the good of humanity as a whole. It was for profit operating for the good of the defendants."
+OpenAI responds
+OpenAI has long contended that Musk was onboard with the conversion to a for-profit company.
+In an online statement published before the trial began, OpenAI has said Musk was involved in the discussions about converting part of the company to a nonprofit, and that in 2017, "We and Elon agreed that a for-profit was the next step for OpenAI to advance the mission."
+OpenAI has also argued online that its mission has never changed. The for-profit entity is a subsidiary of the nonprofit OpenAI Foundation.
+The company has framed the dispute as being more of a struggle over control than over the launch of a for-profit arm: Online, OpenAI has said that Musk wanted control of the for-profit company, but "we couldn't agree to terms on a for-profit with Elon because we felt it was against the mission for any individual to have absolute control over OpenAI."
+"We're sad that it's come to this with someone whom we've deeply admired—someone who inspired us to aim higher, then told us we would fail, started a competitor, and then sued us when we started making meaningful progress towards OpenAI's mission without him," the OpenAI statement said.
+In 2023, Musk launched his own AI company, xAI, now a subsidiary of his aerospace firm SpaceX.
+And in court on Tuesday, OpenAI's lead counsel William Savitt hammered those points in his opening statement. "We're here because Mr. Musk didn't get his way at OpenAI," he said. And "because he's a competitor, he will do anything he can to attack OpenAI."
+In 2017, he said, Musk wanted to turn OpenAI into a for-profit with himself at the helm. But, he said, "the other founders refused to turn the keys of artificial intelligence over to one person."
+Musk sought to merge OpenAI with Tesla, he continued, but the other founders rejected that, too. "They didn't want to be part of a car company that Musk controlled," Savitt said.
+"Most importantly," he continued, "One person having control wasn't consistent with OpenAI's mission."
+After Musk left, Savitt said, Musk was furious that OpenAI succeeded without him: "Then he launched his own competitor. Then he launched lawsuits."
+Savitt said that during the trial, OpenAI's attorneys will produce evidence to show that the OpenAI nonprofit foundation remains in control of the organization and that it's doing good work.
+And they will argue that Musk's true interest in this suit is not OpenAI's nonprofit status. "What he cares about is Elon Musk being at the top," Savitt said.
+Don't want 'a Terminator outcome'
+Later in the afternoon, Musk took the stand as a witness, answering nearly two hours of questions from his lead lawyer, ranging from his history as a tech entrepreneur to his concerns about AI.
+Musk said he decided there was a need to launch a nonprofit organization to develop artificial intelligence after conversations with Google founder Larry Page in which Musk said he did not feel that Google — at the time leading in AI with its DeepMind project — was sufficiently alarmed about potential risks.
+"We don't want to have a Terminator outcome," Musk said, referring to the 1984 James Cameron film about smart robots trying to destroy humanity.
+"At the time, I was talking with everyone I knew about AI," Musk said. At one point, his brother told him to stop talking about AI at parties "because it's a buzzkill."
+Musk testified that he would have started a nonprofit to develop safe AI "with or without Sam Altman and Greg Brockman." But he said he decided to team up with the duo because their interests aligned.
+Asked by his lawyer if he would have donated money, time and energy to OpenAI if the mission was not to be a nonprofit developing the technology to benefit humanity, Musk said no.
+"I mean, I came up with the idea, the name, recruited the key people, taught them everything I know, provided all of the initial funding — besides that, nothing. It was a lot," he said, adding: "I specifically chose to make it something for the benefit of all humanity."
+Musk testified that in 2015 he was "instrumental" in recruiting Ilya Sutskever, a computer scientist who had been working for Google, to join OpenAI. Musk described him as "critical to the success of the company" and said Sutskever was perhaps one of the top three AI researchers in the world at the time.
+He said he also led efforts to tap into Microsoft's cloud computing systems by personally contacting its CEO, Satya Nadella. "Every time I see Satya Nadella he reminds me … that the only reason he's in this thing is because of me. Those are his words," Musk said.
+Musk also took credit for obtaining one of the first AI "supercomputers" for OpenAI from the chip design firm Nvidia by reaching out to Jensen Huang, the company's CEO.
+On the idea of creating a for-profit company to raise funds, Musk says he was in favor of it "in the vein of being a small adjunct to the nonprofit."
+"I think it's perfectly OK for a for-profit to fund a nonprofit. It's just not ok for the for-profit to take the vast majority of value away from the nonprofit," he continued.
+Musk acknowledged he had sought control of the for-profit entity, but said he expected his share to be diluted to less than 50% "probably within a few years."
+What comes next?
+The trial is expected to last around three weeks.
+In addition to further testimony from Musk, Altman is expected to testify, along with Brockman, Microsoft CEO Satya Nadella, and several key researchers and engineers involved in OpenAI's launch.
+Microsoft is a financial supporter of NPR.
+Copyright 2026 NPR

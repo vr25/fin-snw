@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Artificial intelligence (AI) investing is making some investors nervous due to the sheer amount of capital being used in building out computing infrastructure. The numbers are truly massive, and nothing like this has ever been seen before, which is why it's OK to be a bit worried. However, I think investors should also position themselves to invest in the companies that are a part of the build-out. These are the companies getting paid right now, and they don't have to wait for AI to prove its usefulness, as it will be years before investors know if all of the massive amount of money being spent was worth it.
+Two popular stocks in this realm are CoreWeave (CRWV -2.82%) and Nebius (NBIS -2.53%). Both of these companies are focused on building and equipping data centers with the most cutting-edge technology possible to attract various AI businesses, but which is the best buy now?
+CoreWeave and Nebius are rapidly building
+CoreWeave's data centers are being built with a handful of customers in mind. In 2025, one customer accounted for 67% of CoreWeave's revenue. Although unnamed in its annual report, this customer is largely assumed to be Microsoft. Microsoft is an established company that's growing rapidly and needs as much cloud computing capacity as possible, so it's not like an unreliable customer is CoreWeave's biggest client.
+NASDAQ: CRWV
+Key Data Points
+Microsoft is one of Nebius' biggest customers, too. It has a multibillion-dollar contract, giving Nebius a solid client. However, Nebius also has a huge contract with Meta Platforms. Both Nebius and CoreWeave are ways for the AI hyperscalers to obtain massive computing power quickly, so it should come as no surprise that these two are racing to build out as much computing infrastructure as possible so their biggest clients can expand with them.
+This has led to some unreal projections for both of them.
+For 2026 and 2027, Wall Street analysts project Nebius' revenue to grow at 532% and 181%, respectively. CoreWeave's growth is comparatively slower, but it's still expected to grow at a 142% pace in 2026 and 85% in 2027.
+NASDAQ: NBIS
+Key Data Points
+This gives investors an idea of how rapidly these two are expanding, but which one is the better buy now?
+Neither company is turning a profit quite yet
+Both companies are spending as much money as possible to build out their computing capacity to capture as much market share as possible before the AI build-out is over. This is a smart move, and investors need to understand that profits will come eventually, but not right now. As a result, valuing the stocks off sales seems to be the best move. However, with how quickly Nebius expects to grow this year versus CoreWeave, I'm going to use the forward price-to-sales ratio to assess their relative valuations.
+From this perspective, CoreWeave is quite a bit cheaper than Nebius. As a result, I think CoreWeave has a better value proposition than Nebius. However, that's not everything investors should consider. Although we know neither company is generating a profit, it's good to assess how far away each company is from breaking even. If we look at each operating margin, it's clear that CoreWeave is far closer than Nebius is.
+As a result, I'm going to give the nod to CoreWeave in this comparison. It's cheaper and a lot closer to breaking even than Nebius is. It also has a close relationship to Nvidia, its primary computing unit supplier. This could become invaluable if GPU supply becomes tight, giving CoreWeave a huge advantage over the competition. Still, I think investors can invest in both companies and be all right, as the AI build-out will produce several big winners.

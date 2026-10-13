@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+What Happened?
+A number of stocks fell in the afternoon session after a broader selloff hit the semiconductor sector amid valuation concerns and investor nervousness ahead of Nvidia's earnings report.
+The decline was part of an industry-wide trend where investors retreat from richly valued chip stocks. These stocks were a primary force behind the U.S. market's climb to record highs.
+Earnings from Nvidia, a key player in the artificial intelligence space, were viewed as a significant test for the AI boom narrative that powered the market. This uncertainty contributed to the negative sentiment across the semiconductor space, leading to a slide in major chipmakers.
+The stock market overreacts to news, and big price drops can present good opportunities to buy high-quality stocks.
+Among others, the following stocks were impacted:
+- Semiconductor Manufacturing company Amtech (NASDAQ: ASYS) fell 2.6%. Is now the time to buy Amtech? Access our full analysis report here, it’s free.
+- Analog Semiconductors company Monolithic Power Systems (NASDAQ: MPWR) fell 2.8%. Is now the time to buy Monolithic Power Systems? Access our full analysis report here, it’s free.
+Zooming In On Monolithic Power Systems (MPWR)
+Monolithic Power Systems’s shares are very volatile and have had 21 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.
+The previous big move we wrote about was about 21 hours ago when the stock dropped 4.8% on the news that a broad-based sell-off hit the semiconductor sector following news of a potential strike at Samsung and a stake sale by Taiwan Semiconductor Manufacturing (TSMC), which rattled global chip supply chains.
+These events highlighted significant supply-chain risks, triggering a sharp reversal across the chip industry. Adding to the sector's weakness were rising valuation concerns, inflation fears, and broader market jitters that led to renewed selling pressure on major companies like NVIDIA, Intel, and Micron Technology.
+Furthermore, ongoing supply constraints for rare earth materials, which are used in semiconductor manufacturing, reportedly caused delays and higher input costs for firms in the sector, compounding the negative sentiment for chip-related stocks.
+Monolithic Power Systems is up 54.7% since the beginning of the year, but at $1,449 per share, it is still trading 12.8% below its 52-week high of $1,661 from May 2026. Investors who bought $1,000 worth of Monolithic Power Systems’s shares 5 years ago would now be looking at an investment worth $4,530.
+ONE MORE THING: 3 Hidden Platforms Growing 3X Faster than Amazon, Google, and PayPal. Amazon, Google, and Meta all followed the same playbook: Dominate an ignored market. Build an unbeatable moat. Scale until you’re unstoppable.
+These three platforms are running that exact playbook right now. The early investors in Amazon made fortunes. The early investors in these could do the same. Get All 3 Stocks Here for FREE.

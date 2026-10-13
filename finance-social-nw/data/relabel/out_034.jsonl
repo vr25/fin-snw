@@ -1,0 +1,20 @@
+{"id": "0680", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "For over two decades, Google has", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0681", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Let's talk web3, crypto, Metaverse,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0682", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Stocks are on a record-setting", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0683", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "A $1 trillion industry by the", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "0684", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "A $1 trillion industry by the", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0685", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "A $1 trillion industry by the", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "0686", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "A $1 trillion industry by the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0687", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "A $1 trillion industry by the", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "0688", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "A $1 trillion industry by the", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0689", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ROCHESTER — In June 2022, when", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0690", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The HBM memory industry is witnessing", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0691", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The commissioner of the Federal Communications", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0692", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "A ton of solid gaming laptops", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0693", "ticker_a": "AVGO", "ticker_b": "META", "first_words": "Facebook parent Meta has announced the", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "0694", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Some of Wall Street's biggest investors", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0695", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Nvidia is now worth more than", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "0696", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia is now worth more than", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "0697", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia is now worth more than", "relation": "substitute-comparison", "sentiment_alignment": 0.6}
+{"id": "0698", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Nvidia is now worth more than", "relation": "substitute-comparison", "sentiment_alignment": 0.9}
+{"id": "0699", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Nvidia is now worth more than", "relation": "substitute-comparison", "sentiment_alignment": 0.85}

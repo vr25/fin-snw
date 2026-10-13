@@ -1,0 +1,35 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Updated May 16, 2024 at 17:00 PM ET
+The Dow Jones Industrial Average surpassed 40,000 points on Thursday for the first time ever, signaling a strong endorsement of the health of the U.S. economy.
+The trigger that drove the market to a historic high was new data released Wednesday showing annual inflation easing after three consecutive months of higher-than-expected reports.
+For investors the news of cooling inflation was a huge relief. Stubborn inflation has been one of the top challenges for an economy that otherwise is doing remarkably well.
+The question now is whether these gains in the markets can be sustained. The Dow eventually gave up its earlier gains and ended down slightly at 39,869 points.
+Here are three things to know about where things stand in stock markets.
+As the cliché goes, it's the economy, stupid
+Investors had started the year brimming with optimism about the economy.
+Some of that hope still remains. Growth has been remarkably sturdy. The labor market has been doing incredibly well. And corporate profits have been largely booming.
+The biggest unknown remains inflation. The Federal Reserve has raised interest rates to their highest in over two decades in order to cool prices.
+The interest rate hikes have impacted the economy by pushing up the cost of loans, like mortgages and car loans. High prices and high interest rates have been a double whammy for consumers.
+After a string of higher-than-expected inflation reports in January, February and March, optimism began to evaporate.
+Finally, investors got a reprieve with Wednesday's government report which showed annual inflation easing to 3.4% in April from a year ago. It was also lower than the previous month and in line with expectations.
+Now, practically speaking, hitting 40,000 is really no different from any other number.
+But it represents a major psychological milestone.
+Easing inflation could allow the Fed to finally start cutting interest rates, bringing a little relief to millions of people who carry debt, whether in credit cards or home loans.
+It could raise renew hope for that cherished "soft landing" — when the Fed can manage to cool down prices without sparking a recession.
+"The idea that the economy can keep moving along while the inflation numbers come down, that's got everyone excited," says Marc Dizard, the Chief Investment Strategist for PNC Asset Management Group.
+But the market rally is also about AI
+The bullish market hasn't been just about the economy.
+Since last year, broader stock markets have been helped by pumping up companies tied to the new investment craze: artificial intelligence.
+Gains have been largely driven by seven companies widely referred to as the "Magnificent Seven."
+Those companies — Microsoft, Amazon, Apple, Alphabet, Meta, Nvidia and Tesla — have helped push up broader markets.
+Only three of those companies are in the Dow Jones index. Nonetheless a rally in technology shares can still have a spillover impact on the Dow.
+All three major indexes, including the S&P 500 and the Nasdaq, hit record highs earlier on Thursday.
+The outlook for markets: proceed with caution
+Despite the gains on Thursday, and the milestone for the Dow, future gains are still in doubt.
+"We like we like it when the Dow hits 40,000, don't get us wrong," says Dizard at PNC Asset Management. "But we just think you have to approach it with caution."
+The Fed had previously signaled it could cut interest rates three times this year. But that is now unclear after disappointing inflation data earlier in the year.
+And the economy has held up pretty well, but it could still slow down and potentially even tip into recession if interest rates remain high.
+As high interest rates continue to pose a burden on consumers, it can make it more expensive to pay down their debts.
+Copyright 2024 NPR

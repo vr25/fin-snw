@@ -1,0 +1,192 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+For over two decades, Google has been the search engine that most people use for everyday searches, product research, and staying up to date on the latest news.
+Because of this market dominance, Google has also been the main search engine of focus for SEO and marketing professionals.
+However, following the introduction of ChatGPT and Bing Chat, Google founders Larry Page and Sergey Brin reportedly returned to take an active role in Google’s plans to add chatbot features to Google Search.
+Shortly after that, around May 2023, Google introduced the chatbot Bard (later renamed Gemini), and after a year, rolled out “AI Overviews” on May 14, 2024, to U.S.-based searchers.
+OpenAI followed with ChatGPT search in late 2024, transforming the former SearchGPT prototype into a fully integrated search feature within ChatGPT.
+Google does still hold the majority market share, but there are several alternative search engines that offer distinct advantages over Google, such as enhanced privacy, specialized content, unique algorithms, and tailored user experiences.
+Here are 25 of the best alternative search engines you can try.
+AI-Powered Search Engines
+Where search engines include AI chatbots based on large language models, they become prone to errors and hallucinations.
+Always verify critical information you get from AI-based search engines, such as medical, financial, legal, safety, etc., using authoritative sources.
+1. ChatGPT Search
+Monthly Traffic To Domain: 5.84 billion
+OpenAI’s ChatGPT search, officially launched in October 2024, is an evolution from its earlier SearchGPT prototype.
+This feature leverages live web data and AI to deliver relevant answers with clear citations.
+The service launched as a paid offering but is now available to all users.
+Key Features
+- Ability to ask follow-up questions.
+- Real-time information by pulling the latest data from the web.
+- Content attributions and links back to the original content sources.
+- Tools for publishers to manage how their content appears in ChatGPT Search.
+Since its launch, OpenAI has continued to refine the feature, adding improved context handling and more comprehensive citation methods to address initial concerns about attribution accuracy.
+2. Google AI Mode
+AI Mode is Google’s newest experiment in AI-enhanced search.
+Launched in early 2025, this feature builds upon Google’s AI Overviews by adding more advanced reasoning capabilities and interactive conversation.
+The experience is designed for queries requiring deeper exploration, reasoning, or comparisons.
+Unlike standard Google Search, AI Mode enables users to:
+- Ask follow-up questions on a topic.
+- Explore subjects in greater depth with information from multiple web sources.
+- Maintain conversation history for later reference.
+- Interact via text or voice commands.
+AI Mode appears as an opt-in experience in Google Search for eligible users in supported regions in multiple languages and countries.
+3. Perplexity.ai
+Monthly traffic to domain: 179.5 million
+Perplexity.ai, founded in 2022, is an innovative alternative to Google that provides contextually rich answers.
+Unlike traditional search engines that primarily link to webpages, Perplexity.ai is a chatbot that directly answers questions by citing sources from which it fetches information, with an option to ask follow-up questions.
+This feature allows users to delve deeper into their initial queries by asking subsequent, related questions. This interactive approach mimics a conversational style, making it easier for users to refine their search and get more precise answers.
+This evolving, dialog-based search experience positions Perplexity.ai as a compelling choice for users seeking a more intuitive and responsive search tool.
+However, since it uses LLMs for answer extraction, it can hallucinate, leading to incorrect or misleading answers.
+4. You.com
+Monthly visits to domain: 1.54 million
+You.com is an AI-powered search engine founded by Richard Socher, a prominent natural language processing (NLP) researcher and former chief scientist of Salesforce.
+The site operates in two modes: a personal mode and a private mode.
+In personal mode, users can configure their source preferences. While in private mode, they enjoy a completely untraceable experience; no telemetry data is recorded.
+The company also offers a Chrome extension and AI-powered image generation.
+The open search platform encourages developers to build apps and contribute to a more open and collaborative internet.
+A Revenue-Sharing Search Engine
+5. Yep.com
+Monthly traffic to domain: 152,092
+Yep.com (by Ahrefs) promotes itself as a search engine with a difference. It emphasizes user privacy by not tracking users or selling their data.
+It monitors the frequency of specific word searches and the popularity of certain links in terms of clicks. However, it doesn’t compile a personal profile for targeted advertising.
+It is designed to directly reward and compensate content creators by using a 90/10 revenue share business model.
+This means that 90% of all advertising revenue goes directly to the creators of content, allowing them to earn money for their work.
+In addition, this business model allows users to directly support their favorite content creators and ensures that content creators are fairly compensated.
+A Copyright-Free Search Engine
+6. Openverse
+Monthly traffic to domain: 270,413
+Openverse should be your first stop on the hunt for nearly any type of copyright-free content.
+While Google provides a broader range of search results, Openverse stands out with its focus on a vast, searchable collection of open-source media, including images, audio, and videos.
+This search engine is perfect if you need music for a video, an image for a blog post, or anything else, without worrying about angry artists coming after you for ripping off their work.
+Mainstream Search Engines
+Mainstream search engines are the Google alternatives that have maintained a modest market share over the past several years.
+7. Bing.com
+Monthly traffic to domain: 3.4 billion
+As of December 2025, Microsoft Bing sites handled 9.63% of all search queries in the United States.
+One could argue that Bing outperforms Google in certain respects.
+For starters, Bing has a rewards program that allows one to accumulate points while searching. These points are redeemable at the Microsoft and Windows stores, which is a nice perk.
+In my view, the Bing visual search API is superior to its rivals and much more intuitive.
+Bing carries that same clean user experience to video, making it the go-to source for video searches without a YouTube bias.
+On Feb. 7, 2023, Bing announced an all-new, AI-powered version of its search engine called “Bing Chat,” which is now called Copilot. The stated goal is to “deliver better search, more complete answers, a new chat experience, and the ability to generate content.”
+Additionally, Microsoft announced an enhancement of Bing search with a combination of large and small language models for more precise results.
+According to Satya Nadella, chairman and CEO of Microsoft, there are 10 billion search queries a day, but approximately half of those go unanswered. Bing is looking to fill that void.
+How To Pull Performance Data
+To access performance data from Bing, use Bing Webmaster Tools.
+Sign up at webmaster.bing.com, verify your website ownership, and gain insights into keyword rankings, crawl statistics, and SEO recommendations.
+8. Yahoo.com
+Monthly traffic to domain: 2.905 billion
+As of December 2025, Yahoo.com (Verizon Media) had a search market share of 3.02% in the U.S.
+Yahoo’s strength is diversification, offering services like email, news, finance, and more, in addition to search.
+Yahoo has been innovating and evolving for more than two decades.
+It made a cryptic tweet on January 20 about making search cool again, but did not take me up on my request to explain what that means.
+How To Pull Performance Data
+Yahoo Search uses Bing’s technology, allowing you to track your performance through Bing Webmaster Tools.
+After setting up your account at webmaster.bing.com, you can access data on impressions, clicks, and keyword rankings for both Bing and Yahoo.
+9. Ecosia
+Monthly traffic to domain: 221.3 million
+Ecosia’s primary distinguishing feature is its commitment to using ad revenue for environmental purposes, specifically tree planting.
+The company is a not-for-profit business and dedicates 100% of its profits to the planet, collaborating with local communities to plant and care for trees around the world.
+It partners with Microsoft’s Bing to use its search index and web advertisement, and offers a browser extension for quicker access to the search engine.
+How To Pull Performance Data
+Ecosia uses Bing’s search technology, so Bing Webmaster Tools is the primary resource for tracking your site’s performance in Ecosia search results.
+Privacy-Focused Search Engines
+Privacy is an increasingly important issue among internet users.
+Privacy-focused search engines prioritize users’ privacy, and their appeal is that they do not track users’ activities or collect personal data.
+Some of the most popular include:
+10. KARMA Search
+Monthly traffic to domain: 719,398
+Imagine a search engine where every query helps save rhinos or replant coral reefs. That’s KARMA – a privacy-first tool that donates 100% of its ad revenue to wildlife nonprofits like Re:wild. Built on Brave’s anti-tracking tech, it’s like DuckDuckGo meets National Geographic. You get clean, Bing-powered results and shortcuts to niche tools like Wolfram Alpha.
+Why It Stands Out
+- No greenwashing: Profits fund real-world conservation (think anti-poaching drones in Kenya).
+- Vertical search shortcuts: Need math or archived pages? One click pulls up Wolfram/Internet Archive.
+- Ethical ads: Uses Bing’s network but strips user identifiers – no creepy tracking.
+Behind The Scenes
+Users love KARMA for its advocacy. One user named wgbtj explained, “Karma is using Brave Search (U.S. company but independent from big tech + more privacy friendly) to power its search engine. Also Karma is donating revenue to fund nonprofits which are protecting animals!”
+How To Pull Performance Data
+Monitor referrals from karmasearch.org in Google Analytics. For ad insights, Bing Webmaster Tools shows which queries drive revenue for their nonprofit partners.
+11. DuckDuckGo
+Monthly traffic to domain: 713.5 million
+As of December 2025, DuckDuckGo had a search market share of 2.21% in the United States.
+DuckDuckGo is a search engine that could also fit into the mainstream category, but the primary “selling feature” is that it doesn’t collect or store any of your personal information.
+Unlike Google, which collects extensive user data to personalize search results and advertisements, DuckDuckGo does not track or profile its users. This means that when you search on DuckDuckGo, your activity remains anonymous.
+Because DuckDuckGo does not track search history or create user profiles, it does not offer filter options based on a user’s search history profile, and there are no persistent targeted ads.
+That means you can run your searches in peace without having to worry about the boogeyman watching you through your computer screen.
+DuckDuckGo is the perfect choice for those who wish to keep their browsing habits and personal information private.
+DuckDuckGo Lite is the mobile version.
+How To Pull Performance Data
+DuckDuckGo doesn’t offer traditional webmaster tools due to its privacy-focused approach.
+To gauge your performance, check your website analytics for traffic sources labeled as “duckduckgo.com” and analyze user engagement metrics from these visitors.
+Since DuckDuckGo pulls results from multiple sources, including Bing, some performance data in Bing Webmaster Tools may indirectly reflect your visibility in DuckDuckGo as well.
+12. Startpage
+Monthly traffic to domain: 74.19 million
+Startpage is a search engine aggregation and does not crawl the web itself.
+Instead, it utilizes a proprietary personal data technology, meaning you can choose to use European servers only so that you’re also protected by stringent European consumer privacy laws, including the General Data Protection Regulation (GDPR).
+It’s a great choice for those who prefer Google’s search results but aren’t keen on having their search history tracked and stored.
+It also includes a URL generator, proxy service, and HTTPS support.
+The URL generator is especially useful because it eliminates the need to collect cookies. Instead, it remembers your settings in a way that promotes privacy.
+How To Pull Performance Data
+Startpage doesn’t provide conventional webmaster tools as it prioritizes user privacy.
+To evaluate your performance, examine your website analytics for traffic sources identified as “startpage.com” and assess user engagement metrics from these visitors.
+13. Swisscows
+Monthly traffic to domain: 856,173
+Swisscows is a unique option on this list, billing itself as a family-friendly semantic search engine.
+It utilizes Bing for its web search capabilities but has also developed its own index for the German language edition.
+It also prides itself on respecting users’ privacy, never collecting, storing, or tracking data.
+It uses artificial intelligence to determine the context of a user’s query.
+Over time, Swisscows promises to answer your questions with surprising accuracy.
+How To Pull Performance Data
+Swisscows doesn’t offer dedicated webmaster tools due to its privacy-first philosophy.
+To measure your performance, review your website analytics for traffic sources marked as “swisscows.com” and evaluate user engagement metrics from these visitors.
+14. Brave
+Monthly traffic to domain: 459 million
+Brave Search achieved full independence from other search engines like Bing. It now operates solely on its own index, a move that emphasizes user privacy and transparency in search results.
+Brave Search has experienced rapid growth. In August 2025, it served 1.56 billion monthly search queries.
+It features free video calls, offline playlists, and a customizable news feed.
+Advanced security features like IPFS integration, Tor (Onion Routing), and a crypto wallet are also available.
+Brave offers rewards for opting into privacy-preserving ads. It claims over 100 million people use its browser each month for a faster and safer web experience.
+How To Pull Performance Data
+Brave Search doesn’t offer traditional webmaster tools due to its privacy-focused approach.
+To assess your performance, check your website analytics for traffic sources identified as “search.brave.com” and analyze user engagement metrics from these visitors.
+15. Kagi
+Monthly traffic to domain: 4.18 million
+Why pay $10/month for a search engine? Ask the academics and journalists who’ve ditched Google for Kagi. This subscription ad-free rebel runs its own index – no ads, no trackers, just raw results. Its “Lenses” feature lets you filter out SEO junk, spotlighting forums, blogs, or peer-reviewed studies.
+Standout Perks
+- No ads, ever: Perfect for researching sensitive topics (try Googling “vaccine side effects” without Big Pharma ads).
+- Custom “Lenses”: Prioritize Reddit threads, academic papers, or indie blogs.
+- Individual plans: $5/month is a Starter Plan that covers 300 searches and standard AI, with individual plans going up to $25/month for additional features like unlimited searches and Research mode.
+The Catch
+Kagi’s small team means occasional bugs. A user named erSajo posted, “BUT, one issue I’m having (I don’t know if that’s a bug or just a lack) is Kagi not showing the date of Reddit posts in the results.”
+How To Pull Performance Data
+No fancy dashboards here. Just watch for kagi.com referrals in your analytics.
+16. Mojeek
+Monthly traffic to domain: 871,091
+Mojeek is the underdog hero of search engines – a scrappy indie crawler that refuses to rely on Google or Bing. Want to find that obscure ’90s Geocities site? Mojeek’s bare-bones index often surfaces gems algorithms bury.
+- Truly independent: Runs MojeekBot, its own crawler (no Big Tech training data).
+- Anti-bias: No personalization = same results for everyone.
+- Indie-friendly: Prioritizes small blogs and forums over corporate sites.
+The Trade-Off
+It’s slower than ChatGPT and uglier than You.com. User, TheJackah commented,
+“It is a UK-based search engine with a focus on privacy. From my experience, it isn’t amazing, but if you adjust how you search, you can get what you need out of it. And the more that use it, the better I’m sure it will get.”
+How To Pull Performance Data
+Check referrals from mojeek.com. No tools – just raw, unfiltered data.
+Knowledge-Based Search Engines
+17. X (Formerly Twitter)
+Monthly traffic to domain: 4.42 billion
+X is hard to beat as a real-time search engine.
+It’s the perfect place to go for minute-by-minute updates in case of an emergency.
+Google will catch up eventually, but nothing beats a tweet in the heat of the moment.
+How To Pull Performance Data
+Access X Analytics for your account to view impressions, engagement rates, profile visits, and follower growth to gauge your performance.
+Additionally, check your website analytics for traffic sources labeled as “t.co” or “x.com” to track visitors arriving from X links.
+18. SlideShare
+Monthly traffic to domain: 38.39 million
+SlideShare allows you to search for documented slideshow presentations.
+You can also search for ebooks and PDFs, making it an excellent tool for preparing a business presentation.
+SlideShare also allows you to save slides and even download the entire slideshow for use on your local computer.
+How To Pull Performance Data
+SlideShare provides basic analytics through its creator dashboard. To assess your performance, access your SlideShare account analytics to view the metrics of your uploaded presentations.
+Check your website analytics for traffic sources labeled as “slideshare.net” to track visitors arriving from your SlideShare content.
+19. Wayback Machine
+Monthly traffic to dom

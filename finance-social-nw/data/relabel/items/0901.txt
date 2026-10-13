@@ -1,0 +1,99 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Engadget Podcast: MoviePass founder Stacy Spikes on the MovieCrash documentary
+Also, we dive into Chromebook Plus laptops with AI and more OpenAI controversy.
+We may receive a commission on purchases made from links.
+This week, Devindra and Engadget's Nathan Ingraham discuss the new Max documentary "MoviePass, MovieCrash" and reminisce about the early days of that wild startup. It was a huge mess in the end, but we wouldn't have subscription plans in theaters without it. We also chat with MoviePass co-founder Stacy Spikes, as well as the documentary's director, Muta'Ali, about the film.
+In other news, Nate explains why Google is adding a slew of AI features to Chromebook Plus notebooks, and we dive into the Fitbit Ace with LTE, which has the potential to be a very useful smartwatch tracker for kids.
+Listen below or subscribe on your podcast app of choice. If you've got suggestions or topics you'd like covered on the show, be sure to email us or drop a note in the comments! And be sure to check out our other podcast, Engadget News!
+Topics
+- 
+Moviepass, MovieCrash interview with CEO Stacy Spikes and director Muta'Ali – 1:33
+- 
+Chromebook Plus laptops are getting AI features soon – 41:43
+- 
+WWDC is scheduled for June 10 – 56:26
+- 
+Cherlynn's Fitbit Ace LTE hands-on : a fitness tracker for kids! – 59:55
+- 
+Sony pulls "fabricated" interview with Last of Us creator Neil Druckman – 1:03:44
+- 
+Vox Media and The Atlantic magazine made content deals with OpenAI – 1:08:06
+- 
+OpenAI's new safety team includes members of the company's board and Sam Altman himself – 1:13:30
+- 
+Listener Mailbag: Windows screen readers on ARM and the iPad as a full-fledged work machine – 1:14:41
+- 
+Working on – 1:23:24
+- 
+Pop culture picks – 1:25:10
+Subscribe!
+Livestream
+Credits
+Hosts: Devindra Hardawar and Nathan Ingraham
+Producer: Ben Ellman
+Music: Dale North and Terrence O'Brien
+Transcript
+Devindra: What's up, Internet, and welcome back to the Engadget Podcast. I'm Senior Editor Devindra Hardawar. Joining me today is Deputy Editor Nathan Ingraham. Hey, Nate.
+Nathan: Hey, Devindra. Good morning, and good morning to our listeners.
+Devindra: Good morning. Happy holiday week, too. It's a bit of a short week here. Not as much news as we typically get, but this is a good time to talk about this documentary that just came out on Max's MoviePass Movie Crash.
+It's about that subscription movie theater startup, which I think everybody, a lot of people were into way back when, and I have a lot of fond memories about it too. We'll talk about that thing and also the story of MoviePass. And we also have an interview with the co founder and current CEO of MoviePass, Stacy Spikes and the director of the documentary, Muta'Ali.
+So stay tuned for that. We'll also be talking about some Chromebook Plus news getting getting AI features. And Nate, I feel like you're the person to talk to about that because you love Chromebooks.
+Nathan: I do. I still do. And I've been checking them out for a few days here. I was away. But got home to new hardware and I've been playing around with it and I have a few initial thoughts.
+Devindra: Okay, we'll do that I feel like nate if you're gonna get any if you're gonna get a tattoo of any kind You would probably get a chrome symbol tattoo for chromebook chrome I would do a chrome
+Nathan: next to an apple
+Devindra: just to mess with people just to mess with people That would be the way to do it as always folks If you're enjoying the show, please be sure to subscribe to us in itunes Or your podcaster of choice, leave us a review on iTunes.
+Drop us an email at podcast@engadget.com. We've got some great reader emails this week too. So we'll talk about that towards the end of the episode. Let's talk about MoviePass Movie Crash. And this is a movie that's out now on Max, the one to watch for HBO. And I think it's pretty good. It's a good exploration of what the hell happened at MoviePass.
+And. I'll tell you all I have I have a lot of feelings about Movie Pass because I'm also a movie critic. I've done a movie podcast since 2008. Movie Pass was also something I started writing about before they were even like a major thing. So in 2012, I met with Stacy Spikes, the one of the founders, and, we had a good discussion about movies and about his own background, because he was also a movie executive and a music producer too, or a music executive. So he's somebody from the movie industry who loves movies and wanted to like. Change the way the whole like movie paradigm work, especially how theaters work.
+I feel like we may take it for granted today, folks, but if you look around, like every major theater chain has a subscription plan, for 20 or 30 bucks a month, you get all you can eat movies. Maybe some wiggle room around pricing and stuff there. Before MoviePass, none of that existed. And that the whole idea of paying a flat fee for all you can eat movies was just like something the entire industry was totally against.
+When MoviePass launched it was like a 50 plan. You had to bring a sheet of paper to the box office and they tell like type something in to get you the ticket. It wasn't great. It took a while for things to get going. Then they did this thing where. They started, they had the card, they got the debit card going, and they got a patent for the ability to automatically fund the debit card based on your location.
+And nobody had ever done that before. So like that movie pass app, 2013, 2014, that was the point where they were like, okay, you have to check into the movie theater and then pick a time. And then you get your ticket. That whole technique had never existed before. So that was like the thing that kind of got them to 500, 000 users.
+The growth was not great for a while because it was still 40 to 50 in many places. Then Stacy spikes got pushed out. He was replaced by a new CEO named Mitch Lowe. He's a guy coming out of red box and Netflix. And then things got crazy because Mitch Lowe talked about, do you remember this Nate?
+Like Mitch Lowe had the like 100 plan and the 50 plan. Yeah. Like as soon as he came on, it went nowhere. And then why do we know why I don't think anybody wants to pay a hundred bucks a month. I wasn't, I love movies. I love going to the theater. I would not pay a hundred bucks a month for this. Then they came up with the 10 a month, all you can eat movie plan, right?
+That's
+Nathan: when I remember starting to really hear about it. That's when the buzz broke out. Cause that was so cheap.
+Devindra: That was the buzz. And that was pretty much, that was all Mitch Lowe and eventually his like co CEO Ted Farnsworth, who came from HMNY, which was this like. I guess it was like a private equity firm.
+It was a whole thing. Things got really confusing, but explosive growth. That's exactly what startups wanted to see in the mid 2010s. Doesn't matter if your business model sustainable. It doesn't matter if they're paying full prices for these tickets, but they're losing money. They're burning, literally setting money on fire to get these users.
+And I think a lot of people within the company raised concerns like, Hey, this is not sustainable. And Mitch Lowe and Ted's farm were were basically. Pedal to the metal. Let's just go all the way. See how far this goes. Is it fair
+Nathan: to say that Stacy's plan was more sustainable and that's probably why it didn't get the big growth, but it could have just continued on.
+At that point and possibly it could have found a smaller audience,
+Devindra: as, so as I hear it and Hey, we have an interview with Stacey and the director of this documentary in this episode. But as I heard it, and as he explains it, like that was what he was saying. It was like, Oh, this 10 thing was going to be.
+A temporary measure. Let's get those users. Let's get some buzz and then switch over to 20 or 30 a month and be more sustainable so we can actually afford to keep this business afloat and Mitchell and Ted's Farnsworth just never really did that. They kept getting more money and burning it all.
+And watching this documentary just brought up a lot of feelings for me, namely, because I remember being really pissed off about this whole story, because first of all, Stacey Spikes is a rare black entrepreneur in the startup world, and you never really see that. So I was like, it's cool that MoviePass is a thing coming from black founders and was like finding some success.
+He was pushed out for Mitch Lowe. All of a sudden the like demographic of the executive board looks very different. They get, they immediately get the funding that Stacey Spikes and his original founder couldn't get. They were struggling to even get documentary gets into this, I hope. Yeah. Yeah. So that's the whole thing.
+And this is it's an infuriating documentary because it's just these guys made a really cool idea, like a really cool business that reshaped the theatrical model completely. They couldn't actually get the money for it because nobody was funding them. Which just really sucks.
+Nathan: Yeah, I guess there's a lot of people only remember them from that sort of boom phase when it was 10 bucks a month and even then, people were asking like, how is this possibly going to be sustainable?
+Cause I didn't know about that prior history so much. And so that makes me really intrigued to see the whole thing play out.
+Devindra: It's the whole thing. It's a good documentary. I also wrote a piece like back then, Nate, adding gadget called movie past died so cinemas can live. And I feel like that still resonates today, to be honest.
+This documentary is worth a watch. I think it's great where things are right now. C. Spikes ended up buying the like remnants of the company at auction for a low price and he's resurrecting it now. I think at a more sustainable price, it's 30 to 40 a month. It's run it using credits instead of just giving you the full money for a ticket.
+So I've not used the new movie pass yet. We'll see where that goes. But hey, theatrical subscription plans. Like I think those are great deals. If you go to the movie theater two or three times a month. Yes, absolutely. You have one. Yeah. I use the my local theaters are regal. So I use it regal and limited.
+I think they call it. But in New York, I was all about the AMCA list. Like that was the thing. If you go to a movie theater two or three times a month, these subscriptions are totally worth it. I have to go. Almost every, almost once a week, almost multiple times a week for things I need to review.
+And I think this documentary is worth a watch. So here, check out our interview. Stacy Spikes and Muta'Ali. Thank you so much for joining us on the Engadget podcast. Thanks Devinder. I'm glad to be here. Happy to chat with you guys and Stacey, let me lay out some history for our listeners here. I remember sitting down with you in my office when I was working at VentureBeat, it was like 2012 and you were laying out the pitch for MoviePass for me.
+I was a movie podcaster at the time, still am, but it was blowing my mind to see the convergence of my interests of the movie side and the tech side of things. So we have been talking a while. I've seen the ups and downs of MoviePass, I'm just wondering at this point, you have resurrected MoviePass, not to spoil the ending of this movie, but if people have seen the news, you've resurrected MoviePass, you're doing something new right now, how is the new iteration of MoviePass going?
+Stacy Spikes: It's going great and yeah we have been talking and on this journey together for a while, but the The difference when we brought it back was we added some features that we knew we needed back in 2016 before the takeover, but hadn't had the opportunity to deploy. So one of the things was adding a credit system so that Where there's savings for the company, we're able to display that savings for the consumer and create alignment where the previous iteration really didn't share that you went in the app and you didn't know, Hey, is movie pass paying full price for this ticket or wholesale for that ticket?
+And so now the credit system creates that alignment. And that was a really big differentiator from B1 to B2.
+Devindra: Gotcha. Yeah, I've, I was noticed that I have not tested out the new version of MoviePass yet, and I also have a lot of questions about how the theater chains ended up responding to you guys too.
+But let's talk about this documentary in particular MoviePass, MovieCrash. Devindra, I'm wondering what brought you to this project and this story?
+Muta'Ali: It was the writing of Jason Guerrasio at Business Insider producer Scott Beltry gave me a call and asked me to read the article about MoviePass and I had heard about MoviePass but I was never a member.
+And once I read his article and learned a little bit about Stacey and Aimee and the journey of MoviePass, I said, wow I'm surprised I didn't know this. I wish that I did. And I think a whole lot of other people would want to know more about this. And so that kind of got me my gears going and after a while, I, I took in a lot of information about when we did a lot of research and joined the team over at unrealistic ideas Mark Warburg's studio.
+And together we developed a way to tell this story. And shortly within that period after a short period of time. I got to meet Stacey over Zoom and really was, obviously impressed by him, impressed by his journey and got a little bit more of an inside look at what had transpired and I was like wow, okay this story is definitely something that I think needs to be told.
+Devindra: Yeah. Devindra, I have to wonder, where were you when MoviePass was at its rise? I'm wondering how you missed it. Were you, are you in New York? Everybody was talking about MoviePass. It was a wild time. But also, it felt wilder to me as somebody who was covering the beginning, too, and being like, this is a good idea.
+It's struggling. It needs some legs. But it was wild to see it really take off. So let's talk about Kind of the history of MoviePass and how things started and your background, Stacey, too. I was fascinated to hear that you were a studio executive. Who came into this at Miramax, right?
+And you had gained a reputation within Hollywood. You wanted to do something that's around movie subscriptions. And I think when we first talked, this was before the debit card idea. This was the idea that you would check in online and bring, I think it was like you had to bring a printout right to the box office to have them to do the Yeah, basically create a ticket for you.
+We talked in 2012 about that idea. It was cool, but it was like 50 at the time. It was a little clunky, but then you guys did. The debit card idea, which I think was the killer thing that kind of helped make it all easier for consumers. But you also had some trouble with the movie theater chains I remember the back and forth like you guys would launch and then the theater chains would be like no We don't want this at all.
+Can you talk about the early turmoil of even making movie past the thing?
+Stacy Spikes: Yeah, so Really good History overview there. But so there was a few iterations. So the very first version we went through movie tickets. com and movie tickets was largely owned by AMC. And when we launched AMC got upset and turned us off.
+Like we literally were born. On Thursday and got turned off by them on Friday. The next day we had done a premiere and a press event in San Francisco, and this was on a Thursday and we're going to let people in on beta. And then the next morning AMC released an announcement that slow, slow down.
+You're I was a little confused by that, by
+Devindra: the way, because like they had to approve this in the beginning. They had to know this was happening. I don't understand how it was like an overnight thing where they're like, Oh crap, what did we approve here?
+Stacy Spikes: Yeah, because we couldn't, a lot of people said how did you do this without their approval?
+You can't get API access to someone's code without their approval. So there was I think the left hand and the right hand had not communicated very well. And so I think the high, the lower end of the spectrum knew about it and thought, Hey, someone's helping to drive traffic to theaters. But I think when senior management got involved and they saw Netflix for movies, theaters splashed across headlines it was like, wait, how did we not know about this?
+I think they just thought we were just going to buy some tickets through their API. And so we had to do some things in the interim, which were absurd. Like you would print out a single use credit card, which basically was, you were printing out a one time use number, going to the box office, having them punch that in manually.
+On a Friday night when there's a line of people and theaters are like, we really don't like this idea. And then that's where the card got born. We knew we needed to create something that was an an OTT platform that would work seamless. And we knew credit cards or debit cards was the way in. Cause every theater had a kiosk or they
+Devindra: couldn't really control that either.
+Like you, Everybody needs to be able to use their debit cards at these things. Yeah.
+Stacy Spikes: So that, that was really the the inflection point that it was unstoppable because every theater, a customer, so we're doing a deal with the customer, they get issued a card and they can go buy a ticket at whatever theater they want.
+So really the theater would be rejecting their own customer, whether they were paying with their debit card. Their regular MasterCard or say a movie past MasterCard.
+Devindra: And the theater is getting a full price ticket purchase too. So it's not like you were getting discounted tickets. I want to set up the context here too, because I think in 2024, the landscape of cinemas looks really different.
+We are post pandemic. Cinemas are hurting, but there's also kind of people have a love for it

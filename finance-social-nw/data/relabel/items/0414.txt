@@ -1,0 +1,8 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+The Nintendo Switch 2 is said to support NVIDIA DLSS technology and sport better ray tracing hardware than Sony's and Microsoft's consoles, making the console a huge step up from its predecessor. These, however, may not be enough to match the performance and visuals the other current-generation gaming systems are capable of.
+Discussing the reports that are circulating online, Digital Foundry's Richard Leadbetter made an interesting observation regarding the new Nintendo console, saying that while DLSS and better ray tracing hardware may give the system an edge over the other systems powered by AMD technology, they may not be enough even to match the Xbox Series S performance, as sheer brute force compute and memory bandwidth are difficult to overcome in the mobile space, which is where the Nintendo Switch 2 is likely to belong like its predecessor.
+Alongside commenting on the potential Nintendo Switch 2 specs, Digital Foundry also made some other observations on the console's capabilities of running Unreal Engine 5-powered games. Since the release of the original Matrix Awakens demo, the engine has been improved quite a bit and is a lot more scalable, thus making it lighter to run. Additionally, it's in NVIDIA and Epic Games' interest for the engine to run as smoothly as possible on the console, as the system may become as popular as the original Switch, and it could be a great showcase of NVIDIA's DLSS and ray tracing hardware capabilities.
+The Nintendo Switch 2 console has yet to be officially revealed. We will keep you updated on the system as soon as more come in on it, so stay tuned for all the latest news.
+Follow Wccftech on Google to get more of our news coverage in your feeds.

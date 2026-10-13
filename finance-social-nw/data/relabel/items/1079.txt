@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Alphabet unit Google GOOGL-Q won a legal challenge on Wednesday against a €1.49-billion (US$1.7-billion) European Union antitrust fine, while Qualcomm QCOM-Q failed to repeal a penalty.
+The rulings underscore outgoing EU antitrust chief Margrethe Vestager’s mixed record in defending her crackdown on Big Tech in court. She scored two major wins last week against Google in a separate case and against Apple’s tax deal with Irish authorities.
+The European Commission in its 2019 decision said Google had abused its dominance to prevent websites from using brokers other than its AdSense platform that provided search adverts. The practices it said were illegal took place from 2006 to 2016.
+The Luxembourg-based General Court mostly agreed with the European Union competition enforcer’s assessments of the case, but annulled the fine, saying that the Commission had failed to take into account all the relevant circumstances.
+“The Commission has also not demonstrated that the clauses in question had, first, possibly deterred innovation, next, helped Google to maintain and strengthen its dominant position on the national markets for online search advertising at issue and, last, that they had possibly harmed consumers,” the judges said.
+Google said the case was about a narrow subset of text-only search ads placed on a limited number of publishers’ websites.
+“We made changes to our contracts in 2016 to remove the relevant provisions, even before the Commission’s decision. We are pleased that the court has recognized errors in the original decision and annulled the fine,” the company said in an e-mail.
+The Commission, which can appeal to the EU Court of Justice (CJEU) on points of law, said it would study the judgment and reflect on possible next steps.
+The AdSense fine, one of a trio of fines that have cost Google a total of 8.25 billion euros, was triggered by a complaint from Microsoft in 2010.
+The company last week lost its final fight against a 2.42 billion euro fine levied for using its price comparison shopping service to gain an unfair advantage over smaller European rivals.
+In Qualcomm’s case, the U.S. chip maker only managed to convince the General Court to trim its EU antitrust fine to 238.7 million euros from 242 million euros.
+Judges threw out all its arguments. The Commission imposed the fine in 2019, saying that Qualcomm sold its chipsets below cost between 2009 and 2011, in a practice known as predatory pricing, to thwart British phone software maker Icera, which is now part of Nvidia Corp.
+“Qualcomm respectfully disagrees with the judgment and the Commission’s decision and believes that we have always remained in compliance with European competition law,” the chip maker said.
+The Commission said it had also taken note of that ruling.
+Qualcomm, which can appeal to the CJEU on points of law, did not immediately respond to a request for comment.

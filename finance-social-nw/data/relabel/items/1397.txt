@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+A trial which could see social media giant Meta forced to sell off Instagram and WhatsApp begins in the US later on Monday.
+The tech giant, which also owns Facebook, faces an antitrust lawsuit from the US government which alleges the firm bought Instagram in 2012 and WhatsApp in 2014 to eliminate competition, creating a social media monopoly in the process.
+The US Federal Trade Commission (FTC) approved the acquisitions at the time but as a competition watchdog has continued to monitor the outcomes, and experts say if it wins the case and forces a sale to break up Meta, it could change the landscape of the social media sector.
+Mike Proulx, vice president research director at analyst firm Forrester, said the case’s possible ramifications, and the ongoing uncertainty around the future of TikTok, could see a “new social media world order” appear.
+“The ramifications of this trial, coupled with TikTok’s future in limbo, potentially puts the very core of the social media market at play. No longer would Meta be its centre of gravity.
+“We haven’t seen anything like this since around 2006-2011 – social media’s earliest days.
+“We’d likely see a renaissance of social media start-ups looking to grab a piece of new social media world order.”
+Mr Proulx said that, although Facebook is the original and centre pillar of Meta’s empire, it could struggle to compete as a social media power and may need to redirect its focus.
+“Meta is trying to make Facebook cool again, but the company’s social media ‘insurance’ is – and has been for a while – Instagram.
+“Without Instagram and WhatsApp, what really is Meta? Could Facebook seriously compete with a stand-alone Instagram? Can Threads monetise at scale? Doubtful. And the company absolutely should not hang its hat on its fledgling metaverse ambitions.
+“Its AI (artificial intelligence) glasses are a bright spot, as is its broader AI work.
+“That means, in a broken-up Meta, the company’s AI initiatives would usurp its social media roots.”
+The trial, which begins in Washington DC on Monday, is expected to last several weeks, with Meta founder Mark Zuckerberg and former chief operating officer Sheryl Sandberg both expected to give evidence.
+Meta is not the only US tech giant under scrutiny over holding an alleged monopoly, with Google also facing the prospect of being forced to sell its Chrome web browser and break up its online search empire.
+After a judge ruled that the firm does hold a monopoly in online search last summer, the US Department of Justice demanded that a court require Google to sell Chrome, among other remedies to end its market dominance – a position it reiterated last month.

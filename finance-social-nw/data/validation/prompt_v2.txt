@@ -1,0 +1,15 @@
+You are classifying the relationship that a news article asserts between two publicly traded companies, identified by their stock tickers.
+
+Article: "{text}"
+Ticker pair: {ticker_a} and {ticker_b}
+
+Definitions (judge only what the article says about THIS pair):
+- causal-driver: the article states or clearly implies that one company's business directly affects the other's (supplier/customer, one buys or uses the other's products, partnership, investment, one firm's demand or results driving the other's).
+- substitute-comparison: the article presents the two companies as competitors or rivals, or explicitly compares them (products, market share, valuation, performance).
+- co-hype: the two companies are mentioned together as participants in, or beneficiaries of, a shared trend or theme (e.g. "AI stocks such as X and Y rallied"), without a direct business link between them.
+- unrelated-mention: both companies appear but the article asserts no relationship between them (incidental mentions, lists, boilerplate, off-topic article, unreadable or garbled text).
+
+If more than one applies, choose the first applicable in this order: causal-driver, substitute-comparison, co-hype, unrelated-mention.
+Also give a sentiment_alignment score from -1 (the article is positive about one and negative about the other) to 1 (same direction of sentiment for both).
+
+Respond with JSON only: {"relation": "...", "sentiment_alignment": 0.0}

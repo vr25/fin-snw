@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+New Delhi: Recent regulations imposed by the European Union (EU) on big tech companies like Google, Apple, and Microsoft have sparked controversy. Google has openly criticized the new Digital Markets Act (DMA), expressing concerns about its impact on users and businesses.
+In a blog post, Adam Cohen, director of economic policy at Google, voiced the company's dissatisfaction with the DMA. He highlighted the adverse effects of Google Search features, particularly for flights, hotels, and local businesses. (Also Read: Veg Thali Becomes Expensive In March, Non-Veg Cheaper: Check Rates)
+According to Cohen, the DMA has compelled Google to remove certain useful features from its search results, such as comprehensive flight information and direct booking options for hotels. (Also Read: China May Use AI Content To Influence Lok Sabha Polls, Warns Microsoft Report)
+This change not only affects users' access to information but also disrupts direct connections between businesses and customers.
+Cohen emphasized that the DMA has led to a decline in direct booking clicks for hotels by as much as 30%. This forces businesses to rely on intermediaries that charge hefty commissions, ultimately harming small firms, airlines, and local businesses.
+Additionally, Cohen noted that users have expressed dissatisfaction with the changes to Google Maps display in search results. Many European users have raised concerns about the absence of a useful Google Maps tab, impacting their search experience.
+Google issued a warning to other countries considering similar regulations, urging them to reconsider. Cohen emphasized that rules like the DMA represent a significant shift in competition policy and could have adverse consequences, particularly for small businesses.
+Stay informed on all the latest news, real-time breaking news updates, and follow all the important headlines in india news and world news on Zee News.

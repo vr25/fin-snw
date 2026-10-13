@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Nvidia, AMD, AWS, and others struck $100 billion in AI deals this week, aiming to profit from cheaper power and faster access to the growing Middle Eastern market for IT services.
+Saudi Arabia unveiled a series of blockbuster AI partnerships with US chip makers, cloud infrastructure providers, and software developers this week, signaling its ambition to become a global AI hub.
+Leveraging its $940 billion Public Investment Fund (PIF) and strategic location, Saudi Arabia is forming partnerships to create sovereign AI infrastructure including advanced data centers and Arabic large language models. Google, Oracle, and Salesforce are deepening AI and cloud commitments in Saudi Arabia that will support Vision 2030, a 15-year program to diversify the country’s economy.
+Within that, the $100 billion Project Transcendence aims to put the kingdom among the top 15 countries in AI by 2030.
+The deals announced during this week’s US-Saudi investment summit in Riyadh include a $20 billion commitment from Saudi firm DataVolt for AI data centers and energy infrastructure in the US and an $80 billion joint investment by Google, DataVolt, Oracle, Salesforce, AMD, and Uber in technologies across both nations, according to a White House fact sheet
+The Riyadh summit, attended by US President Donald Trump and Saudi Crown Prince Mohammed bin Salman, drew tech luminaries including Nvidia CEO Jensen Huang and AMD CEO Lisa Su.
+AI factories
+Humain, an AI company backed by PIF, the Saudi sovereign wealth fund, was at the center of much of the deal-making. Nvidia said it will supply Humain with hundreds of thousands of its most advanced GPUs over the next five years with which the company will build “AI factories” with a capacity of up to 500 megawatts. The first of those will contain 18,000 Grace Blackwell GB300 systems, it said.
+AMD announced a five-year, $10 billion collaboration with Humain to deploy up to 500 megawatts of AI compute in Saudi Arabia and the US, aiming to deploy “multi-exaflop capacity by early 2026.”
+AWS, too, is expanding its data centers in Saudi Arabia to bolster Humain’s cloud infrastructure.
+Saudi Arabia has abundant oil and gas to power those data centers, and is growing its renewable energy resources with the goal of supplying 50% of the country’s power by 2030.
+“Commercial electricity rates, nearly 50% lower than in the US, offer potential cost savings for AI model training, though high local hosting costs due to land, talent, and infrastructure limit total savings,” said Eric Samuel, Associate Director at IDC.
+Located near Middle Eastern population centers and fiber optic cables to Asia, these data centers will offer enterprises low-latency cloud computing for real-time AI applications.
+Late is great
+There’s an advantage to being a relative latecomer to the technology industry, said Eric Samuel, associate director, research at IDC. “Saudi Arabia’s greenfield tech landscape offers a unique opportunity for rapid, ground-up AI integration, unburdened by legacy systems,” he said.
+Arun Chandrasekaran, distinguished VP analyst at Gartner, said the investments signify Saudi Arabia’s “ambition to become a central hub for AI development, rivaling established tech centers in the US and China.”
+Other analysts weighed in on Saudi Arabia’s goals. Neil Shah, vice president research at Counterpoint Research, said the push could make it the next “oil hub” for AI, serving both local and global needs, while Amandeep Singh, practice director at QKS Group, said, “This isn’t just about money. It’s a strategic play to become a long-term AI power and a neutral meeting point for global AI.”
+Despite the vast political and financial resources in play, though, the analysts forecast challenges ahead when it comes to attracting top talent, reducing reliance on Western chips, and building data governance trust.
+While Saudi Arabia is a lucrative new market for companies such as Nvidia and AWS, “They must navigate questions of control and compliance,” said QKS Group’s Singh. Aligning with Saudi Arabia’s push for digital sovereignty requires a delicate balance between Western regulations, export restrictions, and the Kingdom’s drive for independence.
+Political risks
+IDC’s Samuel noted that initiatives like Humain can foster trust and alignment with national priorities, but added, “With the right oversight and governance, political risks can be managed and long-term AI development secured.”
+Building a real AI power bloc in the Middle East is still a tough climb, the analysts said.
+“Saudi Arabia’s ambition needs more than just cash to turn into real influence in the region,” said Singh. “They need shared tech foundations, common AI standards across countries, and everyone to agree on policies — and we’re not quite there yet.”
+Making strong partnerships with other companies and countries will be key for Saudi Arabia to turn its big investments into lasting global influence, the analysts said, making sure its AI plans become more than just a showpiece.
+Turning Saudi Arabia’s AI ambition into real regional power won’t be easy. “Money alone won’t get you there — you need shared foundations, aligned policies, and buy-in from the neighborhood,” said Singh.

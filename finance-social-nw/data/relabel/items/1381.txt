@@ -1,0 +1,30 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+*S&P 500 down more than 4 per cent in early trading
+*Dollar down against euro, yen
+*Safe-haven bonds rally
+Stock indexes tumbled, with the S&P 500 down more than 4 per cent in morning New York trading on Thursday, and the U.S. dollar and oil prices also dropping as President Donald Trump’s drastic U.S. trade tariffs stoked fears of a global recession and led investors to seek safe-haven assets like bonds and the yen.
+A new baseline 10 per cent tariff on imported goods plus some eye-watering reciprocal tariffs on dozens of countries that Trump said had unfair trade barriers left traders rattled by their severity.
+Investors fear a full-blown trade dispute could trigger a sharp global economic slowdown and drive up inflation, with the latest round of U.S. trade tariffs hitting a world economy barely recovered from the post-pandemic inflation surge and dealing with geopolitical strife.
+The euro rallied more than 2 per cent against the dollar. Against the Japanese yen, the dollar weakened 2.51 per cent to 145.49.
+"This is how you sabotage the world’s economic engine while claiming to supercharge it," said Nigel Green, CEO of global financial advisory deVere Group.
+The Nasdaq was down more than 5 per cent, with technology-related shares among the day's biggest drags.
+Apple fell 8.5 per cent, hit by the tariffs on China - the base for much of its manufacturing. Amazon.com was down 7.8 per cent, Microsoft 2 per cent, and Nvidia 5.1 per cent.
+The losses come after trillions off dollars were already wiped off the "Magnificent Seven" tech giants this year as worries have mounted.
+The Dow Jones Industrial Average fell 1,489.79 points, or 3.53 per cent, to 40,735.53, the S&P 500 dropped 228.84 points, or 4.04 per cent, to 5,442.13 and the Nasdaq Composite fell 915.44 points, or 5.20 per cent, to 16,685.61.
+MSCI's gauge of stocks across the globe fell 23.68 points, or 2.83 per cent, to 812.43.
+RECIPROCAL LEVY
+In Europe, the 27-country EU bloc now faces a 20 per cent reciprocal levy. The pan-European STOXX 600 index was down 2.59 per cent.
+Trump's levies impacted Asia particularly hard. China was hit with a 34 per cent reciprocal tariff, Japan 24 per cent, South Korea 25 per cent and Vietnam 46 per cent.
+Vietnamese stocks slumped 6.7 per cent in response. The Nikkei 225 index fell 2.8 per cent.
+Vietnam's Prime Minister Pham Minh Chinh pledged to maintain the country's economic growth target of at least 8 per cent for this year, despite the U.S. imposing its hefty tariff on the Southeast Asian nation's exports.
+The scramble for ultra-safe government bonds that provide a guaranteed income drove down U.S. Treasury yields. The yield on benchmark U.S. 10-year notes fell 17.8 basis points to 4.017 per cent, from 4.195 per cent late on Wednesday.
+Euro area government bond yields dropped, with Germany's 10-year yield, the euro area's benchmark, down 7.5 bps at 2.65 per cent, after hitting 2.625 per cent, its lowest since March 4.
+If the tariffs trigger recessions, central banks around the world are likely to slash interest rates, which benefit bonds.
+Credit rating agency Fitch warned they were a "game-changer" for the U.S. and global economy, while Deutsche Bank called them a "once in a lifetime" moment that could knock between 1 per cent-1.5 per cent off U.S. growth this year.
+"Many countries will likely end up in a recession," said Fitch's head of U.S. economic research, Olu Sonola. "You can throw most forecasts out the door if this tariff rate stays on for an extended period of time."
+Shortly afterwards, Fitch downgraded China's credit rating, citing the steep U.S. tariffs as a reason.
+Oil prices dropped more than 6 per cent, with U.S. crude down 7.07 per cent at $66.64 a barrel and Brent at $70.06 per barrel, down 6.55 per cent on the day.
+Gold hit a record high above $3,160 an ounce before running out of steam while Japan's yen jumped. Spot gold fell 1.23 per cent to $3,094.14 an ounce.
+Published on April 3, 2025

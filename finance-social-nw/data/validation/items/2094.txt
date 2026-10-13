@@ -1,0 +1,43 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+ANI
+                
+29 May 2026, 01:36 GMT+10
+            
+Hyderabad (Telangana) [India], May 28 (ANI): Hyderabad is rapidly emerging as a major hub for data centres and artificial intelligence (AI) infrastructure, with investments worth USD 10-20 billion already in the pipeline, according to Telangana government official.
+Nikhil Chakravarthi J, Commissioner/Director of Industries, Government of Telangana, said the State is targeting nearly five gigawatt of data centre capacity by 2030 and is already seeing strong interest from global technology and infrastructure companies.
+'Telangana is poised to get almost five gigawatt of data centers by 2030,' he said, adding that companies including Tata, Adani, CtrIS, Amazon and Microsoft are either investing or expanding their presence in the state.
+Chakravarthi said this on the sidelines of ASSOCHAM's 10th Smart Datacenters & Cloud Infrastructure Conclave 2026 held in Hyderabad. The conclave, organised by ASSOCHAM, focused on the theme 'Accelerating Telangana: powering India's Digital economy through Data Centres, AI & Cloud.'
+'There are many interested parties right from Tata, ADANIS, CtrIS, the local players being. At the same time, we have OpenAI, Anthropic, Amazon and Microsoft already invested here,' the Commissioner/Director of Industries said.
+According to Chakravarthi, the state government is offering incentives and infrastructure support, including land and quality power supply, to attract investments in the sector.
+'There are many. Almost 10, 20 billion dollars of investments are already in the pipeline. We have given comfort letters to them and infrastructure planning is being done right now,' he said, while adding that groundbreaking ceremonies for some projects are expected in the coming months.
+Industry leaders at the event said data centres are increasingly becoming critical digital infrastructure as AI adoption, cloud computing and digital transactions continue to grow rapidly.
+Rambabu Boorugu, Co-Chairperson, ASSOCHAM Telangana and Executive Director of Pranava Group, said Hyderabad is attracting global players due to its strong talent pool and favourable conditions for data centre infrastructure.
+'Big guys like Amazon, Google and Microsoft and like CtrIS, the Adani is coming. So everyone is trying to come here because Hyderabad has a lot of USPs in this context for the data centre,' he said.
+Highlighting the growing dependence on digital infrastructure, he said, 'Every moment you and me everyone on the planet... is generating data. So every moment by their experiences, their personal needs... ultimately, for anyone to have this data storage, is definitely essential. It's inevitable.'
+Experts at the conclave also highlighted that the rapid growth of data centres is expected to generate large-scale employment across sectors ranging from engineering and construction to cybersecurity and cloud infrastructure management.
+Lovneesh Chanana, Senior Vice President & Head of Government Affairs (Asia Pacific), SAP ASIA Pte Ltd and Chair, ASSOCHAM IT/ITeS Council, said states that build a holistic digital ecosystem combining AI skills, cloud connectivity and infrastructure will be able to create substantial employment opportunities.
+'Data centre is just not a direct job creation industry. It's an indirect job creation industry,' he said.
+'States which will actually have a holistic view to the whole digital piece in terms of the digital AI skills, the cloud connectivity skills, and the infrastructure skill, all three put together are able to create a lot of number of jobs,' he added.
+Telangana officials also said the investments will create opportunities not only in IT services but also in construction, electronics manufacturing, cooling systems and engineering solutions.
+'Initially there will be huge investments in the physical infrastructure space... almost 10 to 20 billion dollars of investment in physical infrastructure,' Nikhil Chakravarthi said, adding that the ecosystem will support both blue-collar and white-collar employment generation.
+However, industry executives acknowledged that the sector continues to face challenges related to power consumption, cooling systems and availability of skilled manpower.
+'One of the biggest bottlenecks what the center has been facing across the globe actually is very highly consuming in terms of electricity and energy and also even the water, the cooling systems,' Rambabu Boorugu said.
+He added that companies are exploring sustainable alternatives such as green hydrogen and renewable energy to reduce the environmental impact of data centres.
+Meanwhile, Chandrasekhar Sarma Garimella, Director-Compliance at CtrIS, highlighted the importance of cybersecurity and uninterrupted operations in the sector, saying CtrIS maintains '99.9995 uptime' standards for customers. (ANI)
+Get a daily dose of Taiwan Sun news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Taiwan Sun.
+More Information
+NEW YORK, New York - U.S. stock markets closed higher Thursday, with the Nasdaq Compossite and Standard and Poor's 500 ecah hitting...
+TAIPEI, Taiwan: Nvidia plans to spend as much as US$150 billion annually in Taiwan as the company deepens its role in the global artificial...
+WASHINGTON, D.C.: Americans are increasingly cutting back on spending despite U.S. stock markets hovering near record highs, as elevated...
+SEOUL, South Korea: South Korean chipmaker SK Hynix crossed the US$1 trillion market value mark for the first time on May 27, joining...
+NEW YORK, New York - U.S. stock markets posted modest gains on Wednesday, with all three major indexes closing in positive territory....
+President Donald Trump has brazenly engaged in what appears to be insider trading. A bombshell story published in Bloomberg on May...
+BEIJING, China: An early investigation into China's worst mining disaster in more than 15 years has found hidden tunnels, missing...
+DUBAI, U.A.E.: Iran's state TV said that Tehran has received an early, unofficial draft of a possible agreement with the United States...
+VATICAN CITY: Pope Leo XIV made a historic apology on May 25 for the role the Holy See played in supporting slavery and for not condemning...
+AMSTERDAM, Netherlands: Syria's new leadership has found parts of former President Bashar al-Assad's secret chemical weapons program....
+ABUJA, Nigeria: Suspected bandits attacked a police station and a traditional ruler's palace in Kwara state, Nigeria, early on May...
+LONDON/PARIS: An unusually early heat wave swept across parts of Western Europe this week, breaking temperature records in Britain...

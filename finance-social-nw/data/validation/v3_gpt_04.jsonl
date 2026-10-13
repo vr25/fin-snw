@@ -1,0 +1,12 @@
+{"id":"0695","ticker_a":"GOOGL","ticker_b":"META","first_words":"Nvidia is now worth more","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1443","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Grab your popcorn, folks, because","relation":"substitute-comparison","sentiment_alignment":0.5}
+{"id":"0945","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Facebook parent Meta Platforms has","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"2123","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Why is Instagram Down Today?","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1951","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Artificial intelligence (AI) investing is","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0696","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Nvidia is now worth more","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0393","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"This week in enterprise: Tech","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0109","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Spotify releasing artificial intelligence DJ","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0512","ticker_a":"GOOGL","ticker_b":"META","first_words":"Starting next year, Facebook and","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1553","ticker_a":"GOOGL","ticker_b":"META","first_words":"Authored by Akanksha Kaul (Strategy","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1613","ticker_a":"AVGO","ticker_b":"NVDA","first_words":"Broadcom Inc. (NASDAQ:AVGO) is one","relation":"substitute-comparison","sentiment_alignment":-1.0}
+{"id":"1658","ticker_a":"GOOGL","ticker_b":"META","first_words":"Representatives from Facebook, Instagram, Snapchat","relation":"unrelated-mention","sentiment_alignment":0.0}

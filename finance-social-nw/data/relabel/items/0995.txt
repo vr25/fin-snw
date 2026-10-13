@@ -1,0 +1,22 @@
+TICKER_A: AMD
+TICKER_B: MSFT
+POST:
+- The major indexes closed out the week higher following June's PCE inflation data.
+- The busiest week of earnings season is here.
+- President Joe Biden revealed his proposal to overhaul the Supreme Court.
+Watch NBC6 free wherever you are
+Here are five key things investors need to know to start the trading day:
+1. Ending on a positive note
+All the major indexes surged on Friday, closing out what was a volatile week for stocks. The Dow Jones Industrial Average moved 1.64% higher, closing out Friday's trading session at 40,589.34. The S&P 500 and Nasdaq Composite also finished higher, climbing 1.11% and 1.03%, respectively, to close at 5,459.10 and 17,357.88. The rotation into small-cap stocks and cyclical areas of the market continued as well, as the Russell 2000 index advanced 1.67%. These gains were supported by June's reading on the Federal Reserve's preferred inflation gauge known as the personal consumption expenditures price index. The report showed a 0.1% increase on the month and a 2.5% increase from the same period a year ago – as expected from economists polled by Dow Jones. Follow live market updates.
+2. More tech on deck
+This week marks the busiest of the earnings season. Of all the S&P 500 companies, around 160 are set to report their quarterly results, with those like Advanced Micro Devices and Microsoft slated for early in the week. Apple, another megacap tech company, is also scheduled to post its results. They come as big tech names have been under pressure as of late from the rotation into small caps, which underperformed in the first half of the year. Here are the key earnings to watch:
+- Tuesday: Advanced Micro Devices, Microsoft (after the bell)
+- Thursday: Apple, Amazon (after the bell)
+3. A supreme revamp?
+U.S. President Joe Biden just revealed his plan to reform the Supreme Court. The three-pronged proposal, which is dubbed the "No One Is Above the Law Amendment," demands term limits on the court's justices, a binding ethics code and a constitutional amendment that stipulates presidents aren't immune from criminal prosecution for crimes committed during their time in office. This reform comes after the Supreme Court ruled earlier this month that former President Donald Trump has immunity for "official acts" performed while in office. The proposal also responds to justices like Clarence Thomas and Samuel Alito accepting undisclosed financial gifts.
+4. Value on tap
+As customers cut back on their spending habits, fast-food chains are bringing back discounted meals. Those like McDonald's, Taco Bell, Burger King and Wendy's have all brought back $5 meals. This comes as runaway menu prices have started scaring off some of the customer base of these chains, especially those that are low-income. On the flip side, Wall Street has grown wary of the effects reviving value meals will have on the companies' profits. "The sense among investors is that the second quarter is probably going to be one to forget — you're going to see a lot of large chains probably miss consensus [estimates]," KeyBanc analyst Eric Gonzalez told CNBC.
+5. A new R-record
+There's a new leader at the box office. Marvel's "Deadpool & Wolverine" opened with $205 million in domestic ticket sales this weekend. That's not only the highest debut of 2024 but the highest of any R-rated film in history. Analysts had only expected between $160 million and $180 million. And it doesn't stop there. The film scored $233.3 million in international ticket sales. That gives it a combined total of $438.3 million for its opening weekend. "The massive debut for 'Deadpool & Wolverine' should convince those who were throwing in the towel for the big screen back in May that you can never underestimate the power, allure resiliency and, yes, unpredictability of the movie theater experience," said Paul Dergarabedian, senior media analyst at Comscore.
+— CNBC's Samantha Subin, Pia Singh, Fred Imbert, Rebecca Picciotto, Amelia Lucas and Sarah Whitten contributed to this report.
+— Follow broader market action like a pro on CNBC Pro.

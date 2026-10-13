@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+- The so-called "Magnificent 7" U.S. tech behemoths encompass Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.
+- In a research note Tuesday, Deutsche Bank analysts highlighted that the Magnificent 7's combined market cap alone would make it the second-largest country stock exchange in the world.
+- However, this level of concentration has led some analysts to voice concerns over related risks in the U.S. and global stock markets.
+The so-called "Magnificent 7" now wields greater financial might than almost every other major country in the world, according to new Deutsche Bank research.
+The meteoric rise in the profits and market capitalizations of the Magnificent 7 U.S. tech behemoths — Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla — outstrip those of all listed companies in almost every G20 country, the bank said in a research note Tuesday. Of the non-U.S. G20 countries, only China and Japan (and the latter, only just) have greater profits when their listed companies are combined.
+Watch NBC 4 free wherever you are
+Deutsche Bank analysts highlighted that the Magnificent 7's combined market cap alone would make it the second-largest country stock exchange in the world, double that of Japan in fourth. Microsoft and Apple, individually, have similar market caps to all combined listed companies in each of France, Saudi Arabia and the U.K, they added.
+However, this level of concentration has led some analysts to voice concerns over related risks in the U.S. and global stock market.
+Jim Reid, Deutsche Bank's head of global economics and thematic research, cautioned in a follow-up note last week that the U.S. stock market is "rivalling 2000 and 1929 in terms of being its most concentrated in history."
+Deutsche analyzed the trajectories of all 36 companies that have been in the top five most valuable in the S&P 500 since the mid-1960s.
+Reid noted that while big companies eventually tended to drop out of the top five as investment trends and profit outlooks evolved, 20 of the 36 that have populated that upper bracket are still in the top 50 today.
+"Of the Mag 7 in the current top 5, Microsoft has been there for all but 4 months since 1997. Apple ever present since December 2009, Alphabet for all but two months since August 2012 and Amazon since January 2017. The newest entrant has been Nvidia which has been there since H1 last year," he said.
+Tesla had a run of 13 months in the top five most valuable companies in 2021/22 but is now down to 10th, with the share price having fallen by around 20% since the start of 2024. By contrast, Nvidia's stock has continued to surge, adding almost 47% since the turn of the year.
+"So, at the edges the Mag 7 have some volatility around the position of its members, and you can question their overall valuations, but the core of the group have been the largest and most successful companies in the US and with it the world for many years now," Reid added.
+Could the gains broaden out?
+Despite a muted global economic outlook at the start of 2023, stock market returns on Wall Street were impressive, but heavily concentrated among the Magnificent Seven, which benefitted strongly from the AI hype and rate cut expectations.
+In a research note last week, wealth manager Evelyn Partners highlighted that the Magnificent 7 returned an incredible 107% over 2023, far outpacing the broader MSCI USA index, which delivered a still healthy but relatively paltry 27% to investors.
+Daniel Casali, chief investment strategist at Evelyn Partners, suggested that signs are emerging that opportunities in U.S. stocks could broaden out beyond the 7 megacaps this year for two reasons, the first of which is the resilience of the U.S. economy.
+"Despite rising interest rates, company sales and earnings have been resilient. This can be attributed to businesses being more disciplined on managing their costs and households having higher levels of savings built up during the pandemic. In addition, the U.S. labour market is healthy with nearly three million jobs added during 2023," Casali said.
+The second factor is improving margins, which Casali said indicates that companies have adeptly raised prices and passed the impact of higher inflation onto customers.
+"Although wages have risen, they haven't kept pace with those price rises, leading to a decline in employment costs as a proportion of the price of goods and services," Casali said.
+"Factors, including China joining the World Trade Organisation and technological advances, have enabled an increased supply of labour and accessibility to overseas job markets. This has contributed to improving profit margins, supporting earnings growth. We see this trend continuing."
+When the market is so heavily weighted toward a small number of stocks and one particular theme — notably AI — there is a risk of missed investment opportunities, Casali said.
+Many of the 493 other S&P 500 stocks have struggled over the past year, but he suggested that some could start to participate in the rally if the two aforementioned factors continue to fuel the economy.
+"Given AI-led stocks' stellar performance in 2023 and the beginning of this year, investors may feel inclined to continue to back them," he said.
+"But, if the rally starts to widen, investors could miss out on other opportunities beyond the Magnificent Seven stocks."

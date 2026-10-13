@@ -1,0 +1,20 @@
+{"id": "1800", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1801", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1802", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1803", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1804", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1805", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1806", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1807", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1808", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "4 Cheap Stock Picks We Still", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1809", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia has hired the leadership", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1810", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1811", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "By STAN CHOE NEW YORK", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1812", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia has hired the leadership", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "1813", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia has hired the leadership", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1814", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia has hired the leadership", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1815", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Indian techie reveals how he", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1816", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Data centers dominated local news", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1817", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Data centers dominated local news", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1818", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Data centers dominated local news", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1819", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Seattle's office vacancy rate", "relation": "co-hype", "sentiment_alignment": 0.0}

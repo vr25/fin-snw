@@ -1,0 +1,23 @@
+TICKER_A: AMD
+TICKER_B: AVGO
+POST:
+US stocks ended sharply lower on Friday as chipmakers dropped on concerns about weak consumer demand, while rising Treasury yields pressured Amazon and other mega-cap growth companies.
+Chip equipment makers Applied Materials, Lam Research and KLA all dropped more than 4 per cent after Reuters reported TSMC had asked its leading vendors to delay deliveries.
+Nvidia dropped 3.7 per cent, Advanced Micro Devices lost 4.8 per cent, and Broadcom and Micron Technology both fell by more than 2 per cent, pulling down the Philadelphia Semiconductor index down about 3 per cent for the session.
+Stoking worries about chip demand from car makers, the United Auto Workers' union launched co-ordinated strikes at factories of General Motors, Ford and Chrysler parent Stellantis.
+China's industrial output grew more than expected in August, data showed, suggesting that a recent flurry of support measures may be starting to slowly stabilise the economic recovery.
+Data on Thursday showed US retail sales rose more than expected in August, easing worries about a recession.
+Treasury yields edged higher ahead of the Federal Reserve policy meeting next week, with the central bank facing a strong US economy with inflation that remains above target.
+“We really continue to see that growth resilience story, and I think that's difficult for the market simply because there's concern about what that could mean both for rates and inflation,” said Lisa Erickson, head of public markets at US Bank Wealth Management in Minneapolis.
+Traders' bets on the Fed holding rates steady in its September 20 policy meeting remained at 97 per cent, while their odds for a pause in November stood at 67 per cent, according to the CME FedWatch Tool.
+Among growth stocks sensitive to higher interest rates, Amazon and Microsoft each lost more than 2 per cent, and Meta Platforms declined 3.7 per cent.
+Adobe dropped 4.2 per cent to a more than two-week low after the Photoshop software maker disclosed a commercial paper programme of up to $3 billion on September 8 following its third-quarter results.
+The S&P 500 dropped 1.22 per cent to end at 4,450.32 points. The Nasdaq declined 1.56 per cent to 13,708.34 points, while the Dow Jones Industrial Average fell 0.83 per cent to 34,618.24 points.
+With the expiry of quarterly derivatives contracts tied to stocks, index options and futures, volume on US exchanges was heavy, with 16.9 billion shares traded, compared to an average of 9.8 billion shares over the 20 preceding sessions.
+All 11 S&P 500 sector indexes declined, led lower by information technology, down 1.95 per cent, followed by a 1.88 per cent loss in consumer discretionary.
+For the week, the S&P 500 fell 0.16 per cent and the Nasdaq lost 0.39 per cent. The Dow added 0.12 per cent.
+SoftBank's Arm Holdings fell 4.5 per cent after a stellar Nasdaq debut on Thursday that rekindled expectations of a turnaround in the initial public offering market.
+Arm's strong debut prompted grocery delivery app Instacart to raise the proposed price range for its IPO to target a fully diluted valuation of up to $10 billion.
+Neumora Therapeutics, backed by Amgen and Japan's SoftBank, made a tepid debut at $16.50 per share, below its IPO price of $17. It ended at $16.25.
+Declining stocks outnumbered rising ones within the S&P 500 by a 4.4-to-one ratio.
+The S&P 500 posted seven new highs and eight new lows; the Nasdaq recorded 48 new highs and 216 new lows.

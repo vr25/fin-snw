@@ -1,0 +1,130 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Data usage and cookies
+Jump to...
+Data Usage Policy
+Cookies Policy
+Data Usage Policy
+We take your privacy seriously. Here's a summary of what data we collect and how we use it. We will never sell your information and we promise to keep it safe.
+Website
+Our website uses an encrypted connection using an HTTPS security certificate. Most browsers enable you to verify this by looking for a (usually green) padlock near the website address. This means that any information between the website and your browser is sent securely and can't be intercepted or snooped on in transit.
+We use cookies to help make our website work. Cookies are tiny files that are downloaded to your computer, to improve your experience. Our Cookie Policy below describes what information they gather, how we use them, why we sometimes need to store these cookies and how you can stop them being stored.
+When you visit our website we use Google Analytics to collect information on your journey through the website. This information is anonymous and we do not use it to identify you. Google provides a Google Analytics opt-out add on for all popular browsers, and you can manage your privacy settings on our website by clicking the 'Privacy' link in the bottom left-hand corner of any page.
+As a searchable database on business and human rights, we sometimes publish and link information which includes personal details (like names and dates of birth). We only do this where the information is already in the public domain and we link to it (for example where we summarise a newspaper article). If your name or other personal details appear on our website and you would like them removed, please contact us to discuss this. We will review these requests on a case by case basis and make a decision to remove this information based on the type of information and whether it is necessary to include in our database.
+Emails
+If you sign up to our Weekly Updates or other email communications, we will collect your name, email address, sector and region. This information is stored in MailChimp and managed by us. We do not use any Mailchimp data to profile users for the purposes of targeted advertising or newsfeeds. When you sign up to our emails and optionally disclose your region/country and sector, we use this data to report internally and to our donors on our readership.
+- If you would like to receive Weekly Update emails from us, please sign up here.
+- If you would like to unsubscribe from our Weekly Update emails do so here.
+- If you would like to unsubscribe from all Business and Human Rights Centre communications, please contact us using the details below.
+- If you would like to review or update your subscription settings for any of our emails, please click the 'update subscription preferences' link which is at the bottom of every email we send.
+Events
+When you register for an event run by the Business and Human Rights Centre, we collect your name, email address and organisation. This information is stored in Eventbrite or Zoom to allow us to keep track of attendance levels and carry out day-of-event tasks including registration, name badges and content customisation. Eventbrite or Zoom will use this information to send transactional emails regarding the event you have registered for (e.g. your ticket and attendance reminders).
+We may transfer a record of your registration to Mailchimp to allow us to keep you up to date in the run up to the event, and share news of future events if you consent to our doing so. We will never use this information for marketing purposes unless you explicitly give consent.
+Donations
+When you donate to our organisation, your information is stored securely in our customer relationship management system, Salesforce. This includes name, email, telephone number, address, and amount donated.
+When you donate through our website the information provided is stored by Donorbox, whilst your credit/debit card details are processed and stored securely by Stripe. If you select PayPal as your payment option, then your contribution will be processed by PayPal accordingly.
+If you are based in the United States, you can also choose to create a will with our partner FreeWill, and bequeath us a donation as part of our Planned Giving program.
+We may also use your personal information for administrative reasons, including:
+- for reasons related to administering any donations you have made, your tax status with regard to Gift Aid if claimed, or online content you have signed up for;
+- to confirm receipt of donations (unless you have asked us not to do this), say thank you and provide details of how your donation might be used;
+- in relation to correspondence you have entered into with us whether by email, letter or any other means, and to contact you about any content you provide;
+- for internal record keeping to keep a record of your relationship with us;
+- to implement any instructions you give us to with regard to withdrawing consent to send marketing information or informing us that you do not wish to receive any marketing information.
+Recruitment
+If you apply for a job at our organisation we will store your CV/application form in a central secure repository for up to 6 months, after which point it will be deleted. We do not collect any data from your CV or application form other than for the purpose of that particular recruitment.
+For some recruitments, we ask you to apply through our BambooHR jobs portal. In this case, your information with be processed and stored securely by BambooHR. As with other applications, we will remove your information after 6 months.
+Surveys
+From time to time the Business and Human Rights Centre may invite users of its services and other stakeholders to participate in questionnaires, for the purposes of providing feedback on the effectiveness of the services, information regarding consumption and interests, or other purposes as defined at the point of survey. When completing questionnaires, you may be asked to optionally provide your email address should we wish to follow up on any of your answers. This is never mandatory, and we will always welcome your feedback anonymously should you wish to provide it as such.
+If you do opt to provide an email address, we may be in touch with you with regards to the responses you provided. Your email address will only be retained as long as is necessary to complete the survey activity, and at any rate for no longer than 6 months. We utilise Microsoft 365 and Google Forms to build our questionnaires, and the data you provide will be held securely by these services.
+Your choices
+It is your choice as to whether you receive communications from the Business and Human Rights Centre.
+If you wish to opt-out and stop receiving Weekly Updates you can do so by unsubscribing here.
+Please contact us directly to request to view, edit or remove your personal data:
+- Email [email protected]
+- Phone +44 20 4526 0981
+- Write to Business and Human Rights Centre, 17 Oval Way, SE11 5RR, London.
+Security
+The Business and Human Rights Centre takes the following precautions to keep your data secure:
+- When you make a donation, your data is stored securely on our Salesforce system. Access is limited to a small number of employees.
+- When you sign up to our newsletter your data is held in Mailchimp. Access to our Mailchimp account is password protected and limited to a small number of employees.
+- When you send us your CV a copy is held in Microsoft 365's Exchange Email Server. This is password protected and encrypted. Access is limited to only necessary employees.
+- When you register for an event your data is held in Eventbrite or Zoom. Access is limited to a small number of employees for the purposes of putting on the event.
+- When you donate on our website your data is kept secure by Donorbox and Stripe. Access to your information is limited to a small number of employees, and protected by Multi-Factor Authentication (MFA).
+Who has access to your information?
+We will not sell or rent your information to third parties. We will not share your information with third parties for marketing purposes.
+The following third-party services work on our behalf. Follow any of the links to view the Privacy Policies for those services.
+- Microsoft Microsoft run Microsoft 365, the subscription software service that hosts our email and document storage systems.
+- Google Google’s Cloud Services, notably Google Forms, Sheets and Drive, are used on occasion to administer questionnaires.
+- Donorbox Donorbox provide an embeddable multistep donation form for user-friendly collection of one-off and recurring donations on desktop and mobile devices.
+- Stripe Stripe are a payment processing platform, who take payment for credit/debit card donations submitted through our Donorbox form.
+- PayPal PayPal are a payment processing platform, who take payment for donations submitted through where ‘PayPal’ is the selected payment method.
+- Salesforce Salesforce is a cloud-based contact relationship management (CRM) system. It allows an organisation to record and manage information about the various people and organisations it interacts with.
+- MailChimp MailChimp is a marketing automation platform and an email marketing service. We use them to store your information for the purposes of sending our update emails. See their Privacy Policy and Terms.
+- Eventbrite is an event management and ticketing system. We use them to carry out event registration, keep track of event attendance figures and send out reminders.
+- Zoom Zoom is a collaboration and communications platform. We use them to organise webinars and virtual meetings.
+- Developer Society are a not-for-profit digital agency, working with NGOs and groups with a progressive mission to help make the world we live in a better place. They design, build and support our website, which is stored on Amazon Web Services servers.
+- Amazon Web Services Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing infrastructure.
+- FreeWill Freewill are a social venture who allow you to quick and easily create a last will and testament that includes a charitable donation. We partner with them to provide our Planned Giving service for US-based donors.
+- BambooHR BambooHR is a Human Resources software provider. We use their platform to process and track some of our job recruitments.
+Transferring data outside of the EU
+Your personal data may be transferred outside of the EU to countries with different data protection laws. When you submit your personal data, you consent to this transfer, storing and processing. When transmitting data outside of the EU we take all necessary precautions to ensure that it is done so securely and that your right to privacy is upheld.
+Children
+Anyone aged under 13 must seek parental permission in order to allow their data to be stored. If you know of someone under 13 with their data stored with us, you should contact us directly to notify us.
+Legal bases for collecting and using information
+Under EU data protection laws, we collect and process information on the following bases:
+- We have a legitimate interest in using your information – for example in order to provide the content on our website and in our briefings, to carry out our hiring process or to seek funding for our charitable activities;
+- We have a legal obligation – for example to keep financial records, to fulfil reporting commitments or to maintain records for libel purposes;
+- We have your consent – for example if you have accepted the placement of cookies or opted in to receive email communications.
+Data Usage Policy changes
+The Business and Human Rights Centre may change its Data Usage Policy from time to time and encourages visitors to frequently check this page for any changes. Your further use of the Services after a change to our Data Usage Policy will be subject to the updated policy.
+This policy was last updated on: 1/12/2025
+CHANGE LOG:
+June 19th 2018 (v1): New Data Usage Policy implemented.
+July 31st 2018 (v1.1): More detail added regarding Events, including the information we collect, and how it’s processed for email communications. MailChimp unsubscribe/opt-out URLs updated.
+September 7th 2018 (v1.2): New recruitment portal, Freshteam, in use. Corresponding information added to the ‘Who Has Access To Your Information?’ and ‘Recruitment’ sections.
+September 9th 2018 (v1.3): Detail added to the ‘Who Has Access To Your Information?’ and ‘Donations’ sections regarding FreeWill.
+August 8th 2019 (v1.4): ‘Survey’ section and all information under this section added. Google added under ‘Who has access to your information?’ list.
+April 22nd 2021 (v1.5): Updated to reflect changes implemented during the launch of our new website.
+The following third-party services have been added:
+- DonorBox
+- Stripe
+- PayPal
+- Developer Society
+- Linode
+The following third-party services have been removed:
+- WorldPay
+As it is no longer possible to create a user account on the website, this section under the ‘Website’ heading has been removed, as has the corresponding reference in the ‘Security’ section.
+In launching our new website, we also moved to a new payment provider for Donations. The ‘Donations’ section has been updated accordingly.
+Since the last version of the policy, Microsoft have renamed “Office 365” to “Microsoft 365”. All mentions of Office 365 in this policy have been updated accordingly.
+October 13th 2025 (v1.6):
+The following third-party services have been added:
+- Salesforce
+- BambooHR
+- Zoom
+The following third-party services have been removed:
+- CiviCRM/Circle Interactive
+- Freshteam/Freshworks
+- Fat Beehive
+- Linode
+December 1st 2025 (v2): Updated for change in organisation name.
+Cookie Policy
+What are cookies?
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This section describes what information they gather, how we use them and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the site's functionality.
+For more general information on cookies see the Wikipedia article on HTTP Cookies.
+How we use cookies
+We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
+Disabling cookies
+You can manage the cookies set on our website by clicking the 'Privacy' link in the bottom left-hand corner of any page. This will allow you to control whether we set just the cookies that are necessary for the site to function, or also optional cookies that serve both functionality and analytics or promotional purposes.
+You can prevent the setting of cookies completely by adjusting the settings on your browser (see your browser help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore it is recommended that you do not disable cookies.
+The cookies we set
+Google Analytics
+This site uses Google Analytics which is one of the most widespread and trusted analytics solutions on the web for helping us to understand how you use the site and ways that we can improve your experience. Without personally identifying you, analytics cookies may distinguish you from other visitors to track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content. This cookie is unique to our site, so it cannot be used to track across unrelated websites. This cookie is set when you click "Accept" on our cookie banner when you first visit the site. If you do not wish for the Google Analytics cookie to be set, simply decline 'Analytics' cookies in your Privacy settings, as described above.
+For more information on Google Analytics cookies, see the Analytics sections of the Google Cookies page.
+LinkedIn is a professional social networking platform. We share news and updates on business and human rights through this third party platform, including advertising to target audiences. The LinkedIn Insight Tag creates cookies to enable the collection of data regarding LinkedIn member accounts’ visits to our website. You can disable cookies other than strictly necessary storage in your Privacy settings, as described above. LinkedIn members can access their ad settings at any time to control how their data may be used for ads, including data that is shared with us via the Insight Tag.
+Find out more about LinkedIn's Privacy Policy and Cookie Policy.
+Cloudflare
+Cloudflare is a content delivery network (CDN) that helps us to deliver our website efficiently by caching frequently displayed page elements such as images. It also provides a snapshot version of the website should we need to carry out maintenance, and helps to prevent malicious traffic from forcing the website offline. Cloudflare is a necessary cookie for the operation of the website, however if you wish you can still prevent it being set by disabling cookies in your internet browser, as described above.
+Find out more about Cloudflare's Privacy and Cookie policies.
+Embedded content
+Some of the content on our site is provided by third parties. This includes but is not limited to: Google Maps for interactive mapping, Flourish, Airtable and DataWrapper for data visualisation, YouTube or Vimeo for hosted video and Flickr for images. When you visit a page containing content from one of these sites, a cookie may be set. We do not 

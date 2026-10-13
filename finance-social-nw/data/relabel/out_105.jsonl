@@ -1,0 +1,20 @@
+{"id": "2100", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Security professionals have spent two", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2101", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Security professionals have spent two", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "2102", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Five-layer cake AI is", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "2103", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Five-layer cake AI is", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "2104", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Five-layer cake AI is", "relation": "causal-driver", "sentiment_alignment": 0.6}
+{"id": "2105", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "Super Micro Computer, Inc.", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "2106", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Image source: The Motley", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2107", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "ANI 02 Jun 2026", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "2108", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "* This post contains affiliate", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2109", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By DAVE COLLINS On", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "2110", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Canada's main stock index", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "2111", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ANI 04 Jun 2026", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "2112", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft Corporation (NASDAQ: MSFT),", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "2113", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "What Does ChatGPT Have", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "2114", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Picking artificial intelligence (AI)", "relation": "causal-driver", "sentiment_alignment": 0.7}
+{"id": "2115", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Elizabeth Warren Warns AI", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "2116", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "8 Jun 2026 , 07:08", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "2117", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "3 things I'm excited", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "2118", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 09 Jun", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "2119", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "By STAN CHOE, AP", "relation": "substitute-comparison", "sentiment_alignment": -0.8}

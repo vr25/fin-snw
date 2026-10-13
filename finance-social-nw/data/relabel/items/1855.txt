@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Alison Wagonfeld, a long-time Google executive who played a pivotal role in building Google Cloud into a global enterprise business, has announced her move to NVIDIA as its new Chief Marketing Officer. She will leave Google in late January to join NVIDIA’s leadership team, reporting to founder and CEO Jensen Huang.
+Wagonfeld shared the news on LinkedIn, marking the end of nearly ten years at Google Cloud, where she led marketing through multiple phases of scale and transformation. When she joined in 2016, Google Cloud was still in its formative years. Today, it is a business operating at an annualised revenue run rate of approximately $60 billion.
+In her new role at NVIDIA, Wagonfeld will oversee global marketing and communications as the company enters its next phase of growth. NVIDIA has emerged as one of the most influential players in the AI ecosystem, driven by surging demand for its GPUs and AI platforms across data centres, enterprises, and governments worldwide.
+Reflecting on her time at Google, Wagonfeld described it as a privilege to lead Google Cloud Marketing through a decade of rapid growth and evolution. She acknowledged the support and collaboration of Google’s senior leadership, including Chief Marketing Officer Lorraine Twohill, Google Cloud CEO Thomas Kurian, and the broader Cloud Marketing team.
+She also highlighted the strong partnership between Google and NVIDIA, noting that her transition represents a move from one AI leader to another at a highly transformational moment for the industry. Both companies collaborate closely across cloud infrastructure and AI computing, a relationship expected to continue despite her move.
+Wagonfeld’s appointment underscores NVIDIA’s increasing focus on brand, narrative, and ecosystem leadership as AI adoption accelerates globally, while her departure marks a significant leadership change for Google Cloud’s marketing organisation.

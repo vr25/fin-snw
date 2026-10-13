@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Malaysia wants Big Tech to get licensed as Asia Pacific cracks down on social media platforms
+- Social media platforms with over 8 million users in Malaysia must obtain a license to operate, with Google and X yet to comply.
+From Jan. 1, social media platforms with more than 8 million users in Malaysia need to have a license to operate or risk getting blocked. Malaysia's government said the licensing requirement, first proposed in July, is needed to combat cybercrimes like scams, bullying, and sexual offenses.
+But not all Big Tech companies are on board.
+Google, which operates YouTube, and X have yet to apply for a license, according to Malaysian authorities.
+According to a government statement, the Malaysian Communications and Multimedia Commission (MCMC) is evaluating X's claim that it did not have enough users in Malaysia to meet the 8 million threshold. The statement also says that Google is concerned over how to classify YouTube's video sharing features.
+Google and X did not immediately respond to Fortune's request for comment.
+As of Jan. 1, Tencent, which operates the messaging platform WeChat, and TikTok owner Bytedance have secured the license. Telegram and Meta, which operates Facebook, Instagram, and WhatsApp, are currently in the process of applying for a license. The MCMC statement said Telegram and Meta are expected to get their licenses soon.
+Tech firms have been uneasy about Malaysia's new social media license since it was first announced. In an October interview with Reuters, Meta director for Southeast Asia Rafael Frankel complained that the timeline to apply for the license was "exceptionally accelerated," and that the license's obligations for social media firms were unclear.
+Broadly, authorities argue that the license is required to protect Malaysians against incidents like online sex crimes or bullying.
+An Asia-Pacific crackdown
+Malaysia is the latest government in the Asia-Pacific region to regulate social media companies or the content found on these platforms.
+Earlier this year, South Korea launched a monthslong crackdown on deepfake pornography following a surge in such material shared on messaging platforms like Telegram. The country toughened penalties on those possessing or sharing deepfake pornography, and is considering fines on social media companies that don't crack down on illegal content.
+In late November, Australian lawmakers approved a bill that banned those under the age of 16 from using social media, even with parental permission. Prime Minister Anthony Albanese painted social media as a tool for scammers and online predators in his comments supporting the ban.
+Yet the bill does not present clear guidelines on how the ban, which takes effect near the end of 2025, will be enforced.
+And in December, a new law in Vietnam came into effect on Christmas Day that requires tech giants operating in Vietnam to verify users' accounts via their phone numbers or Vietnamese identification numbers alongside their full name and date of birth.
+Firms that provide social media services have 90 days to report back to Vietnam's Ministry of Information and Communications with the verified user information according to local media reports. These social media companies must also provide data to authorities about access to social media services from Vietnam, such as the number of frequent users each month.
+This story was originally featured on Fortune.com

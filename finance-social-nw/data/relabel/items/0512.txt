@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Starting next year, Facebook and Instagram will require political ad campaigns to disclose if they contain AI-generated content, such as deepfakes.
+The policy is designed to prevent AI-generated political ads from potentially misleading the public. Today’s AI programs can easily create realistic images of presidential candidates, including in compromising or scandalous situations.
+For example, AI image generators have already depicted former President Donald Trump being arrested or current US President Joe Biden wearing a colorful swimsuit. Other so-called deepfakes can clone someone’s voice to make it say anything, including First Lady Jill Biden condemning her husband.
+    
+        This Tweet is currently unavailable. It might be loading or has been removed.
+    
+Facebook and Instagram parent company Meta already bans political ads that contain false content or violate the platforms’ policies. But for political ads that resort to using deepfakes and other AI trickery to make a point, the company is going to allow it — so long as the advertiser is upfront about the generative AI use.
+The new policy applies to ads for electoral campaigns and social issues. Meta plans on placing a disclosure across each political ad that qualifies. “If we determine that an advertiser doesn’t disclose as required, we will reject the ad and repeated failure to disclose may result in penalties against the advertiser,” the company added.
+The only exception is for political ads that used AI software to make minor enhancements, like color correction or image cropping and sharpening. They will not require a disclosure.
+Meta is joining Google, which enacted a similar policy to tackle the problem back in September. Facebook has also told advertisers to avoid using its generative AI-ad creation tools for political purposes, and other areas, such as housing, employment and health.
+"We believe this approach will allow us to better understand potential risks and build the right safeguards for the use of Generative AI in ads that relate to potentially sensitive topics in regulated industries," the company told PCMag.
+About Our Expert
+I've been a journalist for over 15 years. I got my start as a schools and cities reporter in Kansas City and joined PCMag in 2017, where I cover satellite internet services, cybersecurity, PC hardware, and more. I'm currently based in San Francisco, but previously spent over five years in China, covering the country's technology sector.
+Since 2020, I've covered the launch and explosive growth of SpaceX's Starlink satellite internet service, writing 600+ stories on availability and feature launches, but also the regulatory battles over the expansion of satellite constellations, fights with rival providers like AST SpaceMobile and Amazon, and the effort to expand into satellite-based mobile service. I've combed through FCC filings for the latest news and driven to remote corners of California to test Starlink's cellular service.
+I also cover cyber threats, from ransomware gangs to the emergence of AI-based malware. In 2024 and 2025, the FTC forced Avast to pay consumers $16.5 million for secretly harvesting and selling their personal information to third-party clients, as revealed in my joint investigation with Motherboard.
+I also cover the PC graphics card market. Pandemic-era shortages led me to camp out in front of a Best Buy to get an RTX 3000. I'm now following how the AI-driven memory shortage is impacting the entire consumer electronics market. I'm always eager to learn more, so please jump in the comments with feedback and send me tips.

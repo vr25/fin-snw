@@ -1,0 +1,25 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Stocks are on a record-setting run.
+For the first time in history, the S&P 500, the broad-based U.S. index of the largest and best-known companies in the world, is above 5,000.
+The S&P 500 opened over the milestone mark at the opening bell on Friday. This comes a day after it touched the level for a brief moment before settling lower.
+"Investors are feeling optimistic that we have sidestepped a recession," says Sam Stovall, the chief investment strategist at the financial research firm CFRA.
+The latest economic data seem to indicate the Federal Reserve is getting close to executing a so-called "soft landing" for the U.S. economy. That's despite widespread fears of a recession last year, when the Fed raised interest rates aggressively to fight high inflation.
+The S&P 500 is up more than 5% so far this year, on the heels of a strong year when the index gained 24%.
+Lower interest rates will juice the economy further
+Even then, some professional investors downplay the significance of milestones.
+"I think it's a psychological threshold," says Stovall, noting that Wall Street has a fondness for round numbers, and investors see these "millennial levels" as key milestones.
+Investors believe policymakers are comfortable enough with the progress they've made and will soon start cutting interest rates.
+That would juice the economy because it would make it less expensive for everyone — companies included — to borrow money, and investors would also feel more comfortable making riskier bets.
+Beyond that, hundreds of companies have updated Wall Street in recent days on their financial performance, and many of them performed better in the final three months of 2023 than analysts expected.
+According to Stephen Suttmeier, the chief equity technical strategist at Bank of America, the stock market rally has been strong, but narrow. The strength of a handful of companies have powered the major indices — the S&P 500 among them — higher.
+The Magnificent Seven continues to outperform
+Last year, a group of stocks nicknamed "The Magnificent Seven" accounted for most of the broader market's gains, and most of those well-known companies — Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — have continued to outperform.
+Year to date, shares of Nvidia, which designs high-end microchips for most of the computers that power artificial intelligence, are up about 45%.
+"It's a couple growth sectors, and that's it," says Suttmeier. "What's leading the market is still more growth-y, tech-y stocks."
+And if you dig deeper, most of these companies are in the communication services and information technology sectors, which are beating the broader market.
+So, where does the market go from here? It took 34 months — or slightly less than three years — for the S&P 500 to go from 4,000 to 5,000.
+"If you look at the history, my guess is we spend some time above 5,000, probably spend some time below 5,000," Suttmeier says. "And I think we can actually move well beyond 5,000."
+But he's of the belief, like many Wall strategists, that this rally needs to broaden to continue moving higher.
+Copyright 2024 NPR. To see more, visit https://www.npr.org.

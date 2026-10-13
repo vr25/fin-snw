@@ -1,0 +1,12 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+What Happened?
+Shares of computer hardware and IT solutions company Dell (NYSE: DELL) fell 2.9% in the morning session after a broader tech sector sell-off was triggered by concerns about an AI bubble following financial results from industry bellwether Oracle.
+The decline in tech stocks, particularly those linked to artificial intelligence, followed Oracle's report, which revived worries among investors about high valuations in the AI space. The company's results caused a ripple effect across the sector, prompting a pullback as investors reassessed the risks associated with AI-linked companies. This negative sentiment weighed on the market even as investors had previously reacted positively to the Federal Reserve's decision to cut its main interest rate.
+The stock market overreacts to news, and big price drops can present good opportunities to buy high-quality stocks. Is now the time to buy Dell? Access our full analysis report here.
+What Is The Market Telling Us
+Dell’s shares are very volatile and have had 20 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.
+The previous big move we wrote about was 17 days ago when the stock gained 3.9% on the news that renewed enthusiasm for Alphabet reinvigorated the artificial intelligence trade, propelling a market rebound heading into the Thanksgiving holiday. The Nasdaq index jumped 2.6% and the S&P 500 gained 1.6%, driven by a 5% rally in Alphabet following the announcement of its upgraded Gemini 3 AI model. This optimism spilled over into the broader tech sector, lifting shares of Broadcom, Micron, and Palantir significantly. The rally built on momentum from the previous trading session, sparked by the New York Fed president keeping the door open for a December interest rate cut.
+Dell is up 17.4% since the beginning of the year, but at $136.78 per share, it is still trading 17% below its 52-week high of $164.88 from October 2025. Investors who bought $1,000 worth of Dell’s shares 5 years ago would now be looking at an investment worth $1,909.
+While Wall Street chases Nvidia at all-time highs, an under-the-radar semiconductor supplier is dominating a critical AI component these giants can’t build without. Click here to access our full research report.

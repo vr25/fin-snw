@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+UK riots: What is being done to stop spread of far-right misinformation after violence
+But is it enough 🤔
+- Technology secretary has met with social media giants.
+- Labour ‘expect’ the platforms to ensure misinformation is not being ‘facilitated’
+- We asked Meta and TikTok what they will do about the content.
+Far-right protests turned into riots in shocking scenes across parts of the country over the last week. Misinformation in the wake of the tragic knife attack on children at a dance class in Southport saw hate whipped up into a violent boiling point in towns and cities.
+Arrests have been made following the disturbances and those charged have started to appear in court. The first three people to be jailed were sentenced on 7 August, but the courts across the nation are expected to be busy.
+Violence and shocking scenes were seen as far and wide as Belfast, Middlesbrough, Sunderland, Rotherham and initially in Southport. Police were on high alert for further trouble last night (7 August) but instead huge counter anti-racism protests took to the streets.
+The riots raised concerns about the spread of misinformation and far-right content on social media. It has left many wondering what will be done by social media companies and the Government - here’s what has been said.
+Labour ‘expects’ social media companies to clamp down on misinformation
+Technology Secretary Peter Kyle said: “The terrible violence we have witnessed in recent days is disgraceful.I have been clear it is unacceptable that people are using social media to cause damage, distress and destruction in our communities.
+“Today I had useful meetings with TikTok, Meta, Google and X, to make clear their responsibility to continue to work with us to stop the spread of hateful misinformation and incitement. There is a significant amount of content circulating that platforms need to be dealing with at pace.”
+He continued: "Different companies take different approaches and I expect platforms to ensure that those seeking to spread hate online are not being facilitated and have nowhere to hide. Where they have acted, they have my full backing and the support of teams across government, who have been working round the clock to do this.”
+What have social media companies said?
+TikTok
+We approached TikTok to ask them if they had any plans for clamping down on spread of far-right misinformation and content promoting the riots, however the social media app did not respond to request for comment prior to the publication of this article. It has been reported elsewhere that TikTok has blocked users for searching Tommy Robinson on the app in the wake of the violent disturbances.
+Meta (Facebook, Instagram, WhatsApp)
+We also approached Meta, owner of Facebook and Instagram, to ask if they had plans for tackling the spread of misinformation in the wake of the riots, but like TikTok they did not respond before this article was published.
+X (formerly Twitter)
+Controversial owner of X, Elon Musk has been using the platform to highlight a post by the co-leader of far-right party Britain First featuring a fake headline claiming Keir Starmer is considering building ‘detainment camps’ on the Falklands. He has also promoted the two tier policing conspiracy.
+Musk also reinstated Tommy Robinson, a key figure in the British far-right, following his takeover of the social media app. Wired reports that X has done little to quell the activity of accounts sharing far-right content and misinformation.
+Telegram
+The messaging app, which is popular among far-right groups, was the site in which riots appeared to be organised, Wired reports. The Guardian has described it as the ‘go-to-app’ for those wanting to spread toxic information.
+However, according to reports, it appears Telegram may have removed at least one channel linked to the riots in the form of ‘Southport Wake Up’. In the previously mentioned report from Wired the channel, which was set up after the attack and gained 15,000 members, was removed earlier in the week and the creator of that channel has attempted to set up new ones, which have also been shut down.
+What should social media companies do about preventing the spread of far-right misinformation? Share your suggestions with our tech specialist by emailing [email protected].

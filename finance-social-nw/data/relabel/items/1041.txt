@@ -1,0 +1,18 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+DOJ sues software company accused of scheming millions of renters across the US
+WASHINGTON (TND) — A real estate software company is being sued by the Justice Department and multiple states for allegedly allowing landlords to hike up rental prices.
+Attorney General Merrick. B. Garland and other federal prosectors announced Friday thatRealPage Inc.'s software enabled landlords to raise rents across the U.S.
+The government filed the lawsuit in the U.S. District Court for the Middle District of North Carolina against the company headquartered in Richardson, Texas. The lawsuit alleges the company violated Sections 1 and 2 of the Sherman Act.Prosecutors stated that millions of renters were harmed.
+Attorneys General of North Carolina, California, Colorado, Connecticut, Minnesota, Oregon, Tennessee, and Washington joined U.S. Attorney General Merrick. B. Garland in the civil antitrust lawsuit.
+The complaint alleges that RealPage violated antitrust laws through its algorithm that landlords use to get recommended rental prices for apartments.
+This software then generates recommendations, including on apartment rental pricing and other terms, for participating landlords based on their and their rivals’ competitively sensitive information.
+The complaint further alleges that in a free market, these landlords would otherwise be competing independently to attract renters based on pricing, discounts, concessions, lease terms, and other dimensions of apartment leasing.
+The government accused RealPage of using the scheme and its substantial data trove to maintain a monopoly in the market for commercial revenue management software.
+Prosecutors are looking to "end RealPage’s illegal conduct and restore competition for the benefit of renters in states across the country."
+In a statement, Attorney General Merrick Garland said, "Americans should not have to pay more in rent because a company has found a new way to scheme with landlords to break the law."
+In a statement posted on its website in June, RealPage called claims against the company “false and misleading,” and argued its software actually "contributes to a healthier and more efficient rental housing ecosystem.” RealPage said landlords decide their own rent prices and are free to reject the recommendations provided by its software.
+It's the latest example of the Biden administration's aggressive antitrust enforcement.
+The Justice Department sued Apple in March and in May announced a sweeping lawsuit against Ticketmaster and its owner, Live Nation Entertainment. Antitrust enforcers have also opened investigations into the roles Microsoft, Nvidia and OpenAI have played in the artificial intelligence boom.
+Editor's Note: The Associated Press contributed to this report.

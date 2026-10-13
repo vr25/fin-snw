@@ -1,0 +1,27 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+The median annual income for full-time workers aged 25 to 34 was $59,280 during the first quarter, according to the Labor Department. That means after-tax earnings would be about $45,175 in the worst-case scenario. Financial planners usually recommend saving 20% of post-tax earnings for retirement, which would be about $9,000 per year (or $750 per month) for the median worker.
+Even a percentage of that figure invested wisely could grow into a sizable portfolio in time. For instance, history suggests $500 invested monthly in the Vanguard S&P 500 Growth ETF (VOOG +0.68%) could be worth $1.4 million (or more) after three decades. Here are the important details.
+The Vanguard S&P 500 Growth ETF is heavily invested in technology and communications stocks
+The Vanguard S&P 500 Growth ETF measures the performance of 144 S&P 500 companies classified as growth stocks based on three metrics: the 12-month percentage change in share price (momentum), the three-year change in revenue per share, and the three-year change in earnings per share over current price.
+S&P 500 stocks are sorted based on their scores across those three metrics, and the ones that rank among the top 33% of the index by market value are considered growth stocks. The Vanguard S&P 500 Growth ETF tracks those companies. The index fund is most heavily weighted toward the technology and communications services sectors. The 10 largest holdings are, as listed by weight:
+- Nvidia: 14.6%
+- Alphabet: 11.1%
+- Microsoft: 9.5%
+- Apple: 6.4%
+- Broadcom: 5.1%
+- Meta Platforms: 4.3%
+- Amazon: 3.7%
+- Berkshire Hathaway: 3%
+- Eli Lilly: 2.5%
+- Tesla: 2.2%
+The Vanguard S&P 500 Growth ETF achieved a total return of 786% (15.6% annually) during the past 15 years, outpacing the broader S&P 500's total return of 602% (13.8% annually). The index fund performed so well because of its heavy exposure to technology and communications stocks, which benefited greatly from the adoption of cloud and mobile technologies during that period.
+Many experts believe artificial intelligence (AI) will be equally transformative, if not more so. Microsoft co-founder Bill Gates says the technology will be as revolutionary as the internet. So the Vanguard S&P 500 Growth ETF could generate similar returns over the next 15 years as the AI boom boosts productivity and efficiency across the economy.
+Even so, I will still assume a more conservative return of 12% annually. At that pace, $500 invested monthly in this Vanguard index fund would be worth about $105,200 after one decade, $432,300 after two decades, and $1.4 million after three decades. That makes this fund an attractive investment for investors comfortable with volatile growth stocks, especially because it has a low expense ratio of 0.07%.
+NYSEMKT: VOOG
+Key Data Points
+Drawdowns are normal, not a reason to panic
+Most often, the secret to making money in the stock market is patience and resolve. The Vanguard S&P 500 Growth ETF declined at least 10% from its high on nine occasions during the past 15 years, but the fund still returned 15.6% annually over that period. Similar volatility is likely in the future, but investors need to ignore short-term noise.
+In addition, young investors need not choose between the Vanguard S&P 500 Growth ETF and individual stocks. It's fine to own both. In the last section, my hypothetical investor added $500 each month to the index fund. But recall that the median worker aged 25 to 34 should save about $750 per month. That leaves $250 per month for individual stocks in my hypothetical scenario.
+Why do that? Think of the Vanguard S&P 500 Growth ETF as your baseline exposure to the largest growth stocks. History says patience will be rewarded with strong returns. But you could do even better by owning individual stocks alongside the index fund. However, if your stocks underperform, you should still earn a reasonably good return over time.

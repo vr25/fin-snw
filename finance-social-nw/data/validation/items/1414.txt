@@ -1,0 +1,46 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Technology and Social Networks Remain Top Imitated Brands in Phishing Attacks, Emphasising the Importance of Enhanced Security Measures
+Check Point Research (CPR), the Threat Intelligence arm of Check Point® Software Technologies Ltd. (NASDAQ: CHKP) and a pioneer and global leader of cyber security solutions, has released its latest Brand Phishing Ranking for Q1 2025. This report highlights the brands most frequently imitated by cybercriminals to steal personal, corporate and payment information, emphasising the evolving nature of phishing attacks in the digital age.
+In Q1 2025, Microsoft maintained its position as the most targeted brand, accounting for 36% of all phishing attempts. Google surged to second place with 12%, while Apple remained in the top 3 with 8%. Notably, Mastercard made a strong comeback, reappearing in the top 10 for the first time since Q3 2023, securing the fifth position. The Technology sector was the most impersonated industry, followed by Social Networks and Retail.
+Omer Dembinsky, Data Research Manager at Check Point Software, commented, "Phishing attacks leveraging trusted brands continue to be a primary threat. The return of Mastercard in the top rankings highlights the motivation of impersonating financial services as a fraud opportunity. Consumers must remain vigilant when interacting with online services, especially those involving sensitive financial data."
+Top 10 Targeted Brands in Q1 2025
+Below are the top 10 brands most frequently targeted by phishing attacks during Q1 2025:
+    Microsoft – 36%
+    Google – 12%
+    Apple – 8%
+    Amazon – 4%
+    Mastercard – 3%
+    Alibaba – 2%
+    WhatsApp – 2%
+    Facebook – 2%
+    LinkedIn – 2%
+    Adobe – 1%
+Phishing Campaign Targeting Mastercard Users
+A notable development in Q1 was the rise of a phishing campaign targeting Mastercard users. In February, cybercriminals launched fraudulent websites designed to mimic the official Mastercard website, primarily targeting users in Japan. The sites aimed to steal sensitive financial information such as credit card numbers and CVVs. Several fake domains were identified, including:
+    mastercard-botan[.]aluui[.]cn
+    mastercard-pitiern[.]gmkt6q[.]cn
+    mastercard-orexicible[.]bvswu[.]cn
+    mastercard-transish[.]gmkt7e[.]cn
+Image
+While these sites are no longer active, the resurgence of Mastercard in the top 10 rankings highlights a focus on financial institutions as targets for phishing. This serves as a reminder for users to be cautious when engaging with websites related to financial transactions.
+OneDrive Login Page Phishing Example
+Another significant phishing attempt this quarter involved a fake login page designed to steal user credentials by impersonating Microsoft's OneDrive. Cybercriminals created the domain login[.]onedrive-micrasoft[.]com, which closely resembled the official OneDrive login page. By mimicking Microsoft's branding, attackers aimed to deceive users into providing their login credentials, including email addresses and passwords.
+These incidents underline the evolving tactics of cybercriminals, who continue to rely on highly convincing replicas of legitimate services to trick users into compromising their security.
+ 
+image.png
+Industry Trends: The Rise of Technology Sector Attacks
+The Technology sector emerged as the most impersonated industry in Q1 2025. As businesses and consumers increasingly rely on technology and cloud-based services, these platforms remain attractive targets for cyber criminals. Leading tech companies such as Microsoft, Google, and Apple were among the most targeted brands. The Social Networks and Retail sectors also saw significant impersonation, with phishing attacks targeting platforms like Facebook, LinkedIn, WhatsApp, and major e-commerce sites like Amazon.
+Follow Check Point via:
+LinkedIn: https://www.linkedin.com/company/check-point-software-technologies
+X: https://www.twitter.com/checkpointsw
+Facebook: https://www.facebook.com/checkpointsoftware
+Blog: https://blog.checkpoint.com
+YouTube: https://www.youtube.com/user/CPGlobal
+About Check Point Research
+Check Point Research provides leading cyber threat intelligence to Check Point Software customers and the greater intelligence community. The research team collects and analyses global cyber-attack data stored on ThreatCloud to keep hackers at bay, while ensuring all Check Point products are updated with the latest protections. The research team consists of over 100 analysts and researchers cooperating with other security vendors, law enforcement and various CERTs.
+About Check Point Software Technologies Ltd.
+Check Point Software Technologies Ltd. (www.checkpoint.com) is a leading AI-powered, cloud-delivered cyber security platform provider protecting over 100,000 organisations worldwide. Check Point leverages the power of AI everywhere to enhance cyber security efficiency and accuracy through its Infinity Platform, with industry-leading catch rates enabling proactive threat anticipation and smarter, faster response times. The comprehensive platform includes cloud-delivered technologies consisting of Check Point Harmony to secure the workspace, Check Point CloudGuard to secure the cloud, Check Point Quantum to secure the network, and Check Point Infinity Core Services for collaborative security operations and services.
+Legal Notice Regarding Forward-Looking Statements
+This press release contains forward-looking statements. Forward-looking statements generally relate to future events or our future financial or operating performance. Forward-looking statements in this press release include, but are not limited to, statements related to our expectations regarding future growth, the expansion of Check Point's industry leadership, the enhancement of shareholder value and the delivery of an industry-leading cyber security platform to customers worldwide. Our expectations and beliefs regarding these matters may not materialise, and actual results or events in the future are subject to risks and uncertainties that could cause actual results or events to differ materially from those projected. The forward-looking statements contained in this press release are also subject to other risks and uncertainties, including those more fully described in our filings with the Securities and Exchange Commission, including our Annual Report on Form 20-F filed with the Securities and Exchange Commission on April 2, 2024. The forward-looking statements in this press release are based on information available to Check Point as of the date hereof, and Check Point disclaims any obligation to update any forward-looking statements, except as required by law.

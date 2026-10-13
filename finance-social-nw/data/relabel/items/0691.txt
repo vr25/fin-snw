@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+The commissioner of the Federal Communications Commission, Brendan Carr, urged the agency to launch an investigation into Apple over the tech giant's decision to block the Beeper Mini service.
+The Beeper Mini was an app that briefly brought iMessage to Android devices. On Monday, during the State of the Net Conference, Carr said that the FCC should look into whether or not Apple's move "complies with the FCC's Part 14 rules" regarding accommodating users with disabilities.
+FCC Commissioner Calls for Investigation of Apple
+The Beeper Mini app launched last year and allowed Android users to gain access to iMessage features. These include blue message bubbles and the ability to send high-quality photos and videos to other people.
+However, Apple quickly moved to block Beeper Mini users and continued to work on shutting down attempts to make the app work. This led the developers of the app to eventually just give up on the matter.
+The FCC's Part 14 rules detail requirements that "advanced communications service," including iMessage, must adhere to in order to make sure that they are accessible. However, Carr argued that putting a stop to Beeper Mini may have resulted in Apple violating the FCC's rule that says providers "shall not install network features, functions, or capabilities that impede accessibility or usability," as per The Verge.
+He argued that the low contrast on the green bubbles "makes it difficult for people with low vision or difficulty with seeing from picking up those messages." Carr added that Apple made changes to iMessage to disable the functionality of Beeper Mini.
+The situation makes it seem like Carr is concerned about more than just the Beeper Mini debacle as he also mentioned Apple's impact on the augmented and virtual reality spaces. He also criticized the walled garden that the tech giant puts around its products and services.
+Carr said that there are potentially negative consequences if Apple perpetuates a world where it treats its own proprietary technologies one way and degrades the performance of competitive ones.
+Move To Block Beeper Mini Service
+The FCC commissioner noted that Apple's wider set of exclusionary practices warrants scrutiny by antitrust and competition agencies. However, the agency did not immediately comment on any plans to investigate the matter, according to TechCrunch.
+The situation comes as in December, a bipartisan group of U.S. lawmakers requested the U.S. Department of Justice (DOJ) to investigate Apple's "potential anticompetitive treatment" of Beeper. They said that "interoperability and interconnections have long been key drivers of competition and consumer choice in communication services."
+Beeper Mini claimed that it was able to reverse engineer the method of accessing iMessage. It gave Android users the capability to send "blue bubble" messages to other people. While it remains unclear whether or not Apple's actions may have violated Part 14, the tech giant's decision to ban users may have crossed a line.
+A notable quote from the rules said that "no person shall be liable for a violation of the requirements of the rules in this part with respect to advanced communications services or equipment used to provide or access advanced communications services," said 9to5Google.
+Related Article:
+© 2026 HNGN, All rights reserved. Do not reproduce without permission.

@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Wall Street has ended higher, lifted by gains in Nvidia, Amazon and other technology-related heavyweights following recent jitters about artificial intelligence.
+Nvidia climbed 1.6 per cent after the world's most valuable company said it had signed a multi-year deal to sell to Meta Platforms millions of its current and future AI chips. Meta added 0.6 per cent.
+Sandisk, Western Digital and Seagate Technology Holdings climbed between 1.7 per cent and 4.4 per cent each, adding to strong gains in recent months fuelled by massive AI-related demand for their storage technology.
+AI-related stocks lost ground earlier in February as investors worried about high valuations and how long it might take for AI investments to boost revenue growth.
+Amazon added 1.8 per cent and Microsoft rose 0.7 per cent on Wednesday.
+"At a certain point, weakness in tech was bound to bring in the marginal buyer. These are still high-growth names. They were expensive and they've gotten cheaper," said Ross Mayfield, an investment strategy analyst at Baird in Louisville, Kentucky.
+"There are still a lot of people who want to be exposed to tech for the next several years."
+Software makers also showed signs of recovery following recent worries that improved AI tools could lead to more competition and squeeze their profit margins.
+The S&P 500 software and services sector increased 1.1 per cent after tumbling earlier this month.
+It was helped by advancing Cadence Design Systems shares, after the chip-design software provider beat fourth-quarter revenue estimates.
+Palo Alto Networks dropped 6.8 per cent after trimming its annual profit forecast.
+The S&P 500 climbed 0.56 per cent to end the session at 6,881.31 points.
+The Nasdaq gained 0.78 per cent to 22,753.64 points, while the Dow Jones Industrial Average rose 0.26 per cent to 49,662.66 points.
+The Nasdaq was up as much as 1.4 per cent before trimming its gains in the afternoon.
+Eight of the 11 S&P 500 sector indexes rose, led by energy, up two per cent, followed by a one per cent gain in consumer discretionary.
+Volume on US exchanges was light, with 16.8 billion shares traded, compared to an average of 20.7 billion shares over the previous 20 sessions.
+With Wednesday's gains, the S&P 500 is up about 0.5 per cent in 2026, while the Nasdaq is down 2.1 per cent.
+Federal Reserve officials were in nearly unanimous agreement to keep interest rates on hold at their meeting in January, but remained split over what might happen next, according to minutes of their January 27-28 meeting released on Wednesday.
+Traders are pricing in a roughly 50 per cent chance of a rate cut of at least 25 basis points by the Fed's June meeting, according to CME's FedWatch Tool.
+Data released on Wednesday showed solid business spending and US economic growth in the fourth quarter.
+Analog Devices rose 2.6 per cent after the chipmaker forecast second-quarter results above Wall Street estimates.
+Global Payments jumped over 16 per cent after the payment technology firm projected annual adjusted profit above expectations.
+Moderna climbed about six per cent after the US Food and Drug Administration agreed to review its influenza vaccine, reversing an earlier decision rejecting the application.
+Advancing issues outnumbered falling ones within the S&P 500 by a 1.7-to-one ratio.
+The S&P 500 posted 23 new highs and three new lows; the Nasdaq recorded 101 new highs and 120 new lows.
+Australian Associated Press

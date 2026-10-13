@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+SAN FRANCISCO, May 10 — Google is expected to enrich its popular online services with more artificial intelligence today as it scrambles to catch up with rival Microsoft despite fears that AI poses a threat to society.
+Leaks ahead of the internet titan’s annual developers conference have revealed that Google will also show off new gadgets, including a foldable smartphone, and reveal additions to its Pixel line of devices.
+Most attention will focus on Google’s expected release of a more muscular version of its Bard generative AI being put to work across the platform.
+Microsoft upped the pressure last week by expanding public access to its generative AI programmes — including the Bing chatbot — that have put the company founded by Bill Gates back on the map as a big tech disruptor.
+The services have been enhanced with the ability to work with images as well as text, and Microsoft intends to add video to the mix, according to executives.
+Google is expected to follow suit in AI announcements at its annual “I/O” software developers conference held a short walk from its headquarters in the Silicon Valley city of Mountain View.
+A more powerful large language model built into the heart of Bard will likely be unveiled, along with expanded use of the AI powers in Gmail, work software, search and more, according to media reports.
+Large language models involve machine learning applied to massive amounts of data harvested from the internet.
+Generative AI can be prompted to quickly deliver written tasks from poetry and homework to computer code. It can also be prompted to create images or video.
+Risks from AI include its potential uses for fraud, with voice clones, deep-fake videos and convincing written messages.
+A prominent computer scientist dubbed “the godfather of artificial intelligence” recently quit his job at Google and spoke out about the dangers of the technology.
+Geoffrey Hinton said at a recent MIT forum that it makes sense to halt the development of AI, but added that the idea is naive given the intense competition between countries and companies involved in the sector.
+Hinton, who created some of the technology underlying AI systems, maintained that the existential threat from AI is “serious and close.”
+A range of experts in March urged a pause in the development of powerful AI systems to allow time to make sure they are safe.
+Their open letter, signed by more than 1,000 people, including tech billionaire Elon Musk and Apple cofounder Steve Wozniak, was prompted by generative AI technology from Microsoft-backed firm OpenAI.
+Folding phone
+The I/O gathering is aimed at software developers who make apps or services that dovetail with Google’s “ecosystem” and should include details about the latest Android operating system for mobile devices.
+Recent tweaks to Android hint it is being adapted for phones with screens that bend, allowing them to be folded.
+Google recently posted a brief video clip teasing a foldable phone that it is likely to formally introduce at the conference.
+Leaked information in recent weeks indicates that Google will also show off a lower-priced version of its Pixel 7 smartphone along with a new Pixel tablet.
+Google might provide a glimpse of a Pixel 8 phone coming as its new flagship model to challenge iPhone at the premium end of the market.
+Google’s latest quarterly earnings exceeded expectations after the company slashed 12,000 staff, or six per cent of its workforce, in January. — AFP

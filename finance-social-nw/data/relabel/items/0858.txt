@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has introduced a private digital wallet for Android users in India, allowing users to securely store cards, tickets, passes, keys, and IDs, an official said on Wednesday.
+Google Wallet can be downloaded from the Play Store and would allow users to store their loyalty cards, and gift cards, among other things.
+- Also read: Google Wallet debuts in six new countries
+It is different from Google Pay app which helps manage money and finances.
+"Google Pay is not going anywhere. It will remain our primary payment app. Google Wallet is specifically tailored for non-payment use cases," said Ram Papatla, GM & India Engineering Lead, Android at Google.
+Published on May 8, 2024

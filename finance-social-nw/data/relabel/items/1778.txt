@@ -1,0 +1,32 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+This week’s ask an SEO question is:
+“Should SEOs be focusing more on digital PR than traditional link building?”
+Digital PR is synonymous with link building at this point as SEO’s needed a new way to package and resell the same service. Actual PR work will always be more valuable than link building because PR, whether digital or traditional, focuses on a core audience of customers and reaching specific demographics. This adds value to a business and drives revenue.
+With that said, here’s how I’d define digital PR vs. link building if a client asked what the difference is.
+- Digital PR: Getting brand coverage and citations in media outlets, niche publications, trade journals, niche blogs, and websites that do not allow guest posting, paid links, or unvetted contributors with the goal of building brand awareness and driving traffic from the content.
+- Link Building: Getting links from websites as a way to try and increase SERP rankings. Traffic from the links, sales from the links, etc., are not being tracked, and the quality of the website can be questionable.
+Digital PR is always going to be better than link building because you’re treating the technique as a business and not a scheme to try and game the rankings. Link building became a bad practice years ago as links became less relevant, they are still important, so I want to ensure that isn’t taken out of context, and we stopped doing link building completely. Quality content attracts links naturally, including media mentions. When this happens in a natural way, the website will begin rising as the site has a lot of value for users, and search engines can tell when the site is quality.
+If you’re building links without evaluating the impact they have traffic and sales-wise, you’re likely setting your site up for failure. Getting a ton of links, just like creating content in mass with AI/LLMs or article spinners, can grow a site quickly. That URL/domain can then burn to the ground equally as fast.
+That’s why when we purchase a link, an advertorial, or we’re doing a partnership, we always ask ourselves the following questions:
+- Is there an active audience on this website that is also coming back to the website via branded search for information?
+- Is the audience on this website part of our customer base?
+- Will the article we’re pitching or being featured in be helpful to the user, and is our product or service something that is part of the post naturally vs. being forced?
+- Are we ok with the link being nofollow or sponsored if we’re paying for the inclusion?
+If the answer is yes to these four, then we’re good to go with the link. The active audience on the website and people returning by brand name means there is an audience that trusts them for information. If the readership, visitors, or customers are similar or the same demographics as our user base, then it makes sense we’d want to be in front of them where they go for information.
+We may have knowledge that is helpful to the user, but if it is not on topic within the post, there is no reason for them to come through and use our services, buy our products, or subscribe to our newsletters. Instead, we’ll wait until there is a fit, so there is a direct “link” between the content we’re contributing, or being an expert on, and our website.
+For the last question, our goal is always traffic and customer acquisition, not getting a link. The website owner controls this, and if they want to follow Google’s best practices (which we obviously recommend doing), we will still be happy if they mark it as sponsored or nofollow. This is the most important of the questions. Building links to game the SERPs is a bad idea; building a brand that people search for by name will overpower any link any day of the week. This is always our goal when it comes to Digital PR and link building. Driving that branded search.
+So, that begs the question, where do we go for digital PR?
+Sources To Get Digital PR Mentions And Links
+When we’re about to start a Digital PR campaign, we create lists of the following targets to reach out to.
+- Mass Media: Household names like magazines, news websites, and local media, where everyone in the area, the customers, or the country or world knows them by name. The only stipulation we apply is if they have an active category vs. only a few articles here and there. The active category means it is something interesting enough to their reader base that they’re investing in it, so our customers may be there.
+- Trade Publications: Conferences, associations, and non-profits, as well as industry insiders will have websites and print publications that go out to members. Search Engine Journal could be considered a trade publication for the SEO and PPC industry, same with SEO Roundtable, and some of the communities like Webmaster World. They publish directly relevant content for search engine marketers and have active users, so if I was an SEO service provider or tool, this is where I’d be looking to get featured and ideally links from.
+- Niche Sites and Bloggers: There is no shortage of niche sites and content producers out there. The trick is finding ones that do not publicly allow guest contributions, advertorials, etc., and that do not link out to non-niche websites and content. This includes sites that got hacked and had link injections. Even if their “authority” is zero, there is value if they quality control and all links and mentions are earned.
+- Influencers: Whether it is YouTube, Facebook group leaders, LinkedIn that is crawlable, or other channels, getting coverage from people with subscribers and an active audience can let search engines crawl the link back to your website. It may not boost your rankings, but it drives customers to you and helps with page discoverability if the link gets crawled. LLMs are also citing their content as sources, so there could be value for AIO, too.
+Link building is not dead by any means; links still matter. You just don’t need to build them anymore. Focus on quality where an active audience is and where you have a chance at getting traffic and revenue. This is what will move the needle for the long run and help you grow in SERPs that matter.
+More Resources:
+- Advanced Link Building Strategies For National, International & Local
+- Bad & Toxic Backlinks You Should Avoid
+- 4 Types Of Data Campaigns In Digital PR For SEO
+Featured Image: Paulo Bobita/Search Engine Journal

@@ -1,0 +1,17 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Key Points
+-       Oracle stock has fallen about 9% year to date.
+-       The company's backlog grew 438% year over year to $523 billion.
+-       10 stocks we like better than Oracle ›
+Imagine an unprecedented $523 billion in remaining performance obligations (RPO), otherwise known as a backlog. This extraordinary queue uniquely positions any tech company to succeed in the next phase of AI implementation. That's the exact scenario Oracle (NYSE: ORCL) is facing, and if it executes, the software giant promises to be a multi-year revenue monster.
+Locking in revenue for years to come
+Oracle is an essential infrastructure provider in the age of AI, serving the cloud computing and data companies at the forefront of the technology boom. Its billions in RPO is contracted revenue that Oracle is bound to recognize in the future. This reserve is an immensely positive sign for long-term investors, but it doesn't come without some execution risk.
+The company's backlog has exploded 438% year over year, largely due to new commitments from Meta Platforms Inc. (NASDAQ: META) and Nvidia (NASDAQ: NVDA). Meta and Nvidia are among Oracle Cloud Infrastructure's main customers. This business line's revenue is up about 34% year over year.
+This backlog is multiple years' worth of revenue for Oracle, which recorded an impressive $16 billion in the second quarter of its fiscal 2026. Oracle's revenue grew 14% in its most recent quarter.
+Even with its solid growth engines, Oracle's stock stumbled over the past 12 months, down 5%. Still, longer-term investors benefited from a 200% gain over the past five years, which far outpaced the S&P 500's 80% gain.
+Future revenue is expensive
+One significant risk to Oracle's large backlog is that it will have to spend a lot of money to fulfill these future orders. Building the necessary data centers and infrastructure means a huge cash outlay to unlock future revenue. These cost concerns are part of the reason investors are slightly nervous about Oracle, which has dragged the stock down in recent months.
+Oracle is also up against stiff competition from Amazon Web Services, Microsoft Azure, and Alphabet's Google Cloud. Still, if Oracle can convert even a portion of its massive backlog, it would lock in billions in future revenue and long-term growth.
+Oracle's forward price-to-earnings (P/E) ratio has recently fallen from the low 30s to about 26 as of Jan. 22. Warren Buffett always said to buy good businesses at fair prices, and I think Oracle has reached that point, mostly due to its record backlog. Now, the company needs to show it can convert and remain relevant in an ultra-competitive landscape.

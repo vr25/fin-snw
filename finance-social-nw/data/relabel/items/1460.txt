@@ -1,0 +1,43 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Is the push for diversity, equity and inclusion (DEI) coming to an end simply because Donald Trump wants it that way? Some major US corporations, including Facebook's parent company Meta, Google'sAlphabet, carmaker Ford and coffee giant Starbucks, have already scaled back their diversity programs.
+Several European companies that do business with the United States have also been asked to confirm on questionnaires that they no longer support or engage in DEI programs.
+In Germany, the first companies are starting to fold, with carmaker Volkswagen (VW) and telecom giant Deutsche Telekom announcing plans to either scale back or end their diversity initiatives in the US.
+Software maker SAP has walked away from gender quotas in Germany.
+Many German companies still committed to diversity
+Are these isolated cases? A flash survey conducted at the end of April by Germany's largest employer initiative committed to DEI goals, Charta der Vielfalt(Charter of Diversity), offered some hope. More than 6,000 companies and institutions have so far signed the charter, of which 100 were polled. About 90% of them said they intended to continue their DEI programs unchanged.
+Cawa Younosi, managing director of the initiative, said more than 800 companies have signaled their intention to also sign the charter, which was a "record."
+On the occasion of Germany's Diversity Day, held this year on May 27, a similar number of companies had preregistered for participation on the group's LinkedIn page, Younosi told DW.
+"So if you look beyond the big names, you can really feel a 'now more than ever' attitude in Germany," he said.
+According to German news agency dpa, several major companies like carmaker BMW and Henkel have said they are closely monitoring the situation.
+Engineering conglomerate Siemens, for example, stated there is currently "no need to change our efforts toward diverse teams and an inclusive work environment due to recent developments."
+Others, such as UK-based cosmetics retailer Lush, are taking an openly defiant stance. "Lush is not bowing to this pressure â in fact, the opposite. We see it as motivation to make our position even more visible," the company said when asked by DW for comment. "DEI is at the core of our corporate identity."
+Younosi added that several board members told him they're more concerned that their US business might suffer because their companies are European, rather than because they support DEI programs.
+What's the situation in US companies?
+Despite the backlash, some US companies remain committed to DEI. Iphone maker Apple, for example, continues to promote a diverse corporate culture.
+"Because we're not all the same. And that remains one of our greatest strengths," Apple's website says â a message that nearly all shareholders supported at the company's annual meeting.
+Software giant Microsoft and US membership-based warehouse retailer Costco Wholesale have also reaffirmed their support for DEI.
+Younosi added that there are more companies like these than many assume. "Roughly 75% of companies in the US have not changed their diversity efforts," he said.
+Still, the picture looks less optimistic when focusing on the biggest corporations. According to a 
+Financial Times
+ report from March, some 90% of the 400 largest companies in the S&P 500 stock market index that filed annual reports removed at least some references to DEI following Trump's election. Many omitted the term entirely, replacing it with language about "inclusion," "belonging" or a workplace where "all employees" feel comfortable.
+Is the long fight for diversity ending with Trump?
+Does this mean efforts to support marginalized groups are at a dead end? Since 1964, US law has prohibited workplace discrimination based on race, religion, sex, color or national origin. Since then, companies have been working to promote diversity and combat discrimination.
+But the US president has argued that "woke" policies like DEI discriminate against white, middle-aged men. In the early days of his second term, he issued an executive order ending DEI programs in federal institutions. Another order labels private-sector DEI initiatives as unconstitutional and discriminatory.
+Meanwhile, fear of Trump's policy extends beyond US borders, as foreign companies are worrying about losing US government contracts if they don't distance themselves from DEI. Even merger approvals may be affected.
+T-Mobile US' acquisition of cable operator Lumos, for instance, was approved the day after the Deutsche Telekom subsidiary largely eliminated its diversity programs.
+Is DEI possible without designated programs?
+SAP CEO Christian Klein said he still plans to pursue and expand diversity initiatives within the company, even though it has abandoned gender quotas. "What ultimately matters is what we actually do to promote diversity," he told DW. The question, however, remains how much progress is really possible without dedicated programs?
+Siri Chilazi, a gender equity researcher at Harvard University, told the BBC recently that there was "no historical precedent to suggest that racial and gender imbalances will correct themselves."
+Germany offers a parallel example. Laws alone haven't guaranteed workplace inclusion for people with disabilities.
+In 2024, a so-called Workplace Inclusion Barometer, compiled by German charity Aktion Mensch in collaboration with the research institute of business daily 
+Handelsblatt
+, found that one in four German companies employs not a single disabled worker.
+German law, however, requires companies with 20 or more employees to fill at least 5% of jobs with people who have disabilities. Companies can avoid this obligation by paying a so-called compensation levy, which may bring additional revenue for the state, but doesn't create jobs for those affected.
+Companies 'rebranding and reorganizing'
+But DEI programs in the US may not be truly gone. According to Michelle Jolivet, companies that appear to have canceled their DEI programs are not really eliminating them.
+"Instead, they are just rebranding and reorganizing to escape potential lawsuits," Joliviet, the author of the book "Is DEI dead?," told the BBC.
+Germany's Charta der Vielfalt also said that around 75% of US businesses have not actually changed their DEI policies.
+Michael Eger, a partner at German consultancy Mercer Deutschland, has observed that while companies may change how they communicate, "their core attitudes and actions largely remain the same."
+Even in industries facing labor shortages, more initiatives are being launched to attract women, people with migrant backgrounds and older workers, Eger told DW.

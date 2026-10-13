@@ -1,0 +1,21 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+U.S. stocks could be on pace for their fourth straight year of double-digit gains if the current pace holds. The Vanguard S&P 500 ETF (NYSEMKT: VOO) has returned 26%, 25%, and 18%, respectively, over the past three calendar years, and it's up another 10% year to date in 2026.
+If you follow the old saying of "if it ain't broke, don't fix it," it would be understandable to keep holding this ETF for the foreseeable future. For long-term buy-and-hold investors, it's a strategy that makes a lot of sense and is certainly defensible given its ultra-low expense ratio and long track record of success.
+I want to make the case, however, for the Vanguard Total Stock Market ETF (NYSEMKT: VTI). It has a slightly different composition than the S&P 500 (SNPINDEX: ^GSPC), one that could make it an outperformer in the years ahead. If you continue to steadily invest in it AND can manage the temptation to time the market during periods of volatility, it could set you up for a lifetime of financial independence.
+Why the Vanguard Total Stock Market ETF (VTI) is the ideal portfolio cornerstone
+This ETF tracks the CRSP US Total Market Index, which is essentially a market-cap-weighted index of the entire investable U.S. stock market. With the S&P 500, you get a basket of around 500 large-cap stocks. With the Vanguard Total Stock Market ETF, you get nearly 3,500 stocks of all sizes.
+Because both are market-cap-weighted, there's significant overlap. Even with those additional 3,000 stocks, there's an 88% overlap of assets. That means the correlation of performance and volatility is very high.
+But that 12% weighting that the Vanguard Total Stock Market ETF has to mid-cap and small-cap stocks matters. That group's composition doesn't look like the S&P 500. The smaller-stock-focused Russell 2000 index, for example, has 16% to 19% weightings in each of the industrials, tech, financials, and healthcare sectors. That means adding this group to a large-cap portfolio provides real diversification benefits and added growth potential.
+VTI: Performance and key metrics
+Data source: Vanguard.
+It would be easy to argue that small caps are overdue to outperform, given how they've lagged large caps for years. But there needs to be a catalyst to make it happen. Right now, it could be earnings growth. For the first time in a few years, earnings are expected to accelerate into the double-digits in 2026. When you combine that kind of earnings growth with relatively cheap valuations, the case for including small caps in your portfolio gets stronger.
+That's why I chose the Vanguard Total Stock Market ETF over the Vanguard S&P 500 ETF for my core equity holding. Both will likely do just fine over the long term, but I prefer to own that modest allocation to small caps in my portfolio.
+That makes it an ETF that could set you up for life.
+Should you buy stock in Vanguard Total Stock Market ETF right now?
+Before you buy stock in Vanguard Total Stock Market ETF, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Vanguard Total Stock Market ETF wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $471,072!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,303,352!*
+Now, it's worth noting Stock Advisor's total average return is 983% — a market-crushing outperformance compared to 210% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+David Dierking has positions in Apple and Vanguard Total Stock Market ETF. The Motley Fool has positions in and recommends Alphabet, Apple, Microsoft, Nvidia, and Vanguard S&P 500 ETF. The Motley Fool has a disclosure policy.

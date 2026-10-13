@@ -1,0 +1,18 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Shutterstock has said it is buying Giphy from Meta Platforms for 53 million dollars (£46 million), the final step to unwind a deal blocked by British regulators over competition concerns.
+The stock image service said it is paying cash for the GIF-sharing platform, which has 1.7 billion daily users and partners including Facebook, Instagram, WhatsApp, TikTok and Twitter.
+Shutterstock said it signed a deal to give Meta continued access to New York-based Giphy’s content across Meta’s platforms.
+In a statement, chief executive Paul Hennessy said the acquisition will help Shutterstock expand its audience reach “beyond primarily professional marketing and advertising use cases” and “into casual conversations”.
+The transaction, set to close in the next month, could potentially leave Meta with a big loss.
+Meta purchased Giphy in 2020, in a deal reportedly worth 400 million dollars (£322 million).
+The UK’s Competition and Markets Authority opened an antitrust investigation over concerns it would result in “substantial lessening of competition” in the UK market for GIFs, or short looping videos.
+The country’s competition watchdog ordered Meta to reverse the deal in 2021. Meta appealed but lost, and the UK watchdog concluded that “the only way to avoid the significant impact the deal would have on competition” is for Meta to sell Giphy to an approved buyer.
+Meta declined to comment further on Tuesday on Shutterstock’s acquisition, and directed The Associated Press to an October statement that said it is disappointed by the UK decision but accepts it as the “final word on the matter”.
+That statement also said Meta would “continue to evaluate opportunities — including through acquisition — to bring innovation and choice to more people in the UK and around the world”.
+The UK watchdog found that Meta’s purchase of Giphy would hurt social media users and advertisers by stifling competition for animated images.
+The watchdog later concluded that the deal would boost traffic to Meta-owned sites, while denying or limiting access for online platforms to Giphy GIFs.
+It also found that the deal would remove potential competition from the UK’s £7 billion display advertising market, half of which Meta controls.
+The CMA blocking Meta’s acquisition of Giphy marked the first time that the UK watchdog had sought to unwind a tech deal. But the move set a precedent for similar British regulation across the industry.
+Last month, the CMA blocked Microsoft’s 69 billion dollar (£55 billion) purchase of video game maker Activision Blizzard — citing similar concerns that the deal would stifle competition for popular titles such as Call of Duty in the fast-growing cloud gaming market.

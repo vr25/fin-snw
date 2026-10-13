@@ -1,0 +1,20 @@
+{"id": "1740", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Warren Buffett's conglomerate Berkshire", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1741", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By STAN CHOE, AP Business", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1742", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia's sales of the computing", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1743", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia's sales of the computing", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1744", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia's sales of the computing", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1745", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "For many investors, earnings season", "relation": "causal-driver", "sentiment_alignment": -0.4}
+{"id": "1746", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "OpenAI is partnering with Taiwan's", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "1747", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "OpenAI is partnering with Taiwan's", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1748", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI is partnering with Taiwan's", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1749", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Valve's upcoming Steam Machine is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1750", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "President Donald Trump leads a", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1751", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Oxford Police keeping shoppers safe", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1752", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Alphabet 's recent move", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1753", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alphabet 's recent move", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "1754", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Alphabet 's recent move", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1755", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Equities in Canada's largest", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1756", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Equities in Canada's largest", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1757", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Equities in Canada's largest", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1758", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Tech sector rallies: Nvidia leads", "relation": "substitute-comparison", "sentiment_alignment": -0.8}
+{"id": "1759", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia looked poised to have", "relation": "co-hype", "sentiment_alignment": 0.4}

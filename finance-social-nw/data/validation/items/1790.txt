@@ -1,0 +1,20 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+BNB drops nearly 3% to as bitcoin whipsaw and tech selloff hit crypto market
+The decline was accompanied by sharp volatility in bitcoin and weakness in U.S. tech stocks, suggesting a return of risk-off sentiment.
+- BNB fell nearly 3% to around $844 over the past 24 hours, breaking below the $855-$857 support area and experiencing heavy selling pressure.
+- The decline was accompanied by sharp volatility in bitcoin and weakness in U.S. tech stocks.
+- To avoid a deeper decline towards $830, BNB needs to hold above $840, while a recovery above $855 would be needed to stabilize the trend and reopen a path towards $870.
+BNB slid nearly 3% over the past 24 hours, falling to around $844 as a sharp reversal in bitcoin and renewed weakness in U.S. tech stocks rippled through crypto markets.
+The token minutes earlier had risen to $872, but failed to hold gains before selling pressure accelerated, according to CoinDesk Research's technical analysis data model.
+The move marked a shift from recent consolidation. After several sessions of defending the $855–$857 area, BNB broke below that support during U.S. trading hours. Prices briefly bounced toward $860, but sellers quickly regained control, pushing the token to session lows near $843.
+The decline unfolded alongside heavy volatility in bitcoin, which briefly surged above $90,000 before tumbling back below $86,600. Losses in artificial intelligence-linked stocks such as Nvidia and Broadcom dragged the Nasdaq lower, reinforcing risk-off sentiment across risk assets.
+Volume on BNB surged during the breakdown, with several large spikes appearing as prices slipped through support. The pattern suggests forced selling or stop-loss triggers rather than the orderly pullbacks seen earlier in the week.
+On short-term charts, BNB’s structure deteriorated as the break below $855 ended the prior consolidation range. That level now acts as near-term resistance.
+Holding above $840 will be critical to avoid a deeper move toward $830. A recovery back above $855 would be needed to stabilize the trend and reopen a path toward $870.
+BNB’s slide mirrors the broader tone in crypto markets, where shrinking liquidity has amplified price swings. For traders, the latest move underscores how quickly conditions can shift when macro pressure collides with thin year-end trading.
+Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk's full AI Policy.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+Why it matters:
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.

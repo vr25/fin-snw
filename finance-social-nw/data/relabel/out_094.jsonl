@@ -1,0 +1,20 @@
+{"id": "1880", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Palantir stock price has", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1881", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Palantir stock price has", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1882", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Palantir stock price has", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1883", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "We're a month into the", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "1884", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Manufacturing push, infra development", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1885", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oracle Corporation is preparing", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1886", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By BERNARD CONDON and", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "1887", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz                   Allgemeine", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1888", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Walmart has officially reached", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1889", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Walmart has officially reached", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1890", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Walmart has officially reached", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1891", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The artificial intelligence industry", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1892", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Elon Musk's companies plan", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1893", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Elon Musk's companies plan", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1894", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Elon Musk's companies plan", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1895", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Your Go-To Guide for", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1896", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Lola Evans                 07", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1897", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon shares plunged on", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "1898", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "For years, Microsoft's $13", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1899", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "Without advanced chips, networking", "relation": "co-hype", "sentiment_alignment": 1}

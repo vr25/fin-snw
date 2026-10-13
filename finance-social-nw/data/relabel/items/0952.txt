@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+WASHINGTON - Amazon's AWS, the world's biggest cloud computing outfit, is making a major push to entice the public sector to join the artificial intelligence revolution, as the generative AI race with Microsoft and Google heats up.
+AWS and the other cloud giants say that the technology, made famous by ChatGPT, can have a huge impact on improving public services, including in health, security, charity and NGO work.
+But getting governments and nonprofits to sign on will be a bigger ask than persuading private companies -- and AWS on Wednesday opened a $50-million, two-year envelope for potential public customers to test out ideas.
+The public sector market for cloud computing is already an important one. AWS serves 7,500 government agencies, 14,000 academic institutions and 85,000 nonprofits in 215 countries, according to company data.
+The initiative would give accepted AI projects access to cloud computing credits, training and technical expertise.
+"What I see happening is lots of ideas, lots of use cases, lots of proof of concepts, things that I think will really have an impact," Dave Levy, the AWS vice president in charge of the global public sector business, told AFP.
+"Getting that stuff into production is where public sector organizations really need that support and help," Levy said ahead of an AWS "summit" targeting the public sector in Washington.
+The scramble for public sector adoption of generative AI comes as Microsoft's cloud business as well as Google Cloud are trying to bite into AWS' leadership of the market.
+Generative AI, which stormed the world with the release of ChatGPT, can generate human quality content by churning through piles of data, something that the public sector has on a massive scale.
+AWS' Bedrock platform provides generative AI to clients by allowing them to access a range of models, such as Anthropic's Claude model, that are used to power custom-made AI tools and applications.
+Levy insisted that the benefits of AI would far outpace the challenges, given how much could be done by the technology with the data available.
+In one example of generative AI cited by AWS, Boston's Dana-Farber Cancer Institute built a new research solution using the Anthropic's Claude model to help doctors interpret lab results.
+In Britain, the Swindon Borough Council meanwhile used AWS' cloud to build a generative AI tool to make complex leasing agreements more understandable.
+For now, generative AI, much like video streaming and much of life on the internet, requires cloud computing to function.
+The bet across the industry is that generative AI, while still in the early stages, could boost growth and accelerate a transition to the cloud once public agencies see AI can take on a bigger role in their mission.

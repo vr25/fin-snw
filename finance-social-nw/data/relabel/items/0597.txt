@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Researchers at Microsoft and the Department of Energy’s Pacific Northwest National Laboratory (PNNL) say they’ve discovered a way to reduce the lithium content in batteries by as much as 70%, using a process that shows the potential for artificial intelligence to significantly accelerate all sorts of scientific research.
+The researchers used AI and high-performance computing to identify promising materials for batteries in a matter of days, successfully shortcutting a process that would normally take years or decades, according to an announcement Tuesday from the Redmond, Wash.-based company and Richland, Wash.-based lab.
+The project is part of a three-year collaboration between Microsoft and PNNL, also announced Tuesday, to use AI and cloud computing in the quest for clean energy solutions.
+Their prototype battery uses a novel combination of lithium and sodium, generating enough energy to power a lightbulb, as an initial proof of concept.
+Researchers acknowledge that the chemistry has yet to be fully proven, and might not work at a larger scale. They say it’s nonetheless a promising development in the quest for alternatives to traditional lithium-ion batteries, which are widely used but have drawbacks such as scarcity, cost, environmental impact and safety.
+Bigger picture, their approach could foreshadow a new era of scientific discovery.
+Microsoft is competing against Amazon, Google, IBM, and other tech companies and research organizations to develop new applications of artificial intelligence leveraging increasingly powerful networks of computers.
+For the battery project, Microsoft’s AI tools were trained to evaluate millions of possible materials and suggest combinations that could work as solid-state electrolytes, a promising type of battery component.
+The AI tools reduced the number of candidates from 32 million to 23, of which 18 were new and previously unknown, Microsoft and PNNL say. The PNNL scientists then synthesized and tested one of the new materials, combining lithium and sodium, and found that it has a novel molecular structure that facilitates the movement of both ions.
+The new battery material could offer advantages in terms of availability, cost, safety and stability over traditional lithium-ion batteries. The material has been successfully turned into prototype batteries, but it still needs to undergo further tests and improvements before commercialization, according to researchers.
+The researchers detailed their work in a paper distributed this week via the pre-publication arXiv website.
+Their work builds on Microsoft’s announcement in June of Azure Quantum Elements, a cloud-based system designed for chemistry and materials science research, as a prelude a future quantum supercomputer.

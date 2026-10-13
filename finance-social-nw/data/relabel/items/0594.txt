@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Why we need to break up Big Tech to save capitalism
+The Christmas spirit seems to have melted the heart of Microsoft's Ebenezer Scrooge, president Brad Smith.
+Back in spring, Smith grabbed the prime-time slot on the BBC's Today programme for an outburst that some called "borderline unhinged". This came after Britain's competition watchdog, the Competition and Markets Authority (CMA), had objected to Microsoft's $69bn (£54bn) acquisition of the big game studio Activision Blizzard.
+Unless the regulator backed down, Smith said Microsoft might prefer to do business elsewhere instead.
+And if it failed to get its hands on Candy Crush, it may even leave the UK at the mercy of dangerous cyberhackers.
+"We play a vital role not just supporting businesses and non-profits but even defending the nation from cybersecurity threats," he said at the time. It wasn't the most subtle warning.
+But guess what? Microsoft cooled down, made modest concessions to reassure gamers, and the CMA approved the deal. Now, Smith thinks this was for the best after all. He told Today last week that he thought the CMA had been "tough but fair".
+But if Smith had a better antenna, he'd have a much better idea of how the public views such mega-mergers.
+Maurice Saatchi articulated some of this popular disquiet in an important contribution to the debate last week.
+Globalisation had created cartels, Saatchi wrote, "in which there is a huge imbalance of power between the customer and the corporation; a sense of powerlessness and unfairness that results from a world of global companies whose governance (and maybe taxes) are beyond public control".
+It was startling to see the former chair of the Conservative Party, and a bogeyman of the Left, now put the phrase "free market" in scare quotes. But Saatchi is far more in tune with the public than much of the Tory party, or Westminster's intellectual apparatus – which regards any obstacle to huge companies as the first shots of the Bolshevik revolution.
+Being a competition regulator is not easy, and means being targeted by everyone. The regulator can easily get it wrong. For example, with the benefit of hindsight, we can now say that the UK Competition Commission (as it then was) was foolish to block UK broadcasters from collaborating to fight emerging global players like Netflix and Amazon in 2009.
+They wanted to pool their content and share infrastructure for a new global venture with a definably British flavour. Instead of hanging together, the regulator ensured they must operate separately.
+In its "horizon scanning" report published in December, the CMA outlined a number of areas of concern in digital markets. It cited the integration of new services into giant platforms and the cost of access to the platforms for developers.
+Generative AI is likely to concentrate power further since you need to be very big to run it. And ominously, the CMA worries about how dominant tech players are moving into finance, energy and health.
+Last week, Google flexed its muscles and began to block third-party cookies in response to calls from privacy groups, many of whom it funds. That's bad news for competition in the digital advertising market, but good news for Google – which maintains its own tracking apparatus through control of the web browser and the platform.
+While regulators slept, Big Tech grew very big indeed. Between 2012 and 2020, Amazon, Google and Facebook comfortably outgrew US GDP and the other 497 Fortune 500 companies.
+"Only Big Tech monopolies can unilaterally and collusively control what every American sees, says, shares, buys, and sells online," wrote former Bush administration official Scott Cleland for the Heartland Institute.
+The counter-argument is that greater size leads to greater efficiency, and these gains are passed onto the consumer.
+The principle has sustained competition policy for decades, and particularly when it comes to mergers. But awkwardly, a reminder of how "efficient" the tech giants really are could be deduced from a recent essay in The Baffler by a former Microsoft manager called JS Tan.
+Towards the end of his tenure, Tan admits he was working less than three hours a day. Such experiences are rife: a significant number of software developers are doing barely any work at all in Silicon Valley.
+"How is it that the tech industry, the purported cradle of innovation, has become a redoubt of waste and unproductivity?" Tan asks. The answer, of course, is that insulated from real competition, and with giant profits, they couldn't really care less.
+For free-market utopians, this is all a little awkward. Falling prices don't lie, they insist. Look at all the free stuff we get! The counter is that this is a new world entirely, one of global information dominance, where platforms uniquely control both supply and demand. We could all be dead before they face any competition.
+Lord Saatchi's intervention is significant because he realises this. A lasting psychological consequence of today's cartels, he writes, is that people give up believing in markets entirely.
+Entrepreneurs who think the game is rigged go and do something else instead. While the US is producing Republican populists who want to take on cartels and Big Tech, like JD Vance, counterparts in Westminster just aren't interested.
+If capitalism is to survive, it depends on how much it can extract confidence in the very idea of the market.

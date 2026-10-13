@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Nvidia has hired the leadership of a promising AI chip startup, a statement said Wednesday, as the artificial intelligence giant expands its tech empire.
+Chip maker Groq said the departure of its top executives was part of a non-exclusive licensing agreement with Nvidia for its inference technology, as both companies seek to expand access to low-cost AI processing.
+Under the agreement, Groq founder Jonathan Ross and president Sunny Madra, along with other team members, will join Nvidia to help develop and scale the Groq's technology.
+Nvidia's domination of the AI training chip market has made it the world's biggest company by market valuation, but it faces increasing competition in the inference segment from specialized startups like Groq.
+AI inference refers to the process of running pre-trained AI models to make predictions or generate responses, such as when ChatGPT answers a user's question or when an image recognition system identifies objects in a photo.
+Groq will remain an independent company under new chief executive Simon Edwards, the firm said in a short statement.
+The release of the statement shortly followed a report by CNBC that Nvidia was buying Groq outright for $20 billion, though a source close to the matter told AFP that no sale had taken place.
+The arrangement resembles an "acquihire" - a practice increasingly common in Silicon Valley where larger tech companies poach key staff from smaller firms, leaving a small remnant of the company behind.
+The practice is largely designed to evade the scrutiny of competition regulators that have become skittish about tech giants snapping up promising companies that stand a chance of becoming rivals.
+Recent examples include Microsoft's deal with AI startup Inflection AI in 2024, which saw co-founder Mustafa Suleyman and much of the team join Microsoft while the company remained independent.
+Google has also made similar moves, bringing on teams from AI startups like Character.AI in 2024.
+Meta's 2025 deal to invest $14.3 billion in Scale AI and hire its CEO, Alexandr Wang, to lead its new "superintelligence" AI lab is considered one of the biggest acquihires yet.
+Published - December 26, 2025 10:10 am IST

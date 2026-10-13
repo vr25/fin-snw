@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Tuning into conference calls during earnings season is a smart idea. You never know when a CEO of a major company is going to mention another business or progress in an innovative field. Microsoft's (MSFT +3.66%) CEO Satya Nadella recently gave some commentary regarding quantum computing, and it could have huge ramifications for companies involved in the field, like IonQ (IONQ +1.11%).
+Microsoft believes quantum computing will be a huge boost for one of its primary businesses, which could lead to major growth for IonQ.
+Microsoft is bullish on quantum computing viability
+During Microsoft's fourth quarter of fiscal-year 2025 (ending June 30) conference call, Nadella stated: "The next big accelerator in the cloud will be Quantum, and I am excited about our progress." Following that statement, he discussed how Microsoft recently launched a Level 2 quantum computer, which he describes as a device with reliable logical qubits. While Microsoft is pursuing quantum computing technology, it also supports another business in the field.
+Microsoft has long taken the stance in the cloud computing realm of staying neutral. That's why it offers several of the leading AI models on its platform, beyond its partners. While it's pursuing quantum computing by itself, it also has IonQ's quantum computing platform available for use.
+NASDAQ: MSFT
+Key Data Points
+This is key for a company like IonQ, as all three of the major cloud players are attempting to develop their own quantum computing technology. This could ease barriers to entry, but IonQ already has its quantum hardware available on Microsoft's Azure, Alphabet's Google Cloud, and Amazon Web Services (AWS).
+If quantum computing ends up being the next big thing for cloud computing and IonQ can beat the competition to the punch, it could enjoy a role similar to Nvidia, which is a great place to be.
+I think IonQ has what it takes to reach that spot, as it has a few key advantages over its competition.
+IonQ is taking a unique approach to quantum computing
+Nearly every company in the quantum computing race is taking the same approach: superconducting. This requires cooling a particle to near absolute zero, which is a very expensive proposition. IonQ's trapped ion approach eliminates the need for this, as it can be done at room temperature. Additionally, the trapped ion approach may provide increased error correction due to the ability to connect every qubit in the system. Right now, IonQ is the industry leader, as it holds the current world record in both one-qubit and two-qubit fidelity (a measure of how accurate a calculation is).
+IonQ has also laid out a path to building devices with 2 million qubits by 2030, which doubles the 1 million qubits that most companies agree is the minimum amount necessary for quantum computing to achieve commercial relevance.
+NYSE: IONQ
+Key Data Points
+If IonQ can win the quantum computing race, there's a huge market opportunity available. Management projects that the total addressable market will be about $87 billion by 2035 -- a massive market considering IonQ's small size.
+I think IonQ is one of the best pure-play quantum computing investments that investors can make right now, but that doesn't mean investors should go all-in. There's still a ton of risk involved with IonQ's stock, so investors need to keep their exposure relatively minimal. By devoting no more than 1% of total portfolio value to IonQ, investors won't feel the pain if the stock goes to $0. But if it explodes, that 1% exposure will be all you need to make a massive profit on the investment.

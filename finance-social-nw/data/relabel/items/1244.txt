@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+The S&P 500 and the Nasdaq Composite have ended higher as gains by many of the so-called Magnificent Seven tech stocks pushed benchmarks up on a holiday-thinned trading day.
+With megacap stocks having outsized influence on markets, their performance during a week in which many investors take time off will be even more pronounced.
+Meta Platforms, Nvidia and Tesla all closed higher on Monday, with Google parent Alphabet also in positive territory.
+The gains helped propel the Nasdaq Composite to its third straight increase, and a second advance in three sessions for the S&P 500.
+According to preliminary data, the S&P 500 gained 42.96 points, or 0.70 per cent, to end at 5,972.23 points, while the Nasdaq Composite gained 192.29 points, or 0.98 per cent, to 19,764.89. The Dow Jones Industrial Average rose 61.59 points, or 0.14 per cent, to 42,901.85.
+After a solid run since the November presidential election, Wall Street's rally hit a bump this month, especially after the US Federal Reserve forecast just two 25-basis-point rate reductions for 2025 - down from its September view of four cuts - and raised its annual inflation outlook.
+This included a selloff last Wednesday triggered by the US Federal Reserve signalling a slower rate-cut pace.
+Chris Zaccarelli, chief investment officer at Northlight Asset Management, noted that while some course correction has occurred in recent days, as interest-rate expectations have been modified by investors, many of the same trends remain in place, including tech and tech-enabled stocks finding favour.
+"We're really seeing a microcosm today of what we've seen all year long, and the trends are back in place despite what we've seen in the last couple of weeks where things bounced around a little bit," Zaccarelli said.
+As well as major benchmark gains, a majority of the S&P sectors finished higher on Monday, led by communication services .
+Markets are also entering a historically strong period for US stocks.
+Since 1969, the last five trading days of the year, combined with the first two of the following year, have yielded an average S&P 500 gain of 1.3 per cent - a period known as the "Santa Claus Rally", according to the Stock Trader's Almanac.
+Northlight's Zaccarelli said he believed conditions were right for such a rally, as this year's gains would likely mean investors would hold on to positions as opposed to selling and booking losses which they can use for tax purposes.
+Qualcomm's shares rose after a jury found its central processors are properly licensed under an agreement with UK-based Arm Holdings. Shares of Arm, which has vowed to seek a fresh trial, fell.
+Walmart dropped after the US consumer finance watchdog accused the retail giant and workforce payments company Branch Messenger of forcing more than a million delivery drivers into using accounts that cost them more than $US10 million ($A16 million) in junk fees.
+Eli Lilly gained after the US Food and Drug Administration approved the drugmaker's weight-loss treatment, Zepbound, for obstructive sleep apnea. Shares of sleep apnea device makers ResMed and Inspire Medical fell.
+Nordstrom's shares declined after the department store chain's founding family and Mexican retailer El Puerto de Liverpool agreed to take the company private.
+Australian Associated Press

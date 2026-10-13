@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google avoids the worst in antitrust ruling
+A federal judge rejected the government's request to break up Google
+What happened
+A federal judge in Washington, D.C., Tuesday rejected the government's request to break up Google, after having ruled last year that the company's search engine was an illegal monopoly. But Judge Amit Mehta did order more modest changes, including instructing Google to share some of its search data with "qualified competitors" and barring it from paying tech companies to make its search engine, AI chatbot or Android Play Store "exclusive" services on their smartphones, computers or other devices.
+Who said what
+Mehta's opinion was the "most consequential antitrust decision on Big Tech's business practices since a federal judge's failed bid to break up Microsoft in the early 2000s," Politico said. The Justice Department had asked Mehta to force Google to sell its Chrome browser, share expansive data on its search infrastructure and impose other sanctions.
+In his ruling, Mehta said he needed to craft antitrust remedies "with a healthy dose of humility," especially given the rise of a competitive generative AI market that could eclipse Google's search dominance without government intervention. Unlike most cases, the court here was "asked to gaze into a crystal ball and look to the future," he said. "Not exactly a judge's forte."
+What next?
+Gabriel Weinberg, the CEO of search competitor DuckDuckGo, called Mehta's remedies "a nothingburger." But Vanderbilt University antitrust law expert Rebecca Haw Allensworth said the changes ordered for Microsoft, also initially considered weak, had opened the internet to competitors, including Google. Given likely appeals, "it could take years" before Google "is required to act on the ruling," Reuters said.
+The Week
+Escape your echo chamber. Get the facts behind the news, plus analysis from multiple perspectives.
+Sign up for The Week's Free Newsletters
+Join more than 350,000 subscribers and keep yourself informed with a selection of The Week’s most interesting, enlightening and entertaining stories - plus daily puzzles.
+A free daily email with the day’s biggest news and analysis – and the best features from TheWeek.com
+Peter has worked as a news and culture writer and editor at The Week since the site's launch in 2008. He covers politics, world affairs, religion and cultural currents. His journalism career began as a copy editor at a financial newswire and has included editorial positions at The New York Times Magazine, Facts on File, and Oregon State University.

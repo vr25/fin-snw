@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+California Journalism Preservation Act survives key vote. But it won’t go to Senate floor yet
+- California Assembly Bill 886, known as the California Journalism Preservation Act, faces uncertainty in the Senate after being sent to the Senate Rules Committee instead of for a floor vote.
+California Assembly Bill 886 — dubbed the California Journalism Preservation Act — cleared a big hurdle in the Senate on Thursday, but its fate remains uncertain.
+The bill made it out of the Senate Appropriations Committee's suspense file, where bills with a significant fiscal impact are held for consideration. Bills usually are passed to the Senate for a floor vote, but AB 886 was sent to the Senate Rules Committee instead.
+This suggests that the bill, which is heavily opposed by the tech industry, has a way yet to go before it makes it for a floor vote, if it gets one at all.
+Asked about the decision, Appropriations Committee Chair Sen. Anna Caballero, D-Merced, said, "It's above my pay grade." But as Caballero chairs the most powerful committee in the Senate, that was likely a reference to Senate President pro Tem Mike McGuire, D-Healdsburg.
+In a statement to The Bee, McGuire, who serves as chair of the Senate Rules Committee, said his office is working closely with Assembly leadership, Assemblywoman Buffy Wicks and Sen. Steve Glazer. Wicks, D-Oakland, is the author of AB 886; Glazer, D-Orinda, wrote a similar bill, Senate Bill 1327.
+McGuire said the two bills are needed "in order to ensure that newsrooms are being compensated fairly for their content."
+"Tech platforms are getting clicks and profiting mightily off the hard work of journalists — these bills would work in tandem to help level the playing field," McGuire said.
+AB 886 would require tech companies such as Meta and Google to pay a percentage of their advertising revenue for news stories that are shared on their platforms. Similar laws have been enacted in other countries, including Canada and Australia.
+SB 1327 would implement a "data extraction mitigation fee," paid by companies like Google and Meta, that would go toward funding a tax credit meant to pay for more journalists.
+Both bills have faced intense resistance from the tech industry.
+AB 886 was introduced in 2023, but then was held as a two-year bill due to tech industry pushback. It was reintroduced this summer.
+In response to the bill, Google has begun experimenting with removing California news links from its search platform. Meta has warned that it may block California news on its Facebook and Instagram platforms, much as it has done in Canada.
+AB 886 already made it through the suspense process in the Assembly, and passed on the Assembly floor 55-6 with bipartisan support.
+Wicks told The Bee in a statement Thursday that she is "pleased to have cleared another hurdle in the legislative process, as we continue critical conversations with all stakeholders."
+"I'm hopeful that we'll soon reach an agreement to strengthen our newsrooms and better support journalism in California," Wicks said.
+The bill is sponsored by the California News Publishers Association, of which McClatchy and its California newspapers — The Sacramento Bee, The Fresno Bee, The San Luis Obispo Tribune and The Merced Sun-Star — are members.
+The CNPA promptly released a statement after the committee vote, praising the decision to pass the bill. However, the statement did not mention the decision to send the bill to the Senate Rules Committee.
+Reached for comment, CNPA spokesman Nick Mirman, told The Bee in an email that it is critical that AB 886 pass this year, "given the rapid decline in local news."
+"We are thankful for the Senate Appropriations Committee's support, and remain very optimistic that the full Legislature will be seeing (AB 886) before the end of session," Mirman wrote.
+Brittney Barsotti, who serves as general counsel for the CNPA, told The Bee that the bill's move to the Senate Rules Committee will buy it more time for the ongoing negotiations.
+Asked whether she was concerned about time running out for the legislative session, she said, "It's certainly going to be a sprint to the finish here."
+As for SB 1327, that bill sits in the Assembly Revenue and Taxation Committee, having passed out of the Senate, 27-7. It is unclear whether that committee will meet again before the Legislature adjourns at the end of August.
+Neither Meta nor Google responded to The Bee's request for comment by deadline.
+The Bee's Nicole Nixon and Stephen Hobbs contributed to this story.

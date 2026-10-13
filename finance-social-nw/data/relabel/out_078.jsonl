@@ -1,0 +1,20 @@
+{"id": "1560", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "By MICHAEL LIEDTKE and ELAINE", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1561", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1562", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta Platforms Inc. (NASDAQ:META) has", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "1563", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Gemini for Home will replace", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1564", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Gemini for Home will replace", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1565", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Gemini for Home will replace", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1566", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Motorsport fans have been given", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1567", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Mumbai, Aug 23 : Composer", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1568", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The 66th issue of Uncanny", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1569", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "In the high-stakes world of", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1570", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Economics Asia Faces Inflation Pressures", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1571", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Now Closed! Brand New Restaurant", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1572", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ChatGPT pulled teen into a", "relation": "co-hype", "sentiment_alignment": -0.7}
+{"id": "1573", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1574", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1575", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1576", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1577", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1578", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Advertisement By ANNE ASHWORTH, BUSINESS", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "1579", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Funniest Baby Names Illinois", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

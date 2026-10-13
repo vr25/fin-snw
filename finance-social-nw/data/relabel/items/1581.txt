@@ -1,0 +1,48 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Good morning. Can you imagine a world in which Instagram, X, or TikTok labeled all AI-generated content on their platforms?
+If you’re in China, you need not imagine it. Major Chinese social platforms, e.g. Tencent’s WeChat and ByteDance’s Douyin, began to do so this week to comply with a new law requiring explicit and implicit disclosure. (U.S. lawmakers previously explored the idea without committing.)
+Seems great, right? Me, I’m not so sure it does the trick. There’s no downside to disclosing that an image or video was run through AI, of course. And I’m unequivocally supportive of debunking any fake media out there.
+But AI is a tool. It doesn’t inherently guarantee that its creation is deceptive or fake—you could use AI to clarify a blurry photo, remove wind from audio, and correct the swimmy moiré effect that happens when someone wears tight stripes on tape. (Ask me how I know.)
+My worry is that AI use becomes ubiquitous enough that the label becomes meaningless—like saying a house was built with a pneumatic brad nailer versus a hammer. For some, the distinction is paramount. For the rest of us? Well, it’s just a house.
+Today’s tech news below. —Andrew Nusca
+Want to send thoughts or suggestions to Fortune Tech? Drop a line here.
+Tech stocks head south as investors sour on AI growth
+The Nasdaq 100 closed down 1.22% on Friday and while U.S. markets were closed yesterday for the Labor Day holiday, futures contracts for the index were not.
+They were trading flat Monday, implying that investors are not expecting much from tech stocks once the opening bell rings in New York this morning.
+The Nasdaq 100 closed down for the month of August (-0.16%) even though the broader S&P 500 was up 3.56%.
+Tech stocks were dogged all month by discussion about whether AI was in a bubble. And a study by MIT suggested that 95% of companies have yet to see a return on their investment in AI.
+As Jim Reid and his team of analysts at Deutsche Bank wrote Monday: “Nvidia (-3.32% on Friday) was a major driver of this softness, losing ground after Marvell Technology’s outlook raised doubts over demand for data-centre equipment and as China’s Alibaba unveiled a new AI Chip.”
+Marvell shares fell 19% the day after it published its fiscal Q2 earnings report.
+Then there is Super Micro, another chipmaker buoyed by the AI boom.
+In early August, it reduced its revenue outlook for the year to $33 billion. Back in February, it had projected $40 billion.
+On top of that, on August 28th, the company said in its annual report that it had “identified material weaknesses” in its internal controls for financial reporting. Its stock fell 5.5% after that and was down 27% for the month.
+Shakiness in AI stocks could have consequences for the broader market. The “Magnificent 7” tech companies, which have all placed large bets on AI, are currently worth 34% of the entire market cap of the S&P 500. —Jim Edwards
+Alibaba gains $50 billion in value
+Shares of Alibaba jumped almost 20% after the company posted a triple-digit percentage gain in AI-related product revenue.
+The Chinese retailer also shared a better-than-expected increase in cloud computing sales—26%—which is linked to all things AI.
+That’s good news for investors, who were concerned about the Chinese retail price war that Alibaba had been engaged in with Meituan and JD.com. That race to the bottom slashed profits for each company and led to a multibillion-dollar selloff of their shares last week.
+Alibaba shares haven’t seen a jump this big, this fast in almost three years. It added $50 billion to the company’s market capitalization and helped boost shares of Chinese tech peers Baidu and Tencent.
+Alibaba, which runs platforms including AliExpress and Lazada, is considered one of the leaders of China’s AI front.
+An open question is whether it will allow its margins to shrink further at a time when it’s committing massive amounts of spend to AI development, including the development of its own large-language models, or LLMs.
+In February, CEO Eddie Wu said the company’s number-one objective is artificial general intelligence, or AGI.
+Will any of it pay off? So far, so good. —AN
+What to expect at Apple’s upcoming event
+Apple’s September 9 event, announced earlier this week and scheduled for 1 p.m. Eastern, arrives at a critical moment for one of the world’s most valuable companies.
+So what to expect? The centerpiece will reportedly be the ultra-thin iPhone 17 “Air,” which would be the first time an iPhone is bestowed with the moniker that was so popular with Apple’s MacBook line two decades ago. It’s expected to replace the underperforming iPhone Plus.
+Meanwhile the standard iPhone 17 is rumored to have a better 24-megapixel front-facing camera that doubles the resolution of current models.
+The iPhone 17 Pro will reportedly showcase a new pill-shaped camera bump that’s larger than previous designs and include a 48-megapixel telephoto lens with up to 8x optical zoom.
+Elsewhere, the Apple Watch Series 11 will apparently emphasize health-monitoring improvements, potentially introducing blood-pressure trend tracking capabilities—though not full systolic and diastolic readings.
+The Apple Watch Ultra 3 will reportedly be the first Apple Watch with standalone satellite connectivity, according to Bloomberg.
+Meanwhile Apple’s third-generation AirPods Pro will reportedly introduce heart-rate monitoring capabilities, using LED optical sensors that can track your heart rate through blood flow in the ear canal.
+Finally: The event is expected to establish groundwork for Apple’s long-term vision, with 2026 expected to bring the company’s first foldable iPhone and 2027 potentially introducing an all-glass design for the iPhone’s 20th anniversary.
+Oh, and one more thing: Apple’s Vision Pro roadmap includes a small power refresh by the end of 2025, followed by a lighter “Vision Air” model in 2027 that may be up to 40% lighter than the current version. —Dave Smith
+More tech
+—OpenAI in India. The company is reportedly looking for local partners to set up a Stargate data center.
+—TSMC now controls 70% of the global chip fabrication market.
+—Tencent translation triumph? The company says its newly open-sourced AI models beat Google Translate.
+—Revolut now valued at $75 billion, making it one of the world’s most valuable fintech firms.
+—Tesla seeks to overturn verdict. Did mentioning Elon Musk mislead a jury to award $243 million for the death of a distracted driver using Autopilot?
+—Cloudflare CEO Matthew Prince: “If you make it easy enough for AI companies to pay for content they’re going to get in line and have conversations.”
+—Trouble in Turkmenistan. Are officials degrading citizens’ Internet access to sell them VPNs?

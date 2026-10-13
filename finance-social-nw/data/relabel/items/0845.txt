@@ -1,0 +1,21 @@
+TICKER_A: AMD
+TICKER_B: SMCI
+POST:
+NEW YORK, May 1 — The tech-heavy Nasdaq and the benchmark S&P 500 slipped on Wednesday as chip stocks led losses on downbeat results and markets weighed fresh economic data ahead of the Federal Reserve’s interest rate decision.
+The ADP National Employment report showed US private payrolls increased more than expected in April, while a separate reading showed US manufacturing contracted in April. A measure of prices paid by factories for inputs approached a two-year high.
+The US central bank is widely expected to hold rates at the end of its two-day meeting, after a spate of recent disappointing inflation readings crushed bets of rapid rate cuts this year.
+Money markets are pricing in just about 30 basis points (bps) of rate cuts in 2024, down from around 150 bps seen at the start of the year, according to LSEG data.
+“The Fed from a more credibility perspective has to acknowledge that the last few months have not been helpful in terms of data,” said Russell Hackmann, president of Hackmann Wealth Partners.
+“While they’re probably not going to explicitly talk about the possibility of rate hikes, they have to really signal that the possibility of rate cuts is on hold until we start getting some more friendly inflation data.”
+On the company earnings front,
+Advanced Micro Devices shed 6.3 per cent after its forecast for AI chip sales failed to impress investors, while Super Micro Computer lost 15.4 per cent as the artificial intelligence server maker reported third-quarter revenue below estimates.
+The weak results pressured other chip stocks as well, with the Philadelphia Semiconductor Index losing 2.4 per cent.
+Helping the blue-chip Dow advance, Amazon.com outperformed other growth stocks to rise 3 per cent on better-than-expected quarterly results as interest in artificial intelligence helped drive cloud-computing growth.
+Johnson & Johnson added 3.5 per cent after saying it is moving forward with a $6.48 billion proposed settlement of tens of thousands of lawsuits alleging that its baby powder and other talc products contain asbestos and cause ovarian cancer.
+At 10:06 a.m. the Dow Jones Industrial Average rose 63.31 points, or 0.17 per cent, to 37,879.23, the S&P 500 lost 12.49 points, or 0.25 per cent, to 5,023.20 and the Nasdaq Composite lost 28.63 points, or 0.18 per cent, to 15,629.20.
+After a rough April, May will further test the performance of equity markets as the first-quarter earnings season continues and the interest rate outlook becomes clearer.
+Six of the 11 S&P 500 sectors were trading lower, with information technology amongst the worst hit with a near 1 per cent fall.
+Among other movers, Starbucks dropped 15.1 per cent as the coffee giant cut its annual sales forecast and reported a fall in same-store sales for the first time in nearly three years.
+CVS Health shed 18.5 per cent after the healthcare giant slashed its annual profit forecast and missed Wall Street estimates for first-quarter earnings.
+Advancing issues outnumbered decliners by a 1.27-to-1 ratio on the NYSE and by a 1.42-to-1 ratio on the Nasdaq.
+The S&P 500 posted five new 52-week highs and ten new lows while the Nasdaq recorded 19 new highs and 59 new lows. — Reuters

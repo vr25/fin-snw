@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+MOUNTAIN VIEW, California: Reuters reported that Alphabet's Google plans to invest hundreds of millions of dollars in Character.AI, the fast-growing artificial intelligence (AI) chatbot startup.
+Two former Google employees Noam Shazeer and Daniel De Freitas founded Character.AI.
+The investment, structured as convertible notes, will strengthen the current partnership between Google and Character.AI, which uses the tech giant's cloud services and Tensor Processing Units (TPUs) to train models.
+Character.AI allows people to chat with virtual versions of celebrities or anime characters and create their own chatbots and AI assistants. While it is free, users must pay a US$9.99 per month subscription if they wish to skip the virtual line to access a chatbot.
+Data from Similarweb showed that the startup's chatbots are intended to appeal to users aged 18 to 24, who contributed about 60 percent of its website traffic.
+Its website had attracted 100 million monthly visits in the first six months since its launch, Character.AI said, adding that it could also raise equity funding from venture capital investors, which could value the company at over $5 billion.
+Along with Microsoft investments in OpenAI and Google and Amazon's bets on Anthropic, Google's potential investment in Character.AI is part of a recent trend for big tech cloud services providers to make deals with AI companies to use certain cloud or hardware in the computer-intensive race to build models and serve consumers.
+During an event in San Francisco last week, U.S. Federal Trade Commission chair Lina Khan said the agency is looking into cloud provider investments in AI startups to examine anti-competitive behaviors.

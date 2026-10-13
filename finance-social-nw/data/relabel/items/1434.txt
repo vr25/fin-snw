@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: SMCI
+POST:
+By DAMIAN J. TROISE and STAN CHOE, AP Business Writers
+NEW YORK (AP) — U.S. stocks ticked higher Wednesday after the Federal Reserve left its main interest alone, as was widely expected, but also warned about rising risks for the U.S. economy.
+The S&P 500 gained 0.4%, coming off a two-day losing streak that had snapped its nine-day winning run. The Dow Jones Industrial Average added 284 points, or 0.7%, and the Nasdaq composite rose 0.3%.
+Indexes swiveled repeatedly through the day, and the Dow briefly climbed as many as 400 points on hopes that the United States and China may be making the first moves toward a trade deal that could protect the global economy. The world’s two largest economies have been placing ever-increasing tariffs on products coming from each other in an escalating trade war, and the fear is that they could cause a recession unless they allow trade to move more freely.
+The announcement for high-level talks between U.S. and Chinese officials this weekend in Switzerland helped raise optimism, but some of that washed away after President Donald Trump said he would not reduce his 145% tariffs on Chinese goods as a condition for negotiations. China has made the de-escalation of the tariffs a requirement for trade negotiations, which the meetings are supposed to help establish.
+Such on-and-off uncertainty surrounding tariffs has helped create sharp swings within the U.S. economy, including a rush of imports in the hopes of beating tariffs. Underneath those swings, as well as surveys showing U.S. households are growing much more pessimistic about the future, the Fed said it continues to see the economy running “at a solid pace” at the moment.
+Fed Chair Jerome Powell said that gives the central bank time to wait before making any potential moves on interest rates, even if Trump has been lobbying for quicker cuts to juice the economy.
+“There’s so much that we don’t know,” Powell said. So like the rest of Wall Street and the world, the Fed is waiting to see what will actually end up happening in Trump’s trade war and whether his tariffs, which were much stiffer than expected, will hit as proposed.
+That’s particularly the case after the trade war seems to be entering “a new phase,” Powell said, where the United States is conducting more talks on trade with other countries.
+To be sure, the Fed also said it appreciates that risks to the economy are rising because of tariffs, which could both weaken the job market and push inflation higher.
+“If the large increases in tariffs that have been announced are sustained, they are likely to generate a rise in inflation, a slowdown in economic growth and an increase in unemployment,” Powell said.
+That could ultimately put the Fed in a worst-case scenario called “stagflation,” where the economy is stagnating while inflation remains high. Such a combination is hated because the Fed has no good tools to fix it. If the Fed were to try to cut interest rates to bolster the economy and job market, for example, it could raise inflation further. Raising rates would have the opposite effect.
+In the meantime, big U.S. companies continue to produce fatter profits for the start of 2025 than analysts expected.
+The Walt Disney Co. jumped 10.8% after easily beating analysts’ profit targets, raising its profit forecast and adding more than a million streaming subscribers.
+Companies, though, are also continuing to warn about how uncertainty in the economy is making it more difficult for them to forecast their own finances.
+Chipmaker Marvell Technology slumped 8% after it postponed its investor day from June to an undetermined date because of uncertainty over the economy.
+All told, the S&P 500 rose 24.37 points to 5,631.28. The Dow Jones Industrial Average added 284.97 points to 41,113.97, and the Nasdaq composite gained 48.50 to 17,738.16.
+In the bond market, Treasury yields fell following the Fed’s announcement. The yield on the 10-year Treasury eased to 4.27% from 4.30% late Tuesday.
+Markets in Europe mostly lost ground, while markets in Asia rose. Indexes rose 0.1% in Hong Kong and 0.8% in Shanghai after Beijing rolled out interest rate cuts and other moves to help support the Chinese economy and markets as higher tariffs ordered by Trump hit the country’s exports.
+AP business writers Elaine Kurtenbach and Matt Ott contributed to this report.

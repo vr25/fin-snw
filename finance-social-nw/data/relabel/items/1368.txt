@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Aam Aadmi Party (AAP)'s Rajya Sabha member Raghav Chadha on Tuesday emphasised the need to expand the 'Make in India' initiative and bring Artificial Intelligence (AI) in its ambit for solidifying country's growth potential in next few decades.
+Speaking in the House, AAP lawmaker described AI as a crucial subject for the "India of tomorrow," stressing that while global superpowers have taken significant strides in AI development, India is yet to establish itself as a major player.
+"In this AI revolution, America has its indigenous models like ChatGPT, Gemini, Anthropic, and Grok. China has developed some of the most capable and cost-effective AI models, like DeepSeek. But where does India stand in this AI era? Are we lagging behind? Will India not be able to create its own generative AI model?" he questioned.
+Chadha pointed out that between 2010 and 2022, the US accounted for 60 per cent of AI patents worldwide, while China held 20 per cent. In contrast, India -- despite being the world's fifth-largest economy --registered only 0.5 per cent of global AI patents.
+He acknowledged that the US and China had gained a four-to-five-year lead in AI development due to heavy investments in research, academia, and AI infrastructure.
+"A very large population of India is part of the AI workforce. It is said that Indians constitute 15 per cent of the total AI workforce, where 4.5 lakh Indians are working as AI professionals in foreign countries," he said.
+"India ranks third in the highest penetration of AI scale, which means that India has talent, hardworking people, brain power, digital economy and more than 90 crore internet users, but still, somewhere today India has become a consumer of AI and is unable to become a producer of AI," he added.
+Chadha also cited OpenAI founder Sam Altman's remarks on India's AI potential, where he allegedly dismissed India's prospects as "completely hopeless."
+"Today, the time has come that we should answer them and India should become an AI producer in this era of AI and not an AI consumer," he said.
+Laying out a roadmap for India to become an AI leader, Chadha suggested several key measures, including developing indigenous AI chips, launching domestic chip manufacturing, creating a dedicated AI infrastructure fund, offering AI research grants, and providing AI tax breaks.
+He also stressed the need to curb talent migration by ensuring top-tier Indian AI professionals have opportunities to work in India instead of seeking opportunities abroad.
+He further urged the government to grant indigenous AI startups access to extensive data resources -- currently dominated by global tech giants like Microsoft and Google -- so that Indian companies can develop competitive AI models.
+"Finally, we need to boost financial investment. The US spends 3.5 per cent of its GDP on AI research, China spends 2.5 per cent, while India invests only 0.7 per cent. In the future, Vishwaguru will only be the one, global dominance will belong to the one who wields the power of AI. This is why India must push forward with both 'Make in India' and 'Make AI in India,'"Chaddha added.
+(With inputs from IANS)

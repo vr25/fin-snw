@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+MELBOURNE, Australia: The Australian government said Dec 12 it will tax large digital platforms and search engines unless they agree to share revenue with Australian news media organisations.
+The tax would apply from Jan 1 to tech companies that earn more than A$250mil (US$160mil) a year in revenue from Australia, Assistant Treasurer Stephen Jones and Communications Minister Michelle Rowland said.
+They include Meta, Google, Alphabet and ByteDance.
+The tax would be offset through money paid to Australian media organisations. The size of the tax is not clear.
+"The real objective ... is not to raise revenue – we hope not to raise any revenue. The real objective is to incentivize agreement-making between platforms and news media businesses in Australia,” Jones told reporters.
+The move comes after Meta, which owns Facebook, Instagram and WhatsApp, announced that it would not renew three-year deals to pay Australian news publishers for their content.
+A previous government introduced in 2021 laws called the New Media Bargaining Code that forced tech giants to strike revenue-sharing deals with Australian media companies or face fines of 10% of their Australian revenue .
+Meta did not immediately respond to a request for comment on Thursday. – AP

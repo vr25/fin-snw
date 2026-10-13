@@ -1,0 +1,20 @@
+{"id": "0720", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "NEW YORK: After becoming the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0721", "ticker_a": "MSFT", "ticker_b": "SMCI", "first_words": "NEW YORK: After becoming the", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0722", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "NEW YORK: After becoming the", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0723", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Risk-averse UK pensions miss £400bn", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0724", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Risk-averse UK pensions miss £400bn", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0725", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Risk-averse UK pensions miss £400bn", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0726", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Palo Alto Networks Launches Private", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0727", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft inks deal with France's", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0728", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Southern Living Names Louisiana Town", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0729", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Loading... 한국어 日本語 Login", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0730", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Kenya has reiterated plans to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0731", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Kenya has reiterated plans to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0732", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Kenya has reiterated plans to", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0733", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft is facing another major", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0734", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "It's 9:15 on a cold", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0735", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Aylo, the operator of several", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0736", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Facebook's parent company Meta will", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "0737", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Bill Gates, Mark Zuckerberg and", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0738", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0739", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "By James Budden The last", "relation": "co-hype", "sentiment_alignment": 0.5}

@@ -1,0 +1,45 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Power pledge: Will Trump's deal with AI companies help tame your electric bill?
+(TNND) — President Donald Trump has gotten seven big artificial intelligence developers to pledge they’ll cover the cost of increased electricity production needed for their data centers.
+Whether the voluntary agreement, which the White House calls the Ratepayer Protection Pledge, will effectively keep power bills from spiking for everyday Americans is yet to be seen.
+But Mark Muro, a senior fellow at Brookings Metro who researches the digital economy, said the pledge does clearly send a signal that the administration and the big technology companies are taking community backlash to data centers seriously.
+“The issue is not just going to dissipate in the next year,” Muro said. “This is a substantial long-term, fundamental structural challenge for the industry, for people and places, and state and local government.”
+Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI signed the pledge, which Trump unveiled Wednesday.
+The White House said the tech titans are agreeing to build, bring or buy new generation resources and cover the cost of all power delivery infrastructure upgrades required for their data centers.
+The companies agreed to negotiate separate rate structures with utilities and to coordinate with grid operators to make backup power generation resources available.
+And the pledge included a commitment from the companies to support local workforces where they build and operate data centers.
+Trump gathered with the company executives at a White House roundtable, where he said the “historic signing” would “help keep down utility bills very, very substantially” for the American people.
+The data center market is booming, driven not only by AI but also by demands for cloud computing, e-commerce and more.
+CBRE, the world’s largest commercial real estate services and investment firm, recently said the data center market set records across nearly every major indicator last year.
+Across the eight primary data center markets, users absorbed 2,497.6 megawatts in 2025, up 38% from 2024.
+And the vacancy rate fell to a historic low of 1.4%, even with a 36% increase in total capacity.
+That showed the speed at which users were moving into newly built space, according to CBRE.
+Muro pointed to data from Aterio that shows there are already over 1,900 data centers operating in the U.S., with nearly 700 more under construction and nearly 3,000 more announced.
+“These developments are coming fast and furious,” Muro said.
+Muro has co-authored recently published research on how local communities across the country can take advantage of the data center boom to foster long-term economic benefits.
+He said there’s an “AI gold rush” underway, with so-called hyperscalers – big tech companies like Google and Amazon that are operating massive cloud infrastructure – competing with each other to rapidly scale their capacity.
+But data centers are power hungry, and that’s caused concerns among everyday utility customers who fear the increased demand is increasing their monthly bills.
+Trump said the data centers “need some PR help” when announcing the pledge.
+Bloomberg News analysis last fall found that electricity costs have increased as much as 267% over the last five years in places near significant data center activity.
+For context, the overall price of electricity has increased about 40% over the last five years in the U.S., according to the government’s consumer price index.
+The price of electricity nationwide was up 6.3% compared to a year ago in January.
+And a 2024 report from the U.S. Department of Energy found that domestic energy usage from data centers is expected to double or triple by 2028.
+Ed Hirs, an energy economist at the University of Houston, said data centers are driving up electricity bills for consumers.
+But he’s skeptical that Trump’s new agreement with the tech companies will work as advertised.
+“Keep in mind that these players who have signed this pledge are not the entire universe of the data centers that are coming online,” Hirs said.
+SEE ALSO: Local communities can take advantage of data center boom to win long-term gains: report
+Both Muro and Hirs said the pledge isn’t enforceable.
+And both noted limitations in federal authority to influence the prices of electricity, which is generated from a grid that’s actually a patchwork of thousands of locally and regionally operated utilities.
+“It's not clear that this in itself will suddenly tame rate increases where they are driven by data center build-out,” Muro said.
+Muro said much will depend on how states and public utility commissions respond.
+And he noted that some of the tech companies had already taken steps to address the public’s concerns over data center impacts.
+Microsoft, for example, released a multipoint plan for “community first” AI development in which the company said it would pay its way to ensure data centers don’t increase power bills for other customers.
+Hirs said the data center developers should build their own power-generation facilities “inside the fence, behind the meter” so that they’re not connecting to the public power grid and exposing other customers to the risks associated with their sizable demands.
+Hirs said data centers that simply connect to the grid as a backup source of power can still prove problematic for local consumers.
+“Let's say there's, for the sake of argument, a lightning strike at the data center,” Hirs said. “And their powering plant goes offline. Well, now they start drawing on the local grid as a backup, which did not have an extra gigawatt to begin with.”
+Residents should demand that data centers built in their areas have a neutral impact, Hirs said.
+“My advice to the consumers is to be on top of the local situation when these data centers are built,” he said. “Make sure that the economics are well presented to the local regulatory authority.”
+Muro said power is a key hurdle for data center construction but not the only headwind.
+He mentioned that water, which is used to cool the facilities, is also an important issue, along with zoning and permitting, job creation, and the need for a transparent and trustworthy development process.

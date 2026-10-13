@@ -1,0 +1,427 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Outer Front Cover
+- Contents
+- Publisher's Letter: Printer ink costs more than gold!
+- Subscriptions
+- Feature: Undersea Communications by Dr David Maddison
+- Project: Capacitor Discharger by Andrew Levido
+- Feature: Precision Electronics, Part 2 by Andrew Levido
+- Project: Compact HiFi Headphone Amp by Nicholas Vinen
+- Project: Automatic night light by Tim Blythman
+- Project: WiFi weather logger by Tim Blythman
+- Review: Raspberry Pi Pico 2 by Tim Blythman
+- Project: The Pico Computer by Tim Blythman
+- Project: Variable Speed Drive Mk2, Part 2 by Andrew Levido
+- PartShop
+- Serviceman's Log: All washed up by Dave Thompson
+- Vintage Radio: Dallas Arbiter Fuzz Face guitar pedal by Brandon Speedie
+- Vintage Radio: MicroBee 256TC Computer by Don Peterson
+- Market Centre
+- Advertising Index
+- Outer Back Cover
+This is only a preview of the December 2024 issue of Silicon Chip.
+You can view 40 of the 112 pages in the full issue, including the advertisments.
+For full access, purchase the issue for $10.00 or subscribe for access to the latest issues.
+Items relevant to "Capacitor Discharger":
+      
+    - Capacitor Discharger PCB [9047-01] (AUD $5.00)
+- AOT10N60 High-voltage Mosfet for the 230VAC Fan Speed Controllers (Component, AUD $5.00)
+- Capacitor Discharger short-form kit (Component, AUD $30.00)
+- Capacitor Discharger PCB pattern (PDF download) [9047-01] (Free)
+- Capacitor Discharger drilling diagrams (Panel Artwork, Free)
+Articles in this series:
+      
+    - Precision Electronics, Part 1 (November 2024)
+- Precision Electronics, Part 2 (December 2024)
+- Precision Electronics, Part 3 (January 2025)
+- Precision Electronics, Part 4 (February 2025)
+- Precision Electronics, Part 5 (March 2025)
+- Precision Electronics, Part 6 (April 2025)
+- Precision Electronics, Part 7: ADCs (May 2025)
+- Precision Electronics, Part 8: Voltage References (June 2025)
+- Precision Electronics, Part 9 - System Design (July 2025)
+Items relevant to "Compact HiFi Headphone Amp":
+      
+    
+    - Compact HiFi Headphone Amplifier PCB [01103241] (AUD $7.50)
+- Dual Horizontal PCB-mounting RCA sockets (white/red) [RCA-210] (Component, AUD $2.50)
+- Compact HiFi Headphone Amplifier kit (Component, AUD $70.00)
+- Compact HiFi Headphone Amplifier PCB pattern (PDF download) [01103241] (Free)
+- Compact HiFi Headphone Amplifier panel drilling diagram (Panel Artwork, Free)
+- Compact HiFi Headphone Amp (December 2024)
+- Compact HiFi Headphone Amp (January 2025)
+Items relevant to "WiFi weather logger":
+      
+    Items relevant to "The Pico Computer":
+      
+    - Pico Computer PCB [07112234] (AUD $5.00)
+- PWM Audio PCB [07112238] (AUD $2.50)
+- DS3231MZ real-time clock IC (SOIC-8) (Component, AUD $7.50)
+- DS3231 real-time clock IC (SOIC-16) (Component, AUD $7.00)
+- Pico Computer kit (Component, AUD $40.00)
+- PWM Audio Module kit (Component, AUD $10.00)
+- Pico Computer kit with Pico (Component, AUD $50.00)
+- Digital Video Terminal kit (Component, AUD $65.00)
+- Pico Computer front panel (07112235) (PCB, AUD $2.50)
+- Pico Computer demonstration software (Free)
+- Pico Computer & PWM Audio Module PCB patterns (PDF download) [07112234, 07112238] (Free)
+- Pico Computer panel cutting diagrams (Panel Artwork, Free)
+Items relevant to "Variable Speed Drive Mk2, Part 2":
+      
+  - Mk2 VSD PCB [11111241 or 9048-02] (AUD $15.00)
+- STM32G030K6T6 programmed for the VSD Mk2 [1111124A] (Programmed Microcontroller, AUD $10.00)
+- Firmware for the VSD Mk2 (Software, Free)
+- VSD Mk2 PCB pattern (PDF download) [11111241] (Free)
+- Mk2 VSD drilling & cutting diagrams (Panel Artwork, Free)
+- Variable Speed Drive Mk2, Part 1 (November 2024)
+- Variable Speed Drive Mk2, Part 2 (December 2024)
+Purchase a printed copy of this issue for $13.00.
+DECEMBER 2024
+ISSN 1030-2662
+12
+9 771030 266001
+$
+00* NZ $1390
+The VERY BEST DIY Projects!
+13
+INC GST
+INC GST
+Compact HiFi
+headphone
+Amplifier
+🎵
+🎵
+🎵
+THE PICO COMPUTER
+using a Raspberry Pi Pico
+1W into 16Ω
+3.5mm & 6.5mm headphone jack
+Class-AB operating mode
+9-12V AC plugpack
+Undersea Communications
+The vast underwater fibre-optic cable network.
+Capacitor Discharger
+A great piece of gear for safely discharging
+small & large capacitors.
+Raspberry Pi Pico 2
+We review the newest Raspberry Pi Pico 2
+which is priced at around $8 each.
+...and even more inside this issue
+Win a DHO-924S Oscilloscope
+see page 9 for details and enter before December 13th for a chance to win!
+www.jaycar.com.au
+Contents
+Vol.37, No.12
+December 2024
+14 Undersea Communications
+Undersea cables carry nearly all international internet traffic, making them
+one of the most important parts of the internet. As we explain, there is a lot
+more to them than you may realise!
+By Dr David Maddison, VK3DSM
+Communications technology
+38 Precision Electronics, Part 2
+This series covers the basics of precision electronics design. Building on
+from last month, we aim to improve the precision of our example circuit. In
+doing so, we investigate many features of precision op amps.
+By Andrew Levido
+Electronic design
+62 Raspberry Pi Pico 2
+The new Raspberry Pi Pico 2 is priced around $8 and uses an RP2350
+micro. Compared to the previous iteration, it boasts double the RAM, faster
+clock speeds and other features like a hardware random number generator.
+Review by Tim Blythman
+Microcontroller board
+98 MicroBee 256TC Restoration
+The MicroBee 256TC is a computer kit from 1987 and the last of the
+original MicroBee computers. This article details the work needed to
+restore one of these old devices.
+By Don Peterson
+Vintage computers
+UNDERSEA COMMUNICATIONS
+DATA TRANSMISSION & POWER CABLES
+Feature, Page 14
+Project,
+Page 33
+Capacitor
+Discharger
+Discharg
+er
+Precision Electronics
+Part 2 – Page 38
+2
+Editorial Viewpoint
+5
+Mailbag
+13
+Subscriptions
+26
+Circuit Notebook
+52
+Mini Projects
+86
+Online Shop
+88
+Serviceman’s Log
+94
+Vintage Electronics
+109
+Ask Silicon Chip
+78 Variable Speed Drive Mk2, Part 2
+111
+Market Centre
+Our Variable Speed Drive can drive single-phase shaded pole or permanent
+split capacitor induction motors, as well as three-phase 230V induction
+motors, up to 1.5kW. We cover the construction, testing and how to use it.
+By Andrew Levido
+Motor speed control project
+112
+Advertising Index
+112
+Notes & Errata
+33 Capacitor Discharger
+Safely discharge capacitors, both large and small, including capacitors
+used to store rectified mains (up to ~400V DC). It is especially helpful when
+servicing switch-mode power supplies and valve gear.
+By Andrew Levido
+Safety equipment project
+44 Compact HiFi Headphone Amp
+Our new Headphone Amplifier is easy to build, fairly priced and most
+importantly, sounds great! It’s powered via a 9-12V AC plugpack and delivers
+up to 0.9W into 8Ω, 1W into 16Ω and 140mW into 600Ω.
+Part 1 by Nicholas Vinen
+Audio project
+66 The Pico Computer
+Turn a Raspberry Pi Pico into a standalone computer with a USB keyboard
+and HDMI monitor. All the Pico’s I/O pins are broken out on a separate
+header, making it easy to use for controlling other circuitry.
+By Tim Blythman
+Computer project
+1. Regulated negative supply with a 555
+2. Four-cell voltage monitor
+3. Over-temperature alarm
+4. HT supply generator
+1. Automatic night light
+2. WiFi weather logger
+Dallas Arbiter Fuzz Face guitar pedal
+by Brandon Speedie
+SILICON
+SILIC
+CHIP
+www.siliconchip.com.au
+Publisher/Editor
+Nicholas Vinen
+Technical Editor
+John Clarke – B.E.(Elec.)
+Technical Staff
+Bao Smith – B.Sc.
+Tim Blythman – B.E., B.Sc.
+Advertising Enquiries
+(02) 9939 3295
+adverts<at>siliconchip.com.au
+Regular Contributors
+Allan Linton-Smith
+Dave Thompson
+David Maddison – B.App.Sc. (Hons 1),
+PhD, Grad.Dip.Entr.Innov.
+Geoff Graham
+Associate Professor Graham Parslow
+Dr Hugo Holden – B.H.B, MB.ChB.,
+FRANZCO
+Ian Batty – M.Ed.
+Phil Prosser – B.Sc., B.E.(Elec.)
+Cartoonist
+Louis Decrevel
+loueee.com
+Founding Editor (retired)
+Leo Simpson – B.Bus., FAICD
+Silicon Chip is published 12 times
+a year by Silicon Chip Publications
+Pty Ltd. ACN 626 922 870. ABN 20
+880 526 923. All material is copyright ©. No part of this publication
+may be reproduced without the written
+consent of the publisher.
+Subscription rates (Australia only)
+6 issues (6 months): $70
+12 issues (1 year):
+$130
+24 issues (2 years):
+$245
+Online subscription (Worldwide)
+6 issues (6 months): $52.50
+12 issues (1 year):
+$100
+24 issues (2 years):
+$190
+For overseas rates, see our website or
+email silicon<at>siliconchip.com.au
+* recommended & maximum price only
+Editorial office: Unit 1 (up ramp), 234
+Harbord Rd, Brookvale, NSW 2100.
+Postal address: PO Box 194,
+Matraville, NSW 2036.
+Phone: (02) 9939 3295.
+ISSN: 1030-2662
+Printing and Distribution:
+24-26 Lilian Fowler Pl, Marrickville 2204
+2
+Silicon Chip
+Editorial Viewpoint
+Printer ink costs more than gold!
+Many printer companies have been milking their
+customers for years. Did you realise that many printers,
+especially ink jets, are sold below their cost? The goal
+is to lock you into buying their overpriced ink, making
+you spend more (a lot more) in the long run. I bet if
+this was made clear to prospective buyers, they would
+be a lot less interested in those ‘cheap’ printers.
+If you open up a $30+ printer cartridge for an entrylevel printer, you might find a few millilitres of ink, if that. If you calculate
+the cost per weight, it’s more than gold!
+This has given rise to a large third-party ink industry. Third-party cartridges
+can be a fraction of the cost of the ‘official’ ones and, in my experience, work
+just as well – at least for day-to-day tasks like printing letters, invoices, bills,
+contracts etc. But the printer companies do everything they can to make it
+impossible for you to use those cartridges.
+For years now, they have been incorporating encryption chips in their
+cartridges to prevent third parties from making compatible devices. It hasn’t
+really worked, but they certainly have tried.
+This is one of the reasons that if you have a printer, and it works, you
+should never ‘upgrade’ its firmware. Most firmware ‘upgrades’ for printers
+are actually just attempts to block your use of third-party ink, and it should
+be your choice which ink you use in the printer you paid for.
+I have ignored the “please upgrade the firmware” messages on our printers
+for years now and have thankfully had no problem using third-party ink.
+Until recently, for our home printer, I was paying $8 for a full set of four
+CMYK cartridges, including delivery! The price has now gone up to about
+$12, but it’s still a great deal compared to – I kid you not – $150 for the
+printer brand equivalent. What a ripoff! Who would even consider paying
+that much? You’d have to be desperate!
+That’s for a set of cartridges that would last you maybe a couple of months
+of modest usage.
+If you do a lot of printing and want to use an ink jet, you’re better off buying
+one of the ink tank printers. They cost more up-front, of course, but the ink
+lasts a really long time (years), there’s no ink ‘DRM’ and even the genuine
+ink is not that expensive. So they are a good option, although I hear that they
+are not without their problems.
+Apparently, Brother laser printers are a good choice, especially if you
+don’t need colour.
+Thermal label printers aren’t much better, except the ‘DRM’ isn’t on the
+ink (because there is none), it’s on the paper. Older label printers are actually
+worth a lot of money on the second-hand market (and are hard to find!)
+because you can use any paper you want, and again, the third-party paper
+is a fraction the cost of the paper you get from the original brand.
+I sincerely hope our label printers don’t pack it in because I would refuse
+to pay the extortionate prices that those companies charge for their labels.
+Sure, the quality of the originals is a little better than the third-party ones,
+but when you’re using them as shipping labels, who cares?
+We pay $60 for 8 rolls of 220 labels for our printer, which works out to
+3.4¢ per label – that seems reasonable. The original brand labels have an RRP
+of $60 for a single roll of 220, or over 27¢ per label. Again, who would pay
+that? That’s a higher cost per unit than the packaging we put the stickers on!
+I might pay double the price for genuine labels, but eight times as much?
+Forget it!
+We have two interesting Vintage articles this month. Next issue, we’ll be
+back to the usual Vintage Radio.
+by Nicholas Vinen
+Australia's electronics magazine
+siliconchip.com.au
+The key to unrestricted access
+Explore millions of components for your next design
+Although a trek to this active volcanic island is strictly prohibited,
+you have unlimited access to millions of electronic components,
+from well over a thousand leading brands engineers know and
+trust. Discover the hottest components for design.
+03 9253 9999 | australia<at>mouser.com
+MAILBAG
+your feedback
+Letters and emails should contain complete name, address and daytime phone number. Letters to the Editor are submitted on the condition that
+Silicon Chip Publications Pty Ltd has the right to edit, reproduce in electronic form, and communicate these letters. This also applies to submissions to “Ask Silicon Chip”, “Circuit Notebook” and “Serviceman’s Log”.
+Mains wiring colours should be standardised worldwide
+I was reading the comments in Mailbag about old German wiring using red for Neutral and Earth and connecting them together at the outlet. It’s a good job that they
+discontinued that idea. Very strange that they would use
+red for something benign when red is more of a colour to
+show danger, like Australian wiring using red for Active.
+Then you have wiring in the US where they use white
+for Neutral and black for Active and only use red for the
+second Active. I have come across some imported equipment with white wire for Neutral and black for Active. This
+is more common than you’d think.
+It’s unfortunate that there isn’t an international standard
+for wiring colours, so that, no matter where you go, the wiring would all be done in the same colours.
+Bruce Pierson, Dundathu, Qld.
+Comment: we agree that Active should be a bright colour
+to warn you! Even the brown for Active scheme originating
+from Europe in IEC 60446 that we now use is a bit of an odd
+choice, but at least it’s unusual to see low-voltage wiring in
+brown. We can’t say the same for black. A worldwide standard would be a good idea. Maybe it will happen around
+the time the USA switches to metric!
+Simulating fluid dynamics with SPICE
+I was interested in your remarks in the November 2024
+editorial about analogies between fluidic and electrical
+systems.
+In some past design work I did in building phaco
+machines for cataract extraction, I created some original
+research to explain the fluidic systems in these machines.
+I had to model the properties of the plastic (elastic tubing), the elastic nature of the eye (analogous to capacitance)
+and flow resistances related to both laminar and turbulent
+flow in the small apertures of the system. I also had to consider the effect of fluidic inertia, analogous to inductance.
+ourPCB
+LOCAL SERVICE <at> OVERSEAS PRICES
+AUSTRALIA
+PCB Manufacturing
+Full Turnkey Assembly
+Wiring Harnesses
+Solder Paste Stencils
+small or large volume orders
+premium-grade wiring
+low cost PCB assembly
+laser-cut and electropolished
+Instant Online Buying of Prototype PCBs
+www.ourpcb.com.au
+siliconchip.com.au
+Australia's electronics magazine
+0417 264 974
+December 2024  5
+In cataract surgery, the fluid fed to the eye is from a bottle gravity feed via a 1/8-inch (3.175mm) internal diameter
+plastic irrigation tubing and a needle or annulus around
+the phaco needle, to enter the eye’s anterior chamber.
+The fluid, along with fragments of the natural lens, are
+extracted from the eye via the phaco needle’s mouth and
+1/16-inch (~1.6mm) internal diameter tubing to the machine’s
+vacuum pump.
+The pumps are either peristaltic or venturi types. The
+probe’s phaco needle oscillates at around 20– 40kHz (using
+piezo crystals) to fragment the lens. Otherwise, the flow
+would be blocked by lens fragments that are too big to be
+aspirated into the phaco needle’s mouth.
+The problem is that during the operation, the flow stops
+and starts at times due to occlusion and then the occlusion
+breaking, with lens fragments at the phaco needle’s mouth.
+That leads to instability of the volume of the eye and the
+anterior chamber area where the surgeon is working.
+That can result in significant tissue damage in some
+cases, with the phaco needle lacerating the lens capsule
+or iris. The instability relates to the elastic nature of the
+structures, the inertia of the fluid and the limitation of the
+irrigation pathway (flow resistances).
+The thing was, there was no hydraulic modelling software in existence to show the pressure conditions in
+the eye’s anterior chamber during flow occlusions or
+flow-starting events in cataract surgery. So I decided to
+model the entire scenario as its electronic equivalent circuit.
+I was able to convert all the physical parameters like
+the flow resistances of the needles & tubing, the compliance of the plastic tubing and the eye, the properties of
+the machine’s pump etc to electrical equivalents. I could
+then simulate the entire thing in a SPICE engine (Anasoft
+in the UK gave me permission to use it for the application).
+As far as I know, it had never been done before for this
+system, and it led to important insights to help set the
+machine’s parameters and irrigation bottle height for safer
+surgery and a more stable anterior chamber.
+One interesting finding was that fluid-filled elastic tubing behaves exactly as a coaxial transmission line does
+with applied transients, with a characteristic velocity and
+reflection effects when an impedance bump is encountered. This is because the elastic wall tubing has compliance (capacitance) and fluid inertia (inductance) distributed along its length.
+Similar phenomena have been noted in hydraulics and
+are referred to as the ‘water hammer’ effect.
+I wouldn’t expect that Silicon Chip readers would want
+to read the whole thing, but they might be interested in
+some parts of 

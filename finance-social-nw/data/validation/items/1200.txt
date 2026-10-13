@@ -1,0 +1,14 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+(Reuters): Shares of Dell and HP fell on Wednesday after the personal computer makers issued forecasts that cast doubt on a market recovery driven by artificial intelligence-enabled PCs.
+Dell fell 13% in trading before the bell, with the company set to shed nearly $13 billion from its $99.50 billion market value, after it forecast quarterly revenue below estimates.
+HP dropped 9% and its market capitalisation was set to shrink by more than $3 billion, from $37.68 billion on Tuesday, following a quarterly profit projection that was short of the market view.
+Traditional PC demand has weakened after a post-pandemic boom, while AI-powered computers have yet to see mass adoption despite some interest from corporate and education sectors.
+“We have long warned that we did not expect artificial intelligence personal computers to lead to any structural change in demand for PCs, and we think this is perhaps what the market was disappointed with,” Morningstar analyst Eric Compton said.
+A computer upgrade cycle spurred by Microsoft’s end of support for Windows 10 and the transition to Windows 11 was expected also to drive new PC sales. However, adoption of the latest operating system has been slower than anticipated.
+“Since the Windows 11 refresh has ramped slower than previous industry transitions, we expect to see the impact of the upgrade to be more pronounced in 2025,” HP CEO Enrique Lores said.
+For Dell, the AI server business continued to be a bright spot with revenue in the servers and networking unit jumping 58% thanks to demand for its servers from cloud companies racing to capitalize on AI.
+The boom in the server market has helped Dell shares climb 85% this year, outperforming a 30% rise in HP Inc and HP Enterprise.
+However, some analysts warned that a slow rollout of Nvidia’s next-generation AI chip may hurt Dell’s sales.
+HP shares trade 10.84 times analysts’ profit estimates, compared with 15.51 for Dell and 30.94 for Microsoft.

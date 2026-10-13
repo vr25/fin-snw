@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The Justice Department wants Google to put its Chrome browser on the auction block.
+Justice lawyers late Wednesday night asked the federal judge overseeing a historic antitrust case against Google to order the tech giant to sell off its popular Chrome browser, something that could dramatically shake up the world of online search.
+The agency is also asking that Google stop making third-party payments to phone-makers like Apple that ensure its default search position.
+Google's artificial intelligence technology is also targeted by the Justice Department's proposals. In its filing, the government asks the judge to allow websites to opt out of having data trained by its data-guzzling AI models.
+And finally, Justice attorneys are asking that Google either divest from its Android phones business or have the court supervise its Android division to police any possible instances of Google using Android to kneecap competitors.
+"The playing field is not level because of Google's conduct, and Google's quality reflects the ill-gotten gains of an advantage illegally acquired," the Justice Department wrote in a proposed final judgment.
+Around 90% of searches are done with Google, and Chrome is by far the most popular web browser.
+The tech company's highly profitable advertising business is powered by data it harvests from user activity on Chrome and Google search.
+Pushing Google to sell Chrome, according to Justice Department officials, will split the company's browser from its search engine and create more competition in the online search market.
+In a statement on Wednesday, Google called the Justice Department's proposals "staggering," saying that, if implemented, they would weaken security and privacy for users and stifle Google's innovation.
+"DOJ's approach would result in unprecedented government overreach that would harm American consumers, developers, and small businesses — and jeopardize America's global economic and technological leadership at precisely the moment it's needed most," Google said in a statement.
+The Justice Department's new filing on Wednesday follows a ruling in August that Google has preserved the dominance of its crown jewel search engine by acting as an illegal monopoly. It did this, according to the judge's ruling, by unfairly boxing out search engine rivals to enrich itself. Google achieved this by hammering out expensive deals with browsers and phone-makers to ensure it had a default spot as the go-to search browser, putting other search engines at a disadvantage.
+The decision was heralded as a landmark win for the Justice Department, which has been escalating its pressure on tech companies in recent years.
+Whether the incoming Trump administration's Department of Justice will continue down the same path remains unclear. Criticism of the power of Big Tech has united Democrats and Republicans. The Justice Department lawsuit that led to these proposed Google changes was first filed when Donald Trump was president in 2020.
+If the court approves the Justice Department's request, it would mark the first time a corporation was forced to break up since 1982, when AT&T had to spin off its local telephone subsidiaries to allow for greater industry competition.
+In 2001, the Justice Department unsuccessfully attempted to break up Microsoft.
+Now, federal judge in the District of Columbia Amit Mehta must weigh whether ordering Google to offload Chrome is the best way to inject more competition into the online search market.
+In his August opinion, Mehta wrote that Google paying billions of dollars to smartphone makers like Apple to become the default search engine on phones fortified its sway over online search.
+"Google's dominance has gone unchallenged for well over a decade," wrote Mehta, noting that "Google also has a major, largely unseen advantage over its rivals: default distribution."
+Mehta has scheduled a two-week hearing in April in Washington focused on what changes Google must make to remedy its position as an illegal monopoly. A decision is expected sometime in 2025. 
+ 
+Copyright 2024 NPR

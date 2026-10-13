@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Local communities can take advantage of data center boom to win long-term gains: report
+(TNND) — A new Brookings report looks at how local communities across the country can take advantage of the data center boom to foster long-term economic benefits.
+The artificial intelligence arms race has given states, counties and cities leverage to get better deals in exchange for the land and huge amounts of electricity and water needed for the massive data centers.
+The U.S. already has about 5,000 data centers with nearly 3,000 new ones reportedly under construction or planned.
+Data center demand capacity could grow around 20% to 25% per year in the U.S. through 2030, according to McKinsey & Company analysis.
+But researchers with Brookings say data center developers might gloss over the long-term benefits of their mega-projects, as the employment impact falls off a cliff once the center is up and running.
+The researchers pointed to studies that have found a data center project that might generate 10,000 high-quality construction jobs, for example, might only sustain a few hundred ongoing jobs to operate the center.
+Mark Muro, a senior fellow at Brookings Metro who researches AI and the digital economy, said tech firms, including so-called hyperscalers like Google, are demanding more and bigger data centers.
+And that’s put some communities in the driver’s seat for deals that can make a real, lasting impact on their economies.
+“It's not just a fear of missing out for small and medium-sized communities,” Muro said. “The firms themselves are urgent about cutting these deals as fast as they can.”
+Report co-author Daniel Goetzel, a technology strategy consultant and a former program lead for the National Science Foundation's Regional Innovation Engines, said old-school data centers looked a lot more like warehouses, out of sight and out of mind.
+“But now these projects are so massive ... it's almost impossible to ignore them in your backyard, in your community,” Goetzel said.
+Both men said communities should be intentional about what is built alongside the data centers.
+Communities shouldn’t sign off on the construction of a data center as an isolated real estate transaction, they said.
+Rather, communities should look at the deal as an “ecosystem-shaping” moment that can anchor additional local investments.
+And they said communities should take that approach from the start of negotiations, as opposed to asking for some sweeteners tacked on at the end.
+If done right, the deals can be win-win partnerships for both the company and community, they said.
+For example, Microsoft’s launch of a major AI data center in Mount Pleasant, Wisconsin, is coming along with an influx of investments in the state’s broader tech ecosystem.
+The tech giant has partnered with the University of Wisconsin-Madison to accelerate scientific discovery via AI and has opened an innovation lab at the University of Wisconsin-Milwaukee that’s helped local businesses practically adopt AI development ideas.
+“They have a real workforce program that's trying to create pathways into the trades for careers here,” Goetzel said.
+He noted that New Jersey is offering tax incentives that must be reinvested into the local “innovation economy.”
+“OpenAI has called for some interesting models,” he said. “They say they're going to build AI academies in all the communities where they build data centers to help people with the workforce skills, the AI adoption.”
+And Goetzel said communities should look at how they can take advantage of the energy that gets turned on for a data center so that it benefits a campus of co-located entities, not just a sole mega-user.
+Muro and Goetzel said tech companies and data center developers will often be willing to play ball with local demands if it greases the wheels for approval. Communities that can make good on a promise to expedite permitting should have an upper hand, they said.
+And the right deals can help both sides, feeding local growth and feeding an investing company’s ongoing need for innovation and more.

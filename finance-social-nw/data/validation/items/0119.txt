@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft is holding a 'future of work' AI event on March 16th
+You may see OpenAI technology powering Microsoft's business services.
+We may receive a commission on purchases made from links.
+Now that Microsoft has outlined how AI will reshape Bing search, it's ready to detail how the technology will influence your workplace. The company is holding a "Future of Work with AI" event on March 16th at 11AM Eastern. While Microsoft isn't saying much about what the news will entail, CEO Satya Nadella and Microsoft 365 lead Jared Spataro are hosting the presentation. As it stands, rumors may give an idea of what to expect.
+A February leak from The Verge suggested Microsoft may introduce AI-equipped versions of Microsoft 365 apps like Outlook and Word. While the exact functionality isn't known, The Information claims Outlook could use AI to improve search results and suggest email replies. Word, meanwhile, may make writing suggestions.
+The company is launching some enterprise-oriented AI features today. Dynamics 365 and Viva Sales now have an AI "Copilot" that helps reply to customer chats and emails, summarize Teams meetings and explore marketing data. These rely on an existing Azure OpenAI service where the rumored Microsoft 365 features may draw on the Prometheus AI model used in Bing.
+The expansion won't come as a surprise. Microsoft has been integrating AI into services like Teams for a while, and has been investing in OpenAI for years. It recently committed to a years-long funding deal for that's reportedly worth $10 billion, and will see Microsoft host OpenAI cloud services. The company is in a race to establish itself as an AI leader, and the event will likely support that strategy.
+There's plenty of competitive pressure. Other companies are building OpenAI's ChatGPT directly into their products. Google, meanwhile, has unveiled Bard as its ChatGPT equivalent amid reported concerns AI could pose a threat to its core search business. An expanded use of AI could theoretically help Microsoft fend off rivals and take an early lead in use of the fledgling technology.

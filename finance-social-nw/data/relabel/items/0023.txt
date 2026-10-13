@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+A new update to the 1Password password manager adds support for a type of web login that doesn’t involve passwords at all: the “sign in with” buttons from the likes of Apple, Facebook, and Google.
+These authentication options, sometimes also called social logins or single-sign-on (SSO), liberate users from having to create and remember yet another password and can represent a security upgrade over a site’s own login system. Google, for instance, has quite a bit more practice at account security than this month’s hot new startup.
+But using a “sign in with” login for a service on a new device requires signing into the underlying Apple/Facebook/Google/etc. account and jumping through whatever two-step verification that entails. And if you used a password manager (as you should), you couldn’t save these logins.
+The update Toronto-based 1Password announced Thursday fixes that, allowing subscribers to its service ($35.88 a year for individuals, $59.88 for families) to save these third-party credentials.
+An advance copy of the company's press release cited Google, Apple, Facebook, Twitter, Microsoft, Okta, and GitHub as supported sign-in-with options. It also named Chrome, Firefox, Edge, and Brave as supported browsers.
+What about Apple’s Safari? In that browser—and in other iOS and iPadOS browsers that must be built on Apple's WebKit framework, per Apple's rules—the 1Password extension can paste but not copy, providing these login credentials but not saving them.
+1Password earlier shipped this feature in beta form in June, with support then limited to Apple, Facebook, and Google sign-ins.
+Thursday’s announcement comes as password-manager services have had to compete with increasingly capable and free options from Apple and Google. But while Google Password Manager can store your Apple ID username and password and Apple’s iCloud Keychain can do the same with your Google credentials, neither company’s service offers assistance beyond that in using the other firm’s sign-in-with option.
+For many users, meanwhile, the problem remains that they’re neither using a password manager nor using a sign-in-with service and instead are reusing passwords or choosing short and easily guessable passwords. As 1Password CEO Jeff Shiner told PCMag in November, “We're competing with bad habits.”
+About Our Expert
+Rob Pegoraro writes about interesting problems and possibilities in computers, gadgets, apps, services, telecom, and other things that beep or blink. He’s covered such developments as the evolution of the cell phone from 1G to 5G, the fall and rise of Apple, Google’s growth from obscure Yahoo rival to verb status, and the transformation of social media from CompuServe forums to Facebook’s billions of users. Pegoraro has met most of the founders of the internet and once received a single-word email reply from Steve Jobs.

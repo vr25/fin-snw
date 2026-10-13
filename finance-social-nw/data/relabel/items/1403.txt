@@ -1,0 +1,4 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+How Sam Altman was fired and rehired at OpenAI, in only five days In 2023 the boss of the company behind ChatGPT was sensationally ousted. Here is the inside story of how a staff revolt helped engineer a remarkable comeback Previous Article Next Article

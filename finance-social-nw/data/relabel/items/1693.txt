@@ -1,0 +1,26 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Canada's main stock index opened flat on Monday with sliding precious metals prices offsetting potential gains from improving U.S.-China trade relations.
+The TSX doffed 10.61 points at the outset Monday to 30,342.46. 
+The Canadian dollar retreated 0.04 cents to 71.45 cents U.S.
+Top Chinese and U.S. economic officials sketched out on Sunday a trade deal framework for U.S. President Donald Trump and his Chinese counterpart Xi Jinping to decide on later this week in their much-awaited meeting in South Korea.
+The prospective deal would pause steeper American tariffs and Chinese rare earths export restrictions, offering some relief to investors who have been navigating tense trade relations between the world's two top economies.
+On Friday, the Toronto Stock Exchange's composite index rose as investors shrugged off new trade frictions between the U.S. and Canada.
+Trump on Thursday ended trade talks with Ottawa over the tariff-related ad, which Trump said was misleading. On Saturday, he said he was increasing tariffs on Canada by an additional 10% "above what they're paying now".
+On matters economic, Statistics Canada reported its housing price index decreased 0.2% in September, compared to a loss of 0.3% in the month before.
+ON BAYSTREET 
+The TSX Venture Exchange subtracted 5.28 points to 958.44
+Seven of the 12 subgroups were positive as first thing Monday, with information technology ahead 1.6%, energy advancing 0.8%, and financials up 0.3%. 
+The five laggards were weighed most by gold, down 3.6%, materials, off 2.1%, and health-care, sliding 0.4%. 
+ON WALLSTREET 
+Stocks jumped to new records on Monday after U.S. and China officials cooled tensions over the weekend, laying the groundwork for President Donald Trump and China President Xi Jinping to clinch a trade deal this week.
+The Dow Jones Industrials vaulted 306.44 points to 47,513.56. 
+The S&P 500 index jumped 65.71 points to 6,857.40
+The NASDAQ popped 358.90 points to 23,563.77, supported by a rise in chip stocks like Nvidia
+The framework potentially includes a delay of China’s rare earths restrictions that caused the latest trade flare-up, a spiking of Trump’s threatened 100% tariffs on China that were to start Nov. 1 and a resumption of Chinese purchases of soybeans. The agreement may include a resolution of the TikTok dispute with the U.S. getting a deal for the U.S. version of the social video app.
+Chipmakers, the sector with the most to lose from tensions with China, led the rally Monday. Nvidia rose 2%, while others such as Broadcom gained more than 1%. Tesla and Apple also added around 2% and 1%, respectively, with the latter nearing $4 trillion in market cap.
+While investors were encouraged by improving China-U.S. relations, a setback with Canada kept their enthusiasm in check. Trump on Saturday put an additional 10% tariff on Canada imports for not pulling a TV ad featuring former President Ronald Reagan knocking tariffs fast enough.
+Prices for the 10-year Treasury slid, raising yields to 4.03% from Friday’s 4%. Treasury prices and yields move in opposite directions.
+Oil prices gained 36 cents to $61.86 U.S. a barrel. 
+Gold prices deleted $104.20 to $4,033.60. U.S. an ounce.

@@ -1,0 +1,36 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Federal Trade Commission chair Lina Khan
+this week warned of potential dangers posed by the growing adoption of artificial intelligence -- including that it could "turbocharge" fraud and facilitate discrimination against individuals, as well
+as unfair competitive behavior.
+Khan said timely regulation is needed, arguing in a New York
+Times op-ed that lack of adequate tech policies and enforcement in the past resulted in a concentration of power among a few companies and business models that came "at extraordinary cost
+to our privacy and security."
+Artificial intelligence “may not be ready to replace professional writers, but it can already do a vastly better job of crafting a seemingly authentic
+message than your average con artist,” she wrote, adding that fraudsters are already using the technology to create phishing emails.
+advertisement
+advertisement
+Khan also noted that artificial intelligence tools
+are trained on data that may itself contain biases, which could result in tools that unfairly discriminate.
+Her commentary comes as interest in artificial intelligence is mounting, as are
+calls for its regulation.
+In March, the business organization Chamber of Commerce called for “appropriate and reasonable protections” to prevent artificial intelligence from
+harming privacy, or promoting bias.
+Others have called for a tougher approach. Last month, for instance, the advocacy group Center for AI and Digital Policy urged the FTC to halt further
+commercial releases of Open AI's large language model software GPT-4, calling it “biased, deceptive, and a risk to privacy and public safety.”
+On Thursday, Vice President Kamala
+Harris and other White House officials met with executives from Google, Microsoft, Open AI and other companies currently developing artificial intelligence -- apparently in hopes of urging them to
+proceed with caution.
+“We aim to have a frank discussion of the risks we each see in current and near-term A.I. development, actions to mitigate those risks and other ways we can work
+together to ensure the American people benefit from advances in A.I. while being protected from its harms,” Arati Prabhakar, the director of the White House office of science and technology
+policy, told the companies in the invitation, according to The New York Times.
+Khan didn't
+just address artificial intelligence in her op-ed. She also restated concerns that 20-year-old companies like Google and Facebook threaten privacy.
+“The last time we found ourselves
+facing such widespread social change wrought by technology was the onset of the Web 2.0 era in the mid-2000s,” she wrote.
+Companies like Facebook and Google
+“revolutionized communications,” she added, but their services “came at a steep cost” to privacy and security."
+“What we initially conceived of as free services
+were monetized through extensive surveillance of the people and businesses that used them," Khan wrote. "The result has been an online economy where access to increasingly essential services
+is conditioned on the widespread hoarding and sale of our personal data."

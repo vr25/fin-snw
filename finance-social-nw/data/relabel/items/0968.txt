@@ -1,0 +1,13 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Nvidia supplier TSMC reports higher revenues than expected
+Published: 10:57 10 Jul 2024 EDT
+Shares in the world's largest chip foundry, Taiwan Semiconductor Manufacturing Co (NYSE:TSM), climbed 2.5% in New York after reporting stronger than expected sales, driven by the artificial intelligence (AI) trend.
+TSMC, which makes chips for Nvidia and others. announced that net revenue for June 2024 was approximately NT$207.87 billion (US$6.4bn), down 9.5% from May but up 32.9% from a year ago.
+Revenue, from sales to customers that include Apple, NVIDIA, AMD, Qualcomm, Broadcom and Huawei, for the first six months of the year totalled NT$1.27 trillion, an increase of 28% on a year ago.
+This meant revenue in the seconq quarter came in at T$673.51 billion ($20.67 billion), according to Reuters calculations, which was higher than the average analyst forecast of T$654.27 billion, per LSEG.
+TSMC works with Nvidia, the world's most valuable chip company, in several ways, including being the sole maker of Nvidia's AI graphics processing units (GPUs), which are key chips used by companies to train and deploy AI models.
+Most of Nvidia's high-end chip production is done by TSMC at its factories in Taiwan, but Nvidia CEO Jensen Huang has said that the company plans to manufacture some chips at TSMC's Arizona factories once they are operational.
+In March 2024, TSMC and Nvidia announced that they were working together to integrate Nvidia's computational lithography platform into TSMC's manufacturing processes, software, and systems.
+The stated goal is to "accelerate manufacturing and push the limits of physics for the next generation of advanced semiconductor chips".

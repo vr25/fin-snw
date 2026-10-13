@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+By JANIE HAR
+SAN FRANCISCO (AP) — Police in Northern California were understandably perplexed when they pulled over a Waymo taxi after it made an illegal U-turn, only to find no driver behind the wheel and therefore, no one to ticket.
+The San Bruno Police Department wrote in now viral weekend social media posts that officers were conducting a DUI operation early Saturday morning when a self-driving Waymo made the illegal turn in front of them.
+Officers stopped the vehicle, but declined to write a ticket as their “citation books don’t have a box for ‘robot’.”
+“That’s right … no driver, no hands, no clue,” read the post, which was accompanied by photos of an officer peering into the car.
+Officers contacted Waymo to report what they called a “glitch,” and in the post, they said they hope reprogramming will deter more illegal moves.
+The department’s Facebook post has generated more than 500 comments, with many people outraged that police didn’t ticket the company. People also wanted to know how police got the car to pull over.
+But San Bruno Sgt. Scott Smithmatungol said they can only ticket a human driver or operator for a moving violation, unlike parking tickets that can be left with the vehicle.
+A new state law that kicks in next year will allow police to report moving violations to the Department of Motor Vehicles, which is figuring out the specifics, including potential penalties, the Los Angeles Times reports.
+Waymo spokesperson Julia Ilina told the LA Times that the company’s autonomous driving system is closely monitored by regulators. “We are looking into this situation and are committed to improving road safety through our ongoing learnings and experience,” Ilina said.
+Waymos currently operate in Phoenix, Los Angeles and San Francisco and in areas south of the city, including the suburb of San Bruno.
+“It blew up a lot bigger than we thought,” Smithmatungol said of the viral post to The Associated Press on Tuesday. “We’re not a large agency like San Francisco.”
+San Bruno has about 40,000 residents and a sworn police force of 50 officers, he said.
+Waymo is owned by Google’s parent company, Alphabet.

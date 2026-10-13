@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+US utility Vistra is looking to secure data center customers hungry for power.
+In its Q3 earnings call, the Texan energy firm revealed that it is seeking agreements with data center developers in Texas and the PJM region to meet the industry’s growing energy demand.
+Vistra indicated that it had entered into discussions with several high-profile data center operators to increase the output of its nuclear power projects.
+Vistra operates four nuclear power plants, including the 2.4GW Comanche Peak nuclear power plant in Texas, which has an operating license until 2053.
+“We're in early discussions with some of the hyperscalers about nuclear uprates and some new build as well,” said Stacey Doré, chief strategy & sustainability officer.
+Vistra doubled down on its nuclear ambitions after acquiring the remaining 15 percent stake in its Vistra Vision subsidiary in September. According to the company, the acquisition increased its nuclear ownership by 970MW and its solar and energy storage ownership by 200MW.
+Nuclear has become a hot topic in the data center sector. Hyperscalers, Microsoft, AWS, and Google have all entered into supply agreements to acquire nuclear power for their operations in the US.
+Several energy firms have expressed interest in restarting nuclear plants to meet this need. Last month, NextEra Energy reported that they were considering restarting the Duane Arnold nuclear plant in Iowa thanks to strong interest from data centers.
+In the earnings call, Vistra also reported that it is in discussions with two large data center operators about building new gas plants and is exploring partnerships for colocation opportunities at several of its existing gas-fired plants in both PJM and the Electric Reliability Council of Texas (ERCOT).
+Natural gas is projected to become a key power source for data center companies, especially for their AI operations. According to a report by S&P, skyrocketing US data center growth could lead to natural gas demand reaching up to three billion cubic feet per day (bcf/d), with demand from data centers alone climbing as high as six bcf/d by 2030.
+According to Vistra president and CEO Jim Burke, the growth in load projections across PJM and ERCOT is driven by “the build-out of large chip manufacturing facilities, partially due to the CHIPS Act, the electrification of oil and gas load in the Permian Basin of West Texas, the reshoring of industrial activity and, of course, the build-out of data centers."
+Vistra has increased its focus in the data center market over recent months.
+In October, it was announced as one of the founding members of DCFlex, a new initiative to explore how data centers can support the electric grid, enable better asset utilization, and support the clean energy transition.

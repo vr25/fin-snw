@@ -1,0 +1,13 @@
+{
+  "headline": "Post-ChatGPT AI narratives intensified 7x; causal-driver relations grew 8x",
+  "key_metrics": {
+    "early_narrative_volume": 259,
+    "late_narrative_volume": 1934,
+    "volume_growth": "6.5x",
+    "early_causal": 24,
+    "late_causal": 200,
+    "causal_growth": "7.3x",
+    "winner_price_correlation": "0.414",
+    "control_price_correlation": "0.269"
+  }
+}

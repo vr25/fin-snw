@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Nvidia is now worth more than Alphabet and Amazon. These 4 charts show the chipmaker's surge to a $1.8 trillion valuation.
+-       Nvidia passed Google owner Alphabet to become America's third most valuable company on Wednesday.
+-       AI has powered the chipmaker to massive stock-market gains since the start of 2023.
+-       These four charts capture its stunning surge.
+Nvidia is now worth more than its Big Tech rivals Alphabet and Amazon — as well as the entirety of China's stock market.
+The chipmaker's market capitalization passed Amazon's on Tuesday and Alphabet's on Wednesday to stand at $1.83 trillion at Wednesday's closing bell.
+Nvidia has AI to thank for its stock surging more than 400% since the start of 2023.
+It holds a dominant share of the market for the graphics processing units (GPUs) that power large language models like ChatGPT, so stock pickers have long heralded it as a potential winner from the massive explosion of interest in the tech.
+Cofounder and CEO Jensen Huang, who founded Nvidia at a Silicon Valley Denny's back in 1993, has also reaped the benefits, with his own personal fortune ballooning from $14 billion to $65 billion since the start of 2023, per the Bloomberg Billionaires Index.
+These four charts capture the semiconductor company's meteoric AI-powered rise, which has made it the US's third most valuable public company.
+Nvidia's dominance is perhaps best captured by the extent to which its outperformed other Big Tech stocks — which have enjoyed an AI uplift of their own — since the start of last year.
+The chipmaker has risen by 404% over that period, or in excess of four times the gains for rivals Microsoft, Apple, Alphabet, and Amazon.
+The only mega-cap tech stock that's come close to matching its share-price gains for the period is Facebook parent Meta Platforms, which has rallied 279% partly due to Mark Zuckerberg's "Year of Efficiency" cost cuts.
+Those stock-price gains have helped Nvidia to overtake the value of two mega-cap powerhouses, Alphabet and Amazon.
+Tuesday marked the first time since 2002 that Nvidia has been worth more than Jeff Bezos' e-commerce giant, per data from Dow Jones.
+The chipmaker is now America's third most-valuable company, behind only Microsoft and Apple — although it's about $1 trillion away from overtaking either.
+At the end of 2023, some analysts were positioning Nvidia and Tesla as offering similar returns, after both racked up triple-digit gains and broke into the "Magnificent Seven" mega-cap tech group last year.
+But while Nvidia has kicked off 2024 on another tear by surging more than 50%, Tesla has tumbled with investors worrying that demand for its EVs could soon slow.

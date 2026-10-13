@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+The S&P 500 and the Dow closed lower on Monday after a roller coaster session, with investors worried about an economic slowdown and rising inflation as US President Donald Trump dug in his heels on tariffs, warning he could further increase levies on China.
+Wall Street equities have been hammered since Trump's sweeping tariffs, announced late Wednesday, on all imports into the US and much higher levies on some major trading partners.
+Trading volume on Monday broke US records for the second session in a row. In early trade, all three major US indexes touched their lowest levels in more than a year. In the morning they briefly rallied sharply on a report about tariffs, only to fall again after the report was knocked down.
+Also during the session, the CBOE Volatility Index , Wall Street's fear gauge, breached 60 points, hitting its highest level since August 2024. After paring gains it still ended the day at 46.98, its highest close in five years.
+"The underlying problem of the market is that the administration's approach to trade imbalances is to try a cure that's worse than the disease," said Rick Meckler, partner, Cherry Lane Investments, a family investment office in New Vernon, New Jersey.
+"It's clear that investors favour either a pause or a different look at how to do this. It's very telling that of the many Trump supporters in the investment and business community, it doesn't look like there's anybody stepping up and endorsing the administration's approach to tariffs."
+The Dow Jones Industrial Average fell 349.26 points, or 0.91 per cent, to 37,965.60, the S&P 500 lost 11.83 points, or 0.23 per cent, to 5,062.25 and the Nasdaq Composite gained 15.48 points, or 0.10 per cent, to 15,603.26.
+In the first two days following Trump's tariff announcements last week, the benchmark S&P 500 index had dived 10.5 per cent and lost about $US5 trillion ($A8.3 trillion) in market value for its biggest two-day loss since March 2020.
+On Friday, the blue-chip Dow confirmed it was in a correction, or more than 10 per cent below its December record close while the Nasdaq confirmed it was in a bear market, defined as a decline of 20 per cent or more below its record close.
+In Monday morning trading, the S&P 500 had fallen 20 per cent below its record closing high. The index briefly rallied more than 3.0 per cent, after a news report said Trump was considering a 90-day pause on tariffs. White House officials quickly denied the report, sending the market back into the red.
+Meckler said the market's wild swings on Monday left investors "a little bit concerned that if facts start to change, you could see a very rapid rise to this market."
+"It's leading to this back-and-forth movement of rallies that are effectively being sold and drops in the market where people are covering shorts or trying to find a place to buy."
+Real estate lost 2.4 per cent, the biggest per centage decliner among the S&P's 11 major industry indexes on Monday. Communications services, was the biggest gainer, finishing up 1.0 per cent. Technology, adding 0.3 per cent, was the only other sector to advance.
+In individual stocks, the S&P's biggest drags were Apple Inc, down 3.7 per cent, and Tesla Inc, which fell 2.6 per cent. Its biggest boosts came from Nvidia, up more than 3.0 per cent, and Amazon.com, which added 2.5 per cent.
+Several speeches by Federal Reserve officials and a series of economic indicators, including consumer price data, are expected this week, with investors keenly watching out for any signs of a recession.
+Declining issues outnumbered advancers by a 4.45-to-1 ratio on the NYSE where there were 42 new highs and 2036 new lows.
+On the Nasdaq, 1,447 stocks rose and 3,070 fell as declining issues outnumbered advancers by a 2.12-to-1 ratio.
+The S&P 500 posted no new 52-week highs and 168 new lows while the Nasdaq Composite recorded 10 new highs and 999 new lows.
+On US exchanges, 29.13 billion shares changed hands, far exceeding the 17.13 billion average for the last 20 sessions.
+Friday's volume, of around 26.79 billion shares, beat the previous high of 24.48 billion shares traded on January 27, 2021.
+Australian Associated Press

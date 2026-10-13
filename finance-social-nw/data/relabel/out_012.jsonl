@@ -1,0 +1,20 @@
+{"id": "0240", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "TikTok hasn't exactly got", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0241", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Montana has made an", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0242", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "(Bloomberg) -- ByteDance Ltd.'s", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0243", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Shutterstock has said it", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "0244", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Shutterstock has said it", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "0245", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Elon Musk warned", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0246", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Oktoberfest at the Evans", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0247", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oktoberfest at the Evans", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0248", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Oktoberfest at the Evans", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0249", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Flip phones are great", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0250", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Data center demand", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "0251", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "- Data center demand", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0252", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "- Data center demand", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0253", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft joined a sprawling", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "0254", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "LONDON(Reuters) -     Experienced", "relation": "co-hype", "sentiment_alignment": 0.4}
+{"id": "0255", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google announced several experimental", "relation": "substitute-comparison", "sentiment_alignment": 0.2}
+{"id": "0256", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Our mission has always", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0257", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Chinedu Adonu Dr.", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0258", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Louisville dining scene", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0259", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "New All You Can", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

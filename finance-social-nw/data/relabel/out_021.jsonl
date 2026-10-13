@@ -1,0 +1,20 @@
+{"id": "0420", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google heads to court to", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "0421", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Big tech companies like Google", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0422", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "iCrowd Newswire 14 Sep 2023", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0423", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "iCrowd Newswire 14 Sep 2023", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0424", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "iCrowd Newswire 14 Sep 2023", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0425", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "US stocks ended sharply lower", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0426", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "US stocks ended sharply lower", "relation": "unrelated-mention", "sentiment_alignment": 0.8}
+{"id": "0427", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "US stocks ended sharply lower", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0428", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "US stocks ended sharply lower", "relation": "unrelated-mention", "sentiment_alignment": 0.8}
+{"id": "0429", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "US stocks ended sharply lower", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0430", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US stocks ended sharply lower", "relation": "unrelated-mention", "sentiment_alignment": 0.8}
+{"id": "0431", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft sees booming enterprise AI", "relation": "causal-driver", "sentiment_alignment": -0.6}
+{"id": "0432", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "For more than 127 years, the", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0433", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "For more than 127 years, the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0434", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "For more than 127 years, the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0435", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Prime Minister Srettha Thavisin has been", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0436", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Alphabet Inc.'s Google can't invoke", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0437", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Hands-On With Microsoft Surface Laptop", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0438", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "YouTube has unveiled a suite", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0439", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "CBC North is now on TikTok", "relation": "unrelated-mention", "sentiment_alignment": -0.1}

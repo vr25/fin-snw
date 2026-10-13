@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Home
+Join Premium
+Contributors
+Channels
+All
+Partners
+The Market Ear
+SpotGamma
+Store
+Donate
+More
+RSS
+About
+Advertise
+Debates

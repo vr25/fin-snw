@@ -1,0 +1,19 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Are U.S. stocks too focused on Big Tech, particularly the Magnificent Seven? Yes, but that is a good thing, per an investment outlook by asset manager Robeco.
+In the view of Robeco, a firm based in the Netherlands, “it could very well be that the U.S. equity bubble keeps buzzing for up to five years even if if the U.S. economy enters a soft patch in 2025.”
+Why? Even if other stocks falter amid an economic slowdown, the odds are that Big Tech will keep powering on, Robeco reasoned. Thus, “investors would be willing to pay a high premium for U.S. technology stocks’ ability to generate earnings.”
+The wide-ranging Robeco report, “Atlas Lifted: How the tectonic plates of the global economy are shifting,” was authored by Peter van der Welle, a strategist and member of the firm’s sustainable multi-asset team, and Laurens Swinkels, the team’s head of quant strategy. The 127-page study spanned the global investing universe, covering everything from macroeconomics to expected returns for various asset classes.
+The title is a reference to the 1957 novel “Atlas Shrugged,” which used the mythical giant Atlas shrugging as a metaphor for the need of individualistic business strivers to create prosperity on their own and to avoid government interference. (Atlas is the government in that metaphor—his shrugging means he no longer is involved in human affairs.) Robeco, however, argued that there needs to be a partnership between government and private enterprise to build better economic tomorrows. Therefore in Robeco’s telling, Atlas should be lifting the economy.
+The S&P 500’s price/earnings ratio has marked steady advances and hit 28.2 as of the beginning of September, per GuruFocus. That is up from 24.3 12 months before and from 20.6 in September 2022. But the Mag Seven (Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia and Tesla) provide almost one-third of the index’s earnings.
+As a result, S&P 500 earnings have indeed been doing well. According to FactSet Research Systems, for 2024’s second quarter ending June 30, compared with the year-prior period, the index’s earnings growth rate was 11.3%. That was the highest year-over-year rate reported by the index since 2021’s fourth quarter (31.4%).
+Nonetheless, Robeco expected the P/E expansion to ebb in the coming five years: “U.S. nominal yields averaging around 4% will probably exert downward pressure on U.S. multiples in the second half of the 2020s, capping total U.S. equity returns despite solid earnings especially from technology,” its report stated.
+Whether the U.S. stock rally can continue at the current pace for the rest of the decade amid high prices is another question. Robeco warned that, “due to over-valuation, there could be below-steady-state returns for U.S. equities over the next five years,” but note that the report still sees positive returns overall.
+The Federal Reserve is expected to lower interest rates starting with its policymaking body’s meeting next week, likely by a quarter point. If the reductions beyond that are small and not sustained, then “equity markets may continue to rise relative to sovereign bonds in the U.S., Robeco reasoned.
+The 10-year Treasury yield has fallen 1.3 percentage points since last October. Robeco contended that a stronger and continuous rate drop would signal the Fed is combating perceived economic weakness. That, however, is not the expectation now, it added. The Robeco report gave three scenarios, ranging from optimistic to pessimistic. In the best scenario, the developed nations have a 7.5% annual equity growth over the next five years.
+Related Stories:
+Stocks Way Overvalued by Any Metric, Per Study
+Small-Cap Stocks Usually Surge in Presidential Years—but Not This One So Far
+Gabelli’s Global Investing Game Plan: Go Big on US Stocks
+Tags: Big Tech, Earnings, economic slowdown, Federal Reserve, Magnificent Seven, P/E, Robeco, S&P 500, Stocks, valuations

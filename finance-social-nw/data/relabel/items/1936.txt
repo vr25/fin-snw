@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+This new cybercrime platform lets hackers run malicious Google Ads and hide from Google's screening process
+1Campaign is becoming a growing concern
+- Varonis uncovered 1Campaign, a cloaking tool for malicious Google Ads
+- Shows phishing/scam content to victims, blank pages to reviewers and scanners
+- Offers analytics, visitor profiling, fraud scoring, and brand spoofing at scale
+For three years, someone has been selling a tool that allows crooks to run malicious Google Ads which are only served to highly relevant targets.
+Security researchers Varonis dubbed the service 1Campaign, and in an in-depth report, described 1Campaign as a “cloaker”, through which malicious actors can show different content to different visitors.
+While real victims see actual phishing or scam content, security researchers, ad platform reviewers, and automated scanners, see a basic blank page. “This allows fraudulent Google Ads campaigns to pass initial review and stay active longer before being flagged,” Varonis explained.
+Launching ad campaigns
+But there is more to 1Campaign that simple cloaking. The tool offers real-time analytics, visitor profiling, fraud scoring, as well as an option to block traffic from known security vendors, data centers, and VPNs.
+“Each visitor is assigned a fraud score from 0 to 100. Visitors from Microsoft Corporation, Google, Tencent Cloud Computing, OVH Hosting, and other cloud providers are automatically flagged with high fraud scores and blocked,” the researchers explained.
+Security scanners are identified through IP ranges, ISPs, and behavioral patterns, which means the attackers can configure exactly who sees their malicious content and who gets to stare at a blank page.
+Developed by a hacker alias ‘DuppyMeister’, 1Campaign was distributing traffic throughout the United States, Canada, the Netherlands, China, Germany, France, Japan, Hungary, and Albania. The platform also comes with a Google Ads launcher tool through which the miscreants can launch both malicious and benign campaigns.
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+DuppyMeister says this allows 1Campaign to bypass policy limitations and launch ads “as anyone”. It essentially means crooks can spoof any brand.
+“This directly enables ad fraud at scale, allowing attackers to impersonate legitimate brands and services in their Google Ads campaigns while evading automated policy enforcement,” the researchers concluded.
+➡️ Read our full guide to the best antivirus
+1. Best overall:
+Bitdefender Total Security
+2. Best for families:
+Norton 360 with LifeLock
+3. Best for mobile:
+McAfee Mobile Security
+Follow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds. Make sure to click the Follow button!
+And of course you can also follow TechRadar on TikTok for news, reviews, unboxings in video form, and get regular updates from us on WhatsApp too.
+Sead is a seasoned freelance journalist based in Sarajevo, Bosnia and Herzegovina. He writes about IT (cloud, IoT, 5G, VPN) and cybersecurity (ransomware, data breaches, laws and regulations). In his career, spanning more than a decade, he’s written for numerous media outlets, including Al Jazeera Balkans. He’s also held several modules on content writing for Represent Communications.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

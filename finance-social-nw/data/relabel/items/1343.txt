@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+I think it's a great idea to start investing in ASX shares because they can help grow our wealth.
+Businesses can grow their profit, increase their value, and pay dividends to our bank accounts. It's a wonderful combination, in my view.
+However, when we first start investing, the tricky thing is that 100% of our portfolio is invested in that one business after the first trade.
+If we invest an equal amount in a second ASX share, then the portfolio has only two positions, each with a 50% weighting.
+I believe diversification has an important role to play in investing. We can get a lot of diversification through a single investment such as exchange-traded funds (ETFs). An ETF allows us to buy a basket of shares through a single trade.
+But which ASX ETF would be a good choice for that desired instant diversification? As a beginning investment, I believe the following fund would be an excellent choice.
+Vanguard MSCI Index International Shares ETF (ASX: VGS)
+The way I look at this ETF is that it represents the global share market.
+Vanguard says it offers low-cost access to a broadly diversified range of shares, allowing investors to participate in the "long-term growth potential of international economies outside Australia".
+Australia is a great country, and the ASX is a commendable stock exchange. However, the ASX share market only accounts for approximately 2% of the global share market. I think it's a good idea to gain exposure to where most of the value of the world's companies can be found.
+The VGS ETF currently owns more than 1,350 businesses, which is enormous immediate diversification without having to buy dozens of individual ASX shares ourselves.
+Many of the world's most recognisable businesses are in the VGS ETF portfolio, including Apple, NVIDIA, Microsoft, Amazon.com, Meta Platforms (Facebook and Instagram), Alphabet (Google and YouTube), Walmart, Visa, Netflix, Procter & Gamble, Salesforce, McDonald's, LVMH, Unilever, Airbus, Nike and Spotify.
+Wouldn't it be great to own a (very) small piece of these companies ourselves?
+I believe the above businesses are some of the best in the world at what they do, and I wouldn't be surprised if they continued growing profit in the years ahead and increased their underlying value.
+The cost of this fund, which is subtracted from its value rather than paid from our bank accounts, is just 0.18% per year. That's very cheap for the geographic and sector diversification provided.
+Past performance is not a guarantee of future performance, but in the ten years to 31 January 2025, it delivered an average annual return of 13.2%.
+If it grew by another 13.2% per annum over the next decade, it would turn a $1,000 investment into $3,455 after ten years.

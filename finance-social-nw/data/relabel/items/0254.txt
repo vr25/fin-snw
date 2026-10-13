@@ -1,0 +1,33 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+LONDON(Reuters) -     Experienced tech investors are hunting for undervalued opportunities in an over-valued space. 
+                  At stake is how best to invest in the potential of Artificial Intelligence (AI), which took a leap forward in November when Microsoft-backed OpenAI released its ChatGPT bot, without buying into a bubble. 
+              Shares in Nvidia, which makes computer chips that train AI systems, have almost doubled since ChatGPT's launch. The company's stock market value at roughly $940 billion is more than double that of Europe's Nestle. Nvidia surged some 25% on Thursday alone after forecasting a sales jump.
+              Shares in loss-making AI software company C3.AI, which grabbed the stock ticker, have risen 149% this year and Palantir Technologies, which has launched its own AI platform, is up 91% year-to-date. 
+              Investors are chasing exposure to generative AI, the technology run by ChatGPT that learns from analysing vast datasets to generate text, images and computer code. Businesses are trying to use generative AI to speed up video editing, recruitment and even legal work. 
+              Consultancy PwC sees AI-related productivity savings and investments generating $15.7 trillion worth of global economic output by 2030, almost equivalent to the gross domestic product of China. 
+              The question for investors is whether to jump on the AI train now, or exercise caution, especially given mounting concern amongst regulators about the technology's potentially disruptive impact.
+              "There are clearly going to be winners in all this," said Niall O'Sullivan, chief investment officer of multi-asset for EMEA, at Neuberger Berman. "It's just that that's very hard to be true for the entire market."
+STILL EARLY 
+              Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology companies that might benefit from the longer-term trend. 
+              "It's going to be as transformative as the internet, as the mobile internet, as the mainframe computer was," said Alison Porter, a tech fund manager at Janus Henderson, whose funds have positions in Nvidia, with Microsoft as their largest holding. 
+              However, Porter also cautions that "we are still very early on the use cases for AI." 
+              She favours big tech groups like Microsoft and Alphabet because they have "strong balance sheets", that make them "able to invest in many different technology advances", including their recent focus on AI.
+BEWARE, THE HYPE
+              Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner, starts with a trigger, such as the launch of ChatGPT, followed by inflated expectations and then disillusionment. Even if a technology moves to mass adoption, many early stage innovators can fail along the way. 
+              "There's a question about where we are in that curve with AI, where the hype is so visible," said Mark Hawtin, investment director at GAM Investments. "There are ways to get exposure to the (AI) theme without picking something that is highly valued." 
+PICKS, SHOVELS
+              Janus' Porter recommended backing proven companies that may be "big beneficiaries in terms of providing infrastructure," for future trends in generative AI that, as of now, are unclear. 
+              GAM's Hawtin said he has also hunted out companies that provide the "picks and shovels," necessary for enabling new AI technology.  
+              For example, AI systems require huge volumes of data to analyse and learn from, but just 1% of global data is currently being captured, stored and used, according to Bank of America.  
+              Hawtin's funds hold Seagate Technology, which makes hard drives and data storage products, and chipmaker Marvell Technology for this reason, he said. 
+              Jon Guinness, tech portfolio manager at Fidelity International, said management consultancy Accenture is in his portfolio because as businesses consider how to use AI, "I strongly think you call in the experts."     
+STICKING TO BIG TECH
+              Trevor Greetham, head of multi-asset at Royal London Investment Management, said he was "overweight" in dominant tech stocks in part because AI supported their valuations, but he cautioned against AI-themed stocks. 
+              "There will be an awful lot of losing lottery tickets," he said, recalling the dotcom crash of the early 2000s.
+              Also sticking with big tech, Fidelity's Guinness said his funds hold Amazon, partly because of its efforts to make AI less expensive for businesses. Amazon's Bedrock service, for example, lets companies customise generative AI models rather than invest in developing them themselves. 
+              "The big benefits of AI," Janus' Porter said, "are going to happen over the long term." 
+              "Investors want to invest in AI now and they expect things to happen now," she added. "But we would never blindly buy into AI and we don't do things at any price."        
+ (Reporting by Naomi Rovnick; Additional reporting by Lucy Raitano. Editing by Dhara Ranasinghe and Sharon Singleton)
+            By Naomi Rovnick

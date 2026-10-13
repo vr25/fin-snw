@@ -1,0 +1,50 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+It's been another banner start to the year for Wall Street. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite have all firmly placed the 2022 bear market in the rearview mirror and blasted to record-closing highs. While there have been pockets of strength in various sectors and industries, much of the heavy lifting for the current bull market can be attributed to the "Magnificent Seven."
+As their collective name implies, the Magnificent Seven are seven of the largest and most influential publicly traded companies. They're often industry leaders (sometimes in more than one category) and traditionally on the cutting edge of technological innovation(s). In order of descending market cap, the Magnificent Seven stocks are:
+- Microsoft (MSFT +3.66%)
+- Apple (AAPL +1.53%)
+- Nvidia (NVDA +0.22%)
+- Amazon (AMZN +0.12%)
+- Alphabet (GOOGL +0.46%)(GOOG +0.61%)
+- Meta Platforms (META -3.33%)
+- Tesla (TSLA -1.54%)
+All seven of these companies have overwhelmingly outperformed the benchmark S&P 500 over extended periods. This is a fact that's not lost on Wall Street's brightest and most successful institutional money managers.
+However, there was a discernible shift in sentiment among billionaire investors during the December-ended quarter concerning the top-performing Magnificent Seven component: Artificial intelligence (AI) leader Nvidia.
+Surprise! Billionaire money managers are selling AI stock Nvidia
+Investors who've put their money to work in artificial intelligence stocks have been handsomely rewarded -- perhaps none more so than Nvidia's shareholders.
+In a little over a year's time, Nvidia has established itself as the infrastructure foundation of the AI movement. The company's A100 and H100 graphics processing units (GPUs) account for the lion's share of GPUs currently in use in AI-accelerated data centers. In fact, many of the company's top customers are Magnificent Seven members, including Microsoft, Meta Platforms, Amazon, and Alphabet.
+Optimists fully expect Nvidia to keep its foot on the accelerator as it ramps production of its prized A100 and H100 GPUs. With supply chain issues easing -- including Taiwan Semiconductor Manufacturing boosting its chip-on-wafer-on-substrate capacity -- Nvidia should be able to meet demand from more of its customers this year.
+NASDAQ: NVDA
+Key Data Points
+However, the Nvidia growth story may not be as picture-perfect as its stock chart would suggest. Aside from well-established valuation concerns, Nvidia is set to face a flurry of operating headwinds. Perhaps that's what compelled eight billionaires to sell shares of Nvidia during the fourth quarter, including (total shares sold in parentheses):
+- Israel Englander of Millennium Management (1,689,322 shares)
+- Jeff Yass of Susquehanna International (1,170,611 shares)
+- Steven Cohen of Point72 Asset Management (1,088,821 shares)
+- David Tepper of Appaloosa Management (235,000 shares)
+- Philippe Laffont of Coatue Management (218,839 shares)
+- Chase Coleman of Tiger Global Management (142,900 shares)
+- John Overdeck and David Siegel of Two Sigma Investments (30,663 shares)
+Most investors in AI stocks/Nvidia have probably heard all about incoming competition from the likes of Intel and Advanced Micro Devices. Both companies have GPUs they've launched or plan to launch this year that are specifically designed to compete with Nvidia in enterprise data centers.
+The far bigger concern for Nvidia is that the aforementioned four Magnificent Seven members that account for 40% of its sales -- Microsoft, Meta Platforms, Amazon, and Alphabet -- are all developing AI chips of their own for use in their data centers. A significant percentage of Nvidia's sales may go away if these core customers shift to in-house AI chips. At best, Nvidia will see less in the way of purchases from these four juggernauts.
+Another kick in the pants for Nvidia is that U.S. regulators are actively restricting exports of high-powered AI GPUs to the world's No. 2 economy, China. After the first round of restrictions, Nvidia developed toned-down versions of its powerhouse AI GPUs, the A800 and H800, for the Chinese market. However, the newest round of export restrictions affects these models, too.
+There's also a strong likelihood that Nvidia will sap its own gross margin as it increases production of its top-selling GPUs. With data center sales growing many multiples faster than cost of revenue in fiscal 2024 (Nvidia's fiscal year ended on Jan. 28, 2024), it clearly shows that pricing power, not an increase in units sold, drove the company's sales higher. As GPU scarcity tapers, so will Nvidia's otherworldly pricing power.
+A multi-industry leader has been a popular buy for billionaire investors
+To be perfectly fair, Nvidia wasn't the only AI stock and member of the Magnificent Seven that billionaire investors put on the chopping block during the fourth quarter. Prominent billionaire money managers commonly sold Meta Platforms, Alphabet, and even Microsoft stock during the previous quarter.
+But there was one exception to this selling: E-commerce and cloud-services frontrunner Amazon. All told, eight high-profile billionaires piled into this multi-industry leader, including (total shares purchased in parentheses):
+- Ken Griffin of Citadel Advisors (4,321,477 shares)
+- Jim Simons of Renaissance Technologies (4,296,466 shares)
+- Chase Coleman of Tiger Global Management (947,440 shares)
+- Ken Fisher of Fisher Asset Management (888,369 shares)
+- John Overdeck and David Siegel of Two Sigma Investments (726,854 shares)
+- Steven Cohen of Point72 Asset Management (462,179 shares)
+- Israel Englander of Millennium Management (85,532 shares)
+The biggest risk for Amazon at the moment is the likelihood of a U.S. recession taking shape in the not-too-distant future. A couple of prominent money-based metrics and predictive tools suggest that the economy may weaken later this year. Since Amazon is the world's leading online marketplace and generates a sizable percentage of its sales from e-commerce, there's the logical perception that a recession would be trouble.
+NASDAQ: AMZN
+Key Data Points
+Yet what's interesting about Amazon is that very little of its operating cash flow or net income derives from online retail sales. Rather, the bulk of the company's cash flow and profits can be traced to its three fast-growing ancillary operating segments: Amazon Web Services (AWS), advertising services, and subscription services.
+A strong argument can be made that AWS is the single most important puzzle piece at Amazon. Enterprise cloud spending is still relatively early in its ramp, and AWS accounted for close to a third of global cloud infrastructure service spending during the September-ended quarter. In other words, a sustained double-digit growth rate should be the expectation for this high-margin segment.
+Don't overlook the importance of advertising services, either. Amazon is one of the most visited social sites in the world, with 2.3 billion to 2.7 billion aggregate visitors each month from July 2023 through December 2023. These are predominantly motivated shoppers, which makes Amazon a logical go-to for merchants wanting to target users with their message.
+With regard to subscription services, Amazon surpassed 200 million worldwide Prime subscribers in April 2021, according to then-CEO Jeff Bezos. The addition of Thursday Night Football as exclusive content has likely only added to this figure.
+Although Amazon may not appear cheap based on traditional fundamental metrics, such as the price-to-earnings ratio, it's valued at a historically inexpensive multiple relative to its future cash flow. Billionaire investors recognize a long-term value when they see one.

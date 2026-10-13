@@ -1,0 +1,26 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+There's no shortage of fast-growing companies benefiting from massive trends that are reshaping industries. Tapping into growth stocks at the right time and sticking with them for years to come can be one of the best ways to build wealth.
+But not all fast-growing companies end up being great long-term investments. You need to find ones that set themselves apart from their peers and have the potential to grow for years to come. Here are three companies that fit the bill.
+1. Broadcom
+Broadcom (AVGO +0.70%) is a semiconductor company that's carved out a niche in application-specific integrated circuits (ASICs). These chips help provide processing power to some of the most advanced artificial intelligence data centers, giving Broadcom a key role in AI infrastructure growth.
+That's important, because companies are going all-in on AI infrastructure spending. Goldman Sachs is estimating that generative AI spending could reach $1 trillion in the next few years. But investors don't have to wait around for Broadcom to start benefiting from its AI prospects. The company's fourth-quarter (ended Nov. 3, 2024) AI revenue soared 220% to $12.2 billion.
+NASDAQ: AVGO
+Key Data Points
+It's likely there will be more AI-driven growth in Broadcom's future. The company's management believes its AI chips and AI networking infrastructure could take a significant slice of AI spending, with CEO Hock Tan saying that Broadcom's addressable market could be between $60 billion to $90 billion in 2027 alone.
+With a forward price-to-earnings (P/E) ratio of 36, Broadcom's stock isn't exactly a bargain. But AI is only in its beginning stages, and Broadcom's ASICs are already an in-demand component for many AI infrastructure projects. Buying some shares now, as artificial intelligence spending ramps up, could prove to be a wise long-term move.
+2. AppLovin
+AppLovin (APP -0.55%) is an adtech company that leverages artificial intelligence to optimize ad targeting in apps. This unique approach is spurring growth at the company at a time when global ad spending (excluding political ads) just surpassed $1 trillion.
+AppLovin reported strong third-quarter 2024 results, with total sales increasing 39% to $1.2 billion and diluted earnings per share skyrocketing 317% to $1.25. The advertising market can be fickle, but AppLovin could see more growth amid a shift to programmatic ad platforms like the company offers. Statista estimates that 81% of digital ad revenue will come from these types of sales platforms by 2028.
+NASDAQ: APP
+Key Data Points
+If there's one drawback for AppLovin right now, it's that its shares trade at a significant premium. AppLovin's stock has a forward P/E ratio of 45, far higher than the S&P 500's 24. If you buy AppLovin's shares, it may be best to start with a small position and add more if the stock dips lower.
+3. Taiwan Semiconductor
+At this point, Taiwan Semiconductor (TSM -0.12%), often referred to as TSMC, needs no introduction. The company is the leading manufacturer of the world's most advanced processors, holding an estimated 90% of the market.
+This means that when tech companies around the globe need their AI processors manufactured, the vast majority of them turn to TSMC to get it done. That leading position is becoming even more important as AI spending increases.
+NYSE: TSM
+Key Data Points
+Chip designer Nvidia estimates that AI data center spending could double over the next five years to $2 trillion. Even if spending reaches a fraction of that, TSMC is likely to benefit from its ability to manufacture advanced processors, like its 3-nanometer (nm) chips and forthcoming 2nm processors.
+TSMC is already seeing the benefits of its manufacturing dominance, with sales jumping 39% to $23.5 billion in the third quarter of 2024 and earnings increasing 54% to $1.94 per American depositary receipt (ADR).
+With a forward P/E of just 23, Taiwan Semiconductor is the cheapest stock on this list. Its massive potential to benefit from the AI market in the coming years is undeniable, and its current lead in this advanced chip manufacturing market gives investors a unique opportunity to own shares of a runaway AI leader.

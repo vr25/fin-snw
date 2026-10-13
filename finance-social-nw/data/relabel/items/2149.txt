@@ -1,0 +1,12 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Intel is putting the pedal to the metal in the graphics card market, with its Arc Alchemist products having drawn level with AMD's Radeon GPUs, according to some newly released figures.
+This comes from analyst firm Jon Peddie Research (JPR), which produces quarterly reports on graphics card market share, measuring shipment quantities from AMD, Intel, and NVIDIA.
+The latest report pertains to Q4 of 2022, and it shows that NVIDIA is still by far the most dominant desktop GPU maker, which is no surprise to anyone, on 82%. However, Intel is now on 9%, equalling AMD's market share, meaning these two rivals to Team Green have split the remaining share down the middle.
+This is a real surprise to us, as Intel has leaped up from a 4% market share in the last report from JPR for Q3 2022, to more than double its tally now. Indeed, Intel has been sitting on 4-5% for a while, and this is a sudden sprint up the rankings to equal AMD.
+It indicates that Intel's Arc GPUs are finally getting some proper traction, and are likely achieving this for a couple of reasons. Firstly, the relatively competitive pricing of the Alchemist graphics cards, and secondly, some well-publicized driver improvements over the last few months.
+Intel's graphics driver was a clear initial weak point for Team Blue, but the company has worked fast to correct that, and with some success as driver release after driver release ushers in frame rate upticks for big-name games here and there (alongside overall stability improvements and the like).
+Of course, AMD won't be happy languishing on 9%, although that's actually a tiny increase from the 8% share Team Red was pegged at in the Q3 report. At that point, NVIDIA held 88% of the market, so its share has actually dropped in Q4, and by a fair way (most of the gains having gone to Intel).
+Remember, this is for desktop GPUs, and the picture is very different for all models which includes integrated graphics solutions. With the latter taken into account, Intel owns 71% of the market (with NVIDIA on 17% and AMD on 12%). That's due to all the laptops with Intel CPUs and integrated GPUs, of course, with silicon from Team Blue dominating the notebook world.
+Graphics card shipment numbers, by the way, were found to be severely depressed in Q4 2022. JPR pegged them as down by 38% compared to the same quarter the previous year, and 15% quarter-on-quarter, which is indeed a hefty drop.

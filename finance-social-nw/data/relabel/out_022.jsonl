@@ -1,0 +1,20 @@
+{"id": "0440", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Passkeys are generally available", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0441", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Hyper-scale companies like Microsoft are", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0442", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Amazon faces lawsuit over allegations", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0443", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon faces lawsuit over allegations", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0444", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Amazon faces lawsuit over allegations", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0445", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The US Federal Trade Commission has filed", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0446", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Breaking Amazon sued by FTC", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0447", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Breaking Amazon sued by FTC", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0448", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Breaking Amazon sued by FTC", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0449", "ticker_a": "GOOGL", "ticker_b": "IONQ", "first_words": "IONQ favors corrective pullback before", "relation": "causal-driver", "sentiment_alignment": 0}
+{"id": "0450", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alexa, will generative AI make", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0451", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta AI: Zuckerberg's company has unveiled", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "0452", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Meta AI: Zuckerberg's company has unveiled", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "0453", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Meta AI: Zuckerberg's company has unveiled", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "0454", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "China dev fined 3 yrs' salary", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0455", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Entrepreneurs have changed the way", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0456", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Entrepreneurs have changed the way", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0457", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Entrepreneurs have changed the way", "relation": "unrelated-mention", "sentiment_alignment": 1}
+{"id": "0458", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Entrepreneurs have changed the way", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0459", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Entrepreneurs have changed the way", "relation": "unrelated-mention", "sentiment_alignment": 1}

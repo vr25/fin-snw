@@ -1,0 +1,70 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Lola Evans
+                
+26 Jul 2024, 01:46 GMT+10
+            
+NEW YORK, New York - U.S. stocks continued higher on Thursday after the Commerce Department's Bureau of Economic Analysis advised Gross domestic Product (GDP) increased at a 2.8 percent annualized rate in the June quarter, well above the 2.0 percent the markets expected.
+"The economy is in a transition, but it's in a good place," Ryan Sweet, chief U.S. economist at Oxford Economics told The New York Times Thursday. "The economy is slowing from very strong growth in the second half of last year. We're just settling down into something that's a little more sustainable."
+However, as the day wore on sellers took charge in the tech sector in particular and this carried over to industrial bourses. Shares in Nvidia, Microsoft and Alphabet all lost ground in late trading towards the close.
+"There's a changing of the guard happening on Wall Street. The AI stocks that led on the way up are now leading on the way down," Adam Sarhan, CEO of 50 Park Investments told CNBC Thursday.
+"During bull markets, you see one sector lead, then it pauses, corrects and passes the baton," he said. "Think of it like a relay race over to another sector."
+Ford was probably the biggest lose of the day, tumbling 18.4 percent on the back of its second quarter results which fell well short of what was expected.
+Here are the closing quotes for Thursday for the major U.S. indices with only the Dow picking up ground:
+S&P 500 (^GSPC): The S&P 500 index closed at 5,399.22, down by 27.91 points, or 0.51 percent. The decline indicates a cautious market outlook, with investors weighing the potential impacts of upcoming economic data and corporate earnings reports. The trading volume was 3.459 billion shares.
+Dow Jones Industrial Average (^DJI): The Dow Jones Industrial Average bucked the trend, ending the day at 39,935.07, up by 81.20 points, or 0.20 percent. The modest gain was driven by positive performances in key sectors, suggesting optimism about certain blue-chip stocks. The trading volume for the Dow was 375.247 million shares.
+NASDAQ Composite (^IXIC): The NASDAQ Composite index experienced a significant drop, closing at 17,181.72, down by 160.69 points, or 0.93 percent. The technology-heavy index faced selling pressure as investors reacted to potential headwinds in the tech sector. The trading volume was notably high at 5.183 billion shares.
+The foreign exchange market showed mixed movements on Thursday with the Swiss franc and euro edging higher while most current currencies.
+EUR/USD (Euro / US dollar): The euro gained against the U.S. dollar, with the exchange rate inching up to1.0850, up by 0.10 percent. The slight increase reflects positive sentiment around the Eurozone economy, despite ongoing challenges.
+USD/JPY (US dollar / Japanese yen): The Japanese yen stablized after its recent hefty gains. It last traded unchanged at 153.84.
+USD/CAD (US dollar / Canadian dollar): The Canadian dollar, slipped 0.05 percent to 1.3814, a minor dip suggesting a modest demand for the U.S. dollar amidst fluctuating oil prices, which heavily impact the Canadian dollar.
+GBP/USD (British pound / US dollar): The British pound depreciated against the dollar, with the exchange rate falling to 1.2859, down by 0.37 percent.
+USD/CHF (US dollar / Swiss franc): The Swiss franc, continued higher, ending the day around 0.8806, an increase of 0.51 percent. The Swiss franc's safe-haven status attracted investors amidst global uncertainties.
+AUD/USD (Australian dollar / US dollar): The Australian dollar fell against the greenback, with the exchange rate at 0.6549, down by 0.49 percent.
+NZD/USD (New Zealand dollar / US dollar): The New Zealand dollar also declined against the U.S. dollar, with the exchange rate diving to 0.5894, a decrease of 0.61 percent. The Kiwi's drop follows a bearish outlook on New Zealand's economic growth and lower commodity prices.
+Global Stock Markets Experience Mixed Results on Thursday
+On Thursday, global stock markets showed a range of performances, with some indices closing in the green while others faced declines. There were siognificant falls registered in Asia, particularly in Japan, while most European bourses also lost ground. CANADA
+S&P/TSX Composite Index (^GSPTSE): The S&P/TSX Composite index in Canada saw a decline, finishing at 22,608.03, down by 31.54 points, or 0.14 percent. The slight drop reflects concerns over commodity prices and their impact on the resource-heavy Canadian market. The trading volume was 212.187 million shares.
+UNITED KINGDOM
+In London, the FTSE 100 of the UK saw a positive close, gaining 32.66 points to finish at 8,186.35, marking an increase of 0.40 percent.
+EUROPE
+Belgium's BEL 20 also ended on a high note, rising by 23.03 points to close at 4,070.21 Thursday, up 0.57 percent. However, other major European indices did not fare as well.
+Germany's DAX PERFORMANCE-INDEX dropped by 88.74 points, closing at 18,298.72, a decline of 0.48 percent.
+The CAC 40 in France fell by 86.71 points to 7,427.02, down 1.15 percent.
+The ESTX 50 PR.EUR decreased by 50.59 points, closing at 4,811.28, a drop of 1.04 percent.
+The Euronext 100 Index also saw a significant decline, falling by 22.58 points to 1,459.79, down 1.52 percent.
+ASIA
+Asian markets experienced a range of outcomes Thursday, with Japan's Nikkei 225 suffering a significant drop of 1,285.34 points to close at 37,869.51, down 3.28 percent.
+Hong Kong's HANG SENG INDEX also faced a decline, losing 306.08 points to end at 17,004.97, a decrease of 1.77 percent.
+China's SSE Composite Index fell by 15.21 points, closing at 2,886.74, down 0.52 percent, while the Shenzhen Index dipped by 18.39 points to 8,474.70, a decline of 0.22 percent.
+The STI Index in Singapore fell by 30.37 points, ending at 3,430.45, down 0.88 percent.
+India's S&P BSE SENSEX slightly declined by 109.09 points to 80,039.80, down 0.14 percent.
+The IDX COMPOSITE in Indonesia on Thursday decreased by 22.48 points, closing at 7,240.28, down 0.31 percent.
+Malaysia's FTSE Bursa Malaysia KLCI fell by 5.96 points to 1,615.18, down 0.37 percent.
+South Korea's KOSPI Composite Index declined by 48.06 points to close at 2,710.65, down 1.74 percent. Taiwan's TSEC weighted index was one of the few bright spots, rising by 614.85 points to 22,871.84, up 2.76 percent.
+OCEANIA
+Australia's S&P/ASX 200 dropped by 102.50 points to close at 7,861.20, down 1.29 percent, and the ALL ORDINARIES fell by 111.20 points to 8,094.30, down 1.36 percent.
+Across the Tasman, New Zealand's S&P/NZX 50 INDEX GROSS dropped by 134.73 points Thursday, ending at 12,396.27, down 1.08 percent.
+MIDDLE EAST
+In the Middle East, Israel's TA-125 fell by 10.45 points to close at 2,053.76, down 0.51 percent. Egypt's EGX 30 Price Return Index decreased by 104.60 points, ending at 29,090.60, a decline of 0.36 percent.
+AFRICA
+South Africa's Top 40 USD Net TRI Index experienced a minor decrease, falling by 3.51 points to close at 4,317.15, down 0.08 percent.
+Related stories: The week's stock market activity so far:
+Wednesday 24 July 2024 | Dow Jones tumbles 504 points as Wall Street witnesses tech rout | Big News Network
+Tuesday 23 July 2024 | Dow Jones closes down 57 points as major indices turn south | Big News Network
+Monday 22 July 2024 | Dow Jones jumps 128 points on Biden exit from presidential race | Big News Network
+Get a daily dose of Nigeria Sun news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Nigeria Sun.
+More Information
+DUBAI/WASHINGTON, D.C.: Israel and Hezbollah agreed to a ceasefire in Lebanon on June 19 after a rise in fighting threatened efforts...
+ROME, Italy: The United Nations' Food and Agriculture Organization and World Food Program said on June 18 that they need $202 million...
+BEIRUT/JERUSALEM/QLAILIEH, Lebanon: Three Saudi-flagged supertankers carrying six million barrels of oil passed through the Strait...
+DUBAI, U.A.E.: The United Arab Emirates has introduced a new rule setting the minimum age for social media use at 15, becoming the...
+PARIS, France: Some of the world's most influential artificial intelligence executives gathered in France on June 17 as governments...
+LONDON, U.K.: A man who has both British and Iranian citizenship has been charged over an arson attack in April on a memorial wall...
+Manchester [UK], June 21 (ANI): A collective bowling display from South Africa Women's restricted India to 158/7 in their ICC Women's...
+Monterrey [Mexico], June 21 (ANI): Coach Herve Renard admitted Tunisia's heavy 4-0 defeat to Japan fell well below expectations, saying...
+Atlanta [US], June 21 (ANI): Spain's teenage winger Lamine Yamal rejected suggestions that he could surpass football icon Lionel Messi,...
+Monterrey [Mexico], June 21 (ANI): The 1000th match in FIFA World Cup history turned into a landmark occasion for Japan as the Samurai...
+New Delhi [India], June 21 (ANI): India's sugar industry is facing a tighter supply-demand situation as production has fallen sharply...

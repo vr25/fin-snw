@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft's Bing Search Loses Market Share Despite Partnership With ChatGPT
+Bing is Google's biggest search competitor, despite having only roughly 7 per cent of the market share.
+Despite ChatGPT integration, Microsoft's Bing search market share has decreased year over year. In other words, even artificial intelligence (AI) couldn't help the Microsoft-owned web search engine bridge the gap with Google.
+To recap, Microsoft teamed up with OpenAI, the company behind the widely popular AI chatbot ChatGPT earlier this year. As part of the new partnership, Microsoft invested $1 billion (about £814 million) in OpenAI.
+Microsoft integrated ChatGPT into a slew of its products. For instance, GitHub launched a new Copilot Chat feature back in July. Likewise, the company added AI-powered features to MS Paint and Snipping Tool apps.
+However, there was still a lot of hype around Microsoft's underutilised search platform Bing. Bing and Windows Copilot, which is essentially just Bing, are capable of regenerating content from across the web in a single place.
+Notably, Bing assured it will save users time by eliminating the need to click through and support websites it is regenerating content from. However, Bing is usually slower than clicking through to the website.
+Things aren't looking good for Microsoft Bing search
+On top of that, Bing oftentimes censors the information it's trying to regenerate. According to data shared by search volume tracker Stat Counter, Bing's market share has decreased half a per cent year-over-year in the US, from 7.4 per cent to 6.9 per cent.
+An earlier report indicated that Bing's market share has been stagnant since it was introduced. Meanwhile, Google's share increased to 88 per cent up from 86.7 per cent in 2022.
+Despite stealing 1 per cent of Google's Chrome web browser share, Microsoft Edge still managed to acquire a 5.5 per cent market share. So, it is safe to say that these stats are relatively tiny.
+This is also a major sign that OpenAI isn't turning out to be the disruptor Microsoft hoped it would be. To make things worse, Microsoft is spending a considerable amount of money per day to run ChatGPT.
+While these stats are effectively flat, losing market share despite ChatGPT integration isn't exactly encouraging. Currently, Google is on trial for allegedly using underhand tactics to remain at the forefront of the search engine space.
+Making an appearance at Google's antitrust trial in October, Microsoft CEO Satya Nadella accused the search giant of not playing fair with Bing. Apparently, Google's search engine dominance in the market share caused a competitive disadvantage to Bing and other competitors.
+Moreover, Google pays companies like Firefox, Apple and Samsung a lot of money to remain the default search engine on pre-installed browsers and apps. As a result, competitors are unable to acquire the data they need to improve search result relevancy. It will be interesting to see whether the court case will have any benefits for Bing.
+© Copyright IBTimes 2026. All rights reserved.

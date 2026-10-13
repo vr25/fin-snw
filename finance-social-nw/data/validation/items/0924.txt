@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Oracle surges on mega-partnerships with Google, Microsoft, and OpenAI despite 4Q miss
+Last updated: 10:25 12 Jun 2024 EDT, First published: 16:25 11 Jun 2024 EDT
+Oracle Corp (NYSE:ORCL, ETR:ORC) shares jumped almost 10% to a new all-time high on Wednesday after the company disclosed huge new AI-linked partnerships with Google, Microsoft and OpenAI.
+Despite a fiscal fourth-quarter earnings miss, Oracle's shares surged following the after-hours announcement, buoyed by significant deals with the tech giants.
+Oracle and Google Cloud unveiled a multi-cloud partnership, wherein Google Cloud will provide Oracle Cloud Infrastructure database services and high-speed network capabilities.
+Oracle, Microsoft and OpenAI are also collaborating to expand Microsoft Azure AI capabilities to Oracle Cloud Infrastructure (OCI) to support OpenAI's scaling needs, with OCI being chosen for its speed and cost-effectiveness.
+"In Q4 alone, Oracle signed over 30 AI sales contracts totaling more than $12.5 billion—including one with Open AI to train ChatGPT in the Oracle Cloud," said CEO Safra Catz.
+These record sales drove the sales backlog up 44% to $98 billion.
+The news sent Oracle shares up almost 8% afterhours despite missing estimates on the top and bottom line.
+During its fiscal Q4, Oracle saw a notable increase in cloud revenue, with a 20% rise in cloud revenue overall. Cloud infrastructure revenue soared by 42%, while cloud application revenue experienced a 10% uptick.
+The software company’s fiscal 4Q earnings, however, fell short of analysts' estimates with adjusted EPS of $1.63 missed the estimated $1.65 and sales of $14.3 billion below the estimated $14.55 billion.
+Looking ahead, Oracle projects each successive quarter in fiscal year 2025 to outpace the previous one in terms of growth. The company revealed signing over 30 artificial intelligence (AI) sales contracts in Q4, totaling more than $12.5 billion.

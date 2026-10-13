@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+OpenAI CEO Sam Altman has set off a “code red” alert to employees to improve its flagship product, ChatGPT, and delay other product developments, according to The Wall Street Journal.
+The newspaper reported that Mr Altman sent an internal memo to staff on Monday saying more work was needed to enhance the artificial intelligence chatbot’s speed, reliability and personalisation features.
+This week marks three years since OpenAI first released ChatGPT, helping to spark global fascination and a commercial boom in generative AI technology.
+But the company faces increased competition with rivals, including Google, which last month unleashed Gemini 3, the latest version of its own AI assistant.
+OpenAI did not immediately respond to a request for comment on Tuesday. Tech news outlet The Information also reported on the memo.
+Mr Altman said this autumn that ChatGPT now has more than 800 million weekly users.
+But the company, valued at 500 billion dollars, does not make a profit and has committed more than one trillion dollars in financial obligations to the cloud computing providers and chipmakers it relies on to power its AI systems.
+The risk that OpenAI will not make enough money to fulfil the expectations of backers like Oracle and Nvidia has amplified investor concerns about an AI bubble.
+Nick Turley, an OpenAI vice president and its head of ChatGPT, posted on social media on Monday that online search is one of the product’s biggest areas of opportunity as the company focuses on making ChatGPT more capable and “even more intuitive and personal”.
+OpenAI makes revenue from premium subscriptions to ChatGPT but most users get the free version.
+OpenAI introduced its own web browser, Atlas, in October, an attempt to compete with Google’s Chrome as more internet users rely on AI to answer their questions.
+But OpenAI has not yet tried to sell ads on ChatGPT, which is how Google makes money from its dominant search business.
+Mr Altman’s memo said the company was delaying work on advertising, AI agents for health and shopping, and a personal assistant called Pulse, according to the Journal.

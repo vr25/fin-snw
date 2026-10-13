@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Europe's venture-backed startups are expected to secure $45 billion of investment by the end of 2024, Atomico said Tuesday in its "State of European Tech" report Tuesday.
+- That is slightly lower than the $47 billion European startups raised last year — still, Atomico said this shows that tech funding levels have finally "stabilized" in the continent.
+- The VC firm predicted Europe could mint its first-ever $1 trillion tech company in a decade's time if key issues such as access to capital and keeping high-skilled talent in the region are resolved.
+Venture capital investment in European technology startups is projected to decline for a third straight year, according to VC firm Atomico — but there are signs that things are finally stabilizing as valuations improve and interest rates fall.
+Watch NBC 5 free wherever you are
+Europe's venture-backed startups are expected to secure $45 billion of investment by the end of 2024 — slightly lower than the $47 billion they raised last year, Atomico said Tuesday in its "State of European Tech" report.
+Still, Atomico said this shows that European tech funding levels have finally "stabilized" despite worsening global macroeconomic conditions leading to three consecutive years of declines.
+Create a free account with NBC 5 DFW to save articles and videos.
+The firm stressed that the continent's tech ecosystem is in a much better place than it was a decade ago, with funding this year still set to eclipse the $43 billion startups raised between 2005 and 2014.
+In the period spanning 2015 to 2024, European startups have bagged $426 billion, dwarfing the sum of investment deployed into tech firms the decade prior.
+Tom Wehmeier, head of insights at Atomico, told CNBC that Europe still has a few key areas of improvement to address before it can produce companies of similar scale to the largest tech firms in the U.S. and China.
+"There's frustrations about the continued challenges faced when it comes to regulation, bureaucracy, access to capital and this idea of scaling across the fragmented European marketplace," Wehmeier said in an interview.
+For example, pension funds in Europe face barriers to investing in venture capital funds and therefore aren't gaining much exposure to the continent's fast-growing startup ecosystem, Wehmeier said.
+European pension funds allocate just 0.01% of the $9 trillion worth of assets they manage into venture capital funds based in the continent, according to Atomico's report.
+The 2024 publication marks the 10th anniversary since Atomico began compiling its annual report, which is produced in partnership with data firm Dealroom.
+Europe's first $1 trillion tech firm?
+According to Atomico there are signs that the sector is improving. In the U.K., for example, Finance Minister Rachel Reeves last week laid out plans to consolidate 86 separate local government pension pots into eight "megafunds" to boost investment in domestic assets.
+British tech advocacy group techUK said the reforms "should address barriers to greater availability of pension fund capital and encourage a vision that sees more investment into UK tech science start-ups and scale-ups."
+Reforms to pension schemes are either underway or being discussed in several other countries across Europe.
+"These changes could result in billions more being made available to European scale-ups — and that's something that could be the difference between the best and brightest companies scaling from here in Europe, versus being forced to relocate," Wehmeier told CNBC.
+Atomico said it's optimistic about the next decade in European tech. The VC firm, which was established by Skype co-founder Niklas Zennström, is predicting the entire European tech ecosystem combined could be valued at $8 trillion by 2034, up from around $3 trillion currently.
+Atomico also predicts that Europe will mint its first-ever trillion-dollar tech company in a decade's time.
+While Europe is home to several so-called "decacorns" valued at $10 billion and above, including Arm, Adyen, Spotify and Revolut, it has so far failed to produce a company valued at $1 trillion.
+That's unlike the United States, where several of the so-called "Magnificent Seven" technology companies are now worth over $1 trillion. They include Google parent company Alphabet, Amazon, Apple, Facebook-owner Meta, Microsoft, Nvidia and Tesla.
+"If we can unlock capital at scale, keep the brightest minds in Europe, maintain that focus on solving really hard problems for society and the economy, that's how we go and unlock the first trillion-dollar company," Wehmeier said.

@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Summary
+- Humane AI Pin failed to meet expectations, facing multiple issues like overheating.
+- Formerly valued at $850 million, Humane is now exploring sale options due to poor reception and technical flaws.
+- The future of AI Pin remains uncertain as no company has yet shown interest in acquiring Humane. .
+Since its launch in April, the Humane AI Pin has received a lot of negative feedback from reviewers. While Humane was expected to have a new version in the pipeline and iron out the kinks in the upcoming model, the company has reportedly abandoned plans to continue the product and is exploring a potential sale at a staggering price. Humane was founded by former Apple employees Bethany Bongiorno and Imran Chaudhri.
+As Bloomberg reported, citing people familiar with the matter, Humane, the startup behind AI Pin, is open to accepting acquisition offers for a price between $750 million and $1 billion. Humane could raise $230 million from investors and promised to deliver an AI assistant that outperforms other wearables like smartwatches. However, the $700 AI gadget was grilled by reviewers due to plenty of software and hardware flaws.
+Humane is seeking a potential buyer, as no one is buying the $700 AI Pin
+The AI Pin, priced at $700, was plagued by several issues. It was slow in responding to queries, often provided irrelevant search results, and had problems with overheating and battery life. On top of the high price, customers were also required to pay $24 a month for access to Humane’s AI tech and the 4G service.
+The company was valued at $850 million in 2023. This valuation was before launching the faulty AI Pin, and today’s valuation would certainly be lower. Humane has already said it’s listening to customer feedback to address AI Pin’s issues. Last week, OpenAI’s GPT-4o model was rolled out to AI Pin to enhance its capabilities.
+It remains to be seen which company or investor would pay between $750 million and $1 billion to acquire Humane. Major tech companies like Google, Apple, Meta, and Microsoft have spent billions of dollars on acquiring AI startups in the past few years. However, their interest in Humane’s technology is still in question.
+If a potential buyer for the entire business is not found, Humane could consider selling its patents and intellectual property to other companies. Though in its early stages, this alternative strategy could be a viable option for the startup.
+AI gadgets are a genuine and novel idea, but they’re still immature and need further development. Moreover, they must be cheaper and offer an enhanced AI experience compared to smartphones or smartwatches. Today, you can take out your smartphone, summon ChatGPT or Google Gemini, and access a plethora of AI services. Thus, no customers need to pay nearly $700 for another gadget with lower capabilities and a poor user experience.

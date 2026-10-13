@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+BUSINESS
+This decision comes just weeks after the company’s former CEO, Hakan Samuelsson, returned to lead Volvo again.
+Businesses all over the world have been reducing their workforces to save labour expenses, but the introduction of AI has forced big IT businesses like Microsoft, Google, and Meta to reassess their workforces and place a higher priority on quality than quantity. Amidst this trend, news is emerging of layoffs in car-making companies also. Volvo Cars has decided to cut almost 3,000 jobs as part of its cost-cutting initiative. According to Reuters, the Swedish automaker is dealing with trade uncertainty, declining demand for electric vehicles (EVs), and growing expenses.
+Only a few weeks after Hakan Samuelsson, the company's former CEO, returned to lead Volvo again. He presented a plan in April to cut expenses by 18 billion Swedish crowns (approx $1.9 billion).
+White-collar jobs, which make up about 40% of the company's workforce, will be the primary source of cost reductions. Globally, the corporation employs over 3,000 people in the Americas, 10,000 in Asia, and 29,000 in Europe.
+According to Samuelsson, the layoffs will occur in a variety of sectors, including communication, human resources, and research.
+While all areas of the company will be impacted, the majority of the job losses will occur in Gothenburg, Sweden, according to Fredrik Hansson, the company's new finance chief.
+Nearly 15% of Volvo Cars' office workers will be let go, and restructuring costs are predicted to total 1.5 billion crowns. But according to the corporation, the change will help make its structure more effective.
+Trade issues, particularly those with the US, are currently one of Volvo's main concerns. Volvo may be more negatively impacted by new US tariffs than other European brands because the majority of its vehicles are manufactured in China and Europe. The business even cautioned that if levies increase, it may not be able to sell some of its more reasonably priced vehicles in the US.
+By the autumn of this year, Volvo intends to have its new organisational structure finished. The job layoffs were anticipated, and the decision may eventually help the company become more focused and leaner, according to analyst Hampus Engellau of Handelsbanken.

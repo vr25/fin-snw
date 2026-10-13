@@ -1,0 +1,20 @@
+{"id": "0320", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "The Jerusalem Municipality has", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0321", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Jerusalem Municipality has", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0322", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "© 2026 Blaze Media", "relation": "unrelated-mention", "sentiment_alignment": 1}
+{"id": "0323", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This is a sample of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0324", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Signaling potential trouble for", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0325", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta's stock increased nearly", "relation": "unrelated-mention", "sentiment_alignment": 0.2}
+{"id": "0326", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Meta's stock increased nearly", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0327", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Meta's stock increased nearly", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0328", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "NEW YORK, July 11, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0329", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "NEW YORK, July 11, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0330", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "NEW YORK, July 11, 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0331", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "DUBLIN, July 11, 2023", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0332", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0333", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "0334", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": -0.1}
+{"id": "0335", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": -0.1}
+{"id": "0336", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": -0.1}
+{"id": "0337", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft can move ahead", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0338", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "If you're part of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0339", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google's AI Chatbot is", "relation": "unrelated-mention", "sentiment_alignment": 0.2}

@@ -1,0 +1,43 @@
+TICKER_A: AMD
+TICKER_B: NVDA
+POST:
+Anabelle Colaco
+                
+26 May 2026, 04:25 GMT+10
+            
+TAIPEI, Taiwan: Nvidia Chief Executive Officer Jensen Huang said on May 23 that China remains part of the company's projected $200 billion market for central processing units, underscoring Nvidia's long-term confidence in Chinese demand despite ongoing technology tensions between Washington and Beijing.
+Speaking to reporters after arriving in Taipei ahead of the Computex trade show, Huang said Nvidia's forecast for the emerging CPU market includes China.
+"I would think so," Huang said when asked whether the company's estimate accounted for Chinese demand.
+The comments come as Nvidia expands beyond its dominance in graphics processing units, or GPUs, which are widely used to train artificial intelligence models. Demand is increasingly shifting toward "agentic AI" systems that can carry out autonomous tasks, driving broader interest in CPUs.
+During Nvidia's earnings call earlier this week, Huang told investors that the company's new "Vera" processors could help unlock a $200 billion CPU market opportunity.
+Huang also sought to reassure investors that Nvidia could maintain its rapid growth trajectory through a broad customer base and new products, saying the company expects its flagship AI chips to generate more than $1 trillion in sales.
+China remains a major focus despite export restrictions and political tensions surrounding advanced AI technology.
+Nvidia has received licenses from the U.S. government allowing it to sell its H200 AI chips to China, but deliveries have not yet begun because Chinese regulatory approval is still pending.
+It was reported that the U.S. government had cleared around 10 Chinese firms to buy Nvidia's H200 chips, though no shipments have yet been completed.
+"H200 has been licensed to ship to China. It would be terrific to be able to serve that market. The Chinese market is very important. It's very large, of course," Huang said at Taipei's Songshan Airport.
+Huang recently accompanied U.S. President Donald Trump on a visit to Beijing for talks with Chinese President Xi Jinping. However, the summit produced no immediate breakthrough for Nvidia's chip sales in China.
+Taiwan also remains central to Nvidia's supply chain strategy.
+Advanced Micro Devices announced earlier this week that it would invest more than $10 billion in Taiwan's AI sector to strengthen partnerships and expand advanced chip manufacturing capacity.
+Asked whether Nvidia planned similar investments, Huang said the company had already provided substantial support to its Taiwanese partners.
+"We haven't announced anything in the past, but we've invested in and supported our partners here far more than that," Huang said.
+He added that he would meet executives from Taiwan Semiconductor Manufacturing Co., the world's largest contract chipmaker and a key Nvidia supplier.
+Huang said Nvidia was ramping up production of its Vera Rubin platform, which combines the company's Vera CPU and Rubin GPU technologies, creating "a very busy second half" for Taiwan's electronics supply chain.
+The visit also comes amid growing scrutiny over AI chip smuggling.
+Taiwanese prosecutors said this week they were investigating three people suspected of illegally exporting AI servers made by Super Micro and equipped with Nvidia chips that are subject to U.S. export restrictions.
+Asked what Nvidia could do to prevent such diversion, Huang said the company was "very rigorous" about explaining export laws to partners and expected full compliance.
+"Ultimately, Super Micro has to run their own company," Huang said. "I hope that they will enhance and improve their regulation compliance and avoid that from happening in the future."
+Get a daily dose of Cleveland Star news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Cleveland Star.
+More Information
+TAIPEI, Taiwan: Nvidia Chief Executive Officer Jensen Huang said on May 23 that China remains part of the company's projected $200...
+NEW YORK CITY, New York: Airline passengers hoping to use frequent flyer miles and travel rewards this summer may find their points...
+SAN FRANCISCO, California: Online fashion giant Shein has agreed to acquire U.S. apparel retailer Everlane, a brand known for its focus...
+BENTONVILLE, Arkansas: Walmart is undergoing a significant leadership reshuffle under Chief Executive Officer John Furner, with at...
+TORONTO, Ontario: The Canadian dollar fell for a third straight week against the U.S. dollar on May 22 as rising gasoline prices linked...
+HELSINKI/BALAKLIIA, Ukraine: Visiting mayors from Ukrainian cities are among 800 delegations visiting the Merihaka civil shelter, situated...
+WASHINGTON, D.C: Tulsi Gabbard announced on May 22 that she will step down as U.S. director of national intelligence, saying she wants...
+NEW YORK CITY, New York: U.S. President Donald Trump disclosed more than 3,600 stock trades during the first quarter of 2026, revealing...
+(Photo credit: Kiyoshi Mio-Imagn Images) Los Angeles Dodgers utility man Enrique Hernandez was reinstated from the 60-day injured...
+Democrats in several states have been airing ads linking Republican rivals to the late sex offender Several Democratic candidates...
+(Photo credit: Jamie Sabau-Imagn Images) The Detroit Tigers finally exhaled on Sunday. Their long losing streak ended in the second...
+(Photo credit: Steven Branscombe-Imagn Images) UCLA was named top overall seed of the 2026 NCAA Division I Baseball Championship...

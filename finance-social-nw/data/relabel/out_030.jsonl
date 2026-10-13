@@ -1,0 +1,20 @@
+{"id": "0600", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A barrage of high-profile lawsuits in", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0601", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Glassdoor names the best places to", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "0602", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Glassdoor names the best places to", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0603", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Glassdoor names the best places to", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0604", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft dethrones Apple to become world's", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0605", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "DJ Sahil Aim, A Dynamic Dumka", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0606", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Bank and real estate stocks are", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0607", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Bank and real estate stocks are", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0608", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Bank and real estate stocks are", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0609", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "This week's playlist features new music", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0610", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0611", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0612", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0613", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0614", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0615", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "LeftoverLocals: Listening to LLM responses", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0616", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Feature Stories | Nov 16 2023", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "0617", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "When I recently called a Korean", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "0618", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Wall Street returned to record heights", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0619", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Wall Street returned to record heights", "relation": "co-hype", "sentiment_alignment": 1.0}

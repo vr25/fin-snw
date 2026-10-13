@@ -1,0 +1,7 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Former President Donald Trump said Friday on Fox Business Network’s “Mornings With Maria Bartiromo” that Meta CEO Mark Zuckerberg called him after the assassination attempt and apologized for Facebook and Instagram censoring photos of him with his fist raised.
+Trump said, “Mark Zuckerberg called me. First off he called me a few times after the event and said that was amazing and brave and actual he announced he is not going to support a Democrat because he can’t because he respected me for what I did that day.”
+He added, “To me it was a normal response but I was called by Mark Zuckerberg the day before on the same subject and apologized and said they made a mistake and they are correcting the mistake. Google, nobody called for Google.”
+Follow Pam Key on Twitter @pamkeyNEN

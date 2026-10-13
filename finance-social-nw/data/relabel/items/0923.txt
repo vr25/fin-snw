@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Apple is going all-in with artificial intelligence, announcing several new AI features and a partnership with ChatGPT-maker OpenAI. The company announced the deal at its Worldwide Developers Conference on Monday afternoon.
+The highly anticipated AI partnership is the first of its kind for Apple, which has been regarded by analysts as slower to adopt artificial intelligence than other technology companies such as Microsoft and Google.
+The deal allows Apple’s millions of users to access technology from OpenAI, one of the highest-profile artificial intelligence companies of recent years. OpenAI has already established partnerships with a variety of technology and publishing companies, including a multibillion-dollar deal with Microsoft.
+OpenAI will be integrated into Apple’s digital assistant Siri, Apple software chief Craig Federighi said during the conference. That would allow people to ask for help with things like recipe ideas, room decorations or composing a story, Federighi said.
+“Suppose you want to create a custom bedtime story for your six-year-old who loves butterflies and solving riddles,” Federighi said. “Put in your initial idea, and send to ChatGPT.”
+The announcement comes as AI has experienced explosive growth, and some embarrassing setbacks. Chatbots and AI assistants have been beset with issues including hallucinations, plagiarism and incorrect or biased results. OpenAI itself has been embroiled in allegations of copying actor Scarlett Johansson’s voice without her permission.
+Apple is also at the center of an antitrust lawsuit filed by the Justice Department and 15 states. The government accuses Apple of abusing its power as a monopoly to push out rivals and keep customers using its products. It’s unclear how Apple’s new partnership with OpenAI could play into this case.
+Shortly after Apple’s announcement, OpenAI CEO Sam Altman posted on X, formerly known as Twitter, “very happy to be partnering with apple to integrate chatgpt into their devices later this year! think you will really like it.”
+Apple is also rolling out what it calls Apple Intelligence, its term for Apple's own new generative AI software.
+Apple Intelligence will enable transcription for phone calls, AI photo retouching and improvements in the natural conversation flow with Siri, the company said. The software can also be used to summarize notifications and text messages, as well as articles, documents and open web pages.
+Federighi placed an emphasis on privacy, with a new system called Private Cloud Compute that he said will ensure data security for users.
+Apple says the new features will be released later this year.
+Copyright 2024 NPR

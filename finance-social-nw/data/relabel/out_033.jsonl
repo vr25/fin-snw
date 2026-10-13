@@ -1,0 +1,20 @@
+{"id": "0660", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Emerging markets recorded 63 per", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0661", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Emerging markets recorded 63 per", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0662", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "DAVOS, Switzerland — For as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0663", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Tun Dr Siti Hasmah Mohd Ali", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0664", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "If you've heard anything about", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0665", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Note: Emailed entries only to", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0666", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "For the last several quarters", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "0667", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Android has had its fair", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0668", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta's Ad Business Continues To", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0669", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Meta's Ad Business Continues To", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0670", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Meta's Ad Business Continues To", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0671", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "(1) MCCARTY Q&A. Chris Barkley's", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0672", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Nvidia Corp and Cisco Systems", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0673", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Nvidia Corp and Cisco Systems", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0674", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia Corp and Cisco Systems", "relation": "causal-driver", "sentiment_alignment": -0.3}
+{"id": "0675", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Nvidia Corp and Cisco Systems", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0676", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Nvidia Corp and Cisco Systems", "relation": "causal-driver", "sentiment_alignment": -0.3}
+{"id": "0677", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia Corp and Cisco Systems", "relation": "causal-driver", "sentiment_alignment": -0.3}
+{"id": "0678", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "iPhone 18 Pro and 18 Pro", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0679", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "S&P 500 closes at new", "relation": "unrelated-mention", "sentiment_alignment": 0}

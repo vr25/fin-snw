@@ -1,0 +1,20 @@
+{"id": "0740", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "News media businesses employing thousands", "relation": "unrelated-mention", "sentiment_alignment": -0.6}
+{"id": "0741", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Asus ROG Strix Scar", "relation": "unrelated-mention", "sentiment_alignment": -0.7}
+{"id": "0742", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chinese-speaking online users claimed", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0743", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Shellharbour Mayor Chris Homer", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0744", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Dutch organisations start building a", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0745", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Full list of apps", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0746", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Summary The DMA is the", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0747", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Summary The DMA is the", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0748", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Summary The DMA is the", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0749", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Walmart Pole in Auburn Maine", "relation": "unrelated-mention", "sentiment_alignment": 0.3}
+{"id": "0750", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "TSMC's American depositary receipts surge", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0751", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "TSMC's American depositary receipts surge", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0752", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "TSMC's American depositary receipts surge", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0753", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "So what are the challenges", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0754", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "æ¨è®¿é®çé¡µé¢ä¸åå¨", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0755", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The OpenAI-Elon Musk battle", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0756", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "President Biden said Friday that", "relation": "co-hype", "sentiment_alignment": 0.2}
+{"id": "0757", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen & Hinweise", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0758", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "We have also discussed the", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0759", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "We have also discussed the", "relation": "substitute-comparison", "sentiment_alignment": 0.8}

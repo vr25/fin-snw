@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta will not rule out banning all Australian news content from Facebook if the federal government tries to force it to strike deals with publishers.
+Executives from the US tech giant have told a parliamentary inquiry that "all options are on the table" in relation to banning local journalism from its service.
+Any ban would stop Facebook users from posting links to locally produced news stories and videos, the company told the Social Media and Australian Society inquiry in Canberra on Friday.
+But the inquiry also heard the move could have a devastating effect on both news audiences and media outlets, and the government should take urgent action to avoid it and support public interest journalism in different ways.
+Meta was the first of four tech firms to appear at the inquiry, which was called in May after the company revealed it would not renew deals struck with Australian publishers under the News Media Bargaining Code at a cost of $70 million.
+Meta regional policy director Mia Garlick defended the company's decision, telling the inquiry news represented only three per cent of content shared on Facebook, and removal would be considered if the government designated it under the code.
+"At the moment, all options are on the table," she said.
+"We're still paying out the deals that supported that (Facebook News) product and news continues to be available, but we haven't had indication from the government about any potential next steps."
+Ms Garlick said the company considered Australia's laws "unworkable" and a ban would prevent any user sharing content created by Australian outlets.
+"To comply with the law, yes, we need to stop the sharing of mainstream media news," she said.
+But Private Media chief executive Will Hayward said a Facebook news ban, like the one implemented in February 2021, would harm local publishers and their audiences.
+"The barriers to entry for new entrants will only get higher," he said.
+"It seems extremely likely without emergency actions Australians, particularly young Australians, will have even less choice and access to news providers."
+Mr Hayward said the government should consider introducing a levy on digital advertising to support outlets.
+Local and Independent News Association executive director Claire Stuchbery said Meta had already begun to "de-prioritise" news on Facebook, which had reduced publishers' reach by as much as 85 per cent.
+"In some ways the death-by-a-thousand-cuts approach is more dangerous than the complete removal of news pages from Facebook," she said.
+Google, which was also named under the news code, told the inquiry it planned to take a different path and would strike new contracts with local media outlets as they expired.
+"We are renegotiating those deals," Google's Australian public policy director Lucinda Longcroft said.
+In addition to probing news deals, the inquiry is addressing issues including harmful content, scams and extreme violence on social networks, and whether to restrict access for children under 16.
+Meta global safety head Antigone Davis told the inquiry she did not think Facebook or Instagram should be responsible for age-verification systems.
+She said restrictions should be handled by app stores and operating systems rather than social networks, and warned teens would try to evade severe rules.
+"Hard bans can actually have them move to different services that are outside of the awareness of regulators, that are outside of the awareness of parents," Ms Davis said.
+The inquiry will recall executives from Meta in a future public hearing before it delivers recommendations in November.
+Australian Associated Press

@@ -1,0 +1,20 @@
+{"id": "0080", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Our families have both been gravely", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0081", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ACCESS Newswire 08 Feb 2023,", "relation": "substitute-comparison", "sentiment_alignment": 0.1}
+{"id": "0082", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "LONDON (AP) â Twitter failed", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0083", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "LONDON (AP) â Twitter failed", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0084", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "LONDON (AP) â Twitter failed", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0085", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Tech stocks have been on", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "0086", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "David Sacks is a key", "relation": "co-hype", "sentiment_alignment": -0.6}
+{"id": "0087", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Protesters who became violent outside", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0088", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Happy Monday, readers. I'm Phil", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0089", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "UPCOMING Airport Parking Network Event", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0090", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Senators from both parties are", "relation": "co-hype", "sentiment_alignment": -0.7}
+{"id": "0091", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "At Least 8 Gorgeous Hidden", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0092", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "A few days after Google", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "0093", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "What to Know In racing", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0094", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "When the U.S. Supreme Court", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "0095", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Moment kidnapped woman held for", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0096", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Supreme Court To Consider Section", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0097", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "While it's still early days", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "0098", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In oral arguments set for", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0099", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In oral arguments set for", "relation": "co-hype", "sentiment_alignment": -0.2}

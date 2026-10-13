@@ -1,0 +1,20 @@
+{"id": "1160", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "MARKET WRAPS Watch For: EU", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1161", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Edmunds ranked as #15", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1162", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The multi-billion-dollar debate: Big", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1163", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Oil rose more than 1%", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1164", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Last week, Microsoft announced plans", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1165", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "(1) LACON V WILL", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1166", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Abu Dhabi, United Arab Emirates", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1167", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1168", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1169", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1170", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1171", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1172", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "With Donald Trump clinching a", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1173", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Pharrell Williams to bring star", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1174", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Robert Besser 09 Nov", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "1175", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "US utility Vistra is", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1176", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Leading lights of the", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1177", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "- Devices - 3 min", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1178", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Which? files legal claim", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1179", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta in the hot", "relation": "co-hype", "sentiment_alignment": -0.7}

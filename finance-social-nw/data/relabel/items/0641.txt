@@ -1,0 +1,10 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Nvidia's valuation passed the $1.5 trillion threshold for the first time Wednesday as the AI investing frenzy continued to power the chipmaker to new heights.
+Shares were up just over 1% at the closing bell, which was enough to lift the total market capitalization of Jensen Huang's semiconductor giant from $1.48 trillion to $1.52 trillion, per data from Refinitiv.
+The mega-cap tech stock has already racked up gains of 24% in 2024, extending a stellar run from last year when it soared nearly 250% thanks to the explosion of interest in ChatGPT.
+Investors have pinpointed Nvidia as a key AI stock due to its dominance of the market for the graphics processing units (GPUs) that power OpenAI's bot and other intelligent language tools.
+Its triple-digit surge lifted it to a trillion-dollar valuation in May and has established it as a member of the so-called "Magnificent Seven" mega-cap tech companies, alongside Apple, Microsoft, Google owner Alphabet, Amazon, Facebook parent Meta Platforms, and Tesla.
+Nvidia wasn't the only member of that group to hit a big valuation milestone Wednesday.
+Microsoft's total market cap climbed to an unprecedented $3 trillion, while Meta's passed $1 trillion for the first time since 2021 with the stock enjoying a strong start to the year of its own thanks to CEO Mark Zuckerberg's "Year of Efficiency" cost cuts.

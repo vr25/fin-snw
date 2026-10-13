@@ -1,0 +1,14 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Stocks tumbled on Monday as investors wait to see how several big tech firms fared for the final quarter of 2022. This week, Facebook parent Meta Platforms, Apple, Amazon, and Google parent Alphabet are set to report their quarterly earnings.
+Considering that stocks also fell last week after Microsoft issued a lackluster earnings report and disappointing revenue forecast for the current quarter, this development isn’t surprising. And when you add that Meta, Microsoft, Amazon, and Google announced sweeping layoffs, it’s easy to see why investors are becoming bearish on FAANG stocks.
+FCF Advisors recently suggested that investors may want to turn elsewhere than FAANG stock earnings for strong, stable returns. Specifically, towards companies that have ample free cash flow.
+Free cash flow is the cash a company generates after its cash outflows to pay expenses or support operations. FCF Advisors specializes in free cash flow investment strategies, primarily through its Free Cash Flow Quality Model (FCFQM), a multi-factor model featuring a combination of quality measures informed by the firm’s research.
+“Mega-cap technology companies had a really, really tough year,” said Bob Shea, CIO of FCF Advisors, in a webinar hosted by the investment manager. “There was a significant rotation away from them.”
+Shea added that this was one of the reasons why FCF was “significantly underweight FAANG stocks.”
+The company’s flagship strategy, the FCF US Quality ETF (TTAC) aims to outperform the Russell 3000 through a fundamentals-driven investment process that selects about 150 stocks based on free cash flow strength. Its holdings are then weighted by a modified market-cap log transformation, allowing increased exposure to companies with the strongest proprietary free cash flow rankings.
+Because it focuses on companies’ free cash flow rather than earnings, FCF Advisors revealed that TTAC was underweight stocks like Alphabet (-1.18%), Amazon (-1.84%), and Microsoft (-1.94%) versus the Russell 3000 at the end of December 31.
+“Over the last several quarters, the market has been demanding profitability, and we’ve been measuring profitability through free cash flow,” Shea added.
+TTAC’s portfolio will also be rated with an ESG score, excluding companies with low ESG ratings. Firms with an extreme rise in share count and increase in leverage are excluded.
+For more news, information, and analysis, visit the Free Cash Flow Channel.

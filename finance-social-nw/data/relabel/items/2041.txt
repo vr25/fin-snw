@@ -1,0 +1,7 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google recently announced that it’s now rolling out an update for Gemini which will allow users to generate full-on documents and files, which will supposedly function just like any man-made electronic file. With prompts, users can now create Microsoft Word, Excel, PDF, Google Docs files and more.
+Google says that this makes it easier for users to organize their ideas into ready-made documents, which cuts down time on preparing and formatting documents. As per the company:
+Instead of copying, pasting and reformatting, this update will allow you to easily move your work into different applications. Export your budget proposal to a Microsoft Excel (.xlsx) file, arrange loose ideas into a bulleted draft or consolidate a lengthy collaboration into a single-page PDF or Microsoft Word (.docx).
+Once generated, users will be able to directly save the file to their device, or share it to their Google Drive folders. The new feature will work with different file formats including Google Workspace files (Docs, Sheets and Slides), .pdf, .docx, .xlsx, .csv, LaTeX, Plain Text (TXT), Rich Text Format (RTF) and Markdown (MD). The feature is now available worldwide.

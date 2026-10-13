@@ -1,0 +1,49 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+MIDDLETOWN, Pennsylvania — Standing in front of one of Three Mile Island's iconic cooling towers, Bryan Hanson remembers the day in 2019 when he shut the nuclear plant down.
+"It was really melancholy," Hanson, chief generation officer for the utility Constellation, recalls.
+Three Mile Island is best known because its Unit 2 reactor partially melted down in 1979. But the Unit 1 reactor went on to operate for decades, until Hanson finally had to pull the plug.
+"I remember, just driving away seeing no water vapor coming out of the towers, knowing it wouldn't happen again," he says.
+Then, earlier this year, the Three Mile Island got a second lease on life. In September, Microsoft signed a power purchase agreement with Constellation, guaranteeing it would buy electricity from the plant at a fixed price. That allowed the utility to invest the projected $1.6 billion necessary to restart the reactor.
+Across the tech sector, companies like Microsoft, Google, Amazon and Meta are all getting into nuclear tech.
+Their interest is driven by commitments they've made to fight climate change, according to Emma Strubell, a computer scientist at Carnegie Mellon University in Pittsburgh. Before 2022, Strubell says, large tech companies were "reducing their actual carbon emissions year-over-year."
+But since the advent of AI, power consumption has been rising rapidly.
+Training and using AI requires significantly more computational power than conventional computing, and "that corresponds to energy use," Strubell says. Strubell and other experts expect emissions will skyrocket as AI becomes more common.
+Nuclear power offers a way out: plants like Three Mile Island can deliver hundreds of megawatts of power without producing greenhouse gas emissions. New nuclear plants could do still more, powering data centers using the latest technology.
+But Silicon Valley's ethos is to go fast and break things. Nuclear power, on the other hand, has a reputation for moving extremely slowly, because nothing can ever break.
+That makes some long-time watchers of the nuclear industry skeptical.
+"I find it fascinating that big tech is interested in these technologies," says Sharon Squassoni, a research professor at the George Washington University who's studied the nuclear industry for years. But she wonders if the companies understand how much time and money it will take to harness the power of the atom.
+"I'm really perplexed," she says.
+A climate promise
+Big tech firms have long promised to grow sustainably, and in recent years they've pledged to slash or even eliminate their greenhouse gas emissions.
+Initially, they tried to do so with solar, wind and hydroelectric power. "If you went back a decade, they were all focused on being 100% renewable-energy powered," says Ted Nordhaus, executive director of the Breakthrough Institute, a Berkley, Calif.,-based environmental think tank that has studied nuclear power and the tech sector.
+Large tech companies purchased power from renewable sources, but Nordhaus says they drew criticism, because the purchase agreements often left parts of their demand uncovered. For example, purchasing power from a solar plant does little to reduce emissions during night time operations.
+Over the years, some companies have moved towards 24/7 matching of their demand with clean energy supply. Nordhaus says that change, together with the anticipated and enormous power requirements of AI, have left nuclear power as one of the few solutions.
+"I think nuclear is probably the most cost-effective current technology stopgap that we have," Strubell agrees. Wind or solar are just too intermittent and "the size of the battery you would need to build next to a data center in order to support these workloads is enormous and it would be incredibly expensive."
+Given the looming energy needs, paying to restart a plant like Three Mile Island seems like a bargain for a company like Microsoft.
+"You're talking about data centers that are very power intensive, 24 hours a day, seven days a week independent of whether the sun is shining or the wind is blowing," says Hanson, who is trained as a nuclear engineer. "It's a perfect match for nuclear energy."
+Hanson says that Constellation will have the plant, which has been renamed the Crane Clean Energy Center, up and running by 2028.
+The nuclear doldrums
+If tech needs the nuclear industry, then the nuclear industry may need tech even more.
+"For several decades there were no nuclear power projects underway," says Edwin Lyman, who tracks the industry for the Union of Concerned Scientists.
+Only two power reactors have actually gotten built in the U.S. in recent years and they were billions over budget and way behind schedule. "The ultimate cost was more than twice the original estimate and the time it took to bring the reactors into service was twice as long as originally projected," Lyman says.
+Meanwhile, the existing fleet of nuclear plants has struggled to keep up with less expensive natural gas and renewables. In fact, that's why Three Mile Island had to close in the first place. "Power prices started declining, and nuclear plants, which are intensive operations to run, became uneconomical," Hanson says. "We owed it to our shareholders to make that difficult decision."
+The Microsoft commitment has caused a turnaround. Hanson is now scrambling to recruit employees, check old equipment, and work with regulators to get the plant up and running again. "Microsoft has purchased the power of this unit for the next 20 years, that gives us the financial certainty to invest our money," he says.
+Smaller is better
+Restarting old plants is a limited solution, though, because there simply aren't that many old plants in the U.S. awaiting a fresh influx of cash. To meet future demand, tech is looking to build new nuclear power plants, and those reactors will look very different than the old ones.
+In a commercial office park outside Washington DC, a company called X-energy is promising a new kind of nuclear power.
+"X-energy has developed a design very different from what most people think about in terms of very large, conventional nuclear power plants," says Clay Sell, the company's CEO.
+Instead of using rods filled with nuclear fuel, X-energy's plant will run off of little balls of uranium. "We put it in a round pebble, about the size of cue ball, and we fill the reactor core with these pebbles and they flow through the core like gumballs in a gumball machine," he says.
+Sell says the reactors will be smaller and modular, with several units powering a data center. And crucially, he says, this system has one big advantage.
+"The plant cannot melt down under any scenario that you can imagine," he says.
+In the past, companies like X-energy would have struggled to find someone willing to buy their design, but not anymore. Earlier this year, Amazon invested more than $250 million in the company, as part of a $500 million round of venture investment. Other small reactor companies have received interest as well. Open AI CEO Sam Altman has invested heavily in a company called Oklo, and Google has committed to buying power from a company called Kairos. Earlier this month, Meta announced it would also be seeking to partner with nuclear power companies.
+"Nuclear is not only one of the few solutions, it's clearly the best… and I think the tech companies have come to that conclusion, over the last two to three years," Sell says.
+X-energy says its first reactor could come online as soon as 2030, but its design still needs approval from the Nuclear Regulatory Commission.
+That process takes time, and AI needs power now. Some longtime nuclear skeptics wonder whether Silicon Valley executives really understand what they're getting into.
+"These are champions of innovation who believe they can disrupt any technology," says Lyman. But "nuclear power is a tough nut to crack."
+Squassoni worries that nuclear power simply isn't the right fit for fighting climate change.
+"You need the biggest bang for the buck in the shortest amount of time, and nuclear is not that," she warns. "If that's where you're putting your money, you're consigning us to severe climate change."
+She says until these plants are running, many AI data centers will have to operate using natural gas.
+Squassoni says she thinks the slow nuclear industry just won't be able to catch up with speedy Silicon Valley, and if it can't, there's going to have to be a different solution. "I don't know," she muses. "Maybe the answer is just to use less AI."
+Copyright 2025 NPR

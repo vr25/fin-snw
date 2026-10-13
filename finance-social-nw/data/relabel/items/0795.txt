@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The EU has opened investigations into three of the world’s biggest tech firms over concerns about anti-competitive practices.
+Apple, Google parent firm Alphabet, and Meta – the owner of Facebook, WhatsApp and Instagram – are each being investigated over non-compliance with the European Union’s Digital Markets Act (DMA).
+The rules, which were introduced in 2022 and came into full effect earlier this month, aim to enhance choice for consumers and stop the largest tech platforms from creating or maintaining monopolies across different areas.
+Companies found in breach of the rules face fines of up to 10% of their annual turnover – potentially billions of dollars for the biggest firms.
+Announcing the proceedings, the European Commission said it was investigating Apple and Google over so-called “steering rules” on their app stores and whether the two firms were doing enough to steer consumers to offers outside of their own stores free of charge – something which is required under the DMA.
+The Commission said it was also investigating Alphabet over concerns it was preferencing its own services in search results, and whether Apple made it easy enough for consumers to switch to non-Apple software or services – such as internet browsers – on Apple devices.
+Facebook parent firm Meta, meanwhile, is under scrutiny over its scheme which asks people to pay to avoid their data being used for adverts.
+The Commission said it expects its investigation to take around a year to complete.
+EU competition policy lead Margrethe Vestager said: “Today, the Commission opens five non-compliance investigations under the Digital Markets Act (DMA).
+“They concern Alphabet’s rules on steering in Google Play and self-preferencing in Google Search, Apple’s rules on steering in the App Store and on choosing browsers and changing defaults, and Meta’s ‘pay or consent model’.
+“We suspect that the suggested solutions put forward by the three companies do not fully comply with the DMA.
+“We will now investigate the companies’ compliance with the DMA, to ensure open and contestable digital markets in Europe.”
+The new investigation comes just weeks after the EU fined Apple 1.8 billion euro (£1.5 billion) for breaching competition law in the music streaming sector.
+And last week, the US Justice Department announced it was launching a landmark lawsuit against Apple, accusing it of monopolising the smartphone market with its policies.
+Thierry Breton, The EU’s commissioner for the internal market said: “he Digital Markets Act became applicable on March 7.
+“We have been in discussions with gatekeepers for months to help them adapt, and we can already see changes happening on the market.
+“But we are not convinced that the solutions by Alphabet, Apple and Meta respect their obligations for a fairer and more open digital space for European citizens and businesses.
+“Should our investigation conclude that there is lack of full compliance with the DMA, gatekeepers could face heavy fines.”

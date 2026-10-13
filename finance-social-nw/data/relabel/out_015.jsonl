@@ -1,0 +1,20 @@
+{"id": "0300", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "In the digital cold war between", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0301", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Global tech services and consulting", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0302", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Malaysia to Take Legal Action Against", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "0303", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Buying Renewable Energy Doesn't Mean", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0304", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Microsoft evaluated a takeover of", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0305", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Oil rose more than 1% after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0306", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Heritage Minister Pablo Rodriguez speaks", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0307", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0308", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "According to Insider's report, Google", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0309", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Oil rose more than 1% after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0310", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Googles said on Thursday that", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0311", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Apple's Vision Pro brought a", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0312", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "2023 started with a buzz", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0313", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "2023 started with a buzz", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0314", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "2023 started with a buzz", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0315", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Samsung Galaxy Z Fold 4", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0316", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "July 5 (Reuters) - Telecom", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "0317", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Why Risk-Averse Investors Are", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0318", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "IF there are any sane", "relation": "co-hype", "sentiment_alignment": -1}
+{"id": "0319", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "The Jerusalem Municipality has granted", "relation": "unrelated-mention", "sentiment_alignment": 0}

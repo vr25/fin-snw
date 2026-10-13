@@ -1,0 +1,20 @@
+{"id": "0000", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "RT.com", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0001", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "SOON you may notice something", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0002", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "TORONTO, ON / ACCESSWIRE / November", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0003", "ticker_a": "META", "ticker_b": "PLTR", "first_words": "ACCESS Newswire", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0004", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ANI PR Wire", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0005", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Facebook parent Meta predicted", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0006", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Several large U.S. corporations", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0007", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "NEW DELHI: Meta Platforms", "relation": "co-hype", "sentiment_alignment": -1.0}
+{"id": "0008", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "DUBLIN, Nov. 10, 2022", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "0009", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "EDGELEY, N.D. — A smoldering", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0010", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Updated November 16, 2022", "relation": "co-hype", "sentiment_alignment": -1.0}
+{"id": "0011", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Ahana commits to the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0012", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ALEX BRUMMER: Britain's stable", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0013", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "There's no denying how", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0014", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Bobby Allyn", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0015", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Global Digital Health Market", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0016", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "A malicious extension for", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0017", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Editorial Roundup: United States", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0018", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "PlayStation 5 deal tracker", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0019", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Warum wird diese Seite", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

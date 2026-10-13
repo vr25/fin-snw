@@ -1,0 +1,41 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+For more than a decade, the idea of American decline has hardened into a familiar refrain. Polarised politics, institutional strain and a relentless cycle of domestic crises have made it easy to assume that US power is ebbing, particularly when measured against a supposedly rising China and a cohort of wealthy democratic allies. Yet when the economic data are examined alongside comparable figures from the G7 and other advanced economies, the picture looks far less straightforward.
+The United States remains an outlier among rich nations: not free of problems, but unusually resilient in output, productivity and wealth creation. That resilience becomes most visible when America is viewed not in isolation, but relative to its peers.
+  'Trump Isolating America': Jeffrey Sachsâ Blistering Breakdown of Global Power Shifts | BRICS | G7
+Share of the world economy: stability where others have slipped 
+In 1990, the United States accounted for roughly 26 percent of global gross domestic product. More than three decades later, and after repeated predictions of Chinaâs inevitable overtaking, the US share remains virtually unchanged at about 25.9 percent, assuming Beijingâs own growth figures are accurate. That consistency matters because the global economy is far larger today than it was at the end of the Cold War, with US output alone reaching an estimated $30.62 trillion in 2025.
+The contrast with Americaâs closest allies is stark. When the Cold War ended, Britain, France, Italy, Japan and Canada together represented around 32 percent of global GDP. 
+Today, that combined share has fallen to below 14 percent. This relative contraction reflects weaker productivity growth, demographic pressure and prolonged underinvestment, particularly in Europe and Japan.
+At a more granular level, per-capita comparisons underline the divergence. Using 
+data
+ from the 
+International Monetary Fund
+, the US Bureau of Economic Analysis and the Census Bureau, Mississippi, the poorest US state by GDP per capita, now outperforms four G7 countries on the same measure, while West Virginia with the second-lowest per capita GDP surpasses all six non-US G7 members. Since 2020, US GDP per capita has risen by roughly $20,000, a gain no other G7 economy has matched even over much longer periods.
+Productivity and competitiveness: the transatlantic gap 
+Productivity has been a decisive factor in this widening gap. The United States has outpaced the rest of the G7 in productivity growth, both nationally and at state level, driven by technology adoption, capital depth and labour mobility. Europeâs struggle to keep up has been formally acknowledged at the highest levels.
+Mario Draghiâs 2024 report on European competitiveness
+, commissioned by the European Commission, warned that Europe is losing ground to the US and China in productivity, innovation and technological scale. Without EU-wide industrial policy, deeper capital-market integration, large-scale joint investment in digital and green technologies, and a break from what Draghi called a âsmall-state mentalityâ, he argued the continent faces a âslow agonyâ: weaker growth, declining industrial capacity, falling global influence and a shrinking ability to fund social and strategic priorities over time.
+Wealth concentration and capital formation 
+The resilience of the US economy is also reflected in the accumulation of private wealth. According to 
+Altrataâs World Ultra Wealth Report 2025
+, the United States now houses 38 percent of the worldâs ultra-high-net-worth population, individuals worth more than $30 million, a larger share than the next ten countries combined. In absolute terms, 192,470 Americans control approximately $22.3 trillion in private wealth.
+Also read: 
+Why America keeps winning the billionaire game
+The pace of accumulation has accelerated rather than slowed. Altrata reports that the number of ultra-wealthy Americans rose by 21 percent in the past year alone. China, the nearest competitor, holds about $5.9 trillion across 54,020 individuals, a fraction of the US total. Germany, the United Kingdom, Japan, Hong Kong, Canada, France, Italy and India all trail at a considerable distance.
+This concentration is not confined to inherited fortunes. The United States continues to generate new wealth through entrepreneurship at a scale unmatched elsewhere, a dynamic reinforced by deregulation, tax incentives for the wealthy, and an extraordinarily dynamic stock market that has allowed Americaâs richest to continue compounding their gains. Of the worldâs five richest individuals, 
+Elon Musk
+, Larry Ellison, 
+Mark Zuckerberg
+, Jeff Bezos and Larry Page, all are American and all built fortunes rooted in technology platforms that reshaped entire industries. Their companies function as capital-generating ecosystems, reinforcing US dominance in finance, innovation and market depth.
+Altrataâs 
+Billionaire Census 2025
+ adds another layer. North Americaâs billionaire population rose by 7.8 percent last year to 1,198 individuals, of whom 1,135 are American. Their combined wealth now exceeds $13 trillion, more than the market capitalisation of Apple, Microsoft and NVIDIA combined.
+Why others have struggled to keep up
+By comparison, wealth creation elsewhere has faced structural constraints. Chinaâs ultra-wealth population has continued to grow, but at a slowing pace, as tighter state control and trade restrictions weigh on its technology sector. Europe crossed the symbolic threshold of 1,000 billionaires for the first time, yet its growth remains more cautious and institutional, with less tolerance for the volatility that characterises US capitalism.
+That volatility, often criticised by regulators abroad, has proved central to American dynamism. The same conditions that unsettle other economies, rapid technological change, market swings, aggressive capital reallocation, have allowed the US to adapt quickly and continue generating new entrants at the top end of the wealth spectrum. In 2024 alone, Altrata found that 10 percent of individuals globally worth between $1 billion and $2 billion dropped below that threshold, yet in the US new billionaires replaced them almost immediately.
+A different kind of imbalance
+None of this negates Americaâs challenges. Income inequality remains the highest in the G7, infrastructure investment has lagged, and healthcare costs remain structurally high. Public finances are under sustained strain: the US closed fiscal year 2025 with a federal deficit of roughly $1.8 trillion, only marginally lower than the previous year, adding to an already elevated debt burden. The economy also relies heavily on buoyant equity markets and continued investment in artificial intelligence, both of which remain vulnerable to shifts in sentiment and capital flows.
+But measured against its peers, the United States has not drifted into economic marginality. Instead, it has pulled further ahead at a time when many allies have struggled to adapt. Strong allies once amplified American power. Today, the imbalance runs the other way.
+Predictions of American decline tend to focus inward, drawing conclusions from political dysfunction alone. A comparative view, grounded in output, productivity and wealth, suggests something more complex: a country whose internal problems coexist with an economic position that remains, by global standards, unusually strong.

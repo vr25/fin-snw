@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Shares of Google parent Alphabet (GOOG, GOOGL) rose in early trading Thursday, after it reported better-than-expected earnings after the bell on Wednesday on the strength of its advertising and cloud businesses.
+"AI is positively impacting every part of the business, driving strong momentum," CEO Sundar Pichai said in a statement.
+Alphabet shares rose more than 1%. The stock has risen around 0.5% this year, compared with a gain of over 8% for the S&P 500 (^GSPC).
+"Search delivered double-digit revenue growth, and our new features, like AI Overviews and AI Mode, are performing well," he added. "We continue to see strong performance in YouTube as well as subscriptions offerings. And Cloud had strong growth in revenues, backlog, and profitability. Its annual revenue run-rate is now more than $50 billion."
+But the company said capital expenditures will climb to $85 billion. Google previously projected $75 billion.
+For the quarter, Google saw adjusted earnings per share (EPS) of $2.31 on revenue excluding traffic acquisition costs (TAC) of $81.7 billion. Analysts were anticipating adj. EPS of $2.17 on revenue ex-TAC of $79.6 billion. The company posted revenue of $71.3 billion during the same period last year.
+Advertising revenue came in at $71.3 billion versus expectations of $69.6 billion. Search revenue topped out at $54.1 billion versus an anticipated $52.7 billion. YouTube ad revenue was $9.8 billion versus expectations of $9.5 billion.
+Google Cloud Platform revenue hit $13.6 billion. Analysts were looking for $13.1 billion.
+Read more: Live coverage of corporate earnings
+Google, like its other Big Tech peers, continues to splash huge amounts of cash on its AI buildout. This year, the company is expected to drop $75 billion expanding its AI capabilities, including on massive data centers running on both its own home-grown chips and Nvidia's processors.
+Google is also facing potentially devastating consequences from a judge's decision that held it liable for antitrust violations in search. Judge Amit Mehta of the US District Court for the District of Columbia is expected to issue a ruling on "remedies" that follows the Justice Department's victory against the company sometime next month.
+Judge Mehta held that Google violated antitrust law by boxing out rivals in the online search engine and online search text markets. To restore competition, he could order Google to refrain from longstanding exclusivity deals with the likes of Apple (AAPL) that set Google Search as the default option on the company's smartphones.

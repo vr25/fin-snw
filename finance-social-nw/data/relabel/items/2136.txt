@@ -1,0 +1,14 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+BlackRock is laying off 200 employees, which comes to just under 1% of its workforce. This comes after the firm made cuts three times in the past 18 months. These measured cuts have reportedly helped redefine the company culture, adding several acquisitions to the mix in the past few years.
+These cuts span different roles as diverse as investment, operations and technology. It also includes jobs from the firm’s private financing arm, bolstered just a year ago with the $12 billion purchase of HPS Investment Partners — its biggest acquisition in private credit.
+“The actions we are taking today are the ordinary discipline of a continuously evolving organization,” a spokesperson for the firm said. The asset manager is always reviewing staffing across its businesses to best serve its clients, the spokesperson added.
+Read: Robinhood lays off 10% workforce to streamline operations despite booming growth
+(June 17, 2026)
+BlackRock resumed job reductions in 2023 after pausing layoffs during the pandemic period. Two separate rounds of layoffs were conducted last year, each reducing headcount by about 1%, as per Bloomberg.
+This comes as an increasing number of companies are trimming their workforce, often citing AI as a reason. BlackRock CEO Larry Fink recently commented on AI, saying that the rapid pace of AI adoption is reshaping entry-level roles that traditionally served as the first step for young professionals.
+“The speed at which AI is changing, we’re not adapting our society fast enough,” Fink had said. He also mentioned that the technology is also generating opportunities. “AI is going to create many jobs and we’re not prepared as a society to fulfill those jobs. And to me, this is a crisis,” he said.
+Read: eBay layoffs coincide with new H-1B hiring (June 16, 2026)
+Fink pushed back against the idea that college is obsolete, noting his own journey from a political science degree at UCLA to an MBA and eventually building BlackRock into the world’s largest asset manager. However, he argued that the college-to-career pipeline is no longer universal, and that multiple pathways — including skilled trades — will be essential in the AI-driven economy.
+BlackRock had recently committed $100 million to skilled-trade programs, aiming to train 50,000 workers over the next five years in partnership with nonprofits and workforce development organizations. The company had also made major investments in AI infrastructure, including leading a consortium with Microsoft and Nvidia to acquire Aligned Data Centers for $40 billion last year.

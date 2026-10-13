@@ -1,0 +1,12 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+SAN FRANCISCO (AP) — OpenAI said Monday it is working with chipmaker Broadcom to design its own artificial intelligence computer chips.
+The two California companies didn’t disclose the financial terms of the deal but said they will start deploying the new racks of customized “AI accelerators” late next year.
+It’s the latest big deal between OpenAI, maker of ChatGPT, and the companies building the chips and data centers required to power AI.
+OpenAI in recent weeks has announced partnerships with chipmakers Nvidia and AMD that will supply the AI startup with specialized chips for running its AI systems. OpenAI has also made big deals with Oracle, CoreWeave and other companies developing the data centers where those chips are housed.
+Many of the deals rely on circular financing, in which the companies are both investing in OpenAI and supplying the world’s most valuable startup with technology, fueling concerns about an AI bubble. OpenAI doesn’t yet turn a profit but says its flagship chatbot now has more than 800 million weekly users.
+OpenAI CEO Sam Altman said the work to develop a custom chip began more than a year ago.
+“Developing our own accelerators adds to the broader ecosystem of partners all building the capacity required to push the frontier of AI to provide benefits to all humanity,” he said in a statement.
+Broadcom shares surged more than 9% on Monday after the morning announcement.
+Broadcom CEO Hock Tan said in a statement that “we are thrilled to co-develop and deploy 10 gigawatts of next generation accelerators and network systems to pave the way for the future of AI.”

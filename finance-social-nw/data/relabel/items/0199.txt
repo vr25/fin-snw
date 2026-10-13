@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The U.S. dollar declined against its major counterparts in the European session on Wednesday, as better-than-expected earnings reports from tech giants Microsoft and Alphabet lifted risk sentiment.
+Microsoft announced that its earnings rose to $18.3 billion or $2.45 per share in the third quarter from $16.7 billion or $2.22 per share in the same period last year.
+Google parent Alphabet reported first-quarter results that beat analysts' estimates.
+Data from the Commerce Department showed that U.S. durable goods orders surged much more than expected in March amid a substantial rebound in orders for transportation equipment.
+The report said durable goods orders spiked by 3.2 percent in March after tumbling by a revised 1.2 percent in February.
+Economists had expected durable goods orders to climb by 0.8 percent compared to the 1.0 percent slump that had been reported for the previous month.
+The greenback dropped to more than a 1-year low of 1.1095 against the euro and more than a 2-year low of 0.8851 against the franc, off its early highs of 1.0966 and 0.8925, respectively. The greenback is seen finding support around 1.12 against the euro and 0.87 against the franc.
+The greenback touched 1.2514 against the pound and 133.08 against the yen, setting nearly 2-week lows. The next possible support for the greenback is seen around 1.27 against the pound and 130.00 against the yen.
+The greenback eased to 1.3608 against the loonie, from an early high of 1.3642. If the greenback slides again, it may find support around the 1.33 area.
+In contrast, the greenback climbed against the aussie and the kiwi, reaching a multi-week high of 0.6595 and a 1-1/2-month high of 0.6120, respectively. The currency is seen finding resistance around 0.64 against the aussie and 0.60 against the kiwi.
+For comments and feedback contact: editorial@rttnews.com
+Business News
+September 25, 2026 15:58 ET Unemployment claims data and new home sales figures were the highlights from the U.S. during a week that was light on economic news. In Europe, the latest policy announcement by the Swiss central bank gained attention along with a key business confidence survey in Germany and the purchasing managers’ study in the U.K.

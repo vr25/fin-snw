@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Better Business Bureau warns holiday shoppers of rise in fake retail websites
+BIRMINGHAM, Ala. (WBRC) - As holiday shopping ramps up, the Better Business Bureau of Birmingham is urging consumers to slow down before clicking “buy now,” warning that scammers are targeting bargain hunters through fake retail websites.
+The organization says scammers are creating convincing copycat websites designed to look like well-known retailers. These sites often advertise steep discounts on popular items — deals that appear too good to pass up and are frequently promoted through social media ads.
+The Better Business Bureau says many of these fake sites closely resemble legitimate retailers, making them difficult to spot at first glance. Small details, however, can signal trouble. One of the biggest red flags is the website’s URL, which may include misspellings or subtle changes in the name. In some cases, the site may also be missing “https” at the beginning of the web address, an indicator of a secure connection.
+The BBB warns these scams are not just about taking money but can also involve identity theft, as scammers collect personal and financial information entered during checkout.
+Bates said the BBB continues to receive reports from consumers who believe they are shopping with trusted brands, only to later discover their purchase never arrives and the website disappears.
+“You’re ordering, you think, from Target or JCPenney or Walmart, and your order is going nowhere,” Bates said. “It’s going to a scammer in some foreign country. They were on Facebook, and we saw something we wanted. It was 75% off, and I couldn’t find it anywhere else. I hit ‘buy now,’ and all of a sudden all my information has gone to a scammer. Now when I go to check on it, that website — the scammer’s website — is gone. I’ve been ghosted.”
+The Better Business Bureau recommends shoppers use major credit cards instead of debit cards when shopping online. Credit cards often offer stronger fraud protections, making it easier to dispute unauthorized charges, while debit card transactions may be harder to recover once the money is gone.
+The BBB encourages consumers to research retailers, question steep discounts and carefully review website details before entering payment information — steps that could help prevent holiday shopping regret.
+Get news alerts in the Apple App Store and Google Play Store or subscribe to our email newsletter here.
+Copyright 2025 WBRC. All rights reserved.

@@ -1,0 +1,11 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has rolled out illustrations in Google Contacts for Android.
+Earlier, Google rolled out Google Illustrations for Gmail in September 2021. Google Illustrations lets its users create a custom display or profile picture for contacts.
+When the feature was launched, it allowed users to create a personalised Google profile photo for the account.
+For Google Contact, one can set custom Google Illustrations on the contact edit page in Android smartphones. When setting a profile picture for Google Contacts, “Illustrations” will appear as the first tab next to “Google Photos” and “Device photos”.
+Google Illustrations comes with a huge collection of illustrations ranging from animals, cities, places, food, hobbies, interests, nature, sports, and recreation.
+Once an illustration is selected, there is an option for Quick Crops for the perfect fit to the profile picture.
+More Like This
+Published on December 27, 2022

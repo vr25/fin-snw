@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+(Bloomberg) -- ByteDance Ltd.'s TikTok is "on track" with its undertaking to have all US user data hosted and overseen by Oracle Corp., as the Chinese tech behemoth struggles to win over critics worried about the national security implications of its hit video app.
+Most Read from Bloomberg
+TikTok Chief Executive Officer Shou Zi Chew said the American software company has begun a review of TikTok's source code and is now the default destination for US user data. His team is also developing a European version of this local-hosting initiative, designed to allay fears of sensitive information reaching the Chinese government, with data centers in Ireland and Norway.
+"The Chinese government has actually never asked us for US user data, and we will not provide it even if asked," the executive, who goes by Shou Chew in the US, told Bloomberg Television at the Qatar Economic Forum in Doha on Tuesday. "We will continue to invest to make sure that our data is as safe as possible."
+Read more: TikTok Will 'Soon' Grant Oracle Full Access to Code, Algorithm
+TikTok has come under fire as American lawmakers rekindled concerns over how the Chinese-owned platform handles user data. ByteDance, the world's most valuable startup, now faces an intensive national security review and legislation that could ban its signature service in its biggest international market. To address those concerns, TikTok is developing its US and EU projects to have user information stored locally, by a local company, and overseen by local staff.
+In March, Chew sat through a grueling five-hour hearing at Capitol Hill where lawmakers repeatedly questioned him about TikTok's Chinese ownership and Beijing's ability to access the data of millions of Americans. TikTok executives had internally discussed splitting from ByteDance, but Chinese officials said they would oppose a forced sale.
+On Tuesday, the TikTok chief reiterated that his team is working with Oracle and the US government and making progress.
+TikTok's 150 million American users appear to be its biggest ally. Last week, Montana's Republican governor, Greg Gianforte, signed a measure that will prohibit the app's download beginning next year. Local TikTok creators and viewers protested against the first statewide ban of the app in the US, including by suing their government on First Amendment grounds.

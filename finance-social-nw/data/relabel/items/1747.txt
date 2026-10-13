@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+OpenAI is partnering with Taiwan's Foxconn, the world's largest contract electronics manufacturer, to design and build artificial intelligence data center components in the U.S., the AI startup's latest announcement tied to its massive infrastructure development plans.
+While no financial terms were disclosed, OpenAI said in Thursday's announcement that it will have early access to evaluate the systems Foxconn produces, and the option to purchase them. The companies said the goal is to accelerate the deployment of infrastructure while securing long-term U.S. capacity.
+Under the agreement, OpenAI and Foxconn will co-develop multiple generations of AI servers in parallel, while manufacturing core components like power, networking, and cooling systems at Foxconn's U.S. facilities. The company's website says it has factories in Wisconsin, Ohio, Texas, Virginia and Indiana.
+"This partnership is a step toward ensuring the core technologies of the AI era are built here," OpenAI CEO Sam Altman said in a statement, calling AI infrastructure a "generational opportunity to reindustrialize America."
+OpenAI has been on a dealmaking blitz of late with many of the world's largest technology companies, and has announced spending commitments of roughly $1.4 trillion, raising concerns about whether the startup will ever generate enough profit to justify those investments. Altman said earlier this month that the company will hit $20 billion in annualized revenue by the end of this year and hundreds of billions by 2030.
+Prior deals include a $100 billion announced — but unfinalized — agreement with Nvidia for the chipmaker to invest in OpenAI in phases as the company builds out infrastructure. OpenAI also has cloud partnerships with Microsoft, Google and Amazon and hefty compute buildout commitments with Oracle.
+Foxconn adds a manufacturing layer, further localizing OpenAI's supply chain and potentially speeding the pace of deployment. The company is best known for assembling Apple's iPhones but has expanded into AI and automotive manufacturing. It builds server racks tailored for AI workloads and is a key global supplier to Nvidia, the dominant player in high-end AI chips.
+"Foxconn is uniquely positioned to support OpenAI's mission with trusted, scalable infrastructure," said Chairman Young Liu.
+But the company has a checkered history in the U.S. In 2018, Foxconn broke ground on what was supposed to be a massive factory in Wisconsin for making flat-panel displays. That project was a failure, and is now the site of an AI data center being built by Microsoft.
+WATCH: Anthropic adds $50 billion to AI's mounting debt pile with new U.S. data-center push

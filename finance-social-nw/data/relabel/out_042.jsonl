@@ -1,0 +1,20 @@
+{"id": "0840", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "San Francisco's Public Utilities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0841", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Dow Jones futures, along", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0842", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A former Twitter executive", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0843", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Followed by a(n alleged)", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0844", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "AsianScientist (May. 01, 2024)", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0845", "ticker_a": "AMD", "ticker_b": "SMCI", "first_words": "NEW YORK, May 1 —", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0846", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0847", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0848", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0849", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0850", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0851", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Weekend Edition Energy & Commodities", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0852", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US stocks close solidly", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0853", "ticker_a": "MSFT", "ticker_b": "SMCI", "first_words": "US stocks close solidly", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0854", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "US stocks close solidly", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0855", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "- Natural gas producers are", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0856", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Twitter co-founder Jack Dorsey", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0857", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Datadog (DDOG +4.36%)", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0858", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google has introduced a", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0859", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Classic Eatery Crystal", "relation": "unrelated-mention", "sentiment_alignment": 0}

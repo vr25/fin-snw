@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+- Asian semiconductor-related stocks mostly slumped on Thursday after Nvidia reported an earnings forecast that failed to meet the lofty expectations of some investors.
+- While Nvidia's third-quarter results exceeded analysts' expectations and delivered a strong forecast for the current quarter, its shares still shed 2.5% in extended trading to roughly $142.20 apiece.
+- "No matter how good the company does ... if the guide is anything less than the high end of the whisper, you will probably see some selling pressure," Daniel Newman, CEO at the Futurum Group, told CNBC's "Squawk Box Asia."
+Asian semiconductor-related stocks mostly slumped on Thursday after Nvidia reported an earnings forecast that failed to meet the lofty expectations of some investors.
+Watch NBC 5 free wherever you are
+While Nvidia's third-quarter results exceeded analysts' expectations and delivered a strong forecast for the current quarter, its shares still shed 2.5% in extended trading to roughly $142.20 apiece.
+"No matter how good the company does ... if the guide is anything less than the high end of the whisper, you will probably see some selling pressure," Daniel Newman, CEO at the Futurum Group, told CNBC's "Squawk Box Asia" following the report.
+Create a free account with NBC 5 DFW to save articles and videos.
+The sentiment has spilled over to Asia, with stocks tied to Nvidia suppliers as well as other chip companies mostly falling.
+Selloff in Asia
+Semiconductor testing equipment supplier Advantest, which counts Nvidia among its clients, dropped as much as 5.6% on Thursday, the largest chip loser on Japan's benchmark Nikkei 225.
+Japanese technology conglomerate Softbank saw shares tumble over 1.5%. The Group owns a stake in chip designer Arm, which provides circuit designs called architecture to Nvidia.
+Taiwan Semiconductor Manufacturing Corp, which manufacturers Nvidia's high-performance graphics processing units, slipped as much as 1.5%.
+Taiwan's Hon Hai Precision Industry, known internationally as Foxconn, was down as much as 1.9%.
+The company has been a key supplier to Nvidia and is building the world's largest manufacturing facility in Mexico for assembling Nvidia's GB200 superchips, a key component of its next-generation Blackwell family computing platform.
+In South Korea, SK Hynix started the day with gains before reversing to trade around 2% lower. It supplies high-bandwidth memory chips to Nvidia for its AI applications.
+Samsung Electronics defied the trend, gaining 0.9%. It was reportedly in the process of obtaining certification to supply its advanced HBM chips to Nvidia.
+Conservative guidance
+During the quarter that ended on Oct. 27, Nvidia's revenue rose 94% on an annual basis to $35.08 billion, outpacing analysts' expectation of $33.16 billion. However that marked a consecutive slowdown from the previous three quarters when sales rose 122%, 262% and 265%, respectively.
+Net income during the quarter rose 109% from a year ago to $19.3 billion.
+The leading maker of AI chips said it expects about $37.5 billion in current-quarter revenue, plus or minus 2%. That forecast, while beating LSEG analysts' expectation of $37.08 billion, implies year-over-year growth of about 70% — a drastic slowdown from 265% annual growth in the same period a year ago.
+"Growth is slowing down, though from staggering numbers," said Anwiti Bahuguna, chief investment officer of global asset allocation at Northern Trust Asset Management.
+She noted that investors' expectations were partly buoyed by the strong earnings season in the U.S.
+As the primary beneficiary of the ongoing AI boom, Nvidia has dazzled Wall Street. Many of its biggest customers, such as Microsoft, Alphabet, Amazon and Meta Platforms, have pledged, in their respective earnings reports, to ramp up spending for AI-related investment in the year ahead.
+"None of these companies [are] going to fall behind in terms of the AI technology and that puts Nvidia in a really good position," Newman added.
+Nvidia shares nearly tripled in value this year, making it the world's most valuable publicly-traded company.

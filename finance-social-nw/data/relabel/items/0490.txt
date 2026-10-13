@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Login | September 28, 2026
+The requested news story is not available
+Local
+The great American road trip, fueled by — and undercut by — the automobile that created it
+NASHVILLE, Tenn. (AP) — There's something about the American road trip.
+It has been memorialized in books like Jack Kerouac’s “On the Road” and satirized in movies like “National Lampoon’s Vacation."
+It primarily consists of hours upon hours of driving that should be boring — bu ... (full story)
+Sports
+Healthy foods that turn out not to be
+How many times have you gotten hoodwinked into eating a so-called “healthy” food, which after further inspection its healthful claims looked dubious at best?
+Yup, we’ve all experienced this dietary heartbreak. 
+So after years of being hoodwinked my girlfriend came to the rescue and taught me how to be a rab ... (full story)
+NFL international slate includes Melbourne, Rio and Paris. What to know about all 9 games abroad
+LONDON (AP) — The NFL will play a record nine games internationally this season and they include three cities hosting for the first time: Melbourne, Australia; Rio de Janeiro; and Paris.
+Jacksonville and San Francisco both play two games abroad: the Jaguars back-to-back in London; the 49ers in Melbourne and later in Mexico ... (full story)
+Across the US, 'Friday night lights' provide a sense of community — and, for some, a way out
+ALIQUIPPA, Pa. (AP) — The phone calls, all asking the same question, started coming long before the lights at “The Pit” flickered on for the first time this fall.
+“When will the senior citizen passes be available?” Aliquippa High athletic director Jennifer Damico’s office heard more than once ... (full story)
+State
+New warnings about the risks of AI to humanity revive a long-running debate
+LOS ANGELES (AP) — New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity’s survival, and whether the companies developing the technology are doing enough to prevent such a scenario.
+The CEO ... (full story)
+Anthropic says it blocked misuse of its AI that could have supported biological weapons
+Anthropic said Sept. 10 it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to biological weapons.
+As AI models grow more powerful, elaborate cyberattacks no longer require sophisticated skills and even lone ind ... (full story)
+In an age of instant answers, educators say there's a case for letting kids struggle a little
+When children forget their lunch, can't solve a math problem or don't know how to get somewhere, the instinct for parents can be to step in immediately. But sometimes, the problem is an opportunity.
+Developmental experts and educators say children need chances to struggle with everyday problems because figuring them out is a ski ... (full story)

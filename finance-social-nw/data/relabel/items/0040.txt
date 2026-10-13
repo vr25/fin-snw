@@ -1,0 +1,4 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+December 28 (SeeNews) - Romanian IT group Bittnet Systems [BSE:BNET] said that it has raised 1.96 million euro ($2 million) through a private placement of a bond issue on the main market of the Bucharest Stock Exchange (BVB).

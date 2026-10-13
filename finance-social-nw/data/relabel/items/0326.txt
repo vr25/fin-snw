@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Meta’s stock increased nearly 4% last week – reaching its highest share price in 18 months – following the launch of the company’s Instagram Threads, dubbed the “Twitter Killer” app.
+A new finding by UK financial services provider CMC Markets reveals that online interest in the term “Buy Meta stock” has exploded worldwide by 390% in the past seven days, rivalling its competition Twitter which has suffered recent backlash for limiting the number of tweets. Other increasing search terms include “How to download threads”, which has a 152% increase; and “Download threads” which has a 154% increase.
+Searches for “Twitter vs Threads” received a 191% search increase, showing the public is interested in which platform is better.
+Perhaps this will further challenge Tesla’s number one position as the most Googled S&P 500 stock in the UK.
+The study also revealed the UK’s top five most Googled S&P 500 stocks.
+CMC Markets analysed Google data to establish the number of searches for each S&P 500 stock and its symbol in each UK area, determining which is the most popular.
+Coming in at number one is the electric car manufacturer Tesla (TSLA), with 260 180 Google searches a month on average in the UK. The American multinational automotive and clean energy company is headquartered in Austin, Texas, with Elon Musk as its MD. According to Tesla’s latest financial reports, the company’s current revenue is $86,03-billion, a $4,57-billion increase from 2022.
+Number two on the list is Meta (META), formally known as Facebook, with 84 310 searches a month on average and current revenue of $117,34-billion, $31,31-billion more than Tesla. The American multinational technology company has Mark Zuckerberg as the CEO and is based in Menlo Park, California. Business Insider claims that META’s CTO said that the leaders were spending most of their time on generative AI earlier this month.
+In third place is Nvidia (NVDA), which is searched 58 250 times a month. Nvidia Corporation is one of the biggest developers of graphics processors and chipsets for personal computers and game consoles. As of 2023, Nvidia has just over 26 000 employees worldwide and has a revenue of $26,97-billion, a decrease of $1,59-billion from last year.
+Number four is Alphabet Google (GOOG), which is searched 35 840 times a month. The headquarters is in Mountain View in Silicon Valley, and Sundar Pichai is the company’s CEO. Google’s current revenue is $284,61-billion, a $1,78-billion increase from last year.
+Finally, the UK’s fifth most googled stock is Amazon (AMZN), with 27 720 times a month on average. The Jeff Bezos-founded company is led by Andy Jassy as CEO and has current revenue of $513,98-billion, which is larger than the combined revenues of the UK’s top four most googled companies.

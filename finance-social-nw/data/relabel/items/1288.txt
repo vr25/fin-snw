@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+PALM SPRINGS, CA -- AI and neural networks have changed
+the way the advertising industry will serve ads, as two parallel trends contribute to a scarcity of signals and ad supply, according to Andrew Casale, president and CEO of Index Exchange, a
+company that specializes in programmatic advertising.
+It will make 2025 the year of the sell side, he told MediaPost, because technology is allowing the sell side of the ad business to expand
+its role in advertising. 
+He explained the shift at the IAB ALM conference in Palm Desert, California. Publishers, ad servers, and supply-side platforms (SSPs) could become the shiny
+object in the advertising industry as artificial intelligence, large language models, and neural networks help to make that transition.
+Two trends are pushing the change. One focuses on
+challenges faced by Google, Apple and cookies. Signals are present at the time of an ad impression, but then they fade away shortly after, Casale said.
+advertisement
+advertisement
+The other trend centers on privacy and
+regulations as it becomes more difficult to comply with regulations, as well as obtain consent from consumers.
+These two trends are pushing more decisioning like whether to serve an ad to the
+sell side, and companies have just begun to recognize the shift.
+Google has explored ways to use AI in ad targeting. Casale said this thought process is very similar. “You don’t
+need cookies,” he said. “Neural networks are impressive. It’s kind of difficult to conceive, but a neural net can compute about 100 times the amount of data on a GPU as a CPU could
+before.”
+And advertisers are just waking up to these possibilities.
+"Advertisers pipe sales data through APIs to Meta and Google," he said. "That data shows the platforms
+everything they need to know about a sale, like who bought the product."
+Those types of answer weren't possible in the past, but now it can be done without asking the consumer for
+permission.
+"It turns advertising on its head," he said. 
+Over time, he said, the industry will break with the notion that impressions are a commodity. Different parts of the
+problem will be solved by partners.
+For example, yield in the market has been defined as the best bid. Any company willing to pay 1 cent more wins the bid. But what if that top bid was a lousy
+position for the brand, and it really should take the next highest bid because it would convert so much better. The brand would be able to see it and take it, despite it not being the highest bid.
+When asked to estimate the timing on the transition, Casale said, “this is the year. It’s happening now.”
+Casale views the Index Exchange as a proxy for the scale of
+the open internet because the company work with every publisher and channel for the exception of Facebook, Google and other walled gardens.
+He estimates that at about 500 billion requests
+daily. Normalizing that in one second, he estimated that at between 10 million and 11 million requests per second. Then he compared it with transactions from the credit card business Visa, which sees
+about 30,000 per second.
+“The exhaust from millions of data per second generates about 2 petabytes of metadata,” he said. “It is one of the largest datasets in the world. It
+will let the advertising business do thing execs have never thought it could do before.”

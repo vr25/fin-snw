@@ -1,0 +1,21 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+The technology sector has been the driving force behind much of the S&P 500's (^GSPC +0.51%)
+strong returns over the past several years, thanks mostly to artificial intelligence (AI) stocks. Tech companies of all shapes and sizes are betting that AI will transform their businesses and the services they offer, but not all of them will benefit equally.
+Here are three technology stocks likely to experience the biggest benefits over the next few years, thanks to their lead in their respective markets.
+1. Broadcom
+Broadcom (AVGO +0.70%) is an important semiconductor company in the AI space, but it recently received a spike in interest among investors after the company announced a new partnership with ChatGPT creator OpenAI.
+The multiyear deal will result in the two companies codeveloping AI accelerators, with OpenAI designing the chips and Broadcom deploying AI server racks and networking systems. The goal is for 10 gigawatts worth of the accelerators to be implemented by 2029.
+The deal could be worth up to multiple billions of dollars, according to The Wall Street Journal, and it comes at a time when the company is already firing on all cylinders. Broadcom's management said recently that its AI revenue will reach up to $90 billion annually by 2027, representing a 650% jump from 2024.
+NASDAQ: AVGO
+Key Data Points
+2. Nvidia
+Even with competition amid AI chip designers on the rise, Nvidia (NVDA +0.22%) still dominates the market and will likely continue to do so for years. At least 70% of artificial intelligence data centers use the company's GPUs, and that's led to massive sales and earnings growth for the company.
+For example, revenue was up by 56% in Q2 to $46.7 billion, and (adjusted) non-GAAP (generally accepted accounting principles) earnings rose by 54% to $1.05. It would seem logical to be a little skeptical that Nvidia could continue to benefit so much from AI, but that would require AI data center spending to plummet, which it's not at risk of doing right now. Nvidia's management estimates AI data center spending could go as high as $4 trillion over the next five years.
+NASDAQ: NVDA
+Key Data Points
+3. Taiwan Semiconductor
+Last, but certainly not least, is Taiwan Semiconductor Manufacturing (TSM -0.12%), also known as TSMC. The artificial intelligence boom over the past few years could not have happened without TSMC's advanced manufacturing. And as AI chip demand rises, TSMC will continue to benefit.
+That's because the company has an estimated 90% of the advanced chip manufacturing market, making the company the go-to choice for almost all artificial intelligence chip production. That's been a catalyst for the company's growth and its share price returns of 372% over the past three years.
+There could be more good times ahead for Taiwan Semiconductor investors as well, considering that management says the company's AI revenue is on track to double this year.

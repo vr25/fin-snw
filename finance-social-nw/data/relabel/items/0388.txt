@@ -1,0 +1,26 @@
+TICKER_A: AVGO
+TICKER_B: MSFT
+POST:
+Beyond cloud: theCUBE analyst panel assesses VMware’s journey toward next-gen innovation
+This week’s VMware Explore event featured the latest on emerging trends and strategic shifts within VMware Inc.’s ecosystem.
+As day two of three ended, theCUBE highlighted several key themes that are shaping VMware’s path forward: multicloud, supercloud and the challenges and opportunities that the tech company faces in a rapidly evolving landscape.
+“Engineering is the next hill to conquer, where that world is gonna be evolving and growing, where that community of users will dictate the standards,” said John Furrier (pictured, right), theCUBE industry analyst. “It’s been validated by pretty much everyone at VMware in their ecosystem. Platform engineering is the new DevOps layer operationally … that to me was the big top riff that came out of this VMware Explore this year.”
+Furrier spoke with his fellow analysts Lisa Martin (center) and Rob Strechay (left) as part of theCUBE ‘s Day 2 Insights panel at VMware Explore 2023, during an exclusive broadcast on theCUBE, SiliconANGLE Media’s livestreaming studio. They discussed the insights that shed light on VMware’s trajectory, its strategies to conquer new frontiers and the intriguing narrative of its transformation. (* Disclosure below.)
+Navigating the cloud landscape
+At the heart of VMware’s narrative is the concept of multicloud architecture. As major cloud giants such as Amazon Web Services Inc., Microsoft Corp. and Google LLC each assert its dominance, VMware’s neutral position is proving advantageous. And while the cloud giants exhibit varying levels of interest in multicloud, VMware stands uniquely positioned to provide an abstraction layer for this approach, according to Furrier. This layer, often referred to as the “supercloud,” represents a future operating model that prioritizes cohesion and action within the cloud environment.
+The shift toward multicloud and the supercloud concept is not only driven by technical aspects but also by customer demands. VMware’s core products, including vSphere and vSAN, are seen as the cash cows that support the company’s mission, according to theCUBE analysts. However, it’s the modern applications at the edge and the end-user experience that will ultimately derive the greatest benefit from VMware’s strategic direction.
+“I think the whole platform engineering thing, I’m actually surprised it hasn’t been more prevalent in a lot of what they’re talking about, because I think they’re trying to bring a lot of the pieces together,” Strechay said. “I think the theme of ecosystem has been big. Today we’ve spent a lot of time with ecosystem partners, and I think they’re leaning in on that.”
+The road ahead: Challenges and opportunities
+As VMware navigates its next chapter, challenges and opportunities have arisen. The impending acquisition by Broadcom Inc. adds a layer of uncertainty, prompting discussions about leadership, strategy and direction.
+Despite the closing of VMware’s chapter as an independent company, its legacy of pioneering virtualization remains significant. The impending transition is a critical moment, where decisions about personnel, research and development, and strategic vision will shape the company’s future.
+“Broadcom’s taking over and they’ve been saying what they’re gonna do from day one. Some people may not want to listened, but it’s gonna happen,” Furrier said. “The old VMware, this chapter is closing, and it’s a good one.”
+Here’s the complete video interview, part of SiliconANGLE’s and theCUBE’s coverage of VMware Explore 2023:
+(* Disclosure: This is an unsponsored editorial segment. However, theCUBE is a paid media partner for VMware Explore 2023. VMware and other sponsors of theCUBE’s event coverage do not have editorial control over content on theCUBE or SiliconANGLE.)
+Photo: SiliconANGLE
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

@@ -1,0 +1,12 @@
+{"id": "0233", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Are you seeking a relatively", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1993", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "SpaceX, the Elon Musk-owned", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1355", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Elon Musk's AI Start-Up and", "relation": "causal-driver", "sentiment_alignment": 0.9}
+{"id": "1716", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "OpenAI and Amazon.com Inc", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0404", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As a vice president at", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1681", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Chip giant Broadcom laid off", "relation": "causal-driver", "sentiment_alignment": -0.2}
+{"id": "0517", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "BBC - Israel must stop", "relation": "substitute-comparison", "sentiment_alignment": 0.9}
+{"id": "0382", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Deachman: If you're in Canada", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "0638", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia's valuation passed the", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0617", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "When I recently called a", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0601", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Glassdoor names the best places", "relation": "substitute-comparison", "sentiment_alignment": 0.7}
+{"id": "1960", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Shares of Netherlands-based AI cloud", "relation": "causal-driver", "sentiment_alignment": 0.9}

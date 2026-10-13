@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Lyft confirmed it would "significantly reduce" its headcount beginning next week, according to an email from CEO David Risher.
+- The layoffs come a week into Risher's tenure and were alluded to in a prior town hall meeting.
+- The Wall Street Journal reported that the layoffs would impact at least 1,200 employees, around 30% of the company's 4,000-person workforce.
+Ride-sharing app Lyft will lay off a significant number of employees one week into new CEO David Risher's tenure, the company announced Friday.
+Stream Los Angeles News for free, 24/7, wherever you are.
+A spokesperson for Lyft declined to comment on the specific number of cuts, but the Wall Street Journal reported that the company would lay off at least 1,200 workers, or around 30% of its 4,000-person workforce.
+"I'm confirming that we will significantly reduce the size of the team as part of a restructuring to focus on better meeting the needs of riders and drivers," Risher told Lyft employees in an email that was published on Lyft's blog. Risher's appointment was announced in March and went into effect April 17.
+Lyft stock was unchanged on the news. The company previously reduced its headcount in November, cutting 700 jobs, or about 13% of the workforce.
+"We need to be a faster, flatter company where everyone is closer to our riders and drivers so we can deliver on this purpose," Risher wrote on Friday.
+Risher, a former Amazon executive, told employees in a town hall a few weeks ago that layoffs were imminent.
+Lyft has struggled since its IPO in 2019 as its primary competitor Uber has remained ahead in terms of market share and market capitalization. Lyft debuted at $72 and now trades under $10.
+"David has made clear to the company that his focus is on creating a great and affordable experience for riders and improving drivers' earnings," a Lyft spokesperson told CNBC. "This is a hard decision and one we're not making lightly."
+Tech layoffs began in earnest late 2022, and have continued into the new year. Earlier this week, Meta implemented a previously announced round of cuts. Amazon, Google, Microsoft and many other tech companies have collectively laid off over 172,000 employees in 2023, according to layoff tracker Layoffs.fyi.
+Lyft said the restructuring wouldn't impact previously issued guidance. The company is set to report earnings for the first quarter of 2023 on May 4.
+WATCH: Lyft corporate shake-up

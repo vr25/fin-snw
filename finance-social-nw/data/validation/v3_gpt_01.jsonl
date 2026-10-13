@@ -1,0 +1,12 @@
+{"id":"0162","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"The S&P 500 dipped and","relation":"substitute-comparison","sentiment_alignment":-1.0}
+{"id":"0929","ticker_a":"AVGO","ticker_b":"MSFT","first_words":"- CNBC's Jim Cramer told","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1250","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"We recently compiled a list","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1200","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"(Reuters): Shares of Dell and","relation":"co-hype","sentiment_alignment":0.0}
+{"id":"0327","ticker_a":"META","ticker_b":"NVDA","first_words":"Meta’s stock increased nearly 4%","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"1626","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"Chipmaker Nvidia will invest up","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0639","ticker_a":"META","ticker_b":"MSFT","first_words":"Nvidia's valuation passed the $1.5","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"2078","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Anabelle Colaco 18 May 2026,","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1670","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"The driverless vehicle market has","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0759","ticker_a":"META","ticker_b":"NVDA","first_words":"We have also discussed the","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0987","ticker_a":"GOOGL","ticker_b":"META","first_words":"Tech titans are under pressure","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0803","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Best Microsoft Office deals: Get","relation":"substitute-comparison","sentiment_alignment":0.0}

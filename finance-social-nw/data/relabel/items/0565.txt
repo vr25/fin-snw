@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+1Password now lets you swap out your master password for a passkey
+It's only available for new accounts at the moment.
+What you need to know
+- 1Password has announced the extension of the passkey beta program, simplifying the account setup process for anyone creating a new 1Password account.
+- While currently limited to new accounts, 1Password plans to extend passkey functionality to existing users next year.
+- Passkeys generate a private key (never shared with 1Password) and a public key (securely stored on servers), ensuring authentication even if the company's servers are compromised.
+Now, setting up a new 1Password account just got a whole lot easier with the introduction of passkeys.
+1Password product director Mitch Cohen confirmed in a blog post that the company is taking the passkey beta program from private to public. This means that if you're making a new 1Password account, you can now secure it with a passkey instead of fussing with a master password or secret key.
+The service was testing the waters with this feature in a private beta back in June. Now it's flung the doors wide open and invited everyone to the public beta.
+However, the passkey support is currently exclusive to new accounts, but 1Password is planning to expand it to existing users next year.
+Password managers have always been the go-to for keeping your online life secure. But let's be real: dealing with a super complex master password or secret key can be a major headache. When you make it too beefy, it's a memory workout; but if you make it too easy, you're practically rolling out the welcome mat for hackers.
+On the other hand, the passkey method provides a safer and easier way to protect your accounts and keep all those login details on lockdown. Google is already offering passkeys as a password alternative across its services, and even WhatsApp has added passkeys to Android to beef up security for your chats.
+Cohen explained that passkeys ride on a security technology called public-key cryptography. Now, every passkey's got two parts: a private key and a public key. When you're creating your 1Password account with a passkey, the private key stays under lock and key, hidden even from 1Password itself. Meanwhile, the public key is stored on the company's servers, helping to verify your logins.
+Get the latest news from Android Central, your trusted companion in the world of Android
+But that public key is useless without its sidekick, the private key. So, even if hackers managed to sneak into 1Password's servers, they'd be stuck with no access to your account.
+If you're interested in going password-free with a passkey, download the 1Password app, click the signup link on your mobile or desktop, join the public beta, and create your individual account.
+Wondering what to do if you're locked out of your account? 1Password's got your back. As your emergency lifeline, you can set up a recovery code by logging into your account on 1Password's official website. Once there, click on your name in the top-right corner and choose "Authentication."
+1Password adds that its authentication method is now compatible with major operating systems from Google, Microsoft, Apple, and even other password managers.
+Jay Bonggolto always keeps a nose for news. He has been writing about consumer tech for as long as he can remember, and he has used a variety of Android phones since falling in love with Jelly Bean. Send him a direct message via X or LinkedIn.

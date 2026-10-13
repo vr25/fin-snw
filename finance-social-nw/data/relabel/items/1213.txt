@@ -1,0 +1,45 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Norway suspends deep-sea mining plans in the Arctic
+December 2, 2024
+A small environmental party in Norway has halted the country's plans to start issuing deep-sea mining exploration permits in 2025. The leftwing SV party demanded the government scrap its first licensing round in return for support for the budget for 2025.
+"This will be a postponement," Prime Minister Jonas Gahr Stoere told private broadcaster TV2. The government said preparatory work would continue, including creating regulations and mapping the environmental impact.
+Karoline Andaur, CEO of WWF-Norway called the suspension "a major and important environmental victory" in a press statement.
+In January 2024, Norway's parliament opened the way to deep-sea mining and was planning to start issuing exploration licenses in 2025. But international scientists, environmental groups like Greenpeace and WWF, the fishing industry and the European Union are concerned about the country's plans. They warn of irreversible damage to fragile Arctic Ocean ecosystems.
+No environmental data for 99% of the Arctic seabed
+WWF is suing Norway's government on the grounds that the impact assessment which lawmakers used for their decision doesn't contain enough information to evaluate the consequences of mining on the marine environment. The Norwegian Environment Agency, a government body, voiced similar criticisms. The case is underway in a district court in the capital, Oslo.
+"Throughout the impact statement, the government says for 99% of this area there is no environmental data," Kaja Loenne Fjaertoft, global policy lead and marine biologist at WWF Norway, told DW.
+The prospective underwater mining area lies to the north of the Arctic Circle, between the Svalbard archipelago and Greenland. It encompasses 280,000 square kilometers (108,108 square miles) of Norway's continental shelf.
+Tectonic and volcanic activity have created steep valleys and high underwater mountains along the mid-Atlantic ridge. And it is here, between around 700 and 4,000 meters beneath the surface of the ocean, that the mining industry is looking to find minerals such as copper, cobalt, zinc and rare earths contained in sulfide deposits and manganese crusts.
+These materials are crucial for the green energy transition and technologies like batteries, wind turbines, computers and mobile phones — and to reduce dependence on foreign powers.
+"Considering the geopolitical developments, it is important to have strategic control over the resources and to ensure that the minerals come from countries with democratic governments," Astrid Bergmal, state secretary at the Norwegian Energy Department, told DW.
+Vulnerable marine life in the Arctic
+To scientists, though, the region is not just a source of untapped minerals. It's a "largely unexplored biological treasure," according to Andaur.
+The water above the prospective mining area is home to marine animals, including fish, octopuses, crustaceans, 'hairy' shrimps and whales. On the deep seabed, there is no light, but biodiversity around volcanic vents is rich, ranging from bacteria to larger flora and fauna that are adapted to the harsh environment.
+One potential disturbance for species there is underwater noise pollution, which "can go as far as 500 kilometers" and interfere with sea species' communications, said Fjaertoft. Another problem are the "sediment plumes from seabed mining," which "could stretch over hundreds of kilometers" and could comprise animals' health.
+Scientists say a further 10 years of research are needed in this remote zone to discover what is there and how it might be impacted by mining. Otherwise, species could go extinct "before they have even been described," Fjaertoft said.
+Can mining impacts be reduced?
+Stale Monstad, CEO of Green Minerals, one of the companies that wants to be among the first to mine metal-rich sulfide deposits on the Norwegian seabed, says he will take great care to minimize harm to marine ecosystems. And that his team will "make sure to stay away from the active hydrothermal vents where most of the underwater life is concentrated."
+They want to focus on sulfide deposits that have formed around inactive vents. In Monstad's estimate, potential mining areas would not comprise huge swathes of the seabed, but be limited to a few hundred meters in diameter and a hundred meters deep.
+He says his company would take marine biologists along for exploration and "do the research on both biology and geology at the same time." And that if it "turns out it cannot be done in a good way, I'm not doing it."
+But Fjaertoft questions whether deep-sea mining can be done in a responsible manner at all.
+The Norwegian government told DW that it is providing funding to research institutions to map the area and improve knowledge of the environment there.
+Nobody wants mining in their backyard
+Like other mining start-ups, Monstad's company was founded by people who once worked in the gas and oil industry. He says he left the fossil-fuel sector because he wanted to be part of the green transition.
+He sees a paradox since the demand for minerals is increasing due to expanding electrification powered by renewable energy. At the same time, "nobody wants mining in their backyard."
+The trained geologist said all the metals found in the deep sea can also be found on land. But environmental regulations, land rights and infrastructure challenges mean they're difficult to mine there.
+"It takes about 17 years on land for a new mining project," said Monstad.
+Things could go faster in the deep sea. Green Minerals wants to begin taking probes once they receive an exploration license. They hope extraction could start by 2030.
+Scandinavia used to have lots of high-grade ore mines on land. "Today the biggest copper mine — in Sweden — produces from ore that contains just 0.16% copper," Monstad added.
+Norway's government estimates that sulfide ore deposits on its seabed contain around 4% to 6% copper — some samples even more — as well as 3% zinc and less than 1% cobalt.
+But scientists have cautioned that the few samples taken so far are not sufficient to make assumptions about the huge prospective mining area.
+A chance to halt a race to the bottom
+While the Norwegian government says minerals from the seabed are of geostrategic importance, environmental groups have calculated that they might not even be needed in the future.
+A recent Greenpeace report points out that manufacturers are looking to move away from cobalt and nickel as components for batteries, and that mined metals could be reduced with effective recycling.
+The UN's International Seabed Authority (ISA), which oversees areas of the marine floor that don't belong to national territories, has been working on rules for deep-sea mining for years. But they are not yet complete. So far, the ISA has granted exploration licenses in different deep sea regions, including in the Pacific Ocean. Some countries like China, Japan and Russia would like to start mining the seabed as soon as possible.
+But more than 30 other states are now calling for a precautionary pause or a moratorium on deep-sea mining to allow for more research. And more than 50 international companies, including Apple, Google, Microsoft and BMW, have stated they won't source components from deep-sea mining minerals.
+While the planned 2025 licensing round has now been paused, Norway is holding parliamentary elections in September next year. The Conservative and Progess parties leading in the polls are in favor of deep-sea mining. The blocking by the minority SV party "has given the next Storting (Parliament) a chance to halt the hasty process," WWF's Karoline Andaur hopes.
+Meanwhile, WWF is expecting a verdict from the ongoing Oslo court case in January. Depending on the outcome, both sides have already said they are ready to appeal.
+Edited by: Tamsin Walker, Jennifer Collins
+This article was updated on 2.12.2024 after the Norwegian government decided to temporarily halt licensing.

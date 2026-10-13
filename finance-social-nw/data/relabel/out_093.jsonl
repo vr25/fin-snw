@@ -1,0 +1,20 @@
+{"id": "1860", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia (NVDA) is now", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "1861", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "A girl who fled", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1862", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "NEW YORK, Jan 15", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1863", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The biggest mobile network", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1864", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The biggest mobile network", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1865", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The biggest mobile network", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1866", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "West Midlands Police chief", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1867", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Volgograd airport operations have", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1868", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alphabet (NASDAQ: GOOG)(NASDAQ:", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1869", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "DAVOS, Switzerland (AP) --", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1870", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "After losing a $100", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1871", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Andrew Bosworth, the company's", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1872", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "With many communities across", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1873", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Warren Buffett has long", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1874", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Law enforcement authorities in", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1875", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Key Points - Oracle", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1876", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US stocks rise as", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1877", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "STORY: Microsoft and Meta", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1878", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Key Points - Broadcom", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1879", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Canada continues to be", "relation": "substitute-comparison", "sentiment_alignment": -0.6}

@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The nonprofit sector — which encompasses some 1.6 million organizations in the U.S. alone — has joined the ChatGPT and AI digital frenzy. The philanthropic ventures are eager to use the tools to improve internal operations and fulfill their missions by boosting their efficiency and better targeting donors.
+“Because of all the hype, people are paying attention and they’re trying it,” said Beth Kanter, an author and thought leader on philanthropy and tech.
+The Bill & Melinda Gates Foundation is even dangling $3 million in incentives to encourage organizations to deploy the cutting-edge tech to address some of the knottiest problems confronting low- and middle-income countries.
+Kanter and other experts are advising nonprofits to explore the technology — but also to proceed at a measured pace and embrace the edict of first doing no harm.
+As demand and interest are rising, tech companies are expanding their products to meet the charitable sector’s needs. That includes big tech such as Microsoft, Salesforce and Google, as well as smaller ventures including Dataro and Donorbox.
+Much of the focus is on making fundraising more efficient and successful — a particularly important area given the slowing economy and its negative impact on donations.
+Microsoft recently announced new Microsoft Cloud for Nonprofit products it’s developing and releasing. That includes:
+- fundraising tools including models to predict who is likely to donate at particular times; easier donor database management; and deploying large language models to write personal, customized responses to donors;
+- working with partner companies to develop personal assistant tools for nonprofits; and
+- software to help organizations fulfill their missions, including products for managing and querying databases and resources for coordinating relief efforts.
+The products are under the purview of Microsoft Tech for Social Impact, which is part of Microsoft Philanthropies. The tech giant, which is based in Redmond, Wash., offers much of its cloud resources and technology to nonprofits for free or at deep discounts. It also reinvests profits from this area of sales into initiatives that address social causes.
+Justin Spelhaug, vice president and global head of Microsoft Tech for Social Impact, professes a passion for helping nonprofits that are hustling to meet increasing demand for their services while struggling to find and retain workers and raise dollars.
+“They’re in this vice grip of pressure right now,” Spelhaug said. “And we do believe that AI can play a really important role in helping them relieve some of that pressure.”
+Nonprofits need these tools, Kanter agreed.
+“The prime benefit of this technology is that it’s going to improve the work experience and free up a lot of time from ‘spreadsheet aerobics’ — cutting and pasting all this stuff,” she said.
+That said, Kanter has concerns about the technology and the companies building it. One worry is the products will require coding skills and tech expertise lacking at many nonprofits. For Microsoft’s part, Spelhaug said the company has a line of products that are “low code, no code” and suitable for smaller organizations.
+To aid nonprofits navigating the rapidly changing AI and Chat-GPT technology, Kanter has created tips and best practices.
+- Leaders have a responsibility to figure out how to incorporate the tech and train employees in using it.
+- There is evidence of AI bias impacting nonprofit operations, and organizations need to continue being watchful of those problems.
+- The tech should be viewed as an assistant to human workers, not a replacement, particularly given the potential for AI and Chat-GPT to make errors.
+- The tools can raise ethical questions — when do targeted fundraising campaigns shade into manipulation of donors?
+Keeping the pitfalls in mind, “the potential for good could be really amazing,” Kanter said. “Just think about having fundraisers that aren’t in the closet crying because they have so much work.”

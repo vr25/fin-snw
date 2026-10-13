@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Michigan is poised to give millions annually in tax breaks to tech companies that build data centers in Michigan
+- The state Senate passed the legislation with bipartisan support and dissent, sending it to Gov. Gretchen Whitmer’s desk
+- Proponents see economic opportunity, while opponents see trouble from the energy-hungry facilities
+The Michigan Senate has approved a plan to provide multimillion-dollar tax breaks to tech companies that build large, energy-hungry server farms in Michigan, sending a package to Gov. Gretchen Whitmer for her signature.
+Whitmer has avoided stating a public position on the bills. But both supporters and opponents see her as a behind-the-scenes supporter.
+The two-bill package passed the Senate Thursday in a series of 23-12 and 22-13 late-night votes with bipartisan support and opposition.
+With Whitmer’s signature, Michigan would exempt massive “enterprise” data centers – those built and operated by big tech companies like Microsoft, Meta and Google – from sales and use taxes on their equipment through at least 2050 (2065 for facilities built on a brownfield).
+The plan also extends an existing tax break for smaller “colocation” data centers in Michigan. Global data center capacity is expected to double in the next five years as tech companies seek computing power for artificial intelligence and cloud storage.
+A Senate Fiscal Agency analysis estimated the proposed tax breaks could reduce state and local tax revenue by more than $90 million through 2065. To qualify, each data center operator would be required to invest at least $250 million and create 30 jobs paying 150% of the local median wage.
+RELATED STORIES:
+- Would tax break for MI data centers bring economic boon, or climate doom?
+- Data centers create few jobs. Michigan wants to give them big tax breaks
+- Critics fear Michigan is promising the moon to land cloud data storage firms
+Supporters argue Michigan needs tax breaks if it hopes to compete for investment against neighboring states that have already authorized tax breaks. While the facilities create relatively few permanent jobs, they would bring money into Michigan through their tax dollars and by purchasing water and electricity to run the facilities.
+“This shows an opportunity for some real, big economic development projects here that will be critical for communities that really need the investment and the local property tax revenue,” said Sen. Kevin Hertel, D-St. Clair Shores.
+That could potentially include Hertel’s district, he said. Shuttered power plants are potential candidates for data center investments, and St. Clair County is home to a former DTE Energy coal plant that closed in 2022.
+But the facilities are energy and water hogs. Opponents fear the tradeoff for Michigan, like other states before it, will be higher energy bills and slower progress on the state’s net-zero carbon goals. And they contend Michigan’s cool climate and abundant water make the state an ideal place for data centers to locate, with or without tax breaks.
+“Microsoft does not need our tax dollars,” said Sean McBrearty, state director for Clean Water Action. “Michiganders need that.”
+In some states already hosting big data centers, utilities have been forced to delay the closure of fossil fuel-burning power plants in order to serve the energy-hungry facilities. Residents have also seen electricity rate increases to pay for infrastructure upgrades that benefit data centers.
+Supporters of the tax breaks contend the bills have adequate protections, pointing to provisions encouraging data centers to use green energy and be frugal with water. Those protections fall short of enforceable requirements.

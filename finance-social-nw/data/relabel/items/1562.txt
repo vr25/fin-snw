@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Meta Platforms Inc. (NASDAQ:META) has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment that included nine-figure compensation packages.
+Hiring Moratorium Follows Talent War Spending
+The freeze, effective last week, prohibits external hires and internal team transfers within the AI division, The Wall Street Journal reported, citing sources. Meta hired over 50 researchers and engineers from competitors, including OpenAI, Alphabet Inc. (NASDAQ:GOOGL) (NASDAQ:GOOG) and Apple Inc. (NASDAQ:AAPL), offering compensation packages reaching $100 million.
+CEO Mark Zuckerberg personally recruited talent through direct outreach, including a $1.5 billion offer to Thinking Machines Lab co-founder Andrew Tulloch, who declined. The company secured Scale AI co-founder Alexandr Wang as chief AI officer through a $14 billion stake purchase.
+Investor Concerns Drive Strategic Pause
+Morgan Stanley analysts warned that escalating stock-based compensation could threaten shareholder returns through reduced buyback capacity. The cautionary stance contributed to recent technology stock selloffs as investors scrutinize AI infrastructure spending across major tech firms.
+A Meta spokesperson, according to WSJ, characterized the freeze as “basic organizational planning” following the restructuring of its Superintelligence Labs into four specialized teams.
+See Also: Fed Just Poured Cold Water On Rate Cut Hopes–And Tariffs Are To Blame
+Restructuring Creates Focused AI Teams
+Meta’s reorganization established four divisions: TBD Lab for superintelligence research, AI products development, infrastructure, and Fundamental AI Research for exploratory projects. The previous AGI Foundations team was dissolved after disappointing Llama model performance.
+The hiring freeze includes exceptions requiring Wang’s approval, though the duration remains undisclosed. At least three former AGI Foundations members announced departures following Meta’s August 15 vesting date, according to internal communications reviewed by WSJ.
+With approximately 2,000 researchers globally capable of foundational AI model development, competition for talent remains fierce as companies pursue artificial general intelligence amid $250 billion industry infrastructure investments through 2026.
+Read Next:
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.
+Photo courtesy: Frederic Legrand – COMEO / Shutterstock.com
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

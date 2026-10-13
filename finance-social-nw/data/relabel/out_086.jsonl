@@ -1,0 +1,20 @@
+{"id": "1720", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta internally projected that a", "relation": "substitute-comparison", "sentiment_alignment": -1.0}
+{"id": "1721", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1722", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "By DAMIAN J. TROISE, AP", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1723", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Have you ever tricked yourself", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1724", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Looking for a creative way", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1725", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Looking for a creative way", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1726", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Looking for a creative way", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1727", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "As the Nasdaq composite gaps", "relation": "substitute-comparison", "sentiment_alignment": 1.0}
+{"id": "1728", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Artificial Intelligence has quietly entered", "relation": "co-hype", "sentiment_alignment": 1.0}
+{"id": "1729", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Each product earned recognition in", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1730", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Cyber week sales are live", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1731", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "More South Australians are currently", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1732", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1733", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The filing also revealed that", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1734", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta Platforms Inc (NASDAQ:META)", "relation": "causal-driver", "sentiment_alignment": 0.8}
+{"id": "1735", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "What matters in U.S. and", "relation": "unrelated-mention", "sentiment_alignment": -0.5}
+{"id": "1736", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "What matters in U.S. and", "relation": "unrelated-mention", "sentiment_alignment": -0.3}
+{"id": "1737", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "What matters in U.S. and", "relation": "unrelated-mention", "sentiment_alignment": -0.2}
+{"id": "1738", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Downtown Dazzle Parade 2025: The", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1739", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Delaware Health Technology Company Reports", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

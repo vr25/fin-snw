@@ -1,0 +1,38 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Microsoft is bringing AI features to more Windows 11 PCs — just in case you were under the impression that AI was being cut back
+There's no need for an NPU for certain AI features now, as an Nvidia GPU will do the job
+- Microsoft has made a notable move with the Windows App SDK
+- It's allowing some AI powers to run on non-Copilot+ PCs without an NPU, using an Nvidia GPU instead
+- This is an experimental move for now, but it suggests a wider drive to bring more AI capabilities to all Windows 11 PCs, not just Copilot+ models
+Microsoft is planning to bring AI features to a wider set of Windows 11 PCs, allowing devices with suitably beefy GPUs to avail themselves of local AI functionality that's currently restricted to Copilot+ PCs with a fast NPU.
+Windows Latest spotted that Microsoft has a new feature in testing — marked as experimental — for the Windows App SDK, which allows developers to run local language models (AI features) on non-Copilot+ PCs by using a GPU.
+Microsoft stated: "The Language Model APIs now run on non-Copilot+ PCs equipped with a supported GPU, bringing local language model capabilities to a broader range of Windows 11 devices. Supported hardware includes Nvidia GeForce RTX 30 series and newer with 6+ GB vRAM."
+What does this mean in practice? If you're thinking that all Windows 11 PCs are going to get the full range of exclusive Copilot+ AI features — like Recall for example — that isn't the case.
+What this is about is allowing software developers to let their apps tap into certain AI features on any Windows 11 PC with a qualifying GPU.
+As Windows Latest points out, the move will mean that non-Copilot+ PCs can access Microsoft's Phi Silica small language model and use it locally (on the device, as opposed to reaching out to the cloud) not with an NPU, but with an appropriate Nvidia graphics card (with 6GB of video RAM) instead.
+This will allow for basic AI abilities such as rewriting or summarizing text to be carried out within apps where the developer codes for this, outside of the Copilot+ PCs where this would normally be restricted to.
+Sign up for breaking news, reviews, opinion, top tech deals, and more.
+Analysis: an agentic future
+The theory is that this is just the initial step, and Microsoft is going to push for the wider deployment of other AI features to non-Copilot PCs.
+It also addresses a frustration that was aired in the very early days of Copilot+ PCs, when I remember a bunch of people questioning why Microsoft limited these AI features to devices with NPUs, when a decent GPU was easily capable of accelerating these on-device AI workloads.
+This was an arbitrary restriction, of course, but now the questioning shifts to a different line: exactly how many AI powers will Microsoft allow to be pushed onto non-Copilot+ PCs.
+Of course, it's notable of late that Microsoft isn't talking about Copilot+ PCs anymore — the brand didn't even get a mention at the company's recent Build conference. AI was very much still a hot topic, of course, and Microsoft appears to be shifting its angle from pushing a specific hardware brand to more widely promoting AI agents, which are to be the next big thing (AI-wise) in Windows 11.
+If you thought Microsoft was cutting back on AI in Windows 11, then, this is another sign that the company is going very much in the other direction, and driving to get more AI features onto a wider array of PCs.
+When Microsoft initially talked about cutting back on AI bloat — when the fix Windows 11 campaign was first announced — what it really meant was reducing some of the AI-related clutter in certain menus for the OS along with core apps. A trimming of excesses, basically, and away from that, AI remains a key focus for Microsoft, of course — with this latest move underlining that fact.
+Follow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.
+➡️ Read our full guide to the best laptops
+1. Best overall: 
+Apple MacBook Air 13-inch M5
+2. Best budget: 
+Apple MacBook Neo
+3. Best Windows 11 laptop
+Microsoft Surface Laptop 13-inch
+4. Best thin and light:
+Lenovo Yoga Slim 9i
+5. Best Ultrabook
+Asus Zenbook S 16
+Darren is a freelancer writing news and features for TechRadar (and occasionally T3) across a broad range of computing topics including CPUs, GPUs, various other hardware, VPNs, antivirus and more. He has written about tech for the best part of three decades, and writes books in his spare time (his debut novel - 'I Know What You Did Last Supper' - was published by Hachette UK in 2013).
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

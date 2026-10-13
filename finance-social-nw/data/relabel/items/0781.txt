@@ -1,0 +1,12 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+"And so, ladies and gentlemen. I would like to introduce you to a very, very big GPU."
+Chief Executive Jensen Huang unveiled the chip, called the 'B200 Blackwell,' at the company's annual developer conference.
+It takes two squares of silicon each the size of the company's current must-have chip, the H100, and binds them together into a single piece.
+Nvidia said the B200 is 30 times speedier than its previous chip at tasks like serving up answers from chatbots.
+But Huang did not give specific details on price or how well it performs when training those chatbots, which has generally been Nvidia's bread and butter.
+The company also said major customers including Amazon, Google, Microsoft and OpenAI are expected to use the new chip for their own AI offerings.
+Still, the news seemed to fail to provide new fuel for a rally which has seen Nvidia soar to become the third-most valuable company in the US over the past year -- and Nvidia stock dipped 1.4% during the keynote.
+What Nvidia announced Monday will help decide whether the company can maintain its 80% share of the market for AI chips.
+Many analysts expect Nvidia's market share to drop several points this year as new products from competitors come to market and Nvidia's largest customers make their own chips.

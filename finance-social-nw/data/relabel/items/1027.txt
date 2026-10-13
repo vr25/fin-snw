@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+This ancient browser security flaw affecting Safari, Chrome and Firefox is finally being fixed
+0.0.0.0-day flaw cannot be exploited on Windows
+Some of the world’s biggest and most popular browsers are vulnerable to a flaw that allows threat actors to steal sensitive information from target endpoints, experts have warned.
+Cybersecurity researchers from Oligo recently detailed the “0.0.0.0-day attack” - a way to abuse how Apple’s Safari, Google’s Chrome, and Mozilla’s Firefox handle queries to the 0.0.0.0 address.
+Usually, the browsers would redirect the user to a different IP address, such as “localhost”, which is usually a server or computer on a private computer. However, by sending a malicious request to the target’s 0.0.0.0 IP address, the attackers are able to grab private data. This could be done via phishing or social engineering, where a victim would be somehow enticed into opening a malicious website.
+Apple and Google working on a fix
+The flaw is currently being exploited in the wild, the researchers said, as developers work on a permanent fix.
+“Developer code and internal messaging are good examples of some of the info that can be accessed right away,” Avi Lumelsky, an AI security researcher at Oligo, told Forbes. “But more importantly, exploiting 0.0.0.0-day can let the attacker access the internal private network of the victim, opening a wide range of attack vectors.”
+The attack vector is somewhat limited, since it only affects individuals and businesses hosting web servers. This still leaves a large attack surface, though.
+There is evidence of in-the-wild abuse, too. A Google security developer confirmed it in a post on the Chromium forum earlier this year, but stated that the flaw can only be leveraged on Apple devices, since Microsoft blocks 0.0.0.0 in Windows, something Apple is planning on doing with macOS 15 Sequoia beta.
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+Google will do the same on Chromium and Chrome, leaving only Mozilla, which is currently exploring its options.
+More from TechRadar Pro
+- Google has fixed the first major Chrome security flaw of 2024 - so here's what you need to know before you update
+- Here's a list of the best firewalls today
+- These are the best endpoint protection tools right now
+Sead is a seasoned freelance journalist based in Sarajevo, Bosnia and Herzegovina. He writes about IT (cloud, IoT, 5G, VPN) and cybersecurity (ransomware, data breaches, laws and regulations). In his career, spanning more than a decade, he’s written for numerous media outlets, including Al Jazeera Balkans. He’s also held several modules on content writing for Represent Communications.

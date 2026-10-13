@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+(Bloomberg) -- Shares of Nvidia Corp. surged more than 200% over the past year and one of its most bullish analysts is projecting that the semiconductor giant will extend its rally, pushing its market value to nearly $5 trillion in the coming year.
+Most Read from Bloomberg
+Rosenblatt Securities analyst Hans Mosesmann on Tuesday hiked his price target on the chipmaker to a Wall Street high of $200 from $140. His raise follows the company's recent 10-for-1 stock split on June 10. Nvidia rose as much as 2.7% Tuesday, hitting new intraday highs.
+The Santa Clara, California-based company has dominated the market with its highly sought-after products that help power data centers running complex artificial intelligence computing tasks.
+Mosesmann, who has had a buy rating on the stock since starting coverage in 2017, said he was positive about Nvidia's hardware offerings, but noted that "the real narrative lies in the software that complements all the hardware goodness."
+"We anticipate this software aspect will significantly increase in the next decade in terms of overall sales mix, with an upward bias to valuation due to sustainability," Mosesmann wrote in a note to clients.
+The stock is one of the most loved stocks by sell-side analysts, with 64 buys, seven holds and one sell rating, among analysts tracked by Bloomberg.
+Through Monday's close, shares have risen 165% in 2024, adding more than $2 trillion to its market capitalization as the chipmaker threatens to unseat Microsoft Corp. and Apple Inc. as the world's most valuable company.
+Most Read from Bloomberg Businessweek
+©2024 Bloomberg L.P.

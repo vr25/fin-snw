@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+SAN FRANCISCO (AP) — Microsoft is throwing its weight behind Anthropic in asking a federal court to block the Trump administration’s designation of the artificial intelligence company as a supply chain risk.
+Microsoft, in a legal filing, is challenging Defense Secretary Pete Hegseth’s action last week to shut Anthropic out of military work by labeling its AI products as posing a threat to national security.
+The Pentagon took the action against Anthropic after an unusually public dispute over the company’s refusal to allow unrestricted military use of its AI model Claude. President Donald Trump also said he was ordering all federal agencies to stop using Claude.
+“The use of a supply chain risk designation to address a contract dispute may bring severe economic effects that are not in the public interest,” Microsoft, a major government contractor, said in its Tuesday filing in the San Francisco federal court, where Anthropic sued the Trump administration on Monday.
+The Pentagon’s action “forces government contractors to comply with vague and ill-defined directions that have never before been publicly wielded against a U.S. company,” Microsoft’s legal brief says.
+It asks for a judge to order a temporary lifting of the designation to allow for more “reasoned discussion.”
+The Pentagon declined to comment, saying it does not remark on matters in litigation.
+Microsoft also sided with Anthropic’s two ethical red lines that were a sticking point in the contract negotiations.
+“Microsoft also believes that American AI should not be used to conduct domestic mass surveillance or start a war without human control,” Microsoft said. “This position is consistent with the law and broadly supported by American society, as the government acknowledges.”
+The software giant’s court filing followed others supporting Anthropic, including one from a group of AI developers at Google and OpenAI, and another from a group of organizations such as the Cato Institute and the Electronic Frontier Foundation.

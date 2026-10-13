@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+LONDONLONDON — Microsoft has hired Mustafa Suleyman to head up its consumer artificial intelligence business, adding another influential figure to its pool of talent leading the charge to build a technology that Suleyman views as both as a boon and threat to humanity.
+Suleyman, co-founder of AI research lab DeepMind, said Tuesday in a LinkedIn post that he’ll become CEO of Microsoft AI, leading all of the company’s consumer AI products and research, including its generative AI service Copilot as well as its Bing search engine and Edge browser.
+Microsoft is also hiring the chief scientist at Suleyman’s AI company, Inflection, and several of its top engineers and researchers, Microsoft CEO Satya Nadella said in a blog post.
+The hirings are likely to bolster Microsoft’s lead position in the AI industry, as big tech companies battle for position to capitalize on demand for AI services.
+Microsoft has teamed up with ChatGPT maker OpenAI, investing billions of dollars into the San Francisco company, and recently partnered with France’s Mistral, a hot AI startup.
+Suleyman co-founded the DeepMind AI research lab, which Google purchased in 2014, and worked there until 2022, when he left to set up Inflection.ai with LinkedIn co-founder Reid Hoffman in an effort to create AI that won’t veer into racist, sexist or violent behavior.
+He also co-wrote a book, “The Coming Wave,” that examines AI’s promise and the need to limit its potential perils.
+__
+This story corrects the day of the announcement to Tuesday instead of Monday.

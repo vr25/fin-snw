@@ -1,0 +1,22 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Tech stocks have been on the rise in 2023 after a sell-off the previous year. Investors are bullish over the prospects of swiftly developing industries such as artificial intelligence and virtual reality, and what they could mean for the companies actively pursuing them.
+Nvidia (NVDA +0.22%) and Apple (AAPL +1.53%) suffered stock slides in 2022 alongside macroeconomic headwinds. However, the new year has Wall Street optimistic, with both stocks up over 20% since Jan. 1.
+As these tech stocks begin to recover, now might be an excellent time to invest in one of these high-growth companies. So, is Nvidia or Apple's stock the better buy? Let's take a look.
+Nvidia maintains strong future with AI innovation
+Nvidia shares plunged 50% throughout 2022 as consumer demand for PC components slipped. While the company's majority market share in discrete graphics processing units (GPUs) has propelled it into a position of dominance in the tech industry, it also led to significant losses in 2022 as worldwide GPU shipments fell 42%.
+Despite the challenging year, Nvidia has proved its resilience in 2023 by pivoting its business toward a burgeoning market: artificial intelligence (AI). The move has pumped its stock up 55% year to date, as AI is increasingly likely to be a significant focus of future technology.
+According to Grand View Research, the AI market was worth $136.55 billion in 2022 and will expand at a compound annual growth rate (CAGR) of 37.3% through 2030. Considering Nvidia's GPUs have the power to run and develop AI software, the company could have a fruitful future in the quickly growing market.
+NASDAQ: NVDA
+Key Data Points
+Moreover, Nvidia's recent partnership with Microsoft's Azure to build a massive cloud AI computer is only more promising for its outlook. Microsoft invested $1 billion in AI start-up OpenAI in 2019, which stunned the tech world last November with the launch of ChatGPT -- a chatbot that can create human-like prose based on prompts. The impressive software has led to reports that Microsoft is considering investing a further $10 billion in the start-up.
+As one of the best growth stocks out there, Nvidia shares have risen 283% in the last five years and over 7,000% in the last 10. With its powerful GPUs in hand and a collaboration with one of the biggest names in AI, Nvidia likely has a lucrative future over the long term.
+Apple could see new catalyst in rumored AR/VR headset
+Like Nvidia, Apple's stock suffered from a burdened tech market in 2022, with its shares falling almost 27% throughout the year. However, reports that the company's biggest product release of 2023 will see it venture into virtual/augmented reality with a new headset have boosted its stock by 21% year to date.
+While Apple is already home to a solid business through its current lineup of products and services, the new headset will allow the company to take advantage of a technology of the future. Worth $25.33 billion in 2021, the AR market is expected to grow at a CAGR of 40.9% through 2030 (per Grand View Research). Meanwhile, VR will see a CAGR of 15% in the same period.
+NASDAQ: AAPL
+Key Data Points
+In the past, mixed reality devices have predominantly been geared toward gamers. However, experts see the technology easily applied to fields such as healthcare, education, and more in the future. With Apple's past success in entering new markets and quickly rising to dominance, an investment in the tech giant could be an investment in a future leader of the industry.
+Apple shares have increased 288% over the last five years and 825% in the last decade, solidifying it as one of the most reliable growth stocks on the market. While both Nvidia and Apple likely have a long future of growth ahead, Apple's forward price-to-earnings (P/E) ratio in the chart below shows its stock currently offers more value.
+Additionally, Apple's forward P/E over the last year has remained far more steady than Nvidia's, which has seen steeper peaks and valleys. As a result, Apple is the more consistent and reliable stock, making it the better growth stock to invest in this month.

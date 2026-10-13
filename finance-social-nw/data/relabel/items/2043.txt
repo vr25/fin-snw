@@ -1,0 +1,24 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+A frenzied day of earnings reports offered a glimpse at how some of the world’s biggest tech companies are doing in artificial intelligence. The upshot: Alphabet Inc.’s Google is seeing a clear payoff from its AI spending, while Meta Platforms Inc. is lagging behind.
+The two companies’ results were part of a flood of financial information Wednesday, when Alphabet, Meta, Amazon.com Inc. and Microsoft Corp. all delivered their numbers within the span of two minutes. The four companies are the largest spenders on AI data farms, putting them at the center of an infrastructure build-out that’s expected to cost trillions of dollars.
+Meta and Alphabet both tacked on another $10 billion to their budget — taking the quartet’s total, estimated spending to as much as $725 billion for 2026. A key question among investors and analysts now is whether that massive spending is providing tangible results.
+On that front, Google was able to point to solid growth at its cloud computing unit, which recorded sales of $20 billion last quarter. That beat the $18.4 billion projection. The unit saw a “meaningful acceleration in growth,” driven by demand for its AI software and infrastructure, Google said.
+“Our AI models have great momentum,” Alphabet Chief Executive Officer Sundar Pichai said during a conference call with analysts. “We are bringing helpful AI into the hands of billions of people every day through our products and platforms.”
+Backlog — the measure of contracted work that hasn’t been recorded as revenue yet — nearly doubled from the prior quarter to over $460 billion. The period also was the strongest quarter yet for Google’s consumer AI services, including the Gemini app, Pichai said.
+Alphabet shares gained 6.6% in late trading following the report, outshining the other AI giants. Futures on the tech-heavy Nasdaq 100 Index climbed 0.9%.
+Meta had a harder time making its case to investors. Its shares tumbled more than 6% after the company boosted full-year capital expenditures to as much as $145 billion — an increase driven in part by rising component prices.
+Meta isn’t alone in dialing up spending; Google and others also increased their targets. But Meta doesn’t have as much to show for this massive outlay. Unlike Google, it doesn’t sell cloud computing services, and its consumer AI app has been slower to take off.
+Compared with the biggest AI peers, “Meta’s standalone app hasn’t had the amount of engagement,” Bloomberg Intelligence analyst Mandeep Singh said in a note.
+Meta CEO Mark Zuckerberg expressed confidence in the decision to escalate spending, though his answers to analysts’ questions were vague.
+Meta doesn’t have “a very precise plan” for how each AI product will be cultivated, he said on a conference call.
+“I think we have a sense of the shape of where things need to be,” Zuckerberg said, while conceding that his answers might be “unfulfilling.”
+“With the potential payoff of AI leadership seemingly so high, the companies continue to make those bets, forcing investors and customers alike to assess how their interests are impacted,” Forrester Research Inc. analyst Lee Sustar said in a note.
+At Amazon, revenue from its cloud division grew 28% from a year earlier, marking the fastest growth rate since the second quarter of 2022. That business serves as a bellwether of its AI progress.
+The company also has gotten a boost from investments in OpenAI and Anthropic PBC, the two leading AI startups. Amazon’s shares took a leg up on Wednesday after Bloomberg News reported that Anthropic was considering a fresh funding round at a valuation of more than $900 billion.
+For its part, Microsoft said cloud computing revenue would accelerate — alongside spending. The company expects sales in its Azure cloud unit to increase about 40% in the current quarter and anticipates “modest acceleration” in the second half of the calendar year.
+Concerns remain about the small percentage of Microsoft Office users who are paying for the company’s Copilot AI tools. The company said paid Copilot seats rose to 20 million, up 5 million from the previous quarter.
+Investors had a muted reaction to the report, with the shares falling slightly in extended trading. In a note, Citi analyst Tyler Radke described the results as “a quarter of solid execution, versus a step change in momentum.”
+More stories like this are available on bloomberg.com
+Published on April 30, 2026

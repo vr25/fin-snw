@@ -1,0 +1,37 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Massive overseas and domestic investments offer Japan a chance to reclaim its tech crown, but to become a convincing alternative to China the country must embrace rapid innovation, experts say.
+US tech giants are pumping billions of dollars into artificial intelligence, cybersecurity and chip production in Japan, which dominated the hardware industry in the 1980s.
+Google launched a regional cyber defence hub in the country last month, and Amazon Web Services is spending $14 billion to expand Japanese cloud infrastructure.
+And in the latest move, this week saw Microsoft, a partner of ChatGPT-maker OpenAI, pledge $2.9 billion to boost the nation’s AI prowess.
+“Geopolitical tensions have made Japan a more attractive and stable partner compared to China,” said Khos-Erdene Baatarkhuu, CEO of fintech company AND Global.
+“Japan’s tech sector, once a leader, lost ground due to a slower response to digital and mobile trends” compared with neighbours such as South Korea, he told AFP.
+But “now, with supportive government policies, resilient start-ups, and a potentially shifting global tech scene, Japan has an opportunity to regain its tech edge”.
+It’s not there yet, however. Japan was ranked a lowly 32nd in the latest global classification of digital competitiveness by Swiss management school IMD.
+And only seven Japanese firms appear among more than 1,200 tech “unicorns” — start-ups worth more than $1 billion — listed by CB Insights.
+A “perfection-seeking approach” and preference for “stability and gradual improvement” among businesses is partly to blame, Khos-Erdene said.
+“The traditional corporate culture in Japan tends to be risk-averse and hierarchical, which can stifle the rapid innovation typically seen in the software industry.”
+– Microchip ‘revival’ –
+Masayoshi Son, CEO of Japanese tech investment vehicle SoftBank Group, has warned the country could be left a gawping “goldfish” if it ignores AI.
+“Wake up Japan!” he said at a corporate event in October. “I want to be on the side of evolution.”
+Son and tech titans including Apple boss Tim Cook and Amazon founder Jeff Bezos joined Japan’s Prime Minister Fumio Kishida and US President Joe Biden at a Washington dinner on Wednesday.
+At a summit that day, Kishida and Biden had vowed to strengthen “our shared role as global leaders in the development and protection of next-generation critical and emerging technologies”.
+They also agreed to work with “like-minded countries to strengthen global semiconductor supply chains” in a joint statement.
+Semiconductors, which power everything from mobile phones to cars, have become a key battleground in recent years.
+The United States and some European countries have blocked exports of high-tech chip technology to China over fears of military use.
+Meanwhile, Taiwanese chip behemoth TSMC is facing pressure to diversify its production from customers and governments worried about the possibility of China invading Taiwan.
+TSMC opened a new $8.6 billion chip factory in southern Japan in February, and is planning a second, $20-billion facility for more advanced chips.
+On a visit to the TSMC plant this month, Kishida said he “felt first-hand the revival of our country’s semiconductor industry”.
+Japan has spent 3.9 trillion yen ($25 billion) in the past three years on chip-related subsidies — a larger portion of gross domestic product than the United States or Germany.
+Japanese firms including Sony and Toyota are also collaborating with US giant IBM on a semiconductor project called Rapidus, aiming to mass-produce two-nanometre logic chips in Japan from 2027.
+– ‘Crossroads’ –
+“This is a great time to invest in Japan” with the yen’s value at a 34-year low, said Hideaki Yokota, vice president of the specialist IT think-tank MM Research Institute.
+Tech firms hope the country can become their “best partner in Asia” while its workforce boasts many highly educated engineers ready to be snapped up, he told AFP.
+Established Japanese businesses, especially in the auto and household appliance sectors, provide real-world opportunities to make AI profitable, he said.
+But Khos-Erdene warned that Japan should not rely on its legacy as a manufacturer, given its low labour productivity and shrinking workforce.
+“As CEO of a tech company, I see Japan at a crossroads,” he said, with the question not if but how quickly the country can become a “producer, not just a consumer, of these transformative technologies”.
+Microsoft plans to offer AI training to three million of Japan’s population of 125 million.
+Japanese and American universities are also teaming up on new technology research programmes funded by global companies such as Nvidia and Arm.
+“Overall, Japan’s commitment to AI holds tremendous potential for economic revitalisation,” Khos-Erdene said.
+“By fostering collaboration, retaining top talent, and learning from successful models like the US and China, Japan can bridge the AI gap and re-establish itself as a major force in the global tech landscape.”

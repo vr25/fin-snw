@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+An earlier version of this story incorrectly stated the amount of land Microsoft bought, based on inaccurate information from the Licking County Auditor's website.
+Microsoft has bought 289 acres on Refugee Road in Pataskala, as tech companies look beyond New Albany for data center sites in Licking County.
+The tech giant paid $30.65 million for three parcels on the north side of Refugee Road between Mink Street and Etna Parkway in the Pataskala Corporate Park. The purchase comes a few weeks after the Texas company Aligned Data Centers paid $13.85 million for 89 acres on the southeast corner of Mink and Broad streets a bit north of the Microsoft property.
+The purchase follows Microsoft's purchase earlier this year of 183 acres on Beech Road in New Albany for $57 million. Also over the summer, Microsoft paid $4.7 million for 16 acres on Ganton Road in New Albany, the site of a Scioto Ready Mix operation, across the road from a Meta data center.
+Microsoft is expected to build a data center on the Beech Road property in New Albany. The company did not say what exactly it planned for the Pataskala property, but suggested that it would also be for data centers.
+"We don't have anything definitive to share at this time but can confirm we are committed to supporting Ohio's digital transformation with the Microsoft cloud," the company said in a statement to The Dispatch. "We believe there is great opportunity for Microsoft's cloud services to support local business growth and innovation in Ohio."
+Microsoft's purchase is the latest sign in central Ohio's rise as a data center hub. In the last two years alone, a string of companies have announced billion-dollar-plus data center plans in the Columbus area including Amazon, Google, Facebook's parent Meta, DBT-DATA and QTS Data Centers.
+According to the data center tracking firm Baxtel, Columbus is the nation's 14th biggest data center hub, with 40 data centers operated by 25 companies. (Baxtel's figures do not include the recent announcements.) Another report, issued a year ago by the company 42 Floors, ranked Columbus as the nation's ninth-biggest data center hub.
+Microsoft's purchase also illustrates the evolution of commercial activity north of Interstate 70 in Etna and Pataskala. Commercial development in the area for years has been fueled by distribution centers in the Etna Corporate Park. That growth has pushed north along Mink Streets and Etna Parkway into the Pataskala Corporate Park.
+While distribution centers still dominate the landscape, recent development has moved beyond warehouses to manufacturing and now data centers.

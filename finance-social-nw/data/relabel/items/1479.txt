@@ -1,0 +1,39 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+AI is analyzing documents, writing briefing notes, creating Power Point presentations or handling customer service queries, and - surprise! - now the younger humans who normally do that work are struggling to find jobs. Recently, the chief executive officer of AI firm Anthropic predicted AI would wipe out half of all entry-level white-collar jobs. The reason is simple. Companies are often advised to treat ChatGPT "like an intern," and some are doing so at the expense of human interns.
+This has thrust college grads into a painful experiment across multiple industries, but it doesn't have to be all bad. Employers must take the role of scientists, observing how AI helps and hinders their new recruits, while figuring out new ways to train them. And the young lab rats in this trial must adapt faster than the technology trying to displace them, while jumping into more advanced work.
+Consulting giant KPMG, for instance, is giving graduates tax work that would previously go to staff with three years of experience. Junior staff at at PriceWaterhouseCoopers have started pitching to clients. Hedge fund Man Group Plc tells me its junior analysts who use AI to scour research papers now have more time to formulate and test trading ideas, what the firm calls "higher-level work."
+I recently interviewed two young professionals about using AI in this way, and perhaps not surprisingly, neither of them complained about it. One accountant who had just left university said he was using ChatGPT to pore over filings and Moody's Ratings reports, saving him hours on due diligence.
+Another young executive at a public-relations firm, who'd graduated last year from the London School of Economics, said tools like ChatGPT had cut down her time spent tracking press coverage from two and a half hours to 15 minutes, and while her predecessors would have spent four or five hours reading forums on Reddit, that now only takes her 45 minutes.
+I'm not convinced, however, that either of these approaches is actually helping recruits learn what they need to know. The young accountant, for instance, might be saving time, but he's also missing out on the practice of spotting something fishy in raw data. How do you learn to notice red flags if you don't dig through numbers yourself? A clean summary from AI doesn't build that neural pathway in your brain.
+The PR worker also didn't seem to be doing "higher-level work," but simply doing analysis more quickly. The output provided by AI is clearly useful to a junior worker's bosses, but I'm skeptical that it's giving them a deeper understanding of how a business or industry works.
+What's worse is that their opportunities for work are declining overall. "We've seen a huge drop in the demand for ‘entry-level' talent across a number of our client sets," says James Callander, CEO of a Freshminds, a London recruitment firm that specializes in finding staff for consultancies. An increasing number of clients want more "work ready" professionals who already have a first job under their belt, he adds.
+That corroborates a trend flagged by venture capital firm SignalFire, whose "State of Talent 2025" report pointed to what they called an "experience paradox," where more companies post for junior roles but fill them with senior workers. The data crunchers at LinkedIn have noticed a similar trend, prompting one of its executives to claim the bottom rung of the career ladder was breaking.
+Yet some young professionals seem unfazed. Last week, a University of Oxford professor asked a group of 70 executive MBA students from the National University of Singapore if Gen Z jobs were being disproportionately eroded by AI. Some said "no," adding that they, younger workers, were best placed to become the most valuable people in a workplace because of their strength in manipulating AI tools, recounts Alex Connock, a senior fellow at Oxford's Saïd Business School, who specializes in the media industry and AI.
+The students weren't just using ChatGPT, but a range of tools like Gemini, Claude, Firefly, HeyGen, Gamma, Higgsfield, Suno, Udio, Notebook LM and Midjourney, says Connock.
+The lesson here for businesses is that sure, in the short term you can outsource entry-level work to AI and cut costs, but that means missing out on capturing AI-native talent.
+It's also dangerous to assume that giving junior staff AI tools will automatically make them more strategic. They could instead become dependent, even addicted to AI tools, and not learn business fundamentals. There are lessons here from social media. Studies show that young people who use it actively tend not to get the mental health harms of those who use it passively. Posting and chatting on Instagram, for instance, is better than curling up on the couch and doom-scrolling for an hour.
+Perhaps businesses should similarly look for healthy engagement by their newer staff with AI, checking that they're using it to sense-check their own ideas and interrogating a chatbot's answers, rather than going to it for all analysis and accepting whatever the tools spit out.
+That could spell the difference between raising a workforce that can think strategically, and one that can't think beyond the output from an AI tool.
+Parmy Olson is a Bloomberg Opinion columnist covering technology. She previously reported for the Wall Street Journal and Forbes and is the author of "We Are Anonymous."
+(COMMENT, BELOW)
+  Previously:
+• 05/29/25: AI sometimes deceives to survive. Does anybody care?
+• 05/01/25: AI chatbots want you hooked --- maybe too hooked
+• 02/10/25: AI resurrecting the dead threatens our grasp on reality
+• 01/17/24: Facebook's tolerance for audio deepfakes is absurd 
+• 12/15/23: A small but welcome step in prying open AI's black box
+• 05/03/23:  Lessons from Isaac Asimov on taming AI
+• 03/28/23:  There's no such thing as artificial intelligence
+• 01/18/23: Why Mark Zuckerberg should face the threat of jail
+• 12/20/22: Whoever tweets last, don't forget to turn off the lights
+• 10/20/22: Kanye buys his own little piece of free speech
+• 07/15/22: Big Tech's reckoning won't stop with Uber
+• 03/23/22: Putin may finally be gearing up for cyber war --- against America
+• 02/21/22: Watch out for the facial recognition overlords
+• 02/04/22: Bye-Bye Billion$: Facebook and Google are finally crashing 
+• 01/19/22: Cyberattacks on Ukraine may start spreading globally	
+• 11/10/21: 	 The startups that could close the greenwashing loopholes
+• 11/04/21: 
+Mark Zuckerberg takes a page from Elon Musk's book

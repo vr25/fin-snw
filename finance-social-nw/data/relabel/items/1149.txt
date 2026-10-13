@@ -1,0 +1,47 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+As many countries in the region, such as Malaysia and Singapore, mandate International Sustainability Standards Board (ISSB)-aligned climate reporting for large corporations, the same must be done for water, said Singapore’s president Tharman Shanmugaratnam.
+To continue reading, subscribe to Eco‑Business.
+Access all our exclusive content and archive — with a 7-day free trial. Then just US$5/month. Cancel anytime.
+- Exclusive access to training across business and policy topics
+- Direct access to industry leaders at Eco-Business events
+- A seat among the decision makers shaping the region's sustainable development
+“We’ve come to a point where most countries are going to end up adopting regulations that will require disclosure of carbon on the books of companies, banks and financial institutions.”
+“One low-hanging fruit [to improve water data], if you ask me, is to build water disclosure into existing carbon disclosure frameworks,” he said. “I don’t think it will require the same amount of time it took for carbon… because you can identify water a bit more easily than carbon.”
+By latching on to existing frameworks that regulators have endorsed, water data – which is currently sparse and fragmented, and not required to be disclosed by firms even when collected – can be consolidated into an interoperable database.
+“We can add it up. We know exactly how problems are shifting from one region to another, and we can take action to address them,” he said.
+The president also called for water-related disclosures to require “double materiality”, where companies will have to disclose the impact of their operations on water ecosystems, beyond the financial risks that they face from their dependence on water.
+“It’s the double materiality that counts,” he said. Shanmugaratnam is one of the four co-chairs the Global Commission on the Economics of Water (GCEW), which released a landmark report putting a value on the global water cycle for the first time on Thursday.
+Rising water consumption driven by the artificial intelligence (AI)-driven data centre boom, which the report addressed, has sparked concern globally. In 2022, United States-listed big tech firms Google and Microsoft reported a 20 per cent and 34 per cent spike, respectively, in water usage to cool their data centres.
+But many AI developers, like OpenAI which created ChatGPT, are currently not subjected to disclosure requirements and continue to conceal how much power and water their technologies use.
+Environmental reporting non-profit CDP saw investor demand for water-related disclosures more than double in the past year, with tech giants including Apple, Amazon and LG, among those that financial institutions requested data for.
+Unlike the Global Reporting Initiative (GRI) standard – which remains the most widely-used reporting framework, despite being voluntary – or CDP, ISSB has adopted a “single materiality” approach, which focuses solely on the potential impacts to the organisation, rather than its impacts on the environment and societies. More than 20 jurisdictions are in the process of adopting the ISSB framework.
+What does “proper pricing” of water look like?
+In discussions around raising the price of water, which remains a sensitive issue globally, people often cite trade-offs between achieving economic efficiency and social equity, observed Shanmugaratnam.
+But this is a “simplistic and toxic debate” that the world needs to move beyond, he said. Instead, he suggested that well-designed water tariffs, accompanied by “sensible” subsidies, are needed to ensure equitable access to water for lower-income families.
+While Shanmugaratnam did not give estimates for the “proper pricing” of water, he said that pricing must always be considered together with subsidies.
+For instance, since 1973, Singapore has adopted a block tariff system, where households pay a uniform price up to a certain amount for water consumption, beyond which additional tariffs will kick in for larger consumers. To ensure equitable water access, lower- and middle-income households automatically receive subsidies.
+Some countries, like Chile and Kenya, have similar pricing structures, but most countries continue to underprice water, he said. “When [public utilities] don’t have enough revenue, they fail to invest in the maintenance of their systems, which ends up costing them even more, preventing them from extending the infrastructure to reach poor and vulnerable communities.”
+“Through the proper design of pricing… we can ensure that we conserve water better, we reward the largest users of water – which typically are large industrial and agricultural companies – less, and use the subsidies instead to support the poor.”
+“That’s the blend for proper, realistic pricing of water that reflects its scarcity, as well as its many ecosystem benefits and a redirection of subsidies,” he said.
+Over US$700 billion a year is spent on harmful agricultural and energy subsidies, which incentivises its profligate use and skews the locations of the most water-intensive crops and water-guzzling sectors, like data centres and coal-fired power plants, to areas most at risk from water stress, found the report Shanmugaratnam co-wrote.
+“The world is spending a fortune on the wrong subsidies. It’s spending a fortune on subsidies that encourage the overuse of water and energy, including the two together, such as diesel subsidies for pumping groundwater, which still exists in many parts of the world,” said Shanmugaratnam.
+In the Indian state of Punjab, for example, power for pumping underground water reserves is often provided at low or zero rates, which many researchers believe exacerbates the excessive pumping of irrigation water, the report said.
+Additionally, subsidies should be redirected to spur innovations in water-saving technologies, where a larger proportion of solutions are already commercially viable, compared to climate change technologies, he said.
+“In the case of water, I’d say confidently that at least 75 per cent of the technologies are available. They have been tried in one place or another, but they lack scale,” Shanmugaratnam said.
+In contrast, experts estimate that about 50 per cent of decarbonisation solutions the world is relying on to get to net zero are still frontier technologies that are unproven and require a lot of research and development resources.
+“
+We now understand much better how water is not just a victim of climate change. It’s not just about the heat waves and rising temperatures leading to a drying up of the soil and rivers. Water is also a driver of climate change and biodiversity loss.
+The report also cited how subsidies to water-intensive crops, such as rice, cotton and sugarcane, incentivise their cultivation in the most arid parts of the world, like Middle East and South Asia – putting further stress on their water resources.
+Agricultural subsidies are responsible for approximately 14 per cent of annual deforestation, which disrupts precipitation patterns beyond national borders, it said.
+This in turn has led to the loss of some of the most important carbon sinks on the planet, said Shanmugaratnam. Of the three largest tropical rainforests that the world relies on for carbon sequestration, only Congo continues to store carbon on a net basis.
+“Southeast Asia has crossed that tipping point and now emits more carbon than it sequesters through its forests. The Amazon is at the tipping point and at risk of being a major source of carbon emissions in 10 years’ time. Brazil and others are now trying to reverse that trend by going for reforestation,” he said.
+“We now understand much better how water is not just a victim of climate change. It’s not just about the heat waves and rising temperatures leading to a drying up of the soil and rivers. Water is also a driver of climate change and biodiversity loss.”
+Use water to reinvigorate multilaterialism
+Water tends to be neglected in multilateral discussions as it is seen as a local problem – due to local mismanagement or resource scarcity – and not “part of the broader ecological shifts that the Earth system is going through,” said Shanmugaratnam.
+The whole world is connected through atmospheric flows of moisture, also known as “atmospheric rivers”, which determine rainfall patterns outside political borders, he said.
+“Here in Southeast Asia, we receive moisture from Australia and New Zealand through the atmosphere, and in turn, Southeast Asia and South Asia send moisture to China and Northeast Asia… Our interconnectedness through water is much more than about the transboundary flows that we can see with our eyes,” said Shanmugaratnam.
+This is why the hydrological water cycle must be governed as a “global common good”, which requires multilateral mechanisms for nations to set common goals and move towards the proper pricing of water for its conservation, he said.
+“Multilateralism is weak, but not dead,” said Shanmugaratnam, referencing recent multilateral agreements that were reached, like the 2022 Kunming-Montreal Global Biodiversity Framework as well as the 2023 High Seas Treaty.
+“In the case of water, the benefits to nations will be salient, and they don’t have to wait a century or half a century to see those benefits. The benefits are immediate. So I’m hopeful that we can use water to reinvigorate multilateralism.”

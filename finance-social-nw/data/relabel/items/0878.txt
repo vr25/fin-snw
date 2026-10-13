@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+15 years of Minecraft: The unbroken success of the block game
+Minecraft celebrated its 15th birthday on May 17. The creative game has shaped the gaming world like no other and continues to be incredibly popular.
+In 2009, Swedish developer Markus "Notch" Persson could only dream of the success of his block-building game. At the time, he was still a blank slate in the gaming scene. But then he single-handedly created Minecraft. The early version with its simple game mechanics gave players full creative control: they explored a randomly generated world, mined resources and used them to craft new tools or building materials. Despite numerous changes since its launch, Minecraft has remained true to this concept to this day.
+The unusual early access distribution contributed to its rapid success. Notch initially released an unfinished pre-release version - this original version can be played in the browser again today, as the WebAssembly JVM CheerpJ 3.0 enables the seamless execution of unmodified Java applications.
+When Notch retired from development in 2011, he handed over creative control to Jens "Jeb" Bergensten. In 2014, he sold the rights to Microsoft for 2.5 billion dollars. For many, Notch is now a persona non grata; he has been accused of racism, misogyny and supporting conspiracy theories, among other things. The controversial creator was therefore not even invited to the official celebration to mark his tenth birthday.
+Unbroken popularity
+However, this has not dampened Minecraft's success: in 2023, it was the first game to break the 300 million copies sold mark. The number of active players is also continuing to rise. According to Statista, there were 174 million active Minecraft players per month in 2023. It also enjoys continued popularity on YouTube and Twitch.
+Minecraft is far more than just a survival game with a world-building kit, however, as virtual circuits can be built with the help of "redstones", including complete 8-bit computers in Minecraft.
+Empfohlener redaktioneller Inhalt
+Mit Ihrer Zustimmung wird hier ein externes YouTube-Video (Google Ireland Limited) geladen.
+Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit können personenbezogene Daten an Drittplattformen (Google Ireland Limited) übermittelt werden. Mehr dazu in unserer Datenschutzerklärung.
+Thanks to such possibilities, Minecraft is also used in teaching, even for explaining physical quantum effects. At Didacta 2023, the start-up Reload presented a learning environment for programming, circuits and hardware design within Minecraft. The task designs can be adapted depending on the target group. For example, there are logic tasks that even primary school children can complete and tasks aimed at trainees and students.
+Videos by heise
+Minecraft film
+A Minecraft film announced back in 2014 and various related projects were repeatedly put on hold. Now there is an announcement for a Minecraft movie including a start date. The Minecraft film, directed by Jared Hess, is to be released in cinemas on April 4, 2025. The film is set to star Jack Black, Jason Momoa, Kate McKinnon and Jennifer Coolidge. The strikes in Hollywood also contributed to delays in the work on the film. The two main actors Jack Black and Jason Momoa congratulated Minecraft on its 15th birthday on Instagram.
+Empfohlener redaktioneller Inhalt
+Mit Ihrer Zustimmung wird hier ein externes Video (TargetVideo GmbH) geladen.
+Ich bin damit einverstanden, dass mir externe Inhalte angezeigt werden. Damit können personenbezogene Daten an Drittplattformen (TargetVideo GmbH) übermittelt werden. Mehr dazu in unserer Datenschutzerklärung.
+Spin-offs and competition lagging behind
+After the flop "Lego Worlds" from 2015, not even Lego's mega collaboration with the gaming multiverse Fortnite was able to overtake Minecraft, although "Lego Fortnite" had an estimated 2.5 million players in its first few days. Similar to Fortnite, players have to collect resources, craft and fight monsters in survival mode. The construction mode, on the other hand, offers more freedom for creativity. Lego Fortnite is technically impressive, but offers little variety in terms of gameplay. It has not yet become a Minecraft competitor.
+The in-house spin-offs Minecraft Dungeons and Minecraft Legends have also been unable to match the success of the main game. So even after 15 years, Minecraft is still at the top of the gaming world. We are curious to see who will manage to take Minecraft's crown when - and with which game principle.
+(vza)

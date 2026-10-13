@@ -1,0 +1,119 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Sign up for our free daily newsletter, Kiplinger Today
+Join over half a million readers using Kiplinger's insights to make smart financial decisions. Profit and prosper with our expert guidance on investing, taxes and retirement, and more. Delivered daily.
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+You are now subscribed
+Your newsletter sign-up was successful
+Want to add more newsletters?
+An account already exists for this email address, please log in.
+After a slow start to the year due to private credit concerns, a broader risk-off backdrop and volatility sparked by the war in Iran, activity in the initial public offering (IPO) market picked up in the middle of 2026.
+Then, in mid-September, Anthropic co-founder Dario Amodei published an essay arguing that risk prevention must catch up to runaway progress in the artificial intelligence (AI) revolution.
+OpenAI CEO Sam Altman endorsed Amodei's call to "pace the frontier," as did SpaceX (SPCX) CEO Elon Musk endorsed Amodei's call to "pace the frontier," as did OpenAI CEO Sam Altman.
+Latest Videos FromKiplinger
+In fact, Altman said the ChatGPT maker was unlikely to complete its IPO this year. "I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that."
+OpenAI confidentially filed its draft Form S-1 registration statement with the Securities and Exchange Commission (SEC) on June 8. But the earliest one of the most anticipated new listings in the history of the stock market will happen is 2027.
+According to Renaissance Capital, there have been 180 IPOs filed so far this year through September 18, down 8.6% from the year-ago period. Pricing activity is down 29.7%.
+At the same time, total proceeds raised of $145.6 billion for the 109 firms that priced their offerings is up almost fourfold.
+The bulk of this massive growth in proceeds came courtesy of SPCX, Musk's satellite and space exploration company that went public in June in the biggest IPO ever, raising $75 billion in its offering.
+Other factors apart from fear of AI proliferation, such as uncertainty about the war in the Middle East, inflation and interest rates, have cooled the IPO market.
+Privately held firms such as data intelligence platform Databricks, digital currency asset management firm Grayscale Investments and small modular reactor (SMR) developer Holtec have paused their IPOs to wait for more opportune entry points.
+Whatever the macro environment, according to Kaush Amin, head of private market investing at U.S. Bank, "What will matter most is pricing discipline and deal quality."
+And Amin still expects "several large listings this year," including Anthropic, which is "capex heavy and will require access to public markets sooner rather than later given the size of their spending budgets."
+Indeed, amid the alarm sounded by its co-founder, Anthropic seems likely to list on the Nasdaq before the end of the year, at a valuation near $2 trillion.
+According to The Wall Street Journal, "The maker of Claude is likely to tell investors its potential revenue opportunities are above $30 trillion, topping SpaceX’s $28.5 trillion estimate."
+(Image credit: Getty Images)
+Upcoming IPOs
+The market may not be as hot as it was mid-year. But companies are still testing the waters. So it's still a good time to explore the most anticipated upcoming IPOs.
+For those looking to gain exposure to these new stocks, it's imperative to have an understanding of what an IPO is before jumping in.
+"It's important to read the offering materials filed with the Securities and Exchange Commission and available on the SEC website," says Amin. "Investors should review risk factors, dilution, governance and how proceeds will be used." They should also be aware of "lock‑ups and potential 'market overhang' as more shares become eligible for sale later," he adds.
+Having covered the most promising upcoming IPOs for Kiplinger for several years, I've crafted this latest list to spotlight larger, well-established companies that are sure to gain the attention of both Wall Street and Main Street.
+Data is as of September 18. Where possible, we have provided reported expectations for timelines and/or valuations for the upcoming IPOs.
+Swipe to scroll horizontally
+Company
+Industry
+Expected IPO timeline
+Anthropic
+AI research and development
+2026
+SB Energy
+Data center infrastructure
+2026
+OpenAI
+AI research and development
+2027
+Grayscale Investments
+Digital currency asset manager
+2027
+Databricks
+Computer software
+2027
+Sponsored Content
+(Image credit: Jonathan Raa/NurPhoto via Getty Images)
+Anthropic
+In 2021, siblings Dario and Daniela Amodei cofounded Anthropic. Before this, the pair were executives at OpenAI, where they disagreed with the strategic focus and wanted to build a platform that would emphasize safety and transparency.
+That strategy proved profitable. Today, Anthropic is the second-biggest private AI company, behind OpenAI. The company develops some of the world's most sophisticated AI models and also operates the Claude chatbot.
+Last November, Microsoft (MSFT) announced a strategic partnership with Anthropic, which included a $5 billion investment. Nvidia (NVDA) also agreed to invest up to $10 billion in the AI startup. These investments give Anthropic a $350 billion valuation.
+In May, the company raised $65 billion in a new round of funding, which gives it a $965 billion valuation.
+Last year, Anthropic brought in $9 billion in revenue. The company's annual revenue run rate for this year had surpassed $65 billion by the end of July.
+As for an Anthropic IPO, the company confidentially filed paperwork with the SEC in June. According to the WSJ, Anthropic wants to raise as much as $100 billion, for a valuation of approximately $2 trillion.
+With big backing from Japan-based multinational investor SoftBank, SB Energy develops power-generation assets for data centers. It's also expanding into data center development, though it hasn't launched any into operation.
+SoftBank founder Masayoshi Son is making big bets on demand for "compute" will drive data center growth. SoftBank has committed more than $60 billion to OpenAI, another key piece in Son's AI investments.
+And OpenAI's delayed IPO complicates the process for SB Energy. But it's not stopping it.
+SB Energy also has close ties with Nvidia, as well as OpenAI, which it counts as key customers and strategic investors, and boasts a nearly half-trillion-dollar backlog as firms aim to ramp up data center construction.
+The company, which is reportedly aiming for a $50 billion valuation, generated $213 million in revenue in 2025, but is betting on a massive backlog to fuel exponential growth.
+SB Energy's $439 billion data center backlog is a big deal. It will be an even bigger deal when its operations start generating real revenue. But that could take years.
+Sponsored Content
+(Image credit: Ben Youssef / Hans Lucas / AFP )
+OpenAI
+The IPO market and the broader landscape were heating up in June when OpenAI filed its confidential IPO paperwork with the SEC.
+And it was probably on track to surpass records set by SpaceX that same month. It was only a matter of when the ChatGPT maker sold shares to the public for the first time.
+Now, after Altman told Fortune this is an "ill-advised moment" for his company to complete its IPO amid a growing backlash to the AI revolution and the safety of the types of models OpenAI, Anthropic and other tech giants are developing.
+But the paperwork is filed. And whether it happens this year or next, it's going to be big. So we're going to keep track of it.
+According to the Financial Times and The Wall Street Journal, OpenAI is talking to potential investors about a new capital-raising round that would value the ChatGPT maker at more than $1.2 trillion.
+OpenAI raised $122 billion in March at a valuation of $852 billion.
+Management said OpenAI surpassed 1 billion active users since its previous funding round. Second-quarter revenue grew to $6.7 billion from $5.7 billion in the first quarter.
+Sponsored Content
+(Image credit: Getty Images)
+Grayscale Investments
+Cryptocurrency was one of the hottest categories for IPOs last year, but broad market volatility through the middle of the year had a particularly negative impact on this niche, with bitcoin down about 12% year to date.
+Among notable recent crypto offerings, Circle Internet Group (CRCL) boasts a total return of almost 175% since it began trading in June 2025. But CRCL is down more than 35% over the trailing 12 months, more than 7% so far in 2026. And Bullish Global (BLSH), which soared in its August 2025 market debut, is down more than 35% since last September and almost 8% this year.
+So other crypto companies are less eager now to launch their own IPOs. Among them is Grayscale Investments.
+Grayscale, a top digital asset manager founded in 2013, filed its IPO paperwork with the SEC last November. Grayscale reported $35 billion in assets under management in its filing, a figure it hoped would rise as industry demand increased.
+The Grayscale Bitcoin Trust (GBTC) is its flagship fund. It also offers vehicles to trade ethereum-focused themes, bitcoin miners and early crypto adopters, as well as income-focused ETFs that use option strategies.
+The Trump administration has made improving the regulatory environment for the crypto industry a top priority. And more and more people are using and investing in digital assets – helped by a proliferation of crypto-focused ETFs.
+Potential risk factors remain substantial – this is still an emerging technology, and crypto remains a highly volatile asset class.
+The bitcoin ETF corner of the market is highly competitive, with players such as BlackRock (BLK) and Fidelity Investments. This is likely to mean pressure on investment fees.
+As for its IPO, recent reports suggest the company has delayed its IPO due to market conditions, and might not seek going public until 2027. We'll be tracking its progress.
+Sponsored Content
+(Image credit: Smith Collection/Gado/Getty Images)
+Databricks
+Many companies are still struggling to get their data house in order. It's all over the place. Different teams using different systems, formats that don't match, files with missing information or duplicated rows that throw everything off.
+Fixing this isn't just tedious; it's a serious obstacle for anyone trying to use AI effectively. That's the pain point Databricks was built around.
+Its story begins in 2009 at UC Berkeley's AMPLab. Matei Zaharia, then a Ph.D. student, developed Apache Spark, a faster, more flexible way to process big data, especially compared to older tools such as MapReduce.
+Spark could handle large jobs in memory, making things such as streaming and machine learning more efficient.
+A few years later, Zaharia joined up with some fellow researchers, including Ali Ghodsi and Ion Stoica. In 2013, they launched Databricks to bring Spark into the hands of enterprises. The company's platform made it easier to analyze large-scale data in the cloud.
+One big innovation: Databricks introduced what it calls a "lakehouse" architecture. It's a hybrid model that merges the strengths of data lakes and warehouses, so users can manage raw and structured data in the same place, without jumping between tools.
+Today, Databricks is powering data and AI efforts at more than 10,000 organizations, including AT&T (T), United Parcel Service (UPS) and Block (XYZ).
+The company's growth hasn't gone unnoticed. In February, the company said it raised $5 billion in its latest round of funding, giving it a $134 billion valuation.
+Why is Databricks eyeing an IPO?
+There are a couple of good reasons. Going public adds transparency, which tends to matter for big enterprise customers. But perhaps more important is having a publicly traded stock that makes acquisitions easier.
+That's something Databricks is already doing at a steady clip. Recent deals include generative AI customization platform MosaicML and Neon, a serverless database platform.
+Still, Databricks hasn't filed paperwork, and an IPO remains far off.
+Indeed, CEO Ali Ghodsi ruled out a listing for Databricks in 2026 on Bloomberg Television, saying this was "a terrible year to go public" and citing a calendar crowded with the likes of SpaceX and Anthropic. So 2027 is probably the earliest the company could IPO.
+Sponsored Content
+(Image credit: Getty Images)
+Are IPOs a good investment?
+IPOs can be a great way to invest in early-stage growth companies, and gains can potentially be massive.
+Then again, the risks can be substantial. "Market history is littered with examples of 'hot' IPOs that have gone on to become market duds," said Ed Ciancarelli, senior portfolio manager at Focus Partners.
+"Lyft, Inc (LYFT) went public at $72 on March of 2019 after pricing above the expected range of $62 to $68 per share," Ciancarelli notes. "LYFT closed the first day of trading at $78 and has not seen that level since. Such broken IPOs become the victim of an overly exuberant market and unattainable expectations."
+An IPO should be considered a higher risk category for your portfolio. For example, it might be best to allocate no more than 5% to 10% in these types of investments.
+Before investing in an IPO, you might want to wait until the excitement subsides.
+"Be patient and wait for the stock price to have its inevitable dip prior to investing," suggests Jeff McClean, CEO at Solidarity Wealth. "Unless you are one of the lucky few who have access to pre-IPO stock at reasonable valuations, patience is the best course."
+Moreover, it's a good idea to read the S-1, a regulatory filing that includes important information about the company that is planning to go public. Make sure to focus on the prospectus summary, risk factors and the letter from the founders.
+Sign up for our free daily newsletter, Kiplinger Today
+Join over half a million readers using Kiplinger's insights to make smart financial decisions. Profit and prosper with our expert guidance on investing, taxes and retirement, and more. Delivered daily.
+Contact me with news and offers from other Future brandsReceive email from us on behalf of our trusted partners or sponsors
+Tom Taulli is the CEO and cofounder of CorvEquity, a platform that helps startups track cap tables and manage stock option plans. He is also an author and financial writer whose books include The Personal Finance Guide for Tech Professionals: Building, Protecting, and Transferring Your Wealth and High-Profit IPO Strategies: Finding Breakout IPOs for Investors and Traders.

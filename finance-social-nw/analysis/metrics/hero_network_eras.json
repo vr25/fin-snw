@@ -1,0 +1,90 @@
+{
+  "pre": {
+    "n_relations": 20,
+    "active_firms": 4,
+    "edges": 4,
+    "relation_types": {
+      "unrelated-mention": 14,
+      "co-hype": 6
+    },
+    "density": {
+      "GPU / Semis": 0.0,
+      "Cloud / AI Platform": 0.667,
+      "Speculative AI": 0.0,
+      "Control": 0.0
+    },
+    "gpu_cloud": {
+      "causal": 0,
+      "substitute": 0,
+      "co_hype": 0,
+      "all": 0
+    }
+  },
+  "early": {
+    "n_relations": 239,
+    "active_firms": 6,
+    "edges": 12,
+    "relation_types": {
+      "co-hype": 96,
+      "unrelated-mention": 105,
+      "substitute-comparison": 27,
+      "causal-driver": 11
+    },
+    "density": {
+      "GPU / Semis": 0.167,
+      "Cloud / AI Platform": 0.5,
+      "Speculative AI": 0.0,
+      "Control": 0.0
+    },
+    "gpu_cloud": {
+      "causal": 6,
+      "substitute": 0,
+      "co_hype": 7,
+      "all": 22
+    }
+  },
+  "late": {
+    "n_relations": 1934,
+    "active_firms": 9,
+    "edges": 30,
+    "relation_types": {
+      "co-hype": 787,
+      "unrelated-mention": 821,
+      "substitute-comparison": 210,
+      "causal-driver": 116
+    },
+    "density": {
+      "GPU / Semis": 1.0,
+      "Cloud / AI Platform": 1.0,
+      "Speculative AI": 0.0,
+      "Control": 0.0
+    },
+    "gpu_cloud": {
+      "causal": 90,
+      "substitute": 35,
+      "co_hype": 302,
+      "all": 675
+    }
+  },
+  "returns_pct": {
+    "AMD": 957.0,
+    "AVGO": 699.6,
+    "BBAI": 122.2,
+    "GOOGL": 283.8,
+    "IONQ": 710.7,
+    "KO": 65.4,
+    "META": 697.1,
+    "MSFT": 133.8,
+    "NVDA": 1567.9,
+    "PG": 19.5,
+    "PLTR": 2092.7,
+    "RGTI": 786.2,
+    "SMCI": 502.0,
+    "SOUN": 131.8,
+    "XOM": 63.6
+  },
+  "price_window": [
+    "2022-11-01",
+    "2026-09-25"
+  ]
+}

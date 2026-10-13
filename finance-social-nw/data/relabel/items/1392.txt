@@ -1,0 +1,29 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Trump’s commerce secretary says new electronics tariff exemptions are temporary
+NASHVILLE, Tenn. (AP) — Tariff exemptions announced Friday on electronics like smartphones and laptops are only a temporary reprieve until the Trump administration develops a new tariff approach specific to the semiconductor industry, U.S. Commerce Secretary Howard Lutnick said Sunday.
+White House officials, including President Donald Trump himself, spent Sunday downplaying the significance of exemptions that lessen but won’t eliminate the effect of U.S. tariffs on imports of popular consumer devices and their key components.
+“They’re exempt from the reciprocal tariffs but they’re included in the semiconductor tariffs, which are coming in probably a month or two,” Lutnick told ABC’s “This Week” on Sunday.
+Trump added to the confusion hours later, declaring on social media that there was no “exception” at all because the goods are “just moving to a different” bucket and will still face a 20% tariff as part of his administration’s move to punish China for its role in fentanyl trafficking.
+The Trump administration late Friday had said it would exclude electronics from broader so-called reciprocal tariffs, a move that could help keep the prices down for phones and other consumer products that aren’t usually made in the U.S.
+China’s commerce ministry in a Sunday statement welcomed the change as a small step even as it called for the U.S. to completely cancel the rest of its tariffs.
+Sparing electronics was expected to benefit big tech companies like Apple and Samsung and chip makers like Nvidia, though the uncertainty of future tariffs may rein in an anticipated tech stock rally on Monday.
+U.S. Customs and Border Protection said items like smartphones, laptops, hard drives, flat-panel monitors and some chips would qualify for the exemption. Machines used to make semiconductors are excluded too. That means they won’t be subject to most of the tariffs levied on China or the 10% baseline tariffs elsewhere.
+It was the latest tariff change by the Trump administration, which has made several U-turns in its massive plan to put tariffs in place on goods from most countries. White House officials sought to dismiss any suggestion of a reprieve as the weekend progressed.
+“It’s not really an exception. That’s not even the right word for it,” U.S. Trade Representative Jamieson Greer told CBS’ “Face the Nation” on Sunday. “This type of supply chain moved from the tariff regime for the global tariff, the reciprocal tariff, and it moved to the national security tariff regime.”
+Greer added that “the president decided that we’re not going to have exemptions. We can’t have a Swiss cheese solution to this universal problem that we’re facing.”
+On Air Force One Saturday night, President Donald Trump told reporters he would get into more specifics on exemptions on Monday. In his post Sunday on TruthSocial, he promised the White House was “taking a look at Semiconductors and the WHOLE ELECTRONICS SUPPLY CHAIN.”
+Some had assumed the exemption filed Friday night reflected the president’s realization that his China tariffs are unlikely to shift more manufacturing of smartphones, computers and other gadgets to the U.S. any time soon, if ever.
+The administration has predicted that the trade war prod Apple to make iPhones in the U.S. for the first time, but that was an unlikely scenario after Apple spent decades building up a finely calibrated supply chain in China.
+It would take several years and cost billions of dollars to build new plants in the U.S., burdening Apple with economic forces that could triple the price of an iPhone and torpedo sales of its marquee product.
+The turmoil has battered the stocks of tech’s “Magnificent Seven” -- Apple, Microsoft, Nvidia, Amazon, Tesla, Google parent Alphabet and Facebook parent Meta Platforms.
+At one point, the Magnificent Seven’s combined market value had plunged by $2.1 trillion, or 14%, from April 2 when Trump unveiled sweeping tariffs on a wide range of countries. When Trump paused the tariffs outside of China on Wednesday, the lost value in those companies was pared to $644 billion, or a 4% decline.
+An electronics exemption would fulfill the kind of friendly treatment that industry was envisioning when Apple CEO Tim Cook, Tesla CEO Elon Musk, Google CEO Sundar Pichai, Facebook founder Mark Zuckerberg and Amazon founder Jeff Bezos assembled behind the president during his Jan. 20 inauguration.
+That united display of fealty reflected Big Tech’s hopes that Trump would be more accommodating than President Joe Biden’s administration.
+Apple won praise from Trump in late February when the Cupertino, California, company committed to invest $500 billion and add 20,000 jobs in the U.S. during the next four years. The pledge was an echo of a $350 billion investment commitment in the U.S. that Apple made during Trump’s first term when the iPhone was exempted from China tariffs.
+An electronics exemption would remove “a huge black cloud overhang for now over the tech sector and the pressure facing U.S. Big Tech,” said Wedbush analyst Dan Ives in a research note. Ives amended that note after Lutnick’s comments Sunday, saying the confusing news out of the White House “is dizzying for the industry and investors and creating massive uncertainty and chaos for companies trying to plan their supply chain, inventory, and demand.”
+Neither Apple nor Samsung responded to requests for comment over the weekend. Nvidia declined to comment.
+___
+O’Brien reported from Providence, Rhode Island. AP White House correspondent Darlene Superville in West Palm Beach, Florida, and AP Technology Writer Michael Liedtke in Berkeley, California contributed to this report.
+Copyright 2025 The Associated Press. All rights reserved.

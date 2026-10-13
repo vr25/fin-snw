@@ -1,0 +1,17 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+September 12, 2024
+State Attorney Generals Call For Congress To Place Warning Labels On Social Media
+Oh, they mean business....
+A massive group of state attorney generals called for Congress to pass legislation requiring the U.S. Surgeon General to place a warning label on all social media platforms, The Hill reports.
+Forty-two lawyers from states and U.S. territories released a letter on Sept. 9, hoping that Congress would move on Surgeon General Vivek Murthy’s proposal to require official warnings across social media platforms. “Young people are facing a mental health crisis, which is fueled in large part by social media,” the letter started, addressed to House Speaker Mike Johnson (R-LA), Senate Majority Leader Chuck Schumer (D-NY) and Senate Minority Leader Mitch McConnell (R-KY).
+“As Surgeon General Murthy recognized, this generational harm demands immediate action. By mandating a surgeon general’s warning on algorithm-driven social media platforms, Congress can help decrease this growing crisis and protect future generations of Americans.”
+Murthy pushed for a surgeon general’s warning label to be placed on social media platforms in June 2024, similar to labels on tobacco and alcohol products. He highlighted how studies have shown warning labels on certain products heighten awareness, changing a user’s behavior. “It is time to require a surgeon general’s warning label on social media platforms, stating that social media is associated with significant mental health harms for adolescents,” Murthy wrote.
+“A surgeon general’s warning label, which requires congressional action, would regularly remind parents and adolescents that social media has not been proved safe.”
+A 2019 study from the American Medical Association revealed that teens who spend three hours a day on social media increase their risk of depression. Teenagers spend close to five hours a day on social media apps. According to CNN, a number of states, including New York, have taken legal action against social apps such as TikTok and Meta. The state’s AG, Letitia James, has had her own battles with the apps.
+In October 2023, James filed a suit against Meta, the parent company of Facebook and Instagram, alleging it was causing irreparable harm to the young adult’s mental health.
+While the federal government has also threatened to ban TikTok in the United States, the AGs think those on Capitol Hill need to do more to alert people to the dangers of social media. “Everyone needs to know the risk associated with these social media platforms,” James said.
+“The Surgeon General’s recommendation is a strong first step in that direction, and I hope warning labels will be implemented swiftly to raise more awareness about this issue.”
+The letter was signed by AGs of every state except Alaska, Arizona, Iowa, Kansas, Louisiana, Missouri, Montana, Nebraska, Ohio, Tennessee, Texas, and West Virginia. Murthy’s calls have gone silent in the Senate, but they did pass the Kids Online Safety Act during the summer of 2024.
+The legislation, supported by Microsoft, X, and Snapchat, requires tech companies to protect children from dangerous online content and be accountable when their platforms cause harm.

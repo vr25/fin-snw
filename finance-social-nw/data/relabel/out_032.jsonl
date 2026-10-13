@@ -1,0 +1,20 @@
+{"id": "0640", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Nvidia's valuation passed the", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0641", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia's valuation passed the", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "0642", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Home Join Premium Contributors Channels", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0643", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Apple Inc. is embarking on", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0644", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "U.S. antitrust enforcers are opening", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "0645", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As the stock market pushes", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0646", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As the stock market pushes", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0647", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "As the stock market pushes", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0648", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Tesla is ramping up AI-based", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0649", "ticker_a": "AMD", "ticker_b": "AVGO", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0650", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0651", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0652", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0653", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0654", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "S&P 500 hits fresh closing", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0655", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Charges Filed Against Minnesota Woman", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "0656", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "So far we have not", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0657", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "So far we have not", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0658", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "So far we have not", "relation": "co-hype", "sentiment_alignment": 0.6}
+{"id": "0659", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Emerging markets recorded 63 per", "relation": "unrelated-mention", "sentiment_alignment": 0.0}

@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+A massive new data center could transform North San Jose By George Avalos September 25, 2026 at 12:42 p.m. A three-story data center proposed for a prime San Jose site could go into operation...
+Federal court says Pentagon can label Anthropic a supply chain risk By Associated Press September 25, 2026 at 11:26 a.m. The dispute between the AI company and the government broke out in February.
+States bet big on rural health startups, with a Silicon Valley twist By Tribune News Service September 24, 2026 at 5:01 a.m. Modernizing technology infrastructure is a key pillar of the federal rural health program.
+Bay Area sees more than 1,000 tech layoffs in September By George Avalos September 23, 2026 at 1:49 p.m. The number of tech layoff announcements so far in 2026 is roughly 13,900 – about...
+Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI By Associated Press September 23, 2026 at 7:21 a.m. Multiple employees at leading AI companies are endorsing the bill.
+He’s Congress’ top AI expert. Is he worried about artificial intelligence? By Beau Yarbrough September 21, 2026 at 10:02 a.m. Rep. Jay Obernolte, R-Hesperia, chaired the bipartisan House Task Force on Artificial Intelligence in 2024.
+China and the US are competing for AI dominance but have shared concerns over safety By Associated Press September 21, 2026 at 8:11 a.m. Both nations are worried about AI's potential to attack critical infrastructure.
+Bessent: US proposes AI incident alert system in talks with China By Associated Press September 21, 2026 at 6:46 a.m. Bessent says greater transparency is critical between the world’s two leading AI powers.
+New fire erupts at Moss Landing battery power storage plant along Monterey Bay that burst aflame in 2025 By John Woolfolk September 18, 2026 at 12:37 p.m. Nearby estuarine reserve has closed due to new fire at battery power storage plant that...
+A global AI safety strategy depends on US-China cooperation. They each see the other as the problem By Associated Press September 17, 2026 at 9:03 a.m. Both countries are vying for a decisive advantage on AI.

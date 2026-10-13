@@ -1,0 +1,110 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Backup Statistics By Users, Companies, Frequency, Country And Technology Adoption (2025)
+Updated · Jun 02, 2026
+Introduction
+Backup Statistics: As the world is transforming digitally, data is termed the backbone of both personal and professional life. Backup is the crucial process of creating a copy of important files and information to protect against loss. This practice is essential because data can be lost due to accidental deletion, hardware failure, or cyberattacks. With growing threats like ransomware, hardware failure, and accidental deletion, having a reliable backup strategy is no longer optional; it’s essential.
+This article includes current statistical analysis from different sources that will cover all the importance of data backup, the evolving landscape of backup solutions, and what individuals and organizations need to know to stay protected.
+Editor’s Choice
+- According to Expert Insights, mature disaster recovery plans were carried out by 24% of organizations, that is well-documented, tested, and updated.
+- To protect databases, 91% of organisations use some form of backup.
+- Only 28% of organisations back up their research and development data.
+- Meanwhile, while a much higher 62% make sure to back up data from their business applications.
+- 74% of organisations using Microsoft 365 use backups, but only 15% were able to recover all their data after a data loss fully.
+- The Business Research Company further states that by the end of 2025, the market size of the data backup and recovery market will reach around USD 16.66 billion.
+- Only 15% of IT managers and 12% of users store backups both locally and in the cloud as recommended.
+- The PhoenixNAP report also states that 84% of businesses now use cloud backup solutions, and 93% among small to mid-size companies.
+- According to blog.9cv9.com, in 2024, four leading backup software makers held 40% market share.
+- By 2025, global data storage capacity is projected to surpass 175 zettabytes across all platforms.
+- 75% of enterprises are expected to depend on SaaS application backups by the end of 2028.
+- As of 2024, around 25% of companies used AI and machine learning in backup processes, and 80% prioritised cybersecurity in their backup strategies.
+- In the same period, 35% of companies were using hyper-converged infrastructure (HCI) for backup.
+General Backup Statistics
+- According to the reports of TeleData Select as of 2024, around 50% of data breaches happened through cloud systems, despite their trusted security.
+- Only 5% of business downtime is caused by natural disasters like floods, fires, or earthquakes.
+- As of 2025, 40% of small businesses face hacking risks, and over 50% won’t realise their network was attacked through the internet, according to Ontech System.Inc.
+- As per the reports of the National Archives & Records Administration in Washington, DC, 93% of companies losing data for 10+ days went bankrupt within a year; half failed immediately.
+- One in five small businesses gets hacked yearly, and 20% face major data loss disasters every five years.
+(Source: thebusinessresearchcompany.com)
+- The above graph elaborates that in 2024, the global market size of data backup and recovery accounted for USD 14.95 billion and is estimated to reach USD 16.66 billion by 2025.
+- The market will grow at a CAGR of 15.2% from 2024 to 2029, resulting in USD 29.31 billion by 2029.
+- According to blog.9cv9.com, the global SaaS backup software market was valued at USD 1.4 billion as of 2024, with a CAGR of 9.7% (2025 to 2029).
+- Meanwhile, the storage and backup software market reached a size of USD 32.9 billion in the same duration and is estimated to reach USD 37 billion by the end of 2025.
+- The above market will grow at a CAGR of 9.7% from 2025 to 2029.
+- Besides, the market size of the global backup software solutions is valued at USD 24.8 billion in 2024 and will grow at a CAGR of 10.5% from 2024 to 2029.
+- As digitalisation grew, 50% more companies started using backup software, 30% added AI tools, and 70% needed nonstop data protection.
+Types of Storage Use for Backup Statistics
+(Source: handyrecovery.com)
+- According to the above image analysis, approximately 55% of respondents rely on digital cloud services, such as Google Drive and Dropbox.
+- PC’s Internal Storage and USB flash drives were used by 20.4% and 7.46% of respondents to store data.
+- Furthermore, other data storage methods include SD cards (6.80%), Physical copies (5.31%), and External hard drives (4.81%).
+- In contrast, the rest of the other type of storage secured a share of 0.5%.
+Backup Data Usage Reason Statistics by Companies
+Backup Users Statistics
+(Reference: handyrecovery.com)
+- As of 2024, almost 78% of digital users backed up their data in the United States of America.
+- Besides, only 32.8% did it regularly, and 26.7% backed up just a few times a year.
+- On the other hand, 22.3% of users never backed up their data, and 18.2% backed up their data rarely.
+- Interestingly, 41% of Mac users and 32% of Windows users say they back up their data regularly.
+- Among mobile users, 36% of iOS users and 34% of Android users also follow regular backup habits.
+(Reference: handyrecovery.com)
+- As of October 2024, approximately 44.44% of people back up all their data, no matter how sensitive it is.
+- Followed by 26.67% backup data selectively, 25.33% backup only sensitive or important files, 2.44% don’t currently use any data backup system, and 1.11% do not back up data at all.
+The table below includes different categories of users who skip backups:
+Types of Data Requiring Special Protection
+Backup Statistics by Frequency and Adoption
+(Source: expertinsights.com)
+- According to Backbaze, only 11% of users back up their data once a week, followed by 20% do it once a month.
+- Besides, 13% back up just once a year, and 26% back up less than once a year.
+- Surprisingly, 1 in 5 people (20%) have never made a backup at all.
+- In contrast, Acronis’ report shows 15% of users back up once or twice a week.
+- Meanwhile, 34% back up monthly, and 41% either rarely back up or never back up their data.
+By Frequency Type
+(Source: coolest-gadgets.com)
+Businesses Storing Their Backup Statistics
+- According to Coolest Gadgets, nearly 97% of recent ransomware attacks also target backup storage, not just the main systems.
+- Almost 75% of large companies are going to use BaaS by the end of 2028, up from 15% in 2024.
+- In 2024, 74% of organisations switched to cloud backups for better cost and scalability.
+- In contrast, 52% of them use both cloud and on-premises storage to enjoy the benefits of both.
+- About 33% of businesses are still using local backups to keep data safe and quickly accessible.
+- Data breaches cost 26% less for organisations using hybrid cloud storage for backup processes.
+- Just 15% of IT managers and 12% of users store backups locally and in the cloud.
+Backup Statistics by Country
+- As of 2024, in the United States, 85% of businesses have a regular data backup system in place.
+- Around 60% back up their data daily, while 25% do it weekly, and 15% monthly.
+- 70% of these businesses use cloud backup solutions for added security and convenience.
+Other countries’ data backup and recovery services are stated in the table below:
+By Region, 2024
+By Industry
+By Demographics
+- Based on the reports of Coolest Gadgets of 2024, about 50% of men backed up their data often using tech-based tools, while 45% were women.
+- Almost 65% of people aged between 18 and 34 years backed up their data every month.
+- Furthermore, other monthly backup shares by other age groups are followed by 35 to 54 years (50%), and 55+ years (30%).
+- Users earning over USD 100,000 often use paid backup services and store about 60% of their data that way.
+- Around 45% of those with incomes between USD 50,000 and USD 100,000 back up their data, while 30% of lower-income users rely on free backup tools.
+Furthermore, backup shares of professionals are stated in the table below:
+Backup Technology Adoption Statistics
+- According to the reports of WifiTalents, 60% of all stored data is backed up in the cloud, while 10% still relies on tape.
+- More than 90% of the enterprises use Hybrid cloud storage for merging on-site and off-site systems.
+- Blog 9CV9 report for 2024 further mentioned that about 25% of companies integrated AI and machine learning into backup processes.
+- 35% adopted hyper-converged infrastructure (HCI) to streamline backup operations
+- By the end of 2028, Backup‑as‑a‑Service (BaaS) is expected to be used by 85% of large enterprises.
+Security Concerns of Backup Statistics
+(Reference: coolest-gadgets.com)
+- The above pie chart depicts that in 2024, around 45% of people said their biggest worry is losing or damaging their data.
+- About 35% are concerned about data breaches and want better security.
+- Privacy is also a concern, as 15% fear cloud providers may access their data.
+- Meanwhile, 3% worry about third-party dependencies and 2% about legal or government rules.
+Popular Data Backup Options Statistics
+Conclusion
+After completing the article on Backup Statistics, it can be concluded that businesses that fail to protect their data often face permanent consequences, including shutdowns and financial loss. In today’s digital age, where data is both a critical asset and a vulnerable target, having a strong backup strategy is essential, not just for recovery but for survival.
+While technologies like cloud backup, hybrid storage, and AI-driven solutions are making backups more accessible and efficient, it’s the frequency, testing, and reliability that truly make a difference. Hopefully, all the above analyses will be beneficial for understanding the overall topic better.
+Sources
+FAQ.
+The four types of backups are full backup, differential backup, incremental backup, and mirror backup.
+To analyse the backup requirements, you must first determine the following values: Recovery Point Objective (RPO)
+The 3-2-1 backup rule suggests keeping two extra copies of your data to stay safe from disasters, mistakes, hardware issues, or cyberattacks.
+The best methods are Cloud Backup, External Drives (HDD/SSD), Network Attached Storage (NAS), Backup-as-a-Service (BaaS), Hybrid Backup (Cloud + Local), and Continuous Data Protection (CDP)
+The most used tools are Backblaze, Acronis Cyber Protect Home Office, EaseUS Todo Backup, iDrive, and Google Drive / OneDrive / Dropbox.
+Maitrayee Dey has a background in Electrical Engineering and has worked in various technical roles before transitioning to writing. Specializing in technology and Artificial Intelligence, she has served as an Academic Research Analyst and Freelance Writer, particularly focusing on education and healthcare in Australia. Maitrayee's lifelong passions for writing and painting led her to pursue a full-time writing career. She is also the creator of a cooking YouTube channel, where she shares her culinary adventures. At Smartphone Thoughts, Maitrayee brings her expertise in technology to provide in-depth smartphone reviews and app-related statistics, making complex topics easy to understand for all readers.

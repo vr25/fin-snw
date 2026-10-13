@@ -1,0 +1,14 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+U.S. Lawmakers question the EU’s enforcement of the Digital Markets Act against U.S. tech firms
+House Judiciary Committee Chair Jim Jordan and Congressman Scott Fitzgerald have raised concerns about the European Union’s Digital Markets Act, DMA. Jordan argued that the law’s provisions will “benefit Chinese and European companies that are no subject to the regulations.”
+The DMA allows European regulators to impose fines on a company’s global revenue. In a letter to EU official Teresa Ribera, Jordan and Fitzgerald questioned the law’s fairness and its impact on major American companies such as Apple, Meta, Google, Amazon, ByteDance, and Microsoft, acccording to the NYPost. Lawmakers are expecting a response no later than March 10.
+President Trump nominates ex- secret service agent Dan Bongino as deputy FBI director
+Following the recent nomination of Kash Patel as FBI director, President Trump has nominated conservative podcaster and former secret service agent Dan Bongino as the deputy director of the FBI. The deputy director serves as second-in-command and oversees key investigations.
+Trump described Bongino as “a man with incredible love and passion for our Country,” according to AP.
+Bongino has voiced his support for FBI director Patel and emphasized his commitment to focus on fighting crimes.
+Apple announces $500 billion investment plan in U.S. economy
+Apple has announced a $500 billion investment plan over the next four years, claiming it will create 20,000 new jobs. This investment includes a new facility in Houston, enhancement of data centers, and a new academy in Detroit, according to NBC.
+This move is seen to be a response to President Trump’s tariffs on Chinese imports, as Apple is a main manufacturer. After meeting with Apple CEO Tim Cook, Trump insists his threats played a role in this investment.
+Trump said, “Faith in what we are doing” as the reason for Apple’s recent announcement.

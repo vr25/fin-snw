@@ -1,0 +1,79 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+MARKET WRAPS 
+  Watch For: 
+  Flash PMI for Eurozone, Germany, France, U.K.; CPI Data for EU; France monthly business survey; trading updates from Nestle, Danone, Telefonica, Lloyds Banking Group, Rolls-Royce, Mercedes-Benz, Repsol, AXA, WPP, Engie, Zurich Insurance, Gold Fields, Mondi, Anglo American, Hikma Pharmaceuticals, Hargreaves Lansdown, Iberdrola 
+  Opening Call: 
+  Stock futures were higher ahead of a slew of European corporate earnings and PMI data. In Asia, stock benchmarks were mixed; the dollar edged lower; Treasury yields were broadly lower; oil futures and gold gained. 
+  Equities: 
+  European stock futures were higher early Thursday as traders parsed stellar Nvidia earnings and minutes from the Federal Reserve's latest policy meeting which signaled that most Fed officials are worried about cutting interest rates too soon. 
+  Chip stocks in the Asian region were higher Thursday after Nvidia's strong quarterly results. 
+  Nvidia's results act as a bellwether for the strength of the AI boom, as big tech companies like Microsoft, Google, and Apple place large bets on the technology and need Nvidia's hardware to drive them. 
+  "The market is catching up with what the Fed has been saying," said Dana D'Auria, co-chief investment officer at Envestnet. "We're not going to get the rate cuts as soon as everybody was hoping." 
+  Early Thursday, Japan's benchmark stock average broke the all-time intraday high record set more than 34 years ago. The milestone was powered by foreign investors who are encouraged by Japan's corporate governance changes and are piling into the country as China's lure fades. 
+  On tap, today are a slew of European corporate earnings and PMI data. 
+  Forex: 
+  The dollar is unlikely to strengthen much from now, Spartan's Peter Cardillo said, as markets expect the Fed to start cutting interest rates in the next few months. 
+  "The dollar index is at a near-term peak," Cardillo said and reckoned the DXY could still rise, but not much. "I don't expect it to go much beyond 105." 
+  Coming data are unlikely to have a big impact on the dollar unless there are major surprises, he added. 
+  Bonds: 
+  Treasury yields were broadly lower after the selloff on Wednesday pushed long-term rates to their highest levels in almost three months, following a weak $16 billion sale of 20-year bonds and the release of minutes from the Fed's January policy meeting. 
+  "After a burst of optimism in late 2023, we're coming back to reality as inflation lingers," said David Russell, global head of market strategy at TradeStation. 
+  "Policymakers don't see any reason to rush rate cuts, especially with the strong labor market. Investors could now find themselves back in wait-and-see mode, with an eye on the next employment and CPI reports. Things could drift until we get more data." 
+  Energy: 
+  Oil futures gained in Asia amid signs of strong demand and increasing tensions in the Middle East. 
+  The premium of spot prices over near-date futures has been widening over recent weeks, indicating a robust demand outlook in the near term, ANZ's research team said, adding that prices were also being supported by increasing tensions in the Middle East. 
+  Metals: 
+  Gold gained as traders assessed mixed signals. 
+  The Middle East conflict has boosted safe-haven demand, benefiting the precious metal, UOB's Global Economics & Markets Research team said while the latest FOMC minutes released overnight have dampened hopes for an early rate cut. 
+  -- 
+  Iron ore futures fell in Asia. The trend of iron ore futures' prices remains weak as the supply and demand pattern hasn't improved, Baocheng Futures analysts said. 
+  Prices will likely remain capped, as the market focuses on the resumption of production by steel plants in China while steel inventories pile up, they added. 
+  -- 
+  Aluminum and nickel declined in a likely technical correction after spiking overnight. Prices of the metals surged on news of U.S. President Biden's plan to roll out a major sanctions package against Moscow on Friday, the ANZ Research team said. 
+  This could involve metals, which are a major source of revenue for the country, they added. 
+  TODAY'S TOP HEADLINES 
+  Japan's Nikkei, After 34 Years, Finally Tops Its All-Time High 
+  TOKYO-Japan's benchmark stock average on Thursday broke the all-time intraday high record set more than 34 years ago, a milestone in the country's recovery from a popped bubble that left the economy in the doldrums for decades. 
+  In intraday trading Thursday morning, the Nikkei Stock Average of 225 shares reached 39029.00, higher than the record close of 38915.87 on Dec. 29, 1989, and also higher than the previous intraday high of of 38957.44, set on the same day in 1989. 
+  Fed Minutes Show Unease Over Premature Cuts 
+  More Federal Reserve officials signaled concern at their meeting last month with cutting interest rates too soon and allowing price pressures to grow entrenched as opposed to the risks of holding rates too high for too long. 
+  "Most participants noted the risks of moving too quickly to ease the stance of policy," said the minutes of the Jan. 30-31 meeting, released Wednesday with a customary three-week delay. Only two officials pointed to the risks "associated with maintaining an overly restrictive stance for too long." 
+  U.S. Finds Some Israeli Claims on U.N. Staff Likely, Others Not 
+  WASHINGTON-A new U.S. intelligence assessment found it is likely that some employees of a United Nations agency that distributes aid to Palestinians took part in Hamas's Oct. 7 assault on Israel, but says the U.S. can't verify Israeli allegations that a larger number of U.N. workers have links to militant groups, people familiar with the report said. 
+  Washington and other Western capitals last month suspended funding for the United Nations Relief and Works Agency, which supplies aid to Palestinians, after Israel shared findings that at least 12 Unrwa employees were connected to the series of Hamas killings and kidnappings during an attack on Israel that sparked the war in Gaza. 
+  Vital Aid Fails to Reach Gazans as Security Void Grows 
+  Humanitarian aid deliveries in the Gaza Strip have slowed to a trickle, as security across the embattled enclave deteriorates, leaving 2.2 million Palestinians faced with spreading famine, disease and desperation. 
+  Efforts to provide lifesaving aid such as food, medicine and other essentials have been paralyzed by a series of factors. They include an expanding security void, Israeli military strikes on convoys and distribution areas, increasingly violent attacks on aid trucks by desperate Palestinians seeking food, Israeli curbs on aid flowing into northern Gaza and protests by Israeli activists who have blocked aid trucks, according to United Nations officials and aid groups. 
+  With Ukraine Aid Stuck in Congress, Supporters Push Fallback Plans 
+  WASHINGTON-House Democrats and some Republicans are preparing fallback plans to force a vote on Ukraine aid, with Democratic leaders drafting a special rule that could enable a narrow bipartisan majority to bypass Speaker Mike Johnson (R., La.) in the coming weeks. 
+  The plans to use rare parliamentary procedures are in the early stages and might never come into play-Democrats' preference is for Johnson to allow a vote on the Senate's $95 billion bill to help U.S. allies Ukraine, Israel and Taiwan and replenish depleted U.S. weapons stocks. 
+  Lenovo Posts First Revenue Gain Since 2022 
+  Lenovo has posted its first revenue gain since 2022, snapping a run of five straight quarters of declines during which the world's largest PC maker battled a postpandemic downturn in demand for personal computers. 
+  Revenue for the three months ended in December rose 3% from a year earlier to $15.72 billion, Lenovo said on Thursday. That marked its first on-year revenue increase in the last one-and-a-half years, beating analysts' expectations for $15.26 billion taken from a FactSet poll. The company said the result was driven by its solutions and services business, which posted double-digit revenue growth. 
+  Nvidia Sales Reach New Heights as Company Forecasts Bigger AI Boom 
+  Nvidia's sales more than tripled in its fourth quarter, as the semiconductor maker scrambled to meet the demand for its chips that are powering new artificial intelligence systems. 
+  Chief Executive Jensen Huang described AI as hitting "the tipping point" and indicated demand for the computing power that underlies AI remained astronomical. "Demand is surging worldwide across companies, industries and nations," he said. 
+  EV Maker Rivian to Cut Salaried Workforce by 10% 
+  Rivian Automotive said it would lay off 10% of its salaried workforce and expects vehicle output to be flat this year, citing tougher market conditions for its electric trucks. 
+  The startup said Wednesday it expects to produce roughly the same number of pickup trucks and sport-utility vehicles this year as it did in 2023, about 57,000, short of analysts' expectations of roughly 65,000 vehicles. 
+  Boeing 737 Executive to Exit After Alaska Blowout 
+  The Boeing executive in charge of the factory that built the jet involved in last month's door-plug blowout is leaving the company amid a broader leadership shake-up. 
+  Boeing said Wednesday that Ed Clark, a vice president for the 737 program and general manager of the company's factory in Renton, Wash., would be succeeded by Katie Ringgold, who oversees deliveries of 737s to customers. 
+  Write to singaporeeditors@dowjones.com 
+  Expected Major Events for Thursday 
+  07:00/DEN: Feb Business tendency survey 
+  07:00/NOR: 4Q Labour Cost Index - preliminary figures 
+  07:00/DEN: Jan Central Government Finance & Debt 
+  07:00/DEN: 4Q Labour force survey 
+  07:45/FRA: Feb Monthly business survey (goods-producing industries) 
+  08:00/SVK: Jan Harmonized CPI 
+  08:00/AUT: Jan CPI 
+  08:15/FRA: Feb France Flash PMI 
+  08:30/GER: Feb Germany Flash PMI 
+  09:00/POL: Jan Retail Sales 
+  09:00/EU: Feb Eurozone Flash PMI 
+  09:00/ITA: Jan CPI 
+  (MORE TO FOLLOW) Dow Jones Newswires
+  02-22-24 0015ET

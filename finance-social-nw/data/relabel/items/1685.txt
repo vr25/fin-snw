@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By MATT O’BRIEN and MICHAEL LIEDTKE, AP Technology Writers
+OpenAI said Tuesday it is introducing its own web browser, Atlas, putting the ChatGPT maker in direct competition with Google as more internet users rely on artificial intelligence to answer their questions.
+Making itself a gateway to online searches could allow OpenAI, the world’s most valuable startup, to pull in more internet traffic and the revenue made from digital advertising.
+OpenAI has said ChatGPT already has more than 800 million users but many of them get it for free. The San Francisco-based company is losing more money than it makes and has been looking for ways to turn a profit.
+OpenAI said Atlas launches Tuesday on Apple laptops and will later come to Microsoft’s Windows, Apple’s iOS phone operating system and Google’s Android phone system.
+OpenAI CEO Sam Altman called it a “rare, once-a-decade opportunity to rethink what a browser can be about and how to use one.”
+OpenAI’s browser is coming out just a few months after one of its executives testified that the company would be interested in buying Google’s industry-leading Chrome browser if a federal judge had required it to be sold to prevent the abuses that resulted in Google’s ubiquitous search engine being declared an illegal monopoly.
+But U.S. District Judge Amit Mehta last month issued a decision that rejected the Chrome sale sought by the U.S. Justice Department in the monopoly case, partly because he believed advances in the AI industry already are reshaping the competitive landscape.
+OpenAI’s browser will face a daunting challenge against Chrome, which has amassed about 3 billion worldwide users and has been adding some AI features from Google’s Gemini technology.
+Chrome’s immense success could provide a blueprint for OpenAI as it enters the browser market. When Google released Chrome in 2008, Microsoft’s Internet Explorer was so dominant that few observers believed a new browser could mount a formidable threat.
+But Chrome quickly won over legions of admirers by loading webpages more quickly than Internet Explorer while offering other advantages that enabled it to upend the market. Microsoft ended up abandoning Explorer and introducing its Edge browser, which operates similarly to Chrome.
+Perplexity, another smaller AI startup, rolled out its own Comet browser earlier this year. It also expressed interest in buying Chrome and eventually submitted an unsolicited $34.5 billion offer for the browser that hit a dead end when Mehta decided against a Google breakup.
+Altman said he expects a chatbot interface to replace a traditional browser’s URL bar as the center of how he hopes people will use the internet in the future.
+“Tabs were great, but we haven’t seen a lot of browser innovation since then,” he said on a video presentation aired Tuesday.
+A premium feature of the ChatGPT Atlas browser is an “agent mode” that accesses the laptop and effectively clicks around the internet on the person’s behalf, armed with what it has learned from users’ browser history and what they are seeking to learn and explaining its process as it searches.
+“It’s using the internet for you,” Altman said.

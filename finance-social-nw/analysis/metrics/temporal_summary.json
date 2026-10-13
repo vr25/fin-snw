@@ -1,0 +1,22 @@
+{
+  "early_period": {
+    "count": 259,
+    "relation_types": {
+      "unrelated-mention": 179,
+      "causal-driver": 24,
+      "substitute-comparison": 52,
+      "co-hype": 4
+    },
+    "winner_pairs_count": 6
+  },
+  "late_period": {
+    "count": 1934,
+    "relation_types": {
+      "unrelated-mention": 1364,
+      "substitute-comparison": 271,
+      "co-hype": 99,
+      "causal-driver": 200
+    },
+    "winner_pairs_count": 15
+  }
+}

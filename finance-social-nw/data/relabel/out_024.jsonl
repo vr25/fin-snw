@@ -1,0 +1,20 @@
+{"id": "0480", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "WBAL-TV\\Julian IngramBy Keira McGuire,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0481", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0482", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0483", "ticker_a": "GOOGL", "ticker_b": "SMCI", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0484", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0485", "ticker_a": "MSFT", "ticker_b": "SMCI", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0486", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "High-Performance Computing (HPC) Market", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0487", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "IBM and AWS leap", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0488", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Chinese bots targeted", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0489", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft CEO Satya", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "0490", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Login | September 28,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0491", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oil rose more", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0492", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The shaky stock", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0493", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The shaky stock", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0494", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The shaky stock", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0495", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "7Newswire 28 Oct 2023,", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0496", "ticker_a": "AMD", "ticker_b": "GOOGL", "first_words": "Traders' Diary: The last", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0497", "ticker_a": "AMD", "ticker_b": "MSFT", "first_words": "Traders' Diary: The last", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0498", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Traders' Diary: The last", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0499", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "President Joe Biden", "relation": "co-hype", "sentiment_alignment": 0}

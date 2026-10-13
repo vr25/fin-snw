@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Evidence of fake review groups operating on Facebook has been found by Which?
+The consumer group said its snapshot investigation found more than a dozen groups trading glowing reviews in exchange for free products or payment.
+Groups had been trading in reviews for Amazon, Google and Trustpilot, Which? said.
+Which? investigated in March and April 2023, to find out if fake review trading groups still exist on Facebook, and which platforms they are targeting.
+The consumer group said it first uncovered groups on Facebook trading free products for positive Amazon reviews in 2018 – and it estimates that the groups it has reported to Facebook have had at least 1.16 million members in total.
+The Government is soon expected to publish its Digital Markets, Competition and Consumer Bill which will crack down on fake reviews. Which? said it supports these vital changes.
+But it said online platforms must up their game when policing activity, before new laws are introduced.
+Rocio Concha, Which? director of policy and advocacy, said: “The Digital Markets, Competition and Consumer Bill – including strong enforcement and tough penalties for platforms that fail in their legal responsibilities – is sorely needed to tackle fake reviews and ensure consumers have protections fit for the digital age.”
+A spokesperson for Facebook owner Meta told Which?: “Fraudulent and deceptive activity is not allowed on our platforms, including offering or trading fake reviews.
+“We’ve removed the groups shared with us for violating our policies. While no enforcement is perfect, we continue to invest in new technologies and methods to protect our users from this kind of content.”
+An Amazon spokesperson said: “Amazon receives millions of reviews every week globally, which are analysed by our skilled investigators and sophisticated industry-leading tools before publication.
+“When we detect fake reviews, we remove them and take appropriate action against those responsible, including through litigation in the UK and abroad.
+“We also actively monitor Facebook groups which incentivise reviews and report them, and all these groups have been removed.”
+The spokesperson added: “By taking this action against fraudsters, we are going after the source of the problem and shutting down these fake review businesses.”
+Google told Which?: “Our policies clearly state reviews must be based on real experiences, and when we find policy violations, we take swift action ranging from content removal to account suspension and even litigation.
+“We catch the vast majority of policy-violating reviews before they’re ever seen, and as bad actors evolve their strategies we continue to moderate contributions with our newest models even after they’re posted.”
+Google said its teams work around the clock and invest in the latest technology and it works collaboratively with other organisations and government agencies to find industry-wide solutions.
+Trustpilot said: “We closely monitor Facebook groups claiming to sell fake reviews on Trustpilot, and we take strong and robust action to combat the practice.”
+It added: “We are constantly updating and bringing in new technology that allows us to understand and track complex behavioural patterns in review data.”
+Trustpilot said it is confident it has “the right combination of technology, people and our reviewer and business community to help prevent and remove fake reviews”.

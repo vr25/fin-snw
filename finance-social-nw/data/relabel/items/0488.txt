@@ -1,0 +1,22 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Chinese bots targeted Trudeau and others - Canada
+Canada says it has detected a disinformation campaign likely tied to China that has targeted dozens of its politicians, including Prime Minister Justin Trudeau.
+The "spamouflage" campaign used waves of online posts to discredit Canadian MPs, the foreign ministry said.
+It says the campaign was carried out to silence criticism of Beijing.
+China has previously denied any allegations of interference in Canadian affairs.
+Global Affairs Canada said that its Rapid Response Mechanism, which was set up to monitor foreign state-sponsored disinformation efforts, detected in August a "spamouflage" campaign that is connected to Beijing.
+It said the campaign, which accelerated over the first weekend of September, featured a bot network that "left thousands of comments" in Canada's two official languages - English and French - on the social media accounts of several Canadian politicians.
+The comments claimed that a critic of the Chinese Communist Party in Canada had accused the various politicians of criminal and ethical breaches.
+"The Spamouflage campaign also included the use of likely 'deep fake' videos, which are digitally modified by artificial intelligence, targeting the individual," Global Affairs Canada said.
+The accusations are the latest in a series of claims that have come out from Canadian intelligence agencies and officials that have accused Beijing of interfering in Canada's elections.
+A "spamouflage" campaign is one which uses a network of new or hijacked social media accounts to post propaganda messages across various platforms, such as Facebook, X/Twitter, Instagram, YouTube, Medium, Reddit, TikTok and LinkedIn.
+Officials said those same accounts were also involved in spreading disinformation about the Hawaii wildfires in August, falsely claiming that they were caused by a secret US military "weather weapon".
+In addition to the prime minister, the campaign targeted Conservative opposition leader Pierre Polievre and several members of Mr Trudeau's cabinet, officials said.
+Global Affairs Canada said it has notified the affected social media platforms about the posts, "resulting in much of the activity and network being removed".
+The department said it has also alerted the affected politicians and has given them advice on how to protect themselves and how to report any "suspected foreign interference activity".
+The bot network behind this campaign could be linked to a larger, well-known Spamouflage network that has been publicly reported on in the past by tech giants like Meta and Microsoft, officials said.
+This network has also been studied by the Australian Strategic Policy Institute, a Canberra-based non-partisan think tank, which helped Canada make its own assessments.
+Earlier in September, Canada launched a foreign interference inquiry tasked with probing any meddling in its elections by China, Russia and other actors.
+The BBC has contacted the Chinese embassy in Canada for comment.

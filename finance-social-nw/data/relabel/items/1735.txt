@@ -1,0 +1,33 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+-        What matters in U.S. and global markets today
+              By Mike Dolan, Editor-At-Large, Finance and Markets
+              Persistent tech sector valuation and leverage jitters, a deepening crypto drawdown and trepidation ahead of Nvidia's quarterly results all stoked the highest volatility in a month on Wall Street.
+              The main U.S. equity indexes swung back and forth intraday on Monday but ended almost 1% in the red, and futures remained lower ahead of Tuesday's bell. The VIX "fear index" of S&P500 implied volatility hit its highest since mid-October at more than 23, and tech-heavy stock markets around the world fell sharply on Tuesday - with 3% losses in Tokyo and Seoul.
+              Wariness of earnings day swings in the world's most valuable stock Nvidia was part of the anxiety, with the $5 trillion market cap chip giant due to report on Wednesday. Its stock fell 2% on Monday, with filings showing tech billionaire Peter Thiel's hedge fund sold its entire stake in Nvidia during the third quarter.
+              But doubts about creeping leverage in the sector amid the AI investment frenzy were also stoked by Amazon's $15 billion debt offering, its first in three years. 
+              And that spoke to growing demand to hedge AI-related equity exposure via credit default swaps on some of the leading tech companies in the sector. 
+              Private credit nerves were also jangled as alternative asset manager Blue Owl tumbled 3% premarket after it moved to block redemptions from one of its private credit funds ahead of a merger. Blue Owl is involved with Meta in the financing of a huge Louisiana data center.
+              The tech sector jitters are also seeping into crypto markets, with the world's biggest digital token bitcoin extending its recent sharp shakeout on Tuesday. Bitcoin plunged below $90,000 for the first time since April 22, almost 30% below its record peak it hit early last month.
+              Alphabet was one of the few big names to escape Monday's latest downdraft, which included 7-8% stock price hits for Dell and Hewlett Packard, and the Google parent gained 3% on news of a $4 billion Berkshire Hathaway stake in the search giant.
+              But, adding to the wary mood, Alphabet Chief Executive Sundar Pichai told the BBC on Tuesday that no company would be unscathed if the AI boom collapses, acknowledging "elements of irrationality" in the "extraordinary" tech breakthrough. "I think no company is going to be immune, including us."
+              The European Commission, meantime, said it had launched market investigations into cloud computing services by Amazon and Microsoft under the Digital Markets Act, which aims to curb the power of Big Tech and ensure a level playing field for smaller rivals.
+              The other big earnings updates of the week come from the big U.S. retailers, with Home Depot due to report on Tuesday and Walmart later in the week.
+              Macro markets were more subdued on Tuesday, with hopes of another Federal Reserve interest rate cut this year knocked back considerably over the past week by hawkish Fed comments on needing to keep above-target inflation in check. 
+              Treasury yields did dial back, however, amid the fresh burst of equity volatility.
+              With a backlog of government economic releases focused on Thursday's September payrolls report, more up-to-date soundings on the economy underlined the more cautious Fed policy stance. The New York Fed's latest business survey showed business conditions well above forecast for November.
+              In today's column, I take a look at the recent wobble in UK gilts amid confusing government budget signals and rumblings of a leadership challenge within the ruling Labour Party.
+              Today's Market Minute 
+                                * U.S. President Donald Trump will roll out the red carpetfor Saudi Arabia's de facto ruler, Crown Prince Mohammed binSalman, on Tuesday for a visit expected to advance the saleof F-35 fighter jets and a host of business deals with thekingdom.    * Tech billionaire Peter Thiel's hedge fund has sold off itsentire stake in Nvidia during the third quarter, a regulatoryfiling showed, intensifying worries of an artificialintelligence bubble.    * U.S. oil major Chevron is studying options to buy globalassets of sanctioned Russian oil firm Lukoil, five sourcesfamiliar with the process told Reuters on Monday.    * As policymakers in the United States fret about gettinginflation back down to target, they may inadvertently get ahelping hand from an unlikely source: China. Read the latestfrom ROI markets columnist Jamie McGeever.    * France's TotalEnergies is betting big on power andrenewables, positioning itself to ride the global electricitydemand wave. ROI Energy Columnist Ron Bousso argues that theenergy giant may offer investors a clear alternative to rivalsdoubling down on oil and gas.
+Chart of the day
+              Nvidia shares have soared about 1,000% since the launch of ChatGPT in November 2022. This includes a year-to-date gain of more than 40% that made Nvidia the first company to surpass $5 trillion in market value last month. That market heft means the stock's moves can sway equity indexes. Nvidia carries an 8% weight in the S&P 500 and a roughly 10% weight in the widely followed Nasdaq 100. Analysts on average expect the company to post a 53.8% year-over-year rise in third-quarter earnings per share, on revenue of $54.8 billion, according to LSEG.
+              Today's events to watch (all times EDT)
+              * U.S. November NAHB housing sentiment (1000), August factory goods orders (1000), Treasury September TIC data on overseas holdings (1600), Canada October housing starts (0815)
+              * Dallas Federal Reserve President Lorie Logan, Richmond Fed President Thomas Barkin and Fed Board Governor Michael Barr all speak; Bank of England policymaker Swati Dhingra speaks 
+              * U.S. corporate earnings: Home Depot, Medtronic
+              * Saudi Crown Prince Mohammed bin Salman meets U.S. President Donald Trump at the White House
+              Want to receive the Morning Bid in your inbox every weekday morning? Sign up for the newsletter here. You can find ROI on the Reuters website, and you can follow us on LinkedIn and X. 
+              Opinions expressed are those of the author. They do not reflect the views of Reuters News, which, under the Trust Principles, is committed to integrity, independence, and freedom from bias.
+              (By Mike Dolan; Editing by)
+            By Mike Dolan

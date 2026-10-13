@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Tech giants like Tesla lead rebound of US S&P Index after debt ceiling deal: James Eades
+The US S&P 500 Index pushed above its two-month trading range at the end of May following the timely debt ceiling agreement and a continued interest in artificial intelligence (AI)-related stocks.
+Interestingly, the mega-cap companies at the forefront of this rebound are the same top five of the US S&P 500 (Apple, Microsoft, Amazon, Google, and Tesla) that led the declines in 2022.
+Yet, with the addition of Nvidia and Meta, these seven companies have been the linchpin of the index’s performance, generating the majority of the 12.69 per cent total returns since January 2023.
+The other 493 companies that make up the index actually delivered slightly negative returns, which is likely a reflection of the wider US economy, and suggesting that while things may look calm on the surface, underneath, things look very different.
+To understand how distorted the index has been by these mega-cap giants, we can look at the US S&P 500 Equal Weight index, which gives an equal value to the same 500 stocks.
+Since January, the index has fallen 0.35 per cent, showing the stark difference between the two measures of performance for the index. This highlights the lack of breadth within the index, begging questions around the need for investors to diversify their allocation away from big tech, especially considering the concentrated growth over recent months.
+In the UK, recent wage growth figures for May look set to be bad news for the Bank of England as it continues to fight persistent inflation. The indication follows a recent report from the job search website Indeed, showing that the median wage cited in UK job adverts in May reflected the largest increase in wage growth since 2019.
+The data contrasts with many other economies, including the US and EU, both of which are experiencing downward trends in wage movement and inflation, suggesting that more work is needed from policymakers to curb persistent labour market and inflation issues.
+Looking into the data, it shows the rise in advertised salaries was greatest in nursing and low-paid roles such as retail, hospitality and cleaning, likely reflecting the minimum wage increases seen in April and the government pay deal agreed for nurses.
+However, Indeed’s report did contrast with another that was published at the start of June by the Recruitment and Employment Confederation, which showed that Britain’s labour market cooled last month with the quickest increase in the supply of workers in over two years.
+While both reports will feed into expectations, it will be important to look at the official labour market data released in the middle of June.
+Andritz, an international technology group listed on the Vienna Stock Exchange, has recently agreed a deal worth in excess of £20m to supply the UKs largest open die forge at Sheffield Forgemasters with seven new furnaces for the company’s proposed 13,000 tonne forging line. In a recent report from Forgemasters, it appears that the new advanced burners for the main forging furnaces will deliver an up to 30 per cent reduction in primary heating gas consumption, a more consistent heat to the steel components and highly accurate temperature control.
+While the deal may have been difficult to complete given the capacity needs, tender requirements and time scale, the new contract looks to be beneficial for both companies and the wider industry.
+James Eades is in the Investment Research Team at Redmayne Bentley

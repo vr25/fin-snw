@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The S&P 500 dipped and the Nasdaq ended sharply lower on Wednesday after a growing wave of weak economic data deepened worries that the Federal Reserve's rapid interest rate hikes might tip the US economy into a recession.
+Nvidia Corp dropped 2.1 per cent and was among the stocks weighing most on the S&P 500 after Alphabet Inc's Google unit said the supercomputers it uses to train its artificial intelligence models were faster and more power-efficient than comparable components made by the chipmaker.
+Tesla Inc fell 3.7 per cent, while Amazon and Apple declined more than 1 per cent, pulling down the Nasdaq and reversing gains in some of Wall Street's most valuable companies in recent weeks.
+Caterpillar, viewed as a bellwether for the industrial sector, dropped 1.8 per cent, bringing its loss over the past two days to 7 per cent as investors fretted about a potential economic downturn.
+The S&P 500 declined 0.25 per cent to end the session at 4,090.38 points.
+The Nasdaq fell 1.07 per cent to 11,996.86 points, while the Dow Jones Industrial Average rose 0.24 per cent to 33,482.72 points.
+Driving the recession fears, the ADP National Employment report showed US private employers hired far fewer workers than expected in March. That followed Tuesday's weak job openings data.
+As well, the Institute for Supply Management's survey showed the services sector slowed more than expected last month on cooling demand, while a measure of prices paid by services businesses fell to a near three-year low.
+Earlier this week data showed falling factory orders and soft manufacturing activity.
+Wall Street's recent losses in reaction to signs of a slowing economy mark a change from recent months, when investors cheered weak economic data on the basis that it might mean the Fed's interest rate hikes were working and that the Fed could ease up on its campaign to rein in decades-high inflation.
+"We may have transitioned from the notion that 'bad news is good news' to 'bad new is bad news'," said Jay Hatfield, chief executive and portfolio manager at InfraCap in New York. "Fear about a recession is the dominant theme."
+Reflecting worries about the economy and recent turmoil in the banking sector, interest rate futures imply 61 per cent odds that the Fed will cut interest rates from current levels by the end of its July meeting, according to CME Group's Fedwatch tool.
+Of the 11 S&P 500 sector indexes, seven declined, led lower by consumer discretionary, down 2.04 per cent, followed by a 1.3 per cent loss in industrials.
+Among stocks that kept the Dow Jones Industrial Average in positive territory, Johnson & Johnson rallied 4.5 per cent after its $8.9 billion offer to settle talc-related lawsuits gained the support of thousands of claimants, easing an overhang on its plans to list consumer health unit Kenvue.
+Artificial intelligence C3.ai Inc tumbled more than 15 per cent, sliding for a second day after a short seller alleged accounting issues. The AI company denied the allegations in an emailed response to Reuters.
+FedEx Corp rose 1.5 per cent as the freight bellwether firm said it will fold its operating divisions into one organisation as it steps up efforts to cut costs and increase efficiency.
+Big banks including JPMorgan Chase & Co and Citigroup will be among companies kicking off March-quarter reporting season next week, with investors eager for updates on the health of the financial industry.
+Analysts on average expect aggregate S&P 500 company earnings for the first quarter to have fallen 5 per cent year-over-year, according to Refinitiv I/B/E/S.
+Declining stocks outnumbered rising ones within the S&P 500 by a 1.2-to-one ratio.
+The S&P 500 posted 11 new highs and two new lows; the Nasdaq recorded 39 new highs and 269 new lows.
+Volume on US exchanges was relatively light, with 10.1 billion shares traded, compared to an average of 12.7 billion shares over the previous 20 sessions.
+Australian Associated Press

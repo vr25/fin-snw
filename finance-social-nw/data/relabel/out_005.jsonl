@@ -1,0 +1,20 @@
+{"id": "0100", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "In oral arguments set for Tuesday,", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0101", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Despite the war in Ukraine,", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0102", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Is It Time to Replace", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0103", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Before joining Google, Prabhakar", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0104", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Whether they caused the problem", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0105", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Whether they caused the problem", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0106", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Whether they caused the problem", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0107", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Signal would 'walk' from UK", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0108", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Spotify releasing artificial intelligence DJ", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0109", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Spotify releasing artificial intelligence DJ", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0110", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Spotify releasing artificial intelligence DJ", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0111", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "This is a paid press", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0112", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Dirty Dough Opening New Cookie", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0113", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Apple is looking at different", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0114", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "While the \"Twitter Files\" and", "relation": "co-hype", "sentiment_alignment": -0.5}
+{"id": "0115", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Things took a weird turn", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0116", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Things took a weird turn", "relation": "substitute-comparison", "sentiment_alignment": -0.2}
+{"id": "0117", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Things took a weird turn", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0118", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Wheelchair-Bound Man Says He's", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0119", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft is holding a 'future", "relation": "substitute-comparison", "sentiment_alignment": 0.2}

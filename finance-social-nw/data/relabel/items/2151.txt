@@ -1,0 +1,73 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+ChatGPT Will Command More Than 30,000 Nvidia GPUs: Report
+Artificial Intelligence (AI) will be one of Nvidia's biggest income generators, according to the latest TrendForce projection. The research firm estimates that OpenAI's ChatGPT will eventually need over 30,000 Nvidia graphics cards. Thankfully, gamers have nothing to be concerned about, as ChatGPT won't touch the best graphics cards for gaming but rather tap into Nvidia's compute accelerators, such as the A100.
+Nvidia has always had a knack for sniffing out gold rushes. The chipmaker was at the forefront of the cryptocurrency boom, pulling in record-breaking revenues from miners. Nvidia once again finds itself on the front lines for what appears to be the next best thing: AI. And the AI boom is already HERE, as exemplified by all the AI-powered text and image creators that have emerged throughout the last several months.
+Using the A100 (Ampere) accelerator for reference, TrendForce gauged that ChatGPT required around 20,000 units to process training data. However, the number will increase significantly, potentially over 30,000 units, as OpenAI continues to deploy ChatGPT and the company's Generative Pre-Trained Transformer (GPT) model commercially. The A100 costs between $10,000 and $15,000, depending upon the configuration and form factor. Therefore, at the very least, Nvidia is looking at $300 million in revenue. The number may be slightly lower, since Nvidia will likely give OpenAI a discount based on the number of cards needed.
+Nvidia also sells the A100 as part of the DGX A100 system, which has eight accelerators and sells for a whopping $199,000. Given the scale of OpenAI's operation, the company will likely purchase the A100 individually and stack them into clusters. The DGX A100, on the other hand, is an attractive option for smaller businesses that want to dip their toes in AI.
+While the A100 is excellent for AI, Nvidia has already started shipping the H100 (Hopper), the direct replacement for the A100. On paper, the H100 delivers up to three times higher performance than its predecessor. Furthermore, according to Nvidia, the H100 scales even better than the A100 and offers up to nine times higher throughput in AI training. The H100 has a significantly higher price tag, though, as listings have shown that the Hopper accelerator costs over $32,000.
+Nvidia's latest earning report revealed that the company's data center business, including AI accelerators, improved by 11% compared to last year and raked in over $3.6 billion in sales during the quarter. Those numbers will likely skyrocket soon when big players like Microsoft get into the game. Microsoft is in the process of integrating ChatGPT into Bing and Edge. Considering the size of the user base (basically everyone running Windows), Microsoft may have to spend billions to scale in the coming months and years.
+Nvidia isn't the only option on the AI market, as Intel and AMD also offer rival AI accelerators. Then you also have companies like Google and Amazon, with their own AI solutions. During the cryptocurrency bonanza, miners bought every graphics card in sight, helping to contribute to the graphics card shortage. We don't expect another shortage, but GeForce gaming graphics card supply could be affected if Nvidia suddenly decides to prioritize AI accelerator production over its mainstream offerings. Only time will tell.
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+Zhiye Liu is a news editor, memory reviewer, and SSD tester at Tom’s Hardware. Although he loves everything that’s hardware, he has a soft spot for CPUs, GPUs, and RAM.
+- 
+PlaneInTheSky No it won't. ChatGPT and these "AI responses" were just a pointless fad.Reply
+ 
+ It's exactly like Cortana. Lots of hype from Microsoft, for something that was really a gimmick that no one uses.
+ 
+ You can't rely on these "AI" answers because the answers are unreliable and often contain serious mistakes that even a child wouldn't make. The answer could either be from a reliable site or some idiot who wrote it on a forum somewhere, there's no way to know where the "AI" bot found the stuff online to compose the answer.
+ 
+You waste way more time checking if the answer ChatGPT gave you is correct than looking it up yourself. I don't know anyone who still uses ChatGPT.
+- 
+salgado18 Reply
+ I started using it, to give me clues about problems too difficult to search for. I had a problem involving saved queries using PostgreSQL and Power BI, but while I do know some of the SQL, I don't know Power BI. ChatGPT told me where those queries could be saved, I validated the Postgres part and a coleague validated the Power BI. It would take a lot of time to discover what the chat gave me in seconds.PlaneInTheSky said:No it won't. ChatGPT and these "AI responses" were just a pointless fad.
+ 
+ It's exactly like Cortana. Lots of hype from Microsoft, for something that was really a gimmick that no one uses.
+ 
+ You can't rely on these "AI" answers because the answers are unreliable and often contain serious mistakes that even a child wouldn't make. The answer could either be from a reliable site or some idiot who wrote it on a forum somewhere, there's no way to know where the "AI" bot found the stuff online to compose the answer.
+ 
+ You waste way more time checking if the answer ChatGPT gave you is correct than looking it up yourself. I don't know anyone who still uses ChatGPT.
+ 
+The problem is not always on the answer, but on the question. Ask it something with many connected parts, and it may help join that knowledge, and you can keep going from there.
+- 
+SunMaster I think AI is cool, but has a long way to go. The resources required is astonishing, to say the least. Both the cost of the hardware but also the operating cost.Reply
+- 
+Matt_ogu812 ReplyPlaneInTheSky said:No it won't. ChatGPT and these "AI responses" were just a pointless fad.
+ 
+ It's exactly like Cortana. Lots of hype from Microsoft, for something that was really a gimmick that no one uses.
+ 
+ You can't rely on these "AI" answers because the answers are unreliable and often contain serious mistakes that even a child wouldn't make. The answer could either be from a reliable site or some idiot who wrote it on a forum somewhere, there's no way to know where the "AI" bot found the stuff online to compose the answer.
+ 
+ You waste way more time checking if the answer ChatGPT gave you is correct than looking it up yourself. I don't know anyone who still uses ChatGPT.
+ Well there goes my dream of getting a PhD in Astro Physics using ChatGPT.
+ I'll be damned if I'm going to spend thousands of dollars and 10 years of my life at a Ivy League University.
+I'll just wait till 'Version 2' comes out ......haha.
+- 
+Matt_ogu812 ReplySunMaster said:I think AI is cool, but has a long way to go. The resources required is astonishing, to say the least. Both the cost of the hardware but also the operating cost.
+ 'Relax.......You have a MC card'.
+ 
+ That's what the commercial use to say.
+If you don't have a MC card some university will get a grant or a govt. entity will buy it and bill the tax payers.
+- 
+randyh121 Reply
+ You are so very wrongPlaneInTheSky said:No it won't. ChatGPT and these "AI responses" were just a pointless fad.
+ 
+ It's exactly like Cortana. Lots of hype from Microsoft, for something that was really a gimmick that no one uses.
+ 
+ You can't rely on these "AI" answers because the answers are unreliable and often contain serious mistakes that even a child wouldn't make. The answer could either be from a reliable site or some idiot who wrote it on a forum somewhere, there's no way to know where the "AI" bot found the stuff online to compose the answer.
+ 
+ You waste way more time checking if the answer ChatGPT gave you is correct than looking it up yourself. I don't know anyone who still uses ChatGPT.
+ All my coders in the company I manage use chatgpt to write 95% of the code they need
+ Edit a few lines to match their specific needs and boom, done. Save time and money.
+ Chapgpt is not used for looking stuff up online. That is not why it was made
+Its made for composing code, essays, articles, and summaries of stuff
+- 
+PlaneInTheSky Replyrandyh121 said:All my coders in the company I manage use chatgpt to write 95% of the code they need
+And which company is that?
+- 
+randyh121 Reply
+ Not going to say as I run my business anonymously.PlaneInTheSky said:And which company is that?
+ 
+ My point is that chapgpt has revolutionized the codeing world to make it so we do not have to hire coders to do menial tasks anymore, chapgpt can do the majority of software while we just edit what we need and dont need.
+It's honestly refreshing to see how much money we've made now with just a fraction of the labor involved

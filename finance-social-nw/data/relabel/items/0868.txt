@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google I/O 2024 | Android 15 Beta 2 is Coming Tomorrow
+At the Google I/O 2024 event, a significant shift was observed as the spotlight turned towards AI innovations, marking a departure from the usual emphasis on Android updates. Despite this change in focus, Google did not disappoint Android enthusiasts.
+The company confirmed that Android 15 Beta 2 is set to be released tomorrow (May 15), a day after the keynote. This announcement was eagerly awaited, as Google traditionally unveils new Android beta updates during its keynote.
+Android 15 Beta 2 Update Rollout
+This year, however, the narrative centred around AI advancements with products like Gemini taking the lead. But despite that the launch of Android 15 Beta 2 is a nod to the developers and tech aficionados looking forward to the next phase in Android's evolution.
+Although Google has yet to disclose the specifics of what this new Beta entails, the anticipation remains high. It's clear that this update, like its predecessors, is primarily aimed at developers and tech-savvy users. Google advises that those who are not in these categories should wait for the stable release of Android 15, expected later in the year.
+OEMs Brace for Android 15 Beta 2
+In preparation for this launch, several OEMs have already announced their participation in the Android 15 Developer Preview program. This initiative allows app developers and advanced users to install the upcoming Android version on select devices from Tecno, OnePlus, Realme, and Nothing.
+This early access is particularly beneficial for testing app compatibility with the new OS. However, it's worth noting that the Android 15 Beta 1, currently available through these OEMs, comes without the usual customizations expected in their respective user interfaces.
+Google's Commitment to Android Still Going Strong
+Additionally, given the potential for bugs in these preliminary builds, users are cautioned to back up their data before installation. This development at Google I/O 2024 underscores Google's ongoing commitment to enhancing the Android ecosystem while also pushing the boundaries in AI technology.
+With the Android community eagerly awaiting more details on Android 15 Beta 2, it's clear that even as AI takes centre stage, the evolution of Android remains a critical component of Google's technological advancements.

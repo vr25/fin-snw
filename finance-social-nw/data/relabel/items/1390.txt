@@ -1,0 +1,12 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Mumbai: Alarmed at frauds related to securities market on various social media platforms, capital markets regulator SEBI has issued an advisory for investors to exercise caution and due diligence to verify the genuineness of social media handles of SEBI-registered entities while accessing them.
+SEBI noticed an increase in frauds related to securities market on various social media platforms such as YouTube, Facebook, Instagram, X (previously Twitter), WhatsApp, Telegram, Google Play Store and Apple Store, etc.
+“With increasing adoption of digital communication platforms, it is observed that scamsters are enticing victims by giving trading calls in the name of providing education. They also provide misleading or deceptive testimonials, promise or guarantee of assured or risk-free return etc. through various social media platforms,” according to a SEBI statement.
+SEBI noticed unregistered investment advisory services being provided by entities that falsely claim to be registered intermediaries with SEBI or by showcasing fake certificates purportedly issued by the regulator.
+It also observed impersonation of SEBI-registered entities by fraudulent trading platforms, WhatsApp, Telegram channels which deceptively claim or suggest affiliation with SEBI-registered entity claiming to provide assured or risk-free return.
+“Scamsters are enticing gullible investors by claiming that they provide exclusive services on their platform (fake trading/advisory apps) facilitating securities trading that allow the subscriber to enjoy preferential services with regard to trade and share price -- institutional trading account, IPOs at discounted price, block trade at discounted price and sure shot allocation of IPO,” said SEBI.
+Also, misleading and manipulative contents have been designed by scamsters to entice investors to join private chat groups or channels on WhatsApp/Telegram, through fraudulent ads/posts on various social media platforms.
+“Investors are advised to exercise caution and due diligence to verify the genuineness of social media handles of SEBI registered entities while accessing them,” the regulator noted. Further, while investing in securities market, investors are advised to deal with only SEBI-registered intermediaries and authentic trading apps, it added.
+Stay informed on all the latest news, real-time breaking news updates, and follow all the important headlines in india news and world news on Zee News.

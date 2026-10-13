@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Wall Street has found a new way to bet on artificial intelligence (AI): lending money to the companies building it. Over the past few weeks, Nvidia (NVDA +0.22%) sold $25 billion of bonds, Oracle (ORCL -1.75%) laid out a plan to raise as much as $50 billion this year, and Amazon (AMZN +0.12%) has now borrowed more than $80 billion since the start of 2025 as AI infrastructure spending drives a broader financing rush. Nvidia's deal drew more than $85 billion in orders, over three times what the company was selling.
+Now Elon Musk's SpaceX (SPCX +0.44%) wants in. Bankers are reportedly preparing a bond offering of at least $20 billion, coming just weeks after the rocket and satellite company's record-setting initial public offering (IPO).
+So is all this borrowing a sign of confident, cash-rich companies funding the future -- or the kind of leverage that tends to surface right before trouble?
+A massive rush into the bond market
+Nvidia's $25 billion sale this month was its first trip to the bond market since 2021, and demand ran so far ahead of supply that the company lifted the deal from an initial target of about $20 billion. Amazon has been issuing debt in currencies ranging from euros to Canadian dollars, with its most recent offering the largest corporate bond deal ever in that currency.
+Oracle plans to split that funding between debt and equity, and has flagged about $40 billion more for fiscal 2027.
+And Alphabet (GOOG +0.61%)(GOOGL +0.46%) took a different route, raising about $85 billion through a sale of stock and preferred shares rather than bonds.
+NASDAQ: GOOGL
+Key Data Points
+But for those who are going the debt route, has the level of debt been concerning? For the most part, I don't think so.
+For the biggest borrowers, the math is reassuring. Nvidia earned nearly $43 billion in net income in its fiscal fourth quarter alone (the period ended Jan. 25, 2026) -- more than the entire $25 billion it just raised. And full-year revenue climbed 65% to about $216 billion. A company minting profits like that doesn't need to borrow to survive. But it does create more optionality for the chipmaker.
+Similar logic applies to Amazon and Alphabet. Both run enormously profitable cloud businesses, and the cash those operations generate comfortably covers the interest on their debt. But more cash sets up these companies to invest more aggressively in AI growth opportunities.
+Not all borrowers are created equally
+But there are also some companies borrowing concerning sums when measured up against their underlying businesses.
+For instance, Oracle is profitable on paper, but its free cash flow ran about $24 billion negative in fiscal 2026 (the year ended May 31, 2026) as capital expenditures jumped to nearly $56 billion. And its debt now tops $100 billion.
+SpaceX is the starkest case, because it isn't profitable at all. The company lost nearly $5 billion in 2025, and in the first quarter of 2026, it lost $4.28 billion on $4.69 billion in revenue. Much of that bleeding traces to the AI unit it absorbed from Musk's xAI, which reported a $6.4 billion operating loss last year on just $3.2 billion in revenue. Its rumored planned bond sale likely wouldn't fund new growth so much as refinance a bridge loan coming due in 2027.
+To be fair, SpaceX does have big contracts lined up. Google has agreed to pay $920 million per month for computing power from October 2026 through June 2029, and there's a disclosed Anthropic arrangement that could total about $45 billion. Of course, both of these arrangements include termination rights.
+Should investors be worried?
+The borrowing going on is certainly something worth watching. But, for the most part, it doesn't quite look like a major concern. At least not yet. Nvidia, Amazon, and Alphabet look like they're building from a position of strength. Oracle's balance sheet, however, looks more stretched. Still, the company has meaningful, profitable revenue beneath the leverage.
+SpaceX's potential bond sale, on the other hand, is a bit more concerning. Still, I wouldn't read the trend as a warning sign on its own. But the cash-burners are worth watching far more closely than the cash machines, because they actually need the money, and have the least margin for error if the AI build-out takes longer to pay off than the bond market expects.

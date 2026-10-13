@@ -1,0 +1,19 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Microsoft dethrones Apple to become world's most valuable company. Here's how
+Apple's stock has seen a 3.3 per cent slide in January, in contrast to Microsoft's 1.8 per cent increase.
+Microsoft claimed the top spot as the world's most valuable company, edging past Apple, whose shares faced a sluggish start in 2024 due to mounting worries about demand.
+Microsoft's shares, fuelled by its early lead in generative artificial intelligence, rose by 1.6 per cent, resulting in a market valuation of $2.875 trillion. Meanwhile, Apple experienced a 0.9 per cent decline, bringing its market capitalisation to $2.871 trillion—the first instance since 2021 that Apple's valuation dipped below that of Microsoft.
+Apple's stock has seen a 3.3 per cent slide in January, in contrast to Microsoft's 1.8 per cent increase.
+ALSO READ: From Watch X to updates in iPad lineup, here’s what to expect from Apple in 2024
+Why is Apple's stock dipping?
+The decline in Apple's stock value stems from a series of downgrades, raising concerns about sustained weakness in iPhone sales, particularly in key markets like China.
+Furthermore, regulatory scrutiny of the arrangement that designates Google as the default search engine on iOS poses a threat to Apple's services business, which has been a positive aspect in recent quarters.
+Apple, with a market capitalisation reaching its peak at $3.081 trillion on December 14, concluded the previous year with a 48 per cent gain, lagging behind Microsoft's 57 per cent surge.
+Microsoft getting AI push
+Microsoft, having aggressively introduced genAI-powered tools in 2023 through its collaboration with OpenAI, briefly outpaced Apple as the most valuable company several times since 2018, notably in 2021 during concerns about iPhone maker's stock due to COVID-driven supply chain shortages.
+"It was inevitable that Microsoft would overtake Apple since Microsoft is growing faster and has more to benefit from the generative AI revolution," said D.A. Davidson analyst Gil Luria.
+In related news, Microsoft's $13 billion investment in OpenAI faces a potential investigation by European Union watchdogs, triggered by upheavals at OpenAI revealing deep connections between the two companies.
+The European Commission is evaluating whether Microsoft's involvement warrants scrutiny under the bloc's merger rules, potentially leading to a formal investigation and unwinding if it's found to impede fair competition. This move follows a similar step by the UK's Competition and Markets Authority as part of a broader examination of artificial intelligence.
+(Inputs from wires)

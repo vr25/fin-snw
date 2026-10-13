@@ -1,0 +1,26 @@
+TICKER_A: NVDA
+TICKER_B: PLTR
+POST:
+September proved to be an unseasonably strong month for the market, with the S&P 500, a measure of broader market performance, ending the month up 2.02%. Trading volume on full-range brokerage services provider Charles Schwab Corporation’s (NYSE:SCHW) platforms, however, dipped.
+What Happened: The Schwab Trading Activity Index, or STAX, fell from 53.15 in August to 47.10 in September, a release from the Charles Schwab on Monday showed. The STAX is calculated using a sampling method, drawing data from the firm’s client base of millions of funded accounts, including those accounts that completed a trade in the month.
+The index indicates what traders were doing and how they were positioned in the market that month.
+The September reading of 47.10 would rank as a “moderate low” compared to historical averages, the firm said.
+What Drove Trading Action: Investor actions were either proactive or reactive as they positioned themselves for a slew of economic data that dropped during the month. “In September there was no shortage of market-affecting economic data, and Schwab's clients responded in kind by de-risking and taking profit opportunities," said Joe Mazzola, Head Trading & Derivatives Strategist at Charles Schwab.
+The market has factored in an aggressive Federal Reserve and Charles Schwab’s clients were largely optimistic about the economic activity.
+The firm highlighted the divergence between the market performance and the STAX score, calling it one of the biggest divergences in the history of its analysis. “The extent of the rate cut in September caught many by surprise and, taken in combination with all the other economic data swirling during the month, it make sense that clients pulled back a bit even as the markets soared,” it said.
+The SPDR S&P 500 ETF Trust (NYSE:SPY), an exchange-traded fund that tracks the S&P 500 Index started September on a negative note but bottomed at $547.71 (intraday) on Sept. 9 and at $538.71 (closing) on Sept. 6. The ETF rebounded thereafter and closed the month at an all-time high of $573.76.
+Source: Benzinga Pro data
+See Also: Best Value Stocks
+The S&P 500 and the Dow Industrials also clocked record highs in the final session of September, as they ended at 5,762.48 and 42,330.15, respectively. On an intraday basis, these two indices scored records of 5,767.37 on Sept. 26 and 42,628.32 on Sept. 27.
+The tech-heavy Nasdaq Composite Index ended September at 18,189.17, marking a 2-1/2 high month but shy off its all-time closing high of 18,647.45 (July 10). The index’s intra-high is 18,671.07 (July 11).
+Stock Statistics: Early movers into artificial intelligence and a beaten-down chip stock were among the popular names bought by Charles Schwab’s clients. On the other hand, the firm’s clients were net sellers of some high-profile tech stocks, a telecom company and a couple of China-based companies.
+- Stocks In Favor
+- Stocks Out Of Favor
+Underperforming chip stock Intel found some bounce in September amid rumors concerning a stake sale and spin-off. The stock ended September up over 6%. The interest in Palantir does not come as a surprise given the kind of retail interest and the company’s inclusion in the S&P 500 Index.
+Interestingly, Meta Platforms, Inc. (NASDAQ:META), which has been a high-flier in October, does not feature in the top six most-bought list of Charles Schwab.
+Although traders were net sellers of Alibaba and Nio in September, these two stocks have been on fire since China announced stimulus measures announced in late-September.
+The SPY ended Friday’s session up 0.91% at 572.98, according to Benzinga Pro data.
+Image via Flickr
+Read Next:
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

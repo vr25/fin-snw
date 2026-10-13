@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Chromium is an open-source project launched by Google in 2008 to innovate web browsing tech.
+The Linux Foundation announced yesterday (9 January) a new initiative, which aims to “fund open development and enhance projects” in the Chromium ecosystem.
+First launched in 2008 by Google, Chromium is a free, open source web browser project, which is primarily developed and maintained by the search engine giant. It is one of the main code components of well-known search engines including Google Chrome, Microsoft Edge and Opera, in addition to being used as part of custom applications such as Bloomberg terminals and SpaceX capsule control software.
+According to the Linux Foundation, the nonprofit organisation which focuses on enabling mass innovation through open source, the new Supporters of Chromium-Based Browsers funding initiative aims to foster collaboration by providing a “neutral space where industry leaders, academia, developers and the broader open-source community can work together”.
+The organisation aims to achieve this by removing “barriers to innovation, expand adoption and ensure that projects within the Chromium ecosystem receive the resources they need to thrive”.
+Tech giants Google, Meta and Microsoft have already pledged their support for the initiative, which will be managed by the Linux Foundation.
+Google commended the group in an online blog post for having “long-established practices for open governance, prioritising transparency, inclusivity and community-driven development”.
+Investment into Chromium is ‘necessary’
+Welcoming the launch of the initiative, Jim Zelin, the executive director of the Linux Foundation, said that the project will “provide much-needed funding and development support for open development of projects within the Chromium ecosystem”.
+Parisa Tabriz, VP of Chrome, expressed her optimism over the collaboration: “With the incredible support of the Linux Foundation, we believe the Supporters of Chromium-Based Browsers is an important opportunity to create a sustainable platform to support industry leaders, academia, developers and the broader open source community in the continued development and innovation of the Chromium ecosystem.”
+Meghan Perez, VP of Microsoft Edge, also said that Microsoft is “pleased to join this initiative”, which she asserted aligns with the company’s “commitment to the web platform through meaningful and positive contributions, engagement in collaborative engineering and partnerships with the community to achieve the best outcome for everyone using the web”.
+Last September, a Microsoft report claimed that a North Korean threat actor had been exploiting a flaw in Chromium in order to steal cryptocurrency.
+The US Cybersecurity and Infrastructure Security Agency said at the time that a fix was deployed to amend this “confusion vulnerability”.
+Don’t miss out on the knowledge you need to succeed. Sign up for the Daily Brief, Silicon Republic’s digest of need-to-know sci-tech news.

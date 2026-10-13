@@ -1,0 +1,20 @@
+{"id": "1500", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Intel, the venerable semiconductor giant, is", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1501", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Fact Check Team: MIT study warns AI", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1502", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Police appeal to find topless man", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1503", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon's $8 billion Anthropic investment rumors", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "1504", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Amazon's $8 billion Anthropic investment rumors", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1505", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Amazon's $8 billion Anthropic investment rumors", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1506", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon (AMZN) and Google-backed (GOOG, GOOGL) AI", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1507", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Nasdaq set to surge on Trump's Nvidia ( $NVDA)", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1508", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Three weeks ago, an engineer named Calvin French-Owen", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1509", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "1510", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "1511", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1512", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "substitute-comparison", "sentiment_alignment": 0.3}
+{"id": "1513", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1514", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Seventh Wave: How AI Will Change the Technology", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1515", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In an exclusive interview with J-Wire on the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1516", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "We recently published Jim Cramer Discussed These", "relation": "substitute-comparison", "sentiment_alignment": 0.0}
+{"id": "1517", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Artificial intelligence (AI) is entering America's classrooms", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1518", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The U.S. Department of Homeland Security (DHS)", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1519", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Shares of Google parent Alphabet (GOOG, GOOGL)", "relation": "causal-driver", "sentiment_alignment": 0.5}

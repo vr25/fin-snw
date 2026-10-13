@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+TORONTO — It's still not clear if two pieces of federal legislation will do enough to compensate Canadian media whose ad revenue has been lost to multinational tech giants.
+The issue has been thrust back into the spotlight after BCE Inc.'s announcement on Wednesday that it would slash 1,300 positions, including six per cent of its media arm.
+Bell chief legal and regulatory officer Robert Malcolmson blamed the job cuts on a challenging public policy and regulatory environment, raising specific concerns about Bill C-11, the Online Streaming Act, and Bill C-18, the Online News Act.
+Bill C-18, which awaits third reading in the Senate, is meant to force big internet and streaming platforms such as Meta's Facebook and Alphabet's Google and YouTube to compensate Canadian news outlets for content appearing on their platforms.
+But Malcolmson, who called it a "great piece of legislation," said it comes too late and "may be ineffective" if Alphabet-owned Google and Facebook parent company Meta follow through on threats to restrict or block news links on their sites.
+Meta said it is blocking news for one to five per cent of its 24 million Canadian users on Facebook and Instagram in a temporary test that is expected to last the majority of the month. Google blocked links to news stories for about five weeks earlier this year for some Canadian users in response to the bill.
+"We're still not going to be able to monetize our news content because Meta is just going to turn it off," he told The Canadian Press in an interview this week.
+"Public policymakers need to think about how to deal with that. Do we let the global tech platforms kind of dictate to Canada or do we say, 'No, we need to do something?'"
+Michael Geist, the Canada Research Chair in internet and e-commerce law at the University of Ottawa, said Bell stands to be one of the biggest beneficiaries of Bill C-18 if Google and Meta co-operate, but "it seems increasingly clear those companies will not play ball."
+"The government's kind of boxed itself into a corner," he said.
+"If those companies stop linking, not only will this bill not generate new revenue, but it will result clearly in significant lost revenue because suddenly much of that referral traffic, which is currently free, will disappear."
+Geist said despite the bill's imminent passage before Parliament breaks for the summer, he doesn't see the impasse ending any time soon, with neither side discussing a potential compromise and a government that "seems to just keep hoping that this is a bluff."
+On Tuesday, the Canadian Association of Broadcasters urged policymakers "not to bow to the threats of foreign digital giants."
+"Meta states that this news blocking is a ‘test,’ but this is not a technical check. It is a test of Canadians’ resolve," CAB president Kevin Desjardins said in a statement.
+“Blocking Canadians from accessing news through their platforms demonstrates their disdain for democracy and their contempt for Canadian journalists.”
+Even if the tech companies were to have a change of heart and Bill C-18's passage leads to compensation for news outlets, there's nothing in the bill that would force a company such as Bell to reinvest those funds in the type of jobs it has cut, said Matt Hatfield, campaigns director for OpenMedia.
+Hatfield, who testified before a Senate committee last month about the legislation, said its construction is fundamentally flawed.
+"I don't think that they're making cutbacks to these local news stations and their foreign bureaus just for no reason, I think it's because they have determined those are some of the least profitable parts of their business," he said.
+"Even if they get additional funding, I don't think they're going to reopen any of these stations. They have no business incentive to do so. It's just bottom-line funding. Bell's bottom line is is not in a bad state, it's their news division that's suffering, and a better constructed bill would force them to provide the local news coverage that we actually need here."
+Meanwhile, Bill C-11, which aims to force platforms such as Netflix, YouTube and TikTok to contribute a percentage of their Canadian revenue to Canadian production, received royal assent in April and is now in a consultation phase.
+Earlier this month, Ottawa opened the legislation to feedback until July 25 and will likely release a final policy direction to the CRTC this fall. The regulator has begun its own first three of at least nine consultations on the bill, which will likely span more than a year.
+Those consultations will determine rules such as the circumstances in which a foreign service would be exempted from the legislation, registration requirements and what counts as Canadian content.
+Malcolmson said the core issue for Bell is that popular U.S. content isn't available to Canadian broadcasters because American platforms are offering it directly to consumers on their in-house streaming services. He urged policymakers to mandate assurances that would allow Canadian broadcasters to pay American companies in order to air that content.
+But Geist said "it is a rather odd position to be taking" for a bill that is meant to incentivize the production of more Canadian content.
+"If streaming generates more revenue than does the licensing, then that's the choice (American companies) would make," he said.
+"This was obvious, like a decade ago, that this is where we were headed. I think most thought that the solution to that would actually be to create more of your own original content that you could both control in Canada, but then also license globally."
+Malcolmson said Bell needs access to the American programming, which he called the "economic engine of broadcasting," in order to continue creating Canadian content.
+"It's going to be still quite a long time before any meaningful regulatory reforms are in place," he said.
+"And when I look at the state of our media business ... you start to wonder what's going to be left to regulate by the time they kind of get all these reforms in place."
+This report by The Canadian Press was first published June 15, 2023.
+Companies in this story: (TSX:BCE)
+Sammy Hudes, The Canadian Press

@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Perplexity CEO: On-Device AI Could Surpass Datacenter Reliance
+Perplexity CEO Aravind Srinivas predicts on-device AI beats cloud centers
+On-device AI promises privacy personalization and costs versus cloud inference
+Aravind Srinivas backs local and on-device AI as your own small brain
+In an era where tech giants are pouring trillions into massive data centers to fuel the AI boom, Perplexity AI CEO Aravind Srinivas is sounding a contrarian alarm: the real future of artificial intelligence lies not in the cloud, but on your device.
+Srinivas first gained attention for this view in a widely shared 2024 interview, where he declared on-device AI the “biggest threat” to centralized data centers. “If the intelligence can be packed locally on a chip that’s running on the device,” he argued, “there’s no need to inference all of it from one centralized data center. It becomes more decentralized.” He envisioned models adapting to users through “test-time training,” observing repeated tasks, retrieving local data on-the-fly, and automating workflows, all while keeping everything private. “That way, it’s your brain,” he said, warning that unchecked data center buildouts could prove wasteful.
+Also read: Should AI get legal rights? It’s dangerous for humans, warns expert
+The decentralized vision
+Throughout 2025, Srinivas reiterated and expanded on this prophecy in interviews, podcasts, and public appearances. He emphasized privacy as a foundational advantage: data remains on the user’s device, eliminating the need to send sensitive information to remote servers. “All your data lives on your client. We don’t need to take any of it,” he has stressed, pointing out vulnerabilities in cloud-dependent agents that require ongoing authentication.
+Advancements in efficient models and specialized chips from companies like Apple, Qualcomm, and Arm have brought this vision closer to reality. Srinivas draws historical parallels to the transition from mainframes to personal computers, forecasting a similar shift where AI companies compete by shipping highly optimized, device-native models rather than relying on ever-larger cloud infrastructure.
+Perplexity’s bet on local Intelligence
+Also read: Meta’s big AI play: What the Manus acquisition means for automation at scale
+At Perplexity, this philosophy is driving product development, including the Comet AI browser and upcoming desktop experiences. Srinivas has outlined ambitions for local models that deliver fast, battery-efficient performance for tasks like browser control, email management, and multi-tab research – without latency or privacy trade-offs. “If we can make models small enough, fast enough, and power-efficient enough to run locally – without draining your battery or compromising intelligence – that’s the true magic,” he explained in 2025 discussions.
+This approach challenges the dominant paradigm of hyperscalers like Microsoft, Google, and Meta, who continue massive GPU investments for frontier-scale training. Critics note that cutting-edge capabilities still demand cloud resources, with on-device models often smaller and limited for complex queries.
+Srinivas counters that for personalization, real-time interaction, and privacy-critical use cases, the bulk of daily AI value, local execution wins out. As 2026 dawns, the debate intensifies: will we see a hybrid ecosystem, or a genuine pivot to edge AI dominance? Srinivas’s bold stance suggests the latter could reshape the industry sooner than expected.
+Also read: Head of Preparedness: OpenAI’s new critical safety role and why its important
+A journalist with a soft spot for tech, games, and things that go beep. While waiting for a delayed metro or rebooting his brain, you’ll find him solving Rubik’s Cubes, bingeing F1, or hunting for the next great snack. View Full Profile

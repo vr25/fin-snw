@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Bobby Allyn
+Bobby Allyn is a technology correspondent based in Los Angeles.
+He reports on Big Tech, startups, social media, artificial intelligence, surveillance and privacy issues, tech litigation, Silicon Valley culture and other tech-related topics.
+He's covered TikTok's battle against U.S. regulators, the fraud trial of Elizabeth Holmes and Elon Musk's hostile take-over of Twitter.
+He came to Los Angeles after stints in San Francisco, Washington and Philadelphia where he covered criminal justice at member station WHYY. He helped lead NPR's reporting of Bill Cosby's two criminal trials.
+At other points in life, Allyn has been a staff reporter at Nashville Public Radio and daily newspapers including The Oregonian in Portland and The Tennessean in Nashville. His work has also appeared in BuzzFeed News, The Washington Post, and The New York Times.
+A native of Wilkes-Barre, a former mining town in Northeastern Pennsylvania, Allyn is the son of a machinist and a church organist. He's a dedicated bike commuter and long-distance runner. He is a graduate of American University in Washington.
+Allyn can be reached via encrypted message at ballyn.77 on Signal.
+- 
+                        Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up.
+- 
+                        President Trump has proposed creating an AI task force, similar to Space Force. But he has offered no other details about what it would look like. Tech industry experts are scratching their heads.
+- 
+                        In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.
+- 
+                        The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary.
+- 
+                        NPR's Bobby Allyn talks about covering the prediction markets, where anyone can trade bets on the outcome of anything happening in the real world.
+- 
+                        If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.
+- 
+                        Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.
+- 
+                        While a stunt involving fake polls may not have been an effort to rig prediction markets, concerns are growing ahead of the midterms about other attempts to influence the betting sites.
+- 
+                        A proposed first-of-its kind tax would target California's nearly 250 billionaires in an effort to fund health care. If voters pass it, will the state's economy suffer?
+- 
+                        Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators.

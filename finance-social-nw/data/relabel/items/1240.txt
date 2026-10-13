@@ -1,0 +1,41 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+The Dow Jones Industrial Average opened higher but closed lower for a 10th consecutive trading session, and the S&P 500 and the Nasdaq Composite gave up early gains, too, as markets processed what could be the Federal Reserve's last rate cut for the discountable future. Nvidia's recent downtrend continued too, and the 10-year U.S. Treasury yield is still heading higher.
+It wasn't the 25 basis points that had investors and traders itching for Wednesday – it was the wording of the FOMC statement, the look of the dot-plot and Fed Chair Jerome Powell's press conference. Based on two of those three pieces, the Dow, the S&P and the Nasdaq turned sharply lower.
+In addition to the headline rate cut, there was one key change to the FOMC statement. "In considering the extent and timing of additional adjustments to the target range for the federal funds rate," today's statement reads, "the Committee will carefully assess the incoming data, the evolving outlook, and the balance of risks."
+From just $107.88 $24.99 for Kiplinger Personal Finance
+Become a smarter, better informed investor. Subscribe from just $107.88 $24.99, plus get up to 4 Special Issues
+CLICK FOR FREE ISSUE
+ 
+ 
+Sign up for Kiplinger’s Free Newsletters
+Profit and prosper with the best of expert advice on investing, taxes, retirement, personal finance and more - straight to your e-mail.
+Profit and prosper with the best of expert advice - straight to your e-mail.
+ 
+ 
+ The phrase "the extent and timing of" is new.
+As for the dot-plot, at the median the total number of cuts in 2025 is down to two from the four the Fed forecast in September. So, after 100 basis points of rate cuts, the Fed will hold for incoming data.
+The central bank also updated its forecast for 2025 gross domestic product (GDP) growth, boosting it to 2.1% from 2.0% in September, and the unemployment rate will be lower, 4.3% vs 4.4%. The Fed now sees the annual rate of growth for the Personal Consumption Expenditure Price Index (PCE) at 2.5%, up from 2.1% in September. And core PCE will be 2.5%, up from 2.2%.
+We continue to track developments related to the FOMC meeting on our live Fed blog.
+The Dow Jones Industrial Average, on its longest losing streak since September 1974, was down 2.6% to 42,326. The S&P 500 declined 2.9% to 5,872, while the Nasdaq Composite fell 3.6% to 19,392.
+Interest rates and bond yields
+Interest rate expectations have changed. And the bond market has been showing it for weeks.
+The yield on the benchmark 10-year Treasury note hit a 2024 peak of 4.739% on April 25 but headed lower from there as incoming data began to show inflation pressures were easing. It bottomed at 3.618% on September 16, two days before the FOMC started the rate-cutting cycle with a double move.
+From there, the 10-year climbed to a post-election peak of 4.463% on November 13, tracked back to 4.126% on December 6 and turned up again to where it closed on Tuesday, 4.395%. This morning the 10-year yield reached 4.424%. It popped after the FOMC meeting to 4.512% as of the closing bell. And it could be headed higher from here.
+"The new administration represents meaningful new information, and at a minimum, it creates uncertainty and a broader set of outcomes. Is a 6% 10-year Treasury yield possible? Why not?" writes Arif Husain, the chief investment officer of fixed income at T. Rowe Price, in a research note. "The transition period in U.S. politics is an opportunity to position for increasing longer-term Treasury yields and a steeper yield curve."
+The last time the 10-year U.S. Treasury yield reached 6% was in 2000.
+Nvidia and the Dow
+There are 30 stocks in the price-weighted Dow Jones Industrial Average. Nvidia (NVDA) officially entered the Dow before the open on November 8.
+Since then, the price of NVDA stock has declined by 13.4%. And the Dow is down 3.2%. During the Dow's 10-day losing streak, NVDA is down 11.1%. And the index has declined 6%.
+The semiconductor stock was up as much as 4.8% today before giving back all of it post-Fed. NVDA ended the day lower by 1.1% but it still up more than 160% year to date.
+Nvidia could be the lynchpin of the artificial intelligence boom. Also, it's been the anchor for a big-name index's historic submergence.
+Stocks on the move
+Jabil (JBL) stock surged as much as 12% and closed up 7.3% after the electronic circuit board maker beat top- and bottom-line Wall Street forecasts for its fiscal 2025 first quarter and raised its full-year outlook.
+This is a tech stock's tech stock and then some: Jabil's customers include a literal A-list of Magnificent 7 names – Apple (AAPL), Amazon.com (AMZN) and Google parent Alphabet (GOOGL) – as well as a growing list of electric vehicle makers. Dow Jones stocks Johnson & Johnson (JNJ) and Coca-Cola (KO) also count themselves as Jabil clients.
+CEO Mike Dastoor said results were stronger than management anticipated, "driven by incremental strength in our Cloud, Data Center Infrastructure, and Digital Commerce end-markets."
+Birkenstock Holding (BIRK) stock jumped 2% after the footwear maker beat top- and bottom-line expectations for its fiscal 2024 fourth quarter.
+CEO Oliver Reichert said he's confident Birkenstock can deliver "mid-to-high teens revenue growth, gross profit margin of around 60% and adjusted EBITDA margin of over 30%" next year "and beyond."
+General Mills (GIS) stock slumped 3.2% after the food manufacturing giant beat top- and bottom-line estimates for its fiscal 2025 second quarter but trimmed its full-year profit forecast due to the impact of "incremental investments" in its business.
+CEO Jeff Harmening, noting "important progress" on volume growth and market share trends during the quarter, said these investments "better position General Mills for sustainable growth in fiscal 2026 and beyond."
+Related content

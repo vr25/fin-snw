@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+WRAL TechWire
+WRAL TechWire: technology and startup news from Research Triangle Park and across North Carolina, from companies and jobs to innovation.
+Business Techwire Tax Guide Market Summary Market News Stock Quotes Market Movers
+Progress at the coast: The emerging startup scene in Wilmington, North Carolina
+Wilmington’s startup ecosystem has grown steadily over more than a decade, fueled by local founders, investors, institutions and connections to broader capital networks that are helping the city emerge as a coastal hub for entrepreneurship.
+entrepreneurship technology WRAL TechWire Wilmington
+- 
+										Don’t ignore AI anxiety. Support employees with training, clarity and empathy
+- 
+										Data center debate: Here's how each county in central NC is handling data center development plans
+- 
+										Never lower the standard – expand who gets the opportunity to meet it
+AP Business News
+Walmart says it's not using personal information to set prices as it expands digital shelf labels
+NEW YORK (AP) — Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores.
+Armani charts its future as Bottega Veneta sheds layers in Milan
+MILAN (AP) — The future of Giorgio Armani ’s empire is coming into sharper focus a year after the designer’s death. On the runway in Milan, his signature elegance defined the latest collection previewed on Sunday, while behind the scenes talks are set to begin on the sale of a stake, as stipulate...

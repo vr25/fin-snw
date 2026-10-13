@@ -1,0 +1,16 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Elon Musk’s AI Start-Up and Nvidia Join Microsoft, BlackRock, MGX AI Fund
+The vehicle, which was created in September of last year, aims to raise $30 billion in funding.
+- Elon Musk’s xAI and Nvidia have joined BlackRock, Microsoft, and MGX to expand AI infrastructure in the U.S.
+- The AI Infrastructure Partnership plans to invest over $30 billion in data centers and energy projects to support AI models.
+- The first data center, expected to be completed in 2026, will house 400,000 Nvidia AI chips in Abilene, Texas.
+Two of the biggest forces in artificial intelligence (AI) — Elon Musk’s xAI and Nvidia — have joined BlackRock, Microsoft and investment fund MGX’s group to expand AI infrastructure across the U.S., the companies announced Wednesday.
+The fund — called the AI Infrastructure Partnership — at its formation in September of last year, said that it plans to launch with more than $30 billion in initial funding. The goal is to build data centers and energy projects which are required to power large-scale AI models.
+Nvidia will also serve as a technical advisor for the group, which it had announced last year.
+Musk and Nvidia join the effort two months after U.S. President Donald Trump announced the formation of Stargate, a private venture that plans to build up to 20 large AI data centers in the U.S. in partnership with OpenAI, Oracle and SoftBank.
+The first data center will be built in Abilene, a small city in Texas, which will be completed by mid-2026, Bloomberg reported yesterday. It will have space for roughly 400,000 of Nvidia’s AI chips and a capacity of 1.2 gigawatts of power.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+Why it matters:
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.

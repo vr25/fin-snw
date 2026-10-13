@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google Tells EU Fact Checking ‘Simply Isn’t Appropriate’
+- Google will not be adding fact checks to its search results or YouTube videos in Europe, defying an EU law that mandates tech giants to use fact checkers.
+Google will not be adding fact checks to its search results or YouTube videos in Europe — a decision that flouts an EU law that requires tech giants to use fact checkers.
+Kent Walker, Google's global affairs president, said in a letter to the European Commission that the law "simply isn't appropriate or effective for our services" and that Google would not be obeying it. He added that the company's current approach to censoring content worked just fine during 2024's "unprecedented cycle" of elections.
+Axios was the first outlet to report the news on Thursday. A person with knowledge of the letter told TheWrap it was sent in October.
+Here's the part of the Commission's "Disinformation Code of Practice" that Google is not going along with: "The new Code will extend fact-checking coverage across all EU Member States and languages and ensure that platforms will make a more consistent use of fact-checking on their services. Moreover, the Code works towards ensuring fair financial contributions for fact-checkers' work and better access to fact-checkers to information facilitating their daily work."
+Google's disobeying of the "Disinformation Code" is pretty amusing, considering the company said it "helped create" the rules back in 2018.
+A source familiar with the company said Google was generally in favor of the rules when they were voluntarily adhered to, as was first outlined. But now that financial penalties can be attached to companies that do not go along with the EU's fact checking regulations, Google is not in favor of the stiffer rules, the source noted.
+The change in Google's tune is another indicator of the shifting tech zeitgeist. Meta CEO Mark Zuckerberg, notably, said Facebook and Instagram would stop its third-party fact checking operation last week, opting for a feature that is similar to X's Community Notes.
+Zuckerberg explained that the move was about "restoring free expression" on Facebook and Instagram, where he said his fact checkers had made "too many mistakes" in recent years.
+TheWrap has reached out to Google for further comment.
+The post Google Tells EU Fact Checking 'Simply Isn't Appropriate' appeared first on TheWrap.

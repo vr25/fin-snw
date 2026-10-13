@@ -1,0 +1,10 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+The startup OpenAI yesterday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and more competition between its backer Microsoft Corp and Alphabet Inc’s Google.
+OpenAI, which created the chatbot sensation ChatGPT, said that its latest technology is “multimodal,” meaning images as well as text prompts can spur it to generate content. The text-input feature will be available to ChatGPT Plus subscribers and to software developers, with a waitlist, while the image-input ability remains a preview of its research.
+The highly-anticipated launch signals how office workers may turn to ever-improving AI for still more tasks, as well as how technology companies are locked in competition to win business from such advances.
+Alphabet Inc’s Google yesterday announced a “magic wand” for its collaboration software that can draft virtually any document, days before Microsoft is expected to showcase AI for its competing Word processor, likely powered by OpenAI.
+The startup’s latest technology in some cases represented a vast improvement on its prior version known as GPT-3.5, it said. In a simulation of the bar exam required of US law school graduates before professional practice, the new model scored around the top 10% of test takers, versus the older model ranking around the bottom 10%, OpenAI said.
+While the two versions can appear similar in casual conversation, “the difference comes out when the complexity of the task reaches a sufficient threshold,” OpenAI said, noting “GPT-4 is more reliable, creative, and able to handle much more nuanced instructions.”
+FILE PHOTO: OpenAI logo is seen in this illustration taken, February 3, 2023. REUTERS/Dado Ruvic/Illustration/File Photo

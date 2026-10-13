@@ -1,0 +1,22 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+IBM (IBM -0.68%) has a dismal reputation as a long-term investment. Over the past decade, the tech giant's stock declined 6% as the S&P 500 rose 154%. That's probably why Warren Buffett's Berkshire Hathaway, which bought a big stake in IBM in 2011, liquidated all its shares by 2018.
+IBM repeatedly failed to impress investors as the sluggish growth of its legacy infrastructure services, hardware, and business software units offset the stronger growth of its newer cloud-based services. Its myopic commitment to cutting costs and boosting its earnings per share (EPS) with buybacks also caused it to fall behind Amazon, Microsoft, and Alphabet's Google in the growing public cloud infrastructure market.
+But on April 6, 2020, IBM's cloud chief Arvind Krishna succeeded Ginni Rometty as the company's CEO. If you had invested $2,000 in Big Blue on that fateful day, your investment would have grown to more than $2,900. If you had also reinvested your dividends, your investment would be worth more than $3,500. Let's see why IBM's stock bounced back under Krishna's leadership -- and where it might be headed.
+Krishna's three turnaround strategies
+Krishna impressed the bulls with three bold decisions.
+First, IBM divested its slower-growth managed infrastructure services unit as Kyndryl (KD -1.19%) in November 2021. That spin-off enabled it to focus on expanding its higher-growth businesses again. IBM's investors received one share of Kyndryl for every five shares of IBM they owned, so that $2,000 investment would have added another 3.6 shares of Kyndryl -- worth about $67 as of this writing -- to your portfolio.
+NYSE: IBM
+Key Data Points
+Second, IBM expanded Red Hat, the open-source software giant IBM acquired in 2019, with more artificial intelligence (AI) and hybrid cloud services, which can be wedged between private on-site clouds and public cloud platforms. That shrewd strategy enables IBM to process the data that flows between those two ecosystems without going head-to-head against Amazon, Microsoft, and Google in the public cloud market.
+The open-source nature of Red Hat's software also makes it easily compatible with a broad range of private and public cloud platforms. So, it's an appealing option for companies that don't want to be locked in by a single tech giant.
+Lastly, IBM aggressively reduced its spending with thousands of layoffs and plans to further streamline its business by replacing human workers with AI services.
+It's falling short of initial growth forecasts
+In late 2021, IBM set some clear goals for the following three years. The company claimed it could generate "sustainable mid-single digit revenue growth" from 2022 to 2024 as it expanded hybrid cloud and AI businesses.
+It expected growth to be driven by the mid-single-digit growth of its software business and the high-single-digit growth of its consulting business, offsetting the "flat" growth of its infrastructure business. IBM cleared those targets in 2022, but its consulting and infrastructure segments broadly missed those expectations throughout 2023 as the macro headwinds drove companies to rein in their spending.
+Nevertheless, the stable growth of its software business -- which accounted for 42% of revenue in the first nine months of 2023 and houses its core hybrid cloud and AI services -- convinced the bulls that Big Blue was still on the right track.
+IBM's margins also expanded as it lapped Kyndryl's divestment, focused on growing its higher-margin services, and reaped the benefits of cost-cutting initiatives. In the first nine months of 2023, gross margin rose 140 basis points year over year to 54% as pre-tax margin improved from negative 4.9% to positive 11.1%.
+Analysts expect IBM's revenue and adjusted EPS to rise 3% and 4%, respectively, for the full year. For 2024, they expect revenue and adjusted EPS to grow another 4% and 6%, respectively, as the macro environment stabilizes.
+Brighter days could be ahead
+IBM's growth rates might seem slow, but they're a vast improvement from its declining revenue and profits throughout most of the past decade. Arvind Krishna hasn't revived IBM in the same way Satya Nadella saved Microsoft, but the early similarities are encouraging and suggest Big Blue's stock is undervalued at 16 times forward earnings. The company's high forward dividend yield of 4.1% should further limit its downside potential as it gradually expands higher-growth businesses.

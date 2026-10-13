@@ -1,0 +1,34 @@
+TICKER_A: MSFT
+TICKER_B: SMCI
+POST:
+US stocks close solidly higher led by Nasdaq/Russell 2000
+The major indices are closing solidly higher led by the Nasdaq and the small-cap Russell 2000 index.
+The final numbers are showing:
+- Dow Industrial Average rose 322.37 points or 0.85% at 38225.67
+- S&P rose 45.79 points or +0.91% at 5064.19
+- Nasdaq rose 235.48 points or 1.51% at 15840.96
+The small cap Russell 2000 index rose 35.88 points or 1.81% at 2016.11.
+Some of the big winners and losers today included:
+- Moderna, +13.05%
+- Qualcomm, +9.74%
+- Alibaba, +6.43%
+- Boeing, +4.29%
+- Nvidia, +3.34%
+- Super Micro Computers, +3.28%
+- Amazon, +3.20%
+- Southwest Airlines, +2.92%.
+Losers included:
+- Doordash -10.32%
+- Exxon, -2.77%
+- Northrup Grumman, -2.39%
+- Papa Johns, -1.99%
+- Biogen, -1.21%
+- Western Digital, -1.12%
+- Live Nation, -1.11%
+Other big cap names:
+- Meta Platforms, +0.57%
+- Alphabet +1.68%
+- Microsoft +0.73%
+- Apple (ahead of earnings) +2.20%
+- Netflix, +2.44%
+- Tesla, unchanged

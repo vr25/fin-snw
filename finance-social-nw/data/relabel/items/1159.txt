@@ -1,0 +1,28 @@
+TICKER_A: AMD
+TICKER_B: GOOGL
+POST:
+Alphabet, Google's parent company, reported a 15% jump in year-over-year revenue, driven by strong results in its cloud-computing division. Total revenue rose 15% to $88.27 billion, ahead of the $86.39 billion that Wall Street forecast. Google's cloud division, which sells computing power in data centers and has been a beneficiary of the artificial-intelligence boom, brought in $11.4 billion, up 35% from the previous year. These gains helped offset increasing capital expenditures, as Google and other tech companies have significantly stepped up AI spending over the past few years. Shares rise 5.8%, to $181.15, in after-hours trading.
+Advanced Micro Devices reported third-quarter earnings in line with expectations, but the company forecast slightly less revenue than expected for its December quarter. The semiconductor company reported adjusted per-share earnings of 92 cents, matching Wall Street's consensus estimate, according to FactSet. Revenue came in at $6.8 billion, which was above analysts' expectations for $6.71 billion. The company forecast for the current quarter was for $7.5 billion in sales at the midpoint of its range, versus the $7.55 billion analyst estimate. Shares fall 7.5%, to $153.83, in post-market trading.
+O-I Glass lowered its full-year outlook as it swung to a loss and posted lower sales in the third quarter, hurt by softer-than-expected demand and inventory reductions. The maker of glass bottles and jars said it significantly curtailed its production levels during the recent quarter to reduce high inventories and meet sluggish demand. The company is implementing a cost savings strategy, and is currently evaluating the closure of at least 7% of capacity by mid-2025, inclusive of the 4% of capacity reductions that have already been announced. Shares slide 13%, to $10.85, in after-hours trading.
+NerdWallet reported higher revenue and earnings in the third quarter. The financial services company reported per-share earnings of zero cents on revenue of $191.3 million, compared with a per-share loss of 1 cent on revenue of $153 million a year earlier. The company also launched a search for a new chief financial officer, as Lauren StClair will resign to pursue other opportunities. Shares rise 27%, to $14.40, in postmarket trading.
+Alphabet Inc. is a holding company organized around 6 areas of activities:
+- operation of a web-based search engine (Google). Additionally, the group runs a video hosting and broadcasting site (YouTube) as well as a free on-line messaging service (Gmail);
+- development and production of home automation solutions (Nest Labs): Wi-Fi networks synchronized with the control programs for thermostats, smoke detectors and security systems;
+- research and development into biotechnology (Calico): dedicated to treating aging and degenerative diseases;
+- research into artificial intelligence (Google X);
+- investment services: management of an investment fund devoted to young businesses that operate in the new technology sector (Google Ventures) and an investment fund intended for already developed companies (Google Capital);
+- operation of a fiber optic internet access network infrastructure (Google Fiber).
+Net sales are distributed geographically as follows: the United States (47.6%), Americas (6%), Europe-Middle East-Africa (29.6%) and Asia-Pacific (16.8%).
+This super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Investor
+Investor
+This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Global
+Global
+This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus (Composite) and Visibility (Composite). The company must be covered by at least 4 of these 5 ratings for the calculation to be carried out. We recommend that you carefully review the associated descriptions.
+Quality
+Quality
+This composite rating is the result of an average of rankings based on the following ratings: Returns (Composite), Profitability (Composite) and Quality of Financial Reporting (Composite), and Financial Health (Composite). The company must be covered by at least 2 of these 3 ratings for the calculation to be performed. We recommend that you carefully read the associated descriptions.
+ESG MSCI
+ESG MSCI
+The MSCI ESG score assesses a company’s environmental, social, and governance practices relative to its industry peers. Companies are rated from CCC (laggard) to AAA (leader). This rating helps investors incorporate sustainability risks and opportunities into their investment decisions.

@@ -1,0 +1,162 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+UPSC Essentials: Daily subject-wise quiz — Environment, Geography, Science and Technology (Week 7)
+Are you Prelims ready? UPSC CSE 2023 is approaching. The following quiz on Environment, Geography, Science and Technology will help you in assessing your progress.
+UPSC Essentials brings to you its new initiative of subject-wise quizzes. UPSC Daily Subject Quiz will cover all topics under UPSC Civil Services syllabus like Polity, History, Geography, Economics, Environment, Science and Technology, International Relations, and more. These quizzes are designed to help you revise some of the most important topics from the static part of the syllabus.
+Each day, we will cover one new subject. Attempt today’s subject quiz on Environment, Geography, Science and Technology to check your progress. Come back tomorrow to solve the Weekly Current Affairs Quiz.
+QUESTION 1
+Consider the following pairs:
+Wildlife Sanctuary State
+1. Tansa Wildlife Sanctuary Maharashtra
+2. Gandhisagar Wildlife Sanctuary Gujarat
+3. Satkosia Wildlife Sanctuary West Bengal
+4. Barda Wildlife Sanctuary Rajasthan
+How many pair(s) given above is/are correct?
+(a) One pair only
+(b) Two pairs only
+(c) Three pairs only
+(d) All four pairs
+QUESTION 2
+Cervarix and Gardasil are mentioned in the context of
+(a) Marburg Virus Disease Vaccine
+(b) Human Papilloma Virus Vaccine
+(c) Monkeypox Vaccine
+(d) Swine Flu Vaccine
+QUESTION 3
+Zojila Tunnel was recently in the news. It will connect
+(a) Jammu and Srinagar
+(b) Leh and Kargil
+(c) Srinagar and Leh
+(d) Manali and Leh
+QUESTION 4
+With reference to Web 3, consider the following statements:
+1. It allows for peer-to-peer transactions.
+2. It has the ability to create and use decentralised applications (dApps) and smart contracts.
+3. Users’ data is controlled mainly by large corporations such as Facebook and Google.
+Which of the statement(s) given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 2 only
+(d) 1 and 3 only
+QUESTION 5
+Consider the following:
+1. Folic acid
+2. Zinc
+3. Vitamin B-12
+4. Iron
+5. Potassium
+Which of the minerals given above are present in fortified rice?
+(a) 1, 2 and 3 only
+(b) 1, 2, 3 and 4 only
+(c) 2, 4 and 5 only
+(d) 2, 3, 4 and 5 only
+QUESTION 6
+Consider the following statements about Lithium-ion batteries:
+1. The energy density of lithium-ion cells is nearly four times higher than that of nickel-cadmium batteries.
+2. They use aqueous electrolyte solutions.
+Which of the statement(s) given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+QUESTION 7
+With reference to the Jupiter Icy Moons Explorer Mission, which of the following statements are correct?
+1. It is a Canadian Space Agency (CSA) mission to make multiple flybys of Jupiter’s satellites.
+2. It will study Ganymede’s intrinsic magnetic field and its interactions with the Jovian magnetosphere.
+Select the correct answer using the codes given below:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+QUESTION 8
+With reference to the food irradiation, consider the following statements:
+1. It is a technology that improves the safety and extends the shelf life of foods by reducing or eliminating microorganisms
+2. It changes the taste and texture of the food.
+3. It effectively eliminate organisms that cause foodborne illness, such as Salmonella and Escherichia coli.
+Which of the statement(s) given above is/are correct?
+(a) 1 and 2 only
+(b) 2 only
+(c) 3 only
+(d) 1 and 3 only
+ANSWERS TO MCQs
+1. (a)
+FYI:
+Therefore option (a) is the correct answer.
+Source: (wii.gov.in)
+2. (b)
+FYI:
+— Human Papilloma Virus (HPV) comprises more than 100 viruses worldwide, of which at least 14 cause cancer. HPV 16 and 18 are responsible for about 70 per cent of the global disease burden. It is the most common sexually transmitted infection.
+— The higher rates of cervical cancer incidence and mortality in India are not attributable to differences in cervical infection with HPV types. Instead, they are because of the absence of the HPV vaccination programme, the relative lack of high-quality cervical cancer screening and the lack of access to cervical cancer treatment.
+— Cervarix and Gardasil are the currently available HPV vaccines:
+(1) Cervarix is a bivalent vaccine that protects you against HPV types 16 and 18.
+(2) Gardasil is available in quadrivalent and non-valent forms that protect you against HPV strains 6, 11, 16 and 28 (and 31, 33, 45, 52, and 58 in nine-valent or Gardasil 9).
+— The WHO now recommends one or two-dose schedules for girls aged between 9 and 14 years, one or two-dose schedules for girls and women aged between 15 and 20 years and two doses with a six-month interval for women older than 21 years.
+Therefore, option (b) is the correct answer.
+3. (c)
+FYI:
+— The Zojila tunnel will be India’s longest road tunnel and is expected to be Asia’s longest bi-directional tunnel, boasting a length of 14.15 km. The tunnel will connect Srinagar and Leh.
+— The upcoming Zojila tunnel will provide perennial connectivity between Ladakh and the rest of the country. This will benefit civilians living and employed in the region and the military by expediting the movement of troops and supplies in this vitally important strategic region.
+— A connecting tunnel from Z-Morh on NH1 to the Zojila tunnel will be built in the Zojila Ghats between Sonmarg and Kargil. The work on the entire 33-km span is spread between two union territories – Jammu and Kashmir and Ladakh.
+— During harsh winters, this route is closed due to fears of avalanches, landslides and slippery roads, with areas beyond the pass cut off from the rest of the country for at least five months.
+Therefore, option (c) is the correct answer.
+4. (a)
+FYI:
+— Web3 is built on top of existing Internet infrastructure and not in competition with previous versions of the web platform. It allows for the creation and exchange of digital assets, decentralised applications (dApps), and smart contracts in the blockchain system.
+— Web3 is that it provides users with greater control over their data and digital assets. Instead of relying on centralised intermediaries, it offers options and mediums for an individual to have more privacy and, more importantly, security of the content and transactions.
+— It allows for peer-to-peer transactions and interactions, which means that users can control their data and choose whom they share it with. Hence, statement 1 is correct.
+— Web3 has the ability to create and use decentralised applications (dApps) and smart contracts. These dApps can be used for various purposes, such as social media, finance, gaming, and more. Hence, statement 2 is correct.
+Therefore, option (a) is the correct answer.
+5. (b)
+FYI:
+— The Food Safety and Standards Authority of India (FSSAI) defines fortification as “deliberately increasing the content of essential micronutrients in a food so as to improve the nutritional quality of food and to provide public health benefits with minimal risk to health”.
+— The fortified rice kernels are blended with regular rice to produce fortified rice. Under the Ministry’s guidelines, 10 g of FRK must be blended with 1 kg of regular rice.
+— The fortification of food is considered to be one of the most suitable methods to combat malnutrition. Rice is one of India’s staple foods, consumed by about two-thirds of the population. Per capita rice consumption in India is 6.8 kg per month. Therefore, fortifying rice with micronutrients is an option to supplement the diet of the poor.
+— According to FSSAI norms, 1 kg of fortified rice will contain the following:
+Iron (28 mg-42.5 mg)
+Folic acid (75-125 micrograms)
+Vitamin B-12 (0.75-1.25 microgram).
+— Rice may also be fortified with zinc (10 mg-15 mg), vitamin A (500-750 microgram RE), vitamin B-1 (1 mg-1.5 mg), vitamin B-2 (1.25 mg-1.75 mg), vitamin B-3 (12.5 mg-20 mg) and vitamin B-6 (1.5 mg-2.5 mg) per kg.
+Therefore, option (b) is the correct answer.
+6. (c)
+FYI:
+— The energy density of lithium-ion cells used in today’s mobile phones and electric vehicles is nearly four times higher than that of older-generation nickel-cadmium batteries. Hence, statement 1 is correct.
+— Lithium-ion batteries use aqueous electrolyte solutions, where ions transfer to and fro between the anode (negative electrode generally made of graphite) and cathode (positive electrode made of lithium), triggering the recharge and discharge of electrons. Hence, statement 2 is correct.
+— Lithium-ion batteries are seen as sufficiently efficient for phones and laptops, but they still lack the range that would make EVs a viable alternative to internal combustion engines.
+— One major problem is that lithium metal is extremely reactive. The main form of lithium corrosion is dendrites, which are branched lithium structures that grow out from the electrode and can potentially pierce through the separator and onto the other end, short-circuiting the cell.
+— In current lithium-ion batteries, in which the electrolyte is a flammable liquid, dendrite formation can trigger a fire.
+Therefore, option (c) is the correct answer.
+7. (b)
+FYI:
+— It was launched on April 14, 2023, on an Ariane 5 from the European Spaceport in Kourou, French Guiana.
+— JUICE or the Jupiter Icy Moons Explorer Mission is a European Space Agency (ESA) mission that will make multiple flybys past Jupiter’s moons Ganymede, Callisto and Europa before going into orbit around Ganymede. Hence, statement 1 is not correct.
+— The mission will help scientists understand more about Jupiter and its system, with a focus on finding out whether Ganymede can host life.
+— The primary science objectives for Ganymede (most of these apply to Callisto as well) are:
+(1) Characterization of the ocean layers and detection of putative subsurface water reservoirs;
+(2) Topographical, geological and compositional mapping of the surface;
+(3) Study of the physical properties of the icy crusts;
+(4) Characterisation of the internal mass distribution, dynamics and evolution of the interiors;
+(5) Investigation of the exosphere; and
+(6) Study of Ganymede’s intrinsic magnetic field and its interactions with the Jovian magnetosphere. Hence, statement 2 is correct.
+— For Europa, the focus is on the chemistry essential to life, including organic molecules, and on understanding the formation of surface features and the composition of the non-water-ice material.
+Therefore, option (b) is the correct answer.
+Other Source: (nssdc.gsfc.nasa.gov)
+8. (d)
+FYI:
+— Irradiation does not make foods radioactive, compromise nutritional quality, or noticeably change the taste, texture, or appearance of food. In fact, any changes made by irradiation are so minimal that it is not easy to tell if a food has been irradiated. Hence, statement 2 is not correct.
+— Food irradiation (the application of ionizing radiation to food) is a technology that improves the safety and extends the shelf life of foods by reducing or eliminating microorganisms and insects. Like pasteurizing milk and canning fruits and vegetables, irradiation can make food safer for the consumer. Hence, statement 1 is correct.
+— The Food and Drug Administration (FDA) is responsible for regulating the sources of radiation that are used to irradiate food.
+— The FDA approves a source of radiation for use on foods only after it has determined that irradiating the food is safe.
+Benefits of Irradiation
+— Prevention of Foodborne Illness – to effectively eliminate organisms that cause foodborne illness, such as Salmonella and Escherichia coli (E. coli). Hence, statement 3 is correct.
+— Preservation – to destroy or inactivate organisms that cause spoilage and decomposition and extend the shelf life of foods.
+— Control of Insects – to destroy insects in or on tropical fruits imported into the United States. Irradiation also decreases the need for other pest-control practices that may harm the fruit.
+— Delay of Sprouting and Ripening – to inhibit sprouting (e.g., potatoes) and delay ripening of fruit to increase longevity.
+— Sterilization – irradiation can be used to sterilize foods, which can then be stored for years without refrigeration. Sterilized foods are useful in hospitals for patients with severely impaired immune systems, such as patients with AIDS or undergoing chemotherapy.
+Therefore, option (d) is the correct answer.
+Source: (http://www.fda.gov)
+Previous Quizzes:
+Polity and Governance: (Week 4) , (Week 5), (Week 6)
+History, Culture, and Social Issues (Week 4), (Week 5), (Week 6)
+The UPSC Essentials Indian Express is now on Telegram- Indian Express UPSC Hub. Click here to join our YouTube channel and stay updated with the latest updates.
+Note: Catch the UPSC Weekly Quiz every Saturday evening and brush up on your current affairs knowledge.

@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+OpenAI has secured a new $4 billion revolving credit line, the ChatGPT maker said on Thursday, a day after it closed a $6.6 billion funding round that cemented its position as one of the most valuable private companies in the world.
+The borrowing facility will boost its liquidity to $10 billion, OpenAI said, allowing the startup to buy costly computing capacity, including Nvidia chips, in its race with tech giants such as Alphabet-owned Google.
+"This credit facility further strengthens our balance sheet and provides flexibility to seize future growth opportunities," OpenAI's finance chief Sarah Friar said.
+The credit line is with JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS and HSBC .
+The startup at the heart of the generative AI boom on Wednesday raised new funds at a valuation of nearly $157 billion from returning venture capital investors including Thrive Capital and Khosla Ventures.
+Its biggest corporate backer Microsoft and new investor Nvidia also joined the funding that came in the form of convertible notes.
+The conversion to equity hinges on a successful structural change into a for-profit company and the removal of cap on returns for investors.
+The latest funding coincided with executive changes, including the abrupt departure of longtime Chief Technology Officer, Mira Murati, last week.
+The personnel changes have not dampened the enthusiasm of most investors, who expect significant growth based on the projections by CEO Sam Altman.
+The company is on pace to generate $3.6 billion in revenue this year even as losses surge to more than $5 billion. It expects a major revenue jump next year to $11.6 billion, according to sources familiar with the figures.
+OpenAI is also offering Thrive Capital a sweetener no other investors are getting: the potential to invest another $1 billion next year at the same valuation if the AI firm hits a revenue goal, Reuters reported last month.
+Published - October 04, 2024 10:05 am IST

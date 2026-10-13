@@ -1,0 +1,145 @@
+TICKER_A: AMD
+TICKER_B: MSFT
+POST:
+Traders’ Diary: The last days of disco as big tech and high rates march on November
+The Week that Was
+Local markets ended last week on an unfamiliar high note, ignoring yet another meek misfit of a session in New York as they ended sharply lower and we ended Friday +0.2% higher.
+But for the week, the ASX 200 index was down -1%, adding further shame to a horror October’s woeful performance.
+The fall so far this month is circa 3% with more sessions ahead of us.
+Over the five days, the miners, energy and utilities tried to help stem the losses.
+ 
+BY THE NUMBERS: S&P/ASX 200 (XJO)
+Wall Street traders sold and snapped up stocks willy-nilly as the tech rally ended and restarted once or thrice last week following hot and cold trading updates from a more motley Mega Tech crew.
+On the dance floor last week a rare choice of partners: Messrs Tesla (cold), Netflix (hot), Google (cold), Microsoft (hot), Meta (cold) and Amazon (hot). The tech earnings tango attracted fewer takers than you’d expect.
+“Whether Amazon’s earnings report and Apple’s report next week can stop the rot in the tech trade remains to be seen,” according to IG Markets senior analyst Tony Sycamore.
+The interest rate issue is an even more significant headwind for Tech stocks, given their perceived ‘long duration’ status.
+The S&P 500 (SP500) crashed 2.5% last week after ending in the red four out of five times, joining the Nasdaq Composite in the dog house, officially entering index correction territory.
+Wall Street’s retreat last week was inspired by mega tech but was in no way confined to the big end of town. Ten of the S&P’s 11 sectors ended the week in the red.
+Defensive Utilities were the only winners. A lot like another index we all know and occasionally like:
+ 
+ASX SECTORS LAST WEEK
+At home, the most interest rate-sensitive sectors like Property and IT led the declines.
+ 
+THE WEEK AHEAD
+Also stressing traders last week, US GDP. It gained a stonking 4.9% for the September quarter, up from 2.1% in the last quarter.
+Now we face the Fed’s new truth with the American central bank’s interest rate decision.
+Then the Fed and Friends got data galore to consider how their decision looks.
+Lots of jobs data – JOLTs job ppenings, some factory orders, the ISM Manufacturing and then Services PMIs.
+Q3 earnings reports from more of mega-major companies like Apple, Advanced Micro Devices, Airbnb, Caterpillar, Qualcomm, Eli Lilly, and Pfizer are set to drop.
+McDonald’s starts us off tonight.
+And it will be a busy week by olde European standards too.
+Preliminary GDP growth figures for France and Italy and inflation for Germany, France, Italy and Spain are due.
+EU inflation is expected to have slowed right down in October. EU GDP probably contracted 0.1% over Q3 according to a Reuters poll following two quarters of sluggish economic expansion of 0.1%.
+In Germany, where the economy is having a very unGerman run, GDP likely contracted -0.3%, which would mark a Deutsch No 4 for consecutive GDP failures.
+We’ll know kore after this week – German unemployment, retail sales and trade data drop; the Swedes drop GDP growth as well, while the Swiss and the Old Turks share new inflation data.
+In the UK, all eyes will be on the Bank of England monetary policy decision, with the central bank set to keep interest rates steady once again, and investors will be closely examining any clues regarding their plans for the remainder of the year. Mortgage and credit indicators are also due.
+Around the planet, central bank interest rate calls are also due for Japan and Brazil.
+The BoJ’s interest rate decision, as a series of unscheduled JGB purchases prompted the possibility of another tweak to the central bank’s yield-curve-control policy. Japan will also update its unemployment rate, industrial growth, and retail sales figures.
+Inflation rates are due in the Euro Area, Germany, France, Italy, Spain, South Korea and Indonesia.
+New PMI data is expected to show that China’s manufacturing sector continued to expand in October, extending the momentum of optimistic responses to economic stimulus from Beijing despite the headwinds from hell out of China’s debt-drenched property market.
+Across Asia there’s fresh PMI data expected from India, South Korea, Singapore, Indonesia, the Philippines, Thailand, and Malaysia. Also, third-quarter GDP figures are incoming from Saudi Arabia, Taiwan, and Hong Kong.
+HOME ECONOMICS
+The economic data flow in Australia and globally sharply picks up next week, CBA says.
+First up, we get the monthly housing drops.
+“Home prices are likely to have increased by 1.0% in October. We also forecast building approvals lifted a little and new housing lending to have stepped up a touch in September. Goods trade balance figures should show a broadly unchanged outcome in September. And private sector credit growth is anticipated to have remained unchanged,” the bank’s economic team says.
+CBA says our biggest release this week is retail trade.
+“The RBA is keeping a close eye on how consumer spending is faring. Our internal data suggests nominal retail trade rose solidly in September. An expected easing in retail price inflation, primarily driven by softening food and household goods inflation, should mean that retail trade volumes improved to a flat outcome in Q3 23 after a 0.5%/qtr decline in Q2 23.
+“That said, retail spending on a per capita basis declined further given the strength in recent population growth.”
+The Australian Economic Calendar
+Monday October 30 – Friday November – 3
+Source: Commsec, Trading Economics, S&P Global Research, AMP
+MONDAY
+Australia Retail Sales SEP
+TUESDAY
+RBAspeak: Jones (not Eddie)
+Housing Credit MoM SEP
+WEDNESDAY
+Ai Group Industry Index OCT
+Judo Bank Manufacturing PMI Final OCT
+Building Permits MoM
+THURSDAY
+Balance of Trade SEP
+Home Loans MoM SEP
+Investment Lending for Homes Sep
+FRIDAY
+Judo Bank Services PMI Final
+RBA Jones Speech
+ 
+ASX EARNINGS THIS WEEK
+MONDAY
+Medlab Clinical (ASX:MDC) Half Year 2023 Earnings
+Pivotal Systems Corporation (ASX:PVS) Q3 2023 Earnings
+Challenger Exploration (ASX:CEL) Full Year 2023 Earnings
+GCX Metals (ASX:GCX) Q1 2024 Earnings
+Sezzle (ASX:SZL) Q3 2023 Earnings
+Wellfully (ASX:WFL) Q3 2023 Earnings
+TUESDAY
+Doctor Care Anywhere Group PLC (ASX:DOC) Q3 2023 Earnings
+Australian Potash (ASX:APC) Full Year 2023 Earnings
+Macquarie Group (ASX:MQG) Half Year 2024 Earnings
+Design Milk Co (ASX:DMC) Q1 2024 Earnings
+Happy Valley Nutrition (ASX:HVM) Full Year 2023 Earnings
+WEDNESDAY
+Atrum Coal (ASX:ATU) Half Year 2023 Earnings
+A1 Investments & Resources Ltd Full Year 2023 Earnings
+CSR (ASX:CSR) Half Year 2024 Earnings Call
+Thomson Resources (ASX:TMZ) Full Year 2023 Earnings
+THURSDAY
+FRIDAY
+Macquarie Group (ASX:MQG) Half Year 2024 Earnings Call
+The Everyone Else Economic Calendar
+Monday October 23 – Friday October – 27
+MONDAY
+United Kingdom Mortgage Lending and Approval (Sep)
+Eurozone Consumer Confidence (Oct, final)
+Germany Inflation (Oct, prelim)
+TUESDAY
+China (Mainland) NBS PMI (Oct)
+South Korea Industrial Production and Retail Sales (Sep)
+Japan Unemployment Rate (Sep)
+Japan Industrial Production and Retail Sales (Sep, prelim)
+Japan BOJ Interest Rate Decision
+Japan Consumer Confidence (Oct)
+France Q3 GDP and Inflation (Oct, prelim)
+Germany GDP (Q3, flash)
+Taiwan GDP (Q3)
+Hong Kong SAR GDP (Q3, advance)
+Eurozone GDP (Q3, flash)
+Eurozone Inflation (Oct, flash)
+United States House Price Index (Aug)
+United States CB Consumer Confidence (Oct)
+WEDNESDAY
+Worldwide Manufacturing PMIs, incl. global PMI
+South Korea Trade (Oct)
+Indonesia Inflation (Oct)
+United States ADP Employment (Oct)
+United States ISM Manufacturing PMI (Oct)
+United States JOLTs Job Openings (Sep)
+United States Fed Interest Rate Decision
+Brazil BCB Interest Rate Decision
+THURSDAY
+South Korea Inflation (Oct)
+Hong Kong SAR HKMA Interest Rate Decision
+Malaysia BNM Interest Rate Decision
+United Kingdom BOE Interest Rate Decision
+United States Factory Orders (Sep)
+FRIDAY
+Japan Market Holiday
+Worldwide Services, Composite PMIs, inc. global PMI
+Germany Trade (Sep)
+Turkey Inflation (Oct)
+Eurozone Unemployment (Sep)
+Canada Unemployment (Sep)
+United States Non-Farm Payrolls, Unemployment Rate, Average Hourly Earnings (Oct)
+United States ISM Services PMI (Oct)
+US EARNINGS THIS WEEK
+MONDAY – McDonald’s (MCD), Pinterest (PINS), and SoFi Technologies (SOFI).
+TUESDAY – Amgen (AMGN), Caesars Entertainment (CZR), Caterpillar (CAT), First Solar (FSLR), Pfizer (PFE), JetBlue Airways (JBLU), Advanced Micro Devices (AMD).
+WEDNESDAY – Estée Lauder (EL), Humana (HUM), Qualcomm (QCOM), Yum! Brands (YUM), Airbnb (ABNB), PayPal (PYPL).
+THURSDAY – Apple (AAPL), Moderna (MRNA), Palantir Technologies (PLTR), Starbucks (SBUX), Paramount Global (PARA), DraftKings (DKNG).
+FRIDAY – Dominion Energy (D), Fluor (FLR).
+Related Topics
+UNLOCK INSIGHTS
+Discover the untold stories of emerging ASX stocks.
+Daily news and expert analysis, it's free to subscribe.
+By proceeding, you confirm you understand that we handle personal information in accordance with our Privacy Policy.

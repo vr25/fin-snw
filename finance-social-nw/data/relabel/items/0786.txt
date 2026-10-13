@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+French regulators announced on Wednesday a two hundred seventy-two million dollars fine against Google's violation of commitments related to compensating media companies for the reproduction of their content online and for utilizing their material for its AI chatbot without prior notification.
+Google's Violation of Media Companies' Commitment
+Google committed to engaging in fair negotiations with French news organizations in 2022, following a 500-million-euro fine imposed by the Competition Authority from a long-running dispute.
+An organization representing French magazines, newspapers, and Agence France-Presse (AFP) filed a case in 2019, requiring the U.S. tech giant to offer newsgroups transparent payment terms within three months of receiving a copyright complaint. However, the regulator imposed a new fine on Google on Wednesday for failing to adhere to four of the seven commitments made in 2022 and not negotiating in good faith with news publishers.
+The U.S. tech giant utilized press agencies' content to train Bard, an artificial intelligence platform now known as Gemini, without informing them or the authority prior. According to the regulator, Google's failure to offer publishers and news agencies a technical solution to object to using their content hindered their ability to negotiate remuneration.
+READ ALSO: Nvidia Faces Lawsuit for Allegedly Using Copyrighted Materials to Train AI NeMo Without Permission
+In response to the shortcomings identified by the authority, the watchdog said that Google had agreed not to dispute the facts as part of the settlement process and had proposed a series of corrective measures instead.
+Google Settling Fines to Move On
+Google stated that the fine was disproportionate and did not adequately consider their efforts to address and resolve the concerns raised "in an environment where it is tough to set a course because we cannot predict which way the wind will blow next."
+Google said it settled because it is time to move on, highlighting that it had signed many licensing agreements with 280 French news publishers under the European Copyright Directive.
+The Neighboring Rights
+In 2019, the EU introduced a form of copyright known as "neighboring rights," enabling print media to seek compensation for using their content.
+France has served as a test case for the EU rules. After initial resistance, both Google and Facebook eventually agreed to compensate some French media for articles displayed in web searches.
+Marina Ferrari, the French government's secretary of state for digital affairs, emphasized that reliable, sourced, and trustworthy information is invaluable but comes with a cost, as the Competition Authority reminded Google today.
+Pierre Louette, former head of AFP and current chief executive at newspaper group Le Parisien-Les Echos, suggested that it would be preferable to provide publishers with even higher fair remuneration rather than continuing to pay the state fines.
+Google Pushing for Greater Clarity on Media Guidelines
+Google mentioned that since the law took effect, the absence of clear regulatory guidance and multiple enforcement actions have complicated negotiations with publishers. The tech company also emphasized the need for more precise guidelines on which media it should compensate, given the diverse range of publishers, from general news outlets to specialized publications or comparison sites. Google stated it is time for greater clarity on who and how payments should be made to foster a more sustainable business environment for all parties involved.
+Other European Union countries have similarly confronted Google regarding news content. Last year, Spain's competition watchdog investigated Google for suspected anti-competitive behaviors impacting news agencies and press publications.

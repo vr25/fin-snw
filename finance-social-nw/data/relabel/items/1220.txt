@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Trillion-dollar gap shows diverging South Korea, Taiwan stock fortunes
+AS SOUTH Korea descends into political chaos, its equity market risks falling further behind major tech rival Taiwan, which is basking in the glory of the global artificial intelligence (AI) boom.
+A near 30 per cent surge in Taiwan’s stock benchmark this year, set to be the best since 2009, has already helped spur a historic divergence between Asia’s two tech-dominated markets. The island’s market capitalisation now exceeds South Korea’s by about US$950 billion as the world’s AI frontrunners from Nvidia and Microsoft to OpenAI all increasingly turn to Taiwanese firms for supply.
+Looking ahead to next year, while both export-oriented economies face the risk of higher tariffs by incoming US president Donald Trump, many investors see Taiwan as less vulnerable given the reliance of American firms on its technology as well as its relatively better economic prospects.
+Such optimism, and a recent pickup in inflows into local stocks, also augur well for the Taiwanese dollar, which has fared better than the Korean won in 2024.
+“The structural theme of AI is likely to only get extended further, and this means we could see another year of Taiwan outperformance,” said Charu Chanana, chief investment strategist at Saxo Markets in Singapore.
+“The Korea discount may linger for longer given the recent political debacle, and the corporate governance reforms will have to be prioritised to get any closer to erasing this discount.”
+South Korean President Yoon Suk Yeol is fighting for his political life after his attempt to break an impasse in parliament by briefly imposing martial law backfired.
+The turmoil has cast a pall over the nation’s outlook and it also may impact the Corporate Value-Up programme much touted by Yoon as a way to boost shareholder returns and eradicate the so-called Korea Discount, a term referring to the long depressed valuations of the country’s equities.
+Down more than 8 per cent this year, the Kospi is one of the world’s worst-performing major equity indexes. Its underperformance versus Taiwan’s Taiex has deepened further this month.
+TSMC rules
+Taiwan’s equity-market outperformance has a lot to do with this year’s 80 per cent surge in the shares of Taiwan Semiconductor Manufacturing Co, the world’s top advanced chipmaker that accounts for 37 per cent of the benchmark’s weighting. The company is the major supplier of Nvidia and Apple’s most advanced chips.
+In contrast, shares of Samsung Electronics – South Korea’s most-valued company – have been the biggest drag on its local market. Samsung’s stock has slumped 31 per cent in Seoul this year on concerns that the firm is missing out on the AI boom due to slow progress on technological breakthroughs and lingering management woes.
+Overall, Taiwan’s exposure to AI goes far beyond TSMC: over 40 AI-related firms constitute about 73 per cent of MSCI Taiwan’s index weighting, according to Goldman Sachs Group analysts. At 33 per cent, South Korea is a distant second in Asia and features SK Hynix and Samsung Electronics only.
+Analysts’ average earnings per share estimate for MSCI Taiwan has risen more than 33 per cent this year to a record high, while that for MSCI Korea has declined 5 per cent since a peak in August, Bloomberg compiled data shows.
+“If you think of Nvidia’s AI server market and so on, Taiwan is heavily involved in that value chain,” said Yan Taw Boon, portfolio manager at Neuberger Berman. “Conversely, (South) Korea has not performed as strongly as they have very little involvement in this new booming environment.”
+Trump tariffs
+While the higher tariffs threatened by Trump are a universal challenge, there are reasons some investors believe that Taiwan’s treatment may be more nuanced and less punishing.
+“One will recall that many Taiwanese exports were exempt from tariffs last time around as they were key components of US tech supply chains,” JPMorgan Chase analysts including Rajiv Batra wrote in a note. “This time is likely to be the same with TSMC seen as a major part of the Global AI trade.”
+The Wall Street bank sees Taiwan relatively better positioned than South Korea in a trade war with the US.
+Another buffer for Taiwanese equities is the growing presence of local investors, especially when the global investment climate turns more capricious.
+“Taiwan retail investors’ home bias and the still interesting AI ramp-up theme should continue to drive participation in the stock market,” said Vivian Pai, fund manager at Fidelity International. Their increased awareness of long-term investing can help form strong consistent inflows into local stocks, she added.
+The Taiwan dollar has weakened about 5 per cent against the US currency this year while the South Korean won has fallen around 9 per cent.
+“Both Taiwan and (South) Korea are exposed to tariffs but Taiwan’s underlying economic fundamentals are more solid,” said Eddie Cheung, a strategist at Credit Agricole CIB. “This should persist in 2025.”
+Decoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.
+Share with us your feedback on BT's products and services

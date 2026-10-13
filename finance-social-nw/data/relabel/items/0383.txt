@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Stock market today: Asian shares are mixed ahead of Fed Chair speech and Nvidia earnings
+- Asian markets trading mixed ahead of Fed Chair Jerome Powell's speech in Jackson Hole, Wyoming, with Japan's Nikkei 225 up 0.3% and Australia's S&P/ASX 200 up nearly 0.7%.
+TOKYO (AP) — Asian markets were trading mixed Wednesday ahead of Fed Chair Jerome Powell's highly anticipated speech later in the week.
+Japan's benchmark Nikkei 225 added 0.3% in morning trading to 31,957.35. Australia's S&P/ASX 200 gained nearly 0.7% to 7,168.30. South Korea's Kospi slipped 0.4% to 2,506.38. Hong Kong's Hang Seng lost nearly 0.1% to 17,777.65, while the Shanghai Composite fell 0.8% to 3,095.91.
+Powell is set to speak Friday at an event in Jackson Hole, Wyoming, the site of several major policy announcements by the Fed. The Fed has already hiked its main interest rate to the highest level since 2001 in hopes of grinding high inflation down to a 2% target. High rates work by slowing the entire economy bluntly and hurting prices for investments.
+Inflation has come down considerably from its peak above 9% in summer 2022, but economists say getting the last percentage point of improvement may be the most difficult.
+The hope among traders is that Powell would indicate the Fed is done hiking interest rates for this cycle and that it could begin cutting them next year. But strong reports on the economy recently have hurt such hopes. A solid job market and spending by U.S. households could be feeding more fuel into pressures that push upward on inflation.
+Robert Carnell, ING's head of research for the Asia-Pacific region, noted attention is also on what the People's Bank of China might do next on monetary policy. Earlier this month, the central bank unexpectedly cut a key interest rate in a sign of growing official urgency about shoring up economic growth.
+"The tug of war between markets and the PBoC will remain a focus in Asia today," he said.
+Analysts say trading in Asia remains subdued as investors are also waiting for U.S. chipmaker Nvidia's earnings report later in the day. Nvidia, one of Wall Street's most influential stocks, swung from an early gain to a loss of 2.8% Tuesday.
+Nvidia has been at the center of Wall Street's frenzy around artificial-intelligence technology, which investors believe will create immense profits for companies. Nvidia's stock has already more than tripled this year, and it likely faces a high a bar to justify the huge move.
+Analysts expect Nvidia to say on Wednesday that its revenue swelled by nearly $4.5 billion to $11.19 billion during the spring from a year earlier.
+Wall Street finished mostly lower, with the S&P 500 slipping 12.22, or 0.3%, to 4,387.55 to give back some of its rare August gain from a day before, which was powered by Big Tech stocks. The Dow Jones Industrial Average fell 174.86 points, or 0.5%, to 34,288.83, and the Nasdaq composite edged up by 8.28, or 0.1%, to 13,505.87.
+Dick's Sporting Goods plunged 24.1% after its profit for the latest quarter fell well short of expectations. Macy's fell 14.1% despite reporting stronger results for the latest quarter than Wall Street expected.
+On the winning side, Lowe's gained 3.7% after reporting stronger profit for the latest quarter than analysts expected. Microsoft edged up by 0.2% as U.K. regulators consider a revamped bid by the company to buy video game maker Activision Blizzard, which would be one of the biggest deals in tech history.
+In the bond market, the 10-year Treasury yield ticked down to 4.32% from 4.34%. It's the center of the bond market and helps set rates for mortgages and other important loans.
+The two-year Treasury yield, which moves more on expectations for the Federal Reserve, rose to 5.04% from 5.00%.
+In energy trading, U.S. benchmark crude rose 17 cents to $79.81 a barrel. Brent crude, the international standard, added 10 cents to $84.13 a barrel.
+In currency trading, the U.S. dollar edged down to 145.67 Japanese yen from 145.85 yen. The euro cost $1.0857, up from $1.0848.
+___
+AP Business Writer Stan Choe contributed from New York.

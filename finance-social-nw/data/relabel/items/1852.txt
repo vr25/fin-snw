@@ -1,0 +1,46 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By MARC LEVY The Associated Press
+SPRING CITY, Pa. (AP) — Tech companies and developers looking to plunge billions of dollars into ever-bigger data centers to power artificial intelligence and cloud computing are increasingly losing fights in communities where people don’t want to live next to them, or even near them.
+Communities across the United States are reading about — and learning from — each other’s battles against data center proposals that are fast multiplying in number and size to meet steep demand as developers branch out in search of faster connections to power sources.
+In many cases, municipal boards are trying to figure out whether energy- and water-hungry data centers fit into their zoning framework. Some have entertained waivers or tried to write new ordinances. Some don’t have zoning.
+But as more people hear about a data center coming to their community, once-sleepy municipal board meetings in farming towns and growing suburbs now feature crowded rooms of angry residents pressuring local officials to reject the requests.
+“Would you want this built in your backyard?” Larry Shank asked supervisors last month in Pennsylvania’s East Vincent Township. “Because that’s where it’s literally going, is in my backyard.”
+Opposition spreads as data centers fan out
+A growing number of proposals are going down in defeat, sounding alarms across the data center constellation of Big Tech firms, real estate developers, electric utilities, labor unions and more.
+Andy Cvengros, who helps lead the data center practice at commercial real estate giant JLL, counted seven or eight deals he’d worked on in recent months that saw opponents going door-to-door, handing out shirts or putting signs in people’s yards.
+“It’s becoming a huge problem,” Cvengros said.
+Data Center Watch, a project of 10a Labs, an AI security consultancy, said it is seeing a sharp escalation in community, political and regulatory disruptions to data center development.
+Between April and June alone, its latest reporting period, it counted 20 proposals valued at $98 billion in 11 states that were blocked or delayed amid local opposition and state-level pushback. That amounts to two-thirds of the projects it was tracking.
+Some environmental and consumer advocacy groups say they’re fielding calls every day, and are working to educate communities on how to protect themselves.
+“I’ve been doing this work for 16 years, worked on hundreds of campaigns I’d guess, and this by far is the biggest kind of local pushback I’ve ever seen here in Indiana,” said Bryce Gustafson of the Indianapolis-based Citizens Action Coalition.
+In Indiana alone, Gustafson counted more than a dozen projects that lost rezoning petitions.
+Similar concerns across different communities
+For some people angry over steep increases in electric bills, their patience is thin for data centers that could bring still-higher increases.
+Losing open space, farmland, forest or rural character is a big concern. So is the damage to quality of life, property values or health by on-site diesel generators kicking on or the constant hum of servers. Others worry that wells and aquifers could run dry.
+Lawsuits are flying — both ways — over whether local governments violated their own rules.
+Big Tech firms Microsoft, Google, Amazon and Facebook — which are collectively spending hundreds of billions of dollars on data centers across the globe — didn’t answer Associated Press questions about the effect of community pushback.
+Microsoft, however, has acknowledged the difficulties. In an October securities filing, it listed its operational risks as including “community opposition, local moratoriums, and hyper-local dissent that may impede or delay infrastructure development.”
+Even with high-level support from state and federal governments, the pushback is having an impact.
+Data center near Grand Rapids uncertain after residents shut down meeting
+Maxx Kossof, vice president of investment at Chicago-based developer The Missner Group, said developers worried about losing a zoning fight are considering selling properties once they secure a power source — a highly sought-after commodity that makes a proposal far more viable and valuable.
+“You might as well take chips off the table,” Kossof said. “The thing is you could have power to a site and it’s futile because you might not get the zoning. You might not get the community support.”
+Some in the industry are frustrated, saying opponents are spreading falsehoods about data centers — such as polluting water and air — and are difficult to overcome.
+Still, data center allies say they are urging developers to engage with the public earlier in the process, emphasize economic benefits, sow good will by supporting community initiatives and talk up efforts to conserve water and power and protect ratepayers.
+“It’s definitely a discussion that the industry is having internally about, ‘Hey, how do we do a better job of community engagement?’” said Dan Diorio of the Data Center Coalition, a trade association that includes Big Tech firms and developers.
+Data center opposition dominates local politics
+Winning over local officials, however, hasn’t translated to winning over residents.
+Developers pulled a project off an October agenda in the Charlotte suburb of Matthews, North Carolina, after Mayor John Higdon said he informed them it faced unanimous defeat.
+The project would have funded half the city’s budget and developers promised environmentally friendly features. But town meetings overflowed, and emails, texts and phone calls were overwhelmingly opposed, “999 to one against,” Higdon said.
+Had council approved it, “every person that voted for it would no longer be in office,” the mayor said. “That’s for sure.”
+In Hermantown, a suburb of Duluth, Minnesota, a proposed data center campus several times larger than the Mall of America is on hold amid challenges over whether the city’s environmental review was adequate.
+Residents found each other through social media and, from there, learned to organize, protest, door-knock and get their message out.
+They say they felt betrayed and lied to when they discovered that state, county, city and utility officials knew about the proposal for an entire year before the city — responding to a public records request filed by the Minnesota Center for Environmental Advocacy — released internal emails that confirmed it.
+“It’s the secrecy. The secrecy just drives people crazy,” said Jonathan Thornton, a realtor who lives across a road from the site.
+Documents revealing the extent of the project emerged days before a city rezoning vote in October. Mortenson, which is developing it for a Fortune 50 company that it hasn’t named, says it is considering changes based on public feedback and that “more engagement with the community is appropriate.”
+Rebecca Gramdorf found out about it from a Duluth newspaper article, and immediately worried that it would spell the end of her six-acre vegetable farm.
+She found other opponents online, ordered 100 yard signs and prepared for a struggle.
+“I don’t think this fight is over at all,” Gramdorf said.
+Washington Township data center zoning request postponed to February meeting
+The U.S. may have a secret weapon against rising electricity prices

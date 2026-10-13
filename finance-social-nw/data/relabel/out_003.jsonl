@@ -1,0 +1,20 @@
+{"id": "0060", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "AI race heats up! Microsoft invests", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0061", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "BenchmarksLIVE BenchmarksLIVE Business", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0062", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Datenschutz Allgemeine Informationen &", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0063", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Updated January 24, 2023", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0064", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft Corp.'s lackluster quarterly outlook", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0065", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "ACCESS Newswire 26 Jan", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0066", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Stocks tumbled on Monday as", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0067", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Stocks tumbled on Monday as", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0068", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Stocks tumbled on Monday as", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0069", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Cover Reveal – Resident Evil", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0070", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The requested article has", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0071", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "BARCELONA, Spain, Feb. 3,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0072", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "BARCELONA, Spain, Feb. 3,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0073", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "BARCELONA, Spain, Feb. 3,", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0074", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "New Delhi, Feb 4 :", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0075", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google is launching its own", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0076", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Large language models like OpenAI's", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0077", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Google has confirmed it is", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "0078", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Sultan bin Sulayem speaks about", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0079", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "ACCESS Newswire 08 Feb", "relation": "unrelated-mention", "sentiment_alignment": 0}

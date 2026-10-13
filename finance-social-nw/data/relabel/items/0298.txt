@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Summary FTC is seeking a preliminary injunction to block Microsoft from completing $69 billion acquisition
+WASHINGTON (Reuters) - Microsoft (MSFT.O) CEO Satya Nadella and Activision Blizzard (ATVI.O) CEO Bobby Kotick are among the witnesses planned for a five-day evidentiary hearing set to begin this week on the Federal Trade Commission's legal bid to block the deal, according to a court filing on Tuesday.
+The FTC is seeking a preliminary injunction to block Microsoft from completing its $69 billion acquisition of Activision Blizzard. Microsoft has argued that if the court grants an injunction it would effectively kill the deal, which has a termination date of July 18 and contains a $3 billion termination fee that Microsoft would have to pay.
+The hearing will begin June 22 and progress through June 29.
+The FTC has argued the transaction would give Microsoft's video game console Xbox exclusive access to Activision games, leaving Nintendo (7974.T) consoles and Sony Group Corp's (6758.T) PlayStation out in the cold.
+Microsoft's bid to acquire the "Call of Duty" video game maker was approved by the EU in May, but British competition authorities blocked the takeover in April.
+The FTC is calling Nadella to testify about the video game industry, Microsoft Gaming’s strategy and business and the planned Activision acquisition, while Microsoft is calling him to testify about similar topics.
+Kotick will testify about Activision’s gaming business, future plans, and strategies. Other witnesses on the list include Sony Interactive Entertainment CEO James Ryan and Dov Zimring, former director of product management for the now shuttered gaming service Stadia at Alphabet's Google LLC (GOOGL.O).
+Also testifying are two executives from Nvidia Corp.
+Microsoft Chief Financial Officer Amy Hood, Microsoft Gaming CEO Phil Spencer and Microsoft Gaming CFO Tim Stuart are also scheduled to testify, as are a number of expert witnesses.

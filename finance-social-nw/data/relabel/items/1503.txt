@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon's $8 billion Anthropic investment rumors suggest it would rather sell AI infrastructure than compete with ChatGPT and Gemini
+AWS is in prime position to power the AI revolution, rather than win it.
+Rumors indicate Amazon is reportedly considering an additional investment in AI firm Anthropic, which would bring its total stake to over $8 billion, according to Reuters. This would cement Amazon as the company’s largest investor and signal that it remains more interested in profiting from the explosive growth of the AI industry than directly competing within it.
+Since the launch of several highly capable large language AI models in 2022, Amazon has been positioning itself as the prime resource to power the AI gold rush. Its Amazon Web Services (AWS) business is one of its most profitable components, earning close to $30 billion in Q1 2025 alone, providing data center hardware and software solutions all over the world.
+That's exactly what AI developers need - compute power, storage, and the ability to scale (not to mention lots of power) - and Amazon is in a prime position to supply it. A larger stake in Anthropic would make it clear that Amazon wants to support and monetize AI’s growth, not necessarily lead it from the front.
+Meta is a clear example of what can happen to even deep-pocketed tech giants if they don't quite manage to keep up in this rapidly evolving space. It's trying to find a commercial avenue for its mix of customer-facing chatbots and open-source development tools, and not really nailing any of it.
+OpenAI is taking on Google head-on with its consumer chatbots, alternative search engine functions, and browser ventures. In comparison, Amazon's approach is more measured.
+It's building out infrastructure and laying the groundwork to expand into other portions of the burgeoning AI industry in the years to come. Its data centers already power a huge proportion of the world's cloud computing infrastructure, and those same servers will be able to power new AI models, too. It already has a whole pitch for those looking to invest.
+This positions Amazon as more of a seller of shovels in this AI gold rush than a firm looking to dig in the dirt itself. It's closer to some of the companies Nvidia has been partnering with on its big "AI Factory" venture, where some of its contemporary tech giants like Microsoft, Google, Meta, and X (via xAI), are hoping to come out ahead as the best, if not the definitive choice, for consumer and professional AI solutions. While those companies want to create AI products, it appears that Amazon wishes to power them.
+But that doesn't mean that Amazon has not been dipping its toes into the world of AI LLM development. Amazon's Nova-Experimental-Chat-05-14 AI model is placed at position 30 on Huggingface's LLM arena leaderboard, being beaten out by Google Gemini-2.0-Flash-Lite, DeepSeek-V3, and Anthropic's own Claude Sonnet 4 (20250514).
+It's a far cry from the apex of the leaderboard, where titans such as Google Gemini-2.5-Pro, OpenAI's O3, and DeepSeek-R1 currently sit. But that doesn't mean it'll stay that way forever.
+Amazon's chip development ambitions
+Although Amazon is rumored to be one of Nvidia's biggest GPU customers (alongside Meta, Microsoft, Alphabet/Google, and Tesla), it has been working on its own custom AI hardware for some time. It launched a pair of new processors to power portions of its AWS infrastructure in 2023, and made a veiled announcement of a super-powered version of its Trainium AI chips in mid-2024, with suggestions of future development plans beyond that.
+Although it seems unlikely that even a giant like Amazon could supplant Nvidia's entrenched position in AI training, where its hardware GPUs and CUDA software stack make it a near-monopoly, there is decidedly more competition to be had in the inference space.
+Although training takes huge superclusters of graphics cards and an enormously expensive investment in time and power, inference is far simpler, whilst still requiring lean, efficient hardware. Most importantly, inference requires scalability. That's something Amazon can offer in spades with its expansive AWS infrastructure.
+As a smaller venture, Groq announced its new datacenter investment in Europe with custom ASIC hardware; there is plenty of space for new, leaner, faster, bespoke hardware in AI inference, especially when combined with fast and responsive deployment. Amazon could drive its hardware endeavours in that direction in the years to come.
+It may even provide some of the base capabilities of next-generation AI agents and chatbots. It offers its own Nova foundational model to partners looking to further develop bespoke AI models. That allows Amazon to continue to develop the core capabilities of AI, without trying to craft the killer product that will survive in the hotly competitive world of consumer-facing applications.
+It’s not hard to imagine a near future where Amazon sells everything a company needs to develop AI tools: the hardware, the datacenter infrastructure, and the foundational models and APIs. Like a model kit for AI development.
+That's not necessarily competition for Nvidia, but it's closer to that all-in-one AI platform vision its tech rivals are racing toward.
+Follow Tom's Hardware on Google News to get our up-to-date news, analysis, and reviews in your feeds. Make sure to click the Follow button.
+Jon Martindale is a contributing writer for Tom's Hardware. For the past 20 years, he's been writing about PC components, emerging technologies, and the latest software advances. His deep and broad journalistic experience gives him unique insights into the most exciting technology trends of today and tomorrow.
+- 
+Murissokah Which makes a lot of sense. Google has decades of experience in search that it can use for Gemini. OpenAI is the segment leader. Amazon is the leader in infrastructure as a service, but their software offerings have been historically weak. A good example of this is their recent phasing out of Workdocs and adoption of Microsoft 365 internally. Sends a message to your clients when your software offering is not good enough for your own teams.Reply
+ 
+They are better off selling infrastructure.
+- 
+thisisaname In a gold rush (which Ai is), you make more money selling shovels and services than looking for gold.Reply
+- 
+freddymac007 Anthropic is the most powerful and most popular model available on AWS BedrockReply
+ 
+ For AWS customers who want or require their models running privately in their own environment, or GovCloud customers, Anthropic is their best option. OpenAI and Google aren't even an option for them to use at all because OpenAI doesn't provide their models to others to host to anyone but Microsoft, and Google doesn't provide theirs to anyone at all (so you would need to move your whole workload to Google).
+ 
+ Your only options become Anthropic, DeepSeek (Chinese), Meta, IBM, and a few others that no serious company will use.
+ 
+As such... AWS investing in Anthropic just makes sense as it's a partner their customers will continue to use, and meets their security and compliance needs (which they can't do with OpenAI, unless they access it with Azure). It's a win/win/win scenario.

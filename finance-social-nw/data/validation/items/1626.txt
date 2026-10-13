@@ -1,0 +1,11 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Chipmaker Nvidia will invest up to $100 billion in artificial intelligence startup OpenAI to deploy advanced compute infrastructure for future AI models, the companies announced on September 22.
+The deal centers on powering OpenAI’s next-generation models and accelerating its push toward artificial general intelligence. The companies will co-develop AI supercomputing capabilities, beginning with the launch of the Nvidia Vera Rubin platform in the second half of 2026. The initiative includes plans to deploy 10 gigawatts of computing power, making it one of the largest AI infrastructure buildouts to date.
+“Nvidia and OpenAI have pushed each other for a decade, from the first DGX supercomputer to the breakthrough of ChatGPT,” said Jensen Huang, founder and CEO of Nvidia. “This investment and infrastructure partnership mark the next leap forward — deploying 10 gigawatts to power the next era of intelligence.”
+OpenAI will name Nvidia as its preferred strategic compute and networking partner for expanding its AI factory capabilities. The collaboration also includes co-optimization of product roadmaps, aligning OpenAI’s model and infrastructure software with Nvidia’s hardware and software stack.
+“Compute infrastructure will be the basis for the economy of the future,” said Sam Altman, cofounder and CEO of OpenAI. “We will utilise what we’re building with Nvidia to both create new AI breakthroughs and empower people and businesses with them at scale.”
+Greg Brockman, cofounder and president of OpenAI, emphasized the scale and reach of the initiative. “We’ve utilized their platform to create AI systems that hundreds of millions of people use every day,” he said. “We’re excited to deploy 10 gigawatts of compute with Nvidia to push back the frontier of intelligence and scale the benefits of this technology to everyone.”
+The agreement builds on OpenAI’s existing network of infrastructure collaborators, which includes Microsoft, Oracle, SoftBank and Stargate. OpenAI currently serves over 700 million weekly active users across a wide spectrum of businesses and developers globally.
+Both companies said they expect to finalise the terms of the partnership in the coming weeks.

@@ -1,0 +1,12 @@
+{"id": "0261", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Want to keep track of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1855", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alison Wagonfeld, a long-time", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "0364", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon.com Inc has reported", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "0325", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta's stock increased nearly 4%", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1477", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By KANIS LEUNG HONG KONG", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1996", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Will the Iran War Evaporate", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "2009", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Nasdaq-100 index typically", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1897", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon shares plunged on Thursday", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1811", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "By STAN CHOE NEW YORK", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1753", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alphabet 's recent move into", "relation": "substitute-comparison", "sentiment_alignment": -1}
+{"id": "1620", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "US President Donald Trump", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1050", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "As the News Media Bargaining", "relation": "substitute-comparison", "sentiment_alignment": 0.5}

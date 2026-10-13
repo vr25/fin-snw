@@ -1,0 +1,13 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+WASHINGTON (dpa-AFX) - Alphabet shares surged more than 4% on Monday, propelling the Google parent into the $3 trillion market cap club alongside Nvidia, Microsoft, and Apple.
+The milestone comes nearly two decades after Google's IPO and just over a decade since Alphabet's creation as a holding company.
+The stock's momentum was fueled by a recent antitrust ruling that eased investor concerns over potential penalties. The Department of Justice had sought sweeping remedies, including forcing Google to divest its Chrome browser, after a district court ruled last year that the company maintained an illegal monopoly in search and search advertising. However, Judge Amit Mehta stopped short of imposing the harshest measures, a decision that sent Alphabet shares to record highs.
+President Donald Trump hailed the outcome, calling it 'a very good day' for the company. The ruling comes at a time when Google faces rising competition from AI challengers such as OpenAI and Perplexity, while simultaneously managing scrutiny from U.S. and European regulators.
+Alphabet's flagship AI platform, Gemini, remains central to its ambitions in the rapidly evolving sector.
+So far in 2024, Alphabet stock has climbed more than 30 percent, far outpacing the Nasdaq's 15 percent gain. Under CEO Sundar Pichai, who took over from co-founder Larry Page in 2019, the company has navigated regulatory headwinds while leaning on AI innovation to sustain growth.
+The $3 trillion valuation underscores Alphabet's resilience in the face of regulatory pressure and intensifying industry disruption cementing its status among the most powerful technology giants of the modern era.
+Copyright(c) 2025 RTTNews.com. All Rights Reserved
+Copyright RTT News/dpa-AFX
+© 2025 AFX News

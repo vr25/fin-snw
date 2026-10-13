@@ -1,0 +1,24 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+By DAMIAN J. TROISE, AP Business Writer
+NEW YORK (AP) — Stocks wavered to a mixed finish on Wall Street Friday and notched their first weekly loss in the last four.
+Major indexes wobbled throughout most of the week, but ultimately pulled back from records set the prior week. Technology stocks once again determined the broader direction of the market.
+The S&P 500 spent most of the day in the red and was down as much as 1.3%. It ultimately eked out a gain, rising 8.48 points, or 0.1%, to close at 6,728.80. The Dow Jones Industrial Average made a similar reversal and rose 74.80 points, or 0.2%, to close at 46,987.10.
+The technology-heavy Nasdaq was down as much as 2.1% at one point during trading, but recovered most of the losses. It fell 49.46 points, or 0.2% to 23,004.54.
+The market was weighed down by technology stocks, especially several big names with huge valuations that give them outsized influence over the direction of the market. Google’s parent company, Alphabet, fell 2.1% and Broadcom fell 1.7%.
+Wall Street remained focused on the latest quarterly reports and forecasts from U.S. companies.
+Payments company Block, which operates the Square and Cash App businesses, sank 7.7% after turning in results that fell short of forecasts. Exercise equipment maker Peloton jumped 14.2% after its results beat estimates.
+Expedia Group surged 17.5% after beating analysts’ quarterly earnings forecasts.
+More than 90% of companies within the S&P 500 have reported earnings for their latest quarter. Most companies have reported growth beyond Wall Street expectations and the influential tech sector has the strongest growth, according to data from FactSet.
+Corporate profits and forecasts were already being scrutinized by Wall Street as investors try to gauge whether the market’s overall high value is justified. The results have taken on more significance amid a lack of other data about the economy because of the U.S. government shutdown, which is now the longest on record.
+The shutdown is now responsible for yet another missing economic report typically relied on by Wall Street and economists. The monthly employment data for October was unavailable, as was the monthly data for September previously. The lack of data on employment is especially troubling because the job market was already weakening.
+Wall Street still has several private sources of economic data to turn to, outside of earnings. The latest came Friday from the University of Michigan, with its monthly consumer sentiment report. The latest report showed that consumer sentiment fell sharply from a month ago and hit a three-year low. Economists had expected a slight increase.
+“Consumers are starting to get concerned about the potential effects of the government’s shutdown on economic activity,” Eugenio Aleman, chief economist for Raymond James, wrote in a note to investors.
+The survey also showed that inflation expectations edged slightly higher. Government data on consumer prices and other measures of inflation are among the information Wall Street and others lack because of the government shutdown. Inflation has been stubbornly high and remains a key concern, especially amid a volatile U.S. trade war that could add fuel to rising inflation.
+The lack of inflation and employment data is a problem for the Federal Reserve, which has signaled a more cautious approach on interest rate cuts moving forward. Wall Street’s big gains this year have been partly due to anticipation for interest rate cuts, which can help stimulate the economy by making loans less expensive.
+The Fed has already cut its benchmark rate twice this year as it tries to counter the impact that a weakening employment market could have on economic growth. Cutting rates could worsen inflation at a time when levels are stubbornly higher than the central bank’s 2% goal, however.
+Wall Street is still mostly betting that the Fed will cut interest rates at its December meeting. Investors are forecasting a 67% chance of another interest rate cut, according to CME FedWatch.
+Treasury yields held steady in the bond market. The yield on the 10-year Treasury remained at 4.09% from late Thursday. The yield on the two-year Treasury held at 3.56% from late Thursday.
+Markets in Europe fell and markets in Asia closed lower. China reported that its exports contracted 1.1% in October, as shipments to the United States dropped by 25% from a year earlier. But economists expect Chinese exports to recover after U.S. President Donald Trump and Chinese leader Xi Jinping agreed last week to de-escalate the trade war between the two largest economies.
+AP Business Writer Elaine Kurtenbach contributed to this report.

@@ -1,0 +1,31 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Wall Street weakened Monday as investors worldwide get more skeptical about U.S. investments because of President Donald Trump’s trade war and his criticism of the Federal Reserve, which are shaking the traditional order.
+The S&P 500 sank 2.4% in another wipeout. That yanked the index that’s at the center of many 401(k) accounts 16% below its record set two months ago.
+Recommended Videos
+The Dow Jones Industrial Average dropped 971 points, or 2.5%, while losses for Tesla and Nvidia helped drag the Nasdaq composite down 2.6%.
+Perhaps more worryingly, U.S. government bonds and the value of the U.S. dollar also sank as prices retreated across U.S. markets. It’s an unusual move because Treasurys and the dollar have historically strengthened during episodes of nervousness. This time around, though, it’s policies directly from Washington that are causing the fear and potentially weakening their reputations as some of the world’s safest investments.
+Trump continued his tough talk on global trade as economists and investors continue to say his stiff proposed tariffs could cause a recession if they’re not rolled back. U.S. talks last week with Japan failed to reach a quick deal that could lower tariffs and protect the economy, and they’re seen as a “test case,” according to Thierry Wizman, a strategist at Macquarie.
+“The golden rule of negotiating and success: He who has the gold makes the rules,” Trump said in all capitalized letters on his Truth Social Network. He also said that “the businessmen who criticize tariffs are bad at business, but really bad at politics,” likewise in all caps.
+Trump has recently focused more on China, the world’s second-largest economy, which has also been keeping up its rhetoric. China on Monday warned other countries against making trade deals with the United States “at the expense of China’s interest” as Japan, South Korea and others try to negotiate agreements.
+“If this happens, China will never accept it and will resolutely take countermeasures in a reciprocal manner,” China’s Commerce Ministry said in a statement.
+Also hanging over the market are worries about Trump’s anger at Federal Reserve Chair Jerome Powell. Trump last week criticized Powell again for not cutting interest rates sooner to give the economy more juice.
+The Fed has been resistant to lowering rates too quickly because it does not want to allow inflation to reaccelerate after slowing nearly all the way down to its 2% goal from more than 9% three years ago.
+Trump talked Monday about a slowdown for the U.S. economy that could be coming unless “Mr. Too Late, a major loser, lowers interest rates, NOW.”
+A move by Trump to fire Powell would likely send a bolt of fear through financial markets. While Wall Street loves lower rates, largely because they boost stock prices, the bigger worry would be that a less independent Fed would be less effective at keeping inflation under control. Such a move could further weaken, if not kill, the United States’ reputation as the world’s safest place to keep cash.
+All the uncertainty striking pillars at the center of financial markets means some investors say they’re having to rethink the fundamentals of how to invest.
+“We can no longer extrapolate from past trends or rely on long-term assumptions to anchor portfolios,” strategists at BlackRock Investment Institute said in a report. “The distinction between tactical and strategic asset allocation is blurred. Instead, we need to constantly reassess the long-term trajectory and be dynamic with asset allocation as we learn more about the future state of the global system.”
+That in turn could push investors outside the United States to keep more of their money in their home markets, according to the strategists led by Jean Boivin.
+On Wall Street, Big Tech stocks helped lead indexes lower ahead of their latest earnings reports due later this week.
+Tesla sank 5.7%. The electric vehicle maker’s stock has more than halved from its record set in December on criticism that the stock price had gone too high and that CEO Elon Musk’s role in leading the U.S. government’s efforts to cut spending is damaging the brand.
+Nvidia fell 4.5% for a third straight drop after disclosing that U.S. export limits on chips to China could hurt its first-quarter results by $5.5 billion.
+They led another wipeout on Wall Street, and 92% of the stocks within the S&P 500 fell.
+Among the few gainers were Discover Financial Services and Capital One Financial, which climbed after the U.S. government approved their proposed merger. Discover rose 3.6%, while Capital One added 1.5%.
+All told, the S&P 500 fell 124.50 points to 5,158.20. The Dow Jones Industrial Average dropped 971.82 to 38,170.41, and the Nasdaq composite tumbled 415.55 to 15,870.90.
+Gold also climbed to burnish its reputation as a safe-haven investment, unlike some others.
+In the bond market, shorter-term Treasury yields fell as investors expect the Fed to cut its main overnight interest rate later this year to support the economy.
+But longer-term yields rose with doubts about the United States’ standing in the global economy. The yield on the 10-year Treasury climbed to 4.40%, up from 4.34% at the end of last week and from just about 4% earlier this month. That’s a substantial move for the bond market.
+The U.S. dollar’s value, meanwhile, fell against the euro, Japanese yen, the Swiss franc and other currencies.
+___
+AP Business Writer Elaine Kurtenbach contributed.

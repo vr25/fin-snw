@@ -1,0 +1,34 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+WhatsApp is to undergo a major update set to affect billions of users worldwide.
+The popular instant messaging app is reportedly in the process of changing how the platform is used.
+The Meta-owned company is said to be looking to introduce a feature which lets you forward images and videos between chats with captions - which you can't do right now.
+We know about these changes since WhatsApp typically trials them in a 'Beta test' before rolling out the new features to the public.
+However, the experts at WABetainfo have given users a taster of the potential changes to come after uncovering details of the updates coming to the app.
+How is WhatsApp changing?
+Here are five possible changes that could be rolled out on WhatsApp very soon:
+Detecting text in pictures on WhatsApp
+Currently being beta tested, WhatsApp is trialling a feature that detects text in WhatsApp images so that you can copy and paste it.
+The update will be useful for documents and forms and will save you from having to type out all of the details yourself.
+Forwarding photos and videos on WhatsApp with a caption
+Another possible WhatsApp update could be the ability to send pictures and videos to contacts with a caption, according to the Sun.
+Blocking people on WhatsApp
+WhatsApp wants to create a shortcut that makes it easier for users to block other users more quickly.
+Move your WhatsApp history
+WhatsApp is developing the ability to shuffle your WhatsApp chat history between Android phones without using Google Drive.
+However, this update has not reached the Beta stage of the trial process yet.
+New camera mode to record video more easily
+Another update in the works includes a brand-new camera mode.
+The aim of the new feature is to make it easier to record videos.
+Although, none of these updates are available to the public on WhatsApp yet and it is not clear when they will be rolled out on the app.
+  How do I install WhatsApp and is it free?
+  
+WhatsApp is available on IOS, Android and desktop.
+All you need to do to install the messaging app on Android is go to the Google Play Store, search for WhatsApp Messenger and tap install.
+You can then open WhatsApp, agree to the Terms of Service and register your phone number.
+If you are an IOS user, you can find WhatsApp Messenger in the Apple App Store, then tap GET.
+Then the steps are the same, open the app and agree to the Terms of Service and register your phone number.
+If a backup of your chat exists, you can restore it and you can learn more about doing this via the WhatsApp website.
+For your desktop, you can install the messenger app by downloading it from the Microsoft Store, Apple App Store, or WhatsApp website.
+It will only work on your computers if its operating system is Windows 8.1 , macOS 10.11 or newer.

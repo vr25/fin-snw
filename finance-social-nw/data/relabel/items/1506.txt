@@ -1,0 +1,17 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Amazon (AMZN) and Google-backed (GOOG, GOOGL) AI startup Anthropic (ANTH.PVT) is expanding into the financial services space as it seeks to build out its enterprise offerings and increase revenue.
+The new software, called Claude for Financial Services, joins Anthropic's existing line-up of business software, which includes its Team and Enterprise business subscription platforms. The company also has its own consumer-level services, ranging from a free version to a $100 option.
+According to Anthropic's head of financial services, Jonathan Pelosi, Claude for Financial Services resulted from interviews the company held with financial professionals who wanted to get more out of the generative AI platform.
+"Up until now, we've had a Claude for an enterprise solution, which is the Claude.ai application designed for enterprises from a safety, security, performance standpoint," Pelosi explained.
+"What we've observed over the past six months or so is that while it's extremely effective and supportive in helping employees do their best work and be their most productive selves, in certain industries like financial services, there is still some more to be done to bridge the gap between helping this technology be helpful versus transformative, and this is where Claude for Finance comes in," he added.
+The software, Pelosi said, includes a number of new features including increased query capacity to account for the huge amount of data financial services professionals contend with on a daily basis. Additionally, Claude for Financial Services will integrate directly with a number of popular enterprise services including Box, Daloopa, Databricks, Morningstar, Palantir, Pitchbook, S&P Global, and Snowflake.
+The idea is to allow finance professionals to quickly pull data from those services and analyze it using Claude for Financial Services.
+"They can query all of these tools, and [Claude for Financial Services] can seamlessly call on all these tools to ensure that they have the accuracy and confidence they need to make the investment or research or recommendation decisions that they need," Pelosi explained.
+Anthropic says Claude for Financial Services will be available through both Amazon's AWS and Google's Cloud Marketplace.
+The company is one of a handful of major AI leaders looking to expand their offerings to a broader swath of organizations and grow revenue sources.
+Some of its fiercest competitors include Perplexity; Meta; and its own financial backers, Amazon and Google. Microsoft and OpenAI, in particular, are major rivals in the productivity space due to Microsoft's massive presence in the enterprise space.
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X/Twitter at @DanielHowley.
+Click here for the latest technology news that will impact the stock market
+Read the latest financial and business news from Yahoo Finance

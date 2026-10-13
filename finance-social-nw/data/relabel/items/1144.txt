@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Officials from Idaho National Laboratory, U.S. Department of Energy, Google, Amazon, Meta, Goldman Sachs, Morgan Stanley and other organizations meet in an Idaho Falls conference room in October 2024.
+Idaho National Laboratory hosted an event Wednesday morning to give presentations to potential investors in the nuclear industry.
+Around 40 individuals filled a conference room in west Idaho Falls. Attendees included officials from the U.S. Department of Energy, Google, Amazon, Meta, Goldman Sachs and other organizations.
+This follows announcements from the federal government last year that the U.S. seeks to triple its nuclear energy capacity by 2050, as part of a global goal to achieve net-zero greenhouse gas emissions. The expansion would require significant funding.
+DOE Under Secretary for Infrastructure David Crane spoke to media outlets between presentations. He said expanding nuclear power requires private investors such as those who were visiting Idaho Falls.
+“This is supposed to be private sector that I think government enabled,” Crane said. “So, the government will support, but the government doesn’t (fully fund). As I like to say, this isn’t a fighter jet program.”
+INL Director John Wagner emphasized in presentations how the nuclear energy industry is becoming promising again, after falling from grace around the 1980s and 1990s.
+“Public perception is now at an all-time high (for nuclear energy) and has been stable for the last few years, kind of trending slightly even higher,” Wagner said between presentations. “In my career, I’ve never seen such strong positive public perceptions.”
+The bipartisan ADVANCE Act was passed this year, to boost nuclear reactor development. Additionally, the 2024 federal budget included $2.7 billion for advanced nuclear fuel development. This corresponded with an import ban on Russian uranium products.
+Plant Vogtle, a nuclear power plant in Georgia, had two new reactors start commercial operation in the last two years.
+Palisades nuclear plant, a decommissioned nuclear power plant in Michigan, is in the works to be restarted. Three Mile Island nuclear plant in Pennsylvania, which suffered a partial meltdown in 1979 and was fully shut down in 2019, is also working to restart using a power deal with Microsoft.
+At INL, the MARVEL reactor will be the first new nuclear system at the laboratory in 50 years.
+“It’s really symbolic of what’s changing,” Wagner said. “We’re going back to that period of time of demonstrating these innovations.”

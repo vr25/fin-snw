@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+By Dawn Chmielewski, Courtney Rozen and Jody Godoy
+LOS ANGELES, March 25 (Reuters) - A Los Angeles jury on Wednesday found Meta and Alphabet's Google negligent for designing social media platforms that are harmful to young people, in a $6 million verdict that will serve as a bellwether for numerous similar cases.
+The jury found Meta liable for $4.2 million in damages and Google for $1.8 million, small amounts for two of the world's most valuable companies with annual capital spending over $100 billion each.
+The Los Angeles trial is meant to serve as a bellwether, or test case, for the thousands of similar lawsuits consolidated in California state courts.
+'ACCOUNTABILITY HAS ARRIVED'
+The case involves a 20-year-old woman, a minor when the case began who is known in court by her first name Kaley. She said she became addicted to Google's YouTube and Meta's Instagram at a young age because of their attention-grabbing design, such as the "infinite scroll" that encourages users to keep looking at new posts.
+The jury found Google and Meta were negligent in the design of both apps and failed to warn about their dangers.
+"Today's verdict is a referendum — from a jury, to an entire industry — that accountability has arrived," the plaintiff's lead counsel said in a statement.
+Meta and Google disagree with the verdict and plan to appeal, spokespeople for each company said.
+Shares of Meta closed up 0.3%, and Google parent Alphabet finished 0.2% higher.
+U.S. law strongly protects social media companies from liability for what is on their platforms, but the plaintiff in the Los Angeles proceeding focused on platform design rather than content.
+The verdict is a "setback" for Meta and Google, said Gil Luria, a technology sector analyst at investment firm D.A. Davidson.
+"This process will likely get dragged out through future cases and appeals, but eventually may cause these companies to put in consumer safeguards that may dampen growth," he said.
+Snap and TikTok were also defendants in the trial. Both settled with the plaintiff before it began. Terms of the agreements were not disclosed.
+MOUNTING CRITICISM
+Large technology companies in the U.S. have faced mounting criticism in the last decade over child and teen safety. The debate has now shifted to courts and state governments. The U.S. Congress has declined to pass comprehensive legislation regulating social media.
+At least 20 states enacted laws last year on social media usage and children, according to the nonpartisan National Conference of State Legislatures, an organization that tracks state laws.

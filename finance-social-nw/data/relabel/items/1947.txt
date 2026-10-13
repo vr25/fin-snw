@@ -1,0 +1,20 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Broadcom shares rise 5% after earnings, despite skepticism among investors. Investors' expectations were especially lofty because of Broadcom's high stock valuation, says Jake Behan, head of capital markets at Direxion, making it a formidable competitor to Nvidia. Behan says Broadcom's $10 billion share buyback authorization is helping the stock after hours. Broadcom's revenue guidance, which is nearly $2 billion ahead of analysts' expectations, also helps boost confidence, as well as its projection for $10.7 billion in AI revenue in the current quarter. (katherine.hamilton@wsj.com)
+Broadcom Inc. specializes in designing, developing, and selling analog components and sub-systems, with mixed and optoelectronic signals. The group's products include power amplifiers, radio-frequency filters, encoders, optocouplers, fiber-optic transmitters and receivers, etc.
+Net sales break down by market between semiconductors (57.7%) and infrastructures (42.3%).
+Net sales are distributed geographically as follows: Americas (29.6%), Asia/Pacific (56.2%), and Europe/Middle East/Africa (14.2%).
+This super rating is the result of a weighted average of the rankings based on the following ratings: Valuation (Composite), EPS Revisions (4 months), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Investor
+Investor
+This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). We recommend that you carefully review the associated descriptions.
+Global
+Global
+This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus (Composite) and Visibility (Composite). The company must be covered by at least 4 of these 5 ratings for the calculation to be carried out. We recommend that you carefully review the associated descriptions.
+Quality
+Quality
+This composite rating is the result of an average of rankings based on the following ratings: Returns (Composite), Profitability (Composite) and Quality of Financial Reporting (Composite), and Financial Health (Composite). The company must be covered by at least 2 of these 3 ratings for the calculation to be performed. We recommend that you carefully read the associated descriptions.
+ESG MSCI
+ESG MSCI
+The MSCI ESG score assesses a company’s environmental, social, and governance practices relative to its industry peers. Companies are rated from CCC (laggard) to AAA (leader). This rating helps investors incorporate sustainability risks and opportunities into their investment decisions.

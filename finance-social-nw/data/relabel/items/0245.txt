@@ -1,0 +1,21 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Elon Musk warned that artificial intelligence technology could either eliminate or constrain humanity's growth
+- The billionaire entrepreneur's warnings come as AI technology continues to advance at an immense speed
+- The SpaceX CEO's remarks were made during the Wall Street Journal's CEO Summit
+Tesla CEO Elon Musk warns of the consequences of artificial intelligence (AI) as the technology continues to develop, saying that it could constrain humanity's growth despite not being "necessary" for anything.
+The billionaire entrepreneur made dire warnings during the Wall Street Journal's CEO Summit. He said that there is now a risk that advanced AI could either eliminate or constrain humanity's growth.
+Elon Musk Warns of AI's Consequences
+Musk was then asked to elaborate on his comments and he answered by saying that he is concerned about a potential "un-benign" scenario that is related to the hyper-advancement of AI technology.
+He said that there is a low chance that AI would destroy all of humanity, as others fear, but is capable of putting humans under strict control. However, he added that there is a "non-zero chance" that AI goes full "Terminator," a reference to the deadly time-traveling robots in the 1984 sci-fi film of the same name, as per Yahoo Finance.
+Musk added that it was more likely that AI could take control of all forms of technology that humans possess, such as computing power, weapons, etc. He argues that artificial intelligence would choose to do this for "the safety of all humans," which he compared to having an "uber-nanny."
+Despite his warnings regarding artificial intelligence technology, Musk said that he is not staying away from such opportunities to include in his business. The billionaire entrepreneur said that Microsoft, with its partnership with OpenAI, and Google, with its partnership with Bard AI technology, need to have more competition.
+The billionaire entrepreneur said that there needs to be a significant third horse in the race, adding that he would reveal more about it soon. He continued by saying that he is trying to copy Microsoft's relationship with OpenAI and implement it on his own startup, X.AI. He plans to partner with other companies, such as Twitter and Tesla.
+Constraining Humanity's Growth
+Musk also warned that when you have a genie that can grant you anything you want, it presents a danger. He argued that some could also utilize artificial intelligence to create what he called "drone wars," according to Sky News.
+He claims that he expects governments worldwide to make use of artificial intelligence technology to develop new weapons before anything else in the future. Musk said that they can create more advanced weapons that could react faster than any human could.
+On the other hand, Musk's startup, X.AI, was only started last month, around the same time that he merged Twitter Inc. into X Corp. The billionaire entrepreneur's fascination with AI goes back to at least 2011 during the time that he was an early investor in DeepMind, a London startup.
+With Microsoft and OpenAI's relationship continuing to grow more prolific, the Tesla CEO has grown even more protective of Twitter's data and has become even more vocal about the dangers of artificial intelligence said Axios.
+Related Article: SG Aims to Recruit AI Talent for Its Banks
+© 2026 HNGN, All rights reserved. Do not reproduce without permission.

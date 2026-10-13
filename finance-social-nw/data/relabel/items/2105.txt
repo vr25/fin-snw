@@ -1,0 +1,45 @@
+TICKER_A: NVDA
+TICKER_B: SMCI
+POST:
+Super Micro Computer, Inc. (NASDAQ:SMCI) remained in focus after unveiling new AI infrastructure offerings designed to simplify large-scale data center deployments and capitalize on growing demand for AI computing.
+The announcements expand the company’s Data Center Building Block Solutions (DCBBS) portfolio and deepen its alignment with NVIDIA Corp. (NASDAQ:NVDA) and Intel Corp. (NASDAQ:INTC) ecosystems.
+AI Factory Blueprints Target Massive Data Center Deployments
+Super Micro introduced DCBBS Blueprints built around the NVIDIA Vera Rubin NVL72 and NVIDIA HGX Rubin NVL8 platforms, providing customers with a framework for deploying AI factories ranging from 5 megawatts to 1 gigawatt.
+The blueprints start with a scalable 1,152-GPU unit and combine compute, storage, networking, liquid cooling, power distribution, and site infrastructure into a single deployment model.
+The blueprints also leverage Super Micro’s experience deploying AI clusters with more than 100,000 GPUs, positioning the company as a turnkey provider for next-generation AI infrastructure.
+End-to-End Services Expand Customer Value Proposition
+The DCBBS offering goes beyond hardware by covering facility assessment, project design, solution integration, deployment, and ongoing support.
+The company said its blueprints are designed to optimize power usage, cooling efficiency, networking, and storage configurations while minimizing deployment bottlenecks that can affect large-scale AI workloads.
+New Intel-Powered Servers Broaden Market Reach
+Super Micro also launched 12 new server platforms optimized for Intel’s Xeon 6+ processors.
+The systems support up to 288 efficiency cores per socket and target cloud computing, virtualization, 5G analytics, and other data-intensive applications.
+According to Liang, the new X14 platforms can deliver up to 576 efficiency cores per server, helping customers improve performance-per-watt, lower energy consumption, reduce total cost of ownership, and accelerate deployment timelines.
+Positioning for Long-Term AI Growth
+Together, the NVIDIA-based AI factory blueprints and Intel-powered server launches strengthen Super Micro’s role as a full-stack AI infrastructure provider.
+By combining hardware, software, deployment services, and liquid-cooling expertise, the company is positioning itself to capture a larger share of spending tied to AI data centers, cloud infrastructure, and enterprise computing modernization.
+Super Micro Computer provides high-performance server technology services to cloud computing, data centers, high-performance computing, and the Internet of Things embedded markets.
+Super Micro Technical Analysis
+SMCI stock is trading higher by 0.90% in Monday’s premarket session as risk appetite improves. Nasdaq futures are up 0.35%, while S&P 500 futures have gained 0.29%.
+The stock remains in a strong short-term uptrend. It is trading about 38% above its 20-day SMA of $33.77 and roughly 29.5% above its 200-day SMA of $35.98.
+That signals strong demand. However, the move is also stretched. If buyers pause, the stock could be more exposed to sharp pullbacks.
+Momentum is the key issue. SMCI’s RSI is 78.60, which is in overbought territory. That means the stock is no longer “cheap” on a momentum basis.
+RSI tracks how strong recent buying or selling has been. At this level, traders often watch for sideways trading or a quick dip to cool the move.
+The trend setup is mixed. The 20-day SMA is above the 50-day SMA, which supports the near-term bullish view.
+However, the stock is still dealing with a “death cross” from December 2025, when the 50-day SMA fell below the 200-day SMA. That can remain a warning sign for longer-term investors.
+In short, SMCI’s rally is strong. But the chart still needs more time and follow-through to fully repair the longer-term damage.
+- Key Resistance: $48.50 — a nearby pivot area where upside attempts can stall if momentum cools
+- Key Support: $44.00 — a nearby level to watch for dip-buying interest after the recent run
+Super Micro Earnings & Analyst Outlook
+Looking further out, the next major catalyst for the stock arrives with the August 4, 2026 (estimated) earnings report.
+- EPS Estimate: 69 cents (Up from 41 cents YoY)
+- Revenue Estimate: $11.73 Billion (Up from $5.76 Billion YoY)
+- Valuation: P/E of 24.3x (Suggests fair valuation relative to peers)
+Analyst Consensus & Recent Actions: The stock carries a Hold rating with an average price forecast of $31.90. Recent analyst moves include:
+- Mizuho: Neutral (Raises forecast to $36.00) (May 12)
+- Barclays: Equal-Weight (Lowers forecast to $34.00) (May 7)
+- Rosenblatt: Buy (Raises forecast to $40.00) (May 6)
+Super Micro Price Action
+SMCI Stock Price Activity: Super Micro Computer shares were up 0.90% at $46.51 during premarket trading on Monday, according to Benzinga Pro data.
+Photo via Shutterstock
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

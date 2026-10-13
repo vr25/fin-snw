@@ -1,0 +1,20 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Mozilla is expanding its Thunderbird email client into a full-fledged communications platform, launching Thundermail and Thunderbird Pro to compete directly with Gmail by Alphabet Inc.'s (NASDAQ:GOOG) (NASDAQ:GOOGL) Google and Microsoft Corp.'s (NASDAQ:MSFT) subscription service, Microsoft 365.
+What Happened: On Wednesday, Mozilla announced the overhaul of Thunderbird Pro, which includes Thunderbird Appointment, a scheduling tool for sharing calendar links; Thunderbird Send, a revival of the discontinued Firefox Send; and Thunderbird Assist, an AI-powered writing assistant developed with Flower AI.
+Unlike traditional services, Thunderbird Pro underscores local AI processing to ensure privacy.
+See Also: Gmail Introduces Dynamic Summary Cards For Easier Tracking Of Purchases, Events, And More
+The company is also launching Thundermail, which will use the open-source Stalwart stack and allow users to choose between thundermail.com and tb.pro domains for email hosting.
+“Heading to thundermail.com, you will see a signup page for the beta waitlist. Please add your name to it,” said Ryan Sipes, Managing Director, Product Thunderbird.
+Will It Be Free? No. Initially, Mozilla will charge for these services, especially features like Thunderbird Send (since storage is expensive). The service will be available for free to select contributors. However, once they have a stable user base, the company plans to introduce free tiers with limitations (e.g., reduced storage).
+Subscribe to the Benzinga Tech Trends newsletter to get all the latest tech developments delivered to your inbox.
+Why It Matters: Thunderbird has been losing users over time—its active monthly installs have dropped from 17.7 million in 2020 to 16.2 million in 2025.
+By adding Thundermail and new paid features, Mozilla hopes to build a sustainable business model and attract users who value privacy, transparency, and open-source software.
+“Thunderbird loses users each day to rich ecosystems that are both clients and services, such as Gmail and Office365,” stated Sipes, adding, “It is our goal to eventually have a similar offering so that a 100% open source, freedom-respecting alternative ecosystem is available for those who want it.”
+Check out more of Benzinga's Consumer Tech coverage by following this link.
+Read Next:
+Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+Photo courtesy: Shutterstock
+© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+To add Benzinga News as your preferred source on Google, click here.

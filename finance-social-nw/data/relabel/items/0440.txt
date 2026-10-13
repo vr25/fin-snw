@@ -1,0 +1,40 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Passkeys are generally available
+All GitHub.com users can now register a passkey to sign in without a password.
+Passkeys are a new form of sign-in and phishing resistant credential that make it easier to protect your GitHub account by reducing use of passwords and other, more easily phishable authentication methods.
+Since the launch of passkeys in beta in July, tens of thousands of developers have adopted them. Now, all users on GitHub.com can use passkeys to protect their account. This continues our commitment to securing all contributors with 2FA by the end of 2023 and strengthening security across the platform—without compromising user experience.
+Read on to learn about how to enable passkeys on your GitHub account. And, for those of you also building authentication experiences, we share what we’ve learned about how to roll out and make passkeys easy to use to help you integrate this powerful new credential method more quickly in your service.
+Get started with passkeys
+To register one or more passkeys on your account, head to your account security settings and click “Add a passkey.” If you already have security keys set up, you might see an “Upgrade” option next to those, if they are usable as passkeys. For more details about upgrading security keys to passkeys, read the passkeys docs.
+What we’ve learned building support for passkeys
+Passkeys are a relatively new credential type, and we’ve learned a lot about how to make them easy to use for large communities. Here we’ll share some of what we learned, and how we responded to that feedback—to help other authentication teams looking to adopt passkeys into their product.
+Not every platform is passkey ready, but they can still be supported
+We found that Linux and Firefox users struggled to use passkeys, as those platforms don’t yet have strong support for passkeys.
+As a result, we decided to enable cross-device registration of passkeys. That means, you can register a passkey on your phone while you’re using your desktop. The passkey lives in the phone, but users can connect it to their desktop and set-up and authenticate through the desktop’s browser. This enables Linux and Firefox users to set up passkeys.
+At a technical level, this meant ignoring the results of the IsUserVerifyingPlatformAuthenticator API (IsUVPAA) call, and instead just relying on the presence of the webAuthN APIs. This meant that both hardware keys (which don’t cause the IsUVPAA check to return true) and cross-device usage could still be accessed even when the underlying combination of OS and browser didn’t result in IsUVPAA returning true.
+Make it easy to upgrade compatible security keys
+There are a lot of security keys already registered on GitHub.com, many of them hardware keys. We had predicted that most hardware key owners wouldn’t want to upgrade to a passkey, due to threat models and lack of sync support.
+But a lot of users opted to upgrade a compatible security key to a passkey. So, we invested in making it easier to do so. In the account security settings, a new “upgrade” arrow next to compatible security keys enables immediate upgrade.
+Note that not every compatible security key will have this button next to it, as we only started checking for compatibility in late February this year.
+We also learned that some browser, OS, and security key combinations don’t support the re-registration flow that we use for upgrades, and will error if GitHub attempts to register a new passkey over that security key. We added debugging tips into the experience to help users address this problem, directing them to delete the security key registered on their account, and then register a new passkey.
+Ramp up enrollment to passkeys slowly
+One of our goals is to ensure that all accounts have multiple 2FA credentials, so that if one is lost or unavailable, the user can still sign in. As a result, GitHub prompts users to register a passkey if they are using a compatible device that has not yet been used with a passkey.
+We experimented with adding this prompt to 100% of applicable sign-ins. However, we found that users who had already registered a passkey, but were not yet regularly using it to sign in, could be confused by this. They often tried to register another passkey, but were confused when that registration failed.
+As a result, we decided to roll out this prompt incrementally over time. As usage of passkeys increases, we’ll prompt users more regularly.
+Advancements across the industry
+We couldn’t ship passkeys alone—they had to be widely supported across browsers and operating systems before it was useful. Folks at Apple, Google, and Microsoft have all been adding better support for passkeys and addressing key gaps that we saw as mandatory to releasing passkeys.
+Microsoft Windows has just released improvements to their OS passkey implementation, supporting cross-device access. This means you’ll be able to use a passkey from your phone to sign in to a website on a Windows device, regardless of the browser you use. This is specifically for the scenario where you’re signing in to a site for the first time on a new device, where you wouldn’t have created a passkey yet—instead of digging up your password, you can use your phone’s passkey to sign in, and then create a new passkey on your Windows device for future sign-ins.
+And if you’re a Chrome and Mac user, you’ll be able to access the iCloud keychain on Macs, in Chrome 118, meaning that a passkey created on your iOS device and synced to your Mac will now be usable within Chrome. This kind of cross-ecosystem support is critical to the free and open use of passkeys.
+Let us know your feedback
+We’d love your continued feedback on using passkeys with GitHub. Please drop that into our feedback discussion at any time.
+Tags:
+Written by
+Related posts
+Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.
+New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.
+GitHub availability report: August 2026
+In August, we experienced five incidents that resulted in degraded performance across GitHub services.
+The August 17 outage, and the work ahead
+An update on the August 17 outage and the steps we’re taking to improve reliability.

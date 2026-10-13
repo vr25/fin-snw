@@ -1,0 +1,23 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Foxconn expects higher third-quarter revenue, it said on Thursday, on robust demand for artificial intelligence servers, which helped the world’s largest contract electronics maker report a forecast-beating 27% increase in second-quarter profit.
+Foxconn said it should see significant year-on-year revenue growth in the third quarter, with AI server revenue expected to leap more than 170% year-on-year, though it also warned on uncertainty from U.S. tariffs.
+Nvidia’s biggest server maker and Apple’s top iPhone assembler has been riding a data center boom, as cloud computing firms such as Amazon, Microsoft and Alphabet’s Google spend billions of dollars to expand their AI infrastructure and research capacity.
+That boom helped Foxconn’s revenue from its cloud and networking business, which includes AI servers, exceed that from smart consumer electronics - such as iPhones - for the first time ever in the second quarter.
+The contribution from the server business to its revenue is set to grow further in the current quarter, as Foxconn expects a slight decline in smart consumer electronics revenue, as some experts expect slowing iPhone sales after sales surged in the June quarter ahead of the expected imposition of U.S. tariffs.
+“AI has been the primary growth driver so far this year,” Kathy Yang, rotating CEO of Foxconn, said on a call with media and analysts.
+But she also warned that “close attention is needed due to the impact of changes in tariffs and exchange rates.”
+The company said on Thursday its capital spending would rise more than 20% this year, as it plans to boost server production capacity in its manufacturing sites in Texas and Wisconsin.
+Yet, global trade uncertainty could dim the prospects for its outlook this year, as it has a major manufacturing presence in China, though Washington and Beijing this week extended a tariff truce for another 90 days.
+Most of the iPhones Foxconn makes for Apple are assembled in China, but the bulk of those sold in the United States are now produced in India. The company is also building factories in Mexico and Texas to make AI servers for Nvidia.
+Nvidia shares hit new record after analyst predicts ‘Golden Wave’ of AI adoption
+Foxconn has also been looking to expand its footprint in electric vehicles, which the company sees as a major future growth generator, though that has not always gone smoothly.
+Earlier this month, Foxconn said it had struck a deal to sell a former car factory at Lordstown, Ohio, for $375-million, including its machinery, that it purchased in 2022 to manufacture EVs.
+However, it will continue to occupy the facility. The company said the Ohio plant would be used to manufacture cloud-related products.
+A source familiar with the matter told Reuters that the plant was sold to its partner SoftBank. Foxconn and SoftBank declined to comment.
+“In response to the rapidly growing demand for AI computing power in the U.S. market, we will also leverage the Ohio plant to manufacture cloud network products,” Yang said, without giving details.
+The goal of manufacturing its Model C EV for the U.S. market remains unchanged, although initial production will take place in Taiwan, Foxconn said.
+Overall, the company reported net profit for the April-June period was T$44.4-billion ($1.48 billion), higher than the consensus estimate of T$38.8 billion compiled by LSEG. Foxconn, formally called Hon Hai Precision Industry, last month reported record second-quarter revenue on strong demand for AI products but cautioned about geopolitical and exchange rate headwinds.
+Foxconn’s shares have risen 8.4% so far this year, outperforming the broader Taiwan index’s 5.2% gain.
+Its shares closed up 0.5% on Thursday ahead of the earnings release.

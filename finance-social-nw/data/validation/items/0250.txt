@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Data center demand for AI chips was why Nvidia guided to $11 billion in sales during the current quarter, blowing away analyst estimates of $7.15 billion.
+- Sales are up because of spiking demand for the graphics processors (GPUs) that Nvidia makes that power AI applications like those at Google, Microsoft and OpenAI.
+- "So instead of millions of CPUs, you'll have a lot fewer CPUs, but they will be connected to millions of GPUs," Nvidia CEO Jensen Huang said in an interview with CNBC.
+Nvidia's stock surged close to a $1 trillion market cap in extended trading Wednesday after it reported a shockingly strong forward outlook, and CEO Jensen Huang said the company was going to have a "giant record year."
+Stream Connecticut News for free, 24/7, wherever you are.
+Sales are up because of spiking demand for the graphics processors (GPUs) that Nvidia makes, which power artificial intelligence applications like those at Google, Microsoft and OpenAI.
+Demand for AI chips in data centers spurred Nvidia to guide for $11 billion in sales during the current quarter, blowing away analyst estimates of $7.15 billion.
+"The flashpoint was generative AI," Huang said in an interview with CNBC. "We know that CPU scaling has slowed, we know that accelerated computing is the path forward, and then the killer app showed up."
+Nvidia believes it's riding a distinct shift in how computers are built that could result in even more growth — parts for data centers could even become a $1 trillion market, Huang says.
+Historically, the most important part in a computer or server had been the central processor, or the CPU. That market was dominated by Intel, with AMD as its chief rival.
+With the advent of AI applications that require a lot of computing power, the GPU is taking center stage, and the most advanced systems are using as many as eight GPUs to one CPU. Nvidia currently dominates the market for AI GPUs.
+"The data center of the past, which was largely CPUs for file retrieval, is going to be, in the future, generative data," Huang said. "Instead of retrieving data, you're going to retrieve some data, but you've got to generate most of the data using AI."
+"So instead of millions of CPUs, you'll have a lot fewer CPUs, but they will be connected to millions of GPUs," he continued.
+For example, Nvidia's own DGX systems, which are essentially an AI computer for training in one box, use eight of Nvidia's high-end H100 GPUs, and only two CPUs.
+Google's A3 supercomputer pairs eight H100 GPUs alongside a single high-end Xeon processor made by Intel.
+That's one reason why Nvidia's data center business grew 14% during the first calendar quarter versus flat growth for AMD's data center unit and a decline of 39% in Intel's AI and data center business unit.
+Plus, Nvidia's GPUs tend to be more expensive than many central processors. Intel's most recent generation of Xeon CPUs can cost as much as $17,000 at list price. A single Nvidia H100 can sell for $40,000 on the secondary market.
+Nvidia will face increased competition as the market for AI chips heats up. AMD has a competitive GPU business, especially in gaming, and Intel has its own line of GPUs as well. Startups are building new kinds of chips specifically for AI, and mobile-focused companies like Qualcomm and Apple keep pushing the technology so that one day it might be able to run in your pocket, not in a giant server farm. Google and Amazon are designing their own AI chips.
+But Nvidia's high-end GPUs remain the chip of choice for current companies building applications like ChatGPT, which are expensive to train by processing terabytes of data, and are expensive to run later in a process called "inference," which uses the model to generate text, images, or make predictions.
+Analysts say that Nvidia remains in the lead for AI chips because of its proprietary software that makes it easier to use all of the GPU hardware features for AI applications.
+Huang said Wednesday that the company's software would not be easy to replicate.
+"You have to engineer all of the software and all of the libraries and all of the algorithms, integrate them into and optimize the frameworks, and optimize it for the architecture, not just one chip but the architecture of an entire data center," he said on a call with analysts.

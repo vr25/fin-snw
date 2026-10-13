@@ -1,0 +1,20 @@
+{"id": "1960", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Shares of Netherlands-based AI cloud company", "relation": "causal-driver", "sentiment_alignment": 0.9}
+{"id": "1961", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "ANI 17 Mar 2026 16", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1962", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Alabama Butterbean Festival in Pinson", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1963", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Experts and executives across industries", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1964", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Experts and executives across industries", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1965", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Experts and executives across industries", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1966", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The home of the world's highest", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "1967", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "There was no end to", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1968", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "3 men accused of conspiring", "relation": "causal-driver", "sentiment_alignment": -0.95}
+{"id": "1969", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Renewable energy is a once", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1970", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon says AWS Bahrain region", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1971", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Amazon says AWS Bahrain region", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1972", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Amazon says AWS Bahrain region", "relation": "co-hype", "sentiment_alignment": -0.9}
+{"id": "1973", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By DARLENE SUPERVILLE WASHINGTON AP", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1974", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "By Dawn Chmielewski Courtney Rozen", "relation": "substitute-comparison", "sentiment_alignment": -0.9}
+{"id": "1975", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meghan and Harry hail reckoning", "relation": "substitute-comparison", "sentiment_alignment": -0.9}
+{"id": "1976", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Prime Minister Sir Keir Starmer", "relation": "substitute-comparison", "sentiment_alignment": -0.9}
+{"id": "1977", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "At some point during a", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1978", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "VMPL Bengaluru Karnataka India March", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1979", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "VMPL Bengaluru Karnataka India March", "relation": "co-hype", "sentiment_alignment": 0.7}

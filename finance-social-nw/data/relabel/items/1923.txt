@@ -1,0 +1,38 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The U.S. Department of Homeland Security (DHS) has requested personal information of online users who have been critical of U.S. Immigration and Customs Enforcement (ICE), according to the New York Times.
+The Times reported that names, email addresses, telephone numbers and other identifying data behind social media accounts that track or criticize ICE have been requested as part of “hundreds of administrative subpoenas” issued by the federal agency in recent months, based on information provided by four government officials and tech employees. Reports have been corroborated by said companies to Military.com.
+Some of the largest companies in the world that possess data for hundreds of millions of Americans have been contacted, including Google, Meta (which owns Facebook and Instagram), Reddit and Discord.
+Military.com reached out for comment to all those companies, as well as DHS and the White House. The White House deferred remarks to DHS, which did not respond to an inquiry by press time.
+Some Americans’ ire towards the federal agency and its immigration enforcement has hit a boiling point in recent weeks following the killings of two Minneapolis, Minn., residents, Renee Good and Alex Pretti, by ICE agents. Local and national protests have led to some government officials, like border czar Tom Homan, pledging the recall of some 700 agents from the city to ease tensions and tactically shift.
+President Donald Trump has said that perhaps agents should have a “softer touch” when it comes to immigration enforcement.
+“These administrative subpoenas are dangerous: The government can use them to compel the disclosure of your personal information even when there is no suspicion that you committed a crime," Greg Nojeim, senior counsel and director of the Security and Surveillance Project at the Center for Democracy & Technology, told Military.com. "ICE is apparently using them to silence people who speak out.
+"The tech companies should be more transparent about the number of these subpoenas they are receiving, and Congress should hold hearings on how ICE is using its administrative subpoena authority.”
+Big Tech Involvement
+The New York Times reported on Feb. 14 that Google, Meta and Reddit complied with some subpoena requests, in which said companies were asked “identifying details of accounts that do not have a real person’s name attached and that have criticized ICE or pointed to the locations of ICE agents.”
+The publication reportedly saw two subpoenas that were sent to Meta over the past six months. While these tech companies do not have to provide information, the Times reported that some of them notified people in the government’s interest and provided them 10-14 days to fight the subpoena in court.
+Google’s U.S. presence is vast. Data as recent as January 2026 claims that Google holds roughly 83.4% to 88% of the search engine market share nationwide, equating to more than 16 billion daily searches.
+Discord has a large international community with some 656 million registered users and 259 million monthly active users. In the U.S., roughly 37% of active users are aged between 18-34.
+Personal Information and Legal Guidelines
+U.S. Reddit users are estimated to hover around 50-51 million, with active weekly worldwide users totaling more than 443 million.
+A Reddit spokesperson declined to comment, instead referring Military.com to a list of “Guidelines for Law Enforcement” on the platform’s website that was last updated Feb. 6, 2026.
+Reddit does not force users to submit personal information including names or even email addresses, nor does it automatically verify the information provided by its users.
+Reddit’s guidelines page states the following: “Reddit may disclose account information in response to requests from law enforcement or government agencies only in accordance with or when required by applicable law. We generally attempt to provide users with prior notice before disclosing their information unless we are legally prohibited from doing so.
+It continues: “Reddit carefully reviews all legal process and disclosure requests to ensure facial validity and legal sufficiency under applicable laws. Reddit will only disclose Basic Subscriber Information to law enforcement in response to a subpoena, court order, or other valid legal process, or in response to a valid Emergency Disclosure Request.”
+Basic Subscriber Information is defined as the username/subscriber identity, IP logs (including registration IP), email address (if any), phone number (if any), and payment information (if any).
+Training Mechanisms In Place to Handle Subpoenas
+Statista, a data gathering platform, said that as of October 2025 there were roughly 197 million Facebook users in the U.S. and about 3 billion users worldwide.
+A Meta spokesperson also referred Military.com to the company's guidelines, which in part states the company notifies users (including advertisers) about requests for their information before disclosing it—unless prohibited by law, such as in cases of emergencies or missing children, etc.
+"We individually review all requests regardless of whether they are submitted related to emergencies or through legal process obtained by law enforcement or national security authorities to ensure that each request is consistent with applicable law and our policies (including Meta’s Data Policy)," the guidelines read.
+Meta's trained Law Enforcement Response Team (LERT) reviews and evaluates every government request for user data individually. Those analysts are said to receive annual privacy and data protection training.
+"If we determine that a government request is not consistent with applicable law or our policies, we push back and engage the governmental agency to address any apparent deficiencies," Meta says. "If the request is unlawful (for example, overly broad, or legally deficient in any way), we will challenge or reject the request."
+Civil Rights and the First Amendment
+A spokesperson for the American Civil Liberties Union (ACLU) referred Military.com to press releases about related incidents.
+One is a case from this month involving a Philadelphia-area man who challenged a Trump administration subpoena issued to Google seeking information about his identity and home address after he sent an email to DHS criticizing their treatment of a man seeking asylum from Afghanistan.
+The individual, according to the ACLU, had read the story in the Washington Post and wrote his email to DHS urging the agency to “apply principles of common sense and decency” in its treatment of the asylum seeker. About two weeks after the man was notified about the subpoena, two DHS agents and a local police officer showed up and interrogated him at his residence.
+"In a democracy, contacting your government about things you feel strongly about is a fundamental right," the man, identified only as Jon Doe, said on Feb. 3.
+Between Feb. 3 and Feb. 10, the man was able to quash the subpoena after challenging it in court on the basis of First Amendment violations. The DHS was forced to withdraw.
+“This is a resounding win for our First Amendment rights," Stephen A. Loney, ACLU-PA senior supervising attorney, said after the subpoena was quashed. "Administrative subpoenas like this one are abusive tactics intended to chill speech and punish us for disagreeing with the government.
+"By standing up to their bullying tactics, we’re sending a message too: you can stand up for your rights, and you can win.”
+This story was updated with comment from Greg Nojeim.

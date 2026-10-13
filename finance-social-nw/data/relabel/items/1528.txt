@@ -1,0 +1,24 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google has been warned its threats to sue won't sway the potential late inclusion of YouTube in Australia's world-first social media ban for children.
+The tech giant wrote to Communications Minister Anika Wells declaring it was considering its legal position if its video sharing platform was included in the ban for children 16 and under.
+The letter, first reported by the Daily Telegraph, flagged the ban could be challenged on the grounds it restricts the implied constitutional freedom of political communication.
+Signals the Australian government was contemplating an "abrupt policy reversal" prompted Google to seek further clarity.
+"YouTube is a video sharing platform, not a social media service, that offers benefit and value to younger Australians," a YouTube spokesperson said.
+"We have written directly to the government, urging them to uphold the integrity of the legislative process and protect the age-appropriate experiences and safeguards we provide for young Australians."
+The social media ban is due to come into effect in December.
+Facebook, Instagram, TikTok and Snapchat were among platforms covered when legislation passed parliament.
+YouTube was exempted, in a move TikTok described as a "sweetheart deal".
+"The government was firm in its decision that YouTube would be excluded because it is different and because of its value to younger Australians," a YouTube spokesperson told AAP.
+"This intention was repeatedly made clear in its public statements, including to the Australian parliament."
+But e-Safety Commissioner Julie Inman Grant has recommended a rethink, citing research showing children were exposed to harmful content on YouTube more than any other platform.
+"The new law will only restrict children under the age of 16 from having their own accounts - not accessing content on YouTube or any other service through links from the school or in a 'logged-out' state," she told the National Press Club in June.
+"There is nothing in the legislation that prevents educators with their own accounts from continuing to incorporate school-approved educational content on YouTube or any other service just as they do now."
+Prime Minister Anthony Albanese took a dim view of Google's attempt to muscle in on the decision-making process.
+"The minister will make these assessments ... independent of any these threats that are made by the social media companies," he told ABC TV on Sunday.
+"I say to them that social media has a social responsibility.
+"There is no doubt that young people are being impacted adversely in their mental health by some of the engagement with social media and that is why the government has acted."
+The early findings of an age-verification trial found technologies could block young kids from social media platforms, but not without loopholes.
+Platforms will face penalties worth up to $50 million if caught not taking reasonable steps to prevent children 16 and under from creating accounts.
+Australian Associated Press

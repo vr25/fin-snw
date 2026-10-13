@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Google announced the discontinuation of support for early Dropcam, Dropcam Pro, and Nest Secure models, rendering these devices largely inoperable on April 8. To assist users in transitioning, Google offers a complimentary Nest camera for Nest Aware subscribers or a 50% discount on a new Nest camera for non-subscribers. Dropcam and Dropcam Pro users will lose the ability to save new clips, and they will have limited time to access existing ones. Nest Secure users will find their devices, such as the Nest x Yale door locks, unable to connect to WiFi. Google offers a free Nest Connect to extend the life of existing locks, with a reminder to contact support for details if not already received.
+Subscribe to the Newsletter.
+Join the Chat @ GeekNews.Chat
+Email Todd or follow him on Facebook.
+Like and Follow Geek News Central’s Facebook Page.
+Download the Audio Show File
+New YouTube Channel – Beyond the Office
+Show Notes Summary and Story Links:
+In this episode of the Geek News Central podcast, titled “Google Phases Out Early Nest and Dropcam Models,” host Todd Cochrane discusses several topics, starting with Google’s announcement about ending support for early Dropcam, Dropcam Pro, and Nest Secure models. This news is significant for users of these products as they will become largely inoperable starting April 8th. Google is offering compensation to affected users, including a complimentary Nest camera for Nest Aware subscribers or a 50% discount on a new Nest camera for non-subscribers. However, Cochrane expresses his frustration with Google’s actions and shares his decision to replace his Dropcam devices with Wyze cameras.
+Todd continues the show with acknowledgments and promotions, including a shoutout to the podcast’s primary sponsor, GoDaddy, and invitations for audience participation and subscription via various platforms. He shares insights into his experiences with domain names and encourages listeners to take advantage of GoDaddy’s deals for online businesses.
+Following the promotional segment, Todd dives into a range of other tech and industry news:
+1. Google’s consideration of making AI search a premium option due to potential revenue implications.
+2. Gmail’s integration with AI-generated responses for premium subscribers.
+3. The financial payouts from Zoom’s bug bounty program since 2019.
+4. AWS’s job cuts are part of Amazon’s continued downsizing efforts.
+5. NASA is narrowing down options for lunar rovers and working towards selecting one for a pre-2029 moon mission.
+6. The rise of “pink slime” partisan news sites that imitate legitimate journalism.
+7. The use of AI in email responses, with a listener named Leslie providing feedback on her dislike for AI-generated content.
+8. Todd provides an update on GNC insiders, thanking those who stream the podcast with modern podcast apps that allow for value-for-value exchanges.
+He also covers other vital topics, such as:
+– FBI’s consideration of the benefits and risks of AI.
+– Garmin’s new heart rate tracker pairs with women’s sports bras.
+– A significant data breach hitting the US State Department involving documents related to the Five Eyes alliance.
+– A surge in malware attacks targeting the retail industry via WhatsApp.
+– Online retailers’ challenges with fraudulent returns on Amazon.
+– NASA’s directive for a unified lunar standard time.
+– Controversy surrounding Tesla’s impending trial over a fatal autopilot crash.
+– Leaks suggest changes to the iPhone 16 design.
+– Ripple’s entrance into the stablecoin market.
+– Google is suing a cryptocurrency scammer.
+– Apple developed a personal robot for home use.
+Todd emphasizes the importance of verified eclipse glasses since an eclipse is approaching and touches on Android’s satellite messaging capabilities. The episode concludes with a reminder to listeners to support the podcast by becoming insiders or utilizing the value-for-value option through modern podcast apps.

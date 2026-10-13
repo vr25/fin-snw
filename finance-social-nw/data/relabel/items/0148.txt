@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+John Sherman, chief information officer of the Department of Defense, appeared before the Senate Armed Services Committee’s cybersecurity subpanel to report on the agency’s progress in transitioning to a cloud-based, zero-trust computing environment, DOD News reported Wednesday.
+In his testimony on Tuesday, Sherman mentioned DOD’s contract awards to support the Joint Warfighting Cloud Capability, as well as the positive influence of its zero trust strategy on other federal agencies.
+Sherman highlighted the launch of an enterprise cloud that would serve as a one-stop shop for DOD when acquiring network-based services to advance its digital modernization, cybersecurity, and Joint All Domain Command and Control activities.
+“At last, the department has access to enterprise cloud capabilities from four world-class U.S. vendors at all three security classification levels from the continental United States to the tactical edge,” Sherman told the committee, referring to Amazon Web Services, Google, Microsoft and Oracle.
+He also provided an updated on the agency’s five-year zero trust strategy, which he said has turned into a “North Star document” guiding DOD and other federal departments since its unveiling in October.
+Sherman, a 2023 Wash100 awardee, will deliver opening keynote remarks at the Potomac Officers Club’s 4th Annual CIO Summit on May 16 in McLean, Virginia. Register here.

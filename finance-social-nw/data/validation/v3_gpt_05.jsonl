@@ -1,0 +1,12 @@
+{"id":"1390","ticker_a":"GOOGL","ticker_b":"META","first_words":"Mumbai: Alarmed at frauds related","relation":"unrelated-mention","sentiment_alignment":0.0}
+{"id":"0632","ticker_a":"AMD","ticker_b":"NVDA","first_words":"Nvidia's (NVDA +0.22%) stock soared 1,420%","relation":"substitute-comparison","sentiment_alignment":0.0}
+{"id":"0937","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Major figures from Google, Nvidia","relation":"co-hype","sentiment_alignment":0.0}
+{"id":"2146","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"When Sir Thomas More wrote","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1336","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Russian propaganda is being spread","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1426","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Meanwhile, India has improved its","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"2082","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"NVIDIA has reported a record-breaking","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0958","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"UNITED STATES California’s proposed law","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"1148","ticker_a":"MSFT","ticker_b":"NVDA","first_words":"The S&P 500 (^GSPC +0.51%)","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0251","ticker_a":"GOOGL","ticker_b":"NVDA","first_words":"Data center demand for AI","relation":"causal-driver","sentiment_alignment":1.0}
+{"id":"0367","ticker_a":"META","ticker_b":"MSFT","first_words":"Welcome to this month's issue","relation":"co-hype","sentiment_alignment":1.0}
+{"id":"0222","ticker_a":"GOOGL","ticker_b":"MSFT","first_words":"Federal Trade Commission chair Lina","relation":"co-hype","sentiment_alignment":1.0}

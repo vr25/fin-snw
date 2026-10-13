@@ -1,0 +1,23 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Former Google CEO likens OpenAI's Sam Altman to Apple's Steve Jobs
+Ex-Google chief Eric Schmidt on OpenAI drama: 'You don't fire a Steve Jobs'
+Former Google chief and Chairman Eric Schmidt heaped high praise on OpenAI CEO Sam Altman on Tuesday, likening the leader of the pioneering artificial intelligence company to iconic late Apple co-founder and CEO Steve Jobs.
+Schmidt made the comparison during a sit-down at the Axios AI+ Summit, after Axios co-founder Mike Allen asked for his take on the recent drama at OpenAI over the past few weeks, which saw Altman ousted by the previous board only to be reinstated days later and the board largely replaced after nearly every OpenAI employee threatened to quit.
+Alphabet, Inc.
+"It's pretty simple," Schmidt told the moderator. "The board tries to fire Sam. Sam fires the board."
+MEET OPENAI'S NEW BOARD MEMBERS FOLLOWING SHAKEUP, SAM ALTMAN'S RETURN
+"Don't fire a Steve Jobs," he continued. "I mean, c'mon guys, you work it out."
+Apple, Inc.
+"Here's a guy, young man who worked very, very hard to build this industry," Schmidt said of Altman. "And he managed to create through his team who are so loyal to him that even after the board fired him again on the Sunday, the employees revolted and said the company or the board, right? How much more feedback do you need in your 360 about the CEO?"
+GOOGLE RELEASES ‘AI OPPORTUNITY AGENDA’ FOR POLICYMAKERS
+This is not the first time Schmidt has made public declaration praising the CEO of ChatGPT developer OpenAI, which is backed by Google rival Microsoft.
+Microsoft, Inc.
+Following Altman's ouster on Nov. 17, Schmidt took to X, the social media platform formerly known as Twitter, to defend the AI guru.
+"Sam Altman is a hero of mine," Schmidt wrote in the post that is still pinned to the top of the former Google boss's feed. "He built a company from nothing to $90 Billion in value, and changed our collective world forever. I can't wait to see what he does next. I, and billions of people, will benefit from his future work- it's going to be simply incredible. Thank you @sama for all you have done for all of us."
+Schmidt, the co-founder of Schmidt Futures, is an expert on AI who served as chairman of the National Security Commission on Artificial Intelligence. In 2021, he co-authored "The Age of AI" with former Secretary of State Henry Kissinger and MIT computer scientist Dan Huttenlocher, which explored developments in AI technology and the way it will transform human society.
+He has consistently called for guardrails that protect against the risks of AI, which he reiterated at the Axios conference on Tuesday.
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+Schmidt said the restrictions AI companies have in place today to prevent their products from causing harm "aren't enough" to prevent AI from developing capabilities that could endanger humanity within the next decade, Axios reported.
+FOX Business' Chris Pandolfo contributed to this report.

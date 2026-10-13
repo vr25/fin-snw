@@ -1,0 +1,13 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Facebook parent Meta Platforms has discussed integrating its generative artificial intelligence model into Apple's recently announced AI system for iPhones, the Wall Street Journal reports.
+The move comes as Apple plans to add technology from other AI companies on its devices amid reports that it was discussing a potential tie-up with long-time search partner Alphabet's Google.
+The iPhone maker is also expected to discuss partnerships with other AI companies in different regions like China, where Microsoft-backed OpenAI chatbot ChatGPT is banned.
+AI startup Anthropic has been in discussions with Apple to bring its generative AI to Apple Intelligence, the WSJ reported, citing people familiar with the matter.
+Meta and Anthropic declined to comment while Apple did not respond immediately to request for comment outside business hours.
+The discussions have not been finalised and could fall through, the WSJ reported, adding that deals with Apple would help AI companies to obtain a wider distribution of their products.
+The size of potential financial windfall is unclear but the talks involved AI companies selling premium subscriptions to their services through Apple Intelligence, the report said.
+AI search start-up Perplexity has also been in discussions with Apple about bringing its generative AI technology to Apple Intelligence, a source familiar with the matter told Reuters.
+Apple announced its long-awaited AI strategy this month, saying it would integrate new Apple Intelligence technology across its suite of apps, including Siri, and bring ChatGPT to its devices, while signalling that it plans to differentiate itself from rivals Microsoft and Google by placing privacy "at the core" of its features.
+Australian Associated Press

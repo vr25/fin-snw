@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Dow hits 40,000 for first time
+The Dow Jones Industrial Average crossed 40,000 for the first time ever Thursday as investors celebrated solid earnings and a slight easing of consumer inflation last month.
+The Dow has gained about 6% this year and a strong quarter from the nation's largest retailer, Walmart, helped propel gains on Thursday. It closed above 30,000 on Nov. 24, 2020.
+APRIL INFLATION REPORT A MIXED BAG
+Goldman Sachs has added the most points since 30,000, while 3M Co. has subtracted the most, as tracked by Dow Jones Market Data Group.
+Other notable contributors include Microsoft, UnitedHealth and Caterpillar.
+Road to Dow 40,000 (Dow Jones Market Data)
+Still, the 30-member index is trailing the S&P 500 and tech-heavy Nasdaq, which are also trading at new records.
+BUFFETT'S BERKSHIRE HATHAWAY REVEALS NEW STOCK HOLDING
+Both indexes have risen about 11% this year as 77% of companies have exceeded profit estimates this season.
+Google and Nvidia are trading at record highs. The chipmaker's highly anticipated earnings report is set for May 22.
+The market ended up closing down 38.62 points at 39,869.38.

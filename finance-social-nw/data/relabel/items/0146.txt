@@ -1,0 +1,34 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google is previewing a downloadable, ML-tuned version of its PostgreSQL-compatible AlloyDB, which it claims is 2x faster than standard Postgres for transactional workloads and 100x faster for analytical queries.
+Google is developing a self-managed and downloadable version of its PostgreSQL-compatible AlloyDB fully managed database-as-a-service (DBaaS) in order to further help enterprises to modernize their legacy databases. It is now inviting applications for the private preview, it said Wednesday.
+Dubbed AlloyDB Omni, the new offering uses the same underlying engine as AlloyDB and can be downloaded and run on premises, at the edge, across clouds, or even on developer laptops, Andi Gutmans, general manager of databases at Google Cloud, wrote in a blog post.
+This means that enterprises using AlloyDB Omni will get AlloyDB’s improved transactional processing performance and memory management compared with standard PostgreSQL, and an index advisor to optimize frequently run queries.
+“The AlloyDB Omni index advisor helps alleviate the guesswork of tuning query performance by conducting a deep analysis of the different parts of a query including subqueries, joins, and filters,” Gutmans said, adding that it periodically analyzes the database workload to identify queries that can benefit from indexes, and recommends new indexes that can increase query performance.
+In order to reduce latency for query results, Omni uses AlloyDB’s columnar engine that keeps frequently queried data in an in-memory columnar format for faster scans, joins, and aggregations, the company said, adding that AlloyDB Omni uses machine learning to automatically organize data between row-based and columnar formats, convert the data when needed, and choose between columnar and row-based execution plans.
+“This delivers excellent performance for a wide range of queries, with minimal management overhead,” Gutmans said.
+How does AlloyDB Omni help enterprises?
+Self-managed AlloyDB Omni provides a pathway to modernize legacy databases on-premises before moving to the cloud, analysts said.
+“Database migrations can be complex and costly, especially when combined with migration from on-premises infrastructure to cloud. AlloyDB Omni provides a pathway for organizations to modernize those workloads in-place by migrating to AlloyDB Omni on-premises,” said Matt Aslett, research director at Ventana Research.
+“This move can be seen as one step prior to a potential move to the AlloyDB managed service, or with a view to retaining the workloads in on-premises data centers or on edge infrastructure due to sovereignty or performance requirements,” he added.
+According to Omdia’s Chief Analyst Bradley Shimmin and dbInsight’s Principal Analyst Tony Baer, AlloyDB Omni combines the best of open-source PostgreSQL and Google Cloud’s architecture, making it more appealing than rival services such as AWS Aurora for PostgreSQL and Microsoft’s CitiusDB, among others.
+Shimmin said that for larger customers or those looking to modernize and transform sizable, mission-critical databases, “Sticking with an open-source solution like PostgreSQL can be limiting in terms of providing modern data architectures or features, especially in supporting multi or hybrid-deployment requirements.” AlloyDB Omni could overcome those limitations, he said.
+For Baer, “The appeal of AlloyDB Omni is that it is one of the few PostgreSQL implementations optimized for both scale and mixed transaction or analytic workloads that is not solely tethered to a specific hyperscaler.”
+What is Google’s strategy with AlloyDB Omni?
+Google plans to use AlloyDB Omni as another offering in its plan to gain more share in the PostgreSQL-led legacy database migration market at a time when PostgreSQL has seen rise in popularity, the analysts said.
+Shimmin noted that, “For many customers, PostgreSQL is a relational lingua-franca and therefore a means of modernizing legacy databases by porting them to a cloud-native rendition on AWS, GCP or any other hyperscaler.”
+According to data from relational databases knowledge platform db-engines.com, PostgreSQL has been steadily rising in popularity and is currently the fourth-most-popular RDBMS (relational database management system) and fourth-most-popular product cited among all databases in their rankings.
+Another reason for PostgreSQL’s rise in popularity is that the database management system offers better transactional and analytical capabilities than MySQL along with other features such as extended support for spatial data, broader SQL support, enhanced security and governance, and expanded support for programming languages.
+Google’s Gutmans said the company has received “huge” interest from customers for database modernization since the launch of AlloyDB.
+And according to Aslett, AlloyDB Omni builds on AlloyDB’s momentum for Google to gain share in the PostgreSQL market.
+“AlloyDB was launched to enable organizations to modernize applications with high-end performance and reliability requirements that have previously been deployed on-premises on enterprise operational databases including Oracle, IBM and Microsoft, as well as PostgreSQL,” he said.
+“By 2025, two-thirds of organizations will re-examine their current operational database suppliers with a view to improving fault tolerance and supporting the development of new intelligent operational applications,” he added.
+According to a report from market research firm Gartner, the race to modernize databases is accelerating due to enterprises’ need to run analytics for business strategy and growth.
+How to access AlloyDB Omni?
+Google is currently offering the free developer version of AlloyDB Omni for non-production use, which can be downloaded on developers’ laptops.
+“When it’s time to move an application to a production-ready environment, it will run unchanged on AlloyDB Omni in any environment, or on the AlloyDB for PostgreSQL service in Google Cloud,” Gutmans said.
+“If needed, you can use standard open-source PostgreSQL tools to migrate or replicate their data. You can also use standard open-source PostgreSQL tools for database operations like backup and replication,” he added.
+Google said AlloyDB Omni supports existing PostgreSQL applications as it uses standard PostgreSQL drivers. In addition, the software provides compatibility with PostgreSQL extensions and configuration flags.
+Further, Google said that it will provide full enterprise support, including 24/7 technical support and software updates for security patches, features, when AlloyDB Omni is made generally available.
+Although Google hasn’t yet set a date for that, enterprises can already get access to the technical preview of the offering by submitting a request to the search giant.

@@ -1,0 +1,20 @@
+{"id": "1760", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Nvidia looked poised to have a", "relation": "substitute-comparison", "sentiment_alignment": -0.7}
+{"id": "1761", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nvidia looked poised to have a", "relation": "causal-driver", "sentiment_alignment": 0.5}
+{"id": "1762", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "Graphics Cards Gigabyte GeForce RTX", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1763", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "In a matter of months, Alphabet", "relation": "substitute-comparison", "sentiment_alignment": 0.8}
+{"id": "1764", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "NVIDIA in trouble, Google's AI", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1765", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Key Points Nvidia just delivered", "relation": "substitute-comparison", "sentiment_alignment": -0.5}
+{"id": "1766", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The California Gold Rush left an", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1767", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The California Gold Rush left an", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1768", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The California Gold Rush left an", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1769", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Investing.com -- Apple Inc (NASDAQ:AAPL)", "relation": "co-hype", "sentiment_alignment": 0.0}
+{"id": "1770", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "OpenAI CEO Sam Altman has set", "relation": "co-hype", "sentiment_alignment": -0.1}
+{"id": "1771", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1772", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The new Foodland grocery store under", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1773", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "COMMENTARY A view on the", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1774", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "READING — 2025 has been quite", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1775", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Ahead of the prestigious 'Telangana", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1776", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Since search engines started sending", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1777", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Chechnya has been hit by a", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1778", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This week's ask an SEO", "relation": "unrelated-mention", "sentiment_alignment": 0.0}
+{"id": "1779", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Published December 10, 2025 ABU", "relation": "co-hype", "sentiment_alignment": 0.7}

@@ -1,0 +1,13 @@
+TICKER_A: AVGO
+TICKER_B: NVDA
+POST:
+Asian stocks fell sharply on Thursday, tracking losses on Wall Street, as concerns mounted over the technology sector and the heavy spending on artificial intelligence cautioned investors.
+Hong Kong's HSI was trading below 111 points or 0.44% at 25,357 at 10:38 AM IST. Nikkei also trimmed over 422 points to reach 49,089. Kospi also lost 1.39% to reach 3,999.
+ Expectations of a year-end rally have weakened after the US Federal Reserve last week suggested it may pause interest rate cuts as early as next month. Although the central bankâs three consecutive reductions had supported equities in recent months, investors are increasingly wary that the policy tailwind could be coming to an end.
+ With uncertainty building, markets are now looking ahead to key US inflation data due later on Thursday for clues on the Fedâs next move. A US jobs report released earlier this week did little to clarify the outlook for monetary policy.
+ The spotlight has returned to technology stocks, where fears are growing that valuations may have overshot fundamentals. Tech and chipmakers have been the driving force behind this yearâs rally to record highs, but scepticism is rising over how long earnings can justify the heavy capital being poured into AI and when meaningful returns will emerge.
+ Those concerns intensified on Wednesday following reports that private capital firm Blue Owl had withdrawn from Oracleâs planned $10 billion data centre, raising doubts over the projectâs future. The development came soon after Oracle and semiconductor major Broadcom reported weaker-than-expected earnings last week.
+ Markets reacted sharply. Oracle shares slid more than five per cent on Wednesday, while Broadcom also moved lower. Losses spread across the sector, dragging down major names such as Nvidia, Alphabet and Advanced Micro Devices. 
+The technology-heavy Nasdaq fell 1.8%, and the S&P 500 declined by more than one per cent.
+Elsewhere, oil prices climbed more than one per cent for a second consecutive day after the US said its forces had struck a vessel in the Pacific Ocean that Washington claims was involved in drug trafficking, killing four people described as ânarco-terroristsâ.
+ The development added to tensions surrounding Venezuela after US President Donald Trump ordered a blockade of oil tankers labelled as âsanctionedâ while heading to and from the country. Venezuelan President Nicolas Maduro has accused Washington of pursuing regime change rather than focusing on its stated aim of curbing drug trafficking.

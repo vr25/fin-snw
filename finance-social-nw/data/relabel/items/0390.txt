@@ -1,0 +1,88 @@
+TICKER_A: AVGO
+TICKER_B: META
+POST:
+This week in enterprise: Tech IPOs gain steam, AI keeps booming and WMware reaches for relevance
+What summer vacation? Making up for lost COVID time, companies are cramming events into what is sometimes a slow tech news season, IPOs are heating up, and investors continue make big moves in artificial intelligence and cybersecurity.
+This week VMware Inc. held what might be a last blast for its annual user conference, now called Explore, since it looks likely that its acquisition by Broadcom Inc. looks to close at the end of October. The 25-year-old virtualization giant and its Chief Executive Raghu Raghuram (pictured) made a case for a continuing central role in enterprise computing, in particular aiming to be the key enabler for companies using multiple cloud providers, especially as they dive into generative AI with abandon. We take some deep look at its prospects this week.
+AI continues to be hot, with big new fundings. Meantime, though cybersecurity startups continue to get funding, others are faltering or selling out, so the perennially messy market remains just that.
+You can get a deeper dive into some of this news and more on today’s theCUBE Pod podcast with SiliconANGLE analysts John Furrier and Dave Vellante. And don’t miss Vellante’s new Breaking Analysis Saturday. He and analyst George Gilbert are diving deep into Snowflake’s prospects in this new AI era and why, ahead of next week’s Google Cloud Next, Google may not be next on Snowflake’s list.
+Speaking of which, SiliconANGLE and theCUBE will be covering Next wall-to-wall onsite at San Francisco’s Moscone Center, including a lot of exclusive interviews, starting Tuesday, Aug. 29. Just ahead of that, get a glimpse of how cloud providers aim to profit from a coming windfall of edge AI opportunities in our Cloud Special Report coming Sunday evening.
+Enterprise pulse
+Tech IPOs gain steam:
+Arm files for Nasdaq IPO, seeking to cash in on AI boom SoftBank may pull out a win, just not nearly the one it would have gotten by selling to Nvidia instead. But as the biggest IPO of 2023, it will get a lot of scrutiny. Will investors bet that it can benefit from the gen AI boom like Nvidia has? That’s a pretty speculative bet just yet. Especially since it’s not really growing. And there’s also a lot of risks in China.
+But Arm isn’t the only one: In positive signal for tech IPO market, Instacart and Klaviyo file to go public All of these companies have one positive thing in common: They’re profitable. That’s a welcome change from the halcyon days of 2021.
+Enterprise earnings generally look good:
+???Nvidia’s stock climbs to record high as AI boom ignites rapid revenue growth
+?Snowflake beats expectations and maintains full-year guidance, sending its stock (a little) higher
+?NetApp beats expectations despite overall revenue slowdown but stock sags
+? Splunk shares surge on strong earnings, revenue and outlook beats
+? Autodesk surprises analysts and investors with better-than-expected earnings
+? Zoom beats earnings expectations, hikes its full-year forecast and its stock rises
+?Workday shares rise on earnings and revenue beats
+?Shares in semiconductor maker Marvell drop despite solid quarterly results
+And other tech news with enterprise implications:
+Microsoft restructures Activision Blizzard deal in bid to win UK regulatory approval
+Former Centrify CEO Tom Kemp has a new book out: Book review: Tom Kemp’s ‘Containing Big Tech’ provides a guide for consumers and businesses alike
+IBM finally dumps that always odd weather acquisition: IBM agrees to sell The Weather Company assets
+AMD acquires Mipsology to ramp pp AI inference rivalry with Nvidia (from CRN)
+Bacon and eggs from the sky: Walmart teams up with Alphabet’s Wing for drone deliveries in Dallas
+Good luck with that, Elon: Twitter to hide news headlines as Musk asks journalists to publish directly on the platform (from 9to5 Mac)
+AI bits
+More big fundings: Report: AI startup Hugging Face hoping to raise millions from Salesforce and other investors and Modular nabs $100M for its AI programming language and inference engine and Tech giants back $235M round for open-source AI startup Hugging Face, the self-styled Switzerland of AI
+And a partial divestiture already! Hmm…: VC firm Tiger Global looks to cash in on its early investment in OpenAI rival Cohere
+No, you can’t use our data anymore: Multiple news organizations block OpenAI’s GPTBot web crawler
+What’s old is made new again… with gen AI: IBM’s watsonx to leverage generative AI to modernize mainframe apps
+Business function-specific and industry-specific AI models are coming very soon: Gupshup launches enhanced domain-specific ACE LLM AI adapted for industry use
+AI-specific chipmaker d-Matrix announces new next-gen compute platform with Jayhawk II
+Meta AI’s SeamlessM4T model enables universal, on-demand translation for hundreds of languages
+OpenAI now lets users fine-tune GPT-3.5 Turbo for specific tasks
+Meta’s new Code Llama large language model is optimized for programming tasks
+Microsoft reportedly looking at adding AI to built-in Windows 11 apps
+Cyber beat
+As we flagged the last couple of weeks, consolidation keeps accelerating among cybersecurity companies: SentinelOne reportedly exploring a sale after mixed quarterly results and Thoma Bravo expected to close $2.3B ForgeRock acquisition following antitrust scrutiny DOJ decided not to oppose it, perhaps a sign that the door’s open for PE to roll out security firms.
+Yet startups continue to get funding, even if overall cybersecurity funding has declined: SpyCloud bags $110M to help companies respond to login credential leaks faster and Israeli SaaS security platform startup Grip Security raises $41M and Security automation startup Cerby raises $17M for go-to-market efforts
+New privacy rules coming fast to the EU: David Strom got out ahead with his story Doing business in Europe? Time to focus on its new Digital Services Act – now And an early example of the impact arrives just this week: To placate EU regulators, Meta will let European users turn off its recommendation algorithms
+A deep dive on why VPNs are still relevant: How the new breed of business virtual private networks will keep them relevant in security
+Malvertising is getting worse: Malware-infected advertising grows ever more sophisticated, and lethal
+So, after the attack? Call in gen AI: Rubrik’s new generative AI assistant helps ease cyberattack recovery operations
+What other companies can learn from Facebook’s belated encryption move: Meta’s Facebook finally supports end-to-end message encryption: four lessons for IT managers
+VMware reaches for relevance at Explore
+I’ll leave the deeper and smarter analysis to Dave, John & Co. (their analysis in the writeups below), but here are some of my sparsely informed impressions from CEO Raghu Raghuram’s keynote:
+- Hock Tan appears only on a canned video, which doesn’t exactly make VMware the most important thing in Broadcom’s world. Maybe he felt he had to wait until the deal closes, which it now appears it will by Oct. 31, the end of Broadcom’s fiscal year. Ragharam thanks him for being here, even though he wasn’t.
+- VMware clearly wants to be the multicloud enabler. We’ll see if it can do that under Broadcom.
+- It’s scrambling to latch onto AI, but on generative AI, most of what he talked about didn’t seem to apply very closely to VMware. And then VMware’s general counsel jumped in abruptly, I guess because of the need for private data to train AI models. But seriously, its lawyer talking about gen AI?
+- But Raghuram salvaged the keynote by bringing Nvidia CEO Jensen Huang onstage live to talk about the jointly developed VMware Private AI Foundation. “The reinvention of the future of enterprise computing,” Huang called it.
+- Of course the biggest question didn’t really get answered and maybe it can’t be yet: Is VMware’s future going to be mostly milking what it’s already providing, or can it actually provide the innovation Raghuram is promising? But R&D wasn’t really a priority under Dell, and it seems even less likely under Broadcom, so it has a lot to prove, as questions during the press conference were digging at.
+Key news from Explore:
+Customer choices in generative AI and multicloud drive the narrative from VMware Explore
+At VMware Explore, experts debate questions around AI bias and the future of data privacy
+VMware repackages cloud offerings as part of a campaign to simplify multicloud management
+VMware tunes Tanzu app modernization suite for the multicloud
+VMware and Nvidia join forces to support generative AI infrastructure for the enterprise
+Some key interviews:
+Sanjay Poonen: Beyond the hype: How will generative AI translate to enterprise solutions and apps?
+Analysis:
+Analyzing VMware’s strategic evolution and the implications of the Broadcom acquisition
+Key takeaways from VMware Explore 2023 day one
+Beyond cloud: theCUBE analyst panel assesses VMware’s journey toward next-gen innovation
+Analysts see cloud strategy and Broadcom acquisition as key highlights from VMware Explore
+(* A disclosure: VMware sponsored some segments of theCUBE’s coverage, but they’re clearly disclosed and VMware has no advance look at, or influence on, any articles.)
+Enterprise comings and goings
+Widely respected engineer and open-source leader Kris Nova of GitHub died Aug. 16 in a climbing accident. Lots of people offered touching tributes.
+Adobe co-founder and former CEO John Warnock died Aug. 19 at age 82.
+What’s coming next
+Our newest Cloud Special Report is coming early Monday, led by Paul Gillin’s feature on cloud providers’ prospects for participating in growing AI workloads at the edge. And SiliconANGLE and theCUBE will also be at the Google Cloud Next Aug. 29-31 at Moscone Center in San Francisco in full force with a lot more cloud news to come.
+Plus Google lets loose some news early, just a taste of the avalanche to come next week:
+Google Cloud debuts trio of cloud storage services for data-hungry AI workloads
+Google adds new AI-powered security controls to its Workspace
+OpenText expands relationship with Google Cloud to deliver AI-powered integrations
+Another big roster of earnings next week:
+Read about them all on SiliconANGLE: HPE, HP and Box on Aug. 29, Pure Storage, Salesforce, CrowdStrike and Okta on Aug. 30, Dell, Broadcom, VMware, MongoDB, Nutanix, Elastic, Hashicorp, SentinelOne, PagerDuty and Samsara all on Aug. 31
+Photo: VMware/livestream
+A message from John Furrier, co-founder of SiliconANGLE:
+Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.
+- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more
+- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network
+Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/
+About SiliconANGLE Media
+Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.

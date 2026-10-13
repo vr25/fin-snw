@@ -1,0 +1,25 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+By Frank Wall
+InsideSources.com
+Graduation season is fast approaching, and for U.S. workers, especially young people and new college graduates, they are facing one of the toughest labor markets in years.
+“The lack of job market growth over the past 12 months means that those who lost their jobs or are looking for their first or a new job have an increasingly harder time finding employment,” the Center for American Progress reported in its assessment this month.
+While many are stuck looking for work in a job market with fewer openings, one part of the economy keeps flashing green: the skilled trades. As infrastructure spending ramps up and essential systems — from power grids to HVAC to data centers — demand constant maintenance and modernization, trade careers offer something the broader market lacks: clear pathways into stable, well-paid work.
+Companies are on the lookout for a wide variety of trade employees, including sheet metal and HVAC workers, electricians, pipefitters, welders, plumbers, masons and carpenters.
+The numbers are hard to ignore. The Bureau of Labor Statistics projects 649,300 openings annually in construction and extraction occupations through 2034, reporting a median annual pay of $58,360 for this broad trade category — well above the median for all occupations of $49,500.
+Extraction occupations refer to jobs that involve obtaining raw materials and natural resources directly from the earth, land or sea, often considered the first stage of production.
+Specific trades stand out. For example, electricians earned a median of $62,350 in 2024, with employment projected to grow 9 percent from 2024 through 2034 and about 81,000 openings annually. Elevator and escalator installers and repairers posted a median of $106,580 in 2024, with projected job growth of 5 percent over the period. The median wage for plumbers, pipefitters and steamfitters was $62,970 in 2024, with projected job growth of 4 percent over the period.
+Jensen Huang, the CEO and president of advanced chipmaker Nvidia, said that trade professionals are especially fundamental to the expansion of artificial intelligence and the data centers that house the computing power.
+“If you’re an electrician, you’re a plumber, a carpenter — we’re going to need hundreds of thousands of them to build all of these factories,” Huang said. “The skilled craft segment of every economy is going to see a boom.”
+These roles typically require a high school diploma plus training or apprenticeship — not four years of tuition and interest payments.
+Teenagers are noticing. Research by Wakefield Research for the Sheet Metal and Air Conditioning Contractors’ National Association found that 75 percent of teens ages 13–18 would consider a trade job instead of college. The top draw wasn’t “settling” for less — it was pragmatism — higher pay, good benefits and paid apprenticeships.
+If the nation is serious about maintaining U.S. competitiveness and matching these plentiful opportunities with young people to create a robust pipeline, policymakers must take at least three practical actions at the local school district level.
+First, make trade careers visible early. Career exploration shouldn’t start in the senior year. The middle school years and early high school are when students should be touring job sites, meeting apprentices and visiting modern workplaces that use sophisticated tools and technologies.
+Second, expand paid pathways. School districts and employers should scale
+apprenticeships and pre-apprenticeships. Paid learning lets students earn while they train and build experience, without risking their future on loans. It also opens careers to all students, whatever their backgrounds.
+Third, treat trade credentials as first-class opportunities for mechanically intelligent
+individuals. School districts must ensure consistent funding for career and technical education, training on modern equipment, and strong partnerships with unions and reputable contractors. Educators should celebrate trade credentials and careers and put to rest once and for all the outdated stereotypes.
+Four-year degrees still make sense for many. The default advice to go to college at almost any cost only hurts young people, since it can impede personal and financial growth. Student debt can delay the wealth-building benefits of homeownership and family formation for years.
+The nation is facing serious shortages of workers who build and maintain infrastructure and keep increasingly important data centers humming. A pool of talent is waiting in the wings. Let’s give young people a shot at the American dream.
+Frank Wall is the CEO of the Sheet Metal and Air Conditioning Contractors’ National Association. He wrote this for InsideSources.com.

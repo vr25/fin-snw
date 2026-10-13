@@ -1,0 +1,24 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Nvidia has dethroned Apple as the world's most valuable company following a record-setting rally in the stock, powered by insatiable demand for its specialised artificial intelligence chips.
+Nvidia's stock market value briefly touched $US3.53 trillion ($A5.32 trillion) on Friday, slightly above Apple's $US3.52 ($A5.30) trillion, LSEG data showed.
+Nvidia ended the day up 0.8 per cent, with a market value of $US3.47 trillion ($A5.23 trillion), while Apple's shares rose 0.4 per cent, valuing the iPhone maker at $US3.52 trillion ($A5.30 trillion).
+In June, Nvidia briefly became the world's most valuable company before it was overtaken by Microsoft and Apple. The tech trio's market capitalisations have been neck-and-neck for several months.
+Microsoft's market value stood at $US3.18 trillion ($A4.79 trillion), with its stock up 0.8 per cent.
+The Silicon Valley chipmaker is the dominant supplier of processors used in AI computing, and the company has become the biggest winner in a race between Microsoft, Alphabet, Meta Platforms and other heavyweights to dominate the emerging technology.
+Known since the 1990s as a designer of processors for videogames, Nvidia's stock has risen about 18 per cent so far in October, with a string of gains coming after OpenAI, the company behind ChatGPT, announced a funding round of $US6.6 billion ($A9.9 billion).
+Nvidia and other semiconductor stocks got a lift on Friday after data storage maker Western Digital reported quarterly profit that beat analysts' estimates, buoying optimism about data centre demand.
+"More companies are now embracing artificial intelligence in their everyday tasks and demand remains strong for Nvidia chips," said Russ Mould, investment director at AJ Bell.
+"It is certainly in a sweet spot and so long as we avoid a big economic downturn in the United States, there is a feeling that companies will continue to invest heavily in AI capabilities, creating a healthy tailwind for Nvidia."
+Nvidia's shares hit a record high on Tuesday, building on a rally from last week when TSMC, the world's largest contract chipmaker, posted a forecast-beating 54 per cent jump in quarterly profit driven by soaring demand for chips used in AI.
+Meanwhile, Apple is struggling with tepid demand for its smartphones. iPhone sales in China slipped 0.3 per cent in the third quarter, while sales of phones made by rival Huawei surged 42 per cent.
+With Apple set to report its quarterly results on Thursday, analysts on average see its revenue climbing 5.55 per cent year over year to $US94.5 billion ($A142.4 billion), LSEG data showed.
+That compares with analysts' projections for Nvidia of nearly 82 per cent revenue growth to $US32.9 billion ($A49.6 billion).
+Shares of Nvidia, Apple and Microsoft have an outsized influence on the richly valued technology sector as well as the broader US stock market, with the trio accounting for about a fifth of the S&P 500 index's weight.
+Optimism about the prospects for AI, expectations that the Federal Reserve will considerably bring down US interest rates, and most recently, an upbeat start to the earnings season, helped lift the benchmark S&P 500 to an all-time high last week.
+Nvidia's massive gains have helped boost the stock's appeal for option traders and the company's options are among the most traded on any given day in recent months, according to data from options analytics provider Trade Alert.
+The stock has surged nearly 190 per cent so far this year as the boom in generative AI led to a series of blowout forecasts from Nvidia.
+"The question is whether the revenue stream will last for a long time and will be driven by the emotion of investors rather than by any ability to prove or disprove the thesis that AI is overdone," said Rick Meckler, partner at Cherry Lane Investments, a family investment office in New Vernon, New Jersey.
+"I think Nvidia knows that near term, their numbers are likely to be quite remarkable."
+Australian Associated Press

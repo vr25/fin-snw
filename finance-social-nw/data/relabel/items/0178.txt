@@ -1,0 +1,175 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+DUBLIN, April 17, 2023 /PRNewswire/ -- The "Latin America Data Center Construction Market - Industry Outlook & Forecast 2023-2028" report has been added to ResearchAndMarkets.com's offering.
+The Latin America data center construction market size is expected to grow at a CAGR of 9.31% during 2023-2028. 
+KEY HIGHLIGHTS
+- Within Latin America, major contributors to green data center development include countries such as Brazil, Chile, Argentina, and Paraguay, among others, wherein operators and governments are working toward the adoption of renewable energy and other such measures.
+- Latin American countries Chile, Uruguay, Brazil, Colombia, Argentina, Mexico, and Peru witnessed the deployment of 5G network services on a commercial and trial basis.
+- Hyperscale operators in the Latin America data center construction market, including Google, Microsoft, Amazon Web Services, and Huawei Technologies, are driving the market regarding sustainable investments and innovative technologies.
+- Operators such as HostDime, KIO Networks, and Scala Data Centers, among others, are focused on building data centers with a PUE of
+- Among colocation service providers, the major growth contributors to the Latin America data center construction market are Ascenty, Equinix, HostDime, ODATA, Quantico, Scala Data Centers, Telmex, and Tigo Business, which are spending millions of dollars on facilities development.
+MARKET TRENDS & OPPORTUNITIES
+Adoption of Cloud
+Latin America is one of the fastest-growing countries regarding technological development and innovations, and the adoption of the cloud is fuelling data generation and the technology market. The government takes initiatives for the growth and development of the cloud. Innovation is being carried out by large-scale companies such as Microsoft, Oracle, IBM, and Huawei. They have announced new cloud regions/availability zones in Latin America. Some of these cloud regions are already live, and others will be available within the next one to two years.
+Big Data & IoT are accelerating Data Center Investments in Latin America
+The rising adoption of smart devices and the growing demand for big data analytics and IoT technologies are prompting several investments in Latin America. The emergence of smart homes, buildings, and cities, the rise in popularity of gaming, and the surge in digitization across various sectors such as BFSI, manufacturing, IT, and logistics have generated more data, creating a greater demand for data centers in Latin America.
+Procurement of Renewable Energy in Latin America
+Many renewable energy sources are present across the different countries in Latin America, which can help bring energy efficiency to industries like data centers. The increasing average industrial electricity pricing across Latin America and the increasing push toward sustainability has prompted operators to focus on renewable energy procurement via Power Purchase Agreements (PPAs). Over the last two years, several operators in Latin America have either procured or signed power purchase agreements to power their facilities in the region.
+5G Deployments Fuelling EDGE Data Center Deployments
+In Latin America, 5G network deployment fuels digital transformation, IoT, smart cities, and the industrial revolution. Latin American countries are working toward adopting digital transformation to attract foreign investments. 5G network deployment fuels digital transformation, IoT, smart cities, and the fourth industrial revolution. The rapid investment in 5G technology increases the demand for high-bandwidth internet in Tier II and Tier III cities, thereby leading to the generation of a substantial amount of data, further driving data center development to process the information on par with major cities. ICT, government, manufacturing, services, agriculture, and retail are the industries impacted by the deployment of 5G services. 5G network services play a key role in supporting enterprise digitalization and will drive the adoption of IoT applications.
+REGIONAL ANALYSIS
+- Brazil has multiple colocation providers, such as Ascenty, Scala Data Centers, and ODATA. Telecom providers, namely GlobeNet Telecom, Ava Telecom, and Embratel, are expanding their presence in the country. Colocation operators lead investments in the country and are expected to grow further with several new project announcements.
+- The Latin American data center colocation market also sees investments in submarine cable projects, connecting with other regions and countries. Mexico City has emerged as the primary data center located in the country, with eight existing third-party data centers. Cancun has emerged as a major location with around six submarine cable landing stations.
+Geography
+- Brazil
+- Mexico
+- Chile
+- Colombia
+- Rest of Latin America
+VENDOR LANDSCAPE
+- Some significant vendors in the Latin America data center construction market include Ascenty (Digital Realty), ODATA, Equinix, HostDime, CloudHQ, and Scala Data Centers.
+- Several mergers and acquisitions occur among the colocation vendors in the Latin America data center construction market. For instance, Equinix announced that it has acquired around four data centers of Entel in Chile and Peru. In December 2022, Aligned announced an agreement to acquire ODATA, which marks the entry of Aligned into the Latin American market.
+Major Vendors
+Promient Support Infrastructure
+- ABB
+- Alfa Laval
+- Assa Abloy
+- Axis Communications
+- Bosch Security Systems
+- Caterpillar
+- Cummins
+- Daikin Applied
+- Delta Electronics
+- EATON
+- Honeywell
+- Johnson Controls
+- Legrand
+- Munters
+- Mitsubishi Electric
+- Piller Power Systems
+- Panduit
+- Rittal
+- Rolls-Royce
+- Schneider Electric
+- Siemens
+- STULZ
+- Vertiv
+Prominent Construction Contractors
+- AECOM
+- Aceco TI
+- Constructora Sudamericana
+- Cundall
+- Fluor Corporation
+- Gensler
+- HDOS
+- Hyphen
+- Holder Construction
+- Jacobs Engineering
+- KMD Architects
+- PQC
+- Quark
+- Syska Hennessey Group
+- Turner Construction
+- Turner & Townsend
+- ZFB Group
+- Zeittec
+Prominent Data Center Investors
+- Amazon Web Services (AWS)
+- Ascenty
+- Ava Telecom
+- Air Link Communications
+- Belize Network Information Centre
+- Blue NAP Americas
+- Brac Informatics Centre (BIC)
+- Claro
+- Digicel
+- Entel
+- Epic.io
+- Equinix
+- EdgeConneX
+- GlobeNet Telecom
+- Gtd Peru
+- HostDime
+- InterNexa
+- IPXON Networks
+- KIO Networks
+- Lumen Technologies (CIRION)
+- Millicom (Tigo Panama)
+- Nabiax
+- ODATA
+- Oxygen
+- OneX
+- Scala Data Centers
+- SONDA
+- Telecom Italia Sparkle
+New Entrants
+- CloudHQ
+- DHAmericas
+- Microsoft
+KEY QUESTIONS ANSWERED:
+1. How big is the Latin America data center construction market?
+2. What is the growth rate of the Latin America data center construction market?
+3. What factors drive the Latin America data center construction market growth?
+4. What is the estimated market size in terms of area in the Latin America data center construction market by 2028?
+5. Who are the new entrants in the Latin America data center construction market?
+6. How many MW of power capacity is expected to reach the Latin America data center construction market by 2028?
+Key Topics Covered: 
+1 Research Methodology
+2 Research Objectives
+3 Research Process
+4 Scope & Coverage
+5 Report Assumptions & Caveats
+7 Market at a Glance
+8 Introduction
+9 Market Opportunities & Trends
+9.1 Edge Data Center Deployment Fueled by 5G Launch
+9.2 Adoption of Renewable Energy
+9.3 Implementation of Automation & Artificial Intelligence in Data Centers
+9.4 Adoption of Advanced It Infrastructure in Data Centers
+10 Market Growth Enablers
+10.1 Adoption of Cloud
+10.2 Increased Tax Incentives
+10.3 Increased Deployment of Submarine Cables
+10.4 Development of Digital Economy
+11 Market Restraints
+11.1 Location Constraints
+11.2 Lack of Skilled Workforce
+11.3 Increased Carbon Emissions from Data Centers
+11.4 Data Center Security Challenges
+12 Market Landscape
+13 Infrastructure
+14 Electrical Infrastructure
+15 Mechanical Infrastructure
+16 Cooling System
+17 Cooling Technique
+18 General Construction
+19 Tier Standard
+20 Geography
+21 Brazil
+22 Chile
+23 Colombia
+24 Mexico
+25 Rest of Latin America
+26 Competitive Landscape
+27 Prominent Support Infrastructure
+28 Prominent Construction Contractors
+29 Prominent Data Center Investors
+30 New Entrants
+31 Report Summary
+32 Quantitative Summary
+33 Appendix
+For more information about this report visit https://www.researchandmarkets.com/r/a9ehit
+About ResearchAndMarkets.com
+ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends.
+Media Contact:
+Research and Markets 
+Laura Wood, Senior Manager 
+[email protected]  
+For E.S.T Office Hours Call +1-917-300-0470 
+For U.S./CAN Toll Free Call +1-800-526-8630 
+For GMT Office Hours Call +353-1-416-8900 
+U.S. Fax: 646-607-1907 
+Fax (outside U.S.): +353-1-481-1716
+Logo: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg
+SOURCE Research and Markets

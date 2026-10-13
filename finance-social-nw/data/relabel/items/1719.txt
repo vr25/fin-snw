@@ -1,0 +1,30 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+The fight continues over the Supplemental Nutrition Assistance Program, a Depression-era government-funded program commonly referred to as food stamps.
+On Nov. 1, SNAP recipients didn’t receive their monthly benefit amid the ongoing government shutdown, which is now the longest in US history. Since Oct. 1, federal funding for multiple agencies has come to a halt, and many federal workers, such as TSA employees and air traffic controllers, have either been furloughed or missed paychecks due to the shutdown.
+Then, in a new court filing on Nov. 3, the US Department of Agriculture said that a partial SNAP payment will be issued this month.
+More from CNET
+Next, President Donald Trump contradicted that statement on his own social platform, Truth Social. Blaming the Democrats for the shutdown, he said SNAP recipients wouldn’t see benefits until the government opened again.
+White House Press Secretary Karoline Leavitt then said that the administration is “fully complying” with the court filing. Leavitt said partial food stamp payments would be issued this month, but didn’t provide an exact date: “It’s going to take some time.”
+During fiscal year 2024, nearly 42 million low-income Americans relied on SNAP for crucial food assistance. According to data from the Center on Budget and Policy Priorities, more than 62% of those were families with children, and the average SNAP benefit for one household member was $163 per month.
+Now, millions of people are waiting for delayed monthly payments and scrambling to find alternative ways to feed their families.
+Until there’s a resolution, state agencies, mutual aid groups and food-focused companies, including HelloFresh, DoorDash and Instacart, are stepping in.
+Don’t miss any of our unbiased tech content and lab-based reviews. Add CNET as a preferred Google source.
+What is going on with SNAP benefits?
+The Department of Health and Human Services’ website notes that the federal government shutdown may impact November SNAP benefits and the Supplemental Nutrition Program for Women, Infants, and Children. As of Nov. 5, there has not been a new update since Oct. 29.
+Ways to help
+Go online and find a food bank near you
+To find a food bank near you, visit Feeding America’s website and type in your zip code. Some state government websites provide similar information, but not all do. You can donate food or volunteer to work in food banks.
+You can also look for ways to help your community. Check the websites of charities, nonprofits and service organizations, as well as mutual aid services, including community fridges, for information on local resources.
+Facebook groups, online forums, local schools, hospitals and religious organizations are also running programs to help families purchase groceries or receive meals delivered. Before donating food, double-check with the organization about what is most needed.
+See if your state offers assistance
+Some state governments are activating emergency assistance programs for individuals and food banks, including those in California, New York, West Virginia, New Mexico, Rhode Island, Minnesota, Connecticut, and Washington. There will also be week-to-week state emergency benefits in Delaware, rent and utility payment relief in Hawaii, funding for the Temporary Assistance for Needy Families program in Kentucky and a new Emergency Nutrition Assistance initiative to distribute funds in Virginia.
+Some other states have also declared states of emergency or ordered the National Guard to assist in distributing food.
+Spread the word about meal delivery donations
+Some companies have been offering ways to help SNAP recipients until the government restores the benefits.
+Food delivery company DoorDash has launched an emergency food response to the expiration of SNAP benefits. According to a press release, the company will deliver 1 million free meals to more than 300 Project Dash food bank partners, waive delivery and service fees for SNAP recipients, and donate food to local food banks from its DashMart stores. To access this offer, ensure a SNAP EBT card has been added to your DoorDash account. Then, place an order at a SNAP-enabled store on DoorDash. They will be clearly marked and include Sprouts, Dollar General, Schnucks, Food Lion, Giant Foods, Hannaford, Stop & Shop, Hy-Vee, Giant Eagle and Wegmans. Use promo code SNAPDD at checkout.
+Food delivery service Gopuff is offering SNAP recipients a $50 credit in November for all SNAP-eligible items, which will be delivered free of charge. Make sure a SNAP EBT card has been added to your Gopuff account. Add SNAP-eligible items to your Gopuff shopping cart (those items will be clearly marked if eligible). Use code SNAPRELIEF1 at checkout for $25 off and free delivery from Nov. 1 to 15. Use code SNAPRELIEF2 at checkout for $25 off and free delivery from Nov. 16 to 30.
+Instacart announced last week that it is offering 50% off groceries to current SNAP customers. If you used an EBT card to order from Instacart within the past month, check your email linked to the account for the discount code provided by the company.
+HelloFresh will donate $1 for each fall-themed meal kit purchased from its seasonal menu, up to a total of $50,000, to benefit No Kid Hungry, which helps SNAP and school meal programs. Available during the weeks of Nov. 8 and Nov. 15, the two HelloFresh meal kits include creamy sun-dried tomato stuffed chicken with mashed potatoes and garlicky green beans, and crispy chicken cutlets and rigatoni in a creamy butternut squash sauce.
+Although it is not related to the SNAP program suspension, another popular meal kit, Home Chef, donates $100,000 each year to Feeding America.

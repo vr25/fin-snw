@@ -1,0 +1,20 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Nine stocks from the United States now have a market cap above $1 trillion. Four of them have surpassed the $3 trillion mark, making them an outsize portion of the stock market indices. Artificial intelligence (AI) spending has propelled these large technology players to record heights, along with record-setting valuation figures.
+What will be the next stock to join Nvidia, Apple, Microsoft, and Alphabet in the trillion-dollar market cap club? Here are two can't miss candidates that could reach the milestone by 2030. Here's why.
+Visa's steady opportunity
+The 14th largest company in the U.S. by market cap today is Visa (V -0.16%), with a value of $650 billion as of this writing. As the largest credit card network in the world, Visa rode the transition to digital payments and turned into the largest financial technology company in the world.
+NYSE: V
+Key Data Points
+Last quarter, Visa's revenue grew 14% year-over-year to $10.2 billion. With fantastic profit margins -- EBIT margin was 67% over the last 12 months -- Visa turns a high % of its revenue into bottom-line earnings and cash flow. Net income was $20 billion over the last 12 months. Free cash flow was $22 billion.
+Visa's growth will be driven by continued spending from debit and credit card issuers in the years to come. Last quarter, Visa's total cards in circulation grew 7% year over year to 4.8 billion. As these cardholders keep spending, Visa's revenue will keep growing from the cut it takes on all spending through the Visa network. Plus, the company is protected from inflation since it takes a percentage fee on all credit card transactions. As stuff gets more expensive, Visa's revenue will grow in tandem.
+Today, Visa trades at a price-to-earnings ratio (P/E) of 33 due to the high-quality nature of the business. It has little competition and a huge competitive moat. If the company can steadily grow its earnings power, it is likely that the stock will eclipse a market cap of $1 trillion by 2030.
+A sneaky AI beneficiary
+An AI stock getting less love than other players like Nvidia is ASML (ASML +1.25%). This is curious, as the company is a huge beneficiary of the AI spending revolution with its advanced lithography machines utilized for making cutting-edge semiconductors. Without ASML's machines, manufacturing ultra-small chips would be impossible. No other company (or country) has been able to replicate ASML's technology.
+ASML's business can be lumpy quarter over quarter due to it selling a few machines worth hundreds of millions of dollars to computer chip factories. However, management has provided long-term guidance of 44 billion to 60 billion euros of revenue for the business by 2030. Using current exchange rates, the high end of this guidance calls for $70 billion in revenue by 2030 compared to $35 billion over the last 12 months.
+Banking on this revenue is logical, since ASML has fully contracted out its own manufacturing capacity for many years. Growth in semiconductor demand is driving an inflection in demand for ASML machines, which will help the company march steadily higher in the years to come.
+NASDAQ: ASML
+Key Data Points
+A market cap of $396 billion gives ASML a longer shot to eclipsing a trillion-dollar market cap by 2030, but I think it is achievable. Currently, the company has an earnings before interest and taxes (EBIT) margin of 35%. With continued scale, I think this figure can surpass 40% by 2030, especially if it raises prices on machine sales. On $70 billion in revenue, that equates to $28 billion in earnings, which would be an earnings multiple of 36 compared to a trillion-dollar market cap.
+This is a bit of a premium multiple, but I think it is entirely achievable for ASML to surpass a trillion-dollar market value by 2030. If it comes up short, it will still be a great stock for investors to buy and hold for the long haul.

@@ -1,0 +1,65 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Chasing Microsoft, global tech giants have rolled out announcements on how they will implement ChatGPT-like artificial intelligence into their world leading platforms and applications, with YouTube the latest to present plans.
+Here is a roundup of how the world's biggest tech companies plan to surf the AI wave:
+Microsoft
+Microsoft has gone the furthest in pushing out generative AI to consumers and has pledged to pump billions of dollars into OpenAI, the company behind ChatGPT.
+The Windows-maker is aggressively testing the latest version of OpenAI's GPT-3 technology in a beefed up Bing search engine, with plans to add the tool to the easily accessible Windows 11 taskbar.
+Microsoft is also planning to add GPT-3 to its Office suite, including Word, as well as the Edge browser. The rollouts guarantee maximum exposure to the technology despite controversies about the AI's readiness for the general public.
+Media reports of the chat technology going haywire surfaced soon after the Bing integration was introduced.
+The Redmond, Washington-based company subsequently made some tweaks to the program, but has largely stayed on course.
+Google
+Feeling the pressure from Microsoft, Google in February unveiled Bard, a ChatGPT like conversation robot that is powered by its own large language model called LaMDA.
+The California-based giant said it was working with a smaller scale version of LaMDA to facilitate testing and "make sure Bard's responses meet a high bar for quality" in a veiled dig at Microsoft's more aggressive push.
+Google said AI-powered features would soon be rolled out in its world dominating search engine, though it has remained vague on exactly how and when.
+"It's critical that we bring experiences rooted in these models to the world in a bold and responsible way," said CEO Sundar Pichai.
+At Google-owned YouTube, new CEO Neal Mohan said generative AI would soon be offered to creators to "expand storytelling and raise their production value."
+But YouTube was "taking the time to develop these features with thoughtful guardrails," he added.
+Meta
+Meta has so far taken a more cautious approach, at least publicly, to ChatGPT-style AI for its key social media platforms Facebook, WhatsApp and Instagram.
+CEO Mark Zuckerberg on February 27 said his company was creating a product group to come up with ways to "turbocharge" the company's work.
+He cautioned however that there was a lot of "foundational" work to do.
+Meta also announced a large language model called LLaMA, that would be made available to researchers as an open source tool, unlike ChatGPT whose technology is secret.
+The company described LLaMA as smaller than rival AI models so that researchers with more modest computing power could advance their work.
+SnapChat
+The platform popular with teens said it will introduce a chatbot powered by the most up to date version of OpenAI's ChatGPT.
+Available initially to subscribers, the "MyAI" tab will allow users to interact with a chatbot, much like it were a friend.
+Given the young audience, SnapChat's chatbot will be far more restricted than ChatGPT. Requests to write school essays or churn out inappropriate content will be more tightly controlled.
+Shopify, the retailer platform, is also turning to ChatGPT for a consumer app.
+Baidu
+Baidu, China's internet search giant, said on February 7 its own ChatGPT rival Ernie Bot could be released as early as March, with the aim of using it in an array of services from search and cloud computing to autonomous driving.
+A day after Baidu's announcement, Chinese e-commerce giant Alibaba said that it was also testing a ChatGPT-like service through its research institute.
+Musk
+Tesla and SpaceX tycoon Elon Musk, who also owns Twitter, is reported to be mulling a conversational bot that would do away with filters on ChatGPT that he says are too politically correct.
+According to news website The Information, Musk has approached researchers in recent weeks about forming a new research lab that would rival OpenAI, a company where he was an early investor before selling out.
+ Here is a roundup of how the world's biggest tech companies plan to surf the AI wave:
+Microsoft
+Microsoft has gone the furthest in pushing out generative AI to consumers and has pledged to pump billions of dollars into OpenAI, the company behind ChatGPT.
+The Windows-maker is aggressively testing the latest version of OpenAI's GPT-3 technology in a beefed up Bing search engine, with plans to add the tool to the easily accessible Windows 11 taskbar.
+Microsoft is also planning to add GPT-3 to its Office suite, including Word, as well as the Edge browser. The rollouts guarantee maximum exposure to the technology despite controversies about the AI's readiness for the general public.
+Media reports of the chat technology going haywire surfaced soon after the Bing integration was introduced.
+The Redmond, Washington-based company subsequently made some tweaks to the program, but has largely stayed on course.
+Feeling the pressure from Microsoft, Google in February unveiled Bard, a ChatGPT like conversation robot that is powered by its own large language model called LaMDA.
+The California-based giant said it was working with a smaller scale version of LaMDA to facilitate testing and "make sure Bard's responses meet a high bar for quality" in a veiled dig at Microsoft's more aggressive push.
+Google said AI-powered features would soon be rolled out in its world dominating search engine, though it has remained vague on exactly how and when.
+"It's critical that we bring experiences rooted in these models to the world in a bold and responsible way," said CEO Sundar Pichai.
+At Google-owned YouTube, new CEO Neal Mohan said generative AI would soon be offered to creators to "expand storytelling and raise their production value."
+But YouTube was "taking the time to develop these features with thoughtful guardrails," he added.
+Meta
+Meta has so far taken a more cautious approach, at least publicly, to ChatGPT-style AI for its key social media platforms Facebook, WhatsApp and Instagram.
+CEO Mark Zuckerberg on February 27 said his company was creating a product group to come up with ways to "turbocharge" the company's work.
+He cautioned however that there was a lot of "foundational" work to do.
+Meta also announced a large language model called LLaMA, that would be made available to researchers as an open source tool, unlike ChatGPT whose technology is secret.
+The company described LLaMA as smaller than rival AI models so that researchers with more modest computing power could advance their work.
+SnapChat
+The platform popular with teens said it will introduce a chatbot powered by the most up to date version of OpenAI's ChatGPT.
+Available initially to subscribers, the "MyAI" tab will allow users to interact with a chatbot, much like it were a friend.
+Given the young audience, SnapChat's chatbot will be far more restricted than ChatGPT. Requests to write school essays or churn out inappropriate content will be more tightly controlled.
+Shopify, the retailer platform, is also turning to ChatGPT for a consumer app.
+Baidu
+Baidu, China's internet search giant, said on February 7 its own ChatGPT rival Ernie Bot could be released as early as March, with the aim of using it in an array of services from search and cloud computing to autonomous driving.
+A day after Baidu's announcement, Chinese e-commerce giant Alibaba said that it was also testing a ChatGPT-like service through its research institute.
+Musk
+Tesla and SpaceX tycoon Elon Musk, who also owns Twitter, is reported to be mulling a conversational bot that would do away with filters on ChatGPT that he says are too politically correct.
+According to news website The Information, Musk has approached researchers in recent weeks about forming a new research lab that would rival OpenAI, a company where he was an early investor before selling out.

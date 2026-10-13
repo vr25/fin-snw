@@ -1,0 +1,15 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Experts and executives across industries have been debating on the role of AI in the war and how it is pushing the conflict to a new frontier. Among those is Alex Karp, CEO of the defense security company Palantir. Karp recently spoke about the changing nature of the war and the impact of AI. He also stressed how the critical resources at target have changed. The attack on Amazon data centres in the Middle East is an example of the same. Iran reportedly bombed three Amazon data centers in the Middle East last week, bringing operations at these centres at halt.
+In this war, the US data centers are increasingly seen as national security assets, hosting critical digital infrastructure used by governments and big companies. 
+Talking of the same, Karp said, âTheyâre evil, theyâre not stupid.â He added, âLook whoâs on the list, look whoâs not. Weâre in the middle of war. You would expect it to be a list of hardcore military companies. They are interested in the things they canât produce.â
+    Watch
+ Microsoft, Google At Iran's Crosshairs? US Tech Giants Named In IRGC's Hit list Amid War
+ Iran "threatens" Amazon, Google and Microsoft offices in Middle East
+Last week, Iranian news agency Tasnim published a list of approximately 30 Big Tech targets throughout the Middle East. The list called them âenemy technology infrastructureâ, signalling that they could be the next targets. 
+The Iranian news agency Tasnim has ties to the Islamic Revolutionary Guard Corps (IRGC). According to the report, Iran could target American Big Tech as tensions with the United States continue to escalate. 
+In a post on X, formerly Twitter, the news agency wrote that assets of companies such as Amazon, Microsoft, Google, Oracle, Nvidia, IBM, and Palantir in roughly 30 locations throughout the Middle East are Iranâs ânew targets in the region.â The message claimed that these sites have been identified as âenemy technology infrastructure.â
+Several locations highlighted by Tasnim are in Dubai, United Arab Emirates (UAE), and in Tel Aviv, Israel. According to the list, most locations were selected due to their involvement in developing AI systems or because they coordinate cloud computing services across the Middle East. Four offices belonging to Oracle, IBM, and Google in Jerusalem, Tel Aviv, and Abu Dhabi were singled out because they allegedly provide infrastructure for âmilitary entities,â the post said. 
+AI is giving America edge in the fight
+Karp believes that AI technology is giving America an edge in its ongoing war with Iran. âWhat makes America special right now is our lethal capabilities, our ability to fight war,â Karp said. He added that another major advantage is that âthe AI revolution is uniquely American.â

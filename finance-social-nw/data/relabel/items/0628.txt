@@ -1,0 +1,53 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+- Executives at some of the world's leading artificial intelligence labs see "artificial general intelligence," or AGI, approaching sometime in the near future.
+- AGI, a hypothesized form of AI with intelligence on a par with or above that of a human, is something several experts in the AI community are both excited by — and scared of.
+- Leaders from the likes of OpenAI, Google DeepMind and Cohere see a form of AGI approaching, but say that it's still too early to tell what it'll look like.
+Executives at some of the world's leading artificial intelligence labs are expecting a form of AI on a par with — or even exceeding — human intelligence to arrive sometime in the near future. But what it will eventually look like and how it will be applied remain a mystery.
+Stream NBC 5 for free, 24/7, wherever you are.
+Leaders from the likes of OpenAI, Cohere, Google's DeepMind, and major tech companies like Microsoft and Salesforce weighed the risks and opportunities presented by AGI, or artificial general intelligence, at the World Economic Forum in Davos, Switzerland, last week.
+AGI refers to a form of AI that can complete a task to the same level as any human or, even beat humans at solving any task, whether it's chess, complex math puzzles, or scientific discoveries. It's often been referred to as the "holy grail" of AI due to how powerful such a conceived intelligent agent would be.
+AI has become the talk of the business world over the past year or so, thanks in no small part to the success of ChatGPT, OpenAI's popular generative AI chatbot. Generative AI tools like ChatGPT are powered large language models, algorithms trained on vast quantities of data.
+That has stoked concern among governments, corporations and advocacy groups worldwide, owing to an onslaught of risks around the lack of transparency and explainability of AI systems; job losses resulting from increased automation; social manipulation through computer algorithms; surveillance; and data privacy.
+AGI a 'super vaguely defined term'
+OpenAI's CEO and co-founder Sam Altman said he believes artificial general intelligence might not be far from becoming a reality and could be developed in the "reasonably close-ish future."
+However, he noted that fears that it will dramatically reshape and disrupt the world are overblown.
+"It will change the world much less than we all think and it will change jobs much less than we all think," Altman said at a conversation organized by Bloomberg at the World Economic Forum in Davos, Switzerland.
+Altman, whose company burst into the mainstream after the public launch of ChatGPT chatbot in late 2022, has changed his tune on the subject of AI's dangers since his company was thrown into the regulatory spotlight last year, with governments from the United States, U.K., European Union, and beyond seeking to rein in tech companies over the risks their technologies pose.
+In a May 2023 interview with ABC News, Altman said he and his company are "scared" of the downsides of a super-intelligent AI.
+"We've got to be careful here," said Altman told ABC. "I think people should be happy that we are a little bit scared of this."
+Then, Altman said that he's scared about the potential for AI to be used for "large-scale disinformation," adding, "Now that they're getting better at writing computer code, [they] could be used for offensive cyberattacks."
+Altman was temporarily booted from OpenAI in November in a shock move that laid bare concerns around the governance of the companies behind the most powerful AI systems.
+In a discussion at the World Economic Forum in Davos, Altman said his ouster was a "microcosm" of the stresses faced by OpenAI and other AI labs internally. "As the world gets closer to AGI, the stakes, the stress, the level of tension. That's all going to go up."
+Aidan Gomez, the CEO and co-founder of artificial intelligence startup Cohere, echoed Altman's point that AI will likely be a real outcome in the near future.
+"I think we will have that technology quite soon," Gomez told CNBC's Arjun Kharpal in a fireside chat at the World Economic Forum.
+But he said a key issue with AGI is that it's still ill-defined as a technology. "First off, AGI is a super vaguely defined term," Cohere's boss added. "If we just term it as 'better than humans at pretty much whatever humans can do,' I agree, it's going to be pretty soon that we can get systems that do that."
+However, Gomez said that even when AGI does eventually arrive, it would likely take "decades" for companies to truly be integrated into companies.
+"The question is really about how quickly can we adopt it, how quickly can we put it into production, the scale of these models make adoption difficult," Gomez noted.
+"And so a focus for us at Cohere has been about compressing that down: making them more adaptable, more efficient."
+'The reality is, no one knows'
+The topic of defining what AGI actually is and what it'll eventually look like is one that's stumped many experts in the AI community.
+Lila Ibrahim, chief operating officer of Google's AI lab DeepMind, said no one truly knows what type of AI qualifies as having "general intelligence," adding that it's important to develop the technology safely.
+"The reality is, no one knows" when AGI will arrive, Ibrahim told CNBC's Kharpal. "There's a debate within the AI experts who've been doing this or a long time both within the industry and also within the organization."
+"We're already seeing areas where AI has the ability to unlock our understanding ... where humans haven't been able to make that type of progress. So it's AI in partnership with the human, or as a tool," Ibrahim said.
+"So I think that's really a big open question, and I don't know how better to answer other than, how do we actually think about that, rather than how much longer will it be?" Ibrahim added. "How do we think about what it might look like, and how do we ensure we're being responsible stewards of the technology?"
+Avoiding a 's--- show'
+Altman wasn't the only top tech executive asked about AI risks at Davos.
+Marc Benioff, CEO of enterprise software firm Salesforce, said on a panel with Altman that the tech world is taking steps to ensure that the AI race doesn't lead to a "Hiroshima moment."
+Many industry leaders in technology have warned that AI could lead to an "extinction-level" event where machines become so powerful they get out of control and wipe out humanity.
+Several leaders in AI and technology, including Elon Musk, Steve Wozniak, and former presidential candidate Andrew Yang, have called for a pause to AI advancement, stating that a six-month moratorium would be beneficial in allowing society and regulators to catch up.
+Geoffrey Hinton, an AI pioneer often called the "godfather of AI," has previously warned that advanced programs "might escape control by writing their own computer code to modify themselves."
+"One of the ways these systems might escape control is by writing their own computer code to modify themselves. And that's something we need to seriously worry about," said Hinton in an October interview with CBS' "60 Minutes."
+Hinton left his role as a Google vice president and engineering fellow last year, raising concerns over how AI safety and ethics were being addressed by the company.
+Benioff said that technology industry leaders and experts will need to ensure that AI averts some of the problems that have beleaguered the web in the past decade or so — from the manipulation of beliefs and behaviors through recommendation algorithms during election cycles, to the infringement of privacy.
+"We really have not quite had this kind of interactivity before" with AI-based tools, Benioff told the Davos crowd last week. "But we don't trust it quite yet. So we have to cross trust."
+"We have to also turn to those regulators and say, 'Hey, if you look at social media over the last decade, it's been kind of a f---ing s--- show. It's pretty bad. We don't want that in our AI industry. We want to have a good healthy partnership with these moderators, and with these regulators."
+Limitations of LLMs
+Jack Hidary, CEO of SandboxAQ, pushed back on the fervor from some tech executives that AI could be nearing the stage where it gets "general" intelligence, adding that systems still have plenty of teething issues to iron out.
+He said AI chatbots like ChatGPT have passed the Turing test, a test called the "imitation game," which was developed by British computer scientist Alan Turing to determine whether someone is communicating with a machine and a human. But, he added, one big area where AI is lacking is common sense.
+"One thing we've seen from LLMs [large language models] is very powerful can write says for college students like there's no tomorrow, but it's difficult to sometimes find common sense, and when you ask it, 'How do people cross the street?' it can't even recognize sometimes what the crosswalk is, versus other kinds of things, things that even a toddler would know, so it's going to be very interesting to go beyond that in terms of reasoning."
+Hidary does have a big prediction for how AI technology will evolve in 2024: This year, he said, will be the first that advanced AI communication software gets loaded into a humanoid robot.
+"This year, we'll see a 'ChatGPT' moment for embodied AI humanoid robots right, this year 2024, and then 2025," Hidary said.
+"We're not going to see robots rolling off the assembly line, but we're going to see them actually doing demonstrations in reality of what they can do using their smarts, using their brains, using LLMs perhaps and other AI techniques."
+"20 companies have now been venture backed to create humanoid robots, in addition of course to Tesla, and many others, and so I think this is going to be a conversion this year when it comes to that," Hidary added.

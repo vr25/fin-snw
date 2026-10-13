@@ -1,0 +1,15 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+TotalEnergies has signed two new long-term Power Purchase Agreements (PPA) to deliver 1 GW of solar capacity – equivalent to 28 TWh of renewable electricity over 15 years – to supply Google’s data centers in Texas. The power will be generated from TotalEnergies-owned sites currently under development in Texas: Wichita (805 MWp) and Mustang Creek (195 MWp), with construction scheduled to begin in Q2 2026.
+Bringing reliable new power capacity for AI – now
+These PPAs totaling 1 GW complement separate gross PPAs of 1.2 GW recently secured by Clearway, a California-based renewables company 50% owned by TotalEnergies, to support Google’s data centers across the ERCOT (Texas), PJM (Northeast), and SPP (Central) markets.
+The Wichita and Mustang Creek solar farms will generate significant benefits for local communities. Several hundred jobs will be created during construction, and substantial tax revenues will help fund public services throughout the lifetime of the projects.
+'We are pleased to sign these agreements to supply renewable electricity to Google in Texas, representing the largest renewable PPA volume ever signed by TotalEnergies in the United States', said Marc-Antoine Pignon, Vice President Renewables U.S. for TotalEnergies. 'This highlights TotalEnergies’ strategy to deliver tailored renewable energy solutions that support the decarbonization goals of digital players, particularly data centers. Through this PPA, TotalEnergies is also addressing the challenges of land availability and power supply for data centers by enabling large-scale colocation opportunities,' he added.
+'Supporting a strong, stable, affordable grid is a top priority as we expand our infrastructure,' said Will Conkling, Director of Clean Energy and Power at Google. 'Our agreement with TotalEnergies adds necessary new generation to the local system, boosting the amount of affordable and reliable power supply available to serve the entire region.'
+TotalEnergies has a gross capacity portfolio of 10 GW of onshore solar, wind and battery storage assets in operation in the United States, including 400 MW in the PJM market in the Northeast of the country, and 5 GW in the ERCOT market in Texas.
+TotalEnergies’ tailored power solutions for its customers around the world
+These power supply with Google, adds to those already signed by TotalEnergies with Airbus, SWM, Google, Data4, STMicroelectronics, Saint-Gobain, Air Liquide, Amazon, LyondellBasell, Merck, Microsoft, Orange and Sasol, and provides a further illustration of TotalEnergies’ ability to develop innovative solutions by leveraging its diverse asset portfolio to support its customers’ decarbonization efforts.
+TotalEnergies and electricity
+TotalEnergies is building a competitive portfolio that combines renewables (solar, onshore wind, offshore wind) and flexible assets (CCGT, storage) to deliver clean firm power to its customers. As of the end of October 2025, TotalEnergies had more than 32 GW of installed gross renewable electricity generation capacity and aims to reach more than 100 TWh of net electricity production by 2030.
+Source: TotalEnergies

@@ -1,0 +1,4 @@
+TICKER_A: MSFT
+TICKER_B: SMCI
+POST:
+KDDI and Sharp to build Asia’s largest data centre Posted by Georgia Sweeting | Jun 5, 2024 | Investment, TECHNOLOGY, INFRASTRUCTURE, COMPANY NEWS, Data Centres, Asia-Pacific, News News The new data centre will be built on the site of a former LCD panel factory owned by Foxconn, Sharp’s parent company Japan’s KDDI and Sharp have begun discussions… This article requires you to login to view. Don't worry, it's free to register and won't take you longer than 60 seconds! Login Register More on this topic: KDDI, Sharp, datacentre,

@@ -1,0 +1,37 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+RT.com
+                
+01 Nov 2022, 01:43 GMT+10
+            
+Documents show how Homeland Security sought to dodge the First Amendment ban on censorship
+The US government worked hand in glove with social media platforms to censor online "misinformation" - such as the factually true Hunter Biden laptop story - The Intercept revealed on Monday, citing internal Department of Homeland Security documents obtained through leaks and public records requests. Moreover, the DHS plans to continue censoring opinions about Covid-19, "racial justice," and US support for Ukraine going forward.
+"Behind closed doors, and through pressure on private platforms, the US government has used its power to try to shape online discourse," Lee Fang and Ken Klippenstein write in Monday's report.
+One of their major revelations is that tech companies - including Twitter, Facebook, Reddit, Discord, Wikipedia, Microsoft and LinkedIn - met with the FBI and other government agencies every month, before and since the 2020 election. Facebook even set up a special portal for "takedowns" that requires a law enforcement email to access.
+The process is also outlined in emails between DHS officials, Twitter, and the NGO Center for Internet Security, while meeting notes show that the government called on tech platforms to "process reports and provide timely responses, to include the removal of reported misinformation from the platform where possible."
+Many of the documents surfaced due to the lawsuit by Missouri Attorney General Eric Schmitt, a Republican currently running for the US Senate. Among them was the revelation that two FBI officials were involved in high-level communications with Facebook to suppress the Hunter Biden laptop story: Laura Dehmlow, the section chief of the FBI's Foreign Influence Task Force (FITF) and Elvis Chan, a special agent in the San Francisco field office.
+The factually true story published in October 2020 was denounced as "Russian disinformation" by Democrat Joe Biden and most corporate outlets, and the New York Post was suppressed on both Facebook and Twitter.
+Another document from March shows Dehmlow telling Twitter executives that subversive information on social media could undermine support for the US government.
+Created in 2019 in response to claims by Democrats that "Russian influence" on social media somehow got Donald Trump elected in 2016, the FBI's FITF would later expand its purview to "disinformation analysis" about Covid-19.
+A draft of the Quadrennial Homeland Security Review - a strategy document leaked to the Intercept - shows the DHS intends to target "inaccurate information" on topics including "the origins of the [Covid]-19 pandemic and the efficacy of [Covid]-19 vaccines, racial justice, US withdrawal from Afghanistan, and the nature of US support to Ukraine."
+Jen Easterly, a Biden nominee heading the DHS' Cybersecurity and Infrastructure Security Agency (CISA), texted a Microsoft employee in February, saying she was "trying to get us in a place where Fed can work with platforms to better understand mis/dis trends so relevant agencies can try to prebunk/debunk as useful."
+At a conference in November 2021, Easterly argued that "the most critical infrastructure is our cognitive infrastructure, so building that resilience to misinformation and disinformation, I think, is incredibly important."
+CISA meeting minutes also show Election Security Initiative director Geoff Hale urging the use of third-party nonprofits as a "clearing house for trust information to avoid the appearance of government propaganda."
+The Biden administration has sought to dismiss Schmitt's lawsuit as lacking standing and argued that social media voluntarily removed posts without any "coercive" influence from the government - which would be prohibited under the First Amendment.
+"If a foreign authoritarian government sent these messages, there is no doubt we would call it censorship," Nadine Strossen, former president of the American Civil Liberties Union (ACLU), told The Intercept.
+(RT.com)
+Get a daily dose of Greek Herald news through our daily email, its complimentary and keeps you fully up to date with world and business news as well.
+Publish news of your business, community or sports group, personnel appointments, major event and more by submitting a news release to Greek Herald.
+More Information
+DUBLIN, Ireland: Taoiseach Micheál Martin has expressed cautious optimism that the European Union and the United States can strike...
+OTTAWA, Canada: With Canada Post struggling to maintain operations amid labour unrest, rivals like FedEx and UPS are stepping in to...
+PARIS, France: French military and intelligence officials have accused China of orchestrating a covert campaign to damage the reputation...
+HONG KONG: China has fired back at the European Union in an escalating trade dispute by imposing new restrictions on medical device...
+PARIS, France: A strike by French air traffic controllers demanding improved working conditions caused significant disruptions during...
+DUBAI, U.A.E.: Saudi Aramco is exploring asset sales as part of a broader push to unlock capital, with gas-fired power plants among...
+WASHINGTON, D.C.: President Donald Trump is drawing praise from his core supporters after halting key arms shipments to Ukraine, a...
+LONDON, U.K.: An unrelenting heatwave sweeping across Europe has pushed early summer temperatures to historic highs, triggering deadly...
+CAIRO, July 9 (Xinhua) -- Chinese Premier Li Qiang said here on Wednesday that China and Egypt, as important members of the Global...
+Moscow has accused Berlin of comparing Soviet and Nazi symbols The German Embassy in Moscow has apologized after sharing a map that...
+Officials in Moscow have urged diversification beyond wheat and oil Africa is becoming an increasingly important market for Russian...

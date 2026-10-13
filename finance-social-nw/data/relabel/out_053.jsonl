@@ -1,0 +1,20 @@
+{"id": "1060", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "It seems everyone wants to talk", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1061", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "A lot of UK investors have money", "relation": "co-hype", "sentiment_alignment": -0.2}
+{"id": "1062", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "One month after a judge declared Google's", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1063", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Australians who are unaware of stories", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1064", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Australians who are unaware of stories", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1065", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "We've gotten used to Nvidia (NVDA", "relation": "substitute-comparison", "sentiment_alignment": 0.4}
+{"id": "1066", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon To Build Data Centers In", "relation": "substitute-comparison", "sentiment_alignment": 0}
+{"id": "1067", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "September 12, 2024 State Attorney", "relation": "co-hype", "sentiment_alignment": -0.3}
+{"id": "1068", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Are U.S. stocks too focused on", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1069", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "How the UAE got the US", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1070", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "In 1994, a cyberbullying report involving", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1071", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Published : 16 Sep 2024, 10:31", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1072", "ticker_a": "IONQ", "ticker_b": "MSFT", "first_words": "Margaret Arakawa, Chief Marketing Officer at", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1073", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "The Hong Kong government is preparing", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1074", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The Hong Kong government is preparing", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "1075", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The Hong Kong government is preparing", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1076", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By Foo Yun Chee BRUSSELS Reuters", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1077", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "We recently compiled a list of", "relation": "co-hype", "sentiment_alignment": 0.75}
+{"id": "1078", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Alphabet unit Google GOOGL-Q won a", "relation": "causal-driver", "sentiment_alignment": 0.3}
+{"id": "1079", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Alphabet unit Google GOOGL-Q won a", "relation": "unrelated-mention", "sentiment_alignment": 0}

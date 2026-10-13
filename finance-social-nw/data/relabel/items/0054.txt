@@ -1,0 +1,9 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Microsoft announced it is laying off 10,000 employees in an effort to cut costs on Wednesday (January 18). The layoffs account for less than 5% of the company's global workforce.
+The decision to cut the jobs comes amid a slowing economy and a change in consumers' habits following the coronavirus pandemic.
+"As we saw customers accelerate their digital spend during the pandemic, we're now seeing them optimize their digital spend to do more with less," he wrote. "We're also seeing organizations in every industry and geography exercise caution as some parts of the world are in a recession and other parts are anticipating one," Microsoft CEO Satya Nadella explained in a blog post.
+The layoffs will cost Microsoft $1.2 billion in "severance costs, changes to our hardware portfolio, and the cost of lease consolidation as we create higher density across our workspaces."
+"This is the context in which we as a company must strive to deliver results on an ongoing basis, while investing in our long-term opportunity. I'm confident that Microsoft will emerge from this stronger and more competitive, but it requires us to take actions grounded in three priorities," Nadella said.
+Microsoft is the latest tech company, joining Google, Amazon, Facebook, and Salesforce to trim jobs.

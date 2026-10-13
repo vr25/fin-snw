@@ -1,0 +1,25 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Prime Minister Sir Keir Starmer has said he is “very keen” for the Government to tackle addictive features within social media following a landmark trial in the US.
+In a potentially precedent-setting ruling on Wednesday in Los Angeles, a jury ruled that Google, owner of YouTube, and Meta, which operates Facebook, Instagram and WhatsApp, built platforms to hook young users without regard for their wellbeing.
+The lawsuit, brought after a young woman argued a childhood addiction to social media had exacerbated her mental health issues, could influence the outcomes of thousands of similar cases which accuse social media firms of causing harm.
+Asked if the landmark trial pointed to a shift in public mood with expectation of more aggressive regulation, Sir Keir told reporters: “I think it does, and obviously we’ll study that ruling very carefully, but I’m absolutely clear that we need to go further.
+“The status quo isn’t good enough. We need to do more to protect children.
+“That’s why we’re consulting about issues such as banning social media for under-16s.
+“I’m very keen that we do more on addictive features within social media.”
+The jury in the US recommended the 20-year-old plaintiff be awarded six million dollars (£4.4 million) in damages. Both Meta and Google disagreed with the verdict and confirmed they were planning to appeal.
+The Government is currently weighing up whether to implement a blanket ban on social media for under-16s, following a similar prohibition in Australia.
+Ministers are consulting on the plan while hundreds of teenagers are taking part in a trial of social media bans, time limits and curfews.
+Peers supported a social media ban for under-16s for the second time on Wednesday.
+Lord Nash, who proposed the age limit as part of the Children’s Wellbeing and Schools Bill, said “techies” have taken a “cavalier approach” to content damaging to children.
+Speaking in Helsinki, Finland, before a summit with national leaders from the Joint Expeditionary Force, Sir Keir added: “We’ve already taken the powers so that when we get to the end of the consultation, we don’t have to wait years to implement this.
+“But I want to be really clear, it’s not if things are going to change, things are going to change. The question is, how much and what are we going to do?”
+The Molly Rose Foundation said it was “time to draw a line in the sand that companies cannot cross when it comes to protecting children online”.
+Andy Burrows, chief executive of the foundation which was set up in memory of 14-year-old Molly – who took her own life after viewing harmful content on social media, said: “Keir Starmer is right that more needs to be done and he can start by banning addictive design features in the UK off the back of the national conversation.
+“But he can and must go further if we are to truly make this a watershed moment for Big Tech.
+“The Prime Minister should use the King’s Speech to announce a new Online Safety Act that delivers strong regulation with the teeth required to make companies fundamentally change their business models.”
+Earlier in March, MPs voted against an amendment to the Children’s Wellbeing and Schools Bill, that had been backed by peers, that would have introduced a social media ban for under-16s.
+Snapchat and TikTok were also named defendants in the US lawsuit, but each settled before the trial started.
+A Meta spokesperson said “teen mental health is profoundly complex and cannot be linked to a single app” while Google said the verdict misunderstood YouTube “which is a responsibly-built streaming platform, not a social media site”.
+The California decision came a day after a New Mexico jury found Meta liable under state consumer protection law for misleading the public about the safety of its platforms and failing to protect children.

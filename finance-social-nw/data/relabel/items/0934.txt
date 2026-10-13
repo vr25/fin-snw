@@ -1,0 +1,29 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+We can probably all agree that the world will look different in 2034. However, much will likely remain more or less the same as it is today.
+For example, I expect Nvidia (NASDAQ: NVDA) will still be one of the world's biggest and most influential companies. Despite my optimism about the AI chip leader, though, I don't think it will be the biggest company in the world. I predict these three stocks will be worth more than Nvidia 10 years from now.
+1. Apple
+Apple (NASDAQ: AAPL) ranked as the world's largest company based on market cap throughout most of the last decade. It lost the top spot for a while and even fell into third place behind Nvidia for a brief period. However, Apple is again neck and neck in vying for the No. 1 position. I predict it will firmly hold this perch in 2034.
+You might say Apple was a sleeping giant for a while with generative AI. The company didn't jump on the bandwagon like several other technology leaders did after OpenAI released its wildly popular ChatGPT. That's no longer the case.
+Some viewed Apple's new AI functionality that was revealed at its Worldwide Developers Conference (WWDC) earlier this week as underwhelming. On the other hand, many investors seemed to see Apple Intelligence (the name the company gave to its generative AI products and services) as a likely catalyst for a new iPhone upgrade super cycle.
+One thing is certain: Apple is no longer asleep at the wheel with anything AI-related. I fully expect that the company will dominate edge AI (running AI on devices rather than in the cloud). I would also bet that its services business will continue to grow rapidly.
+2. Microsoft
+Microsoft (NASDAQ: MSFT) has gone back and forth with Apple as the world's largest company. Although I don't think Microsoft will ultimately hang on to the top spot, I expect the company to remain larger than Nvidia 10 years from now.
+Probably the biggest reason for my prediction about Microsoft is its relationship with OpenAI. The huge tech company's impressive gains since early last year have been largely due to its integration of OpenAI's large language model (LLM) throughout its product lineup. I expect OpenAI to remain one of the leading innovators in AI. As a result, I think Microsoft will continue to profit from its relationship with the AI pioneer.
+I also look for Microsoft's cloud unit to have more sources for AI chips in the future, including its own custom silicon. If I'm right, this should boost the company's profitability as the laws of supply and demand work their magic on lowering chip prices. As Microsoft's earnings go, so go its stock price and market cap -- at least over the long term. In addition, increased competition could prevent Nvidia from dethroning Microsoft and Apple.
+3. Alphabet
+Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) market cap lags well behind Nvidia's right now. Since I've included the stock on this list, I obviously anticipate that will change. Why?
+For one thing, Alphabet's Google DeepMind rivals OpenAI. I think the two leaders will remain neck and neck in advancing AI over the coming years. While some see AI as an existential threat to Google Search, I predict Alphabet will be successful in blending search with generative AI. Its Google Cloud business should also benefit from new sources of AI chips, just as Microsoft will.
+I like the prospects for Alphabet's Waymo self-driving car unit. By 2034, Waymo could be a significant growth driver for the company with the rising adoption of robotaxis.
+Alphabet could also achieve major breakthroughs in quantum computing over the next 10 years. Google Quantum Computing believes it could achieve its goal of developing a "useful, error-corrected quantum computer" within this decade.
+This could make Alphabet an even more formidable player in AI because of the ability of quantum computers to process data much faster than traditional computers.
+Don't count Nvidia out, though
+Although I predict Apple, Microsoft, and Alphabet will be bigger than Nvidia 10 years from now, I wouldn't count Nvidia out. My assumption is that other chipmakers will be in a better position to challenge it over the coming years. If the company continues to out-innovate all of its rivals, though, that might not happen.
+I think Apple, Microsoft, and Alphabet are great stocks for long-term investors. But Nvidia is, too.
+Should you invest $1,000 in Apple right now?
+Before you buy stock in Apple, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Apple wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $794,196!*
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Keith Speights has positions in Alphabet, Apple, and Microsoft. The Motley Fool has positions in and recommends Alphabet, Apple, Microsoft, and Nvidia. The Motley Fool recommends the following options: long January 2026 $395 calls on Microsoft and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.

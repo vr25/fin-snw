@@ -1,0 +1,20 @@
+{"id": "1900", "ticker_a": "AMD", "ticker_b": "NVDA", "first_words": "Without advanced chips, networking equipment, and other", "relation": "causal-driver", "sentiment_alignment": 1}
+{"id": "1901", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Without advanced chips, networking equipment, and other", "relation": "substitute-comparison", "sentiment_alignment": 1}
+{"id": "1902", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "TotalEnergies has signed two new long-term Power", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1903", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "This year's Safer Internet Day (SID) comes amid", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1904", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Google, Meta, push back on addiction claims", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1905", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Meta has failed to disclose what it knows", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1906", "ticker_a": "AVGO", "ticker_b": "GOOGL", "first_words": "Cisco Systems Inc. delivered a fiscal second-quarter", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1907", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "Cisco Systems Inc. delivered a fiscal second-quarter", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1908", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Cisco Systems Inc. delivered a fiscal second-quarter", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1909", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Local communities can take advantage of data center", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1910", "ticker_a": "AVGO", "ticker_b": "MSFT", "first_words": "The Only 3 Vanguard ETFs You Need for", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1911", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "The Only 3 Vanguard ETFs You Need for", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1912", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Only 3 Vanguard ETFs You Need for", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1913", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Director Sarah Thomas with consultant Leslie Lopez", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1914", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Anabelle Colaco 15 Feb 2026, 20:45 GMT+10", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1915", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 15 Feb 2026, 20:45 GMT+10", "relation": "unrelated-mention", "sentiment_alignment": 0.5}
+{"id": "1916", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Anabelle Colaco 15 Feb 2026, 20:45 GMT+10", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "1917", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "It's hard not to marvel at how America's", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1918", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "It's hard not to marvel at how America's", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1919", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "It's hard not to marvel at how America's", "relation": "co-hype", "sentiment_alignment": 0}

@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Nextdoor to lay off 25% of its staff as part of cost reduction plan
+SAN FRANCISCO (KRON) — San Francisco-based Nextdoor will lay off 25% of its staff, the company announced in a financial report posted Tuesday. The job cuts are part of a broader cost reduction plan that targets reducing the neighborhood network social media company's personnel expenses by $60 million.
+"This reduction in our team is the hardest decision we have had to make at Nextdoor," said Nextdoor CEO Sarah Friar. "While our opportunity and belief in the transformative power of community remains unwavering, and our business is financially strong with a healthy balance sheet, we must follow through on our commitment to our shareholders."
+Series of violent robberies leaves Walnut Creek residents on edge
+"This means right sizing our business and aligning our team and other expenses with our near term revenue expectations," Friar continued. "We expect that these actions will position us to reach quarterly free cash flow breakeven by the end of 2025."
+In the financial report, the company highlighted metrics that included :
+- A 6% year-over-year increase in total weekly active users
+- A 4%, or $5 million revenue increase year-over-year
+- A $38 million net loss, up from $35 million a year ago
+The company's Chief Financial Officer Mike Doyle was also resigning from his position, the report said, effective immediately, although he will remain through Dec. 1 to help transition. Current Nextdoor Head of Finance and Strategy Matt Anderson will assume the CFO role.
+No information was provided in the report about what sort of severance laid off employees would receive.
+Tuesday's layoffs were the latest in an ongoing series of Bay Area tech layoffs that has recently seen job cuts from Google, ContextLogic Inc. and Microsoft.
+For the latest news, weather, sports, and streaming video, head to KRON4.

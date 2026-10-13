@@ -1,0 +1,18 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Full list of apps down including Facebook, Instagram, WhatsApp and Google
+Thousands of users have reported issues
+Thousands of users reported issues as four of the biggest apps stopped working. People from across the globe have been reporting problems with a range of apps this afternoon, Tuesday, March 3.
+Users of Meta-owned Facebook, Instagram and WhatsApp were locked out of their accounts, while the Google app was also reportedly down. DownDetector indicated that more than 150,000 users had difficulties logging into Facebook over the past hour.
+There were also 25,000 reports of issues with Instagram. The social media outage seemed to have also affected Facebook Messenger, with more than 6,000 complaints.
+READ MORE: Weather maps reveal when African plume will bring 'summer-like conditions' to UK
+Get breaking news on BlackCountryLive WhatsApp. Join our dedicated community to get the latest updates.
+Issues were first spotted when users were being logged out of their accounts, MirrorOnline reports. But they were then unable to log back in.
+The Instagram feed was coming up blank for many users. According to DownDetector, people also noticed glitches with WhatsApp, with more than 300 complaints.
+There were more than 200 complaints about Google in the past hour. It was not known whether the glitches were connected.
+The apps which seemed to be affected were:
+- Facebook Messenger
+- TikTok
+- Snapchat
+The majority of issues were reportedly with the apps - 72 per cent for Facebook, 64 per cent for Instagram and 50 per cent for Messenger.

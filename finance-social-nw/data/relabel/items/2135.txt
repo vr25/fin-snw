@@ -1,0 +1,28 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+By MATTHEW DALY and BERNARD CONDON
+WASHINGTON (AP) — The Trump administration is helping one of Elon Musk’s companies fight a civil rights lawsuit that alleges it is illegally running dozens of natural gas turbines to power a $20 billion AI data center in Mississippi.
+The NAACP and other groups say Musk’s xAI subsidiary failed to get a permit for its power plant — which is located near homes, schools and churches — creating health risks for families in North Mississippi and nearby Memphis and violating the federal Clean Air Act.
+The Justice Department, in a motion late Monday, sought to intervene in the case and dismiss the lawsuit, arguing that the plant is needed to power an artificial intelligence data center that is “critical to the economy” and the U.S. military.
+The state of Mississippi — not the federal government — is responsible for any permits for the power plant and “decided no permit was required,” the Justice Department said in a statement.
+“Ultimate responsibility for enforcing federal law belongs to the Executive Branch, not private interest groups,” said Associate Attorney General Stanley Woodward, who is No. 3 at the Justice Department. The motion to intervene in the case is intended to protect national security and promote American energy and innovation, he added.
+Trump wants to assert American leadership in AI
+The Trump administration has made AI a top national and economic security priority. It has also upended policies meant to address climate change and has worked to undo environmental regulations on business.
+President Donald Trump also has had close ties to Musk, who led his federal government cost-saving initiative, known as the Department of Government Efficiency, or DOGE, early last year. Crowned the world’s first trillionaire Friday when SpaceX went public, Musk financed Trump’s presidential campaign more than any other donor and is pouring money into midterms.
+The Justice Department action comes just days after SpaceX, Musk’s rocket company and the parent of defendant xAI, pulled off the biggest initial offering of stock ever, partly due to the Trump administration’s help supplying it with billions of dollars in federal contracts. SpaceX has a total value of more than $2 trillion, making it bigger than Exxon Mobil, Bank of America and Coca-Cola combined.
+The NAACP lawsuit, filed in April, accuses xAI of running dozens of portable natural gas turbines without proper controls to limit emissions and without the permitting required by the Clean Air Act., which requires industrial polluters to obtain air permits before construction or operation.
+The Environmental Protection Agency on Tuesday referred questions on the case to the Justice Department, saying it is not a party in the dispute.
+The Justice Department action was not about national security, but instead was a “desperate attempt to protect wealthy tech companies from obeying the laws meant to protect people from pollution,” said Laura Thoms, director of enforcement for Earthjustice, an environmental law firm that represents the NAACP with co-counsel Southern Environmental Law Center.
+“Trump’s Justice Department wants to shield Elon Musk’s data center company, xAI, from being held accountable for its illegal pollution — and it’s attempting to grab power from impacted communities, the courts and Congress to do so,” she said.
+AI data centers are turning communities into ‘sacrifice zones,’ critics say
+The data center and its pollution are “turning our communities into sacrifice zones,” Thoms added.
+Abre’ Conner, the NAACP’s director of environmental and climate justice, said the Clean Air Act was designed to hold polluters accountable for decisions that cause harm to communities. “This should not be up for debate, and the NAACP will continue to stand up for democracy and against federal bullying and authoritarianism,” Conner said.
+The NAACP brought the complaint under a provision of the Clean Air Act that allows groups or individuals to sue in “citizen suits” to compel enforcement of the law — a power that the Trump administration now is saying it can undo.
+“This is particularly audacious because it is supposedly grounded in constitutional powers,” said Ann Carlson, a professor at the UCLA School of Law. The Justice Department is saying it “can step in and dismiss a lawsuit on any ground and all grounds.”
+Mississippi Gov. Tate Reeves, a Republican, said xAI is building a “self-generating power facility” to ensure area residents don’t face rate increases from surging demand, an action he said conforms to Trump’s Ratepayer Protection Pledge. Tech giants including xAI, Google, Microsoft, Meta, Oracle, OpenAI and Amazon signed the pledge in March as a backlash grew against data centers over fears about rising electricity prices and concerns about pollution and water consumption.
+The NAACP lawsuit seeks to “materially slow or outright stop the largest private investment in Mississippi’s history,” Reeves said in a letter included in the Justice Department filing. The overall project has created thousands of construction jobs and will create hundreds of permanent jobs once it is completed, Reeves said.
+The Justice Department, in a statement Tuesday, said the Pentagon is one of many federal agencies that use AI.
+“Overly burdensome regulation, including private lawsuits that seek to implement their own environmental enforcement, can threaten technological growth, American energy independence and national security,” the statement said.
+SpaceX did not respond to a request for comment. It has previously said that it is in full compliance with the law and takes its environmental responsibilities seriously.
+Condon reported from New York.

@@ -1,0 +1,17 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Microsoft's New AI-Focused Surface Pro 10 and Surface Laptop 6 with Arm Chips & New Design in Works
+Microsoft's Surface lineup has been a consistent player, with the recent unveiling of the Surface Laptop Studio 2, Surface Laptop Go 3, and Surface Go 4. However, details about the next iterations of the Surface Pro and Surface Laptop were conspicuously absent.
+Now, a recent report sheds light on Microsoft's plans, indicating that the tech giant is diligently working on the Surface Pro 10 and Surface Laptop 6, both slated for launch in 2024.
+Surface Pro 10 and Surface Laptop 6 Specifications Leaked
+Zac Bowden of Windows Central, citing his sources, has released exclusive information on the forthcoming Surface Pro 10 and Surface Laptop 6. One significant disclosure is that both models will introduce Intel and ARM variants in the Surface Pro and Surface Laptop lineups. Microsoft is marketing these devices as its "first true next-generation AI PCs," equipped with a cutting-edge Neural Processing Unit (NPU).
+Microsoft's Embrace of Intel and ARM
+For the first time, both the Surface Pro and Surface Laptop will offer Intel and ARM variants, featuring next-gen Neural Processing Unit (NPU) silicon. The ARM versions, powered by Qualcomm's Snapdragon X Series chips, are internally labeled as "CADMUS" PCs.
+Positioned as Microsoft's response to Apple Silicon, these ARM devices are tailored for the upcoming Windows release, codenamed Hudson Valley, integrating cutting-edge AI experiences.
+Microsoft Surface Pro 10 Specs and Features Leak
+The Surface Pro 10 is anticipated to feature substantial display enhancements, including rounded corners and a new anti-reflective coating. The display is expected to be brighter, supporting HDR content compatibility. Resolution options include the existing 2880 x 1920 pixels for higher-end variants and a potential lower-tier variant with a 2160 x 1440 pixels panel.
+Other improvements comprise a wider Field of View (FoV) webcam with Windows Studio Effects, an NFC reader catering to commercial users, and a new Type Cover accessory with a dedicated Copilot button for accessing Windows Copilot.
+Microsoft Laptop 6 Specs and Features Leak
+The Surface Laptop 6 is set to undergo a long-overdue design overhaul, featuring thinner bezels, rounded display corners, and increased port availability. The lineup will maintain two display sizes, with a slight increase in the smaller variant to 13.8 inches. Ports include one USB-A, two USB-C, and a magnetic Surface Connect charging port. The keyboard deck will sport a dedicated Copilot button and a haptic touchpad.
+Both the Surface Pro 10 and Surface Laptop 6 are expected to officially debut in 2024, bringing substantial upgrades to Microsoft's acclaimed Surface series.

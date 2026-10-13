@@ -1,0 +1,65 @@
+TICKER_A: MSFT
+TICKER_B: NVDA
+POST:
+Daily Market Reports | Jul 31 2024
+This story features RIO TINTO LIMITED, and other companies.
+For more info SHARE ANALYSIS: RIO
+The company is included in ASX20, ASX50, ASX100, ASX200, ASX300 and ALL-ORDS
+By Chris Weston, Head of Research, Pepperstone
+Good morning.
+-Switching from tech to value areas of the equity market
+A sizeable reaction to earnings from Microsoft and AMD
+-Asia equity opening calls Focus falls on Aus CPI and the BoJ meeting
+-EU CPI a risk to EUR positions
+-The balance of risk seen in the FOMC meeting
+As expected, the US economic data seen on the day was largely irrelevant for market pricing, with better-than-expected US JOLTS job openings (8.184m vs 8m eyed), and consumer confidence (100.3 vs 99.7). The clear theme though through the US cash session was angst in tech and worries that Microsoft may see a repeat of the takeaways seen in Alphabet’s recent numbers, which again resulted in a tradeable switch from semis and AI names into value, with energy, financials and REITS feeling the love.
+Nvidia saw big interest from market players with shares -7% in the cash session, with big moves also playing out in Qualcomm, ARM, and Super Micro Computers, with the SMH ETF (Semiconductor ETF) underperforming the SPY ETF (S&P500 ETF) by -3.2%. The NAS100 cash closed -1.4%, while the Dow closed +0.5%, and again it speaks to index composition and the make-up of stocks in the respective equity index long Dow/short NAS100 as a pairs trade is working well, and I would remain biased for upside in this ratio.
+The fact that energy equity rallied strongly in the face of a -1% decline in crude speaks to this being a pure switch through a factor’ lens, amid prepositioning for Microsoft’s Q4 numbers. Hence, anyone who took this trade/position was initially rewarded with a punchy sell-off in Microsoft’s share price after hours, although the initial bloodbath was tempered by better numbers from AMD (shares +6.9% after hours), which lifted Nvidia 2% after hours.
+Microsoft good but not good enough
+Microsoft (-5.9% afterhours) was central to the market’s focus, and while Q4 Capex will please investors, what we saw out of Azure and Cloud has clearly underwhelmed and with such a crowded position, notably from the long-only funds, you simply must blow the lights out. AMD has clearly pleased the market, with better Q2 revenue (at US$5.8bn) and higher Capex at -US$154m, which has resulted in a solid pop in the after-hours trade, which in turn has lifted Nvidia and stabilized the post-cash session move in NAS100 futures.
+Looking ahead, earnings remain central with Boeing, and Mastercard out pre-market, and then Meta, ARM and Qualcomm reporting in the post, so further risks to filter through the tech space Meta, for example, is implied to see a -/+8.8% move on earnings, so it could get lively, with comments on AI and Capex potentially sending waves through related equity names.
+Our opening calls for Asia equity open look only too familiar US tech down, and rotation into value areas of the equity market, backed by a strong JPY, and the result, as has been the case so frequently of late, is the NKY225 called lower on open. The ASX200, as a strong value-heavy index looks to be opening on the front foot. We have just seen Rio Tinto ((RIO)) report 1H earnings, so that may also be a factor impacting the ASX200.
+Aus CPI is certainly going to get the full attention of the local market players, and for anyone globally running AUD positions. I would expect the algos to key directly off the trimmed mean print, and any initial spike higher/lower will come from this core inflation metric where an outsized move in Aussie 3yr bond yields, and by extension AUD and interest rate sensitive equities, will come on a print above 4.1% y/y (vs 4% y/y expected), or below 3.8% y/y.
+Aussie rates market price a -25bp hike from the RBA next week at 30% implied, so any CPI read that deviates by 30bp+ from the RBA’s prior estimates of 3.8% y/y would certainly bring a hike firmly onto the table.
+Will the BoJ disappointed yet again?
+The BoJ meeting is always a tough one for traders, partly because there is no definitive time for the announcement, but also because expectations for a 15bp hike have now been ratcheted higher, and we also know the BoJ never misses an opportunity to disappoint.
+As the session rolls on, EU CPI gets a focus for EUR and EU equity heads, where the view is we may see a decline in the month headline inflation read, and a tick lower in core CPI year-on-year to 2.8%. EU swaps already have a -25bp cut from the ECB in September at 100%, and over two further -25bp priced by December still, a weaker CPI print will only likely bring out increased EUR selling.
+The balance of risk around the FOMC meeting
+The FOMC meeting and Powell presser then take us home into the latter stages of US cash trade the question then is where we see the balance of risk to US 2yr Treasuries, equity and the USD, and the extent of potential volatility.
+I am not going to take a position solely to trade the meeting, but the tone of the statement does need to justify what is already rich expectations for upcoming interest rate cuts, so on balance, I would argue there are small upside risks to the USD. Saying that, I think Powell will open the door to cuts, which will then be given additional legs at the Jackson Hole Symposium in August but will it be enough?
+On the calendar today:
+-Australia 2Q CPI
+– Australia June private credit
+-ALS Ltd ((ALQ)) AGM
+-Bellevue Gold ((BGL)) site visit for analysts
+-Champion Iron ((CIA)) earnings report
+-Centuria Industrial REIT ((CIP)) earnings report
+-Gold Road Resources ((GOR)) quarter report
+-China July PMI
+-Eurozone July CPI
+-Bank of Japan rate decision
+-FOMC rate decision
+-US ADP payrolls data
+In US earnings season: Meta Platforms, Boeing, Qualcomm, Mastercard, Norwegian Cruise Lines all issue earnings results, among others.
+Corporate news in Australia:
+-Ahead of next year’s IPO (?), Canva intends to acquire Leonardo.Ai
+-Regional airline Rex Airlines ((REX)) calls in Ernst & Young administrators
+-BHP Group ((BHP)) in JV with Canada’s Lundin Mining to buy Toronto-listed explorer Filo Corp, gaining access to two South American copper projects
+-Whitehaven Coal ((WHC)) about to sell a stake in its Blackwater mine to two Japanese buyers
+-Pacific Equity Partners and Dutch Friesland Campina made an unsolicited offer for Fonterra’s ((FSF)) $3bn brand and ingredients business
+The Australian share market over the past thirty days
+For more detail go to FNArena’s Australian Broker Call Report, which is updated each morning, Mon-Fri.
+All overnight and intraday prices, average prices, currency conversions and charts for stock indices, currencies, commodities, bonds, VIX and more available on the FNArena website. Click here. (Subscribers can access prices on the website.)
+(Readers should note that all commentary, observations, names and calculations are provided for informative and educational purposes only. Investors should always consult with their licensed investment advisor first, before making any decisions. All views expressed are the author’s and not by association FNArena’s – see disclaimer on the website)
+All paying members at FNArena are being reminded they can set an email alert specifically for The Overnight Report. Go to Portfolio and Alerts on the website and tick the box in front of The Overnight Report. You will receive an email alert every time a new Overnight Report has been published on the website.
+Find out why FNArena subscribers like the service so much: “Your Feedback (Thank You)” – Warning this story contains unashamedly positive feedback on the service provided. www.fnarena.com
+FNArena is proud about its track record and past achievements: Ten Years On
+Click to view our Glossary of Financial Terms
+CHARTS
+For more info SHARE ANALYSIS: ALQ - ALS LIMITED
+For more info SHARE ANALYSIS: BGL - BELLEVUE GOLD LIMITED
+For more info SHARE ANALYSIS: BHP - BHP GROUP LIMITED
+For more info SHARE ANALYSIS: CIA - CHAMPION IRON LIMITED
+For more info SHARE ANALYSIS: CIP - CENTURIA INDUSTRIAL REIT
+For more info SHARE ANALYSIS: RIO - RIO TINTO LIMITED
+For more info SHARE ANALYSIS: WHC - WHITEHAVEN COAL LIMITED

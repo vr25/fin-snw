@@ -1,0 +1,27 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Google has confirmed it is launching its own artificial intelligence-powered chatbot in the wake of the success of rival service ChatGPT.
+First launched late last year, ChatGPT has become an online sensation because of its ability to hold natural conversations but also to generate speeches, songs and essays.
+Here is a closer look at the technology, how it works, and why it has caught the public’s attention.
+– What exactly is ChatGPT?
+In the most basic terms, ChatGPT is a conversational AI-powered chatbot designed to answer questions and respond to queries in text form in a way that sounds natural and human.
+Built by US firm OpenAI, it uses information from the internet to carry out requests and has been trained on back-and-forth conversations so it is capable of understanding follow-up questions, admitting its own mistakes and limitations and rejecting inappropriate requests.
+– Why has it become so popular?
+Although chatbot technology like this is not new, ChatGPT is rare in that it was made widely available for the public to use and experiment with.
+As a result, it was quickly being used to fulfil unusual and very specific requests – such as writing a song in the style of a specific pop star about a subject currently in the news – with often impressively accurate results that were shared online.
+Word of the bot’s ability to create long, detailed answers on often niche subjects quickly spread, sparking debates around the power, usefulness and potential dangers of such technology, while also catching the attention of many people because they were encountering this type of software for the first time.
+– What is the aim of software like ChatGPT?
+Right now, the researchers at OpenAI are keen to learn about its strengths and weaknesses – hence allowing anyone to go online to try it out and test its capabilities.
+Such has been the demand that the chatbot is not always available and OpenAI has just announced a paid subscription tier to complement the free access.
+But many experts believe the ultimate goal of chatbots is for use as the next generation of search engine.
+The idea is that a truly powerful chatbot would be able to take the type of request entered into a search engine today and return a single definitive answer, rather than the pages of web links we currently see.
+– So this is why Google is launching its own AI chatbot?
+Yes. There have been reports that Google has been alarmed by the rapid success and public cut-through that ChatGPT has achieved, and it has been suggested the company is concerned it could be a long-term threat to its position as the world’s leading search engine.
+Now the US tech giant has announced that its own chatbot, called Bard, is set to be rolled out for free to the public in the coming weeks after a short period with a select group of testers.
+It will use Google’s own conversational language tool, called Lamda, and crucially will use Google’s search engine to get the information it needs to create responses.
+This could give Bard an edge over ChatGPT, which currently relies on a database based on the internet as it was in 2021.
+But there are also reports that Microsoft – which has invested heavily in OpenAI – is about to announce it will incorporate ChatGPT into its Bing search engine.
+– Are there any concerns about this technology?
+A wide range of concerns have been raised over the spread of programmes such as ChatGPT and Bard, including fears that the technology could take human jobs, including in a range of writing professions.
+The software having been used to create essays has also raised concerns about youngsters utilising such apps to carry out school and university assignments, while the ability of ChatGPT and others to identify and not spread misinformation has also been questioned.

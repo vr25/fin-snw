@@ -1,0 +1,37 @@
+TICKER_A: GOOGL
+TICKER_B: MSFT
+POST:
+Which? files legal claim against Apple for competition law breach
+Around 40 million UK iPhone and iPad iOS users could be entitled to their share of a multibillion-pound claim against Apple.
+Acting on behalf of UK consumers, Which? believes that Apple has breached UK competition law by failing to provide a choice of cloud storage providers, and steering customers towards its iCloud service by not clearly informing them of alternatives and how those could be used on an iOS device.
+Here, we explain what this legal action is and what it means for UK consumers.
+Which? has now been granted its ‘Collective Proceedings Order’ (CPO). This means we now have permission to proceed with the claim. It marks the end of this first stage of the claim process and the next stage will involve Apple filing its defence.
+Anyone who used iCloud services at any time between 8 November 2018 and 8 June 2026 and was living in the UK on 8 June 2026 will be automatically included as a class member unless they actively choose to opt out of the claim. Anyone who first obtained iCloud services after 8 June 2026 will not be included in the class.
+If a class member chooses to opt out, they will lose the right to any compensation from this claim, should Which? ultimately be successful.
+For people who were not living in the UK on 8 June 2026, but have used iCloud services between 8 November 2018 and 8 June 2026, they can choose to opt in to Which?’s claim.
+Consumers will need to notify Which? by 8 October 2026 if they wish to opt out (or to opt in if they were not living in the UK on 8 June 2026) using one of the options listed on the claim website cloudclaim.co.uk.
+Find out more about the collective claim and if you could be eligible for a payout at cloudclaim.co.uk
+iCloud competition claim in a nutshell
+Which? believes that Apple iPhone and iPad iOS users have had little choice but to use Apple’s own iCloud service, and therefore Apple can charge users more than if it had to compete with rival cloud storage services.
+The legal claim is being brought on an ‘opt-out’ and ‘opt-in’ basis. This means that, if consumers are eligible and live in the UK, they will automatically be included in the claim unless they tell Which? that they do not want to be.
+If consumers live abroad but are otherwise eligible, they need to tell Which? that they want to be included.
+You can find out more about the claim, if you could be affected and due a payout, and details on how to opt out, by visiting the dedicated website: cloudclaim.co.uk
+‘Locked in’ with higher prices
+iCloud is an Apple-integrated data storage service, but Which? understands that, behind the scenes, iCloud uses and used cloud infrastructure from third-party operators (namely Google, Amazon and Microsoft) to store encrypted user data.
+It is built into every Apple device and comes with 5GB of free data to store photos, notes, messages and other data. Once customers have filled their free 5GB of iCloud storage, they are invited to upgrade for additional storage at paid tiers (currently ranging from 99p to £54.99). But customers are unlikely to have factored in the need to pay for upgrades when they first began using cloud storage.
+At the same time, users aren't offered any alternative cloud providers. And, even if they were, iPhone users are tied to iCloud because they cannot store or back up all of their phone’s data with a third-party provider, as Apple doesn't allow certain data to be stored other than on iCloud.
+The convenience of being ‘locked-in’ to this service over time could come at a significant cost – in terms of price, quality and choice. With Apple being such a dominant player in the phone and tablet market, this behaviour also creates a barrier for any new cloud service providers.
+With the ever-increasing volume of data that mobile and tablet users generate, consumers should be able to access competitive cloud storage alternatives on their devices.
+- Read more: how to choose the best cloud storage service
+What does the iCloud claim mean for consumers?
+Which? is seeking damages for all affected consumers. So if you have obtained iCloud services between 8 November 2018 and 8 June 2026, you may be entitled to compensation if the claim is successful.
+Working alongside a team of external experts, Which? has estimated that Apple could owe UK consumers around £77 per person.
+Which? is urging Apple to do the right thing and settle this claim without the need for litigation by offering consumers their money back and opening up iOS to allow users real choice of cloud provider.
+Apple has said it rejects any suggestion that its iCloud practices are anticompetitive and will vigorously defend the legal claim.
+What is a collective action?
+Which?’s legal action could help millions of consumers get redress for Apple’s anticompetitive behaviour.
+This is possible because of the opt-out collective action regime introduced by the Consumer Rights Act 2015.
+In the past, it has been near impossible for individual consumers to take on big companies like Apple, but the collective regime has allowed Which? to represent consumers where large numbers of people have been harmed by anticompetitive conduct.
+This action is vital to obtain redress for consumers and to send a clear message to powerful companies like Apple: Which? is prepared to take action if they engage in harmful practices.
+Register on the claim website for updates and to see if you could be eligible to claim compensation: cloudclaim.co.uk
+Updated: This article was updated on 23 June 2026 following the news that the court has granted Which? its 'Collective Proceedings Order'. It was originally published on 14 November 2024.

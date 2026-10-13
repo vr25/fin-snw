@@ -1,0 +1,20 @@
+{"id": "0400", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "(This article is part of", "relation": "unrelated-mention", "sentiment_alignment": 0.7}
+{"id": "0401", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Intel Wants to Beat Bias", "relation": "co-hype", "sentiment_alignment": 0.4}
+{"id": "0402", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Intel Wants to Beat Bias", "relation": "causal-driver", "sentiment_alignment": 0.6}
+{"id": "0403", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Intel Wants to Beat Bias", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "0404", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "As a vice president at", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0405", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Subscribe Subscribe Edition English", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0406", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Subscribe Subscribe Edition English", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0407", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Subscribe Subscribe Edition English", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0408", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0409", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Reliance Industries' Jio Platforms has", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0410", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Reliance Industries' Jio Platforms has", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0411", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Reliance Industries' Jio Platforms has", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "0412", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Teen's death leads to concern", "relation": "co-hype", "sentiment_alignment": -0.8}
+{"id": "0413", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "US denies Cold War with", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0414", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The Nintendo Switch 2 is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0415", "ticker_a": "META", "ticker_b": "NVDA", "first_words": "The Nintendo Switch 2 is", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0416", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The Nintendo Switch 2 is", "relation": "substitute-comparison", "sentiment_alignment": -0.3}
+{"id": "0417", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The White House has secured", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0418", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "The White House has secured", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "0419", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "The White House has secured", "relation": "co-hype", "sentiment_alignment": 0.7}

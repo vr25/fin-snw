@@ -1,0 +1,16 @@
+TICKER_A: META
+TICKER_B: NVDA
+POST:
+Tesla is ramping up AI-based developments since the firm plans to build a $500 million Dojo supercomputer powered by NVIDIA's AI GPUs.
+Tesla To Spend Billions on AI Hardware From NVIDIA & AMD, As The Firm Transitions Towards Next-Gen FSD Capabilities
+Dojo is Tesla's custom supercomputer platform constructed for AI machine learning and video training by utilizing the video data delivered from its line of vehicles. The supercomputer is mainly targeted toward catering to the goal of "fully autonomous" vehicles and is an important element in Tesla's success as the company requires a hefty amount of computing for artificial intelligence and standard autonomy for self-driving vehicles. Despite facing setbacks, the first Dojo supercomputer came online last year, and Elon doesn't look to stop here since he has much bigger ambitions.
+The governor is correct that this is a Dojo Supercomputer, but $500M, while obviously a large sum of money, is only equivalent to a 10k H100 system from Nvidia.
+Tesla will spend more than that on Nvidia hardware this year. The table stakes for being competitive in AI are at…
+— Elon Musk (@elonmusk) January 26, 2024
+On X (former Twitter), Elon disclosed that Tesla plans to spend a hefty amount of capital on its Dojo supercomputer as the firm unveils a new $500 million project for the New York Gigafactory. The interesting point here is that Elon disclosed that the estimated figure would only buy around 10K of NVIDIA's H100 AI GPUs, and Tesla will spend much more than this, potentially reaching "several billion dollars" at some point, which shows that not only are Team Green's H100s the holy grail of the industry, but they are playing a vital role in the transition to next-gen markets which are fueled by the power of AI.
+Yes
+— Elon Musk (@elonmusk) January 26, 2024
+However, not everything is reserved for NVIDIA, as AMD will also have a piece of the cake this year. In a reply to a user, Elon revealed that the firm will utilize AMD chips as well, not mentioning which one, but based on the industry demand, it is certainly going to be from Team Red's Instinct MI300 lineup, preferably the MI300X.
+This year, NVIDIA wouldn't be left alone to capitalize on the AI markets since AMD has managed to close the gap when it comes to performance, industry interest, and even supply. We recently reported that the firm's Instinct MI300X AI accelerator is heating the market competition, which is indeed validated in comments by Tesla's CEO.
+The AI markets will dynamically shift moving into 2024, with indicators suggesting that they will grow rapidly, courtesy of the ongoing developments. In the midst of it, suppliers such as AMD and NVIDIA will benefit the most, and it will be interesting to see what sort of competition we get to see among them.
+Follow Wccftech on Google to get more of our news coverage in your feeds.

@@ -1,0 +1,1115 @@
+{
+ "0501": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0668": {
+  "stratum": "unanimous",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1594": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "2008": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0001": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1260": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1551": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1850": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "co-hype"
+ },
+ "1825": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0471": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "1136": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "1759": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "1182": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "co-hype"
+ },
+ "1418": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0365": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0781": {
+  "stratum": "unanimous",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1966": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1461": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1474": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0139": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0162": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1533": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2149": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0822": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0880": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "2177": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1611": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "0695": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1080": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1748": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0987": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "0512": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1602": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0639": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0624": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "1390": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1555": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1037": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0786": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "2155": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "0233": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1960": {
+  "stratum": "unanimous",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1716": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0392": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1678": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "1087": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "0952": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0960": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "1834": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "1451": {
+  "stratum": "unanimous",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1204": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1180": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1223": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "2146": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0109": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0364": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0351": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2009": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0366": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0250": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0261": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1336": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1094": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2143": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1626": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "co-hype"
+ },
+ "1976": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "0271": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1423": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0535": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1731": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0502": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1414": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "2123": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1769": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0317": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0135": {
+  "stratum": "unanimous",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "0937": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0917": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0436": {
+  "stratum": "unanimous",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "2078": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "co-hype"
+ },
+ "0728": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1658": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1754": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "2082": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "0477": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0703": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0601": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1686": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0196": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0801": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0688": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1811": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1113": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1178": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0069": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0895": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1951": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1848": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "0833": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0031": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0720": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0637": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2172": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1200": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2063": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1982": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0255": {
+  "stratum": "unanimous",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0854": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2033": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0327": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1743": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1681": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "0945": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "1745": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1717": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "2114": {
+  "stratum": "disputed",
+  "final_haiku": "causal-driver",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1647": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0398": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "co-hype"
+ },
+ "1628": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1613": {
+  "stratum": "unanimous",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0393": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1854": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0236": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1553": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1974": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1884": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1753": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "causal-driver"
+ },
+ "1147": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0254": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0325": {
+  "stratum": "disputed",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0482": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0962": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0699": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1996": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1620": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2140": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1100": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1344": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "2075": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1893": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0722": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1777": {
+  "stratum": "unanimous",
+  "final_haiku": "unrelated-mention",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "0640": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0696": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "0517": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "co-hype"
+ },
+ "1389": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "causal-driver",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0682": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1055": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0759": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "1099": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "substitute-comparison",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0382": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "2038": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "unrelated-mention",
+  "gpt_6_sol": "unrelated-mention"
+ },
+ "1917": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "0744": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0862": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "unrelated-mention",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0403": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0940": {
+  "stratum": "disputed",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "substitute-comparison",
+  "gpt_6_sol": "substitute-comparison"
+ },
+ "0620": {
+  "stratum": "unanimous",
+  "final_haiku": "co-hype",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "co-hype",
+  "gpt_6_sol": "co-hype"
+ },
+ "1670": {
+  "stratum": "disputed",
+  "final_haiku": "substitute-comparison",
+  "gpt_5_4_mini": "co-hype",
+  "haiku_repeat": "causal-driver",
+  "gpt_6_sol": "co-hype"
+ }
+}

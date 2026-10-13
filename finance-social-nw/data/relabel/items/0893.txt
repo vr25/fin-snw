@@ -1,0 +1,16 @@
+TICKER_A: GOOGL
+TICKER_B: NVDA
+POST:
+Billionaire Elon Musk has purportedly told investors he plans to build a supercomputer dubbed a "gigafactory of compute" to support the development of his artificial intelligence startup xAI and power the next version of its AI chatbot Grok, according to an exclusive report of industry news outlet The Information on Saturday.
+Musk wants the supercomputer – which will string together 100,000 Nvidia chips – operational by fall 2025, and "will hold himself personally responsible for delivering it on time," The Information said.
+The report cited that xAI could partner with Oracle to develop the massive computer.
+The planned supercomputer would be "at least four times the size of the biggest GPU clusters that exist today," such as those used by Meta to train its AI models, Musk was quoted as saying during a presentation to investors this month.
+Nvidia's H100 family of powerful GPUs dominates the data center chip market for AI but can be hard to obtain due to the high demand.
+Earlier this year, Musk said training the Grok 2 model took about 20,000 Nvidia H100 GPUs, adding that the Grok 3 model and beyond will require 100,000 Nvidia H100 chips.
+Since OpenAI's generative AI tool ChatGPT exploded on the scene in 2022, the technology has been an area of fierce competition between tech giants Microsoft and Google, as well as Meta and startups like Anthropic and Stability AI.
+Musk is one of the world's few investors with deep enough pockets to compete with OpenAI, Google or Meta on AI.
+His startup xAI is developing a chatbot named Grok, which can access social media platform X, the former Twitter which is also owned by Musk, in real-time.
+The company could not be immediately reached by Reuters for comment. Oracle did not respond to a Reuters request for comment as well.
+Musk co-founded OpenAI in 2015 but left in 2018, later saying he was uncomfortable with the profit-driven direction the company was taking under the stewardship of CEO Sam Altman.
+He filed a lawsuit against the company in March, accusing it of breaking its original nonprofit mission to make AI research available to all.
+OpenAI argues that Musk's lawsuit, as well as his embrace of open-source development, is little more than a case of sour grapes after leaving the company.

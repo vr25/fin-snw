@@ -1,0 +1,9 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+Social media giant Meta Platforms has agreed to a hefty $1.4 billion settlement with the state of Texas to resolve a lawsuit alleging the company’s misuse of facial recognition technology. The settlement marks a significant victory for Texas in its battle to protect consumer privacy.
+The lawsuit, filed in 2022, accused Meta, the parent company of Facebook, of illegally collecting biometric data from millions of Texans without their explicit consent. This data was allegedly collected through a feature called “Tag Suggestions” which used facial recognition to identify people in photos. Texas’ biometric privacy law carries hefty penalties of up to $25,000 per violation, making it a potent tool for holding companies accountable for data misuse.
+While Meta has agreed to the substantial settlement, it maintains its innocence regarding the allegations. This case highlights the growing scrutiny faced by tech giants over their handling of user data.
+The settlement follows a similar $650 million payment made by Meta to resolve a class-action lawsuit in Illinois based on similar biometric privacy concerns. The tech industry as a whole is under increasing pressure to safeguard user data, with this case serving as a stark reminder of the potential consequences of privacy violations.
+Meanwhile, Google is also entangled in a legal battle with Texas over alleged violations of the state’s biometric privacy law. The growing number of lawsuits against tech companies underscores the importance of robust data protection regulations.
+With Reuters inputs

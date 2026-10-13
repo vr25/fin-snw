@@ -1,0 +1,45 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+TORONTO, ON / ACCESSWIRE / November 3, 2022 / ARway Corporation ("ARway" or the "Company") (CSNX:ARWY), an augmented reality no-code spatial computing platform and indoor wayfinding solution for the real world metaverse is pleased to announce that the Company has upgraded its Visual Positioning System (VPS) to incorporate the use of multiple QR codes enabling localization from multiple locations within a map. These updates are critical for the mass adoption of the company's AR wayfinding.
+Users can now access augmented reality wayfinding at a facility from multiple QR code access points. This enables deployment at scale at large multi-purpose facilities. Visitors have a ubiquitous experience in a facility across multiple floors and can orient and position themselves wherever they are by scanning the nearest ARway QR codes. This enhancement provides greater flexibility for property owners and brands to deploy wayfinding and Augmented Reality experiences across their venue further driving the rapid adoption and seamless movement and navigation of visitors using ARway.
+Visual Positioning System (VPS) - QR codes 
+ARway's proprietary VPS provides the following benefits and features:
+- Enhanced image tracking technology provides a meaningful visual marker for users to enter wayfinding and AR experiences.
+- QR codes are ubiquitous symbols in today's world and scanning one is synonymous with Augmented Reality activations.
+- The ARway system provides auto generated sets of QR codes to be deployed at locations.
+- Scanning an ARway QR code provides centimeter precise accuracy of persistent AR content including wayfinding destinations, spatial templates and more.
+- ARway's Visual Positioning System (VPS) strengthens ARway's hardware-free solution, and enhances the ease of implementation and visitor experience.
+With these upgrades ARway is positioned to make an impact on two markets: Indoor Navigation and Spatial Computing:
+According to research fom Technavio, "the global indoor positioning and indoor navigation (IPIN) market size will grow by USD 23.03 billion from 2020 to 2025, and the growth momentum of the market will accelerate at a CAGR of 33.21% during the forecast period." The market growth will be led by North America, as this region will account for 40% of the market's growth during the forecast period. This represents a substantial revenue opportunity for ARway as it aims on becoming the leading service provider for indoor navigation across all industries.
+Stock Options
+The Company has granted 2,730,000 stock options to directors, officers, employees and consultants of the Company. The Options vest over three years, at a price of CDN $0.91 per share, being the closing price of the last trading day prior to the date of grant. All Options were granted in accordance with the Company's 3-year stock option plan.
+Recent ARway News
+- Oct 27: Spin-Out of Nextech AR's Spatial Computing Platform, "ARway" is Now Complete
+- Oct 27: Investment Pitch Media: ARway Corp is one of the latest new listings on the Canadian Securities Exchange
+- Oct 25: Nextech AR's ARway Signs Deal For Kid Cudi Backed XR Music App, "Encore"
+- Oct 19: Nextech AR Announces Major Upgrades to Its Spatial Computing - Augmented Reality Navigation Platform "ARway"
+Spin-Out
+On October 26th, Nextech AR Solutions (OTC:NEXCF and CSE:NTAR) spun-out its spatial computing platform, ARway, as a stand-alone public Company. Nextech AR believes ARway (CSNX: ARWY) is the first publicly traded "pure play" spatial computing platform and retains a majority stake with 13 million shares.
+The Company has already begun the listing process for ARway to trade on the Frankfurt exchange and the OTC Market and expects trading on those exchanges within 60 days of its CSE debut.
+To learn more about ARway, please follow on Social Media: Twitter, YouTube, Instagram, LinkedIn, and Facebook, and visit our website: www.arway.ai
+For further information, please contact:
+Investor Relations
+Julia Viola
+Email: investor.relations@arway.ai
+Website: https://www.arway.ai/investors
+ARway Corporation
+Evan Gappelberg
+CEO and Director
+866-ARITIZE (274-8493)
+About ARway Corp
+ARway is a no-code no-BLE beacon spatial computing platform for the real-world Metaverse. It enables AR-enhanced indoor navigation and wayfinding solutions for large, multi-purpose venues enabled by marker-based tracking using QR codes. Visitors can access a venue map by scanning a QR code with their smartphone upon entering the venue to navigate to any Point of Interest (POI) with step by step directions, learn information about those POIs, and interact with rich AR content and experiences along the way. The Web-Based Creator Platform provides 'advanced' authoring capabilities including the ability for creators to upload their own OBJ/GLB files, and create their own 3D objects. Try the ARwayKit SDK for developers and or Mobile App. With the ARway mobile app, ARway provides several pre-loaded 3D objects which creators can leverage to populate their metaverse.
+Download the Mobile App
+Apple iOs - click here
+Google Play Store - click here
+Forward-looking Statements
+The CSE has not reviewed and does not accept responsibility for the adequacy or accuracy of this release.
+Certain information contained herein may constitute "forward-looking information" under Canadian securities legislation. Generally, forward-looking information can be identified by the use of forward-looking terminology such as, "will be" or variations of such words and phrases or statements that certain actions, events or results "will" occur. Forward-looking statements regarding the completion of the transaction are subject to known and unknown risks, uncertainties and other factors. There can be no assurance that such statements will prove to be accurate, as future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and forward-looking information. ARway Corp. will not update any forward-looking statements or forward-looking information that are incorporated by reference herein, except as required by applicable securities laws.
+SOURCE: ARway Corporation
+View source version on accesswire.com:
+https://www.accesswire.com/723636/ARway-Corp-Releases-Platform-Upgrades

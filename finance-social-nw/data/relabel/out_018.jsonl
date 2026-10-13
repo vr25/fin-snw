@@ -1,0 +1,20 @@
+{"id": "0360", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AGB Allgemeine Geschäftsbedingungen der Firma", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0361", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "An unhappy customer who left a", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0362", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Chipmakers like Advanced Micro Devices AMD", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0363", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Why Facebook is blocking news in", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0364", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Amazon.com Inc has reported sales growth", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0365", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Welcome to this month's issue of", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0366", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Welcome to this month's issue of", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0367", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "Welcome to this month's issue of", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0368", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Summary Google had asked for summary", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0369", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Welcome to BIG a newsletter on", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0370", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "AURORA Robin Niceta a former social", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0371", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Voice of America 09 Aug 2023", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0372", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Oil rose more than 1 after", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0373", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Is Your Nampa Neighbor Committing A", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0374", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Be advised that this story contains", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0375", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "China's surveillance cameras with 'Skin Color", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0376", "ticker_a": "META", "ticker_b": "MSFT", "first_words": "The Standard's journalism is supported by", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "0377", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Ben Bowman is having a breakthrough", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "0378", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Competition Bureau action against Meta would", "relation": "co-hype", "sentiment_alignment": 1}
+{"id": "0379", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Go directly to the source to", "relation": "co-hype", "sentiment_alignment": 0}

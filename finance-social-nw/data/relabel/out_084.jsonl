@@ -1,0 +1,20 @@
+{"id": "1680", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Chip giant Broadcom laid off", "relation": "substitute-comparison", "sentiment_alignment": 0.5}
+{"id": "1681", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "Chip giant Broadcom laid off", "relation": "co-hype", "sentiment_alignment": 0.3}
+{"id": "1682", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Nine stocks from the United States", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1683", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Singapore, October 21: MMA Global", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1684", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "What to know about the", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1685", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MATT O'BRIEN and MICHAEL", "relation": "substitute-comparison", "sentiment_alignment": -0.6}
+{"id": "1686", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "Microsoft has had a great", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1687", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "BEIJING (Reuters) -Alibaba launched a", "relation": "co-hype", "sentiment_alignment": 0.5}
+{"id": "1688", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Microsoft AI CEO Mustafa Suleyman", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1689", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "The inaugural session of the", "relation": "unrelated-mention", "sentiment_alignment": 0}
+{"id": "1690", "ticker_a": "GOOGL", "ticker_b": "META", "first_words": "Reliance Industries has formalised its", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1691", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "Cooler-than-expected inflation data and upbeat", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1692", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "SoftBank Doubles Down on Artificial", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1693", "ticker_a": "AVGO", "ticker_b": "NVDA", "first_words": "Canada's main stock index opened", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1694", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "By MICHELLE CHAPMAN, AP Business", "relation": "co-hype", "sentiment_alignment": 0}
+{"id": "1695", "ticker_a": "GOOGL", "ticker_b": "MSFT", "first_words": "On Tuesday (October 28), Apple", "relation": "co-hype", "sentiment_alignment": 0.8}
+{"id": "1696", "ticker_a": "GOOGL", "ticker_b": "NVDA", "first_words": "On Tuesday (October 28), Apple", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1697", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "On Tuesday (October 28), Apple", "relation": "co-hype", "sentiment_alignment": 0.9}
+{"id": "1698", "ticker_a": "MSFT", "ticker_b": "NVDA", "first_words": "OpenAI said Tuesday it has", "relation": "co-hype", "sentiment_alignment": 0.7}
+{"id": "1699", "ticker_a": "NVDA", "ticker_b": "SMCI", "first_words": "San Jose (California) / Washington", "relation": "causal-driver", "sentiment_alignment": 0.9}

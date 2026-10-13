@@ -1,0 +1,35 @@
+TICKER_A: GOOGL
+TICKER_B: META
+POST:
+(Bloomberg/Felice Maranz) — The unprecedented level of concentration in a handful of tech stocks provokes strong feelings on Wall Street.
+Some investors fear the top-heaviness means the bull run is on quicksand and will sink the minute an AI-frenzy-fueled Nvidia Corp. or Microsoft Corp. stumbles. The dominance also leads to portfolio risks, with diversification suffering. For others, the worries are overblown, gains have historically been powered by a small group of megacaps, and this is simply tech’s latest time to shine.
+The debate is becoming more urgent as Nividia, Microsoft, Apple Inc., Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. account for more than 30% of the benchmark index, more than three times their weighting from a decade ago. Through Friday’s close, gains for Nividia, Microsoft and Meta alone account for about 270 points of the S&P 500’s 579-point advance in 2025, or nearly half of this year’s 9.8% rally. Bloomberg’s Magnificent 7 index, an equal-weighted gauge of the stocks, dropped 1.2% Tuesday.
+For Scott Chronert, Citi Research’s managing director, the concentration is a badge of honor, well-deserved for a group that continues to deliver unparalleled growth in sales and earnings. The five biggest — Nvidia, Microsoft, Apple, Alphabet and Amazon — increased profits by 26% in the second quarter, compared with estimates for 15%, according to data compiled by Bloomberg Intelligence. The S&P 500 as a whole saw earnings rise by 11% from a year ago.
+The biggest tech companies have “earned” their weightings as a function of growth metrics, Chronert said. To him, valuations aren’t stretched based on the profit forecasts that they have consistently been able to meet. On a price/earnings to growth basis, no cause for alarm exists, he said.
+“The PEG ratio for the Mag 7 is not materially different than for the rest of the market,” Chronert said. Valuation isn’t an issue, he adds, “so long as earnings growth expectations are met or beat” — a bar he conceded could be getting harder to surpass as targets swell.
+Still, there are reasons why the tech megacap domination is likely to persist without incident. They generate vast amount of cash in good economic times and bad, making them growth and defensive plays at the same time. They also stand to get outsize benefits from recent Trump administration policy changes, including carve outs from some of the more punitive trade policies.
+Even with ample cause to expect the cohort to continue to dominate the market, their outsize weighting in the S&P 500 leaves investors with a potentially uncomfortable concentration in their portfolios. Nvidia by itself is nearly 8% of the index.
+“Page one in your finance textbook says that you should diversify your investments, and the reality is today that you are not diversified if you are invested in the S&P 500,” Apollo Chief Economist Torsten Slok said. Nvidia has the biggest weight of any individual stock since data began in 1981, according to Slok.
+It’s a risk that hedge funds have been taking steps to avoid, according to a Morgan Stanley analysis of 13F filings after the second quarter. Among institutional investors, Nvidia was the most under-owned large cap technology stock relative to its index weighting, the firm said, by 2.41 percentage points. Microsoft was under-owned by 2.39 percentage points and Apple at 1.66, the data showed. The five biggest came in at the widest discrepancy to the index weighting in at least 16 years.
+Emily Roland, co-chief investment strategist at John Hancock Investments, says she has a “love-hate relationship” with the market concentration.
+“It is made up of very high-quality companies with little resemblance to 2000 (they have strong earnings growth and balance sheets), but we recognize having a few stocks represent of the largest asset classes (U.S. equities) in a portfolio is placing way too many eggs in one basket,” she said.
+Roland suggests looking at US mid-cap stocks as a “compliment,” as they “offer cheaper valuations, sector diversification, and have exposure to the capex industrial boom that is happening across the country.”
+History offers some guidance for how difficult it can be to assess the market in times of tight concentration. Take Apple. It held the crown of the world’s most valuable company for much of the past decade, climbing more than 1,600% from the end of 2011 through the end of 2024. Not owning it, or being underweight would have left an investor trailing most benchmarks.
+Then there are the instances when market dominance turned into a wipeout, most obviously during the dot-com meltdown, but also in the 1960s and 1970s, reminds Steve Sosnick, chief strategist at Interactive Brokers.
+He recalls the “Nifty 50” or “One Decision” stocks — “a sainted few that you could safely buy and hold forever,” he said. “Those included bulletproof names like Kodak, Polaroid, Kresge (KMart), JC Penney — all veterans of bankruptcy court years later.”
+Analysis by Furey Research Partners found peaks in the weightings of the top-five companies were associated with future market “leadership changes,” indicating investors may be in store for more rotation, potentially toward lagging small cap stocks.
+“The lesson is that technology marches on. IBM was one of those stocks, and while it is around all-time highs, it has long been surpassed by the current tech winners. Intel was THE semiconductor stock, while PCs with AMD chips were considered budget alternatives. Look at them now,” Sosnick said.
+Tech Chart of the Day
+The Nasdaq 100 Index rallied for a fifth consecutive month in August. This is the tech-heavy benchmark’s longest winning streak since March 2024. The market is bracing for what is known as the weakest month for US shares, as institutional investors rebalance, retail traders slow their buying and volatility picks up.
+Top Tech Stories
+- Tesla Inc.’s long-awaited entry into India has delivered underwhelming results so far, with tepid bookings fueling fresh doubts about the company’s global growth outlook.
+- Chinese chipmakers are trading at a four-year high versus their US peers, but a top fund manager still sees pockets of opportunity among their equipment suppliers.
+- Amazon has formally launched cloud services in New Zealand and dusted off a plan first announced in 2021 to invest more than NZ$7.5 billion ($4.4 billion) in data centers in the South Pacific nation.
+- China’s automakers are readying a new crop of hybrid and all-electric vehicles for Europe, using next week’s Munich auto show to kick off the next phase of their expansion in the region.
+Earnings Due Tuesday
+- Postmarket
+  - Zscaler
+–With assistance from Matt Turner, Subrat Patnaik, David Watkins and Brandon Harden.
+(Updates with Magnificent 7 index move in paragraph three.)
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.

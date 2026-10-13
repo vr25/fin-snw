@@ -1,0 +1,14 @@
+TICKER_A: META
+TICKER_B: MSFT
+POST:
+Microsoft announced it has created a new AI division, CoreAI, led by former Facebook global head of engineering Jay Parikh.
+Parikh joined Microsoft in October 2024, with CEO Satya Nadella making clear at the time that Parikh was being tapped to assist with the company’s AI initiatives.
+When I look to the next phase of Microsoft, both in terms of our scale and our massive opportunity ahead, itâs clear that we need to continue adding exceptional talent at every level of the organization to increase our depth and capability across our business priorities â spanning security, quality, and AI innovation.
+In its latest blog post, Microsoft says the new division will focus on AI agents.
+We will build agentic applications with memory, entitlements, and action space that will inherit powerful model capabilities. And we will adapt these capabilities for enhanced performance and safety across roles, business processes, and industry domains. Further, how we build, deploy, and maintain code for these AI applications is also fundamentally changing and becoming agentic.
+This is leading to a new AI-first app stack â one with new UI/UX patterns, runtimes to build with agents, orchestrate multiple agents, and a reimagined management and observability layer. In this world, Azure must become the infrastructure for AI, while we build our AI platform and developer tools â spanning Azure AI Foundry, GitHub, and VS Code â on top of it. In other words, our AI platform and tools will come together to create agents, and these agents will come together to change every SaaS application category, and building custom applications will be driven by software (i.e. âservice as softwareâ).
+Parikh will lead the new team as Executive Vice President.
+This new division will bring together Dev Div, AI Platform, and some key teams from the Office of the CTO (AI Supercomputer, AI Agentic Runtimes, and Engineering Thrive), with the mission to build the end-to-end Copilot & AI stack for both our first-party and third-party customers to build and run AI apps and agents. This group will also build out GitHub Copilot, thus having a tight feedback loop between the leading AI-first product and the AI platform to motivate the stack and its roadmap.
+Jay Parikh will lead this group as EVP of CoreAI â Platform and Tools, with Eric Boyd, Jason Taylor, Julia Liuson, Tim Bozarth, and their respective teams reporting to Jay.
+Jay will work closely with Scott, Rajesh, Charlie, Mustafa, and Kevin to optimize our entire tech stack for both performance and efficiency. Additionally, Jay and team will lead our progress and work around developer productivity and Engineering Thrive across the company.
+Microsoft is already one of the leaders in the burgeoning AI industry, and the company’s new division underscores its efforts to continuing innovating in the field.
